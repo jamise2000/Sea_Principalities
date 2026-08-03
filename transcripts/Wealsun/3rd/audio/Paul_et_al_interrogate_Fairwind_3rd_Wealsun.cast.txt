@@ -1,0 +1,9 @@
+# Cast for Paul_et_al_interrogate_Fairwind_3rd_Wealsun
+# Expected voices: 7
+DM
+Paul
+Merrick
+Gouge
+Tyrus
+Folsom
+Jude

@@ -1,0 +1,1372 @@
+1
+00:00:01,512 --> 00:00:11,202
+[SPEAKER_01]: Paul Rivero going through the letters of Grayson to his mother, Lady Elyria, after he's done his adventure.
+
+2
+00:00:12,523 --> 00:00:23,693
+[SPEAKER_01]: This is the day after he snuck into the secret laboratory between the Royal Palace and what he knows to be Lord Jamis' residence.
+
+3
+00:00:26,295 --> 00:00:35,139
+[SPEAKER_00]: Okay, so right here in this, it talks about the, there's like a transmutation school.
+
+4
+00:00:35,799 --> 00:00:37,080
+[SPEAKER_00]: Do I know where this place is?
+
+5
+00:00:37,200 --> 00:00:42,182
+[SPEAKER_00]: It's the Alchemy Caves.
+
+6
+00:00:42,662 --> 00:00:45,964
+[SPEAKER_01]: You've never heard of the Alchemy Caves, right?
+
+7
+00:00:47,004 --> 00:00:50,886
+[SPEAKER_01]: What is your skill with Arcanum?
+
+8
+00:00:54,826 --> 00:00:55,066
+[SPEAKER_01]: Three.
+
+9
+00:00:55,667 --> 00:00:56,328
+[SPEAKER_01]: Three, okay.
+
+10
+00:00:56,648 --> 00:01:03,576
+[SPEAKER_01]: So I want you to take a 20-sided die and roll your...
+
+11
+00:01:03,956 --> 00:01:05,337
+[SPEAKER_01]: It should be an arcana.
+
+12
+00:01:05,398 --> 00:01:06,439
+[SPEAKER_00]: Intelligence is three.
+
+13
+00:01:07,059 --> 00:01:08,281
+[SPEAKER_01]: I don't have an arcana.
+
+14
+00:01:08,321 --> 00:01:09,642
+[SPEAKER_01]: You don't have any skill set yet.
+
+15
+00:01:09,662 --> 00:01:11,324
+[SPEAKER_01]: Okay, that's perfect.
+
+16
+00:01:11,344 --> 00:01:14,187
+[SPEAKER_01]: So roll, and this is a DC 10 roll.
+
+17
+00:01:14,287 --> 00:01:15,729
+[SPEAKER_01]: So if you roll a seven, you'll know.
+
+18
+00:01:17,827 --> 00:01:28,334
+[SPEAKER_01]: Okay, so there is a country called Keoland, and I think that this is in your histories of the sea principalities which I've given you.
+
+19
+00:01:30,516 --> 00:01:38,161
+[SPEAKER_01]: And the country of Keoland has been in conflict with the sea principalities for some time, right?
+
+20
+00:01:38,281 --> 00:01:40,383
+[SPEAKER_01]: At least over the last, I would say,
+
+21
+00:01:43,438 --> 00:01:49,604
+[SPEAKER_01]: For 80 years, there's been friction between the two of them.
+
+22
+00:01:52,206 --> 00:01:54,188
+[SPEAKER_01]: Keoland is a really big empire.
+
+23
+00:01:54,708 --> 00:02:02,635
+[SPEAKER_01]: It's made up of a lot of different dukedoms and kingdoms and so on.
+
+24
+00:02:02,795 --> 00:02:06,939
+[SPEAKER_01]: Militarily, they are far superior on the land.
+
+25
+00:02:07,770 --> 00:02:09,190
+[SPEAKER_01]: Than the Sea Principalities are.
+
+26
+00:02:09,610 --> 00:02:16,351
+[SPEAKER_01]: However, the Sea Principalities have been able to maintain their independence from them because their navy is so great.
+
+27
+00:02:17,212 --> 00:02:27,753
+[SPEAKER_01]: And the Sea Principalities is isolated from Keoland by the Ajerci, which is here.
+
+28
+00:02:28,254 --> 00:02:32,794
+[SPEAKER_01]: Here's Monmurg, here's Keoland, and it's huge up here, right?
+
+29
+00:02:33,554 --> 00:02:36,435
+[SPEAKER_01]: And then a big river called the Houle River and Great Swamps.
+
+30
+00:02:37,989 --> 00:02:42,619
+[SPEAKER_01]: So Keoland, the only way Keoland can really get to the sea principalities is through the sea.
+
+31
+00:02:43,472 --> 00:02:49,993
+[SPEAKER_01]: And that is impossible because the navy of the sea principalities is far superior to anything the Kiowish have.
+
+32
+00:02:51,434 --> 00:03:03,536
+[SPEAKER_01]: I'd say the biggest rival of the sea principalities is this dukedom in Keoland called the Duchy of Gradsul.
+
+33
+00:03:04,396 --> 00:03:07,917
+[SPEAKER_01]: And the Duke of Gradsul has a pretty big navy himself.
+
+34
+00:03:08,837 --> 00:03:15,200
+[SPEAKER_01]: I would say it's probably about half to two-thirds as big as what the sea principalities have.
+
+35
+00:03:15,940 --> 00:03:19,381
+[SPEAKER_01]: And the sailors are not nearly as good, right?
+
+36
+00:03:21,649 --> 00:03:33,079
+[SPEAKER_01]: Whatever the case, however, the Duke of Gradsul, in history, the line of the dukes have always kind of had an animosity towards the sea principalities for various reasons.
+
+37
+00:03:34,800 --> 00:03:48,752
+[SPEAKER_01]: In fact, you know that historically back in probably, I would say, more than a hundred years ago, one of their kings, Tavish III, tried to attack the sea principalities and attack this
+
+38
+00:03:50,560 --> 00:03:54,362
+[SPEAKER_01]: A fortification called West Keep, which is out towards the west.
+
+39
+00:03:55,422 --> 00:03:59,344
+[SPEAKER_01]: And within 15 minutes of the initial assault, he died.
+
+40
+00:03:59,605 --> 00:04:07,128
+[SPEAKER_01]: And so they have a real hatred of what the Sea Principalities has become over the years.
+
+41
+00:04:08,149 --> 00:04:12,151
+[SPEAKER_01]: In Gradsul, there is a magical academy
+
+42
+00:04:15,580 --> 00:04:17,961
+[SPEAKER_01]: Called the Academy of Magics.
+
+43
+00:04:18,661 --> 00:04:23,722
+[SPEAKER_01]: And there's a college in that academy called the Transmutation School.
+
+44
+00:04:23,742 --> 00:04:33,444
+[SPEAKER_01]: So in this letter basically this guy Grayson was going to school in the Transmutation School.
+
+45
+00:04:33,764 --> 00:04:35,825
+[SPEAKER_01]: Some way he got into that school.
+
+46
+00:04:37,786 --> 00:04:39,489
+[SPEAKER_01]: Now, I'm gonna say this.
+
+47
+00:04:40,390 --> 00:04:44,476
+[SPEAKER_01]: You gotta understand that there are rivalries between nations, right?
+
+48
+00:04:44,856 --> 00:04:47,640
+[SPEAKER_01]: But there is still some diplomatic goings on.
+
+49
+00:04:47,740 --> 00:04:50,204
+[SPEAKER_00]: Do they let, like, travelers through?
+
+50
+00:04:51,487 --> 00:04:52,647
+[SPEAKER_00]: To the school of the academy?
+
+51
+00:04:52,707 --> 00:04:52,948
+[SPEAKER_00]: Yeah.
+
+52
+00:04:53,088 --> 00:05:08,833
+[SPEAKER_01]: Well, from what you understand, the magical academy in grad school is pretty accepting of all types of peoples, but they kind of focus on the upper class.
+
+53
+00:05:10,655 --> 00:05:21,912
+[SPEAKER_01]: In the Duchy of Gradsul, which are sons and daughters of the Suel nobles that live in that duchy and country.
+
+54
+00:05:22,372 --> 00:05:23,234
+[SPEAKER_01]: The Duke of Gradsul
+
+55
+00:05:24,667 --> 00:05:26,468
+[SPEAKER_01]: is a very powerful person.
+
+56
+00:05:26,548 --> 00:05:43,558
+[SPEAKER_01]: Right now he is not the king of Keoland, but his sires, you know, the people that came before him, his ancestors, have been kings of Keoland, and in fact Tavish III was one of the Rola kings.
+
+57
+00:05:43,718 --> 00:05:46,920
+[SPEAKER_01]: The Duke of Gradsall had risen to the throne at that point.
+
+58
+00:05:47,180 --> 00:05:50,842
+[SPEAKER_01]: Keoland has a really weird thing where they have a ruler
+
+59
+00:05:51,362 --> 00:05:53,903
+[SPEAKER_01]: Called the King of Keoland, but it's not hereditary.
+
+60
+00:05:53,943 --> 00:05:57,625
+[SPEAKER_01]: It's basically elected by the people, right?
+
+61
+00:05:57,745 --> 00:05:58,946
+[SPEAKER_01]: But once you're king, you're king.
+
+62
+00:05:59,546 --> 00:05:59,766
+[SPEAKER_00]: Yeah.
+
+63
+00:06:00,466 --> 00:06:00,686
+[SPEAKER_00]: Yeah.
+
+64
+00:06:01,467 --> 00:06:02,667
+[SPEAKER_00]: Okay, um...
+
+65
+00:06:11,512 --> 00:06:12,952
+[SPEAKER_00]: I don't have many other questions.
+
+66
+00:06:13,753 --> 00:06:14,073
+[SPEAKER_00]: I mean...
+
+67
+00:06:16,074 --> 00:06:17,434
+[SPEAKER_00]: So wait, the...
+
+68
+00:06:17,454 --> 00:06:18,655
+[SPEAKER_00]: I do have the, um...
+
+69
+00:06:19,559 --> 00:06:22,501
+[SPEAKER_00]: The yellowish powder that is spoken of.
+
+70
+00:06:22,521 --> 00:06:28,425
+[SPEAKER_00]: That's basically, from what I understand, it's used for transmutation, is that right?
+
+71
+00:06:29,625 --> 00:06:30,946
+[SPEAKER_00]: That's what it says in the first part.
+
+72
+00:06:33,068 --> 00:06:33,368
+[SPEAKER_00]: I think.
+
+73
+00:06:37,630 --> 00:06:44,475
+[SPEAKER_01]: Well, the statement in the letter is, I have been working tirelessly on recreating the pale yellow powder.
+
+74
+00:06:45,559 --> 00:06:49,902
+[SPEAKER_01]: The very weapon that once turned the tides against the sahaugin.
+
+75
+00:06:51,863 --> 00:06:59,788
+[SPEAKER_01]: Its potential is immense and I am driven by the hope that it will secure peace and prosperity for our beloved principalities.
+
+76
+00:06:59,808 --> 00:07:04,712
+[SPEAKER_01]: So transmutation is a school of magic that basically takes matter and turns it into something else.
+
+77
+00:07:05,823 --> 00:07:14,706
+[SPEAKER_01]: Alchemy is part of that as well, but it seems like the yellowish powder was used against the sahaugin.
+
+78
+00:07:15,046 --> 00:07:24,849
+[SPEAKER_01]: Now, the sahaugin are a race of sharkmen that have threatened the sea principalities in the past.
+
+79
+00:07:24,869 --> 00:07:31,312
+[SPEAKER_01]: In fact, you know that there was a war a long time ago that was fought between the sea principalities and
+
+80
+00:07:32,826 --> 00:07:35,187
+[SPEAKER_01]: The sahaugin.
+
+81
+00:07:35,687 --> 00:07:36,008
+[SPEAKER_01]: Okay.
+
+82
+00:07:39,990 --> 00:07:42,551
+[SPEAKER_00]: Does it mention what this weapon does besides...?
+
+83
+00:07:42,571 --> 00:07:48,094
+[SPEAKER_00]: Because I didn't see it mention anything, so I'm curious.
+
+84
+00:07:52,396 --> 00:08:01,040
+[SPEAKER_01]: Well, so, interestingly, in Grayson's letter, it doesn't mention exactly what this thing does.
+
+85
+00:08:02,095 --> 00:08:11,743
+[SPEAKER_01]: However, from his description of it, he basically says it's something that will keep your people safe from any sahaugin threat, right?
+
+86
+00:08:13,564 --> 00:08:13,924
+[SPEAKER_01]: Yeah.
+
+87
+00:08:14,845 --> 00:08:15,105
+[SPEAKER_01]: Okay.
+
+88
+00:08:15,406 --> 00:08:20,570
+[SPEAKER_01]: Now, what's interesting is in the first letter...
+
+89
+00:08:22,207 --> 00:08:23,908
+[SPEAKER_01]: He mentions this guy Archibald.
+
+90
+00:08:24,588 --> 00:08:25,328
+[SPEAKER_01]: Yeah, I don't...
+
+91
+00:08:25,869 --> 00:08:30,251
+[SPEAKER_00]: He's mentioned two or three times throughout the span of these four letters.
+
+92
+00:08:31,351 --> 00:08:33,132
+[SPEAKER_00]: What is his relation to...?
+
+93
+00:08:34,052 --> 00:08:39,375
+[SPEAKER_01]: You have never heard his name uttered by your mother or anybody in the royal court.
+
+94
+00:08:41,556 --> 00:08:41,956
+[SPEAKER_00]: Interesting.
+
+95
+00:08:45,617 --> 00:08:51,320
+[SPEAKER_00]: I also know that my uncle is apparently mentioned in here, Zafar, or my mom's uncle.
+
+96
+00:08:53,872 --> 00:08:58,415
+[SPEAKER_00]: I don't want you to do an arcana check, I want you to do a...
+
+97
+00:09:26,983 --> 00:09:31,804
+[SPEAKER_01]: I want you to do a history check.
+
+98
+00:09:31,944 --> 00:09:34,804
+[SPEAKER_00]: History is... Plus three on intelligence.
+
+99
+00:09:37,185 --> 00:09:37,865
+[SPEAKER_00]: Okay.
+
+100
+00:09:40,265 --> 00:09:49,147
+[SPEAKER_01]: The name Zafar, Azane, has been used with you in the past.
+
+101
+00:09:49,527 --> 00:09:53,088
+[SPEAKER_01]: In fact, you've heard the name talked about in your
+
+102
+00:09:57,044 --> 00:10:02,653
+[SPEAKER_01]: Your uncle's council before.
+
+103
+00:10:05,478 --> 00:10:08,263
+[SPEAKER_01]: And basically you remember Lord Jamis.
+
+104
+00:10:08,283 --> 00:10:09,505
+[SPEAKER_01]: Do you remember who Lord Jamis is?
+
+105
+00:10:11,219 --> 00:10:12,220
+[SPEAKER_01]: Yeah, I think so.
+
+106
+00:10:12,780 --> 00:10:18,265
+[SPEAKER_01]: Lord Jamis is kind of your uncle's security, head of security.
+
+107
+00:10:18,365 --> 00:10:25,491
+[SPEAKER_01]: He's the guy that was, is going to be, you know, that your uncle was saying, hey, he's my spy master, he's also my admiral.
+
+108
+00:10:25,531 --> 00:10:27,293
+[SPEAKER_01]: That's right, he was, yeah, okay.
+
+109
+00:10:27,573 --> 00:10:39,083
+[SPEAKER_01]: So, Lord Jamis mentioned him, and Zafar was stated to be
+
+110
+00:10:42,165 --> 00:10:45,407
+[SPEAKER_01]: Lord Jamis' wife's brother.
+
+111
+00:10:51,770 --> 00:10:52,350
+[SPEAKER_00]: What?
+
+112
+00:10:53,131 --> 00:10:53,391
+[SPEAKER_00]: Yeah.
+
+113
+00:10:55,612 --> 00:10:57,833
+[SPEAKER_00]: I'm trying to wrap my mind around how that works.
+
+114
+00:10:59,274 --> 00:11:07,058
+[SPEAKER_01]: So, here's Lord Jamis, who is your uncle's man.
+
+115
+00:11:08,102 --> 00:11:12,283
+[SPEAKER_01]: Basically an admiral and a very powerful lord, right?
+
+116
+00:11:13,263 --> 00:11:17,144
+[SPEAKER_00]: And then Jamis is married to this woman called Lady Jamis.
+
+117
+00:11:19,345 --> 00:11:19,725
+[SPEAKER_01]: Okay.
+
+118
+00:11:19,925 --> 00:11:22,906
+[SPEAKER_00]: And she has a brother named Zafar.
+
+119
+00:11:25,187 --> 00:11:29,428
+[SPEAKER_00]: But Zafar is my mom's uncle.
+
+120
+00:11:30,148 --> 00:11:31,128
+[SPEAKER_00]: No, is that correct?
+
+121
+00:11:31,408 --> 00:11:36,250
+[SPEAKER_00]: Yeah, it says... Or no, Grayson's uncle, sorry.
+
+122
+00:11:39,202 --> 00:11:39,942
+[SPEAKER_00]: Wait, what?
+
+123
+00:11:40,382 --> 00:11:42,383
+[SPEAKER_01]: Wait, that's, wait, wait, whoa, whoa, whoa.
+
+124
+00:11:49,866 --> 00:11:53,107
+[SPEAKER_00]: Grayson, Larry, wait.
+
+125
+00:11:54,367 --> 00:11:54,808
+[SPEAKER_00]: Okay.
+
+126
+00:11:56,348 --> 00:11:57,489
+[SPEAKER_00]: I guess I understand that.
+
+127
+00:11:58,989 --> 00:11:59,949
+[SPEAKER_00]: What do you understand?
+
+128
+00:12:00,210 --> 00:12:00,870
+[SPEAKER_00]: I don't know.
+
+129
+00:12:02,540 --> 00:12:08,444
+[SPEAKER_00]: I'm just trying to understand if there's some sort of weird inbreeding going on or something.
+
+130
+00:12:08,604 --> 00:12:09,024
+[SPEAKER_00]: I don't know.
+
+131
+00:12:09,684 --> 00:12:11,506
+[SPEAKER_00]: I'm trying to wrap my mind around this because this is...
+
+132
+00:12:14,848 --> 00:12:15,628
+[SPEAKER_00]: It's far.
+
+133
+00:12:16,048 --> 00:12:16,649
+[SPEAKER_00]: Grayson.
+
+134
+00:12:16,789 --> 00:12:17,249
+[SPEAKER_00]: Grayson.
+
+135
+00:12:17,369 --> 00:12:17,910
+[SPEAKER_00]: Elaria.
+
+136
+00:12:18,030 --> 00:12:19,210
+[SPEAKER_01]: Elaria, too.
+
+137
+00:12:19,851 --> 00:12:21,492
+[SPEAKER_01]: Elaria is your brother's sister.
+
+138
+00:12:21,512 --> 00:12:22,993
+[SPEAKER_01]: Elaria.
+
+139
+00:12:23,173 --> 00:12:24,634
+[SPEAKER_01]: Yeah.
+
+140
+00:12:24,654 --> 00:12:29,817
+[SPEAKER_01]: And you are the son, this is Paul Rivero, of Elaria.
+
+141
+00:12:31,993 --> 00:12:32,273
+[SPEAKER_01]: Right?
+
+142
+00:12:32,513 --> 00:12:32,914
+[SPEAKER_00]: Okay.
+
+143
+00:12:34,375 --> 00:12:38,517
+[SPEAKER_01]: And let's say this is Grayson.
+
+144
+00:12:41,859 --> 00:12:42,960
+[SPEAKER_01]: Right?
+
+145
+00:12:42,980 --> 00:12:46,562
+[SPEAKER_01]: So let's say that you come from both Grayson and Elaria.
+
+146
+00:12:47,263 --> 00:12:47,463
+[SPEAKER_00]: Yeah.
+
+147
+00:12:49,684 --> 00:12:50,705
+[SPEAKER_01]: Who's Grayson's uncle?
+
+148
+00:12:52,066 --> 00:12:52,506
+[SPEAKER_01]: Zafar.
+
+149
+00:12:52,866 --> 00:12:53,226
+[SPEAKER_01]: Okay.
+
+150
+00:12:54,107 --> 00:12:55,268
+[SPEAKER_01]: So we'll dash line that.
+
+151
+00:12:56,549 --> 00:12:57,129
+[SPEAKER_01]: What does that mean?
+
+152
+00:12:57,289 --> 00:12:58,610
+[SPEAKER_01]: That means that's a big circle.
+
+153
+00:13:00,468 --> 00:13:01,408
+[SPEAKER_01]: Well, not really.
+
+154
+00:13:02,309 --> 00:13:07,131
+[SPEAKER_01]: Okay, then I'm... Well, who is...
+
+155
+00:13:07,751 --> 00:13:09,752
+[SPEAKER_01]: So Grayson's uncle is Zafar.
+
+156
+00:13:10,452 --> 00:13:10,652
+[SPEAKER_00]: Yeah.
+
+157
+00:13:11,013 --> 00:13:12,453
+[SPEAKER_00]: Who is Zafar's sister?
+
+158
+00:13:15,214 --> 00:13:15,635
+[SPEAKER_00]: In-law?
+
+159
+00:13:16,855 --> 00:13:17,495
+[SPEAKER_00]: Or who?
+
+160
+00:13:17,515 --> 00:13:17,996
+[SPEAKER_00]: Just sister.
+
+161
+00:13:18,116 --> 00:13:21,077
+[SPEAKER_00]: Oh, Ward... or Miss Jamis.
+
+162
+00:13:21,997 --> 00:13:22,678
+[SPEAKER_00]: Lady Jamis.
+
+163
+00:13:22,698 --> 00:13:23,398
+[SPEAKER_00]: Lady Jamis.
+
+164
+00:13:24,338 --> 00:13:25,379
+[SPEAKER_00]: So what does that make Grayson?
+
+165
+00:13:34,040 --> 00:13:38,622
+[SPEAKER_01]: That makes Grayson the son of Jamis and Lady Jamis.
+
+166
+00:13:40,163 --> 00:13:41,644
+[SPEAKER_01]: So I'm related to them.
+
+167
+00:13:44,766 --> 00:13:49,188
+[SPEAKER_01]: You're their great-grandson.
+
+168
+00:13:49,269 --> 00:13:49,729
+[SPEAKER_01]: Grandson?
+
+169
+00:13:49,949 --> 00:13:51,530
+[SPEAKER_01]: You are directly their grandson.
+
+170
+00:13:52,590 --> 00:14:00,415
+[SPEAKER_01]: If Grayson, there's not some other sibling, like let's say Lady Jamis had another brother who's unknown.
+
+171
+00:14:01,580 --> 00:14:11,425
+[SPEAKER_01]: You could be either a grandson or a second cousin to Lady and Lord Jamis, but this is a mystery to you.
+
+172
+00:14:14,027 --> 00:14:14,827
+[SPEAKER_01]: And who's this?
+
+173
+00:14:15,727 --> 00:14:16,648
+[SPEAKER_01]: That's Jeon.
+
+174
+00:14:16,748 --> 00:14:17,508
+[SPEAKER_01]: That's your uncle.
+
+175
+00:14:20,710 --> 00:14:23,111
+[SPEAKER_01]: That's the guy that is the brother of your mother.
+
+176
+00:14:25,928 --> 00:14:26,729
+[SPEAKER_00]: How's he related?
+
+177
+00:14:26,929 --> 00:14:27,689
+[SPEAKER_01]: He's not.
+
+178
+00:14:27,709 --> 00:14:31,952
+[SPEAKER_01]: So the thing is, you're not... Lord Jamis does what Jeon says.
+
+179
+00:14:32,132 --> 00:14:35,114
+[SPEAKER_01]: Lord Jamis is a servant of Lord Jeon.
+
+180
+00:14:35,154 --> 00:14:36,175
+[SPEAKER_00]: Okay, interesting.
+
+181
+00:14:36,295 --> 00:14:37,296
+[SPEAKER_00]: That's very...
+
+182
+00:14:41,318 --> 00:14:42,319
+[SPEAKER_00]: So they know Grayson.
+
+183
+00:14:43,159 --> 00:14:43,740
+[SPEAKER_01]: Or they knew...
+
+184
+00:14:43,780 --> 00:14:44,620
+[SPEAKER_00]: They should at least.
+
+185
+00:14:44,760 --> 00:14:45,441
+[SPEAKER_01]: They knew of him.
+
+186
+00:14:46,581 --> 00:14:54,907
+[SPEAKER_01]: And another thing that's interesting about this is that the bedchambers that you're currently staying in, which your mother stayed in...
+
+187
+00:14:56,612 --> 00:15:10,799
+[SPEAKER_01]: Lead to a secret place that was closed up a long time ago that connects both the Jamis household and the royal palace to one another.
+
+188
+00:15:14,981 --> 00:15:15,482
+[SPEAKER_00]: That's right.
+
+189
+00:15:15,942 --> 00:15:16,182
+[SPEAKER_00]: Okay.
+
+190
+00:15:20,664 --> 00:15:23,906
+[SPEAKER_00]: All right, that answers that, I guess.
+
+191
+00:15:40,608 --> 00:15:47,030
+[SPEAKER_00]: The second letter just confirms that Grace is my father, from what I understand.
+
+192
+00:15:50,791 --> 00:15:57,693
+[SPEAKER_00]: But the third letter is... What's magnum opus?
+
+193
+00:16:00,673 --> 00:16:02,414
+[SPEAKER_01]: Everybody knows what the magnum opus is.
+
+194
+00:16:04,114 --> 00:16:05,875
+[SPEAKER_01]: It's actually... it was a... it's a...
+
+195
+00:16:07,163 --> 00:16:13,324
+[SPEAKER_01]: A magical tome that was created by this guy named Ujor Udias about a thousand years ago.
+
+196
+00:16:14,825 --> 00:16:24,067
+[SPEAKER_01]: And Ujor Udias was one of the first Suel transmuters that was born in the Flaness after the fall of the Twin Cataclysms.
+
+197
+00:16:24,087 --> 00:16:25,227
+[SPEAKER_01]: He's very famous.
+
+198
+00:16:26,147 --> 00:16:28,348
+[SPEAKER_01]: The magnum opus is kind of a tome
+
+199
+00:16:29,308 --> 00:16:33,612
+[SPEAKER_01]: That was created to educate people about transmutation.
+
+200
+00:16:34,172 --> 00:16:38,496
+[SPEAKER_01]: Transmutation is a school of magic which has to do with alchemy and transmuting
+
+201
+00:16:41,237 --> 00:16:44,219
+[SPEAKER_01]: It mattered to different forms and shapes and stuff like that.
+
+202
+00:16:45,320 --> 00:17:00,550
+[SPEAKER_01]: But the thing about Yujor Yudaius, which was so amazing, is when he wrote the Magma Opus, he was trying to communicate to lay people, not just wizards, about how to do things like shit in places where you don't have crops.
+
+203
+00:17:00,650 --> 00:17:02,391
+[SPEAKER_01]: It was basically a way to...
+
+204
+00:17:02,911 --> 00:17:04,813
+[SPEAKER_01]: He described plumbing.
+
+205
+00:17:05,393 --> 00:17:08,035
+[SPEAKER_01]: He described basic hygiene.
+
+206
+00:17:08,476 --> 00:17:10,417
+[SPEAKER_01]: He described how you boil water to get out infectious disease.
+
+207
+00:17:17,029 --> 00:17:30,334
+[SPEAKER_01]: And he was actually very, very well known for trying to teach just common people, common sense alchemical and whatever processes to make their lives better.
+
+208
+00:17:30,794 --> 00:17:41,378
+[SPEAKER_01]: And this was a big departure from what a lot of wizards and sorcerers did back then, which was basically keep their secrets and try to use it to maintain their own power.
+
+209
+00:17:41,698 --> 00:17:44,319
+[SPEAKER_01]: So in a way, Ujor is kind of a hero.
+
+210
+00:17:44,799 --> 00:17:46,040
+[SPEAKER_01]: He was from Keoland.
+
+211
+00:17:47,060 --> 00:17:48,682
+[SPEAKER_01]: But he would travel all over the place.
+
+212
+00:17:48,722 --> 00:17:59,212
+[SPEAKER_01]: Back then, there were no sea principalities, but everybody knows because the magnum opus, which you basically found the magnum opus down in the library that you searched.
+
+213
+00:17:59,232 --> 00:17:59,893
+[SPEAKER_00]: That's right, I did.
+
+214
+00:17:59,913 --> 00:18:00,793
+[SPEAKER_00]: What was the book called?
+
+215
+00:18:00,934 --> 00:18:01,634
+[SPEAKER_01]: The magnum opus.
+
+216
+00:18:01,654 --> 00:18:02,855
+[SPEAKER_01]: The magnum opus.
+
+217
+00:18:03,176 --> 00:18:04,417
+[SPEAKER_01]: There was a copy you put down there.
+
+218
+00:18:04,757 --> 00:18:05,178
+[SPEAKER_01]: Oh, a copy.
+
+219
+00:18:05,198 --> 00:18:09,362
+[SPEAKER_01]: I was going to say, no way I found a real original book.
+
+220
+00:18:09,962 --> 00:18:13,647
+[SPEAKER_01]: You don't know where the original book is, but there have been copies, there are copies all over.
+
+221
+00:18:13,808 --> 00:18:14,709
+[SPEAKER_01]: Oh, okay, so it doesn't matter.
+
+222
+00:18:15,029 --> 00:18:17,953
+[SPEAKER_01]: It's been, it's published and given wide, right?
+
+223
+00:18:18,434 --> 00:18:24,703
+[SPEAKER_00]: Okay, so... Is this letter saying that he's still alive?
+
+224
+00:18:24,723 --> 00:18:26,025
+[SPEAKER_00]: Because it says he's in pursuit of...
+
+225
+00:18:31,429 --> 00:18:40,716
+[SPEAKER_01]: Archibald is relentlessly in pursuit of the magnum opus, convinced that the secrets of the Philosopher's Stone lie within the Office of Forbidden Magic dungeons.
+
+226
+00:18:41,416 --> 00:18:45,799
+[SPEAKER_01]: He speaks of ancient knowledge about chemical wonders that could transform the understanding of the world.
+
+227
+00:18:46,180 --> 00:18:51,964
+[SPEAKER_01]: His passion is infectious, and I must myself draw into the possibility of unlocking such mysteries.
+
+228
+00:18:52,464 --> 00:18:54,306
+[SPEAKER_01]: This is strange for you, actually, because
+
+229
+00:18:56,312 --> 00:19:01,133
+[SPEAKER_01]: This person, Archibald, his quest for, I mean, Bangmogas has been around forever.
+
+230
+00:19:01,153 --> 00:19:02,873
+[SPEAKER_00]: I was gonna say, so...
+
+231
+00:19:05,814 --> 00:19:07,454
+[SPEAKER_00]: The stone lie, what is that?
+
+232
+00:19:07,914 --> 00:19:08,254
+[SPEAKER_00]: The what?
+
+233
+00:19:08,634 --> 00:19:09,035
+[SPEAKER_00]: It says...
+
+234
+00:19:13,275 --> 00:19:19,577
+[SPEAKER_00]: The secrets of the philosophers of stone lie within the office of Forbidden Magic Dungeon.
+
+235
+00:19:19,617 --> 00:19:20,717
+[SPEAKER_00]: What's the magic dungeon?
+
+236
+00:19:21,757 --> 00:19:23,097
+[SPEAKER_00]: Or Forbidden Magic Dungeon?
+
+237
+00:19:23,177 --> 00:19:23,878
+[SPEAKER_00]: Do a check.
+
+238
+00:19:25,838 --> 00:19:25,998
+[SPEAKER_00]: Um...
+
+239
+00:19:26,846 --> 00:19:31,610
+[SPEAKER_00]: Oh, it's gonna be plus six.
+
+240
+00:19:34,833 --> 00:19:38,395
+[SPEAKER_00]: That's, uh... That's twelve.
+
+241
+00:19:38,455 --> 00:19:39,336
+[SPEAKER_00]: You have no idea.
+
+242
+00:19:41,358 --> 00:19:42,038
+[SPEAKER_01]: Eight plus six?
+
+243
+00:19:43,619 --> 00:19:43,900
+[SPEAKER_01]: Yeah.
+
+244
+00:19:44,300 --> 00:19:47,783
+[SPEAKER_01]: This is something that's very strange to you.
+
+245
+00:19:47,823 --> 00:19:48,203
+[SPEAKER_01]: Fourteen.
+
+246
+00:19:48,283 --> 00:19:49,684
+[SPEAKER_00]: Oh, I need fifteen probably.
+
+247
+00:19:51,325 --> 00:19:52,066
+[SPEAKER_00]: That's lame.
+
+248
+00:19:54,128 --> 00:19:54,448
+[SPEAKER_00]: Okay.
+
+249
+00:20:02,597 --> 00:20:06,520
+[SPEAKER_00]: Yeah, he wants to be done with the creation of the weapon.
+
+250
+00:20:06,680 --> 00:20:13,826
+[SPEAKER_00]: Okay, alright, well... That answers everything, I think, for...
+
+251
+00:20:14,307 --> 00:20:16,689
+[SPEAKER_00]: So what do you get from the gist of the letters?
+
+252
+00:20:18,130 --> 00:20:26,417
+[SPEAKER_00]: Um... Grayson is trying to build a weapon and trying to keep it with Alleria.
+
+253
+00:20:27,818 --> 00:20:29,980
+[SPEAKER_00]: Um... Why is he trying to build his weapon?
+
+254
+00:20:30,893 --> 00:20:33,554
+[SPEAKER_00]: To keep the Shah, what do they call them?
+
+255
+00:20:33,574 --> 00:20:34,095
+[SPEAKER_00]: Sahaugin.
+
+256
+00:20:34,235 --> 00:20:35,896
+[SPEAKER_00]: Sahaugin.
+
+257
+00:20:36,296 --> 00:20:37,496
+[SPEAKER_00]: Away, basically.
+
+258
+00:20:37,556 --> 00:20:37,837
+[SPEAKER_00]: Yeah.
+
+259
+00:20:37,857 --> 00:20:38,617
+[SPEAKER_00]: Of great threat.
+
+260
+00:20:38,817 --> 00:20:39,778
+[SPEAKER_01]: Yeah.
+
+261
+00:20:39,878 --> 00:20:40,858
+[SPEAKER_01]: I think that's part of it.
+
+262
+00:20:40,938 --> 00:20:45,801
+[SPEAKER_01]: I think that obviously he wants to do well for the Sea Principalities, but there's another reason.
+
+263
+00:20:48,422 --> 00:20:49,522
+[SPEAKER_01]: He wants to prove himself.
+
+264
+00:20:49,843 --> 00:20:50,183
+[SPEAKER_01]: Yeah.
+
+265
+00:20:50,303 --> 00:20:50,523
+[SPEAKER_01]: Right?
+
+266
+00:20:50,563 --> 00:20:58,867
+[SPEAKER_01]: He wants to prove himself to Jeon and basically make himself worthwhile so he can become worthy of
+
+267
+00:21:01,020 --> 00:21:02,161
+[SPEAKER_01]: Marriage to your mother.
+
+268
+00:21:03,602 --> 00:21:07,324
+[SPEAKER_01]: I mean, the thing is, Lord Jamis is a very powerful lord, right?
+
+269
+00:21:09,406 --> 00:21:14,109
+[SPEAKER_01]: But not as hind-station as Prince Jeon or your family.
+
+270
+00:21:15,630 --> 00:21:23,595
+[SPEAKER_01]: And so the marriage between Grayson and Elaria would have been acceptable if Grayson had kind of proven himself.
+
+271
+00:21:24,776 --> 00:21:29,659
+[SPEAKER_01]: But what you're gathering from these letters is that he didn't really have
+
+272
+00:21:31,767 --> 00:21:35,169
+[SPEAKER_01]: The...
+
+273
+00:21:35,209 --> 00:21:35,769
+[SPEAKER_00]: He's not there.
+
+274
+00:21:36,429 --> 00:21:36,990
+[SPEAKER_01]: Who, Grayson?
+
+275
+00:21:37,190 --> 00:21:37,530
+[SPEAKER_01]: Yeah.
+
+276
+00:21:39,071 --> 00:21:41,912
+[SPEAKER_01]: Because he's in Kegel, I'm pretty sure.
+
+277
+00:21:41,952 --> 00:21:42,392
+[SPEAKER_01]: Keoland.
+
+278
+00:21:43,993 --> 00:21:45,494
+[SPEAKER_01]: These letters were 20 years ago.
+
+279
+00:21:46,674 --> 00:21:47,855
+[SPEAKER_01]: More than 20 years ago.
+
+280
+00:21:49,435 --> 00:21:49,776
+[SPEAKER_01]: So...
+
+281
+00:21:52,197 --> 00:21:52,477
+[SPEAKER_01]: I mean...
+
+282
+00:21:59,561 --> 00:22:01,782
+[SPEAKER_01]: The question is, who would have these answers?
+
+283
+00:22:05,945 --> 00:22:09,027
+[SPEAKER_00]: The Archibald guy, I guess?
+
+284
+00:22:12,809 --> 00:22:15,631
+[SPEAKER_00]: I don't know Zafar.
+
+285
+00:22:15,711 --> 00:22:18,253
+[SPEAKER_00]: I don't know where he is or if he's even alive.
+
+286
+00:22:18,273 --> 00:22:18,893
+[SPEAKER_00]: You don't know.
+
+287
+00:22:19,794 --> 00:22:21,075
+[SPEAKER_01]: You heard Jamis might know.
+
+288
+00:22:21,795 --> 00:22:22,876
+[SPEAKER_01]: Lord Jamis might know.
+
+289
+00:22:24,477 --> 00:22:25,637
+[SPEAKER_01]: Lady Jamis might know.
+
+290
+00:22:26,158 --> 00:22:26,398
+[SPEAKER_00]: Yeah.
+
+291
+00:22:30,183 --> 00:22:32,305
+[SPEAKER_01]: Yeah, I guess that's who I gotta ask.
+
+292
+00:22:33,947 --> 00:22:45,798
+[SPEAKER_01]: Now the question I have to you is do you want to ask her before you talk to your uncle, Prince Jeon, about this?
+
+293
+00:22:46,839 --> 00:22:51,183
+[SPEAKER_01]: Or do you want to ask after you talk to Prince Jeon about this?
+
+294
+00:22:59,248 --> 00:23:00,509
+[SPEAKER_00]: Which one makes most sense to me?
+
+295
+00:23:04,131 --> 00:23:10,436
+[SPEAKER_01]: Do a net check, and this is not a very hard check, but I'll give you a little advice if you roll high.
+
+296
+00:23:11,016 --> 00:23:12,817
+[SPEAKER_00]: Okay.
+
+297
+00:23:13,918 --> 00:23:14,779
+[SPEAKER_00]: I nailed it.
+
+298
+00:23:16,880 --> 00:23:17,140
+[SPEAKER_00]: 20.
+
+299
+00:23:17,521 --> 00:23:17,861
+[SPEAKER_00]: Okay.
+
+300
+00:23:20,563 --> 00:23:25,166
+[SPEAKER_01]: Alright, so... Obviously...
+
+301
+00:23:27,212 --> 00:23:35,754
+[SPEAKER_01]: Grayson was around with your mother before you were born.
+
+302
+00:23:37,254 --> 00:23:37,534
+[SPEAKER_01]: Right?
+
+303
+00:23:38,234 --> 00:23:43,215
+[SPEAKER_01]: And you have no idea if your uncle knew of their affair.
+
+304
+00:23:44,435 --> 00:23:44,775
+[SPEAKER_01]: Okay?
+
+305
+00:23:45,795 --> 00:23:52,096
+[SPEAKER_01]: And you have no idea how your uncle thought about this guy Grayson.
+
+306
+00:23:52,917 --> 00:23:55,397
+[SPEAKER_01]: So you really don't know how your uncle's gonna react.
+
+307
+00:23:57,783 --> 00:23:58,063
+[SPEAKER_01]: Right.
+
+308
+00:23:59,364 --> 00:24:00,325
+[SPEAKER_01]: About Grayson.
+
+309
+00:24:02,667 --> 00:24:11,934
+[SPEAKER_01]: Or the fact that Lord Jamis, Jamis' son, knocked up your mother out of wedlock.
+
+310
+00:24:12,514 --> 00:24:12,755
+[SPEAKER_00]: Yeah.
+
+311
+00:24:13,015 --> 00:24:14,076
+[SPEAKER_01]: Okay?
+
+312
+00:24:14,096 --> 00:24:23,242
+[SPEAKER_01]: So, the question I have for you is, also, you have no idea whether or not Lady Jamis
+
+313
+00:24:24,273 --> 00:24:26,314
+[SPEAKER_01]: Knows anything of this at all.
+
+314
+00:24:26,374 --> 00:24:31,277
+[SPEAKER_01]: I'll probably just leave her out.
+
+315
+00:24:31,457 --> 00:24:38,501
+[SPEAKER_01]: The truth is, there's no reason you can't go down and actually have an audience with her if you wanted to.
+
+316
+00:24:38,782 --> 00:24:43,344
+[SPEAKER_01]: There's no reason why you couldn't go and have an audience with Lord Jamis if you wanted to.
+
+317
+00:24:48,537 --> 00:24:49,178
+[SPEAKER_01]: It's up to you.
+
+318
+00:24:49,838 --> 00:25:02,369
+[SPEAKER_01]: You have proof of this, but you don't know what the situation will be if you... What I'm trying to say is collecting information is not something that's bad for you.
+
+319
+00:25:03,550 --> 00:25:07,053
+[SPEAKER_00]: I just don't... Yeah, I know, but I don't know how they'll react.
+
+320
+00:25:08,734 --> 00:25:09,715
+[SPEAKER_00]: This is very true.
+
+321
+00:25:13,479 --> 00:25:14,499
+[SPEAKER_01]: Your experience with Lady
+
+322
+00:25:16,282 --> 00:25:25,884
+[SPEAKER_01]: Lord Jamis is that he's a very smart man, very loyal to the sea principalities, very loyal to your uncle, but very formal.
+
+323
+00:25:28,384 --> 00:25:30,904
+[SPEAKER_01]: Lady Jamis is that way as well.
+
+324
+00:25:32,945 --> 00:25:45,947
+[SPEAKER_01]: But the truth is, from these letters, she is your grandmother.
+
+325
+00:25:48,088 --> 00:25:48,368
+[SPEAKER_01]: Right?
+
+326
+00:25:49,669 --> 00:25:56,773
+[SPEAKER_01]: And she knows about your father.
+
+327
+00:25:57,794 --> 00:25:59,875
+[SPEAKER_01]: She may even know where he is.
+
+328
+00:26:01,756 --> 00:26:02,056
+[SPEAKER_01]: Right?
+
+329
+00:26:02,816 --> 00:26:10,361
+[SPEAKER_01]: And do you want to ask her what's going on with that?
+
+330
+00:26:10,721 --> 00:26:11,361
+[SPEAKER_01]: Yeah, probably.
+
+331
+00:26:11,682 --> 00:26:15,384
+[SPEAKER_01]: Before you go and talk to your uncle, or do you want to go bring this up to your uncle?
+
+332
+00:26:15,404 --> 00:26:16,584
+[SPEAKER_01]: Jeon.
+
+333
+00:26:17,145 --> 00:26:17,665
+[SPEAKER_01]: Jeon.
+
+334
+00:26:18,313 --> 00:26:28,239
+[SPEAKER_01]: And, I mean, because the thing is, this is kind of political, right?
+
+335
+00:26:30,940 --> 00:26:31,480
+Right?
+
+336
+00:26:32,921 --> 00:26:34,282
+[SPEAKER_01]: Yeah, I guess a little bit.
+
+337
+00:26:34,562 --> 00:26:45,168
+[SPEAKER_01]: I mean, the thing is, is that if Jeon doesn't know that this is happening, and you may want to understand how much Jamis knows and how much Lady Jamis knows.
+
+338
+00:26:47,097 --> 00:26:52,400
+[SPEAKER_01]: Right, and also you kind of want to understand where Grayson is and what his deal is.
+
+339
+00:26:53,441 --> 00:26:55,202
+[SPEAKER_01]: This is by Grayson, Jamis, too.
+
+340
+00:26:58,044 --> 00:27:02,887
+[SPEAKER_01]: Okay, yeah, I'll probably ask Lady Jamis, then Jamis.
+
+341
+00:27:03,367 --> 00:27:04,488
+[SPEAKER_00]: Okay, now.
+
+342
+00:27:05,228 --> 00:27:06,229
+[SPEAKER_00]: Or both if they're there.
+
+343
+00:27:06,869 --> 00:27:10,872
+[SPEAKER_00]: Okay, so what we're going to do now is do your level up for your character.
+

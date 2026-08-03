@@ -1,0 +1,6 @@
+# Cast for Reaction_to_Folsoms_song_3rd_Wealsun
+# Expected voices: 4
+DM
+Tyrus
+Merrick
+Owen

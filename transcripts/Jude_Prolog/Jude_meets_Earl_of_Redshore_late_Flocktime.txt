@@ -1,0 +1,944 @@
+[SPEAKER_00]: Jude in Flock Time, just coming to Retro Island.
+[SPEAKER_00]: Hey.
+[SPEAKER_01]: Hello, hello, hello.
+[SPEAKER_00]: Hey, you ready on?
+[SPEAKER_01]: Yep, can you hear me?
+[SPEAKER_00]: Yeah, I can.
+[SPEAKER_01]: Alright, awesome.
+[SPEAKER_00]: Okay, great.
+[SPEAKER_01]: Yeah, so I stand in line and in the background, if you hear seagulls, it's because I've got my phone set to D&D music on YouTube.
+[SPEAKER_01]: So if you hear seagulls, you're not going crazy.
+[SPEAKER_00]: Awesome.
+[SPEAKER_01]: Alright, I'll stand in line and wait patiently, of course, to talk inside.
+[SPEAKER_00]: Alright, so what happens is, this is kind of evening.
+[SPEAKER_00]: You know, it's nighttime.
+[SPEAKER_00]: And, um... Basically, there may be two or three other people that wanted to leave the ship.
+[SPEAKER_00]: And, uh, you know, the captain comes up to you and says, uh, what are your plans, sir?
+[SPEAKER_01]: I haven't made any yet.
+[SPEAKER_01]: Are you meeting with the other merchants as a group to make a decision?
+[SPEAKER_00]: We are, actually.
+[SPEAKER_01]: Are you doing that now?
+[SPEAKER_00]: I think we'll have a decision by tomorrow.
+[SPEAKER_01]: So, I wasn't going to go ashore, but I was going to talk to the good sergeant about if diplomatic...
+[SPEAKER_01]: Are there any more adventurous merchants among your crew?
+[SPEAKER_01]: Well, we're speaking to each other about this.
+[SPEAKER_01]: In truth, it seems that the Earl of Red Shore is trying to make a marketplace here, even though this portage is much smaller than that in Monmurg.
+[SPEAKER_01]: I don't see how it will work.
+[SPEAKER_00]: Well, the truth is, as many of the ships that we see here, we'd want to have trade with.
+[SPEAKER_00]: So if there was a place to trade, we would do so.
+[SPEAKER_00]: I have a feeling that to salvage what we can from this journey, we'll be sending out invoices to the ships in this area and seeing what deals can be struck
+[SPEAKER_00]: That way.
+[SPEAKER_01]: Do you have a minute?
+[SPEAKER_01]: I can forego talking to the sergeant for perhaps 10 or 15 minutes.
+[SPEAKER_01]: Would you come back to my cabin with me?
+[SPEAKER_00]: Certainly, sir.
+[SPEAKER_01]: Perhaps for a glass of wine.
+[SPEAKER_00]: Certainly.
+[SPEAKER_01]: So I come back to the cabin with him.
+[SPEAKER_01]: I pour him a glass of wine.
+[SPEAKER_01]: Let me speak plainly.
+[SPEAKER_01]: As an envoy from Idee, and as you know coming from Scamp, the situation of the war in Idee this past year, that's where I've been.
+[SPEAKER_01]: We're in dire need of assistance, and it had been my hope to travel to Monmurg, since they are wealthy and seem...
+[SPEAKER_01]: To understand many things about defense of a city and rebuilding, which certainly Marie is in desperate need of, and to entreat with them for assistance or aid.
+[SPEAKER_01]: Is there any chance that any of the merchants would wish to perhaps not honor the blockade of the Duke of Branson?
+[SPEAKER_00]: You mean try and run the blockade?
+[SPEAKER_01]: Yes, of course.
+[SPEAKER_00]: It's a dangerous undertaking.
+[SPEAKER_01]: Absolutely.
+[SPEAKER_01]: Absolutely.
+[SPEAKER_00]: So you say you are a ambassador, as it were, traveling to Monmurg?
+[SPEAKER_01]: I do, yes.
+[SPEAKER_01]: I've been fighting in the D against the South.
+[SPEAKER_00]: So my question to you, sir, is why is not the Monmurgian Navy escorting the ships that ply these trade lines?
+[SPEAKER_00]: They usually are patrolling the oceans all the way up to Gradsul.
+[SPEAKER_01]: As I told you, I've been in the deep for the past year.
+[SPEAKER_01]: This is my first time returning.
+[SPEAKER_01]: I'm not an envoy from, or a diplomat from Monmurg.
+[SPEAKER_01]: I'm traveling from the D, because I have dealing time.
+[SPEAKER_01]: Therefore, this comes as much of a shock to me as to you.
+[SPEAKER_00]: I see.
+[SPEAKER_00]: So do you have some influence with Prince Jeon?
+[SPEAKER_01]: That is possible.
+[SPEAKER_01]: A somewhat temperamental influence, yes.
+[SPEAKER_00]: Well, in truth, I'll let this be known to you.
+[SPEAKER_00]: I think all the merchants here are due to lose quite a bit of money if we are to either trade here in Redshore, Gradsul, or return without trading our wares to Onwal.
+[SPEAKER_00]: And I think most of them would want to run the blockade if they could.
+[SPEAKER_00]: However, a better solution would be the Monmurgian Navy actually resuming patrols.
+[SPEAKER_01]: Well, of course.
+[SPEAKER_01]: We can't either retreat Monmurg or the Sea Princes to come back into the waters.
+[SPEAKER_01]: We haven't even been there yet.
+[SPEAKER_01]: It's been a year, I guess.
+[SPEAKER_01]: More to the point, Captain.
+[SPEAKER_01]: I do not want to put something this severe on you without your and your police willingness.
+[SPEAKER_01]: Should you decide, go to the merchants.
+[SPEAKER_01]: I will leave you to speak to the merchants.
+[SPEAKER_00]: I will speak among the merchants.
+[SPEAKER_00]: I hear what you're saying.
+[SPEAKER_00]: And unfortunately, I will be a little...
+[SPEAKER_00]: I'm willing to be a little conspiratorial with you, sir.
+[SPEAKER_00]: I can tell you, without a doubt, that among the men here, all of us would rather be in the markets of Monmurg than where we're at right now.
+[SPEAKER_00]: However,
+[SPEAKER_00]: I doubt anyone would be willing to try and run the blockade if there is one.
+[SPEAKER_01]: When you say run it, you mean closer to Monmurg if they actually have a cordon of ships?
+[SPEAKER_00]: Correct.
+[SPEAKER_00]: We have no idea what's out there.
+[SPEAKER_00]: And the fact that these two men-of-war brought us into Redshore and seem to have collected many of the traders that should have been heading towards Monmurg shows that
+[SPEAKER_00]: If we were intercepted on the seas, the Duke of Gradsul would have no problem taking all of our wares from us.
+[SPEAKER_00]: That's a risk we're not willing to take.
+[SPEAKER_01]: Of course, and I would never want to set the seas more myself and the rest of the passengers to be in prison for erasmus.
+[SPEAKER_01]: If we are incapable to go around Jetson, Jetson Island,
+[SPEAKER_01]: So Steve, your audio is very, very quiet.
+[SPEAKER_01]: Are you close to the speaker or what's going on?
+[SPEAKER_01]: Um, I've actually got my headset on.
+[SPEAKER_01]: Tell me if it's...
+[SPEAKER_00]: It's getting better now.
+[SPEAKER_00]: If you put the thing close to your mouth, I think he'll hear better.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Is that better?
+[SPEAKER_00]: Yeah, that's actually much better.
+[SPEAKER_01]: Okay, good.
+[SPEAKER_00]: Okay, so the guy says...
+[SPEAKER_00]: These are all risky things.
+[SPEAKER_01]: Very much, very much.
+[SPEAKER_00]: I, um...
+[SPEAKER_01]: Hmm.
+[SPEAKER_01]: Before you think further, I pour him my Philips glass a little bit more.
+[SPEAKER_01]: But I also make like a raised eyebrow, but like not to invite you to excess with drink.
+[SPEAKER_01]: But if this cordon, if this embargo of Monmurg is as effective as what we would see by all of these ships being moored, I would imagine
+[SPEAKER_01]: That the merchants stand to make perhaps three times as much as they would have by successfully making it into Monmurg.
+[SPEAKER_00]: This is a good point.
+[SPEAKER_00]: War does bring good coin.
+[SPEAKER_01]: You are the linchpin good captain.
+[SPEAKER_01]: Both your skill on the sea, your knowledge, and your willingness to risk.
+[SPEAKER_01]: What I can say is that my purpose is the purest in the sense that I just seek to entreat with Monmurg the princes who have great money and funds to assist a deed and help preserve their participation in the Iron Age.
+[SPEAKER_00]: I understand.
+[SPEAKER_00]: So, in truth, I cannot give you an answer right now.
+[SPEAKER_00]: I do desire what you desire for different reasons, but I do wish to make that journey to the markets in Monmurg.
+[SPEAKER_00]: And I'm willing to wait some time, a few weeks in fact, to see if the passage will open up.
+[SPEAKER_01]: But, good sir, I've never heard of a war.
+[SPEAKER_01]: Hostilities being resolved within two weeks.
+[SPEAKER_01]: And what's Monmurg Sally's for?
+[SPEAKER_01]: And I have no understanding as to why they have not yet done that.
+[SPEAKER_00]: Well then, we need to get that understanding.
+[SPEAKER_00]: Do you understand me?
+[SPEAKER_00]: I mean, you say go around Jetsam Island.
+[SPEAKER_00]: You say go north.
+[SPEAKER_00]: We have no idea what the Monmurgian Navy is up to.
+[SPEAKER_00]: And I doubt I would be willing to risk my ship or my cargo just as other captains would be unwilling to do that themselves unless they knew more about the territory.
+[SPEAKER_01]: Of course, of course.
+[SPEAKER_00]: So what I suggest is this, my good sir.
+[SPEAKER_00]: I speak to the captains among the other shipping vessels.
+[SPEAKER_00]: Which I intended to do in the first place, just to be able to facilitate trade.
+[SPEAKER_00]: Perhaps I could get some rumors, as it were, about what was happening right now.
+[SPEAKER_01]: I can go ashore.
+[SPEAKER_01]: I was thinking of asking the sergeant for at least an audience with maybe the master of the docks or the ports.
+[SPEAKER_01]: I don't know if that would bring any information, but I could do that and try to be back before sunrise.
+[SPEAKER_00]: That would be good.
+[SPEAKER_00]: Perhaps the local lord would also be somebody you could meet with.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: Yes, that's what I was thinking.
+[SPEAKER_01]: At least somebody that's at least in court.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: So, one thing I do want to ask you again, you never answered me.
+[SPEAKER_01]: You do have some influence with Prince Jeon.
+[SPEAKER_01]: Yes.
+[SPEAKER_00]: Ah, all right.
+[SPEAKER_00]: Well, know that I'm sure all these ships would greatly desire to make the travel to Monmurg.
+[SPEAKER_01]: I don't know that we can need a flotilla to break the Black King.
+[SPEAKER_01]: I mean, please, keep that at your closest to your heart.
+[SPEAKER_01]: Closer, even, than your heart.
+[SPEAKER_01]: If it gets out that I have any influence whatsoever against Jude, I'll be tortured to find out what that influence is, I'm sure.
+[SPEAKER_00]: I understand.
+[SPEAKER_01]: Thank you.
+[SPEAKER_00]: Thank you.
+[SPEAKER_00]: Let us talk again.
+[SPEAKER_01]: Yes, I will return in the morning if I am able.
+[SPEAKER_00]: Alright, he nods, and do you want to go talk to the sergeant?
+[SPEAKER_01]: Yeah, I consult really quickly with Forrest.
+[SPEAKER_01]: Is there any member of the crew that you have played dice with or come to understand in any intimate way in our journey?
+[SPEAKER_01]: Forrest?
+[SPEAKER_00]: You mean, is there anyone I trust on board?
+[SPEAKER_00]: Most of these boys are trustworthy.
+[SPEAKER_00]: What would you ish?
+[SPEAKER_01]: You and I will go ashore, if the sergeant can at least point us in the right direction to speak.
+[SPEAKER_01]: We'll be ashore through the night.
+[SPEAKER_01]: I'd like to be able to return.
+[SPEAKER_01]: However, should it be dangerous to return?
+[SPEAKER_01]: Maybe a lit, you know, lantern?
+[SPEAKER_00]: I'll talk to the bosun.
+[SPEAKER_00]: I know what you mean.
+[SPEAKER_01]: Yes, I would rather not come back to the ship if it's not a good idea.
+[SPEAKER_00]: Yes, I'll have a war with the bosun.
+[SPEAKER_01]: And please, slip him some coin.
+[SPEAKER_01]: I gave him, like, five gold.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: So he walks off.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: I tell him to be ready to go, though, and possibly not return.
+[SPEAKER_01]: So I'll go talk to the sergeant now, but I want to make sure that Forrest will be attired appropriately.
+[SPEAKER_00]: Okay, so you basically want to take all your stuff.
+[SPEAKER_01]: Yeah, I mean, I don't need to take extra clothes or luggage, but the important crap, yeah.
+[SPEAKER_00]: Your spell book, all that stuff, right?
+[SPEAKER_01]: All that stuff.
+[SPEAKER_01]: Yeah, the stuff that in case I'm not getting back onto the ship that I would definitely need to continue forward.
+[SPEAKER_00]: All your gold, all of that.
+[SPEAKER_01]: Now, one last thing.
+[SPEAKER_01]: Yeah, absolutely.
+[SPEAKER_00]: Not your case of a DN wine, but... Oh, no.
+[SPEAKER_01]: I don't need to lug around, like, heavy crap.
+[SPEAKER_01]: And I'll leave, or if I can stash a certain portion of gold in the room, and maybe take half of my gold.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: So you have a thousand gold coins with you.
+[SPEAKER_00]: You want to take fifty... five hundred gold.
+[SPEAKER_01]: Yeah, I'll take about five hundred gold.
+[SPEAKER_01]: Is that...
+[SPEAKER_01]: I mean, is that like...
+[SPEAKER_01]: I mean, like, how much is five hundred gold coins each coin?
+[SPEAKER_00]: I mean, it's not that much.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: If I got a bag of holding, great.
+[SPEAKER_01]: If I don't...
+[SPEAKER_00]: It's like five pounds.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Alright.
+[SPEAKER_01]: Did I ever get... Did Karmirg leave the battle pennant?
+[SPEAKER_01]: And the only reason why is I'm just speaking to the DM.
+[SPEAKER_01]: I would be mildly interested, super curious, if we ran Karmirg's pennant up the line,
+[SPEAKER_01]: By dawn, I know it's dark now, but if at dawn, just on the off chance that Gouge's reaver ship is disguised as a merchant vessel and is in this hangarage.
+[SPEAKER_01]: Right, exactly.
+[SPEAKER_01]: So, I'm totally thinking about running Karmirg's battle pennant.
+[SPEAKER_01]: And I did say that I wanted to get it if you left it.
+[SPEAKER_00]: Sure, you could do that.
+[SPEAKER_00]: Flaid skin.
+[SPEAKER_00]: Flaid giant skin.
+[SPEAKER_00]: Like the face of a giant.
+[SPEAKER_00]: You know, the flesh of a giant's face.
+[SPEAKER_00]: Or something like that.
+[SPEAKER_01]: Yeah, it'd be like Game of Thrones, the Flaid Man.
+[SPEAKER_01]: Exactly.
+[SPEAKER_01]: Totally garish, but just on the odd chance that Gouge and Karmirg are sitting in Anchorage, you know, eating.
+[SPEAKER_01]: Okay, so that's my idea.
+[SPEAKER_01]: As a last-minute thing, I ask Horace to have the bosun run that up before dawn, before first light.
+[SPEAKER_01]: Maybe without asking the captain, but just, you know, give the bosun an extra gold coin just to do that, to run it up before first light.
+[SPEAKER_01]: And he can take it down by mid-morning or if the captain asks, what the hell is that?
+[SPEAKER_01]: Say, well, you know, you got paid to run it up.
+[SPEAKER_00]: Okay.
+[SPEAKER_01]: Not like in place of, like, I don't want it, like, you know, to take the place of, like, the top pennant, you know, for the ship, but run it up, like, right below it.
+[SPEAKER_01]: You know what I mean?
+[SPEAKER_01]: Like how we have national flags, stars and bars, and then we've got state flags underneath it?
+[SPEAKER_00]: Yeah, I don't think it seems like it's a problem.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: So, just as a... just a shot in the dark.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: I'll go talk to the sergeant.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: So you go to the sergeant, and basically he says, You wish to disembark?
+[SPEAKER_01]: Uh, I first would like to ask you if there's anybody, uh, at least beyond just the harbor master, which I know who's got his hands full.
+[SPEAKER_01]: I'm an emissary, a diplomat, as you would say, from Udi, and my voyage was to get me to Monmurg, and as such, I would like to ask... any powers that be if I can continue on my journey.
+[SPEAKER_00]: Ah.
+[SPEAKER_00]: A diplomat, hey?
+[SPEAKER_00]: I would say you go and talk to the, um, Earl of Redshore.
+[SPEAKER_01]: I can't imagine just anybody gets an audience with the Earl of Redshore.
+[SPEAKER_00]: Well, you're an ambassador from a D. You can go to his castle and announce yourself to his servants.
+[SPEAKER_01]: Fair enough, fair enough.
+[SPEAKER_00]: He's the overall commander of the navy in this blockade, by the way.
+[SPEAKER_00]: I don't know much, how much he will, um,
+[SPEAKER_00]: Be interested in your plight.
+[SPEAKER_01]: So he's not the diplomatic type.
+[SPEAKER_00]: Well...
+[SPEAKER_00]: I would say he's more a military man, but if somebody's going to allow someone to travel to Monmurg, he'd be the one to ask.
+[SPEAKER_01]: Well, uh...
+[SPEAKER_01]: Thank you, good sergeant.
+[SPEAKER_01]: And will you be here all night?
+[SPEAKER_01]: Or, like, do I need any permission to return to the ship from anybody on shore?
+[SPEAKER_00]: No, absolutely not.
+[SPEAKER_00]: The dockmaster will see you there, and you can take a long boat here, Hinson, and back as you wish.
+[SPEAKER_01]: And you said it's just the Earl of Red Shore?
+[SPEAKER_01]: Is there, uh, can you give me some loose directions to...
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: So, Red Shore is basically along this entire beach, and he points at the island.
+[SPEAKER_00]: The Earl's Castle is at the end of the island, at the end of the road down there.
+[SPEAKER_00]: You can't miss it.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: I appreciate you.
+[SPEAKER_01]: Thank you.
+[SPEAKER_01]: Alright, can I go to find Horace and see about securing a...
+[SPEAKER_00]: Okay, so actually there are longboats basically just waiting for people that want to disembark.
+[SPEAKER_00]: And, you know, the sergeant, you know, kind of looks you over, but you can tell he's not really interested in what you have necessarily because there's not that much of it, right?
+[SPEAKER_00]: Exactly.
+[SPEAKER_00]: You have gold.
+[SPEAKER_00]: You look like you're fairly important.
+[SPEAKER_00]: So you look like, at the very
+[SPEAKER_00]: At least you're a somewhat wealthy merchant that may want to go out, or an adventurer even.
+[SPEAKER_00]: So it's not like he's like, oh, this guy is going to try and smuggle a whole bunch of stuff into town.
+[SPEAKER_01]: Right, to rebels or spies or something.
+[SPEAKER_00]: Exactly.
+[SPEAKER_01]: Okay, yeah.
+[SPEAKER_01]: And I did say, you know, that I'm like a utilitarian travel guard, so I'm not wearing like a pointy hat and like, you know, lizard robes.
+[SPEAKER_01]: But at the same time, I got like a cap skin.
+[SPEAKER_01]: Alright.
+[SPEAKER_01]: Make sure the chorus is armed to the teeth.
+[SPEAKER_00]: He's got his long sword and he's got his armor on.
+[SPEAKER_00]: And you guys get aboard a longboat and he rows you the hundred feet to shore.
+[SPEAKER_00]: And the two of you find yourself out on the Red Shore docks slash beach.
+[SPEAKER_00]: And, you know, the thing is, it's an island, I would say, probably, from what you can tell, maybe seven feet, seven miles long.
+[SPEAKER_00]: But the actual city of Red Shore is kind of just along the beach and you can tell that it's primarily a fishing village and most of the docks don't seem like they're nearly big enough to be able to take the kind of cargo or the ships that are moored outside it.
+[SPEAKER_01]: So, do I see any efforts at even like a slopstick kind of market square being formed?
+[SPEAKER_00]: Yeah, you do see some like trade vessels.
+[SPEAKER_00]: There are probably like three or four trade vessels that have been docked at some of the larger docks.
+[SPEAKER_00]: And they're unloading cargo, but there just really are not enough men.
+[SPEAKER_00]: Right?
+[SPEAKER_00]: That seem to be the dock hands to be doing this.
+[SPEAKER_00]: But yeah, there are attempts at like markets, but they're basically like fish markets that have been converted into, you know, actual trade places.
+[SPEAKER_00]: Like makeshift, uh, uh, squares.
+[SPEAKER_00]: Yeah, stalls.
+[SPEAKER_00]: Stalls, stuff like that, and they're like... What you notice as you get off, it's really kind of interesting because there are a mishmash of people here like you would see in Monmurg's Foreign District and the Great Market, but just not that many of them.
+[SPEAKER_00]: It's very strange.
+[SPEAKER_01]: Well, it's all forest and the facilities can't really handle that.
+[SPEAKER_00]: Exactly.
+[SPEAKER_00]: And not only that, you see the local guards patrolling, but they seem like, um...
+[SPEAKER_00]: Overwhelmed?
+[SPEAKER_00]: Overwhelmed and very...
+[SPEAKER_00]: I would say that they are more like Kingsmen than guards.
+[SPEAKER_00]: These guys are all wearing chainmail and you just know...
+[SPEAKER_01]: They're not like city studded leather and baton studs.
+[SPEAKER_00]: Exactly.
+[SPEAKER_00]: It's like they're Knights of the Lord.
+[SPEAKER_00]: And these guys are like... More than once you see them...
+[SPEAKER_00]: Treat with somebody pretty violently for just little infractions.
+[SPEAKER_00]: They're for war, they're not for this kind of stuff.
+[SPEAKER_00]: Now there are a bunch of Keoland Marines and some of them also appear to be on guard duty.
+[SPEAKER_00]: And they seem to be more calm and actually better suited to the role of patrol.
+[SPEAKER_00]: But still, it just seems, like, chaotic.
+[SPEAKER_01]: If I were to assess, like, the distance that I have to travel to get down the beach to the main keep or castle, would it be wise to try to enlist an off-duty Keoland?
+[SPEAKER_01]: Is there any Keoland marine that looks like they're drinking?
+[SPEAKER_00]: Well, I mean, there are a lot of off-duty people, and in fact there are a bunch of people that look like totally rats that are just kind of hanging around the bars.
+[SPEAKER_00]: A lot of makeshift bars are here.
+[SPEAKER_01]: Yeah, right.
+[SPEAKER_01]: I could only imagine Oslo's problems.
+[SPEAKER_01]: No, I'm thinking like actual, what are recognizable as Keoland Marines that maybe are not kind of working.
+[SPEAKER_00]: Yeah, I mean, there are a few off-duty.
+[SPEAKER_01]: I look at Horace, and like, discreetly, should we hire a couple of off-duty Keoland Marines to escort us to the castle?
+[SPEAKER_01]: What do you think?
+[SPEAKER_00]: He says, well, there are some ruffians around here, but truthfully, I don't feel too threatened as of yet.
+[SPEAKER_01]: Yeah, it seems like everyone seems to be taking... minding their own business in a main way.
+[SPEAKER_00]: There seems to be more than enough money to go around, and from what I can tell, many of these boys are more interested in joining some kind of pirate ship than anything else.
+[SPEAKER_01]: Alright.
+[SPEAKER_01]: Fair enough.
+[SPEAKER_01]: Let's, uh, not waste too much time.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: But it is dark.
+[SPEAKER_01]: Uh, there's probably a lot of lights and a lot of, like, torches and stuff, right?
+[SPEAKER_00]: It's getting towards sundown.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: But everything is, like, transitioning pretty smoothly into, like, nighttime activity.
+[SPEAKER_00]: It doesn't seem to be transitioning.
+[SPEAKER_00]: It seems like that's kind of, it's always going.
+[SPEAKER_00]: Ongoing.
+[SPEAKER_01]: You could probably make it in 40 minutes if you guys want.
+[SPEAKER_01]: Okay, so...
+[SPEAKER_00]: So you guys walk towards the castle, right?
+[SPEAKER_00]: And 40 minutes goes by and the sun is definitely setting in the west.
+[SPEAKER_00]: And dusk is settling in, the stars are coming out when you guys come up to the castle, right?
+[SPEAKER_01]: Now this, go ahead.
+[SPEAKER_01]: What season is it?
+[SPEAKER_01]: Like, does that mean it's like, it's summertime, it's dusk at 9 o'clock in the evening?
+[SPEAKER_00]: It's kind of in between, it's kind of coming into spring right now.
+[SPEAKER_01]: Okay, so probably 7, 6.30, 7 o'clock?
+[SPEAKER_00]: 7 o'clock is probably when the sun goes down, yes.
+[SPEAKER_01]: Okay, okay, fair enough.
+[SPEAKER_00]: Alright, so you travel to the castle.
+[SPEAKER_00]: And this castle actually is kind of an interesting place, right?
+[SPEAKER_00]: Because it actually is two structures, both built on rocks in the water, right?
+[SPEAKER_00]: And the moat, to say, is basically the ocean.
+[SPEAKER_00]: There is a drawbridge that comes down to the road that you which is the side that you're on but no fortifications on that side however there's like a front part of it and then
+[SPEAKER_00]: Beyond is another.
+[SPEAKER_00]: And what you can tell is the first structure, the first building, is probably where all the military stuff goes.
+[SPEAKER_00]: And the structure behind it is where the Earl has his court and so on, right?
+[SPEAKER_01]: Are we talking almost like a gatehouse?
+[SPEAKER_00]: Yeah, but they're both the same size.
+[SPEAKER_01]: Oh, okay.
+[SPEAKER_01]: And are they connected by like two drawbridges?
+[SPEAKER_01]: And then another one going across.
+[SPEAKER_00]: Exactly.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Exactly.
+[SPEAKER_00]: That's exactly what it looks like.
+[SPEAKER_01]: And it looks like their fortifications are more geared towards seaward assault, not land.
+[SPEAKER_00]: I would say that, yeah, I mean, the thing is, is that the only slice of land that can approach it is sort of this kind of rock, I would call it a...
+[SPEAKER_00]: What do they call those things?
+[SPEAKER_00]: It's like a pier that goes out to it.
+[SPEAKER_01]: Oh, like a mole?
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: You know, and then they have built on these rocks these two castles, basically, that are connected by drawbridges and so on, right?
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: I think I understand.
+[SPEAKER_01]: So we'll be approaching the military lodging, kind of, for the main guard, so to speak.
+[SPEAKER_00]: Exactly.
+[SPEAKER_01]: Right, okay.
+[SPEAKER_01]: Is there much traffic or no traffic at all at this hour?
+[SPEAKER_00]: Almost none.
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: So you guys come up to the first building, right?
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: I have a gold coin in my hand just in case I need to ask somebody to actually do their job.
+[SPEAKER_01]: Not even a bribe, just...
+[SPEAKER_01]: A tip.
+[SPEAKER_00]: Okay, you approach the building and basically you see some guards on the walls.
+[SPEAKER_00]: Right?
+[SPEAKER_00]: But like two.
+[SPEAKER_00]: And one of them calls down to you.
+[SPEAKER_00]: Ho, you there!
+[SPEAKER_00]: What's your business?
+[SPEAKER_01]: I'm a diplomat, singing audience with the Earl of Redshaw.
+[SPEAKER_01]: Do you perhaps have a lieutenant on duty?
+[SPEAKER_00]: We have the Earls, man.
+[SPEAKER_00]: State your name.
+[SPEAKER_01]: I'm Jude, from a D. Stay.
+[SPEAKER_00]: So you guys kind of wait out there.
+[SPEAKER_01]: I almost threw a gold coin at him.
+[SPEAKER_00]: There'll be more of that.
+[SPEAKER_01]: I gotta come back if the ship broke.
+[SPEAKER_00]: Don't waste all your gold and red for.
+[SPEAKER_00]: It's much more expensive.
+[SPEAKER_00]: You don't want to pay Monmurg prices in Red Shore.
+[SPEAKER_01]: I should be growing silver.
+[SPEAKER_01]: Note to self, change in 10 gold for some silver.
+[SPEAKER_00]: Okay, so anyway, the drawbridge comes down, right?
+[SPEAKER_00]: And this guy starts walking across the bridge, and the drawbridge is actually not that big.
+[SPEAKER_00]: It's maybe about 10 feet wide, but it's about, I'd say, 30 feet long, you know, and to your mind, a little rickety.
+[SPEAKER_00]: I mean, you could probably ride a warhorse across it, but you'd be...
+[SPEAKER_01]: Okay, so what you're kind of communicating to me, and this is to the DM, so what you're kind of communicating to me, I feel it's like Red Shore is not opulent.
+[SPEAKER_01]: It's under duress handling all of the success of this embargo.
+[SPEAKER_01]: I call it shipping.
+[SPEAKER_01]: And that even the fortifications are not necessarily even remotely compared to
+[SPEAKER_00]: Not even close.
+[SPEAKER_00]: I mean, basically this castle is the only thing that looks like a fortification.
+[SPEAKER_01]: Right.
+[SPEAKER_00]: And even though it's kind of a solid fortification, right... Tell me this.
+[SPEAKER_01]: The ships, the two man o' wars, were they newer built or were they... Oh no, they were serious.
+[SPEAKER_00]: They were real.
+[SPEAKER_00]: And you saw more of them around Red Shore.
+[SPEAKER_01]: So they were pretty slick.
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: No, I mean, it seems like, you know, Redshore looks like a fishing slash whaling village.
+[SPEAKER_00]: In fact, you saw a lot of rendering vats and other oil vats to like take whales and make oil and stuff like that.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: But it stunk.
+[SPEAKER_00]: And, you know, all the buildings there, some of them were nicely made, made out of stone, but nothing compared to what Monmurg is.
+[SPEAKER_00]: And this fortification from the local earl, right, is laughable.
+[SPEAKER_00]: I mean, you know, it would fit inside...
+[SPEAKER_00]: One of the palaces of the Prince Jeon.
+[SPEAKER_00]: I mean, this is a backwater, is what I'm trying to say.
+[SPEAKER_01]: Yeah, I get it, I get it.
+[SPEAKER_01]: Yeah, like a rickety bridge that one knight on a horse would like, maybe even be like, raise an eyebrow across.
+[SPEAKER_00]: Exactly.
+[SPEAKER_01]: Gotcha.
+[SPEAKER_01]: Okay, I do my, you know, best bow without being overly ass-kissy to the gentleman.
+[SPEAKER_00]: Okay, so he comes up to you and says, Who are you, sir?
+[SPEAKER_00]: What is your business?
+[SPEAKER_01]: My name is Jude, and I am a diplomat from Lord Anlauf Ogmotton.
+[SPEAKER_00]: I'm not heard of the land.
+[SPEAKER_01]: Well, I'm not surprised.
+[SPEAKER_01]: It's part of the Iron League.
+[SPEAKER_01]: I'm sure you've heard of the Iron League.
+[SPEAKER_01]: And we've been at war for the better part of the last year.
+[SPEAKER_00]: What can the Earl of Red Shore give to you?
+[SPEAKER_01]: Well, as I wave expansively towards the bay and maybe all the lights of the ships that are out there in the dark and say, uh, we were brought here by your valiant men of wars as part of the embargo.
+[SPEAKER_01]: I was on my way to Monmurg to entreat there for finances to assist me in the war.
+[SPEAKER_01]: You know, to take loans out, really.
+[SPEAKER_01]: Perhaps if the Lord has not yet dined, I might dine with him.
+[SPEAKER_01]: I would gladly pay more than my share for the meal.
+[SPEAKER_01]: It seems like your beaches are completely overloaded and overcapacitated, quite frankly.
+[SPEAKER_01]: It would be a great welcome, even should the Lord not wish to hear my case.
+[SPEAKER_01]: But I'm still happily prepared for myself and my good man here next to me.
+[SPEAKER_00]: So a fire and a piece of meat is what you asked for, eh?
+[SPEAKER_01]: Preferably somewhere close to the table of the Lord, Retcho.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: Could I...
+[SPEAKER_01]: Offer to pay my fair share now.
+[SPEAKER_01]: I, like, jingled my bag.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: As if, like, taking coins out.
+[SPEAKER_00]: Okay, so roll persuasion.
+[SPEAKER_01]: Oh, okay.
+[SPEAKER_00]: Now, hang on a second.
+[SPEAKER_00]: I'm going to have to restart the meeting.
+[SPEAKER_00]: I'm going to send you another invite, okay?
+[SPEAKER_01]: Oh, for, uh... For Zoom.
+[SPEAKER_00]: For Zoom.
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: I'll do it.
+[SPEAKER_00]: It'll be, like, two minutes, okay?
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: No problem.
+[SPEAKER_01]: I gotta go to the bathroom.
+[SPEAKER_00]: Alright, go to the bathroom.
+[SPEAKER_00]: Hey, you back?
+[SPEAKER_01]: Hello, hello?
+[SPEAKER_00]: Hey Steve, you can hear me?
+[SPEAKER_01]: Yep, I can hear you fine.
+[SPEAKER_00]: Alright, let me show the screen again.
+[SPEAKER_01]: Okay, here we go.
+[SPEAKER_01]: Alright.
+[SPEAKER_01]: Sorry.
+[SPEAKER_01]: I'm still primarily looking at the screen on, um...
+[SPEAKER_00]: Subtitles by the Amara.org community
+[SPEAKER_00]: What you can do...
+[SPEAKER_01]: So I jiggle around in my purse, like I'm totally willing to pay.
+[SPEAKER_01]: And I look at him and I say, I beg no generosity from the Earl.
+[SPEAKER_01]: What would be the cost of dinner?
+[SPEAKER_01]: I mean, provided that their dinner is still being served with the Earl in attendance.
+[SPEAKER_01]: Short of that, I'm happy to pay for any of his finer wines.
+[SPEAKER_00]: Okay, let me look at this.
+[SPEAKER_01]: That's right, I had to roll, right?
+[SPEAKER_00]: Persuasion.
+[SPEAKER_01]: So, do I want to go into the left-hand screen and roll a 20?
+[SPEAKER_00]: Well, you can do that.
+[SPEAKER_00]: Or, there is another way you can do it, which is to use your character sheet.
+[SPEAKER_01]: But I don't know that my character sheet ever posted.
+[SPEAKER_01]: Remember, I sent you that text.
+[SPEAKER_00]: I'm looking at your character sheet right now.
+[SPEAKER_00]: And what I can see from your character sheet is you have persuasion.
+[SPEAKER_00]: I'm gonna do this, you can see how I do it.
+[SPEAKER_00]: Look at my screen really fast for a second.
+[SPEAKER_00]: Do you see how, on roll 20, or through Zoom, you can see what I'm doing.
+[SPEAKER_01]: Okay, so both of my Zoom screens, just real quick, not till I cuss it, but I don't wanna close either of them out, but I think I have an old Zoom one, but neither one of them is showing me anything.
+[SPEAKER_01]: Oh, really?
+[SPEAKER_01]: Yeah, like I just see the big zoom on the page.
+[SPEAKER_01]: It might be because I didn't necessarily, I don't think I had zoom downloaded, so I clicked on this thing that looked like it was like a quick click.
+[SPEAKER_00]: That's fine then.
+[SPEAKER_00]: Let's do this.
+[SPEAKER_00]: Do you see that roll 20 die, that die over there that you were talking about?
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: Looks like a 20, you can go down to D20 and just click on it and it will generate a number for you.
+[SPEAKER_00]: I just did it and rolled a 2.
+[SPEAKER_01]: Okay, so I'll just do the D20, yep.
+[SPEAKER_00]: Fourteen.
+[SPEAKER_00]: Okay, so that's pretty good.
+[SPEAKER_00]: You got a big purse.
+[SPEAKER_00]: You know, and actually you notice he looks at the coinage and says, Uh, well, the Earl hasn't had many guests soon.
+[SPEAKER_00]: Come with me.
+[SPEAKER_01]: No, thank you.
+[SPEAKER_00]: Okay, so the two of you walk across the bridge and this man says, the man says to you, I take it this is your servant?
+[SPEAKER_01]: Yes, yes, my manservant.
+[SPEAKER_00]: Well, maybe he can dine with me.
+[SPEAKER_01]: Of course, of course.
+[SPEAKER_00]: Alright, so he takes you into the courtyard.
+[SPEAKER_00]: Kind of a small affair, but there are some stairs that go up the side.
+[SPEAKER_01]: I want to make sure that, uh, that, uh, Boris, maybe Boris carries some of his own money.
+[SPEAKER_01]: I mean, I would, I would hope so, but, like, in silver and gold.
+[SPEAKER_01]: But if you, if I don't think that he does, I'm gonna, like, make sure I slap him a handful of silver and gold discreetly so that...
+[SPEAKER_00]: He has, he has coins.
+[SPEAKER_00]: He has coins.
+[SPEAKER_00]: He has maybe one-tenth what you have, like 50 gold coins and gold and silver.
+[SPEAKER_01]: But he could do what he needs to.
+[SPEAKER_00]: Yeah, I mean, definitely.
+[SPEAKER_00]: I mean, you packed enough money to be able to, you know, live for six months if you needed to.
+[SPEAKER_00]: That's what the thousand gold coins were.
+[SPEAKER_00]: And he had enough to basically take care of himself for that amount of time, right?
+[SPEAKER_00]: So, basically, if you want to live very well, like an adventurer would, you spend about a gold coin, two gold coins a day, right?
+[SPEAKER_00]: If you want to live like a pauper, you spend...
+[SPEAKER_00]: So you go in and he takes you up these stone stairs and into this great hall and this castle obviously is pretty old but you know it's well attended right and
+[SPEAKER_00]: It's clean and there are some tapestries on the walls and you know there's a big hearth with a fire in it in the side.
+[SPEAKER_01]: What's that?
+[SPEAKER_01]: Yeah, so obviously the guy's family crest is a Suel design.
+[SPEAKER_00]: So you're in the house of somebody that is a school lord or descendant of one.
+[SPEAKER_00]: Anyway, he says to you, please take a seat by the fire.
+[SPEAKER_00]: I will have my lord, I will escort my lord in.
+[SPEAKER_00]: You and he can talk together in privacy if you wish.
+[SPEAKER_01]: Or private attendance.
+[SPEAKER_00]: Well, he hasn't had guests in some time.
+[SPEAKER_00]: I'll tell him you're here.
+[SPEAKER_00]: If he wishes to attend to you, he will come.
+[SPEAKER_01]: I am boundlessly grateful.
+[SPEAKER_01]: So, he walks off.
+[SPEAKER_01]: Is there the awkward pause?
+[SPEAKER_01]: Like, is there a tip needed?
+[SPEAKER_00]: No.
+[SPEAKER_00]: He doesn't do that, actually.
+[SPEAKER_01]: Okay, just checking.
+[SPEAKER_00]: So he takes off and you and Horace are left there to speak, right?
+[SPEAKER_01]: Mm-hmm.
+[SPEAKER_01]: I tell Horace, you know, find out what you can.
+[SPEAKER_01]: That's my mission here is just to find out what I can with this war with Monmurg and the embargo and what is their aims?
+[SPEAKER_01]: I mean, like, what do they hope to win?
+[SPEAKER_01]: I'm surprised that...
+[SPEAKER_00]: I'll see what I can find out.
+[SPEAKER_01]: Yeah, please, and discreetly and at no risk to yourself or myself either, please.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: So, I would say about 15 minutes go by, and then the man-at-arms returns with a older-looking lord.
+[SPEAKER_00]: He's probably about 55 and a human.
+[SPEAKER_00]: And you can tell, even though he is
+[SPEAKER_00]: You know, he has Suel features and he actually looks very... very much of that race.
+[SPEAKER_00]: He's got black hair, right?
+[SPEAKER_00]: Which indicates to you that he probably has some Flannish blood in him as well.
+[SPEAKER_00]: The Suel are incredibly racist, and they're very proud of their blood, right?
+[SPEAKER_00]: Something like that.
+[SPEAKER_00]: He's definitely, you know, speaking up his Suel blood in an attempt to justify himself to somebody else.
+[SPEAKER_00]: Exactly, but at some point in the past, his family, you know, brought in a black sheep and instead of being able to just own this person, they had to keep it in the line.
+[SPEAKER_00]: Gotcha.
+[SPEAKER_00]: So that's kind of what is happening, right?
+[SPEAKER_00]: What I'm trying to say is, he's not from a great family, obviously, right?
+[SPEAKER_01]: Right, but somehow there were some connections.
+[SPEAKER_01]: Exactly.
+[SPEAKER_01]: Whether earned himself in his own lifetime or his father's and they could not easily be dismissed.
+[SPEAKER_00]: Yeah.
+[SPEAKER_01]: Dwight, you said that Keoland was a bit of a refuge, or like one or two of the most powerful Sioux families were based in Keoland?
+[SPEAKER_00]: Oh yeah, two very powerful.
+[SPEAKER_00]: The Rhola, who is the Duke of Gradsul's family, from what you understand.
+[SPEAKER_00]: And then also the Nehili, which live up in Neola Draw to the north.
+[SPEAKER_00]: You don't know a whole lot about them.
+[SPEAKER_01]: Well, so does that mean that the Earl of Red Shore is within the holdings of the Duke of Gradsul?
+[SPEAKER_00]: Most likely.
+[SPEAKER_01]: Most likely.
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: You're not sure, though, you know.
+[SPEAKER_01]: Right.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: I vow, you know, no mocking bone in my body.
+[SPEAKER_01]: I give the most, you know, human of vows.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: He looks at you and kind of, you know, rubs his black beard.
+[SPEAKER_00]: You know, it has, like, white in it as well.
+[SPEAKER_00]: He's getting older, definitely.
+[SPEAKER_00]: But by all means, he seems to be, like, somebody that's been a warrior.
+[SPEAKER_00]: And, um, you know, he carries, like, a longsword on his side.
+[SPEAKER_00]: And he says, Again, sir, what is your name?
+[SPEAKER_01]: My name is Jude of Idee.
+[SPEAKER_01]: I have fought for the last year in the wars over in Idee against the south province.
+[SPEAKER_00]: Ah yes, that is what Ariel told me here.
+[SPEAKER_00]: Hmm.
+[SPEAKER_00]: Interesting.
+[SPEAKER_00]: Please.
+[SPEAKER_00]: Stay seated.
+[SPEAKER_00]: Let me get some wine for us.
+[SPEAKER_01]: I still stand up and greet him as accordance with somebody of higher rank.
+[SPEAKER_00]: He says, Aureole, please, get us some food.
+[SPEAKER_00]: Have the cook make us some food.
+[SPEAKER_00]: Entertain his man.
+[SPEAKER_01]: Much thanks, much thanks.
+[SPEAKER_01]: And I'm not divorced.
+[SPEAKER_01]: You're saying, like, warriors that I have traveled far with.
+[SPEAKER_01]: You carry a sword, yes, you're a king.
+[SPEAKER_00]: Well, these are dangerous times, might I say.
+[SPEAKER_01]: I've heard war between Keoland, dare I say, and the Sea Princes?
+[SPEAKER_00]: Well, the war is being executed by the Duke of Gradsul.
+[SPEAKER_00]: And myself, actually.
+[SPEAKER_00]: I'm the commander of the flotilla.
+[SPEAKER_01]: And quite.
+[SPEAKER_01]: We were escorted by two of your man-of-wars.
+[SPEAKER_01]: Very trim.
+[SPEAKER_01]: Very foul.
+[SPEAKER_00]: Yes, I suppose.
+[SPEAKER_00]: So, he brings the two goblets of wine.
+[SPEAKER_00]: You can tell this guy's refined, right?
+[SPEAKER_01]: Okay, and I have not a mocking bone in my body.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: And he basically puts the glasses down.
+[SPEAKER_00]: And he says, as is tradition among the Suel, you please select the glass you'd like.
+[SPEAKER_01]: Sorry.
+[SPEAKER_01]: So he kind of looks at you and says, I find something strange about you.
+[SPEAKER_01]: You're an elf, no doubt.
+[SPEAKER_00]: But I must admit, I've never seen an elf with eyes like yours.
+[SPEAKER_00]: Almost like snakes.
+[SPEAKER_00]: By the way, this is a side effect of your condition.
+[SPEAKER_01]: You didn't send me the... You didn't send me the...
+[SPEAKER_00]: I have to send you the PDFs.
+[SPEAKER_00]: But basically, you have slitted eyes like a snake.
+[SPEAKER_01]: And I know this, right?
+[SPEAKER_00]: Yes.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: If people...
+[SPEAKER_01]: If I lose an eyebrow and I say, or a dragon.
+[SPEAKER_00]: You say, or a dragon?
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: Oh.
+[SPEAKER_00]: He looks at you and goes, interesting, I've never heard of draconic blood flowing through the veins of an elf before.
+[SPEAKER_00]: And he basically sits down by the fire.
+[SPEAKER_00]: Would you have a sit by the fire?
+[SPEAKER_01]: Of course.
+[SPEAKER_01]: Of course, probably.
+[SPEAKER_00]: So I take it you're not just a mere ambassador from some kingdom at a D. I know little about the lands to the east that far.
+[SPEAKER_00]: South Province, you say?
+[SPEAKER_01]: South Province.
+[SPEAKER_01]: The Herzog of the South Province is enthralled to the Great Kingdom for all of their inherent insanity.
+[SPEAKER_00]: I know little of the Oeridian lands to the east and care little for them myself.
+[SPEAKER_01]: Well, of course, I understand that your proximity to the Sea Princes and your dealings with the Yeomanry and Keoland are of paramount import.
+[SPEAKER_01]: I would not expect that you would know.
+[SPEAKER_01]: I indeed was struck haphazardly by
+[SPEAKER_01]: Great ocean wave that devastated its coastal populations.
+[SPEAKER_01]: Very much fishing villages, much as your own here and the like.
+[SPEAKER_01]: And Naree was devastated, the capital of Idee was devastated.
+[SPEAKER_01]: And the South Provinces, having been, are always jealous of the Iron League.
+[SPEAKER_01]: So you wish to go to the... Monmurg.
+[SPEAKER_00]: The Prince of Monmurg.
+[SPEAKER_00]: And ask for aid in this war, I take it.
+[SPEAKER_01]: At least loads.
+[SPEAKER_01]: Monies, mercenaries, quite honestly.
+[SPEAKER_01]: I mean, unabashedly, anything.
+[SPEAKER_01]: If a D is lost, it will split.
+[SPEAKER_01]: Well, I do not want to bore you with geography, but as part of the Iron League, a D is a bit of the red-headed stepchild.
+[SPEAKER_01]: And yet, it holds a key linchpin position.
+[SPEAKER_01]: And in the Iron League, if a D falls, it will sunder.
+[SPEAKER_00]: In truth, this bores me, Jude.
+[SPEAKER_00]: I have no wish to learn of the plights of this small country at the hands of the Herzog.
+[SPEAKER_00]: Certainly.
+[SPEAKER_01]: Certainly.
+[SPEAKER_01]: My apologies.
+[SPEAKER_00]: No apologies necessary.
+[SPEAKER_00]: I would inform you, though, that Monmurg will not be able to help you.
+[SPEAKER_00]: Very soon, the city will be crushed.
+[SPEAKER_01]: I've been absent from these western shores for a year with my fighting.
+[SPEAKER_01]: I did not, when I had left, I did not understand that there was conflict.
+[SPEAKER_01]: I knew of the historical conflict, of course, of course.
+[SPEAKER_01]: What grievance, grave misdeed has Monmurg and the Sea Prince has done of late?
+[SPEAKER_00]: Well, you know historically Keoland and the Sea Princes have always been rivals, if it's to be said.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: But truthfully, the slavery that the Sea Princes engage in has become so odious that the Duke of Gradsul has taken it upon himself to end it once and for all.
+[SPEAKER_00]: So you see,
+[SPEAKER_00]: We are morally in the right on this.
+[SPEAKER_01]: Of course, of course.
+[SPEAKER_01]: The slavery trade has always been one of us.
+[SPEAKER_00]: Okay, so the truth is this.
+[SPEAKER_00]: You know historically that Monmurg has never really wanted to be a part of that.
+[SPEAKER_01]: No, no, I know.
+[SPEAKER_01]: I was actually going to say that.
+[SPEAKER_01]: I was going to RP that.
+[SPEAKER_01]: Because I do know that Prince Jeon, it's the Tolis.
+[SPEAKER_01]: And what's weird is that the Tolis, they're also Suel.
+[SPEAKER_01]: So, at the risk, Great Earl, of overstepping my bounds in your hospitality, do you know much of the Sea Princes?
+[SPEAKER_01]: For my experience is that it's the Toli of the Sea Princes alone that persists.
+[SPEAKER_00]: So, roll insight.
+[SPEAKER_00]: Do a d20.
+[SPEAKER_01]: Oh my God, is he a Toli?
+[SPEAKER_00]: I rolled 19.
+[SPEAKER_00]: You rolled a 19.
+[SPEAKER_00]: Okay, you can see that he's a little displeased at what you're saying.
+[SPEAKER_01]: Hmm, okay.
+[SPEAKER_00]: So do you trail off, or what do you want to do?
+[SPEAKER_01]: I say, but of course with my absence, perhaps my understanding is completely lacking.
+[SPEAKER_01]: Could you enlighten me further, please?
+[SPEAKER_01]: I interrupted you.
+[SPEAKER_00]: Well, I will tell you that there are many ways to end something so horrible as that, but you probably know that the Duke of Gradsul and the Princes of Port Toli have had a rivalry as well.
+[SPEAKER_00]: This has gone...
+[SPEAKER_01]: Wait, wait, wait.
+[SPEAKER_01]: Is this him telling me this?
+[SPEAKER_00]: He is telling you this.
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: And he basically says, And in truth, the Oeridians of the Outer Isles are but mere nuisances to this rivalry.
+[SPEAKER_00]: I think the Duke understands that first, however, he must bring the pirates to their knees before he can deal with the Toli directly.
+[SPEAKER_01]: What's that?
+[SPEAKER_00]: Your voice is very, very faint.
+[SPEAKER_01]: Can you hear me now?
+[SPEAKER_00]: A little better, but not great.
+[SPEAKER_01]: Is it my understanding that this is implied a competition between the Sulu colonies?
+[SPEAKER_00]: I don't think you should understand this at all.
+[SPEAKER_00]: I think what you should know is that this war is going to bring Monmurg to its knees, and then after that, the Duke will treat with the Toli.
+[SPEAKER_01]: Treat with the Slavens?
+[SPEAKER_01]: I'm confused.
+[SPEAKER_00]: Well, unfortunately, that is not my fault.
+[SPEAKER_01]: Uh, nay, uh...
+[SPEAKER_01]: My misunderstandings are, of course, my own.
+[SPEAKER_01]: It is only that I... Perhaps I'm too far into my...
+[SPEAKER_01]: I was drinking as I'm on the ship before coming here and I was frustrated as I had hoped to have an easy sailing to Monmurg and I find myself in the midst of a war.
+[SPEAKER_00]: Tell me, who did you intend to meet in Monmurg?
+[SPEAKER_01]: Oh, well, I mean, I hope to petition anyone of power as similarly as I have made my way to Europe.
+[SPEAKER_00]: And do you have influence with any of these men?
+[SPEAKER_01]: Influence?
+[SPEAKER_01]: Yes.
+[SPEAKER_00]: Give me a name, Jude.
+[SPEAKER_01]: Well, a name.
+[SPEAKER_01]: I had been in the Foreign Quarter before, and I had first hoped that the Lord of the Foreign Quarter would hear my plea as being from the D. And that would be, I believe, Lord Jamis, I believe.
+[SPEAKER_00]: Ah, the Dockmaster.
+[SPEAKER_01]: Of course, and he's in charge of the Foreign Quarter.
+[SPEAKER_01]: I spent some time in Monmurg prior to that in the Foreign Quarter.
+[SPEAKER_00]: So I've heard that Lord Jamis has the ear of Prince Jeon himself.
+[SPEAKER_01]: Hence, I would hope to obtain an introduction to Lord Jeon myself, on behalf of the Deek.
+[SPEAKER_00]: Ah, interesting.
+[SPEAKER_00]: So it is fortuitous that fate has drawn you my way.
+[SPEAKER_00]: For both of us, actually.
+[SPEAKER_00]: Hm.
+[SPEAKER_00]: How so?
+[SPEAKER_01]: I pour myself some more wine, if there's a wine carafe or bottle.
+[SPEAKER_00]: Actually, there is.
+[SPEAKER_00]: Okay, so you pour yourself wine.
+[SPEAKER_01]: And I pour him, yeah.
+[SPEAKER_00]: Oh, and you pour him, okay.
+[SPEAKER_01]: Yes.
+[SPEAKER_00]: So, he's like... Well, in truth, your small country does sound like it's in dire need of assistance.
+[SPEAKER_00]: Money, as you would say.
+[SPEAKER_00]: Yes, yes.
+[SPEAKER_00]: Just as Lord Jamis has the ear of Prince Jeon, I have the ear of the Duke of Gradsul himself.
+[SPEAKER_00]: I'm his man in the area, as it were.
+[SPEAKER_01]: And the Lord of Tortilla?
+[SPEAKER_00]: Yes, I do command the, um...
+[SPEAKER_00]: I'm always on the lookout for good agents to bring me information, as it were.
+[SPEAKER_00]: Perhaps somebody
+[SPEAKER_00]: That is interested in the assistance of a powerful nation would do better to find a patron with real pockets, if you know what I mean.
+[SPEAKER_01]: Most certainly, most certainly.
+[SPEAKER_01]: And he is unabashed in obtaining assistance from all good nations.
+[SPEAKER_01]: How would I be able to best serve myself, and by extension, Lord Brassen?
+[SPEAKER_00]: I, um...
+[SPEAKER_00]: I would like to know more of this Jamis, and also the intentions of Prince Jeon.
+[SPEAKER_00]: I would also like to know the state of the city, as our spies have not been able to penetrate it as such.
+Hm.
+[SPEAKER_01]: Well...
+[SPEAKER_00]: Nothing risky, mind you.
+[SPEAKER_00]: I understand you're just an ambassador.
+[SPEAKER_01]: But perhaps a... Well, no, I mean, I've traveled and I've lived in Monmurg prior to this, but only in the foreign district.
+[SPEAKER_01]: And you know they're very stoogey about their citizenship.
+[SPEAKER_01]: But which, uh, I've never acquired.
+[SPEAKER_01]: And that's always kept in the board district.
+[SPEAKER_01]: But they are great at defense.
+[SPEAKER_01]: Their bastions are expansive.
+[SPEAKER_01]: Dare I say comprehensive and in depth.
+[SPEAKER_01]: And I think that that's not even anything that you have not even been able to acquire through sheer observation of anyone that came out.
+[SPEAKER_01]: Um, as for Jamis, uh, I know that he is in charge of the Forum District, though never having had an audience with him specifically.
+[SPEAKER_01]: I had hoped that after, uh, my knowledge that at least his patronage of the Forum District or his control, that by dealing with Lord Anlauf Ogmotton and the D, that that would allow me at least an audience.
+[SPEAKER_01]: Um, as it has
+[SPEAKER_01]: Here for you, quite frankly.
+[SPEAKER_01]: I'm all modest, see.
+[SPEAKER_01]: I don't know what purpose I could serve you ahead of time.
+[SPEAKER_01]: If you seek something from me after the fact, should you permit me and a vessel to travel?
+[SPEAKER_01]: Perhaps I would be able to give you more specific information.
+[SPEAKER_01]: What I have heard, Seamus, is that he's a very pragmatic man.
+[SPEAKER_01]: Very certainly, what I've heard of the Xi'an and the sequences.
+[SPEAKER_01]: I've already intimated to you in my confusion.
+[SPEAKER_01]: Sorry, did I lose you?
+[SPEAKER_00]: No, I'm here.
+[SPEAKER_01]: I'm here.
+[SPEAKER_01]: I've already intimated to you, though I seek not to displeasure you as your guest, in that my understanding is that the Toli of all the sequences
+[SPEAKER_00]: This may be true, but you understand of course that without the protection of the Monmurgian fleet, they would not be able to operate.
+[SPEAKER_01]: Absolutely, and I do believe that the slave trade is a terrible blight.
+[SPEAKER_01]: In that I am in entire accord with yourself and the Lord Bratzel.
+[SPEAKER_01]: It has always been distasteful.
+[SPEAKER_01]: And I had even thought to myself prior to coming across the Azure Sea as an emissary from the D that any sort of negotiations with the Sea Princes would have to eschew any continuation, at least on those far eastern shores of which you're not much concerned, admittedly, of the slave trade.
+[SPEAKER_00]: Well, it seems that we're more natural allies than you are with Monmurg.
+[SPEAKER_01]: Oh, well, E.D.
+[SPEAKER_01]: is not yet allies with Monmurg at all, of course.
+[SPEAKER_01]: And I understand that Monmurg and the islands guard access to Toli.
+[SPEAKER_01]: However, it is not lost upon me, Lord, and forgive me, I entreat thee, that I notice your crust.
+[SPEAKER_01]: There's always a chance for forgiveness, but first off,
+[SPEAKER_00]: What has to be dealt with is the nest of vipers.
+[SPEAKER_00]: You must crush those that benefit as well as those that do not.
+[SPEAKER_00]: And once there is victory, there is magnanimity.
+[SPEAKER_00]: You can be magnanimous at that time.
+[SPEAKER_00]: And believe me, the Duke of Gradsul is a man of great generosity and, I would say,
+[SPEAKER_00]: Good judgment.
+[SPEAKER_00]: He is very, very forgiving for all people's transgressions.
+[SPEAKER_01]: I am, as from the country of the DEA, completely out of my depth here.
+[SPEAKER_01]: And I hope to simply turn our conversation towards slaying dragons and saving maidens.
+[SPEAKER_01]: I understand.
+[SPEAKER_01]: I am not worthy to deal in such dealings as large and powerful houses as this huge truck.
+[SPEAKER_01]: However, I still entreat thee in some way to complete my mission, whether in a capacity that best serves you for the future of the Deep, or whether that means sending me to Monmurg or back to the Deep.
+[SPEAKER_01]: But I admit that I am out of my depth and feeling like I am barely treading water.
+[SPEAKER_00]: I understand.
+[SPEAKER_01]: Should we throw daggers on a dartboard then?
+[SPEAKER_01]: And continue to drink?
+[SPEAKER_01]: Or...
+[SPEAKER_01]: I pour some more wine in mine and I pour his.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: He says to you,
+[SPEAKER_00]: Actually, I think that I will give you a piece of advice.
+[SPEAKER_00]: There's a man in Red Shore called Owen Black.
+[SPEAKER_00]: Historically, he is from the Sea Principalities, the Outer Isle, if you will.
+[SPEAKER_00]: He's one of those Oeridian pirates, once was in the Navy of the Sea Principalities.
+[SPEAKER_00]: He's known to be a smuggler and a knave.
+[SPEAKER_00]: But he knows the shipping lanes and patrols better than any man out there.
+[SPEAKER_00]: And he owns his own ship.
+[SPEAKER_00]: Owen Black.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: Now...
+[SPEAKER_00]: For a good amount of money, a bribe as it were, he may be willing to take you to one of the outer islands, or maybe even to Monmurg itself.
+[SPEAKER_00]: You still there?
+[SPEAKER_01]: Yeah, yeah, yeah, yeah.
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: He said, and then, and then the Earl says, I would hope that when you reach Monmurg,
+[SPEAKER_00]: And you understand the seriousness of the Duke of Gradsul.
+[SPEAKER_00]: You find it amenable to consider my offer.
+[SPEAKER_00]: Any information, troop movements, the state of the city, morale, any of these things,
+[SPEAKER_00]: Oh.
+[SPEAKER_01]: Will I meet this Owen Black?
+[SPEAKER_00]: He may be around a bar in Red Shore.
+[SPEAKER_00]: He's got a scar on his face.
+[SPEAKER_00]: Handsome man, but he's seen battle.
+[SPEAKER_00]: He's a carouser.
+[SPEAKER_00]: Loud mouthed.
+[SPEAKER_00]: Hard to miss though.
+[SPEAKER_00]: And does he move freely with his name?
+[SPEAKER_00]: All I can say is that nothing happens in Red Shore without my say-so.
+[SPEAKER_00]: I found the man useful, as I hope you find him useful as well.
+[SPEAKER_00]: And I hope in time we'll find each other useful to each other.
+[SPEAKER_01]: Is there any other way before our leave-taking that I may
+[SPEAKER_01]: Yes, you know what my interests are.
+[SPEAKER_00]: I wouldn't say it's quite late but I'm old and I wish to go to bed.
+[SPEAKER_00]: Think on this and trust Owen Black to deliver messages to me.
+[SPEAKER_01]: I and his ability to move both north and south.
+[SPEAKER_01]: He is almost guaranteed.
+[SPEAKER_00]: It is to me.
+[SPEAKER_00]: It is by me.
+[SPEAKER_01]: Yes, of course.
+[SPEAKER_01]: Well, thank you for this Augusta visitation.
+[SPEAKER_01]: I will never forget it and I will always consider you a patriot.
+[SPEAKER_00]: Good night.
+[SPEAKER_00]: Okay, so he stands up and walks out.
+[SPEAKER_01]: I stand up as he walks out.
+[SPEAKER_00]: Okay.
+[SPEAKER_01]: And finish my drink and look into the fire and perhaps wait for the valet.
+[SPEAKER_00]: Okay, so the men-at-arms and Horace do come back, right?
+[SPEAKER_00]: And...
+[SPEAKER_00]: The man at arms says, the Lord will not be having dinner, but he has instructed me to give both of you food for tonight.
+[SPEAKER_00]: Unfortunately, the fare will not be good.
+[SPEAKER_00]: Our cook has recently died, and you'll have to do with what we can do now.
+[SPEAKER_00]: Okay, so he brings out these basically roasted lamb and puts it on the table and gives you guys some more goblets of beer and stuff like that.
+[SPEAKER_01]: Cold cuts of bread.
+[SPEAKER_00]: Exactly, and you and Horace are basically stayed there and eat.
+[SPEAKER_00]: Do you want to say anything to Horace?
+[SPEAKER_01]: No, I just kind of give him a sort of like a, you know, it was a great visit.
+[SPEAKER_01]: How about you?
+[SPEAKER_01]: He goes... Small talk, small talk.
+[SPEAKER_00]: Right, he says, well, there seem to be some strange things happening here.
+[SPEAKER_01]: It seems most unfortunate that they lost their cook, that he died.
+[SPEAKER_01]: Yet these meats are still delicious, are they not?
+[SPEAKER_01]: Much better fare than the porridge and gruel on the ship.
+[SPEAKER_00]: Um...
+[SPEAKER_00]: Yes, when I ask about the cook, he...
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: Definitely.
+[SPEAKER_00]: Okay, Steve, we're about to lose our session.
+[SPEAKER_00]: I do have to go to bed.
+[SPEAKER_01]: We can totally end it here.
+[SPEAKER_01]: I will not talk anything important to Boris within the castle.
+[SPEAKER_01]: We'll talk and compare on our way out.
+[SPEAKER_01]: About what time at night is it when we leave?
+[SPEAKER_00]: I would say probably not that late.
+[SPEAKER_00]: Steve?
+[SPEAKER_00]: Hey, so it's not that late, it's probably about 8.30, 9.
+[SPEAKER_00]: No, no, no, when you leave the keep.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: Okay, so, all right, cool.
+[SPEAKER_00]: So, you guys leave around 9 a.m. and you want to go into town and see if...
+[SPEAKER_00]: There's still a lot of time at night, so you want to see if you can find Owen Black.
+[SPEAKER_00]: Right, exactly.
+[SPEAKER_00]: Okay?
+[SPEAKER_00]: Sounds good?
+[SPEAKER_00]: I mean, this is working.
+[SPEAKER_00]: It's annoying to have to restart every 45 minutes because it's just so much better to have it continuous, but let's see what happens.
+[SPEAKER_00]: Yeah, let me look into that.
+[SPEAKER_00]: I think if we could do Discord, that would be okay.
+[SPEAKER_00]: It could be that the app is just not working with your...
+[SPEAKER_00]: Right.
+[SPEAKER_00]: Yeah, I think that's exactly it.
+[SPEAKER_00]: It's just some incompatibility.
+[SPEAKER_00]: Hmm, interesting.
+[SPEAKER_00]: I'll send you the PDFs.
+[SPEAKER_00]: You should be able to download them, but yeah, I can email them to you.
+[SPEAKER_00]: No, no, no.
+[SPEAKER_00]: They're the same thing.
+[SPEAKER_00]: They're the same thing.
+[SPEAKER_00]: It's just like little details of your physical appearance are very...
+[SPEAKER_00]: If somebody is just looking at you,
+[SPEAKER_00]: Antenatuses, exactly.
+[SPEAKER_00]: Okay, we'll talk to you later.

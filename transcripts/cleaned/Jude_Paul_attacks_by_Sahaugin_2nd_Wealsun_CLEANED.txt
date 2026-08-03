@@ -1,0 +1,277 @@
+[Speaker Key: DM = Dungeon Master (narration, rules calls) | JUDE = Jude's player | PAUL = Paul Rivera's player. NOTE: This is an extremely dense combat encounter against multiple Sahaugin near the docks, with heavy back-to-back dice-roll exchanges. The reconstruction below preserves tactical decisions, banter, and key narrative beats; repetitive numeric exchanges are summarized rather than transcribed individually.]
+
+DM: Second of Wealsun — Jude and Paul rush back toward the docks as they see their ship under attack.
+
+DM: You've used your action to dash already?
+
+JUDE: Yes.
+
+DM: So your reaction's free for something like Shield, if needed.
+
+DM: A creature comes out of the water nearby — shaped like a man, but with a huge mouth full of sharp teeth, wide-set, lifeless black eyes.
+
+JUDE: Fuck them up.
+
+DM: Another one surfaces here, Jude, and you see it too.
+
+JUDE: Can you give me a sense of distance — how many hexes to the ship?
+
+DM: [marking it out] That's going to take at least two, maybe three more dashes to reach.
+
+JUDE: And the ship — full combat already underway?
+
+DM: Yeah, it's a heavy melee — they look outnumbered.
+
+JUDE: Do we see more of these things popping up as we go, or is it just the two right here?
+
+DM: Deeper down the dock, you see more of them climbing out of the water, righting themselves, blocking your path — dozens, not just a couple.
+
+JUDE: Great.
+
+DM: Initiative — Jude twenty-five, the Sahaugin various, Paul fourteen.
+
+DM: Jude, you're up first.
+
+JUDE: I need to know — if I move thirty feet toward the ship, what's my remaining distance? I'm trying to figure out if I can get close enough for a fireball to help.
+
+DM: The fight at the ship is roughly two hundred feet down the dock — you'd need to close about a hundred feet to make that work with your spell's range.
+
+JUDE: So that's a full dash this round, minimum — and how many enemies would I be running past to get there?
+
+DM: At least three, with more crawling onto the docks on either side.
+
+JUDE: Not worth it.
+
+DM: You realize — the only reason your men were able to push over the wall earlier was because you blew away the front line of hobgoblins for them. This ambush has them caught between hobgoblins shooting down from above and Sahaugin climbing out of the water like a bamboo trap snapping shut.
+
+JUDE: Let me check Lightning Bolt instead — can I fork it to catch more than one of these things near me?
+
+DM: You can't hit all three from here, but you could probably catch two if you reposition.
+
+JUDE: [weighing options] There are still guys close enough to reach me within their turn if I commit to that position.
+
+DM: Right — they'd close the distance and attack you directly.
+
+JUDE: I think I'll fall back instead, rejoin the sergeant's position.
+
+DM: Okay, you move back to rejoin the sergeant, readying your wand as you go.
+
+JUDE: I want to cover whoever's nearby — if anyone gets close to Paul or attacks him, I fire.
+
+DM: Got it — you back up, wand ready. The ship's on its own for now; it's got two hundred Marines aboard, so it's not undefended, even if outnumbered. We need to keep our twenty guys alive — that might be all we have left if the ship goes down.
+
+JUDE: We can't help the ship directly right now.
+
+DM: Right — Jude backs up, wand ready as a readied action.
+
+DM: Paul, what do you want to do?
+
+PAUL: [reacting to the chaos] Oh, shit — I'll move back toward where Jude is.
+
+DM: Okay, you move to join him.
+
+PAUL: Do I attack, or ready an action?
+
+DM: Your call.
+
+PAUL: I'll ready my crossbow — if anyone closes to melee range, I shoot.
+
+DM: Okay, you pull back, crossbow ready. One of these creatures charges you with a spear.
+
+PAUL: Wait — is this one of the sea creatures that came out of the water? I've seen Sahaugin before.
+
+DM: Yes — you recognize it as a Sahaugin: a shark-man, able to breathe air for a time and telepathically command sharks to do its bidding.
+
+PAUL: Is there a limit to how long it can stay on land?
+
+DM: Roll a check — Nature, or Arcana, whichever applies. With your intelligence bonus—
+
+PAUL: [rolling] I recall reading that Sahaugin can stay above water for extended periods, but not indefinitely — they need to return to the sea eventually. They won't be raiding deep into the city, but they're capable of reaching a fair distance inland on an island like this. They're at a disadvantage away from the coast, though, especially if you can draw the fight onto the beach itself.
+
+DM: True — though technically the whole island counts as "near the coast."
+
+DM: Do you want to use your reaction now?
+
+JUDE: Yes — I'll fire one blast from my wand rather than going full power.
+
+DM: [resolving] That connects for a modest hit, slowing it down rather than dropping it.
+
+JUDE: I'm trying to buy time more than finish it off in one shot.
+
+DM: Understood — so, status check: nobody in our group's been dropped yet?
+
+PAUL: No, no — a couple of guys have taken hits, maybe five total, mostly archers, but the unit's holding.
+
+DM: Paul, want to use your readied action to fire?
+
+PAUL: Yeah, same target Jude hit.
+
+DM: [resolving] That's a solid hit too — combined, you've put real damage into this thing, but it's not falling. Doesn't even seem fully phased by it.
+
+JUDE: [muttering] What if it's got some kind of resistance going on?
+
+DM: For reference going forward — instead of exact hit point totals, think in terms of "lightly wounded," "well wounded," or "near death" to describe enemies, since that's typically how this gets tracked at the table. Right now, this Sahaugin would read as well wounded — bleeding, clearly hurt, but not near death yet.
+
+JUDE: This isn't great.
+
+PAUL: We're on the defensive now.
+
+JUDE: I might be in trouble myself.
+
+DM: Why? You've only taken one hit so far, you're still well above half.
+
+JUDE: Fair — so I'm somewhere between lightly wounded and well wounded.
+
+DM: That tracks.
+
+JUDE: As far as I'm concerned, I'm still in good shape, then.
+
+DM: This thing closes the distance on you with its spear—
+
+JUDE: Wait, real quick — what's the sergeant doing? Did he get to act?
+
+DM: He's not directly in this combat right now — you don't know exactly what he's doing elsewhere.
+
+JUDE: Damn, okay.
+
+DM: It attacks you — sensing the blood already on you.
+
+JUDE: I'm bleeding?
+
+DM: A little, yeah, hence the bonus to its aim.
+
+DM: [resolving the attack] Spear — misses. Claw follow-up — also misses.
+
+JUDE: Lucky.
+
+DM: There's actually a third one closing in too.
+
+PAUL: Wait, how do these shark-men have claws?
+
+DM: Sahaugin have webbed claws as well as the teeth — comes with the territory.
+
+DM: This one attacks you, Jude.
+
+JUDE: Great.
+
+DM: Luckily, you're not bleeding from this particular spot, so no extra bonus on his attack here. He follows up with a bite too — two attacks total.
+
+JUDE: [taking stock] I'm fine, still up.
+
+DM: All right — his teeth just glance off this time, no real damage from that one.
+
+DM: He shifts target and goes after Paul with his spear instead.
+
+PAUL: [bracing]
+
+DM: [resolving] That connects — five or six points, sticking you with a barbed spear tip.
+
+PAUL: Down to about nine left, then.
+
+DM: He follows with a claw too — another five or six points, slashing across your chest, though your mask absorbs some of the worst of it.
+
+PAUL: That's something, at least.
+
+JUDE: I've got maybe three hit points left myself — I'm going to fireball this whole cluster.
+
+DM: You'll need to protect yourself and Paul from the blast radius, then.
+
+JUDE: Right — I can sculpt the spell.
+
+DM: Wizards specifically can do that through certain school features — confirm your subclass lets you.
+
+JUDE: I'm a diviner — wait, no, I think it's actually my school's specific feature that lets me shield allies from my own spell.
+
+DM: Right — sculpt spells. You choose a number of creatures equal to one plus the spell's level — so up to four people — who automatically succeed their saving throw and take no damage if they'd normally take half.
+
+JUDE: Perfect — I'll sculpt it around myself and Paul.
+
+DM: Okay, so you drop the fireball right on top of the cluster of Sahaugin, sparing yourselves.
+
+DM: [rolling damage] Total comes out to thirty-one points of fire damage across the group.
+
+DM: They each roll a dexterity save against your spell DC of sixteen.
+
+DM: [resolving saves] Two fail outright — they're engulfed and die instantly. A third takes half damage but survives, badly burned. The remaining two take significant damage as well, possibly fatal depending on how wounded they already were.
+
+JUDE: [grimly satisfied] I've got three hit points left and I'm not about to explain to Lord Jamis how I let all these things overrun us.
+
+DM: [resolving final saves] Two of the five Sahaugin die outright in the flames; the others are scorched but still moving, barely.
+
+JUDE: I want to reposition — can I draw their attention away from Paul?
+
+DM: You can't redirect targeting that directly, but you can fall back and tell Paul to get clear, using his bonus action to disengage and move.
+
+JUDE: I'll move back toward the stairs, thirty feet.
+
+DM: Okay, you retreat that distance.
+
+PAUL: I'll disengage with my bonus action and fall back behind Jude.
+
+DM: You can dash the rest of the way if you want — the sergeant's unit is about a hundred feet that direction.
+
+PAUL: I'll dash toward them.
+
+DM: Do you want to take a shot at the remaining Sahaugin on your way, or just focus on disengaging cleanly?
+
+PAUL: I need to get off this line first — I haven't taken more damage yet, and I want to keep it that way.
+
+DM: Understood — you reposition off the direct line of attack.
+
+PAUL: [shouting] I'm getting the hell out of here — not fleeing, just repositioning tactically.
+
+DM: [resolving the remaining Sahaugin's turns] One closes in but can't quite reach you after your repositioning.
+
+DM: Jude, your turn — want to shoot while falling back, or hold position?
+
+JUDE: I'll back up and ready an action — if anyone closes in, I shoot.
+
+DM: You retreat about thirty feet, well clear of their charge range, and ready your shot.
+
+JUDE: Can I call out to the sergeant for support?
+
+DM: Sure — you shout for him.
+
+DM: One of the remaining Sahaugin dashes toward Jude's position but can't quite close the gap after dashing.
+
+DM: Do you want to take the shot now that he's in range?
+
+JUDE: Yes.
+
+DM: [resolving] You don't have advantage, but since he's already wounded and close, you qualify for a sneak attack bonus — that's enough to drop him. You hit him clean in the throat as he tries to leap up onto the platform, and he falls.
+
+DM: Last one still moving — already badly burned from the fireball — closes as far as he can, but he's clearly suffering from the fire damage.
+
+JUDE: Your turn — just the one left?
+
+DM: Yeah, and he's definitely scorched.
+
+JUDE: [confirming the dead one nearby] That's the one that already died, right there on the ground?
+
+DM: Right, he's down for good.
+
+JUDE: If I pull back now, does that draw an opportunity attack?
+
+DM: It would, unless you use your action specifically to disengage.
+
+JUDE: I'll commit instead — I know he's already half dead from the fire, I'll finish him with my wand.
+
+DM: [resolving] That's enough — twenty-five points, he falls.
+
+JUDE: I'm backing up thirty feet after that.
+
+DM: Are there more Sahaugin still incoming?
+
+JUDE: Definitely want to assume so.
+
+DM: Okay, you retreat thirty feet, fully committing to the fallback.
+
+DM: You both get up the beach and start running back toward where the main unit is positioned.
+
+JUDE: Where's the unit relative to us — center, that way?
+
+DM: That way, yes.
+
+JUDE: We need to consolidate with them — push toward the citadel as a group rather than splitting up further.
+
+DM: Hang on a second—

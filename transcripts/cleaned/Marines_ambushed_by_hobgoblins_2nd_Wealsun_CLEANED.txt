@@ -1,0 +1,111 @@
+[Speaker Key: DM = Dungeon Master (narration, rules calls, voicing the Marine sergeant and hobgoblin enemies) | TYRUS, GOUGE, FOLSOM, MERRICK, ARISTOTLE = respective players. NOTE: This is an extremely long, mechanically dense combat sequence — the Marine unit's assault on a hobgoblin-held tower and barracks complex, following the ambush that began the engagement. Given the sheer volume of individual attack rolls across many rounds, this reconstruction focuses on the tactical arc, key dialogue, and major turning points (the door-breaching, the sergeant's near-death, and the eventual clearing of the position) rather than transcribing every roll.]
+
+DM: Second of Wealsun, as the Marine unit is ambushed. You're looking at a tower — entrance at the bottom with stone foundations, a door (currently shut), and stairs leading up to a platform about three-quarters of the way up.
+
+DM: Let's roll initiative.
+
+TYRUS: [aside] Quick rules question — shouldn't each individual roll initiative separately, rather than as one combined Marine block?
+
+DM: With a unit this size, that would take forever — so the rank-and-file Marines roll as a single group, since their stats are uniform; same for the hobgoblin opponents as a group. You four roll individually as usual.
+
+DM: [resolving initiative] The hobgoblins go first, then the Marine unit as a block, then each of you in turn.
+
+DM: The Marines have an AC of 17 with scale mail and shields, currently holding a defensive shield wall. The hobgoblins open up with a volley of crossbow bolts.
+
+DM: [resolving the volley against the Marine block] Most shots miss against the shield wall, but a few connect — one Marine takes a solid hit, enough to take him out of the fight; another's wounded but still standing.
+
+DM: First round of bolts rain down from the tower. These attackers are not human — red-skinned, vaguely humanoid, unlike anything you've encountered before.
+
+TYRUS: [studying them] Roll insight, or do I know anything from past experience?
+
+MERRICK: [rolling] Twenty-four.
+
+DM: You recall — these are hobgoblins, and specifically, you've heard of similar troops being used by certain nobles in the Duchy of Berghof. Strange that they'd be operating here, this far from home.
+
+DM: Merrick, you're up.
+
+MERRICK: I'll move and fire on the closest target.
+
+DM: [resolving] You connect, though their partial cover behind the tower's stonework makes them harder to hit cleanly — a near miss turns into a graze.
+
+DM: The fight continues — your side returns fire while taking more incoming bolts from above. [Several rounds resolve with exchanges of fire, the Marines taking gradual losses while chipping away at the hobgoblin positions.]
+
+TYRUS: [shouting] We need to warn the ship — but we have to get to the top of this tower first!
+
+DM: You and two others put your full weight into the reinforced door — that's a strength check, DC 20, with assistance from your companions giving you advantage.
+
+TYRUS: [rolling with assistance] Eighteen — that's enough.
+
+DM: You slam your shoulder into the door alongside your men, and you hear the bar crack and give way on the other side — fortunately wooden, not metal. The door bursts open.
+
+DM: Inside, you see five of these creatures — one in the center wearing a breastplate steps forward and effectively challenges you to combat the moment the door gives way.
+
+TYRUS: [engaging immediately]
+
+DM: [resolving several rounds of melee] The hobgoblin leader gets a solid hit in, then a second connects hard — you're bleeding, but holding.
+
+TYRUS: [calling out a warning before continuing the fight] Heads up — don't give away your position until I say so!
+
+DM: More bolts rain down on your men from above — another Marine falls, two more wounded in the exchange.
+
+DM: [resolving Folsom's actions] You move in, using Vicious Mockery on one of the hobgoblins — he mostly shrugs it off, taking minor psychic damage.
+
+DM: The Marines, in turn, push forward as a block — [resolving] solid exchange of damage on both sides, with the unit slowly gaining ground as you all coordinate the advance.
+
+TYRUS: [to the Marines] Charge! Attack!
+
+DM: Your men surge forward past you through the doorway, engaging the remaining hobgoblins directly.
+
+DM: [continuing through several more rounds of melee — Tyrus, Folsom, Merrick, and Aristotle each taking on individual targets while the Marine block grinds through the rest]
+
+FOLSOM: [mid-fight, encouraging Aristotle] Way to go, man! [playing a quick tune on his flute despite the chaos, granting Bardic Inspiration]
+
+DM: [resolving the hobgoblin leader's counterattack against the sergeant] He swings hard — first attack connects for a few points, nothing too severe.
+
+DM (as sergeant, taking the hit): [grimly] Take my hair, then, if that's all you've got!
+
+DM: [resolving subsequent exchanges] The fighting continues to rage across multiple fronts — hobgoblins on the rooftop, more in the doorway, your men pushing through room by room.
+
+DM: [later, in a particularly dangerous exchange] The hobgoblin leader gets two attacks on your sergeant — the first connects hard.
+
+TYRUS: [horrified, realizing the severity] Is he—
+
+DM: He's badly wounded, but still standing — barely.
+
+DM: The fight grinds on through several more rounds — your side gradually clearing room after room, the hobgoblins falling back as their numbers dwindle.
+
+DM: Eventually, you find yourselves checking a trapdoor or hatch further up — stuck fast.
+
+TYRUS: [trying to force it] Can I check if I can break this open?
+
+DM: [resolving] It's solid — won't budge easily. You decide to climb back down the ladder instead, not wanting to be caught exposed if it suddenly gives.
+
+DM: As you regroup, soldiers emerge from side doors nearby — one approaches.
+
+DM (as a Marine, to Folsom): Folsom, you okay? There's blood near where you got hit.
+
+FOLSOM: Actually, I'm doing pretty good — must be someone else's blood.
+
+DM: You're standing there, more Marines rounding the corner to reinforce your position, while Merrick continues firing on the remaining hobgoblins from range.
+
+MERRICK: [engaging another target] I'll move up next to Aristotle and try to finish this guy off.
+
+DM: [resolving] Solid hit — he's wounded badly.
+
+DM: One of the remaining hobgoblins, seeing Folsom and the reinforcements rounding the corner, drops his weapon outright.
+
+TYRUS: [calling down] We need archers up here — now!
+
+DM: Archers begin climbing up to reinforce the position. The last few hobgoblins start to retreat.
+
+TYRUS: [to the group] Do we let this one live, the one who dropped his weapon?
+
+GOUGE: Definitely not.
+
+DM: [resolving the finishing blow] Clean hit — he goes down.
+
+DM: With the hobgoblins now routing, you get a few free shots in as they retreat, unable to fire back effectively while fleeing.
+
+DM: [resolving the final exchanges as the retreating hobgoblins are picked off or escape] The last of them fall back out of effective range.
+
+DM: All right — that's the end of this engagement. The tower and the immediate area are secured, though at real cost — several Marines down, the sergeant himself badly wounded but alive, and the rest of the unit regrouping to assess what comes next.

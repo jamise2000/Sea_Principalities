@@ -1,0 +1,217 @@
+[Speaker Key: DM = Dungeon Master (narration, voicing the garrison captain) | PAUL = Paul Rivera's player (leading the questioning, as Jeon's representative) | JUDE = Jude's player. NOTE: the source recording does not clearly mark speaker turns; Paul is assigned the bulk of the interrogation in keeping with the "you should be doing the talking" dynamic established in the preceding scene, while lines concerning the sewer/water tunnels, the Sahaugin enchantment, and levitation magic are assigned to Jude, consistent with his established paranoia about infiltration routes and his (secret) spellcasting. The disguise-kit/mask-making exchange near the end is assigned to Paul, who handles that work throughout these files. A few pure dice/mechanics asides with no narrative content have been omitted.]
+
+DM: Second of Wealsun, around 9:15 p.m. Paul and Jude send for the captain to have a discussion regarding the Helm and its defenses.
+
+DM (as the captain): Prince — how can I help you?
+
+PAUL: Captain, we'd like your best estimate on how many hobgoblins are on this island.
+
+DM (as the captain): I can tell you we've seen at least a hundred. They've been coming in and out of the garrison, the Helm itself — how they got there, I have no idea. I'd assume they captured the Helm and the hundred fifty guards who were stationed there, though we've only seen about a hundred patrolling this side. There have been groups of twenty to thirty spotted elsewhere on the island. And the beacons — all of them have gone dark. So there are clearly hobgoblins there. We don't know if it's one squad or several, but given how many men we had, I'd guess at least twenty to forty attacked and took those positions.
+
+PAUL: That's possible.
+
+DM (as the captain): That includes the southern beacon as well — we were signaling them, and they told us they'd encountered fifty, killed twenty, leaving thirty more. All told, I'd say we're looking at more than two hundred, maybe two hundred fifty.
+
+PAUL: That's the kind of number a warship would carry — though we haven't seen a warship anywhere in the docks. Is there anywhere else on the island a warship could anchor and offload?
+
+DM (as the captain): If they had safe anchorage, and did it at night, or had inside men — otherwise I'd assume something worse.
+
+JUDE: It was the fog. The storm.
+
+DM (as the captain): It killed our visibility completely — soup, you couldn't see five feet ahead. They could have snuck in under cover of that, and that's what we assume happened. Once it cleared, our lookouts could see in some directions but not others — but we know from the men that there are no ships on that far side.
+
+PAUL: So if they were transported in, it would've been during the fog.
+
+DM (as the captain): Right. There is an anchorage there, an approach to the beach — they could anchor offshore and use small boats to land. How they got through the gates, though, I have no idea — unless they had an infiltrator, or someone lowered the drawbridge. There's no moat, but there's a ramp up to the entrance and a drawbridge that lowers for a lot of foot traffic. The fortifications are impressive — with a hundred fifty men, you can defend every side of it.
+
+PAUL: Just as an aside, if you don't know, that's fine — is our water shipped in as freshwater, or are there wells?
+
+DM (as the captain): Fresh water is shipped in. There's no naturally occurring freshwater here except rain — we have cisterns that catch it when it falls, and that's most of our supply.
+
+JUDE: Is there any kind of subterranean sewer system?
+
+DM: He looks at you for a moment. [as the captain] This is a state secret — but since Prince Jeon sent you, I'll assume you're cleared to know. There are supposedly secret entrances underneath the Helm. A cave system, navigable by small boat, running beneath the fortress itself. It was an old smugglers' hideout, centuries back. I've never been down there myself — the Admiralty doesn't let anyone near it. But there are rumors it's somewhere on this side of the island. If the hobgoblins had knowledge of it, that could be how they got in — though how they'd have made it up through the caverns is another question. I have no real knowledge of this — it's rumor.
+
+JUDE: I asked about the sewer system because I'm concerned about the Sahaugin using any water-access tunnels to get in.
+
+DM (as the captain): That's what's strange — historically, the Sahaugin have never been able to reach this island at all. It's supposedly protected by a magical enchantment that kills any Sahaugin who come near. Even sharks won't approach these waters.
+
+JUDE: Who maintains that enchantment — or has it just held on its own for a hundred years?
+
+DM (as the captain): The fact that the Sahaugin can reach these beaches now is a serious problem. Otherwise our ships would range freely around this island — but that protection has held for over a hundred years, since the Great Sahaugin Wars.
+
+JUDE: Is the enchantment linked to the turtle dragons somehow?
+
+DM (as the captain): I know nothing of that. I've heard turtle dragons favor Sahaugin the way they favor sharks — I'd assume Sahaugin flee from them the way anyone would, since sharks are apparently a turtle dragon's favorite meal. I'd guess that extends to sharkmen too.
+
+PAUL: That could be it — if their protection's been withdrawn, that might tie into everything else we're already facing, with the blockade on the Sea Principalities.
+
+PAUL: As someone who's spent considerable time in Monmurg without being native to the Sea Principalities — do you notice anything strange about the hobgoblins' gear? Any variation in marine equipment between the different princes — could you identify a prince's marines just by color?
+
+DM (as the captain): Absolutely. The design's mostly the same across the board — scale armor, standard issue for the archers and so on. Commanders wear breastplates, like mine. But I don't recognize the colors these hobgoblins are wearing.
+
+PAUL: Are those colors more like heraldry, or war paint?
+
+DM (as the captain): These are the war colors. Blue for Fairwind. Green for Monmurg. Yellow for Toli — who I'd assume we'd be fighting anyway, given the politics.
+
+PAUL: What color were the hobgoblins wearing?
+
+DM (as the captain): A strange brownish red. Not a color belonging to any prince I know of. But the armor itself is very close to ours.
+
+PAUL: Next question — would it be wise to charge the Helm and try to retake it outright with the force we have?
+
+DM (as the captain): We'd die instantly. The Helm has archers up top with a serious height advantage. The only way in besides the rumored tunnels is the front gate, and the walls are fifty feet high.
+
+PAUL: So we'd have to take the front gate, the same way they did?
+
+DM (as the captain): Correct. The garrison house, the tower, the inner sanctum — each is separately fortified and partitioned. It's remarkable the hobgoblins got in at all. Getting past the gate is only the beginning.
+
+PAUL: If Fairwind is holed up in the inner sanctum with some force left — say two-thirds losses if he was caught by surprise — would there be any advantage to linking up with his men if he could break out from the inside?
+
+DM (as the captain): There's an agent coming from the tower — you were privy to those messages — bringing some of his selected men, so we'll likely try to get in one way or another.
+
+JUDE: You mean to rescue my lord?
+
+DM (as the captain): Yes, if he's survived and can help secure the Helm. Even if all he did was bring down the front gate and let our men through, that would be a huge advantage. It would still mean fighting through the main tower, but if Fairwind came out with troops of his own, that would help enormously — it depends entirely on how many men he has left versus how many they have. Charging the gate outnumbered would be disastrous.
+
+PAUL: Would you expect any hobgoblin troops to be pulled off to retake the towers we're holding?
+
+DM (as the captain): That might draw some — the South Beacon, the Garrison House — but they'd know that sending a sizable force risks getting cut off, since they'd know we have roughly a hundred seventy men between the beach landing party and the barracks garrison. We could block anyone moving that way, and counterattack if we outnumbered them. We could also consider retaking the Western Beacon, or the other beacon positions, which would let us warn off shipping from the other principalities.
+
+PAUL: Does the barracks have repair equipment for the beacons — bronze polish, that kind of thing?
+
+DM (as the captain): We have oil for it, but not if the beacon fixture itself is gone, which is what the South Tower reported. We do have spare braziers, and the materials to build a signal fire.
+
+DM (as the captain, continuing unprompted): Honestly, the real worry is that until these hobgoblins are repelled, I don't see any relief coming. Why the enchantment broke, we don't know — Lord Fairwind, who's responsible for it, and the Admiralty are the only ones who understand how it's maintained. So Fairwind would know why it broke.
+
+PAUL: Does Fairwind have magical capabilities, to your knowledge?
+
+DM (as the captain): I'm not sure if the princes do. I don't know the mechanism — I'm no wizard, and I've never been briefed on it. It's a closely guarded state secret; only the Admiralty knows the truth of it.
+
+JUDE: Regarding the possible smuggling tunnels — is there anyone under your command old enough to have served on this island before, who might know something?
+
+DM (as the captain): No, no — I have no knowledge of that, and admitting to knowing such a thing would be treasonous on my part. There are pilots who know, but none under my command — they answer directly to the Admiralty. All I have is a vague reference: it's somewhere on the north side of the island, along the coast, a well-hidden cave. The waters there are dangerous and hard to navigate — only a small ship could manage it.
+
+JUDE: Only accessible by water?
+
+DM (as the captain): Yes — well, there's the tide to account for too, but that's the only way in. Sahaugin swim, and they'd tear you apart before you got close.
+
+PAUL: But they wouldn't expect us, if we did it stealthily.
+
+DM (as the captain): It's always wise to be cautious. I wouldn't want anyone attempting that without real confidence in their stealth.
+
+PAUL: I don't see how we could assault this directly.
+
+DM (as the captain): We can't get the magic shield back up without rescuing Fairwind first.
+
+PAUL: Undoubtedly. And we still need to retake at least one tower for the signal fire.
+
+DM (as the captain): Right.
+
+PAUL: [to the DM] Even with braziers and fires, would those still not count as the main signal fire to Monmurg?
+
+DM: No — you could definitely signal with those, and honestly, having them lit again would help, because shipping passing at night would be able to see the Helm and steer clear. Taking those back would help warn off shipping, and you'd communicate better with Monmurg too.
+
+PAUL: But I think what the captain's really getting at is that the Sahaugin enchantment being down is the real crisis here.
+
+DM (as the captain): That's the biggest problem. If reinforcements come, they could swamp the bay — and they already took out two hundred Marines aboard a ship. Short of a full assault with a thousand Marines or more, depending on Sahaugin numbers, that's a serious threat.
+
+PAUL: How would you go about retaking the other two towers, given that we hold the South Tower? What would you recommend?
+
+DM (as the captain): This one would be difficult — we'd be under the shadow of the Helm's cliffs, and if they sent troops out, they could fire down on us. The Western Beacon would be easier — we could march out tonight with maybe fifty men, and depending on how many hold it, we could probably take it back. If there are fifty at each of the other positions, that's a hundred fifty, on top of the hundred you've already seen marching from here — which puts us in that two hundred fifty to three hundred range you suspected.
+
+PAUL: So you could count on at least fifty men holding each of those places?
+
+DM (as the captain): Right. As for the interior force — call it thirty — and obviously the barracks itself needs defending. I'd want to leave seventy men here at all times, which leaves a hundred for an assault. I don't think it's wise to split our forces any further than that. So: hit one of the beacons with maximum force, take it, leave a garrison, and move on.
+
+PAUL: How many hobgoblins have you killed so far?
+
+DM (as the captain): I believe twenty — the southern garrison reported twenty killed as well. We haven't killed any ourselves yet.
+
+PAUL: So, probably right around that two hundred fifty mark, then.
+
+DM (as the captain): Roughly. We're matched, maybe slightly in their favor, but they hold the high ground and the fortifications. If we take a tower or beacon quickly, they might even turn and march on it themselves, if only as a distraction. I'm sure Monmurg's agent, Gouge, is going to want to penetrate the Helm himself — and he'll want to do it tonight. It would be very difficult for anyone to climb those walls without being seen.
+
+DM (as the captain): It might be possible, though, with a distraction — an attack from the Marines, and then people slipping over the walls while attention's elsewhere.
+
+PAUL: So if we stage a distraction with an assault, is there a fair chance we could get into the Helm from the seaside?
+
+DM (as the captain): If there's an assault on the front gate, you might be able to infiltrate from there — you'd have to climb the wall by the garrison and drop down into the courtyard. But it would take someone very skilled at climbing. The walls are fifty feet high, and you'd have to scale the cliffs first as well.
+
+JUDE: With ropes, and given Gouge's skills, that's manageable. I also have magic that can help someone rise.
+
+DM (as the captain): You have magic that lets you levitate?
+
+JUDE: Yes.
+
+DM (as the captain): It would have to be a small group — I'd worry the men on top of the wall would just kill anyone who tried to climb. But if we're attacking and they've left only a small force up there, or on the tower, a small group could slip in from behind.
+
+PAUL: With the least loss of life — you said a full assault would get us killed — could you still provide a distraction without a genuine attack? Some show of force to draw their attention?
+
+DM (as the captain): We could march up, begin assembling a battering ram, and trade fire at range with the hobgoblins on the walls.
+
+PAUL: How long would it take a hundred men to take the tower tonight, assuming no more than fifty enemy hold it?
+
+DM (as the captain): I don't know exactly how defensible that position is with fifty men in it, but I'd guess a two-hour operation.
+
+PAUL: If that's our window to get into position, could you also start maneuvering in front as a show of aggression — assembling the ram, say — to keep their attention on the gate?
+
+DM (as the captain): Yes, that's doable.
+
+PAUL: Would it make more sense to do this at night, with fires lighting the field, or would dawn be better?
+
+DM (as the captain): I don't think there'd be any suspicion either way, given how desperate things already look. Retaking the Western Beacon at night is a logical move regardless, since we need it lit for shipping — and if we made a desperate attempt on the main Helm, that would logically happen at night too.
+
+PAUL: So once we're in position, you'd signal that we're ready to scale the wall, and we'd time the assault for around one or two in the morning?
+
+DM (as the captain): We can coordinate the signal that way — you wouldn't want the assault to start before we're ready, but two a.m. works.
+
+PAUL: Ropes — I assume you have plenty, nothing fancy?
+
+DM (as the captain): We have ropes, yes, plenty.
+
+JUDE: I can't lift everyone myself, but between ropes and levitation, some can climb while others are carried.
+
+PAUL: Can we retrieve any of the hobgoblin bodies from the bay under cover of darkness — for their armor, specifically?
+
+DM (as the captain): We can send men out for that, yes.
+
+PAUL: Just to secure the bodies, no unnecessary risk — but if we can salvage that equipment, we might be able to pass for hobgoblins at a distance once we're inside.
+
+DM (as the captain): If you have disguise-kit skills, that would help. Do you want to start on hobgoblin masks?
+
+PAUL: I can try. I've made masks before — paper-mâché, mostly. I don't need to skin a face for a cast; just bring me a body to work from, and I can match the general shape — the nose, the coloring, whatever hair or lack of it. Helmets will help sell it in low light.
+
+JUDE: So once we've got bodies with intact armor and faces to reference, we can get some of Gouge's people disguised — or at least the two of us, in armor or clothing.
+
+PAUL: Their armor won't fit me right, probably, but I can manage the clothing.
+
+PAUL: My plan is that by the time Gouge gets here, we'll already have a rough plan in place for the outer tower, under the captain's command, so he can look it over and give it a rough assessment — and if he wants to move tonight, which I'm assuming he will, we'll have the outline ready so we can hit the ground running.
+
+PAUL: Can you think of anything else that might help with subterfuge or stealth?
+
+DM (as the captain): No — the more people you bring, the harder it'll be to stay hidden. I wouldn't take a large group, and I'd put them under your command so I can stay and defend the barracks. I don't know how many men Gouge will bring — knowing him, not many. He doesn't trust anybody as it is.
+
+DM (as the captain): I'd suggest you prepare your troops and a plan to take the Western Tower, and when Gouge arrives from Monmurg, we discuss it further with him — see if he has any variations, and prepare a diversionary maneuver as well. I'd like there to be as few casualties as possible, especially with the Sahaugin still a threat to holding this island. So don't waste lives at the front gate unless I'm the one making things explode there.
+
+DM (as the captain): This sounds like a decent plan. Paul — are you going to be part of the group that infiltrates the Helm?
+
+PAUL: Yep.
+
+DM (as the captain): So you agree with this?
+
+PAUL: Yep. We'll prepare for the assault on the beacon.
+
+DM (as the captain): Do you want this to happen an hour from now, before your agents arrive, or after?
+
+PAUL: After.
+
+DM (as the captain): Do you want to speak with them before we execute the plan?
+
+PAUL: We would, yes. But if they take a while getting here, we can only wait so long. There's still thirty hobgoblins somewhere in the interior, but they should be fine — it's a big island, mostly open ground with light jungle cover. If thirty men were massing, we'd see it, even in the dark, if we're paying attention.
+
+DM (as the captain): All right. I'd say be ready to move on the Western Tower no later than — if this takes about two hours — eleven o'clock. Get your troops prepared to take the Western Tower, and then to demonstrate, or make a feint, at the front gate. I'll get the bodies brought in and the men prepared — I'll ready two squads for the Western Beacon.
+
+PAUL: Okay. Cool.
+
+DM: All right — and with that, he leaves.

@@ -1,0 +1,7 @@
+# Cast for Tyrus_Folsom_goto_barracks_3rd_Wealsun
+# Expected voices: 4 (DM, Tyrus, Folsom, Gouge — per the cleaned transcript's speaker key; no Merrick in this scene)
+SPEAKER_00: Tyrus (confirmed — dominant in the long Owen Black conversation, matches cleaned almost verbatim)
+SPEAKER_01: Folsom (lower confidence — performs part of "The Brewing Storm" live, e.g. "The Navy's strong, or so they say..."; also does the self-announcement bit. Some lines in this chaotic scene may actually be crowd/other-player reactions merged in by diarization)
+SPEAKER_02: DM (dominant narrator, voices Owen Black for most of the session)
+SPEAKER_03: DM (same narrator as SPEAKER_02, split by diarization — handles the performance-check rules adjudication and reads the song's full lyrics; NOTE: this tag also absorbs Gouge's dramatic entrance near the end of the file — "I'm going to set down the red eye... slide out my dagger... sit the fuck down" — which are Gouge's signature liquor/dagger, not the DM)
+SPEAKER_04: Folsom (confirmed — taps a Marine's shoulder and is greeted "Folsom!" in response; asks Owen if there's a counter to perform on)

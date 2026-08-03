@@ -1,0 +1,8 @@
+# Cast for Marines_get_signal_from_barracks_2nd_Wealsun
+# Expected voices: 5
+SPEAKER_00: Gouge (confirmed — "I'm Gouge" reveal to Merrick; recaps unit's night-movement plan)
+SPEAKER_01: Tyrus (confirmed — self-referential "I gotta check that short rest for Paladin"; also his one-word line "Tyrus." elsewhere gets absorbed into SPEAKER_04's tag)
+SPEAKER_02: Gouge (same person as SPEAKER_00, split by diarization — spells out and signs the K-A-R-M-I-R-G / G-O-U-G-E signal exchange)
+SPEAKER_03: DM (dominant narrator, voices the sergeant and the signaling archer)
+SPEAKER_04: Merrick (confirmed — asks Gouge "what's your real name... it's getting really annoying", matching the cleaned transcript's MERRICK line)
+# Note: Folsom has no distinct line in this session, per the cleaned transcript (he's only told to wait for the "clear" signal before joining).

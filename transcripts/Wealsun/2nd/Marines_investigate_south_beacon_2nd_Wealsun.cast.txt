@@ -1,0 +1,7 @@
+# Cast for Marines_investigate_south_beacon_2nd_Wealsun
+# Expected voices: 5
+SPEAKER_00: Tyrus
+SPEAKER_01: Merrick
+SPEAKER_02: Gouge
+SPEAKER_03: DM
+SPEAKER_04: DM (same narrator as SPEAKER_03, split by diarization; also absorbs Folsom's one line — "All right, I pull out my fight" — right after the DM addresses him)

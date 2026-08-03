@@ -1,0 +1,235 @@
+[Speaker Key: DM = Dungeon Master (narration, rules calls, voicing hobgoblin guards) | GOUGE, PAUL, JUDE, TYRUS, FOLSOM, MERRICK = respective players. NOTE: this is a dense, mechanically heavy infiltration and combat sequence with constant dice-roll cross-talk; this reconstruction preserves the tactical decisions, character banter, and narrative beats, while summarizing repetitive rolls rather than transcribing each one verbatim — consistent with how the other combat-heavy files in this collection have been handled. Character attributions for the two assassination kills partway through (Gouge with a cutlass/sneak attack; Merrick with a crossbow) are based on established character skills and confirmed by the table. A closing off-topic aside, unrelated to the game, has been omitted.]
+
+DM: Early morning, between the 2nd and 3rd of Wealsun. The party leaves through the north exit of the barracks and out into the night.
+
+DM: You're set to move out. Who goes first?
+
+MERRICK: I'll go — I'll head for the edge of the palm tree forest, close enough to still see the coastline.
+
+DM: You peel off wide, well clear of the cliffs, completely unseen from the walls. Roll your stealth. [rolls] Eleven. You slip off into the darkness — moonlight catches you for a second, but there's nothing for it. The rest of you have to follow roughly the same line and hope that a thousand feet is far enough from the guards on the walls to matter.
+
+TYRUS: We're dressed as hobgoblins — would that buy us anything at this range?
+
+DM: Hobgoblins leaving the barracks would be strange if anyone clocked it, but at this distance it's probably not something they can make out either way.
+
+DM: How far do you want to let Merrick get before the rest of you follow?
+
+GOUGE: Thirty feet between each of us.
+
+DM: All right — Merrick's thirty feet out, then the next person follows.
+
+PAUL: I'll go after him.
+
+DM: And then?
+
+FOLSOM: I'll take second-to-last.
+
+TYRUS: I'll bring up the rear.
+
+DM: So you all move out in that order — Merrick, Paul, Gouge, Jude, Folsom, Tyrus. You make it to a spot above the coast, high over the water, looking down at a stretch of beach far below — this side of the island is all rock, steep drops, the waves breaking hard against the cliff face.
+
+JUDE: Do we have any idea where the smuggler cave entrances might be?
+
+DM: The rumor was this side of the island, high above the rocks — but that's all anyone really has.
+
+DM: What catches your eye, though, is a ship anchored offshore — lit up with lanterns, foreign-built. Not a corsair, and not quite a proper warship either — more of a fast trade vessel, maybe three or four hundred feet out.
+
+GOUGE: [low] What are you thinking?
+
+PAUL: Do I recognize any flags, any markings?
+
+DM: No flag that you can make out. Roll investigation. [rolls] Twenty-two. You recognize the hull design — it's one of the newer Onwal trader ships. Fast, innovative rigging — they can actually outrun a corsair, which is unusual.
+
+PAUL: Is this one of ours?
+
+DM: Absolutely not — foreign make, and you don't recognize this specific vessel.
+
+TYRUS: Could it just be a trade ship, caught out here by the blockade?
+
+PAUL: Possible, but given everything else going on, I don't think we can afford to write it off as coincidence.
+
+DM: As you're watching, a smaller vessel — a skiff — appears from what looks like nowhere along the coastline and starts sailing out toward the anchored ship.
+
+GOUGE: Where did it come from?
+
+DM: You can't quite tell from here — the coastline curves out of sight right where it emerges. Given the rumors, that's almost certainly the smugglers' cave.
+
+JUDE: Do I recognize that skiff at all?
+
+DM: Roll investigation. It looks like a Monmurg smuggler's boat — small, built for the bay and the river mouth, not the open sea. Not much cargo capacity, but they're everywhere in these waters if you know where to look.
+
+PAUL: So the entrance has to be compromised, or in on this.
+
+GOUGE: Or Fairwind set the whole thing up himself, and got in over his head.
+
+PAUL: My gut says this is political — something tied to the fact that we already suspected something was going on before we even got here.
+
+TYRUS: What would they even be smuggling out of a besieged fortress?
+
+GOUGE: Could be moving something in, not out. Reinforcements, maybe.
+
+DM: The ship's sitting low in the water — it's loaded, not unloading.
+
+PAUL: I don't think we should get pulled into chasing down what's on that ship instead of getting to the people actually running this.
+
+TYRUS: If they're moving something out to sea for their own side, that mattered enough to them to get it done under a siege. That's worth knowing.
+
+DM: As you're debating it, you notice a very strange figure standing on the ship's deck, directing the hobgoblins loading cargo — stark white hair, very pale.
+
+GOUGE: That's a Toli.
+
+PAUL: No question. Same look as the ones we fought on the docks a month back.
+
+DM: Just as Lord Jamis suspected — Lord Toli's people, tangled up in this after all.
+
+PAUL: Is that ship going to come back this way?
+
+DM: In all likelihood, once they've got what they came for.
+
+PAUL: I want to move up alone and get a better look, stay in the rocks, stealthily.
+
+DM: How do the rest of you want to position yourselves?
+
+GOUGE: We should get as close as we safely can without being seen — better vantage on the ship, and it puts us closer to the wall for later.
+
+DM: You all move up along the coastline into better cover. From here you can see the skiff reach the ship and start unloading — barrels, roughly the size you'd see back in Monmurg. And then —
+
+DM: You hear shouting. From up on the barracks walls, hobgoblins start running — toward the front gate. The diversion's begun.
+
+DM: The Toli figure on the ship glances up at the commotion, but doesn't react beyond that — he's got cargo to move.
+
+GOUGE: Then let's move now, while their attention's split.
+
+DM: All right — there's an entrance on this side of the fortress, according to Sten. A door reachable from a point along the wall, but you'd have to climb fifty feet to reach it, and then find the tower entrance from up there.
+
+GOUGE: I'll go up first — I'm best suited for the climb.
+
+DM: Roll athletics. [rolls] Thirteen — enough. Gouge scrambles up the hillside toward the base of the wall.
+
+DM: The rest of you hold in cover, watching the hobgoblins stream past toward the front gate — you're counting roughly thirty or forty of them.
+
+MERRICK: I've got a crossbow ready in case anyone up top notices him.
+
+DM: Understood. Gouge, roll stealth. [rolls] A strong roll — you make it to the base of the wall clean, maybe forty seconds of exposed movement, but nobody up top so much as glances your way. The ship's crew is still just loading cargo, oblivious.
+
+GOUGE: I'll wait here at the base for the others.
+
+DM: Merrick, you're next — same route.
+
+MERRICK: I'll go.
+
+DM: Roll stealth. [two good rolls] You make it to Gouge's position without incident.
+
+GOUGE: I want to hold here, right where this tower meets the curtain wall — enough cover if more men come running past.
+
+DM: All right — Gouge and Merrick are at the base of the wall. Rest of you?
+
+JUDE: I've got the rope and I'm ready. I'll cast Levitate.
+
+DM: Who are you lifting?
+
+JUDE: Paul — go ahead and start climbing, I'll carry you the rest of the way. It's a little unsettling watching this happen, for the record.
+
+PAUL: I appreciate the honesty.
+
+DM: Paul starts climbing physically while the spell carries him the last stretch — call it twenty feet per turn, so a few rounds total to get him to the top.
+
+TYRUS: I'll wait for my turn to go up next.
+
+DM: Twenty seconds or so pass. Paul reaches the top of the wall and steps off onto the walkway, tying off a rope for the others.
+
+PAUL: [under his breath] Still look like a hobgoblin, on my knees like this?
+
+DM: You do, near enough — you're a decent match for the bigger ones they've got, at least at a glance.
+
+DM: Tyrus, you're up next.
+
+TYRUS: I'll climb the rope.
+
+DM: Roll athletics. [rolls] You make it up cleanly and crouch beside Paul.
+
+DM: Folsom, then Merrick and Gouge — who's going up in what order?
+
+FOLSOM: I'll go — could use a hand, honestly, I'm not thrilled about heights.
+
+DM: Roll stealth as you climb. [rolls] You make it, a little shaky, but up.
+
+MERRICK: I'll go next.
+
+DM: [rolls] You're up and in position, watching the hobgoblins fighting far off along the front wall.
+
+JUDE: I'll come up last, and settle into the shadows once I'm there.
+
+DM: Roll stealth. [rolls] You come up quiet and drop into a crouch in the dark, unnoticed.
+
+DM: Gouge, you're still at the base — do you want to come up too, or hold the rope?
+
+GOUGE: I'll hold the rope in case anyone needs steadying, and keep an eye on the ship below.
+
+DM: All right — six of you, more or less, are now up on the wall near the tower, in the dark, with the fighting still going at the front gate below.
+
+DM: Ahead of you, there's a door into the tower — standing open — with a single hobgoblin guarding it. Farther off, maybe a hundred feet, there's a much larger group — thirty, forty of them — up on the walls with crossbows, all facing the front gate fighting. None of them are looking your way.
+
+JUDE: I want to take out the guard at the door quietly. I'll signal — doesn't matter who backs me on it.
+
+FOLSOM: I can create a distraction — run out like I'm one of the reinforcements, stumble, draw a few eyes toward me instead of him.
+
+DM: Folsom, roll stealth for the approach, then go ahead and make your move.
+
+DM: Folsom breaks cover and jogs out into view, playing the part — trips theatrically, keeps moving, putting himself about thirty feet out in plain sight, playing up the chaos. It works — for a moment, all eyes that might have drifted your way are on him instead.
+
+DM: Jude, meanwhile — you close in on the door guard.
+
+JUDE: I'm moving in quiet, aiming to finish this without a sound.
+
+DM: [rolls] The guard goes down before he can react — quick, clean, no outcry.
+
+JUDE: I'll ready Darkness, just in case — but I'm not casting it yet, since it'd blind us as much as them.
+
+DM: Understood, held in reserve.
+
+DM: As Folsom's diversion plays out, you hear a second hobgoblin approaching from farther down the wall — the click of a crossbow being cocked. He's heard something and is coming to check it out.
+
+GOUGE: I've got this one.
+
+DM: He hasn't spotted you yet — you're right at the edge of his path. Do you want to grapple him, or go straight for the kill?
+
+GOUGE: Straight for it — I'll wait until he's close enough, then go for the throat.
+
+DM: Roll to hit — you've got advantage from the surprise, and this qualifies as an assassination attempt.
+
+DM: [rolls] A clean hit, well above his armor. With the assassinate bonus and your sneak attack dice on top of the cutlass damage, that's a massive total — he's dead before he can make a sound, and he drops backward, away from the rest of you, without so much as a thud toward the group down below.
+
+DM: You take a moment to search him — a bag of coin, a set of keys, a hobgoblin insignia, a crossbow. And a strange little coin among his effects — a flat steel disc stamped with a skull, and some kind of motto about how fleeting life is.
+
+GOUGE: Cheerful guy.
+
+DM: You regroup at the tower door. Beyond it: a stairway leading down into the interior fortifications, and a corridor toward what the captain described as the inner sanctum — likely where Fairwind, or whatever's left of his loyalists, might be held.
+
+PAUL: What's through the corridor, exactly?
+
+DM: A long fortified hall, columns holding up the ceiling, maybe twenty-five feet across — lined with arrow slits on one side, all facing out toward the fighting at the gate. You count roughly twenty hobgoblins stationed there, watching the battle below, none of them looking your direction.
+
+JUDE: Twenty is too many to fight quietly.
+
+GOUGE: We march. Disguises on, heads down, like we're reinforcements in a hurry.
+
+TYRUS: I'll take point — I'm already built like one of their bigger ones.
+
+FOLSOM: I'll flank you.
+
+JUDE: I'll stay small and unremarkable near the back.
+
+PAUL: I'll take the rear.
+
+DM: All right — you fall into a rough marching order and start down the hall at a brisk clip, like you're moving with purpose toward the fighting.
+
+DM: About halfway down, one of the hobgoblins at the wall turns and looks your group over.
+
+TYRUS: I'll wave him off — point back toward the gate, like we're being sent to reinforce.
+
+DM: Roll a performance check. [rolls] Middling roll, but Tyrus's sheer size sells it — the hobgoblin gives you an odd look, mutters something in Goblin under his breath, and turns back to his post.
+
+DM: You keep moving, boots on stone, past twenty hobgoblins at their posts, roughly a hundred fifty feet down the hall — and no one raises an alarm.
+
+DM: You reach the far end of the corridor, where it opens toward the inner fortifications — deeper into the Helm than any of you have been so far.

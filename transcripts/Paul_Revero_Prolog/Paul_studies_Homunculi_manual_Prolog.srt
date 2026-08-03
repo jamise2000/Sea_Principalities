@@ -1,0 +1,568 @@
+1
+00:00:09,564 --> 00:00:11,725
+[SPEAKER_00]: Zafar's instructions.
+
+2
+00:00:16,066 --> 00:00:24,368
+[SPEAKER_00]: The foundation of these homoculae begin with a malleable clay, carefully sculpted into the likeness of small lizard-like creatures.
+
+3
+00:00:25,289 --> 00:00:27,269
+[SPEAKER_00]: The choice of form is not arbitrary.
+
+4
+00:00:27,909 --> 00:00:32,631
+[SPEAKER_00]: The lizard's form is simple and durable, unlike that of a spider or another insect.
+
+5
+00:00:33,513 --> 00:00:40,457
+[SPEAKER_00]: Also with its ability to blend into surroundings, it is an ideal model for a creature designed for espionage.
+
+6
+00:00:41,317 --> 00:00:52,123
+[SPEAKER_00]: The clay is imbued with a subtle enchantment by soaking it in warm water with one drop of its master's blood, making it receptive to the magical energies that will soon animate it.
+
+7
+00:00:53,583 --> 00:01:02,428
+[SPEAKER_00]: The form can be as complex or as simple as desired, but a true artisan will ensure that the final form is both functional and aesthetically pleasing.
+
+8
+00:01:03,655 --> 00:01:19,656
+[SPEAKER_00]: Central to the animation of Jody's homoculi are green gemstones, the ones gifted to me by the lithomancer Zafar Azane are similar to the stones used to create the animated blades that he is famous for.
+
+9
+00:01:21,108 --> 00:01:37,134
+[SPEAKER_00]: Zafar has informed me that he learned how to create these stones in the archives of the Arcane Order, a lost variation of a soul gem whose creation was discovered and perfected by the transmuters of the Suel Empire before the Twin Cataclysms.
+
+10
+00:01:38,235 --> 00:01:42,436
+[SPEAKER_00]: One stone is known as the Heart Stone and is used to animate the homoculi.
+
+11
+00:01:43,016 --> 00:01:49,719
+[SPEAKER_00]: The other is the Mind Stone, which the homoculi's master will use to animate the automaton itself.
+
+12
+00:01:50,997 --> 00:01:59,361
+[SPEAKER_00]: Each gemstone is attuned to a specific frequency of arcane energy, a process that requires both skill and patience.
+
+13
+00:02:00,142 --> 00:02:10,487
+[SPEAKER_00]: The heartstone is embedded within the clayform, nested where a heart might reside, and it is this stone that serves as the conduit for the master's will, via the mindstone.
+
+14
+00:02:12,776 --> 00:02:16,639
+[SPEAKER_00]: The proper gemstone's ritual of animation is simple.
+
+15
+00:02:17,299 --> 00:02:25,244
+[SPEAKER_00]: The master stands before the nascent homoculus, focusing his mind and channeling his thoughts through the mindstone.
+
+16
+00:02:26,165 --> 00:02:31,088
+[SPEAKER_00]: The master intones the magical words, lapis philosophorum.
+
+17
+00:02:32,389 --> 00:02:38,693
+[SPEAKER_00]: As the master's consciousness flows into the mindstone, the homoculus is awakened with the spark of life.
+
+18
+00:02:39,433 --> 00:02:41,575
+[SPEAKER_00]: The connection is not one of domination.
+
+19
+00:02:42,388 --> 00:02:55,745
+[SPEAKER_00]: But symbiosis, the homoculus becomes an extension of the master's mind, capable of executing complex tasks and relaying information with uncanny precision.
+
+20
+00:02:57,487 --> 00:03:00,772
+[SPEAKER_00]: Once animated, the homoculi are remarkably resilient.
+
+21
+00:03:01,496 --> 00:03:09,222
+[SPEAKER_00]: Unlike their traditional counterparts, they do not wither outside their jars or require a subsidence to survive.
+
+22
+00:03:09,863 --> 00:03:16,047
+[SPEAKER_00]: Their clay bodies, reinforced by the magical properties of the Hearthstone, can withstand the rigors of their mission.
+
+23
+00:03:16,808 --> 00:03:27,836
+[SPEAKER_00]: Should they sustain damage, a simple mending cantrip is sufficient to restore them to their original state, ensuring their longevity and continued service.
+
+24
+00:03:28,817 --> 00:03:36,879
+[SPEAKER_00]: Zafar informed me this implementation of Joe D's method of creating homoculi is but one of many possible paths to animation.
+
+25
+00:03:37,559 --> 00:03:50,982
+[SPEAKER_00]: These homoculi, unlike their mythical phantoms, are not mere curiosities, but invaluable tools capable of performing feats that would be impossible for any ordinary spy.
+
+26
+00:03:51,622 --> 00:03:55,463
+[SPEAKER_01]: That's exactly what I was hoping to be.
+
+27
+00:03:55,743 --> 00:03:57,563
+[SPEAKER_01]: That's exactly why I wanted to wait.
+
+28
+00:03:59,318 --> 00:04:00,299
+[SPEAKER_01]: All right.
+
+29
+00:04:01,820 --> 00:04:03,722
+[SPEAKER_01]: Let's cook one of those up.
+
+30
+00:04:03,902 --> 00:04:04,783
+Okay.
+
+31
+00:04:05,443 --> 00:04:06,804
+[SPEAKER_01]: So, how do you want to start that?
+
+32
+00:04:09,407 --> 00:04:11,648
+[SPEAKER_01]: I'm hoping it's got some instructions, right?
+
+33
+00:04:12,469 --> 00:04:12,689
+[SPEAKER_00]: Yeah.
+
+34
+00:04:12,809 --> 00:04:13,610
+[SPEAKER_00]: I mean, absolutely.
+
+35
+00:04:13,650 --> 00:04:14,010
+[SPEAKER_00]: Yeah.
+
+36
+00:04:14,050 --> 00:04:16,392
+[SPEAKER_00]: So, do you want to... You have the two stones.
+
+37
+00:04:16,573 --> 00:04:17,593
+[SPEAKER_00]: Yeah, I have the two stones.
+
+38
+00:04:17,694 --> 00:04:17,934
+[SPEAKER_00]: Right?
+
+39
+00:04:18,234 --> 00:04:22,718
+[SPEAKER_00]: Do you want to get a bunch of clay?
+
+40
+00:04:23,338 --> 00:04:24,199
+[SPEAKER_01]: Yeah.
+
+41
+00:04:24,219 --> 00:04:24,800
+[SPEAKER_00]: Okay, so...
+
+42
+00:04:26,696 --> 00:04:45,587
+[SPEAKER_00]: You ask the servants to bring you what you need, which is a cistern, a lump of clay, good clay, and clean water.
+
+43
+00:04:46,528 --> 00:04:51,251
+[SPEAKER_00]: So that afternoon they bring it to you and you spend the time
+
+44
+00:04:52,751 --> 00:04:56,994
+[SPEAKER_00]: Forming the clay into what you want your homoculi to look like.
+
+45
+00:04:57,854 --> 00:04:58,255
+[SPEAKER_00]: Correct?
+
+46
+00:04:58,435 --> 00:04:58,595
+[SPEAKER_00]: Yeah.
+
+47
+00:04:59,556 --> 00:05:05,219
+[SPEAKER_00]: So you take the cistern, cut your finger, and drip a little bit of blood in there, as requested.
+
+48
+00:05:06,020 --> 00:05:12,524
+[SPEAKER_00]: And then you bathe the clay in the water, forming it into whatever shape you want it to look like.
+
+49
+00:05:13,024 --> 00:05:14,065
+[SPEAKER_00]: What do you want it to look like?
+
+50
+00:05:15,366 --> 00:05:16,387
+[SPEAKER_00]: Didn't it say a lizard?
+
+51
+00:05:17,725 --> 00:05:24,651
+[SPEAKER_00]: It basically said that the lizard was kind of the most useful form of these little homunculi.
+
+52
+00:05:26,332 --> 00:05:28,814
+[SPEAKER_00]: The question I have for you is how big do you want it to be?
+
+53
+00:05:28,834 --> 00:05:30,355
+[SPEAKER_00]: How small do you want it to be?
+
+54
+00:05:30,375 --> 00:05:30,495
+[SPEAKER_00]: Small.
+
+55
+00:05:30,515 --> 00:05:31,977
+[SPEAKER_00]: I want it to be small.
+
+56
+00:05:32,097 --> 00:05:34,198
+[SPEAKER_00]: Like that big?
+
+57
+00:05:34,278 --> 00:05:34,659
+[SPEAKER_00]: Yeah.
+
+58
+00:05:34,859 --> 00:05:36,520
+[SPEAKER_00]: Okay, so the one that you were using for
+
+59
+00:05:43,160 --> 00:05:44,961
+[SPEAKER_00]: Or you found and you cut the head off.
+
+60
+00:05:44,981 --> 00:05:46,721
+[SPEAKER_00]: It was about that big.
+
+61
+00:05:47,242 --> 00:05:49,042
+[SPEAKER_00]: Wasn't it like a gargoyle?
+
+62
+00:05:49,182 --> 00:05:50,723
+[SPEAKER_00]: It was kind of like a little gargoyle.
+
+63
+00:05:51,183 --> 00:05:51,483
+[SPEAKER_00]: Bigger.
+
+64
+00:05:51,583 --> 00:05:52,804
+[SPEAKER_00]: But you want to make one smaller.
+
+65
+00:05:54,105 --> 00:06:01,788
+[SPEAKER_00]: Now, there are instructions in there on variations that can have poisonous things or whatever like that.
+
+66
+00:06:02,208 --> 00:06:05,349
+[SPEAKER_00]: But it sounds like you want yours to be very small and simple.
+
+67
+00:06:06,009 --> 00:06:10,511
+[SPEAKER_00]: Just one for recon and detection.
+
+68
+00:06:10,771 --> 00:06:11,071
+[SPEAKER_00]: Okay.
+
+69
+00:06:21,742 --> 00:06:29,263
+[SPEAKER_00]: Using your Arcana roll, you spend four hours working on this homoculi.
+
+70
+00:06:29,863 --> 00:06:34,184
+[SPEAKER_00]: This is a DC 15 roll to be able to go through the instructions.
+
+71
+00:06:34,224 --> 00:06:37,625
+[SPEAKER_00]: You need to roll a 12 to make one that is acceptable.
+
+72
+00:06:38,507 --> 00:06:38,847
+[SPEAKER_00]: Okay?
+
+73
+00:06:39,547 --> 00:06:48,209
+[SPEAKER_00]: The way this works is that every point above a DC 15, the resulting homoculi will have one hit point.
+
+74
+00:06:49,609 --> 00:06:52,790
+[SPEAKER_00]: So if you roll a 16, you create a homoculi with one hit point.
+
+75
+00:06:53,810 --> 00:06:57,651
+[SPEAKER_00]: If you roll a 20, you create a homoculi with a 5.
+
+76
+00:07:02,752 --> 00:07:02,952
+[SPEAKER_00]: One.
+
+77
+00:07:03,553 --> 00:07:05,493
+[SPEAKER_00]: Your first attempt is horrible.
+
+78
+00:07:06,699 --> 00:07:13,263
+[SPEAKER_01]: So like mangled and like... You take it out of the thing and it falls apart.
+
+79
+00:07:14,664 --> 00:07:20,347
+[SPEAKER_00]: Okay, that's... You were trying to be as artistic as possible.
+
+80
+00:07:20,367 --> 00:07:21,428
+[SPEAKER_00]: I'm not very artistic.
+
+81
+00:07:21,468 --> 00:07:24,970
+[SPEAKER_00]: So basically you waste four hours working on the homoculi.
+
+82
+00:07:25,010 --> 00:07:25,510
+[SPEAKER_01]: Okay.
+
+83
+00:07:26,431 --> 00:07:26,771
+[SPEAKER_01]: Okay.
+
+84
+00:07:27,972 --> 00:07:29,813
+[SPEAKER_01]: So, hmm.
+
+85
+00:07:29,953 --> 00:07:30,534
+[SPEAKER_01]: It's awful.
+
+86
+00:07:30,814 --> 00:07:32,014
+[SPEAKER_01]: I'm going to have to try again.
+
+87
+00:07:32,034 --> 00:07:32,755
+[SPEAKER_01]: You start over.
+
+88
+00:07:32,775 --> 00:07:32,975
+[SPEAKER_01]: Right.
+
+89
+00:07:33,175 --> 00:07:34,136
+[SPEAKER_00]: Smashing the beast.
+
+90
+00:07:34,276 --> 00:07:34,876
+[SPEAKER_00]: Yeah.
+
+91
+00:07:34,956 --> 00:07:36,177
+[SPEAKER_00]: A little piece of this.
+
+92
+00:07:37,522 --> 00:07:38,342
+[SPEAKER_00]: And working again.
+
+93
+00:07:38,362 --> 00:07:40,363
+[SPEAKER_00]: Okay.
+
+94
+00:07:43,863 --> 00:07:44,224
+[SPEAKER_00]: Three.
+
+95
+00:07:44,944 --> 00:07:45,224
+[SPEAKER_00]: Okay.
+
+96
+00:07:45,904 --> 00:07:49,545
+[SPEAKER_00]: So, daytime goes into nighttime.
+
+97
+00:07:49,665 --> 00:07:53,826
+[SPEAKER_00]: And about 10 p.m. at night, you're exhausted.
+
+98
+00:07:54,586 --> 00:08:01,888
+[SPEAKER_00]: Your attempts, you actually got to the point where you created the little creature, which was ridiculously looking.
+
+99
+00:08:03,830 --> 00:08:08,433
+[SPEAKER_00]: Put it in the Hearthstone, and in desperation said the word slap his philosophy for him.
+
+100
+00:08:09,554 --> 00:08:13,657
+[SPEAKER_00]: One of the legs twitched for a second, and then the entire beast crumbled.
+
+101
+00:08:15,539 --> 00:08:16,279
+[SPEAKER_00]: Roll an end check.
+
+102
+00:08:18,021 --> 00:08:19,021
+[SPEAKER_01]: Oh wait.
+
+103
+00:08:21,683 --> 00:08:22,304
+[SPEAKER_01]: Thirteen.
+
+104
+00:08:22,484 --> 00:08:22,884
+[SPEAKER_00]: Oh, okay.
+
+105
+00:08:23,725 --> 00:08:28,709
+[SPEAKER_00]: You realize that the clay they brought you was substandard.
+
+106
+00:08:31,050 --> 00:08:31,851
+[SPEAKER_01]: Too grainy.
+
+107
+00:08:33,020 --> 00:08:34,121
+[SPEAKER_01]: You need something better.
+
+108
+00:08:34,621 --> 00:08:35,842
+[SPEAKER_01]: Let me go out and get myself.
+
+109
+00:08:36,902 --> 00:08:37,403
+[SPEAKER_00]: It's okay.
+
+110
+00:08:39,684 --> 00:08:42,045
+[SPEAKER_01]: Okay, I go out and I get myself good clay.
+
+111
+00:08:42,065 --> 00:08:42,485
+[SPEAKER_01]: No, no.
+
+112
+00:08:42,906 --> 00:08:44,286
+[SPEAKER_00]: Remember, it's 10pm at night.
+
+113
+00:08:45,167 --> 00:08:47,648
+[SPEAKER_01]: Yeah, I... Where are you gonna get the clay?
+
+114
+00:08:47,829 --> 00:08:48,249
+[SPEAKER_01]: I don't know.
+
+115
+00:08:49,830 --> 00:08:51,090
+[SPEAKER_01]: Not where they got that clay.
+
+116
+00:08:52,571 --> 00:08:53,412
+[SPEAKER_00]: Yeah, so...
+
+117
+00:08:54,680 --> 00:08:55,981
+[SPEAKER_00]: There is a marketplace.
+
+118
+00:08:56,021 --> 00:08:56,381
+[SPEAKER_01]: Yeah.
+
+119
+00:08:56,421 --> 00:08:57,921
+[SPEAKER_00]: I'm going to go to that marketplace.
+
+120
+00:08:58,161 --> 00:08:58,782
+[SPEAKER_00]: Okay.
+
+121
+00:08:58,802 --> 00:09:01,302
+[SPEAKER_00]: So the Grand Market is someplace you can go to.
+
+122
+00:09:01,322 --> 00:09:02,383
+[SPEAKER_01]: I'm sure I've got money.
+
+123
+00:09:02,483 --> 00:09:04,344
+[SPEAKER_01]: I mean, I'm... Oh, yeah.
+
+124
+00:09:04,804 --> 00:09:06,264
+[SPEAKER_01]: You've got lots of money.
+
+125
+00:09:06,444 --> 00:09:09,285
+[SPEAKER_01]: Platinum card or whatever.
+
+126
+00:09:09,586 --> 00:09:12,627
+[SPEAKER_00]: Do you want to rest that evening or do you want to go out at night?
+
+127
+00:09:13,967 --> 00:09:18,329
+[SPEAKER_01]: Let's just get it done now and then maybe I'll try again in the morning just before I leave.
+
+128
+00:09:18,349 --> 00:09:19,209
+[SPEAKER_00]: Okay.
+
+129
+00:09:21,270 --> 00:09:21,590
+[SPEAKER_01]: So...
+
+130
+00:09:22,707 --> 00:09:27,192
+[SPEAKER_00]: You decide that you're going to go find this yourself.
+
+131
+00:09:27,893 --> 00:09:29,655
+[SPEAKER_00]: Street vendors in the great market.
+
+132
+00:09:30,596 --> 00:09:31,037
+[SPEAKER_00]: Correct?
+
+133
+00:09:31,498 --> 00:09:31,678
+[SPEAKER_00]: Yep.
+
+134
+00:09:31,958 --> 00:09:33,620
+[SPEAKER_00]: Okay.
+
+135
+00:09:33,640 --> 00:09:36,403
+[SPEAKER_00]: So, how do you want to go?
+
+136
+00:09:36,483 --> 00:09:37,264
+[SPEAKER_00]: How do you want to dress?
+
+137
+00:09:39,046 --> 00:09:39,988
+[SPEAKER_01]: I'm just...
+
+138
+00:09:41,714 --> 00:09:45,706
+[SPEAKER_01]: I might take some of those casual clothes so I don't stick out so bad maybe.
+
+139
+00:09:45,787 --> 00:09:47,452
+[SPEAKER_01]: Do you want to dress as a merchant?
+
+140
+00:09:47,472 --> 00:09:49,438
+[SPEAKER_01]: Do you want to dress as a... What do you want to dress as?
+
+141
+00:09:49,458 --> 00:09:52,749
+[SPEAKER_01]: I'll just dress as, like I said, a black robe.
+
+142
+00:09:53,672 --> 00:09:54,153
+[SPEAKER_00]: Black cloak?
+

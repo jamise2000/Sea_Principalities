@@ -1,0 +1,395 @@
+[Speaker Key: DM = Dungeon Master (narration, voicing Lord Fairwind) | GOUGE = Gouge's player | PAUL = Paul Rivera's player | TYRUS = Tyrus's player | MERRICK = Merrick's player | FOLSOM = Folsom's player | JUDE = Jude's player. NOTE: The final portion of this file (Fairwind's lengthy exposition to Folsom about Lord Jamis's wife's brother, Zafar Azane, and the Duke of Gradsul) duplicates content already cleaned in "Folsom_conversation_w_Fairwind_CLEANED.txt" and is not repeated here in full — see that file for the conclusion of this exchange.]
+
+DM: Early morning on the third of Wealsun. The party has just defeated a couple of Toli agents in the inner sanctum and is sitting with Lord Fairwind — either genuinely captured, or playing captive — trying to figure out next steps.
+
+PAUL: Can you ask Lord Fairwind if he's actually involved in any of this?
+
+GOUGE: I can try.
+
+DM (as Fairwind): I'm right here, gentlemen — I am not involved in whatever this is, this seizure of the Helm.
+
+PAUL: Involved, though — clearly.
+
+GOUGE: [pulling Paul aside] I want to talk to you privately for a second — do I still have that charm active on him?
+
+DM: Roughly an hour left, give or take.
+
+GOUGE: Can I speak with Fairwind one-on-one, or should I ask the group first?
+
+PAUL: If there are private conversations to have, we should each take them individually.
+
+GOUGE: I don't mind the group hearing this, actually — I just want it on record, as long as Fairwind and the captured Toli don't react to it.
+
+DM: All right, you step aside, though the rest of the group can still hear.
+
+GOUGE: [to Paul] If we rush this, remember he mentioned his own garrison — about a hundred fifty men — imprisoned somewhere. He might try calling out to them. We need to get him off this rock without his troops knowing.
+
+PAUL: Agreed.
+
+GOUGE: I'm thinking — you all take the ship back to Monmurg if we can seize it, while I take Fairwind and try to rally his troops directly, get them unlocked, coordinate retaking the Helm from the outside.
+
+PAUL: You'd take the captured Toli and Fairwind both back to Monmurg?
+
+GOUGE: I'd rather hand the interrogation to Jamis directly.
+
+PAUL: That's what I was thinking too — unless you were specifically told otherwise.
+
+GOUGE: As we head down, we'll need to hood and gag him so he can't call out — except he's the one who needs to guide us to the secret lower level.
+
+PAUL: We don't know what's down there at all.
+
+GOUGE: I'd bet this place is garrisoned with the same hobgoblins we've seen, and the Toli are probably striking some deal with Fairwind that he's agreed to, at least partially. I don't know exactly what you overheard, Paul, but we'll trust your account — you take point on Fairwind. I just want him off this island quietly, if we can manage the boat.
+
+If he calls out and his men learn he's alive, it gets much harder — he'll be shouting for help, telling them not to let us take him.
+
+PAUL: Definitely.
+
+GOUGE: So we're balancing — he has to guide us, but if the charm's still active, maybe we can get him to stay quiet voluntarily.
+
+PAUL: When you talk about sending Tyrus ahead in the captured armor — not too far ahead, since we don't know where the actual secret passage is. There's got to be one, given this cave system leads in from the sea side.
+
+GOUGE: There might not be a secret door from the inside looking out — could just be one-directional, built for entry only.
+
+PAUL: Remember that other garrison captain — he said even knowing about the secret passage was a death sentence. So it's probably not something anyone on the inside would stumble onto by accident.
+
+GOUGE: Right — so we need him to guide us, but also be ready to subdue him cleanly if needed, not kill him. I'm honestly better at the killing part than the subduing part.
+
+PAUL: Same, but noted — someone needs to be ready for that.
+
+DM: The two of you finish your aside and rejoin the group — anyone want to question Fairwind directly while you're at it?
+
+GOUGE: [to Fairwind] Between us — any idea how the hobgoblins got here, or how many we're up against?
+
+DM (as Fairwind): They arrived on a ship the Toli brought — the Sea Ghost, owned by Cain Toli.
+
+GOUGE: Anything more specific about the threat level we're facing?
+
+DM (as Fairwind): You'll face as much threat as you choose to. Or none at all — if you'd like, you could simply free me right now, and there'd be no threat whatsoever.
+
+PAUL: I respect my uncle quite a bit. And even though he considers himself first among equals, he's not the sole ruler of this land.
+
+DM (as Fairwind): Doesn't matter.
+
+PAUL: Why not? You're a traitor, accused of treason, and I intend to bring you before the courts of the principalities.
+
+DM (as Fairwind): I've never even heard of those courts.
+
+PAUL: They're very much real.
+
+DM (as Fairwind): What treason, exactly, do you believe I've committed? Am I not a lord with as much standing as anyone here?
+
+PAUL: Not anymore — you're now accused of treason.
+
+DM (as Fairwind): Treason against whom?
+
+PAUL: Against us. Against Monmurg.
+
+DM (as Fairwind): What allegiance do I actually owe you, Paul Rivera?
+
+PAUL: You're lucky I'm not pressing this further than I am. Nobody's trying to usurp your authority — you just need to speak with Prince Jeon directly.
+
+DM (as Fairwind): I will speak with Jeon — but not under duress, and not as a prisoner.
+
+PAUL: You will, as a prisoner, for now. We'll sort that distinction out later. Right now, we need to know how many men are below, how many we'll have to fight to retake this place. How many of your garrison were killed when the hobgoblins arrived?
+
+DM (as Fairwind): None — I had them moved somewhere they wouldn't be harmed.
+
+PAUL: To cells?
+
+DM (as Fairwind): Not cells — they're not imprisoned, exactly.
+
+PAUL: I thought they were.
+
+DM (as Fairwind): Gentlemen, I think you misunderstand the full situation here.
+
+PAUL: Clarify, then.
+
+DM (as Fairwind): There's an ongoing conflict between the princes of the sea principalities — a discussion happening between several of us. Unfortunately, Jeon apparently didn't fully brief his nephew on what's actually going on, or perhaps he did and Paul simply failed to share it properly with the rest of you.
+
+PAUL: It sounds like, with the Toli being one of the princes involved, what you're actually doing is siding with them against us.
+
+DM (as Fairwind): I've been allied with Port Toli for hundreds of years, as have all the outer isles. They're equal partners with Jeon in this nation's decision-making.
+
+PAUL: Is Toli suffering under this embargo the way Monmurg is?
+
+DM (as Fairwind): No one suffers like Monmurg does right now.
+
+PAUL: So it seems your alliance with the Toli, against Monmurg specifically, is exactly the issue.
+
+DM (as Fairwind): If I choose to side with the Toli against Monmurg, that's my own business and right to do.
+
+PAUL: Not anymore — not in this company. We have Lord Jamis's man and one of his agents standing right here, and we also happen to have one of your own spies in custody.
+
+DM (as Fairwind): Do the rest of you even know who these two actually are — have you known them before today, this week?
+
+PAUL: We're not here to answer your questions.
+
+GOUGE: That's not how this works. Can you guide us to the secret passage below?
+
+DM (as Fairwind): Guide you where, exactly?
+
+PAUL: To wherever the barrels are being smuggled off this island.
+
+DM (as Fairwind): Ah — you wish to go down there.
+
+PAUL: We'd like to recapture what's being taken. We've seen the barrels ourselves.
+
+GOUGE: Wouldn't that be the best way to hold the island against the Sahaugin, at minimum?
+
+DM (as Fairwind): I think it's the only way Monmurg actually survives this, frankly.
+
+PAUL: Do you know when the boat carrying them will leave?
+
+DM (as Fairwind): It's come and gone several times already. What's more important to understand is that for months, I've been quietly transporting as much of the substance as possible to Fairwind Island — to a location only I know.
+
+PAUL: That's a great reason for you to talk to Jeon directly.
+
+DM (as Fairwind): I will.
+
+PAUL: This is above our pay grade, frankly, but we're still taking you down there.
+
+DM (as Fairwind): I don't see how that's possible.
+
+GOUGE: You're going to show us the passage, and we're going to try to take the ship.
+
+DM (as Fairwind): What ship?
+
+GOUGE: The one out in the harbor right now.
+
+DM (as Fairwind): You mean Cain Toli's ship? With his hand-picked men, his personal guard, hundreds of hobgoblins?
+
+GOUGE: How big is this ship, exactly?
+
+DM (as Fairwind): There's a smaller ship that ferries between the larger one and shore — that's the one in the cove right now. We're trying to get it back into the water so we can repel the Sahaugin properly.
+
+GOUGE: We're not taking Kane's main ship, but we'll take that smaller one, and we'll smuggle you back to Monmurg with us. Or we can negotiate something else.
+
+DM (as Fairwind): Perhaps we discuss deals once we're all seated properly, somewhere safe.
+
+GOUGE: Frankly, none of us much care for your deals — you've already admitted to siphoning barrels for your own benefit, knowing full well Monmurg needs the Helm's protection. That alone puts you against Jeon.
+
+DM (as Fairwind): Correct — I'll exercise my right to remain silent on the rest, then.
+
+GOUGE: You've crippled Jeon's defenses by taking those barrels, which let the Sahaugin overrun this place. At minimum, you've got two hundred dead Monmurgian Marines in this bay to answer for.
+
+DM (as Fairwind): I respect your uncle quite a bit, Paul — he's an honest man. However, I don't think he fully understands what's actually occurring among the principalities, and my disagreements with him stem from exactly that.
+
+PAUL: That'll get sorted out at his office in Monmurg.
+
+DM (as Fairwind): I don't think you're getting off this island alive, actually — unless I allow it.
+
+PAUL: Why's that? How would you stop us?
+
+DM (as Fairwind): I wouldn't need to actively stop you — I'd simply let the Sahaugin handle it.
+
+PAUL: You just said we'd get off only if you allow it.
+
+DM (as Fairwind): Unless our business here concludes properly first — do you need me to guide you to the remaining stockpile of the substance?
+
+GOUGE: Yes, please.
+
+DM (as Fairwind): Then, clearly, I retain some advantage here — a genuine bargaining chip.
+
+GOUGE: [aside, regarding the charm spell] By the way, the only reason he's even talking civilly right now is because he's charmed.
+
+PAUL: I figured as much.
+
+GOUGE: I don't know how long it holds, honestly.
+
+PAUL: [frustrated, addressing Fairwind directly] So while you and the rest of the princes worry about your petty squabbles, the people of Monmurg are the ones actually suffering. Nothing improves until the Sahaugin are repelled, order's restored, and this blockade ends. Let's go downstairs, deal with this properly, and get that substance into the water now.
+
+DM (as Fairwind): It's being moved out as we speak, in fact.
+
+GOUGE: He makes a fair point — Monmurg's people are the ones who'll suffer most in any prolonged conflict.
+
+PAUL: This is just a preview of what Jeon's been warning about. Can we go, please — listening to all this back-and-forth is getting old.
+
+DM (as Fairwind): There's also the matter of more barrels being moved out even as we speak.
+
+PAUL: Do you know where the remaining stockpile actually is?
+
+DM (as Fairwind): I know where the only remaining barrels on this island are, yes.
+
+GOUGE: So what's your actual play here, then?
+
+DM (as Fairwind): Very soon, I won't have much of a bargaining chip left at all — the Toli will be taking the rest as we speak. But for now, I have one, since I still control access to a significant remaining cache. What I'd genuinely like, going forward, is to see you all escape Helm Island successfully.
+
+GOUGE: We can escape together, using that smaller ship.
+
+DM (as Fairwind): I will not be coming with you.
+
+GOUGE: You can't just stay behind.
+
+DM (as Fairwind): I can, and I will.
+
+GOUGE: We'll discuss that once we're actually out of danger — if we make it out at all, that's the priority. We need to recover our Marines and our people.
+
+DM (as Fairwind): All right — stick close to me. If the Toli notice their ship's being taken, you'll need to move quickly and slip away in whatever you've got.
+
+GOUGE: [to DM] What time is it currently?
+
+DM: Early morning — around 3 a.m.
+
+GOUGE: Could we still sneak past the other lighthouse — did our troops ever take that one?
+
+DM (as Fairwind): No — they staged a diversion there, but never actually secured it.
+
+GOUGE: So, will you take us to the remaining barrels?
+
+DM (as Fairwind): Yes — let's go.
+
+DM: He stands, and the group falls in around him.
+
+GOUGE: [keeping a firm grip on Fairwind, half-joking] Come here, buddy — best of friends, you and me.
+
+DM: All right — how do you want to march, what's the order? Any hobgoblins down here you might run into?
+
+DM (as Fairwind): There are stationed hobgoblins along the upper shafts, but not on the passage we're taking specifically. There are also Sahaugin in the water caves nearby — if we bring barrels through there, the substance should kill or drive them off as we pass.
+
+GOUGE: That's how we survive the trip, then.
+
+PAUL: Do we have to go through the caves to reach the barrels?
+
+DM (as Fairwind): Yes — all the remaining barrels are being staged near the water caves currently. You'll need to get near the Sahaugin to retrieve them.
+
+DM (as Fairwind): I have no doubt you'll be able to negotiate with Jeon as something of an equal eventually, but you can't negotiate that way with me — you've already pointed out you have his agent and a hostage of mine present. You negotiate with Jeon himself, and I'm sure he'll deal fairly with you given what you're bringing back.
+
+But to get you off this island alive, past the Sahaugin, we'll need at minimum enough barrels to secure the Helm and reach that smaller ship — and we'll need to take it outright.
+
+GOUGE: One barrel would secure the Helm for quite a while, you said.
+
+DM (as Fairwind): That would do it.
+
+GOUGE: Then we'll move quickly to get exactly that.
+
+DM (as Fairwind): If you wanted me assassinated outright, you'd have already done it — so let's not pretend we're negotiating from equal positions; we're not, but I'm not going to grovel either.
+
+GOUGE: Fair — how long is a short rest?
+
+DM: An hour.
+
+GOUGE: We don't have time for that. We're going now.
+
+PAUL: You still pretty beat up?
+
+GOUGE: Yeah, pretty beat up.
+
+GOUGE: [to Fairwind] Where exactly are your troops — you said they're not locked up?
+
+DM (as Fairwind): My troops are on the lower level, with no access to any of the upper floors — effectively locked in, even without an actual key. They're bolted in from outside, with hobgoblin units guarding the passage.
+
+GOUGE: Do you have the key?
+
+DM (as Fairwind): I do not — it's simply bolted shut.
+
+GOUGE: If we wanted to free them, could we reach that area through the sanctum and down another way?
+
+DM (as Fairwind): There are hobgoblins past the sanctum guarding exactly that passage.
+
+GOUGE: We already walked through that area to reach the inner sanctum, though — were those troops disarmed at that point?
+
+DM (as Fairwind): Yes — those were the ones moved into the barracks, unarmed.
+
+DM: All right, you're all gathered, marching order set — Gouge and Tyrus with Fairwind between you, Paul nearby, the captured Toli prisoner held by the hair by one of you, Jude bringing up some illumination.
+
+DM (as Fairwind, as you reach the stairwell): Are you certain about this?
+
+GOUGE: Yep.
+
+DM (as Fairwind): It's the only way down, then — fine, I'll take you to the veils, as it were.
+
+DM: You begin descending a spiral staircase.
+
+PAUL: [to DM] Just to clarify — the ship we saw earlier, is that the small skiff from the cave, or a separate, larger vessel — the Sea Ghost itself, further out?
+
+DM: Right — you did see the Sea Ghost itself once, about three hundred yards off, not gigantic, but bigger than a corsair, built for speed, clearly not something to engage directly.
+
+PAUL: So we can't take that one — is there an intermediate-sized ship we could realistically use instead?
+
+DM: There is — the smaller ferry ship going back and forth between the Sea Ghost and shore, roughly fifty feet long, the kind smugglers typically use to slip in and out of coves like this.
+
+GOUGE: That's the one we go for, then.
+
+PAUL: We'll need some luck, and maybe leverage the captured Toli if we're spotted, to avoid getting boarded ourselves.
+
+GOUGE: If we've got barrels, that neutralizes the Sahaugin threat at least — that's priority one.
+
+JUDE: I can have my homunculus scout ahead, check the Sea Ghost's exact position, see if the coast is clear for the skiff to slip away.
+
+DM: Not in broad daylight, though — Cain Toli's crew would likely spot the skiff regardless.
+
+JUDE: Then we need to be even sneakier — probably need full darkness if we're attempting to take that smaller ship undetected.
+
+GOUGE: Not sure if it'll still be mid-unloading when we get there — depends how many barrels remain.
+
+PAUL: We've got limited time to secure even one. Let's get moving.
+
+DM: All right — you descend the spiral staircase roughly sixty feet, ending in a rough-hewn rock chamber, a passage leading north toward where the ship would be docked. It's dark down here, no light sources yet.
+
+PAUL: No secret doors we've spotted so far, just to be sure — I want to remember any for later use.
+
+DM: None visible yet.
+
+GOUGE: Who here doesn't have darkvision — raise your hand.
+
+FOLSOM: Me.
+
+JUDE: I'll cast Light on someone's shield instead of using torches, so we're not as exposed.
+
+GOUGE: I'll take point, then, with the prisoner.
+
+DM: You cast Light on Gouge's shield — illuminates twenty feet brightly, another twenty dimly, lasting an hour.
+
+DM: You all proceed into the passage. After about ten or fifteen feet, you reach a narrow, five-foot-wide bridge — not horribly rickety, but definitely a tight crossing — leading into a cave that opens into darkness, water audible far below.
+
+GOUGE: Across the bridge, what's on the other side?
+
+DM: The passage continues, turning corners as it descends — there's a drop-off into what sounds like open water below, with a narrow wooden walkway built into the cave wall, no railing.
+
+GOUGE: [shining the light down] Can I see any sharks or Sahaugin in the water below?
+
+DM: The water's too deep to see the bottom from here — you can hear it, but can't make out anything specific.
+
+GOUGE: I'm not too worried — I've got my prisoner as insurance; he's not about to throw himself off a bridge, given his own safety's tied to mine right now.
+
+DM: All right — you proceed, single file, light leading the way.
+
+GOUGE: [keeping Fairwind close] Stay right there, buddy — right behind me where I can see you. [muttering] Keep an eye on the water — sailor or not, you can't actually swim that far if you tried something.
+
+DM: Folsom, you wait a bit before following, keeping some distance.
+
+FOLSOM: I want to make sure this is stable before the rest of us commit.
+
+DM: You watch the others proceed about twenty feet ahead before following yourself, light glinting faintly off the cave walls above — something briefly moving up there, though hard to tell what in the dim light.
+
+DM: As you approach, you're nearing the edge of where the light from Gouge's shield will still reach — let me know if you need to adjust pacing to stay within range.
+
+GOUGE: I'll keep everyone within about ten feet of me, so we don't lose the light.
+
+DM: Understood.
+
+PAUL: [aside] Can we hear or see water clearly at this point, or is it still pitch black beyond the light?
+
+DM: Still pitch black beyond the immediate glow — no natural light source down here at all.
+
+DM: This walkway clearly wasn't built to carry heavy cargo — meant for one person walking at a time, not hauling barrels or treasure through. Fairwind would be the only one who'd actually know if this is the sole route down.
+
+GOUGE: [to Fairwind] Is this genuinely the only way to where the barrels are?
+
+DM (as Fairwind): There's an entrance from the sea itself, and another from a beach on the far side of the hill — a small cove, though that one requires climbing down a cliff face to reach.
+
+GOUGE: We'll stick with this route, then.
+
+DM: You continue cautiously along the narrow walkway, testing your footing as you go.
+
+GOUGE: [moving carefully, stealthily] I'm not just walking carelessly across this — testing each board.
+
+DM: [resolving a check] You proceed about twenty feet, boards creaking slightly underfoot but holding.
+
+GOUGE: [to Fairwind] Is this still the only path to the barrels, or is there a faster route you're not mentioning?
+
+DM (as Fairwind): This is the path. There's no faster way I'd recommend, given the circumstances.
+
+GOUGE: [continuing forward] All right — let's keep moving.
+
+DM: The walkway continues, narrow planking suspended over the chasm, water audible far below, the group proceeding single-file with Gouge's shield-light leading the way, Tyrus testing each board ahead of the others to ensure it holds before the rest commit to crossing.

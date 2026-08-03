@@ -1,0 +1,7 @@
+# Cast for Gouge_Merrick_etal_travel_to_Barracks_2nd_Wealsun
+# Expected voices: 5
+SPEAKER_00: Tyrus (confirmed — picks his Paladin spells: Compelled Duel, Cure Wounds, Searing Smite, Thunderous Smite, Shield of Faith; greets Sten the sergeant right after the DM says "Tyrus, you know this guy")
+SPEAKER_01: DM (dominant narrator, voices Sergeant Sten)
+SPEAKER_02: Gouge (confirmed — "trust the little elf, he's pretty smart" re: Jude's plan; later "I look for the elf... just to see if the elf's down here")
+SPEAKER_03: Folsom (confirmed — casts Message, a Bard cantrip, to whisper to the tower guards)
+SPEAKER_04: Merrick (confirmed — "I'm going to go first because I know the terrain"; casts Fog Cloud to cover the retreat)

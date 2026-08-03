@@ -1,0 +1,283 @@
+[Speaker Key: DM = Dungeon Master (narration, voicing Prince Jeon and Lord Jamis) | PAUL = Paul Rivera's player | JUDE = Jude's player (present, mostly silent)]
+
+DM: The date is the 2nd of Wealsun, in the 579th Common Year of Keoland's calendar. It's the second of Wealsun in the city of Monmurg, and you wake up the morning after creating your homunculus, planning to start on the mission Prince Jeon gave you — investigating possible Toli agents in the city.
+
+PAUL: That's right — he wanted me to find their agents.
+
+DM: Not agents working for us — these would be from the original mission, the ones working against us.
+
+PAUL: Right, right, the ones working against us. So you get up the next morning, and after handling your business, you're planning how to start. Obviously the first move is to go down and get that guy.
+
+PAUL: My dungeon prisoner — I interrogate him. I shot him through the neck with an arrow earlier and already told him what I know, but I'm not expecting much information; I'm expecting to turn him into an asset instead.
+
+DM: That's one approach to this.
+
+PAUL: Exactly — that's what I'm aiming for.
+
+DM: So, around 11 a.m., after breakfast, as you're getting ready to head to the dungeon, a servant knocks on your door.
+
+PAUL: Come in.
+
+DM: They open the door and look away, since you don't have your mask on yet.
+
+PAUL: Oh, shoot.
+
+DM (as servant): Excuse me, Paul — your uncle wishes to see you in his office right away.
+
+PAUL: Of course, tell him I'll be there.
+
+DM: He walks away.
+
+PAUL: I put my gear on and go see Jeon again.
+
+DM: You suit up — which mask do you wear?
+
+PAUL: My new one — the black metal one.
+
+DM: All right, you walk to his office, the guards let you in, and you enter to see Prince Jeon behind his desk, with Lord Jamis sitting in a chair across from him. Standing behind Jamis is an elf — elves aren't common in Monmurg, but there are a few. This one, however, has a notably dark demeanor compared to most — not smiling, lips drawn tight, looking concerned, as Jamis and Jeon share a tense, pregnant pause as you walk in.
+
+DM (as Jeon): Paul, you've joined us — please, have a seat. This is Lord Jamis, as you know, and this is one of his agents — I believe your name is Jude?
+
+DM (as Jude): Yes.
+
+DM (as Jeon): He's a wizard in Lord Jamis's employ, reportedly very knowledgeable in arcane matters.
+
+PAUL: [to DM] Is this the guy whose wife is — wait, is Prince Jeon married?
+
+DM: Prince Jeon is not married to a Suel woman — Jamis is the one married to a Suel woman.
+
+PAUL: Okay — and Jamis has been kind of a patron to me in the past?
+
+DM: It's a strange relationship — kind of on-again, off-again. He's used Gouge in a less "promotable" way, where Gouge has gotten his hands dirty for him, but Jeon has been using you in a more presentable capacity. Lately, though, I think he's realizing your value might actually eclipse Gouge's going forward — there aren't many wizards around; plenty of drunken sailors who do knife work on the docks, and Gouge is a good one of those, but he doesn't speak ancient Suel, or anything close.
+
+PAUL: Right, exactly.
+
+DM: Anyway — you walk in, Paul, and you're introduced as Jeon's nephew, though it's not made explicit one way or another to Jude exactly what that means.
+
+PAUL: I just look at the new guy and nod. [to Jude] You're wearing a mask — can you describe yourself to me?
+
+DM: [to Paul] You're wearing a dark cloak, studded leather — roll a d20.
+
+PAUL: [rolling] Fifteen, any pluses?
+
+DM: This person who just walked in is wearing a cowl you recognize as something the monks of the Scarlet Brotherhood wear — remember that temple you and Karmirg took over, where you got turned into a snake?
+
+PAUL: Exactly, right — and I mentioned there might have been an invisible person I could detect?
+
+DM: That happened separately — you're not getting any particular vibe or scent off Jude that would connect him to that, to your knowledge. Nothing magical detected either.
+
+DM (as Jeon): This is Paul — one of my relatives, my nephew. I wish to include him in the operations we've been discussing. From what I understand, Lord Jamis, you've told me Paul has been investigating possible Toli agents in Monmurg.
+
+PAUL: Yes — my investigation's still preliminary, only just begun.
+
+DM (as Jeon): I understand. Lord Jamis, would you tell us exactly what's transpired over the last month regarding this?
+
+DM: Jamis gives you a strange look — not sure why, but he answers.
+
+DM (as Jamis): Certainly. About a month ago, we had a visit from a wizard from Keoland — I spoke to you about this individual earlier, Jude. This Lord Phranck, apparently from the magical academy at Gradsul — the same school my son Grayson attended several years ago, before he died there — Phranck, however, is an evoker, and he visited Monmurg, interestingly enough to make contact with me. He wanted to glean information about my intentions toward the Duke of Gradsul. I had no real idea what Phranck was after, but he did give me information — and a contact to a spy he'd embedded here in Monmurg. To be honest, I still haven't fully understood his true intentions. Was he warning us, or not? Is he working against the Duke of Gradsul, or not?
+
+PAUL: Did this happen before the blockade?
+
+DM (as Jamis): This happened shortly after the blockade started, before it was officially announced, and before Port Torvin was burned to the ground.
+
+PAUL: How long ago was Port Torvin burned?
+
+DM (as Jamis): About two weeks ago.
+
+JUDE: I've been in the city since — I talked to the governor, on my travels, about a week.
+
+DM: You came from Red Shore, where you remember all those ships gathering — you were traveling with Jamis about that information at the time.
+
+DM (as Jamis): That happened while you were on your way to Monmurg — you wouldn't have known about it; you just heard about it after arriving.
+
+PAUL: What's the latest word on Lord Phranck's location?
+
+DM (as Jamis): Supposedly he's in Saltmarsh, though we haven't pinned down his exact whereabouts.
+
+PAUL: Saltmarsh is inland, north?
+
+DM (as Jamis): Saltmarsh is across the Bay of Salinmoor — a day-and-a-half sail from Monmurg if going by sea, through dangerous waters given the blockade and the ongoing war. By land, you'd go back along the peninsula, through the marshes, across the Hool River, through largely uncivilized territory.
+
+PAUL: Who burned the town — do we know?
+
+DM: Jamis glances at Jeon.
+
+DM (as Jamis): My reports tell me the person who burned the town and stole a large amount of goods was actually an agent of Lord Phranck's — though we don't know which side Phranck himself is truly on. His actions are confusing because, while he was in Monmurg, he was attacked by four assassins clearly from Port Toli. I had no idea what they were trying to accomplish, but during that period, I believe he made contact with one of his own agents, and he later reached out to me about a traitor passing information to the Toli — a dockmaster of mine named Atare, who had been in Gradsul on a diplomatic mission about three weeks prior, before hostilities began, but who'd apparently been turned during that visit. He suggested I work with—
+
+DM (as Jamis): Let me continue. Lord Phranck has contacted me magically several times since. I don't know his full intentions, or whether he's even fully in control of this "Scarlet Rat," as he calls himself — the man who burned Port Torvin. However, the Scarlet Rat's actions have further endangered Monmurg. As you know, our food stores are dwindling fast, and the foodstuffs we expected from the river trade are no longer available — that's exactly what was destroyed at Port Torvin. Basically, all the food meant to supply the foreign and merchant districts through the summer trading months has been annihilated. Without trade reaching the city, and with the embargo in place, there simply isn't enough food to go around right now.
+
+DM (as Jamis): And that alone isn't enough to fully condemn Phranck, even if the Scarlet Rat is one of his agents — it goes deeper than that. Lord Phranck, as it turns out, is, in my estimation, an Inquisitor from the Office of Forbidden Magic.
+
+PAUL: Say that again?
+
+DM (as Jamis): An Inquisitor from the Office of Forbidden Magic — a secret organization out of Gradsul that investigates magical activity and brings to justice those engaged in proscribed magic. This isn't usually a problem here, since few people practice proscribed magic in the first place — we don't even have a clear definition for it — but Keoland is very specific: necromancy chief among the magics they're determined to suppress. Supposedly, he's in Salinmoor, in Saltmarsh, investigating the use of necromancy tied to some illness affecting that border region, just south of Saltmarsh.
+
+PAUL: Which disease is that? I thought something was happening in that swamp area south of Saltmarsh.
+
+DM (as Jamis): Are you speaking of the black sickness?
+
+PAUL: Yes.
+
+DM (as Jamis): Yes — Phranck is investigating the black sickness.
+
+DM (as Jamis): Actually, I don't know that for certain — I think he's actually investigating a resurgence of some extremist group called the Sons of Olan, historically tied to necromancers in that region. However, the black sickness is affecting Monmurg far worse than it's affecting Salinmoor or Keoland — you know West Keep is overrun with people afflicted by it, and I think you've seen its effects yourself.
+
+PAUL: [to DM] Does "Sons of Olan" mean anything in Flannish or ancient Suel? Does "Olan" ring any bells? What's my history bonus?
+
+DM: Plus eight — roll DC 20.
+
+PAUL: [rolling] Damn.
+
+DM: You've never heard of the Sons of Olan.
+
+PAUL: Do I at least know if "Olan" is Flannish or Suel?
+
+DM: It's pronounced O-L-A-N, and it's a Suel name.
+
+PAUL: Okay. [to Jamis] How would you have us move forward?
+
+DM (as Jamis): There are several things worth looking into. First, there's an agent of Lord Phranck's — someone I've worked with in the past — named Kalisi. She's an elf in Monmurg; she's actually had contact with Gouge, and she's the one who implicated Atare as the traitor — my harbor master, who'd apparently been working with the Toli, for money, since before the attack on Port Torvin. My intention was to deliver Atare into Lord Phranck's hands, since these Inquisitors have the ability to read minds, to learn what Atare was really doing in Gradsul. Phranck, it seems, was investigating whether the Duke of Gradsul was in league with the Prince of Port Toli, Sacnon Toli — and I'd like to know the truth of that myself. However, he hasn't reported back to me in some time, and his subsequent actions suggest he's become more of an enemy than a friend.
+
+PAUL: So, investigating — what was the name again, Atare? — his connection to Port Torvin and the Toli?
+
+DM (as Jamis): A connection to the Toli — Atare is long gone now, in Saltmarsh as far as we know.
+
+JUDE: [to DM] Just to confirm — I have notes from before that there's a "Cain Toli" with an artifact controlling turtle dragons. Jamis already told me that, after the run-in with Phranck and the Toli.
+
+DM: Right, that's already established.
+
+PAUL: Can we trust Kalisi, at least nominally?
+
+DM (as Jamis): No. She's acted in apparent good faith while in Monmurg, but she is a creature of Lord Phranck's — I haven't been able to verify her movements independently yet.
+
+PAUL: But if we could confirm her ties to us, or her support for Monmurg, that would put her back on the table?
+
+DM (as Jamis): That's on the table, yes. What would be interesting to know is whether she still has contact with Lord Phranck, and if we can glean anything from her about his whereabouts.
+
+PAUL: Does she have a regular way of reaching you?
+
+DM (as Jamis): She contacts me regularly, but she hasn't given me anything meaningful for several weeks now — actually, a month. After the information about Atare, that was the end of useful intelligence from her.
+
+JUDE: [pausing, to DM] So, in the context of the blockade and everything draining our resources, she hasn't given anything solid in a while — where does that leave us?
+
+DM (as Jamis): At least two weeks of nothing.
+
+PAUL: Two weeks isn't that long, though, in a siege.
+
+DM (as Jamis): I've tried sending messages to Lord Phranck — there was an infiltrator who went to Port Toli, presumably on Phranck's behalf. I gave that person a message asking Phranck to contact me — that was about five days ago. They've since passed into Salinmoor, but I've heard nothing. And remember, Phranck has the ability to reach out telepathically.
+
+PAUL: I was expecting a magical message from him by now.
+
+DM (as Jamis): [gesturing] He contacts me, not Paul — luckily, Paul hasn't yet been "touched" by an Inquisitor's mind the way I have.
+
+PAUL: [trying to process all this] That's a lot of information. [counting points in his head, while Jude stays utterly silent]
+
+PAUL: [aside] Does Jude seem like he's just not engaging at all?
+
+DM: He hasn't said a single word this whole time.
+
+PAUL: [aside] He's starting to creep me out a little — he's just the muscle, lurking. I'm the investigator, he's the killer.
+
+DM: He hasn't even moved.
+
+PAUL: All right — I apologize for interrupting with all my questions. You said, when I asked what you'd have us do, that there were several things. So: bringing Kalisi in is one, fairly straightforward. Then there's finding the dockmaster Atare himself, if we can — or do we know if he's fled?
+
+DM (as Jamis): Atare was taken into custody, as I mentioned — I took him myself.
+
+PAUL: Did you get anything out of him?
+
+DM (as Jamis): This was three weeks ago — I didn't torture him excessively; he had nothing useful to tell me beyond what I already suspected, but I did confirm he was working for the Toli. I had Gouge and Karmirg deliver him to Port Torvin, where Lord Phranck told me a contact would take custody of him.
+
+DM (as Jamis): That happened — though little did I know, the "contact" who actually took custody was the very pirate burning Port Torvin to the ground: the Scarlet Rat. That's how I came to know that identity.
+
+PAUL: The Scarlet Rat?
+
+DM (as Jamis): Yes.
+
+PAUL: [to DM] He hasn't actually revealed who the Scarlet Rat is, has he — just referred to him by that name?
+
+DM: Right — he's only described the Scarlet Rat as the Scarlet Rat, without naming an actual identity. Essentially, Jamis didn't know who'd done the burning until he learned the person taking custody of Atare called himself the Scarlet Rat — and that's when he realized this person was affiliated with Phranck. They took Atare into custody right after razing Port Torvin to the ground.
+
+DM: So, to recap what happened: Phranck talked to Jamis, and together they determined this man — Atare — was a traitor, through their own investigation. Jamis took Atare, interrogated him, learned what he could about what was going on, and decided to hand him over to Phranck. He had Gouge and Karmirg transport him to Port Torvin, where the "Rat" — the one burning the city to the ground — took custody of him there.
+
+PAUL: So do we think Phranck is the Scarlet Rat himself?
+
+DM (as Jamis): No.
+
+PAUL: Okay.
+
+DM: Basically, what Jamis is describing is that the Scarlet Rat — whom he sometimes calls "a Toli rat" —
+
+PAUL: Right, because that puts us in a difficult position.
+
+DM: The person actually in charge of burning Port Torvin was clearly working for the Toli, not Phranck directly — he's either an agent of Phranck's, or an agent of the Toli rat, or an agent of the Duke of Gradsul. Jamis can't quite place where Phranck fits into all this, but it's becoming clear that someone — trying to curry favor with Jamis — had shown up in Monmurg, spoken with him, said certain things, and then gone off and done all this other bizarre, violent stuff, like sending an agent to burn Port Torvin down.
+
+JUDE: So what is he actually doing — what's the deal? [looking to Jamis, but also acknowledging Jeon] So, you'd have us prioritize which of these leads? I feel like we could bring in Kalisi if needed — that seems straightforward. The search for Toli spies within Monmurg itself will take time — or do you want us traveling outside the city as well?
+
+DM (as Jeon): It's my wish that Paul take the lead on this. However—
+
+DM (as Jamis): I think you're well-versed enough in the arcane that you'd be useful in countering whatever the Toli assassins might throw at us. Have you faced any Toli assassins yet today?
+
+PAUL: The day's just started.
+
+DM (as Jamis): I mean, previously, recently?
+
+PAUL: I don't think so, at least personally.
+
+DM (as Jamis): Karmirg and Gouge killed four of them.
+
+PAUL: [acknowledging]
+
+DM (as Jamis): But you know how dangerous they are, mixing magic and weaponry — it was a real battle. I don't wish to see Paul directly involved in combat.
+
+PAUL: [to DM] Is that Jamis talking, or Jeon?
+
+DM: That's Jamis.
+
+DM (as Jamis): However, I would like you to involve him in the investigation, if you would.
+
+DM: So Jamis is essentially saying Paul should lead, per Jeon's wishes, but he doesn't want Paul exposed to direct combat — neither of them want him hurt.
+
+PAUL: So, am I being babysat?
+
+DM: He doesn't say that outright.
+
+PAUL: [aside, getting his gear together] Of course.
+
+DM (as Jeon): Excellent. We have a council meeting to attend — please, the two of you compare notes, bring Paul up to speed on your current investigations. After our meeting, we can speak further on where things stand. Jamis, I'd like you to help Paul access whatever resources he needs.
+
+DM (as Jeon): Paul, I heard about your activities last night.
+
+PAUL: Yes.
+
+DM (as Jeon): Involving Jude in this — his skills may be helpful.
+
+PAUL: Of course, thank you.
+
+PAUL: [to DM] What mask is Jude actually wearing — do I notice the details?
+
+DM: You already know the general look — but to clarify: it's a metal mask covering the entire face, made of small interlocking metal slats or ringlets, fitted closely, covering the whole head. The metal is cut into geometric patterns with intricate designs etched into it.
+
+DM: So this is Prince Jeon and Lord Jamis leaving — do you have an office to retreat to?
+
+DM: They don't offer one directly — they say, "Please go to this lounge, or library," to have your conversation, while they head off to a meeting with the admiralty.
+
+PAUL: Okay, I'll see you later.
+
+DM: If you see a servant on the way—
+
+PAUL: I'm going to—
+
+DM: Actually, a servant approaches you.
+
+DM (as servant): Please, come this way.
+
+DM: He leads you to a small study.
+
+PAUL: [to the servant] We're going to need some wine.
+
+DM: So he brings you to a small study, and you say to the servant—
+
+PAUL: Bring us some wine.
+
+DM: Yeah.

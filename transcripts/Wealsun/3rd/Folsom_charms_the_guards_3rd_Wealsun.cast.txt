@@ -1,0 +1,10 @@
+# Cast for Folsom_charms_the_guards_3rd_Wealsun
+# Expected voices: 7 (DM, Folsom, Merrick, Jude, Paul, Tyrus, Gouge — Tyrus/Gouge are minor presences per the cleaned transcript's own speaker key)
+SPEAKER_00: Folsom (confirmed — corrects the previous guess: "I think I'm going to cast... Charmed person at the bigger of the brutes", an exact match to his cleaned line; his Charm Person/Suggestion/intimidation content runs throughout)
+SPEAKER_01M: Merrick — confirmed via the map-clarification questions ("on the lower level, not on the topmost... this is the inner sanctum")
+SPEAKER_01J: Jude — confirmed via "I go ahead and pull my toad... put him on the floor and send him forward", matching his familiar (per the player's clarification: the toad belongs to Jude, distinct from Paul's homunculus)
+SPEAKER_02: Paul (confirmed — "let me put my homoculi in there... seeming lizard, get in there")
+SPEAKER_03: DM (primary, dominant narrator)
+SPEAKER_04: DM (second split, alongside SPEAKER_03) — also absorbs a short Tyrus reply ("I'll actually drop the crossbow, grab my sword, and my shield ready", matching his cleaned line)
+SPEAKER_05: Gouge (lower confidence — scattered short background interjections; Gouge and Tyrus are both minor, mostly-silent presences in this scene per the cleaned transcript)
+SPEAKER_06: Tyrus (lower confidence — "The door's unlocked", "I'm not gonna move a muscle" closely echoes Folsom's cleaned line, so this may instead be a third Folsom split)

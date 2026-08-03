@@ -1,0 +1,660 @@
+1
+00:00:00,071 --> 00:00:02,672
+[SPEAKER_01]: Naked guy that's got a wand.
+
+2
+00:00:03,293 --> 00:00:07,335
+[SPEAKER_00]: Jamis' and Jude's discussion continued.
+
+3
+00:00:08,315 --> 00:00:09,436
+[SPEAKER_00]: Third of Wealsun.
+
+4
+00:00:10,217 --> 00:00:17,821
+[SPEAKER_01]: So yeah, I do have some ideas about at least where I could begin my research on the material.
+
+5
+00:00:18,601 --> 00:00:20,802
+[SPEAKER_01]: Can I be allowed to have it without facing the hanging?
+
+6
+00:00:21,643 --> 00:00:21,923
+[SPEAKER_00]: Yes.
+
+7
+00:00:22,503 --> 00:00:23,944
+[SPEAKER_00]: You're fully read in at this point.
+
+8
+00:00:24,004 --> 00:00:25,325
+[SPEAKER_00]: You know about it.
+
+9
+00:00:25,845 --> 00:00:27,566
+[SPEAKER_00]: I would like you to do research on how to
+
+10
+00:00:28,417 --> 00:00:28,957
+[SPEAKER_00]: Create it.
+
+11
+00:00:29,778 --> 00:00:40,185
+[SPEAKER_00]: I would like you to do research on what possibly negated it in the channel.
+
+12
+00:00:40,785 --> 00:00:41,386
+[SPEAKER_00]: Definitely.
+
+13
+00:00:45,188 --> 00:00:46,289
+[SPEAKER_00]: And bring Paul in on this.
+
+14
+00:00:46,949 --> 00:00:49,331
+[SPEAKER_00]: This is what Jeon wants, and to be honest with you,
+
+15
+00:00:54,384 --> 00:00:58,868
+[SPEAKER_00]: He wants someone in his family to be able to have knowledge of the arcane in this.
+
+16
+00:01:00,890 --> 00:01:06,996
+[SPEAKER_00]: The yellow substance that you've seen was not created by any of the Oeridian Princes.
+
+17
+00:01:08,898 --> 00:01:11,100
+[SPEAKER_00]: The Duke of Berghof supplied it to us.
+
+18
+00:01:11,581 --> 00:01:11,981
+[SPEAKER_00]: Oh, shit.
+
+19
+00:01:12,301 --> 00:01:14,043
+[SPEAKER_00]: Okay, so you need me to reverse engineer it.
+
+20
+00:01:14,624 --> 00:01:15,184
+[SPEAKER_00]: Basically.
+
+21
+00:01:15,524 --> 00:01:17,146
+[SPEAKER_00]: We have no idea how to produce this.
+
+22
+00:01:17,807 --> 00:01:18,968
+[SPEAKER_00]: The Duke of Berghof...
+
+23
+00:01:19,477 --> 00:01:24,339
+[SPEAKER_00]: Quit supplying us with this substance twenty years ago.
+
+24
+00:01:24,379 --> 00:01:25,019
+[SPEAKER_00]: Twenty years ago?
+
+25
+00:01:25,099 --> 00:01:25,939
+[SPEAKER_01]: Twenty-five years ago.
+
+26
+00:01:26,039 --> 00:01:30,441
+[SPEAKER_01]: And the largest or only stores around the home.
+
+27
+00:01:30,461 --> 00:01:31,201
+[SPEAKER_01]: Do we have some here?
+
+28
+00:01:32,422 --> 00:01:34,062
+[SPEAKER_00]: We have a few barrels in Monmurg.
+
+29
+00:01:34,683 --> 00:01:40,065
+[SPEAKER_00]: The storage container, the home was created for storage and that was historically where it was.
+
+30
+00:01:40,465 --> 00:01:43,786
+[SPEAKER_00]: We do keep some here, however it's been used quite a bit.
+
+31
+00:01:44,926 --> 00:01:48,808
+[SPEAKER_00]: There is another place where it was stored and
+
+32
+00:01:50,572 --> 00:01:59,216
+[SPEAKER_00]: A significant store is actually located in Salinmoor Bay, in between here and Saltmarsh.
+
+33
+00:01:59,716 --> 00:02:01,637
+[SPEAKER_00]: Is that still secure, to your knowledge?
+
+34
+00:02:05,179 --> 00:02:10,361
+[SPEAKER_00]: The Toli had possession of it.
+
+35
+00:02:10,381 --> 00:02:12,662
+[SPEAKER_01]: Like they had had possession of it, that's there.
+
+36
+00:02:12,702 --> 00:02:17,865
+[SPEAKER_01]: So if we needed to raid it, or did they just recently take possession of it?
+
+37
+00:02:18,958 --> 00:02:23,139
+[SPEAKER_00]: It's something that has rotated in possession over the years.
+
+38
+00:02:23,879 --> 00:02:28,900
+[SPEAKER_00]: The princes rotate their possession of all these stores.
+
+39
+00:02:30,241 --> 00:02:31,841
+[SPEAKER_01]: Do you want us to move to seize that?
+
+40
+00:02:32,601 --> 00:02:36,942
+[SPEAKER_01]: Because they're going to know... Jude, at some point we need to do that.
+
+41
+00:02:36,982 --> 00:02:41,583
+[SPEAKER_00]: But before we do that, we need to figure out why the Toli are able to destroy ships.
+
+42
+00:02:42,123 --> 00:02:44,404
+[SPEAKER_00]: And this is that other thing I wanted you to look into.
+
+43
+00:02:44,624 --> 00:02:48,385
+[SPEAKER_00]: That artifact that Gouge was able to
+
+44
+00:02:51,050 --> 00:02:54,871
+[SPEAKER_00]: Trick Lord Phranck into telling him about it.
+
+45
+00:02:54,951 --> 00:02:55,731
+[SPEAKER_00]: Did you hear of this?
+
+46
+00:02:57,432 --> 00:02:57,652
+[SPEAKER_00]: No.
+
+47
+00:02:59,813 --> 00:03:08,835
+[SPEAKER_00]: There was an agent from Keoland that came to see me last month, 15th of block time, around that time.
+
+48
+00:03:13,616 --> 00:03:18,378
+[SPEAKER_00]: He was talking to an alchemist
+
+49
+00:03:19,934 --> 00:03:21,074
+[SPEAKER_00]: In the foreign district.
+
+50
+00:03:21,214 --> 00:03:24,595
+[SPEAKER_00]: I think you visited him at one point.
+
+51
+00:03:27,736 --> 00:03:36,459
+[SPEAKER_00]: Lord Phranck wished to discuss things with me and actually he was attacked by Toli agents.
+
+52
+00:03:36,539 --> 00:03:38,499
+[SPEAKER_01]: I did, yes, I remember.
+
+53
+00:03:39,059 --> 00:03:44,161
+[SPEAKER_00]: Gouge was hired by one of Phranck's men to act as bodyguards.
+
+54
+00:03:44,321 --> 00:03:48,622
+[SPEAKER_00]: I warned them that the Toli agents were interested in what they were doing.
+
+55
+00:03:50,130 --> 00:03:51,371
+[SPEAKER_00]: And looking after them.
+
+56
+00:03:52,231 --> 00:03:56,134
+[SPEAKER_00]: What Phranck, it seems, is what is known as an inquisitor.
+
+57
+00:03:56,954 --> 00:03:57,955
+[SPEAKER_00]: Have you ever heard of the term?
+
+58
+00:03:59,536 --> 00:04:06,921
+[SPEAKER_00]: There's a secret society, it's actually a government agency in Keoland called the Office of Forbidden Magic.
+
+59
+00:04:09,022 --> 00:04:11,684
+[SPEAKER_00]: They're a known secret, but they are sort of a...
+
+60
+00:04:13,799 --> 00:04:22,682
+[SPEAKER_00]: Magic policing organization that makes sure that wizards do not practice forbidden magic, such as necromancy.
+
+61
+00:04:23,042 --> 00:04:25,123
+[SPEAKER_00]: Some forms of conjuration.
+
+62
+00:04:26,943 --> 00:04:27,424
+[SPEAKER_00]: Demonic.
+
+63
+00:04:27,824 --> 00:04:29,924
+[SPEAKER_00]: Demonic conjuration, exactly.
+
+64
+00:04:33,846 --> 00:04:37,027
+[SPEAKER_01]: Probably all the things that the Scarlet Brotherhood excels at.
+
+65
+00:04:38,507 --> 00:04:39,828
+[SPEAKER_00]: From what I understand, yes.
+
+66
+00:04:44,222 --> 00:04:45,923
+[SPEAKER_00]: Phranck is a part of that organization.
+
+67
+00:04:46,623 --> 00:04:47,803
+[SPEAKER_00]: My agents have told me this.
+
+68
+00:04:49,224 --> 00:04:53,345
+[SPEAKER_00]: And he was here trying to figure out what the Toli actually had taken.
+
+69
+00:04:56,446 --> 00:05:07,990
+[SPEAKER_00]: The agents that attacked him, unbeknownst to those agents, were up against Gouge and Karma, my agents as bodyguards.
+
+70
+00:05:08,690 --> 00:05:11,551
+[SPEAKER_00]: They were defeated when they tried to assassinate Lord Phranck.
+
+71
+00:05:13,662 --> 00:05:16,424
+[SPEAKER_00]: And Phranck was able to rip something from their minds.
+
+72
+00:05:18,785 --> 00:05:23,468
+[SPEAKER_00]: King Toli has taken possession of a very powerful ancient artifact.
+
+73
+00:05:23,968 --> 00:05:27,471
+[SPEAKER_00]: And I believe that artifact allows him to control turtle dragons.
+
+74
+00:05:29,792 --> 00:05:34,515
+[SPEAKER_00]: Our ships disappearing in the ocean are because of his control of that artifact.
+
+75
+00:05:35,396 --> 00:05:38,878
+[SPEAKER_00]: And that's why we've not been able to effectively fight the Kiowish fleet.
+
+76
+00:05:39,653 --> 00:05:48,536
+[SPEAKER_01]: Are we able to at least maneuver to Redshore and then also in the Jerley Bay area without being molested by those?
+
+77
+00:05:48,976 --> 00:05:52,498
+[SPEAKER_01]: In other words, is it just more out when shipping goes out to the open sea?
+
+78
+00:05:52,558 --> 00:05:57,739
+[SPEAKER_00]: The Dragon Isles are very close to both Redshore and Monmurg, so anything north of here...
+
+79
+00:05:58,920 --> 00:05:59,620
+[SPEAKER_00]: Runs the risk.
+
+80
+00:05:59,880 --> 00:06:03,381
+[SPEAKER_00]: Runs the risk of Kane Toli and these dragons.
+
+81
+00:06:03,862 --> 00:06:07,563
+[SPEAKER_00]: Jerley Bay seems to be unmolested, but that's because the Toli...
+
+82
+00:06:08,812 --> 00:06:11,994
+[SPEAKER_00]: They control Jerley Bay, and that's their main thoroughfare.
+
+83
+00:06:12,094 --> 00:06:19,239
+[SPEAKER_00]: So their access to the Amedeo jungle has not been affected in the least.
+
+84
+00:06:20,120 --> 00:06:25,864
+[SPEAKER_01]: Do you believe that are the Toli capable of doing a direct assault on Monmurg?
+
+85
+00:06:26,264 --> 00:06:26,984
+[SPEAKER_00]: Absolutely not.
+
+86
+00:06:27,725 --> 00:06:30,687
+[SPEAKER_00]: Our defenses are impenetrable to their armies.
+
+87
+00:06:30,767 --> 00:06:35,050
+[SPEAKER_00]: There's no way that even Keoland's armies, which are significantly
+
+88
+00:06:35,938 --> 00:06:38,619
+[SPEAKER_00]: Would be able to attack this place.
+
+89
+00:06:38,839 --> 00:06:42,060
+[SPEAKER_01]: With the assistance of the sahaugin if we don't have the material?
+
+90
+00:06:42,140 --> 00:06:44,660
+[SPEAKER_00]: There is no assistance from the sahaugin.
+
+91
+00:06:45,421 --> 00:06:48,922
+[SPEAKER_00]: I believe that the sahaugin just go and eat where they can.
+
+92
+00:06:49,942 --> 00:06:50,302
+[SPEAKER_00]: Fair enough.
+
+93
+00:06:50,562 --> 00:06:55,543
+[SPEAKER_00]: I mean, they're rabid beasts being sucked on.
+
+94
+00:06:55,603 --> 00:06:56,904
+[SPEAKER_00]: They just add to the chaos.
+
+95
+00:06:57,564 --> 00:07:00,325
+[SPEAKER_00]: Basically, the Toli are doing this to disrupt us.
+
+96
+00:07:01,645 --> 00:07:03,506
+[SPEAKER_00]: But you can bet they don't wish to see the sahaugin
+
+97
+00:07:06,667 --> 00:07:13,169
+[SPEAKER_00]: When, in this situation, then again they have the ability to produce the yellow substance themselves.
+
+98
+00:07:13,349 --> 00:07:22,112
+[SPEAKER_01]: So research the substance and find out if it was, you know, if it's diminished capacity, if it's been thwarted by, or you know, any other...
+
+99
+00:07:22,132 --> 00:07:25,232
+[SPEAKER_00]: Figure out what caused it not to work effectively.
+
+100
+00:07:25,553 --> 00:07:33,815
+[SPEAKER_01]: Try to discover if, with Lord Fairwind, say that again, what was it about him?
+
+101
+00:07:34,552 --> 00:07:37,294
+[SPEAKER_00]: Where he stored his perils, if possible.
+
+102
+00:07:37,774 --> 00:07:38,755
+[SPEAKER_01]: And help Paul in this.
+
+103
+00:07:39,435 --> 00:07:42,957
+[SPEAKER_00]: Because that's the assignment Jeon is going to give him mainly.
+
+104
+00:07:43,017 --> 00:07:51,042
+[SPEAKER_01]: And also try to instruct Paul on... Or at least assess his capabilities with rudimentary measure.
+
+105
+00:07:51,162 --> 00:07:53,363
+[SPEAKER_00]: To learning arcane matters, yes, exactly.
+
+106
+00:07:57,906 --> 00:08:01,228
+[SPEAKER_00]: Few people know who Paul's father was.
+
+107
+00:08:05,520 --> 00:08:08,302
+[SPEAKER_00]: I've been mildly curious, but if it's a state secret, I don't need it.
+
+108
+00:08:08,542 --> 00:08:09,603
+[SPEAKER_00]: His father was brilliant.
+
+109
+00:08:11,504 --> 00:08:25,813
+[SPEAKER_00]: And from what Jeon has told me, and from my interactions with the lad, he definitely possesses very capable intelligence.
+
+110
+00:08:26,114 --> 00:08:30,797
+[SPEAKER_00]: His father's mother is incredibly intelligent and is
+
+111
+00:08:38,241 --> 00:08:39,222
+[SPEAKER_01]: Magical herself.
+
+112
+00:08:40,243 --> 00:08:45,326
+[SPEAKER_01]: Did he suffer a hideous defacing injury, or is he just shy?
+
+113
+00:08:52,272 --> 00:08:53,172
+[SPEAKER_01]: If I don't need to know.
+
+114
+00:08:55,814 --> 00:08:58,256
+[SPEAKER_01]: I'm just curious if I'll always relate to him through a mask.
+
+115
+00:09:00,558 --> 00:09:01,058
+[SPEAKER_00]: You should.
+
+116
+00:09:01,939 --> 00:09:07,243
+[SPEAKER_00]: And to be honest, his disfigurement has nothing to do with disease.
+
+117
+00:09:08,778 --> 00:09:16,284
+[SPEAKER_00]: He was burned horribly and he was burned horribly as a young child as a result of one of his father's experiments.
+
+118
+00:09:16,824 --> 00:09:17,125
+[SPEAKER_00]: Magic?
+
+119
+00:09:18,105 --> 00:09:18,506
+[SPEAKER_00]: Magical.
+
+120
+00:09:19,066 --> 00:09:23,830
+[SPEAKER_01]: Definitely.
+
+121
+00:09:23,850 --> 00:09:25,011
+[SPEAKER_01]: Those things.
+
+122
+00:09:25,411 --> 00:09:26,132
+[SPEAKER_01]: That's what you have.
+
+123
+00:09:26,152 --> 00:09:27,033
+[SPEAKER_01]: So the artifact.
+
+124
+00:09:27,513 --> 00:09:29,515
+[SPEAKER_01]: Try to do some research still on the artifact.
+
+125
+00:09:30,540 --> 00:09:34,222
+[SPEAKER_01]: What the item is that they're using to control, or at least its nature.
+
+126
+00:09:34,962 --> 00:09:41,264
+[SPEAKER_01]: The yellow substance and where Lord Fairwind stashed his containers.
+
+127
+00:09:42,865 --> 00:09:44,966
+[SPEAKER_00]: Help Paul develop a network of spies.
+
+128
+00:09:48,767 --> 00:09:53,749
+[SPEAKER_00]: Help Paul with his magical studies and see what he's capable of and report back to me.
+
+129
+00:09:56,190 --> 00:09:59,932
+[SPEAKER_00]: Do not be blinded.
+
+130
+00:10:01,766 --> 00:10:04,607
+[SPEAKER_00]: By Prince John's loyalties in this.
+
+131
+00:10:05,347 --> 00:10:07,848
+[SPEAKER_01]: His loyalties aren't mine.
+
+132
+00:10:07,868 --> 00:10:09,749
+[SPEAKER_01]: If you're talking about his relationship with Fairwood...
+
+133
+00:10:09,769 --> 00:10:11,689
+[SPEAKER_01]: I'm talking about his relationship with everyone.
+
+134
+00:10:12,189 --> 00:10:12,330
+[SPEAKER_00]: Oh.
+
+135
+00:10:13,750 --> 00:10:20,812
+[SPEAKER_00]: These are dangerous times, and to be honest with you, I don't fully trust Prince John's judgment.
+
+136
+00:10:21,313 --> 00:10:22,133
+[SPEAKER_00]: Suspect everyone.
+
+137
+00:10:23,373 --> 00:10:23,873
+[SPEAKER_00]: Exactly.
+
+138
+00:10:24,794 --> 00:10:31,356
+[SPEAKER_00]: That ship would not have been taken by the sahaugin if I had had my way with it.
+
+139
+00:10:32,276 --> 00:10:35,539
+[SPEAKER_00]: There would have been a barrel of our own on board.
+
+140
+00:10:35,559 --> 00:10:49,071
+[SPEAKER_00]: I think Prince John's eyes are being opened slowly, but for us to survive, they need to open much quicker than they are.
+
+141
+00:10:49,771 --> 00:10:51,673
+[SPEAKER_00]: But do not let on to Paul about this.
+
+142
+00:10:52,954 --> 00:10:53,415
+[SPEAKER_00]: Of course.
+
+143
+00:10:57,879 --> 00:10:58,519
+[SPEAKER_01]: I have in mind
+
+144
+00:11:00,500 --> 00:11:05,777
+[SPEAKER_01]: Paul commanded the contingent of 20 marines, the only ones to survive from that ship.
+
+145
+00:11:08,312 --> 00:11:14,974
+[SPEAKER_01]: Would you be able to let me know their names and if they get repositioned back into Monmurg or reassigned back into Monmurg?
+
+146
+00:11:15,054 --> 00:11:28,457
+[SPEAKER_01]: If they stay on the helm, only in the sense of the network that you were talking about, they would be familiar with both myself and with Paul and I think maybe have some sense of owing their survival?
+
+147
+00:11:28,817 --> 00:11:34,179
+[SPEAKER_00]: I can give you the name of the commander and he can talk to the men if you wish to.
+
+148
+00:11:35,139 --> 00:11:40,880
+[SPEAKER_01]: Just to have, well, I would have Paul talk to the men, but yes, if you want him to develop a network.
+
+149
+00:11:41,300 --> 00:11:41,760
+[SPEAKER_00]: Absolutely.
+
+150
+00:11:42,441 --> 00:11:47,922
+[SPEAKER_01]: Helping people survive the sahaugin attack is three good grounds.
+
+151
+00:11:50,662 --> 00:11:53,203
+[SPEAKER_00]: And of course there's money for bribes and such.
+
+152
+00:11:53,683 --> 00:11:57,304
+[SPEAKER_00]: In fact, that's probably the only thing we have bundles up right now.
+
+153
+00:11:57,804 --> 00:12:03,905
+[SPEAKER_01]: Well, that's what I was going to say also, is that those men, if they have families especially, would probably appreciate being able to
+
+154
+00:12:07,836 --> 00:12:10,877
+[SPEAKER_00]: Unfortunately, food is something we don't have an abundance of right now.
+
+155
+00:12:11,918 --> 00:12:18,921
+[SPEAKER_00]: Anyway, I'm being informed that Gouge is going to come in and speak with me soon.
+
+156
+00:12:32,836 --> 00:12:35,758
+[SPEAKER_00]: I'm sure you have things for him and his crew to do.
+
+157
+00:12:36,338 --> 00:12:36,938
+[SPEAKER_00]: Absolutely.
+
+158
+00:12:38,499 --> 00:12:41,581
+[SPEAKER_00]: My tenant will take you back up the way you came.
+
+159
+00:12:42,441 --> 00:12:53,467
+[SPEAKER_00]: Please use my residence to travel and collect your stuff in the foreign district, if you like.
+
+160
+00:12:56,640 --> 00:12:57,823
+[SPEAKER_01]: Will there be keys to that?
+
+161
+00:12:57,983 --> 00:12:59,327
+[SPEAKER_01]: When will the tower be made available?
+
+162
+00:12:59,748 --> 00:13:00,169
+[SPEAKER_00]: Tomorrow.
+
+163
+00:13:00,790 --> 00:13:06,884
+[SPEAKER_00]: Come back to my residence tomorrow and I'll make sure you have it.
+
+164
+00:13:06,944 --> 00:13:07,726
+[SPEAKER_00]: Thank you for your wine.
+
+165
+00:13:12,999 --> 00:13:14,382
+[SPEAKER_01]: Okay, so you walk out.
+

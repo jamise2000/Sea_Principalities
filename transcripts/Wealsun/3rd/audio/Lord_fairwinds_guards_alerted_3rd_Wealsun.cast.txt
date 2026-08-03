@@ -1,0 +1,9 @@
+# Cast for Lord_fairwinds_guards_alerted_3rd_Wealsun
+# Expected voices: 7
+DM
+Paul
+Merrick
+Gouge
+Tyrus
+Folsom
+Jude

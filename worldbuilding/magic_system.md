@@ -1,0 +1,74 @@
+# The Magic System
+
+A reference document, not an in-world artifact — this is the continuity ledger for how the arcane actually works in *Journey of the Stone*, compiled from what has already been established on the page (manuscript, character files, `The_Homunculi.md`, `The_Sea_Principalities.md`). Its purpose is to keep future chapters consistent with what's already been shown, and to give a place to check a proposed plot beat against established rules before drafting it.
+
+## Tone: Magic as a Discipline, Not a Miracle
+
+This world pointedly does not treat magic as self-evidently supernatural. The in-world scholarship — Grayson Jamis's *Homunculi* treatise chief among it — approaches even its wildest claims with something close to skepticism: legendary homunculi are picked apart as probable frauds or misidentified Amedio clawed toads, and the one genuine tradition (Joi Dee's clay-and-crystal method) is presented as a reproducible technique with real materials and a real failure mode, not a mystery. The anti-sahaugin powder that has protected the Hold for a century and a half is the clearest expression of this: it is popularly believed to be an "ancient enchantment," and it is in fact copper and sulfur combined by a process no one currently living knows how to reproduce — an alchemical reaction, not a spell (Ch. 33, Ch. 58). Keep that split visible in the prose: characters in-world conflate the arcane and the merely-unexplained constantly; the narration should generally know better, and can let a knowledgeable character (Jude, an alchemist) correct the record when it matters to the scene.
+
+This is the throughline for the "hard science fiction mechanics" half of the project's brief: magic here has materials, procedure, failure conditions, and cost. It can be studied, botched, and reverse-engineered. It is closer to an esoteric craft than to grace.
+
+## Wizardry (Studied Arcane Arts)
+
+This is Jude's and, as of Part Nine, Paul's discipline — magic learned rather than innate, structured around a teacher-student relationship and a body of technique passed hand to hand.
+
+**Structure, as dramatized in Ch. 55 ("The First Cantrip"):** a new initiate is "owed" a set number of spells by their teacher — six, plus three cantrips, in Paul's case — drawn from what the teacher already knows and judges appropriate to the student's temperament and use. Spells are recorded on parchment (a working spellbook, however improvised) rather than memorized outright; a caster can be tapped out for the day ("you're tapped out on the arcane arts"), implying a working limit on how much can be cast before rest is needed. One spell category stands apart: the *reaction spell*, cast in response to an incoming attack rather than on the caster's own turn (Shield is the only one available to a caster at Paul's level, and it stops a magic missile outright).
+
+**Established spells and cantrips** (do not contradict these effects in later chapters):
+- **Mending** — repairs a broken or cut object (a window pane, a chair); used practically for covering tracks after a forced entry.
+- **Light** — illumination, but also a weapon and a tool: cast directly on the inside of a helm's visor, it blinds the wearer; cast into a dark room, it can reveal traps before anyone sets foot inside.
+- **Sleep** — incapacitates without killing; Jude teaches it to Paul specifically as an alternative to the killing reflex Paul defaults to.
+- **Protection from Good and Evil** — a ward against a category of outsider or influence, not yet dramatized in use.
+- **Detect Magic** — reveals active enchantment; useful chiefly against warded traps.
+- **Identify** — determines the nature/properties of an item; raised specifically apropos of the old black iron mask Paul once wore and discarded, an open thread (see below).
+- **Shield** — the reaction spell described above.
+- **Levitation** — Jude's signature battlefield and infiltration tool: he carries companions up sheer walls with it (the Helm assault, Ch. 28/31 in Revised numbering) and uses it to pull Paul clear of danger from above (the chasm fight). It is explicitly *not* flight — a controlled vertical lift, not lateral movement.
+- **Invisibility** — Jude's other signature tool, used for scouting, shaking a tail, and — combined with a companion's own stealth training — closing on a target unseen. Chapter 56 frames the wizard/rogue hybrid this produces ("a wizard-assassin, rare and fearsomely effective when the two crafts truly married") as a named archetype worth returning to.
+- **Magic Missile** — referenced only as the thing Shield stops; not yet cast on-page by a point-of-view character. Presumably a Toli or hostile-mage weapon given the context.
+- Jude also fights with blasts loosed directly from his wand at will (Ch. 26/Karmirg fight), suggesting a caster can also fall back on a lesser, un-leveled attack that costs little or nothing — worth treating as the wizardry equivalent of a cantrip-tier combat option rather than inventing a new mechanic for it.
+
+**Schools and specialization:** Jude reads Paul's stated instincts — disguise, misdirection, moving unseen — as mapping onto illusion, "the arts of being unseen," and builds his curriculum around that (Light-as-blinding-trick, Invisibility, Sleep-over-killing). Treat illusion/misdirection as Paul's home school going forward; a swerve into a different specialty (evocation, necromancy, etc.) should be a deliberate character beat, not a drift.
+
+**Toli-side capability:** the two Toli agents guarding Fairwind's inner sanctum carried "a powerful counterspell or resistance" alongside enchanted blades (Ch. 53) — establish that at least some Toli operatives field magic-resistant or magic-countering equipment, which should inform how future confrontations with Toli agents are written (a wizard's spells cannot be assumed to land cleanly against them).
+
+## Sorcery (Innate Arcane Power)
+
+Distinguished from wizardry by source rather than effect: the Plar of Hokar is described specifically as "a sorcerer of great power and repute" who works with "strange and ancient magic," has ruled for over 150 years, and presents as a man of thirty — power that is inherited or innate rather than studied, and bound up with unnaturally extended life. No sorcerer has appeared on-page as a POV or interacted character yet; the Plar remains offstage and rumor-shrouded. Any future sorcerer character should read as qualitatively different from Jude or Paul — power as inheritance or bargain, not curriculum.
+
+## Alchemy & Artifice
+
+The load-bearing tradition of this setting, and the one most thoroughly documented already.
+
+**The anti-sahaugin powder.** Copper and sulfur, combined by a process currently lost — the Fhoraxians, a people from the mountains along the Duke of Berghof's southwestern border, made it; a sample recovered from Helm Island is roughly twenty years old, the last the Hold was able to acquire (Ch. 58). Mechanism, as demonstrated by the alchemist: harmless to air-breathers in any plausible dose, lethal to gilled creatures at roughly one part in a thousand of even a token pinch, entering directly through the gills into the blood. It is *not ordinarily* explosive, but becomes so under pressure or after aging in seawater, the brine reaction giving off enough heat to ignite. This is chemistry with a magic-shaped hole where the "manner of combining" should be — the central unsolved mystery of Part Nine and presumably beyond, and the throughline connecting Grayson's old research, Zafar Azane, and the Duke of Berghof's territories. Keep the substance itself non-magical; any future breakthrough on reproducing it should read as alchemical/procedural (a lost formula, a technique), not as a spell that fixes the problem.
+
+**Homunculi (Joi Dee's method, per `The_Homunculi.md`).** The traditional alchemical/necromantic recipes (Paracelsus, the egg-and-hen method, the Count of Nimlee's jarred specimens) are presented as either genuine but grotesque, outright fraud, or misidentified mundane animals — deliberately debunked so that Joi Dee's method reads as the one real, clean exception. Construction: a clay form, shaped (traditionally lizard-like, for its durability and knack for blending in — Paul's own homunculus follows this template), soaked in warm water with a single drop of the maker's blood to make the clay receptive. Two paired gemstones do the actual animating work: the **heartstone**, embedded in the clay form where a heart would sit, and the **mindstone**, kept by the master. The binding ritual is simple once the stones exist — the master focuses intent through the mindstone and speaks the words *lapis philosophorum*, and the homunculus wakes. Once animated, it needs no food, water, or specific environment, is repaired with an ordinary mending cantrip rather than replaced, and functions as a limited extension of its master's senses and will (sight, hearing, smell, rudimentary tasks) rather than an independent mind. Both Jude and Paul have built one unaided — a rare feat the text treats as a meaningful marker of raw talent in each of them.
+
+**Lithomancy and soul gems.** The heartstone/mindstone pair is one application of a broader craft, practiced by Zafar Azane, who also uses it to animate blades. Zafar traces the technique to a rediscovered variant of the Suel Empire's "Soul Gem," lost since before the Twin Cataclysms and recovered from the archives of the Arcane Order. Treat lithomancy as a distinct, rarer specialty from ordinary wizardry — gem-craft and binding rather than spellcasting — and treat Zafar Azane as presently the setting's clearest authority on it.
+
+## Bardic Magic
+
+Folsom's magic is performance-bound: he charms a hobgoblin guard at the inner sanctum and later holds Fairwind under a charm spell during the escort out of the Helm. Both instances tie the effect to his role as entertainer/persuader rather than to a spellbook or ritual — treat bardic magic as expression of the same charisma that makes him a favorite in the ranks, channeled rather than separately learned. His signature failure mode (the barroom performance of "The Brewing Storm" that nearly starts a riot, Ch. 51) is a mundane one, not magical — worth remembering that his gift and his greatest liability run on the same wire.
+
+## Divine Power and the Paladin's Oath
+
+Tyrus is a paladin whose oath is sworn not to a deity but to Monmurg itself — the city, its common people, and the outer isles he grew up sailing between. His own accounting of it (Ch. — "Watch the Waves" and after) is explicit: his loyalty runs *through* Jamis and the chain of command, but his true, binding loyalty is to Monmurg, and nothing in that chain outranks it. This is a deliberate departure from a deity-granted paladin and should be treated as the setting's established model for his power: an oath to a place and its people functions here the way a sacred vow to a god would elsewhere. No other paladin or divine caster has appeared on-page; if one does, decide deliberately whether they share Tyrus's place-bound model or represent a genuine cleric/deity tradition — don't default to the generic assumption without checking this file first.
+
+## Institutions and the Politics of Magic
+
+**The Arcane Order (Port Toli).** A secretive society, rumored rather than confirmed, said to hold the surviving magical knowledge of the Suel Empire and to teach it only to Suel aristocracy who show talent and loyalty. Reputed to guard a library of original Suel-era tomes that would outweigh every other library in the Flanaess combined. Zafar Azane draws on its archives for his Soul Gem research — the clearest on-page evidence that the Order is real and not merely legend.
+
+**The Office of Forbidden Magic (Gradsul, Keoland).** Founded by Luschan III the year after Theophrastus Paracelsus was burned for necromancy — Paracelsus having (correctly, per Zafar) deciphered Selrotin's original Magnum Opus and used it to treat Keoland nobles, unaware or unconcerned that its "bread and wine" were euphemisms for flesh and blood. The Office's founding mandate was to edit dangerous magical knowledge out of circulation and enforce "purity" in the magical arts; Lord Zafar Azane, Lady Jamis's brother, now runs it. This is the institutional shadow hanging over Lord Jamis's household (see `characters/Jamis.md`) and the likely source of any future Keoland-side magical antagonism — Keoland suppresses and polices magic through this office where the Hold, by contrast, treats it as an open trade good (Ch. 57 notes wizards still travel to Monmurg's Great Market even in a hard year).
+
+**Cultural default.** The Hold of the Sea Princes is broadly permissive toward magic — it is bought, sold, and practiced openly in Monmurg's markets — in contrast to Keoland's institutional suspicion of it. This asymmetry is worth keeping active in any scene that crosses between the two nations' territory.
+
+## Open Threads (established but unresolved — do not silently close these)
+
+- **The Toli artifact.** Cain Toli reportedly commands turtle dragons through some kind of artifact; its nature is undescribed. Any resolution should stay consistent with the setting's preference for mechanism-with-a-mystery over pure hand-wave (cf. the powder).
+- **The old black iron mask.** Paul once wore and discarded a mask that prompted Jude to suggest Identify be among his first spells. Unexplained; a loaded Chekhov's gun.
+- **The "rogue mages."** Jude mentions having stood against "rogue mages" before, and having been "nowhere near as useful as I'd have liked" against their spells directly — backstory not yet dramatized.
+- **Grayson's formulae.** Grayson Jamis pursued the powder's true composition before his death and may have left notes; the alchemist in Ch. 58 references this directly as a lead.
+- **The origin of Jude's homunculus technique.** He works from an old tome "found among a stranger's effects," deliberately not naming the source or showing the book to Paul — a held-back detail, not an oversight.
+
+## Craft Note
+
+Per the project's standing rule (CLAUDE.md, *Combat and D&D game mechanics*): render spellcasting through its narrative effect, not its mechanical scaffolding. "Spells owed to a new initiate" and "tapped out on the arcane arts" (both already in the text) are the right register — in-world, lived-in phrasing for resource limits — rather than exposing spell levels, slot counts, or save DCs directly. When a scene needs the reader to feel a caster running low, show it through fatigue, hesitation, or a spell that fizzles weaker than intended, not through a stated number.

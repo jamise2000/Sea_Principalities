@@ -1,0 +1,12 @@
+# Cast for Paul_describes_the_Homunculus_2nd_Wealsun
+# Expected voices: 7 (DM, Paul, Jude, Gouge, Folsom, Merrick, Tyrus). The cleaned transcript's own header warns several lines are reconstructed from garbled audio; multiple tags here are shared between two characters. This corrects the previous guess, which had Tyrus and Jude's content swapped between SPEAKER_00/06 and mislabeled SPEAKER_02 as Merrick-only.
+SPEAKER_00: Gouge (primary — "Merrick, this is Folsom", introducing the group; "I will write songs about the sperm lizard", matching cleaned's "GOUGE: We're going to write songs about it.")
+SPEAKER_01: DM (solid, dominant narrator)
+SPEAKER_02A: Merrick — confirmed via "What do these guys look like? I know Gouge, I know Paul", matching his cleaned line; also the costume/tactical planning talk later in the scene ("we don't want to get pinched by patrols", "30 minutes", "they're going to make some braziers")
+SPEAKER_02B: Jude — confirmed via "if we have to sneak there, let's just bunker down in the rocks" and "I am not, by the way, dressed as a wizard... adventuring clothes, dark colors", both exact matches to his cleaned lines; also his musings about the homunculus being hard to remake
+# Note: within SPEAKER_02A's block, "No, I am. I'm a Marine, man. I was there." (line 89-91) is very likely Folsom's rebuttal per the cleaned transcript ("FOLSOM: I am a Marine, for the record — I was there."), not Merrick — left attached to 02A since the raw diarization gives no break point, but flagging the likely misattribution.
+SPEAKER_03: Gouge (second split — "Here's the plan. We're sending some men out as a distraction", an exact match to his cleaned line)
+SPEAKER_04A: Folsom — confirmed via "I've been serving under Lord Jamis for a long time, and my father was heavily in the Navy", an exact match to his cleaned backstory line
+SPEAKER_04B: Merrick — confirmed via "I know these coastlines very well... some good spots to hide along the coast" and "I can catch a fog cloud", matching his established coastline-familiarity and Fog Cloud signature from other sessions
+SPEAKER_05: Paul (confirmed — introduces the homunculus in detail, discusses how it's made; matches his cleaned lines throughout)
+SPEAKER_06: Tyrus (confirmed — "Does that thing get hurt? It looks like it's clay... Can you throw it and stick it to a wall or something?", an exact match to his cleaned lines)

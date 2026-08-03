@@ -1,0 +1,10 @@
+# Cast for Party_escapes_Helm_island_3rd_Wealsun
+# Expected voices: 7. Several corrections from the previous guess below (Gouge/Jude/DM/Folsom were significantly mislabeled). Paul and Merrick have little clearly-attributable dialogue in this file — mostly logistics/travel narration dominated by Gouge, Jude, and the DM.
+SPEAKER_00: DM (second split, alongside SPEAKER_04 — e.g. "Yeah, this is a rotation, so each lord takes a rotation", matching his cleaned line about Fairwind Island)
+SPEAKER_01: Tyrus, primary (e.g. "I'm gonna get on the raft, but I'll continue to rest in this area", matching his cleaned self-description) — some adjacent questions addressed TO him are merged into this same tag
+SPEAKER_02: Gouge (confirmed — "I've got lockpicks", matching his cleaned line exactly) — NOT Jude, correcting the previous guess
+SPEAKER_03G: Gouge — the overwhelming majority of this tag once re-examined; confirmed via "could this shark hold the party?" and "I know these waves like the back of my hand... time our departure", matching his cleaned lines, and organizing the raft/escape throughout. Several lines that reference "the elf" or "Jude" in the third person (e.g. "I do want the elf to be in his best form") confirm the speaker is NOT Jude at those points.
+SPEAKER_03J: Jude — one clearly-attributable line, "I'm thinking the raft is kind of just [a] floating piece of wood", an exact match to his cleaned line ("JUDE: I'm picturing this raft as basically a floating pile of wood.")
+SPEAKER_04: DM, primary (dominant narrator throughout) — NOT Gouge, correcting the previous guess
+SPEAKER_05: Folsom (confirmed — "I signal... on our way, watch the waves, and then spell out [Gouge's] name", matching his cleaned signaling line) — NOT Paul, correcting the previous guess
+SPEAKER_06: Jude, primary (confirmed — extensive exploration report matching his cleaned dialogue almost verbatim: reappearing from invisibility, the empty barrel racks, footprints on the beach) — NOT Merrick, correcting the previous guess; a few of Gouge's short questions ("where did you go?") are merged into this same tag

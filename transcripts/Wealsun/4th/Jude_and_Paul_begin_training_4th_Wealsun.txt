@@ -1,0 +1,302 @@
+[SPEAKER_00]: 4th of Wealsun, early afternoon, in the Palace — Lord Jamis's residence. Jude and Paul Rivera discuss their next steps.
+[SPEAKER_01]: So, what do you want to do — where do you see yourself? You've met Gouge — if you continue solely down that path, skill-wise, that's the direction you'd head. Don't get me wrong, I like Gouge, I've traveled and worked with him a long time, and I'll keep working with him. But, I mean, he's just a killer.
+[SPEAKER_02]: Is that what you see for yourself, or what you want for yourself?
+[SPEAKER_01]: Not exactly — I think I'd also like to learn to be a bit of a mage.
+[SPEAKER_02]: What is it about being a mage that interests you, as far as you understand it — is it just reading scrolls, or—?
+[SPEAKER_01]: I'm curious — every new initiate to the arcane usually comes in with a bunch of baggage, to be honest.
+[SPEAKER_02]: So what do you want — to compete with others who have magical influence? Power?
+[SPEAKER_01]: Yeah, I like that — magical influence.
+[SPEAKER_02]: So you want power. What do you want power for?
+[SPEAKER_01]: Well, the last time I went up against those rogue mage-wizard types, I wasn't exactly as useful as I'd have liked — there was nothing I could do to counter their spells.
+[SPEAKER_02]: I can work with that — so you felt ineffective.
+[SPEAKER_01]: Yeah — there's a limit to how far cutting throats gets you. Don't get me wrong, Gouge is great in a pinch, but against someone who knows how to wield arcane energy, it's a different game.
+[SPEAKER_02]: Do you have any natural inclination toward it — any talent?
+[SPEAKER_01]: Yeah, I think I do — I'm not totally sure, but I made that little lizard thing.
+[SPEAKER_02]: Right, the — what do you call it — the homunculus?
+[SPEAKER_01]: Homunculus, yeah.
+[SPEAKER_02]: You said you created it yourself?
+[SPEAKER_01]: Right.
+[SPEAKER_02]: That's actually very interesting — I've never created a homunculus myself. [to the DM] Do I know anything about the process of making one, beyond just its popularity?
+[SPEAKER_00]: Oh my god, you remember — you're not exactly an expert, but you know this was a popular magical pursuit for hundreds of years; people made decent money creating these little creatures for the entertainment of kings.
+[SPEAKER_02]: As an arcane specialist — as a mage, an archivist — do I know what actually goes into making one? Aside from the popularity?
+[SPEAKER_00]: Truthfully, a lot of what's popularly known is mostly a scam.
+[SPEAKER_02]: Like a bullshit illusion?
+[SPEAKER_00]: Worse, even — most of it isn't even what a skilled illusionist would produce; the real craft has just been wildly oversold. Good illusionists do much better work than the popular homunculus party tricks.
+[SPEAKER_02]: So this is real — what Jude did is something genuine. Most people doing "homunculus" work were really just selling pickled frogs in jars with painted-on smiling faces.
+[SPEAKER_01]: This isn't bullshit.
+[SPEAKER_02]: So tell me how you did it — don't hold back, because if it sounds like bullshit, I'll know.
+[SPEAKER_01]: I have the actual papers on how.
+[SPEAKER_02]: You have the books?
+[SPEAKER_01]: If you don't believe me, I can show you. [to DM] I give him the papers — I think I have them?
+[SPEAKER_00]: Do you want to produce the tome written by Grayson, or do you just want to tell him?
+[SPEAKER_01]: I'll just tell him how I did it — basically, I pricked my finger for blood, mixed it with clay—
+[SPEAKER_02]: Where'd you get the formula?
+[SPEAKER_01]: I don't even remember exactly where I got it.
+[SPEAKER_00]: [aside] Remember, you found the manual on how to make a homunculus — the one Grayson had been working on — along with a couple of sample homunculi, and you built your own using that tome as your guide. You still have that book.
+[SPEAKER_01]: Yeah, okay — do I want to show him that book, or keep it to myself?
+[SPEAKER_00]: Up to you — do you want to reveal all your secrets?
+[SPEAKER_01]: Not really — I'll just say I had a tome that told me how. [He doesn't yet know about Grayson, or my mother.]
+[SPEAKER_02]: So the question is — can you really shape it the way you want?
+[SPEAKER_01]: Yeah.
+[SPEAKER_02]: Safely?
+[SPEAKER_01]: Yeah, you're good.
+[SPEAKER_02]: I heard — did I hear anything else I should ask about? I have a tome — can you tell me more about how you used it? Who gave it to you? How do you even know how to read it — is it written in a magical script?
+[SPEAKER_01]: It's a magical tome, yeah.
+[SPEAKER_02]: Did you already know how to read it, or did someone teach you?
+[SPEAKER_01]: [aside, considering whether to teach Paul this] I know how to read it — we've got a library here that covers a lot of that.
+[SPEAKER_02]: This kind of material isn't just sitting in a public library, though — I get that your connection to Lord Jamis gives you access to special material, but reading arcane scripts goes beyond what's in any ordinary library.
+[SPEAKER_01]: Well, when you spend twenty years locked up in a palace, not really able to do much, your mind wanders.
+[SPEAKER_02]: You were locked up?
+[SPEAKER_01]: No — figure of speech.
+[SPEAKER_02]: Why would you be locked up? I didn't say "locked up."
+[SPEAKER_01]: No, that's fine — even if it's just a figure of speech, why would you be confined to palace grounds at all?
+[SPEAKER_02]: I'm a little surprised — I get that you have connections, I'm just not sure why you'd be confined, given that I'm royalty.
+[SPEAKER_01]: How? I thought you were connected to Lord Jamis, which is fine, but he's not royalty — he's just an advisor.
+[SPEAKER_02]: I'm the nephew of Jeon.
+[SPEAKER_01]: And that's already been made clear to me, yes.
+[SPEAKER_02]: I figured. Okay, but why would they keep you confined? You've got the face mask thing — I've never seen you without it. Are you hideous? Deformed? Cleft palate? Were you burned?
+[SPEAKER_01]: No.
+[SPEAKER_02]: So why would they keep you confined? Why do you care to know?
+[SPEAKER_01]: Because I'm about to be your instructor in the magical arts, and if you're mentally twisted up in some way—
+[SPEAKER_02]: I'm not the one who blew a man's mouth off.
+[SPEAKER_01]: You just said you spent—
+[SPEAKER_02]: That was necessary.
+[SPEAKER_01]: Necessary, sure — look, I'm not going to pretend killing a Toli agent bothers me. What I'm saying is, you said you were "locked up," even if you weren't, technically — let's say you were restricted to palace grounds for twenty years. That sounds pretty extreme to me.
+[SPEAKER_02]: What I'm saying is, I've lived my entire life that way.
+[SPEAKER_01]: So you don't know shit about the world outside of books.
+[SPEAKER_02]: I've read a lot of books, yeah.
+[SPEAKER_00]: [running through a list of things he might have studied] The classics — basic education, history, philosophy, that kind of thing.
+[SPEAKER_01]: [listing off several well-known works]
+[SPEAKER_00]: You list off several titles, and it turns out he's read most of them — you realize he's actually quite well-read. This is also how Jude is gauging Paul's intelligence — roll a check.
+[SPEAKER_02]: Is it a secret check?
+[SPEAKER_00]: Yes, secret roll. [rolling] Sixteen.
+[SPEAKER_00]: You realize his mother had focused his studies more rigorously than most royal tutors.
+[SPEAKER_01]: [impressed] Huh — so she had a real curriculum for him.
+[SPEAKER_02]: My mother may have studied similar material — talked to her about it.
+[SPEAKER_00]: Clearly, his mother was directly involved in shaping a genuinely intelligent education — probably better than most formal instructors. You're actually pretty impressed. She died when he was young, but by age ten, she'd given him a real appetite for knowledge and a level of education that few entering the academies of Keoland, or even the Arcane Order, could match.
+[SPEAKER_01]: So you've got a solid foundation.
+[SPEAKER_01]: I want to figure out what makes you tick — can you tell me your "hang-ups"?
+[SPEAKER_02]: My hang-ups?
+[SPEAKER_01]: Yeah, like — you want to go blow away all the bullies who messed with you when you were younger, that kind of thing — do you have something like that?
+[SPEAKER_02]: [thinking] I don't really care about that.
+[SPEAKER_01]: If you have any other hang-up — something you're stuck on, from before you started learning magic.
+[SPEAKER_02]: I want to prove myself — earn my place. I want to be valuable.
+[SPEAKER_01]: I can understand wanting to be valuable. [aside, recapping] So I asked him if he had any hang-ups, and he asked what I meant — like, do you want to go kill everyone who ever bullied you. He said he doesn't care about that — he wants to be "valuable," to "prove himself."
+[SPEAKER_01]: Give me one example, and I'll show you how that desire to be valuable can get you into deep shit.
+[SPEAKER_02]: My family has had a hard time seeing me as anything but — well, you know, it's a palace, that sort of thing.
+[SPEAKER_01]: I understand wanting to prove yourself, to be valuable. Now, imagine I'm teaching you the arcane arts — how could that desire work against you? What's the failure that haunts you, given that drive?
+[SPEAKER_02]: I fail.
+[SPEAKER_01]: Take it further — you don't want to fail. How does that hurt you specifically in the study of magic?
+[SPEAKER_02]: It could kill me.
+[SPEAKER_01]: And beyond just killing you — worse. If, in your desire to prove yourself, you take on things you can't yet control, thinking you can, you can unleash an entire world of trouble. Case in point — you summon something you can't actually control, thinking you can.
+[SPEAKER_02]: Yeah, I get it.
+[SPEAKER_01]: As long as you keep that in mind — look, I want to be valuable too, I want power, but if you're dead, your desires don't mean shit, because you're dead. So you have to be careful about overreaching. I've had to check myself plenty of times, sometimes after overextending. When I start teaching you, there'll come a point where I can't teach you anymore, and you'll have to teach yourself — and you've got that inclination already, since your mother got you started. As you study the arcane on your own, eventually you won't be consulting me at every step. If you don't keep "don't overreach" in mind, you will overreach — and it could have consequences far worse than just your own death. Understand?
+[SPEAKER_02]: Yeah.
+[SPEAKER_01]: We'll see. [to DM] Okay, I'll teach him — if he wants to become a first-level spellcaster.
+[SPEAKER_01]: Given your skills, how would you describe your current occupation — is this a job you take seriously?
+[SPEAKER_02]: You'd better hope so.
+[SPEAKER_01]: Because you reflect on me — if you go out there looking like an incompetent idiot, every assassin out there is going to think I'm an incompetent idiot too, since you're my acolyte, my initiate. So — what do you want to know?
+[SPEAKER_02]: How do you see yourself — what's your specialty? Gouge is great at direct confrontation — I don't even know if he's a good poisoner, maybe, but mostly intimidation and cutting throats. I don't think he has much subtlety beyond that.
+[SPEAKER_01]: He's a great dirty fighter — but what do you see as your own strengths?
+[SPEAKER_02]: Disguise, when we've used it.
+[SPEAKER_01]: So you see yourself as indirect — subterfuge.
+[SPEAKER_02]: Subterfuge, disguise, misdirection.
+[SPEAKER_01]: In the arcane arts, that maps to illusion — being unseen.
+[SPEAKER_02]: Yeah, yeah.
+[SPEAKER_00]: So, pick his initial spells from your spell list — you get to choose six spells he learns, from the first-level options, plus cantrips.
+[SPEAKER_01]: [to Paul] You get to pick two cantrips yourself.
+[SPEAKER_00]: At first level, you get three cantrips total.
+[SPEAKER_01]: I'll give you Mending and Light. From what you've told me about yourself, you need spells that supplement your ability to kill people, since you can already do that physically.
+[SPEAKER_02]: Mending — can you give an example of how that helps me?
+[SPEAKER_01]: Fixing equipment or machinery.
+[SPEAKER_02]: That's weak.
+[SPEAKER_01]: How about — you break a window to get into a place, then mend it on your way out, to cover your tracks?
+[SPEAKER_02]: I guess, right — that works.
+[SPEAKER_01]: And Light — you'll need to use it, but it's more than just illumination. Have you ever put Light on someone's full-plate helmet? It blinds them.
+[SPEAKER_00]: Roll a check — eighteen.
+[SPEAKER_00]: You realize another use for Mending — resealing broken wax seals on letters, so you can read a private note and reseal it without anyone knowing you've read it.
+[SPEAKER_01]: There's plenty of uses. If I give you two cantrips, plus whatever you pick yourself, I can get you access to the arcane section of the library too.
+[SPEAKER_00]: These are cantrips — you can cast them as many times as you want, no real energy cost, unlike higher-level spells, which do have limits.
+[SPEAKER_01]: These aren't even what I'd call entry-level spells, really — like lighting a fire at your fingertip versus lighting an actual campfire.
+[SPEAKER_01]: [checking] Does he have darkvision, being some kind of demihuman? I've never seen his face.
+[SPEAKER_00]: He's human.
+[SPEAKER_01]: No natural darkvision, then — okay, so Light is genuinely valuable, even just for checking an empty room for hidden traps or alcoves.
+[SPEAKER_02]: Yeah.
+[SPEAKER_01]: Okay, those are your two cantrips. I'll also teach you — was it six? — first-level spells.
+[SPEAKER_00]: Normally, when an initiate becomes a wizard, the teaching wizard grants them six first-level spells, which they then transcribe into their own spellbook. You'll get a spellbook, and I'll let you practice transcribing — you'll fail at first, since writing arcane scripts is its own skill. I'll point out where you've made mistakes, and you'll redo it. Make sense?
+[SPEAKER_02]: Yeah.
+[SPEAKER_01]: How do you imagine using Sleep in your current line of work?
+[SPEAKER_02]: Instead of killing a guard I want to sneak past, I could cast Sleep and drag him into a corner.
+[SPEAKER_01]: And how about something like Protection from Good and Evil?
+[SPEAKER_02]: What does that actually do?
+[SPEAKER_01]: Fair question — moving on. Do you ever run into magical traps?
+[SPEAKER_02]: Yes, actually — I have.
+[SPEAKER_01]: Detect Magic would help even before you get to disarming traps — it helps you distinguish a magical ward from a mundane one. You know what "mundane" means, right — the physical, material world?
+[SPEAKER_02]: Yeah.
+[SPEAKER_01]: So: Detect Magic, Sleep, Protection from Good and Evil — that covers a lot. You don't really need a familiar — you've got that homunculus thing. What do you actually use it for?
+[SPEAKER_02]: I've never had one before — I see through its eyes, and I can shape it. Right now it's a lizard, but I could turn it into a gopher if I wanted.
+[SPEAKER_01]: And it would act like a real gopher?
+[SPEAKER_02]: I mean, I control it, but it would have claws, be able to dig — or I could make it a bird and have it fly, supposedly, though I haven't actually managed that part yet.
+[SPEAKER_01]: So there are limits on what you can turn it into.
+[SPEAKER_02]: Right now it's made of clay.
+[SPEAKER_01]: And what happens to clay when it gets wet?
+[SPEAKER_02]: It dissolves.
+[SPEAKER_01]: So you can't just jump into the ocean as a fish version of it?
+[SPEAKER_02]: Haven't tested that, but it should be water-resistant — I used special clay.
+[SPEAKER_01]: But you just said clay dissolves in water.
+[SPEAKER_02]: That's how normal clay behaves — mine's treated.
+[SPEAKER_01]: And if it dies?
+[SPEAKER_02]: It just dies — I'd have to make a new one.
+[SPEAKER_01]: Doesn't come back on its own?
+[SPEAKER_02]: No.
+[SPEAKER_01]: So the chief benefit is being able to send it out scouting?
+[SPEAKER_02]: That's probably the best use, yeah. You've seen me use it.
+[SPEAKER_01]: I've seen your toad — kind of lame, honestly, pretty limited.
+[SPEAKER_02]: It drew out the guards that we then took down — climbing on the ceiling above them.
+[SPEAKER_01]: A toad's a natural creature, sure, but it's going to freak people out crawling on a castle ceiling.
+[SPEAKER_02]: There's no toads in a castle, you're right, but a little clay gingerbread thing is going to attract the wrong kind of attention too.
+[SPEAKER_01]: And you think your toad attracts the right kind?
+[SPEAKER_02]: We're on an island, in the middle of the ocean — there's water everywhere, toads make sense in a castle near water.
+[SPEAKER_01]: How many toads do you actually see hopping through hallways?
+[SPEAKER_02]: People still need fresh water — toads turn up.
+[SPEAKER_01]: Toads don't just hop through hallways.
+[SPEAKER_02]: Sure they do.
+[SPEAKER_01]: No, they don't — that's totally made up.
+[SPEAKER_02]: I'm trying to make this work.
+[SPEAKER_01]: All right, hush — that's another thing, you have to do what I say.
+[SPEAKER_02]: Oh god, here we go.
+[SPEAKER_01]: So — Protection from Good and Evil, Sleep, Detect Magic. [aside] Have you ever picked up a weapon or piece of jewelry that you probably shouldn't have worn, that had some kind of magical backlash?
+[SPEAKER_02]: I don't think so — that would be Identify, right?
+[SPEAKER_01]: What about your face mask?
+[SPEAKER_02]: What about it?
+[SPEAKER_01]: Is that the one you got at the market?
+[SPEAKER_02]: The one I didn't like — responded badly to.
+[SPEAKER_01]: But you were able to take it off, right? I wouldn't necessarily suspect anything was wrong with it — it's not the one I'm wearing right now. Right now I've got my silver one, my "palace mask" — formal versus informal.
+[SPEAKER_02]: So the black metal one was the other?
+[SPEAKER_01]: That's the one you reacted to.
+[SPEAKER_02]: Was that connected to the Brotherhood — the Scarlet Brotherhood?
+[SPEAKER_00]: If you'd already cast Detect Magic on it and found nothing, the implication was just that someone sold it to him, or he bought it for some other reason — maybe just being part of something, even if he didn't fully realize what.
+[SPEAKER_01]: [joking] It's like wearing a swastika and not realizing it.
+[SPEAKER_02]: What's wrong with you — are you accusing me of being a Nazi or not?
+[SPEAKER_01]: It's like it's branded right on your forehead.
+[SPEAKER_02]: Did I do it accidentally?
+[SPEAKER_01]: Like some kid wearing an ancient sun-wheel symbol without knowing its history — "come on, man, it's an ancient peace symbol" — except the meaning's totally different now.
+[SPEAKER_02]: That was a thousand years ago, things were different.
+[SPEAKER_01]: Quite a bit different, yeah. So — I'll give you Identify, and stop there for spells. You've got Sleep, Identify, Detect Magic, Protection from Good and Evil, and I'll throw in Shield as well — Shield's a good one. It's a reaction spell, the only one I can give you at this level that lets you stop incoming projectiles — creates a barrier almost nothing can get through, with a few exceptions. Mechanically, it gives you a plus-five to AC for the round you cast it, and it completely stops magic missiles cast at you.
+[SPEAKER_02]: Plus-five AC is pretty solid, and it's generally usable.
+[SPEAKER_01]: Right, but only for that one round. Now, on casting spells in general — I'm giving you spells you'll have to transcribe into your own spellbook, and you're going to mess it up at first. We'll practice on regular parchment rather than risk a proper spellbook right away. At your current level, you can only actually cast two spells before resting.
+[SPEAKER_02]: Wait, is it two, or four?
+[SPEAKER_01]: Two. But the number you can memorize is different from the number you can cast.
+[SPEAKER_00]: His memorization limit, at first level as a wizard, is one plus his intelligence modifier — so that'd be five.
+[SPEAKER_01]: So you're becoming a wizard if I teach you — wizard and mage are the same thing. Sorcerers are different, warlocks are even worse.
+[SPEAKER_02]: Why would anyone want to be a warlock?
+[SPEAKER_01]: They sell part of their soul to some otherworldly patron — sorcerers are slightly less garbage, with their whole "natural magic" thing, like randomly growing a third eye.
+[SPEAKER_02]: I'd rather draw on the cosmic energy of all living things myself.
+[SPEAKER_00]: So, five known spells — five opportunities, but understand: you can use a spell you've memorized more than once, but no more than five total castings before you need a full rest. Repeat that back to me.
+[SPEAKER_02]: I need a full rest to regain my spell slots — and I have two spell slots, but I can memorize five spells.
+[SPEAKER_00]: Right — five spells known, but only two castings available before resting.
+[SPEAKER_01]: So you'll have more knowledge than raw casting power for now — that'll grow as you level up, eventually quite a lot.
+[SPEAKER_00]: [to Jude, breaking briefly] If he wants to progress both as a rogue-assassin and a wizard, does he have to alternate level-for-level under the old rules, or can he choose freely?
+[SPEAKER_00]: He can do whichever he wants as he advances — but once he hits fourth level and wants to reach fifth, he needs twenty days of training and money spent. That's where he is right now as a fourth-level rogue.
+[SPEAKER_01]: [to Paul] Are you a rogue-assassin specifically? You'd have picked that up already.
+[SPEAKER_00]: He is.
+[SPEAKER_00]: So if he wants to reach fifth-level assassin, that's twenty days of training. Meanwhile, he can become a first-level wizard today, since that's a fresh class track.
+[SPEAKER_01]: So this is a choice — do you want to go this route?
+[SPEAKER_02]: Yeah.
+[SPEAKER_01]: All right — so, what's the first thing I'm going to teach you — a cantrip first?
+[SPEAKER_00]: I'm an archivist at heart — yes, I'll start with a cantrip, but I'm going to make him write it down.
+[SPEAKER_01]: Which cantrip?
+[SPEAKER_00]: Mending — I think that one will matter most to him.
+[SPEAKER_00]: All right, so Jude begins instructing you in Mending. This is a DC 15 roll — difficulty 15, with both your intelligence bonus and his applying.
+[SPEAKER_01]: What's your intelligence bonus?
+[SPEAKER_02]: Plus four.
+[SPEAKER_01]: Plus five for me, so plus nine total. Roll a d20, can't go below a four with the bonus.
+[SPEAKER_02]: [rolling]
+[SPEAKER_00]: Okay, so Jude begins teaching you Mending. Want to break something to practice on?
+[SPEAKER_02]: Yeah.
+[SPEAKER_01]: What do you break?
+[SPEAKER_02]: A chair.
+[SPEAKER_01]: [grumbling about a specific chair he doesn't like] Fine — but don't break the vase.
+[SPEAKER_02]: Mending — don't touch anything else.
+[SPEAKER_00]: So he tries for an hour to mend the chair, and fails — though he's actually doing decently; the cracks come together, then come apart again. He has a problem with permanence.
+[SPEAKER_01]: Still not impressed. [as Paul fumbles, tips over the vase] All right, you're going to have a lot to learn — I hope you've got money, because you're paying for that, and you're fixing it.
+[SPEAKER_02]: The chair's still broken too.
+[SPEAKER_01]: Right — and who broke it? You. Welcome to the club. Next hour.
+[SPEAKER_00]: [rolling] Ten.
+[SPEAKER_01]: [under his breath, encouraging] Keep your focus.
+[SPEAKER_00]: You actually fix the chair this time — two hours in. Pretty good.
+[SPEAKER_01]: All right — and the vase, that's a DC 10 thing, but you already did the chair, so this will solidify your understanding. Cool — now go break something else.
+[SPEAKER_02]: [grumbling] Fine, whatever — I don't care.
+[SPEAKER_00]: So you learn Mending.
+[SPEAKER_01]: All right — here's the deal: you can stop here and not become a wizard, or keep going and become an assassin who also knows Mending. But also think about this — I'm not exactly a fun teacher.
+[SPEAKER_02]: Do I have to have you as my teacher?
+[SPEAKER_01]: Pretty much — do you see another wizard around?
+[SPEAKER_02]: I could complain to daddy.
+[SPEAKER_01]: You don't have a dad.
+[SPEAKER_02]: Complain to mommy, then.
+[SPEAKER_01]: She's dead — you don't have a mommy either.
+[SPEAKER_02]: Let me think about this — maybe I'll tell my uncle.
+[SPEAKER_01]: Go ahead — your uncle's the one who hired me.
+[SPEAKER_02]: Fine — what's next?
+[SPEAKER_01]: I'm taking you to the dark part of the dungeon — we're learning Light.
+[SPEAKER_00]: You walk down to the dungeon, where you previously interrogated that thief.
+[SPEAKER_01]: We'll just let one of the guardsmen know we need a room to practice in.
+[SPEAKER_00]: So you're basically saying — now, let's teach you Light.
+[SPEAKER_01]: And I want him to transcribe it into what'll be his spellbook.
+[SPEAKER_00]: You spend thirty minutes finding something approximating a proper spellbook — basically, you give him a piece of papyrus, costing one gold coin.
+[SPEAKER_01]: [dramatically tossing a handful of coins] This is what teaching costs.
+[SPEAKER_02]: You're so dramatic — this is going to come back on you.
+[SPEAKER_00]: You actually only spend one coin — that's what the practice material cost.
+[SPEAKER_01]: Just take it. You go down to the basement with a candle, and start talking him through transcribing the spell.
+[SPEAKER_00]: First-level spell?
+[SPEAKER_01]: No, still a cantrip — Light.
+[SPEAKER_00]: Okay, he's practicing Light, talking through invocations. DC 15 roll. If you fail, I'm throwing a chair at you.
+[SPEAKER_02]: There's no chairs down here.
+[SPEAKER_01]: There's chains on the wall, then.
+[SPEAKER_00]: [rolling] Thirteen.
+[SPEAKER_01]: [throwing something] Thirteen — close, but I'm still chucking something at you.
+[SPEAKER_02]: A bowl, maybe? Bro!
+[SPEAKER_01]: You're good, you're good — get your own bowl down here next time.
+[SPEAKER_02]: Should I get advantage on dodging that?
+[SPEAKER_01]: Nope — you've got three coming.
+[SPEAKER_00]: It totally misses you, swings off and hits the wall.
+[SPEAKER_01]: You may have magic, but I can throw a stab-ship at you too.
+[SPEAKER_02]: [casting] I cast Light right between his eyebrows.
+[SPEAKER_01]: You can't even see my eyebrows, I'm wearing a mask.
+[SPEAKER_02]: Right here, then — it's stuck glowing on the edge of your mask.
+[SPEAKER_00]: So now your mask is hanging there, glowing.
+[SPEAKER_01]: Do I get blinded?
+[SPEAKER_00]: What do you want to do about it?
+[SPEAKER_01]: [grumbling, taking off the mask, then bashes Paul in retaliation]
+[SPEAKER_02]: Ow — are you done being a baby?
+[SPEAKER_01]: Man up, bro.
+[SPEAKER_02]: I'm like twenty-two — how old are you, old mage man?
+[SPEAKER_01]: Pretty old, and pretty big — go ahead, hit me back.
+[SPEAKER_02]: [tries, fails] Cool, you done?
+[SPEAKER_01]: I'm hitting you again if you can't land Light properly. Call your mommy.
+[SPEAKER_02]: She's dead, doesn't matter, I've still got power here — come on. [rolling] Five plus nine, fourteen.
+[SPEAKER_01]: [bashing his knee] I'm going for your Achilles next if you keep flinching.
+[SPEAKER_02]: Do that one more time and you'll want me dead a bunch of times before this is over.
+[SPEAKER_01]: What this proves is that when things go bad and someone in full plate mail is trying to decapitate you, you'll need this down cold — trust me, I've had it happen.
+[SPEAKER_02]: Fair enough.
+[SPEAKER_00]: Third hour — he tries Light again.
+[SPEAKER_02]: [rolling] Four.
+[SPEAKER_01]: What the hell.
+[SPEAKER_00]: All right, painful round — by the way, it's 7 p.m. now.
+[SPEAKER_01]: Want to keep going? I'll give you one more hour, since only good stuff happens after dark anyway — there's still a bit of twilight.
+[SPEAKER_00]: What season is it — summer?
+[SPEAKER_00]: Actually early summer, late spring — so eight o'clock, you could squeeze in one more hour.
+[SPEAKER_01]: [bruising both his knees] At least one on each side — I'm not fucking around with you. You could've stopped.
+[SPEAKER_01]: Want to give up, since you can't seem to master Light?
+[SPEAKER_02]: You're going to weld that mask to your face if you keep this up.
+[SPEAKER_01]: You'd have to beat me first — not very hard, honestly.
+[SPEAKER_02]: God, bro, where do we even find these people?
+[SPEAKER_01]: How desperate are we for money? [rolling]
+[SPEAKER_02]: What the fuck — what was that?
+[SPEAKER_01]: A four. Hold on—
+[SPEAKER_02]: I'm not bashing you, I'm taking you out — let's go. Come on, it's been a good first day. You've got a cantrip down.
+[SPEAKER_01]: First cantrip's easy — the second one's a bit rougher.
+[SPEAKER_02]: I got bashed a lot.
+[SPEAKER_01]: Stop taking it personally, keep some objectivity — remember that passionate part of you that wanted to kill every single Toli on the dock, at Jerly Bay?
+[SPEAKER_02]: Jerly Bay? No, wait — I forgot, I kind of freaked out there.
+[SPEAKER_01]: I remember — you just came up with some excuse.

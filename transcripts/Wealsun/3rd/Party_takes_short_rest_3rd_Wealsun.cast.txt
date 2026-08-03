@@ -1,0 +1,10 @@
+# Cast for Party_takes_short_rest_3rd_Wealsun
+# Expected voices: 7 (DM, Tyrus, Gouge, Paul, Folsom, Merrick, Jude). This is a long, cross-talky strategy debate — the cleaned transcript's own header warns "many lines are reconstructed by best inference... not always attributable with full certainty." Several tags are shared/overflow between two characters; treat this file's mapping as lower confidence than most.
+SPEAKER_00: DM (solid, dominant narrator/rules-caller)
+SPEAKER_01: Gouge (confirmed via the shark-salvage subplot — "The shark weighs it up", matching cleaned's "GOUGE: The shark weighs a ton.")
+SPEAKER_02A: Paul — confirmed via "I sent my homoculi in the room. He was making deals with the Toli..." (his signature homunculus, distinct from Jude's toad familiar); also counts the barrels ("I grab all 25... 25 barrels", matching his cleaned "Twenty-five")
+SPEAKER_02B: Merrick — confirmed via "I don't think hiding's too good of an option. I think finding his troops might be the best of the worst case scenario", an exact match to his cleaned line; also his own HP report during the short rest ("I'm down nine hit points... I'll take my nine")
+SPEAKER_03: Folsom (confirmed — repeatedly asks about and explains his Song of Rest bard ability, and later gathers the party to play his flute during the short rest)
+SPEAKER_04A: Tyrus — the dominant voice throughout the long strategy argument ("we have no way off this island", "the problem is...")
+SPEAKER_04B: Jude — confirmed via his own short-rest die roll ("Eight... down one hit point", matching cleaned's Jude rolling 1d8+1d6), "I can go invisible" right before he and Paul sneak off, casting Darkness, and "I can send the Toad" (his familiar, confirming — per the player's clarification — that the toad belongs to Jude, distinct from Paul's homunculus)
+SPEAKER_05: Paul (primary — opens with "I'm fucked up, but I'm okay... I need to rest", and "Do we burn the bridge", matching his cleaned lines) — NOTE: some short replies directed AT Paul ("Paul, what did you hear?") also land in this tag, so a few lines here are actually someone else questioning him

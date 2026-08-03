@@ -1,0 +1,225 @@
+[Speaker Key: DM = Dungeon Master (narration, rules calls, voicing a signaling archer) | GOUGE = Gouge's player | MERRICK = Merrick's player | TYRUS = Tyrus's player | ARISTOTLE = Aristotle's player | FOLSOM = Folsom's player. NOTE: this session is heavy on dice-rolling and resting mechanics with relatively sparse dialogue; the mechanical exchanges are summarized rather than transcribed line-by-line where they consist purely of numbers being called out.]
+
+DM: The evening of the second of Wealsun, after the battle at the southern garrison — the sun begins to dip behind the mountains to the west.
+
+GOUGE: Have I had any recovery time?
+
+DM: Yes, right here.
+
+DM: Gouge decides to take a short rest, as do the rest of the men in the unit. If you're wounded, roll your hit dice if you want to.
+
+GOUGE: Yes.
+
+DM: You can use as many of your hit dice as you want per short rest, but remember, you only get three short rests total before you need a full long rest — and if you use all your dice in the first one, you've got nothing left for the others.
+
+GOUGE: I'll start with two.
+
+DM: [rolling] Eight and a four, plus four for constitution — so that's sixteen back.
+
+DM: All right — these wounded men, can I roll healing for them too?
+
+GOUGE: Yes, go ahead.
+
+DM: [rolling for the wounded] There are about eight men hurt. [rolling several d10s for them]
+
+GOUGE: Is it a clear night?
+
+DM: It's going to be fairly dark — some clouds.
+
+GOUGE: I'll use one more, three of my six total dice.
+
+DM: [rolling] That's ten more back.
+
+GOUGE: So I'm down to almost nothing now — good.
+
+DM: Did anything else happen during the rest? We'll get to that after we finish healing everyone. [Resolving healing for the wounded soldiers one by one] First one gets six — fully healed. Next one gets four, still down a little. Next gets two, still down ten. Next gets six, down four. Next gets nine, fully healed.
+
+GOUGE: Good, my guys are mostly squared away.
+
+DM: There are two who are still pretty bad off — one down sixty points, the other down ten.
+
+GOUGE: Maybe those two shouldn't go in — do we put them out of commission, let them keep healing, or use them as bait out front if it comes to that? We might have to sacrifice somebody.
+
+GOUGE: [checking on them personally] Can I check on their state of mind? We don't want to send anyone in who's not up to it.
+
+DM: [aside] Meanwhile, you're up where you were shooting earlier — want to try to recover your arrows?
+
+GOUGE: Yeah, let me see if I can get them back.
+
+DM: Roll a survival check to see how many you recover.
+
+GOUGE: [rolling] Eighteen plus six.
+
+DM: You get all your arrows back.
+
+GOUGE: [talking with Merrick] He's very familiar with this island — we should be okay staying on high ground, off the beaches, away from those shark creatures. Depends what the moon's doing tonight.
+
+MERRICK: I don't know who else would know, but the hobgoblins at the barracks probably have infravision, though their range likely won't reach us, and any moonlight at all would weaken that anyway. So at night, we should be able to move safely.
+
+GOUGE: We're thinking of making our move tonight, then.
+
+MERRICK: The island should be clear of dangerous creatures otherwise — it's small, and this area should already be cleared out.
+
+GOUGE: That's our working assumption, anyway, based on what little we know — anything else here would already be dead or hunted off.
+
+GOUGE: Do I know anything else about tonight?
+
+DM: You know there really aren't many creatures native to this island — birds, mostly.
+
+GOUGE: Birds?
+
+DM: Birds, maybe some tree-dwelling creatures, picked off for sport occasionally.
+
+GOUGE: Do I know if there are other storage tunnels on the island?
+
+DM: You've heard there are sea caves underneath the Helm that connect into the structure itself, but those are also where some sea creatures tend to lurk — you just know that much, and that they're off the coast somewhere.
+
+GOUGE: I'll probably send Aristotle ahead, with me close behind for protection, in case he runs into something.
+
+DM: [checking] Any spells available?
+
+GOUGE: Nope.
+
+DM: [checking Tyrus's short rest as a paladin separately]
+
+GOUGE: Keep the group trailing behind, someone watching our rear.
+
+DM (as sergeant): We do need a plan, but I'm hesitant to expose the men to unknown dangers outside this fortification without more information. What I'm thinking is, we send Merrick ahead to scout the island — he knows it better than anyone. He can move through the darkness and find out whether the barracks have fallen to the enemy or not.
+
+GOUGE: I want to go with him.
+
+MERRICK: We both move well in the dark — you follow behind me, cover my back if anything comes up.
+
+DM (as sergeant): If you reach the barracks and find it's clear, how will you signal us? Do you have a tinderbox?
+
+MERRICK: I do — let me check my explorer's pack. Yeah, I've got one.
+
+MERRICK: I'll light an arrow.
+
+DM (as sergeant): That'll give away your position.
+
+MERRICK: I think if we get to the barracks and stay low along that wall, we can spark just enough light for you to see from a distance. The hobgoblins might see it too, but it's not like they could do much about it without exposing themselves in the open.
+
+DM (as sergeant): All right — give us a couple minutes, then signal. If you reach the wall, one light means come forward, two lights means we're coming back.
+
+MERRICK: We'll work out the exact code as we go.
+
+DM: One of the archers comes in.
+
+DM (as archer): Sir, we're getting a strange signal from the barracks.
+
+DM: Do you recognize this kind of signal — it's a light signal, like Morse code?
+
+GOUGE: Do I know how to read codes like that?
+
+DM: Yeah — you know codes.
+
+DM: It spells out: K-A-R-M-I-R-G.
+
+GOUGE: "Karmirg"?
+
+DM: It just keeps repeating: "Karmirg, Karmirg."
+
+GOUGE: Can I signal back?
+
+DM: Yes — you have signaling devices, but they only work at night, not during the day.
+
+GOUGE: Signal back: G-O-U-G-E. And wait.
+
+DM: That's it?
+
+GOUGE: That's it.
+
+DM: What's the response mean? They want you to confirm — they signal back something.
+
+GOUGE: [confirming, checking spelling] "K-U-D-E"? "U." "K." "S-A-M-E"?
+
+DM: The signaling continues, and the gist of the exchange establishes: the barracks is held by the Monmurgian Navy — a hundred fifty Marines safe there. However, the Helm itself has been taken.
+
+GOUGE: [asking about it] Is Paul Rivera at the barracks?
+
+DM: Paul Rivera is at the barracks, and the message ends with: come as soon as possible.
+
+GOUGE: I don't want to bring the whole party — they've got a hundred fifty, we've got thirty.
+
+DM: Signal back that you're coming tonight.
+
+GOUGE: We're on our way.
+
+GOUGE: Is it safe to reach the barracks — can we get a long rest in first?
+
+DM: A long rest is eight hours.
+
+GOUGE: We don't have time for that — we need to move now, head to them. It's not far; we can take a long rest once we're with them, since they have the barracks secure.
+
+GOUGE: We have wounded, though.
+
+DM: What about the enemy?
+
+GOUGE: I don't think they're capable of much at night. We've got this bridge here — we shouldn't abandon it. We need to keep this tower occupied, leave some troops and archers behind to hold it. I don't want to give up the whole southern position.
+
+DM: Even though it doesn't directly help your push to the barracks?
+
+GOUGE: It does help, actually — holding this ties up enemy forces here, keeps them from advancing behind us, and if Prince Jeon sends another ship, we can still signal from this position. At minimum, it pins down whatever's left here.
+
+GOUGE: [confirming the plan] I assume, Merrick, you're leading us to the barracks — I'll take point right behind you.
+
+MERRICK: [to Gouge, half-joking] What's your real name, when you're back home? This is getting annoying.
+
+GOUGE: I know — Jude knows, and Karmirg knows who's there. I'm "Gouge." My cover's blown anyway for now, but don't use my real name regardless.
+
+MERRICK: Got it.
+
+MERRICK: All right — as soon as we're ready, I'll take the lead, Aristotle close behind.
+
+DM: [to others] You can come along too — what's your name?
+
+TYRUS: Tyrus.
+
+DM: And Folsom — you'll come with us once we get a clear signal that an area's secure.
+
+GOUGE: That leaves the sergeant to hold this position — does he want to come, or stay?
+
+GOUGE: I think the sergeant needs to hold it.
+
+DM (as sergeant): Yes, we'll need some kind of arrangement — we'll cover you and make sure the hobgoblins don't flank you from behind, if you can move through the dark unseen.
+
+GOUGE: Done — hopefully the path stays clear. Stick close to the beaches, though, and stay alert — there's Sahaugin activity out there, and they're very active at night. Be careful crossing the bridge.
+
+GOUGE: None of us have darkvision, unfortunately — depends entirely on the moonlight.
+
+GOUGE: What about those creatures today — just hobgoblins?
+
+DM: Just hobgoblins, yeah.
+
+GOUGE: We should bring at least two archers, two Marines with us — good to have a couple extra bodies in case things go wrong.
+
+DM (as sergeant): I can spare five men — the unwounded ones; the wounded stay here with me to heal.
+
+GOUGE: Okay — we'll take two archers, the sergeant knows signaling—
+
+DM (as sergeant): Two crossbowmen, three Marines — he'll be your signal man.
+
+MERRICK: I know how to signal too — we can coordinate.
+
+DM (as sergeant): Take two shield-bearers with you as well.
+
+GOUGE: Two shield men, got it — four guys total in our escort. That should be enough to make it there safely if we're moving stealthily.
+
+DM: [tallying the unit] So we're taking one-eye — he's not an archer since he lacks the depth perception, but he's strong.
+
+GOUGE: Just the one, then.
+
+DM: [working out the math of how many troops remain] There were originally twenty-two men here — eight archers and the rest swordsmen. Taking two of the archers with you leaves the rest split between here and the south tower.
+
+[A lengthy back-and-forth tallying surviving troops, archers versus swordsmen, and casualties follows — resolving to roughly fifteen swordsmen and six archers remaining at the garrison, plus the sergeant who can signal.]
+
+DM (as sergeant): We should also let the sergeant know — if any other ships come by that aren't reinforcements, he'll need to wave them off, given this is clearly a full-scale incursion now.
+
+GOUGE: Right, right — there are too many Sahaugin out there. They'll get overrun if they're not careful; we got lucky. With all those sharks I saw pulling up in the water, I'm assuming those were Sahaugin lurking beneath.
+
+DM: Sahaugin communicate with sharks telepathically — the sharks are essentially their slaves, so they can summon swarms of them to attack. The waters around here aren't safe even for larger vessels to approach closely; anything that gets too near risks being swarmed, so you'd want to clear the area as fast as possible.
+
+DM: [wrapping the session] Let everyone know the timeframe — we'll proceed to the next part. For now, let's resolve loot and experience points, roll hit points for anyone leveling up.
+
+[The group handles administrative leveling and item distribution to close out the session.]

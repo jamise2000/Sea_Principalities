@@ -1,0 +1,173 @@
+[Speaker Key: DM = Dungeon Master (narration, voicing Lord Jamis) | GOUGE = Gouge's player]
+
+DM: All right, evening of the third of Wealsun, after the adventurers return to Monmurg on the corsair. You and Merrick are summoned to Lord Jamis's chambers — his office in the Harbor District.
+
+GOUGE: Quite familiar with it.
+
+DM: Yes, you've been there many times — it's where he conducts most of his business when it comes to security and similar matters. He wants to speak with you and Merrick separately.
+
+GOUGE: Okay.
+
+DM: You're first. You're escorted into Jamis's office and seated across from him.
+
+GOUGE: Is there liquor in here?
+
+DM: Always.
+
+GOUGE: I'll help myself.
+
+DM: You go over, pour a glass.
+
+GOUGE: Not the good stuff?
+
+DM: There's a mix — some you recognize, some you don't.
+
+GOUGE: I'll just go with the cheapest bottle.
+
+DM: Which he probably appreciates, not caring either way.
+
+DM (as Jamis): Report.
+
+GOUGE: Paul made it back safely.
+
+DM (as Jamis): Thank you for that.
+
+GOUGE: Barely, but safely.
+
+DM (as Jamis): What's the issue — was his performance in question?
+
+GOUGE: He's got a definite sense of entitlement to him, which I suppose is fair, given who he is. His overall performance was okay — I haven't fully figured him out yet. Definitely an interesting young man, gaining experience fast. What I'm wondering is whether that chip on his shoulder gets worn down with more time in the field.
+
+DM (as Jamis): I think it will.
+
+GOUGE: I think the attitude will get chiseled down with more experience and a few more reality checks. I didn't push him too hard this time, given that you had me watching him as your nephew's protection — I think I can work him harder next time, now that I know how much he can take.
+
+DM (as Jamis): Was there any conflict between you two?
+
+GOUGE: No conflict — he seemed respectable to me, which I'll take. He did have some insight into events out there that I'll report on, though I'm not entirely sure how much we can trust his account of exactly how things unfolded.
+
+DM (as Jamis): Understandably, there was clearly more going on out there than even you suspected going in.
+
+GOUGE: I think his somewhat lax view of the whole situation is questionable, though I don't want to overstep my bounds in saying so.
+
+DM (as Jamis): No idea why he wasn't more concerned — he and Fairwind are actually very good friends, you understand. He wouldn't want to think ill of his friend. That's the truth of it, Gouge. However, my own eye has to remain completely objective in these matters. I've had Fairwind on my radar for some time now — his jealousy of Prince Jeon, and of Monmurg's success generally. As you know, there are ongoing negotiations between the Toli and the princes of the outer isles. Fairwind's the most outspoken of them, and I think Jeon has been inclined to give him some of what he wants. There are certain outcomes Jeon is quite intent on seeing happen in this country, and he's willing to spend real political capital toward them — personally, I think it's not worth the cost. He's something of an idealist, and that's the problem in this case. The other princes of the outer isles are not idealists, by contrast.
+
+GOUGE: Well, I can give you the best summary of what we experienced out there. We landed near the southern lighthouse, the southern beacon, with about thirty of us. Coming up, we were met by hobgoblins at the bridge tower, which we took and secured, leaving the men there along with the Navy captain you sent with us. We didn't push further to clear the hobgoblins from the barracks itself — it was something of a standstill at that point. I didn't head that far south myself, so I'm not sure what's happening with those men now.
+
+We made our way through with Merrick, all the way up to — let me get this right — the barracks, where we met the garrison captain and others, who filled us in further. We learned of a secret entrance but didn't use it ourselves. To sum up: the men in the barracks staged a diversion, which let us circle around to the back side of the Helm to try to locate Fairwind and figure out the secret entrance. We couldn't quite make sense of it, but we did see a new type of corsair-style ship being loaded by a skiff coming out from beneath the Helm — not one of ours, something that looked more eastern in design.
+
+DM (as Jamis): The Sea Ghost.
+
+GOUGE: I've had reports of a ship by that name — Cain Toli's.
+
+DM: [aside, an unrelated brief interruption about a real-life injury, not part of the in-game scene]
+
+DM (as Jamis): That ship was acquired from Onwal — not common construction for us, though our own shipyards are starting to copy the design. I believe the Sea Ghost was specifically purchased by the Toli — Cain Toli, in particular.
+
+GOUGE: That tracks, since the Toli were aboard it. We made our way into the Helm itself — hobgoblins were in control there too, clearly the result of the same diversion tactics. We snuck in, got as far as the inner sanctum trying to find Fairwind. He was actually located by Paul's lizard creature.
+
+DM (as Jamis): Paul's lizard?
+
+GOUGE: Some kind of homunculus, he called it — I don't fully understand what it is.
+
+DM (as Jamis): A homunculus, yes — I'm aware of what that is.
+
+GOUGE: He sent it ahead and overheard a conversation — Fairwind talking with the Toli, negotiating something, and not under any apparent duress. He was actively making a deal with them. With our diversion — Jude and his familiar taking out a hobgoblin — we caused enough of a ruckus to engage the Toli directly alongside Fairwind. We killed one Toli, captured another, and captured and tied up Fairwind, who was not at all happy about it. He demanded to know why.
+
+DM (as Jamis): And what did you have to go on, besides Paul's account?
+
+GOUGE: That's really all we had — nobody else witnessed the actual conversation between Fairwind and the Toli. Just Paul, through that magical creature's eyes, picking up bits of the conversation. Fairwind tried to play it off — when we actually got to him, he was tied up, and we believe he'd tied himself up to make it look like he'd been forced into it under threat, rather than a willing participant.
+
+We decided to take our prisoners down through a secret passage and found barrels of a kind of granular substance that gets sprinkled into the water to keep the Sahaugin away — so it's not some spell or enchanted fog keeping them off, it's a manufactured chemical. These barrels were being taken by the Toli. Fairwind admitted he keeps his own private stash back at his own keep — but it looked like they were stripping Helm Island of essentially everything, meaning there'd be no way to salt the waters here properly going forward. Not sure what the larger plan behind that is.
+
+We lost the captured Toli prisoner — he was killed when we got attacked trying to make our way out; we had to deal with him quickly and ended up kicking his body into the water, which was crawling with sharks, possibly summoned by nearby Sahaugin, including one absolutely massive shark. We later confirmed he didn't survive — found his arm floating afterward.
+
+Then, while Folsom had control of Fairwind, on a narrow ledge as we circled the chasm to get to our position, Paul tried to get past them to reach us, and in the process got kicked off the ledge into the water by Fairwind himself.
+
+DM (as Jamis): So Fairwind directly attacked Paul Rivera?
+
+GOUGE: Yes — he wasn't attacking Folsom, who had him under a charm spell at the time. Fairwind was perfectly cordial to talk to otherwise, arrogant, typical of him — he conversed with me readily. Said something like, "I've got information, I've got a role to play here, I'm not the captive in this situation" — he was very unhappy about being treated as one. His complaint was about being dragged back here against his will.
+
+DM (as Jamis): Did he admit to anything specific?
+
+GOUGE: He admitted to having barrels of the substance.
+
+DM (as Jamis): So he did remove them from Helm Island?
+
+GOUGE: Yes. I believe he was lying to cover himself, though — he denied being in league with the Toli on this, but we had to go with Paul's judgment and account, given he's Jeon's nephew, and frankly I don't think he's skilled enough yet to be part of something this calculated against us.
+
+DM (as Jamis): That thought did cross my mind too.
+
+GOUGE: You sent me to watch him, so I wasn't operating off assumptions — I don't think he needs an agent watching for betrayal. It seemed doubtful he'd betray Jeon, given his youth — if anything, his general attitude might have given off that impression more than any actual evidence, but I don't sense anything genuinely wrong there.
+
+DM (as Jamis): With Fairwind, though, I believe there is something — he's clearly up to something we don't fully understand yet. Why would he strip away the island's protection at a time like this, with the blockade already cutting off supplies to Monmurg? He's well aware of that situation, and he didn't seem to have any concern about it either.
+
+GOUGE: He also ended up in the water himself, in the chasm. Jude pulled Paul out using a levitation spell — I was about to go in after him myself, but luckily didn't have to, because there were far more sharks down there than we expected. We got Paul out, but we found no trace of Fairwind, no sign of how he might have escaped, although there was a passage leading out toward what looked like the eastern side — Jude found some soft footprints there. He'd be able to give you more detail on that; we didn't see any wet footprints or water trail consistent with him having been fully submerged and climbing out.
+
+Jude actually scouted that on his own, under invisibility, while we were preparing to leave. We couldn't bring Fairwind back for proper interrogation in the end — that had been the plan. I don't know how that would have gone over politically, frankly — keeping him in custody and coming to you to figure out how to handle it probably wouldn't have looked good for anyone, but in the end, we didn't have him to worry about either way. We were lucky to get out of there at all. We sprinkled some of the substance in the water on our way out, and Merrick got us back on a makeshift sailing raft — did great work with that.
+
+DM (as Jamis): The Navy men you had with you were quite capable too, from what I understand. They told me you returned with twenty-three of the barrels.
+
+GOUGE: We had four on the raft ourselves — I believe twenty-one were left behind on the island, out of twenty-five total that we found.
+
+DM (as Jamis): Twenty-one remaining, then.
+
+GOUGE: That sounds right. I didn't tell anyone exactly what the substance was or how it worked — not sure if anyone briefed the crew that went back to the island on usage versus just telling them to use it without explanation. I don't actually know who ended up in charge of those remaining barrels once we got back — wasn't me.
+
+So, to summarize my own role: I protected Paul, observed what I could. Paul saw considerably more directly. Like I said, nobody else can independently verify the conversation between the Toli and Fairwind, or confirm he wasn't simply tied up the whole time as he claimed. We're going entirely on Paul's word for that part. If Jeon sent Paul with instructions not to reveal too much, Paul still seemed angry and on edge enough that he may have exposed more than intended when confronting Fairwind directly — visibly upset, calling him out. I read that as more genuine than Fairwind's calm denials — Paul couldn't hold back his anger, which struck me as more honest a reaction than practiced deception would look like.
+
+DM (as Jamis): Honestly, the simple fact that Fairwind admitted to removing barrels from Helm Island at all is telling — that substance, and its dwindling supply, is one of our most closely guarded state secrets. The fact that he admitted moving it suggests he transferred at least some to Fairwind Island itself.
+
+GOUGE: He did mention having his own personal stash there, and seemed to be allowing the Toli to take the rest. Suggests he's primarily looking out for his own island's interests right now.
+
+DM (as Jamis): I'll share some background with you. A hundred fifty years ago, the sea principalities were able to form as a unified political entity because of an alliance between the Duke of Berghof and the pirates of the outer islands. The greatest scourge of the Azure Sea at that time was a massive hobgoblin kingdom, with a stronghold just north of our coastline — they raided everything from here to the Dragon Isles, Red Shore, Monmurg itself. The kind of trade we enjoy today simply wouldn't have been possible under their dominance; they were the true rulers of these seas back then.
+
+There's a book Merrick ended up with that I read on the way back — covers the history of how that hobgoblin kingdom devastated the undersea ecosystems as well, as part of how all this came about. You should ask Merrick about it; he'd have more detail. I've read that history myself — not something widely known. Admiral Flotsam wrote it some fifty years ago, as a warning, actually, because that's around when the Duke of Berghof first stopped giving us the yellow substance.
+
+GOUGE: Why'd he stop?
+
+DM (as Jamis): He claimed it was no longer necessary — we had a huge reserve stored on Helm Island at the time, and the outer islands had their own substantial stockpiles. There was actually a fortress in the middle of the bay, north of us, that historically held the greatest concentration of the substance — that fortress served as the staging ground for our war against the hobgoblin kingdom. Ships would regularly sail out, dump barrels of the stuff into hobgoblin waters. It didn't take long — hundreds of thousands of hobgoblins were killed a hundred fifty years ago, and that's what allowed our nation to prosper afterward.
+
+Keoland, for their part, benefited indirectly from our efforts. But later, after we became a unified nation, conflict with Keoland arose, and they used our historical tactics against the hobgoblins as political ammunition to turn other nations against us — because the yellow powder isn't just lethal to the Sahaugin and hobgoblins, it strips clean everything in the affected waters, fish, wildlife, the seabed itself. The elves and other peoples of the Ulek states saw our methods as far too destructive, and we pulled back from large-scale use. We maintained limited salting around Monmurg and a few strategic points just to keep the Sahaugin from returning.
+
+Within the last decade, though, so much of the substance has become unavailable to us that we've had to scale back even that limited use significantly, which has forced us to reconsider how we manage our coastal defenses. This is one of the exact points we've been negotiating with the Duke of Berghof about — but he's shown no real interest in resuming supply.
+
+And recently, the lease on that fortress in the middle of the bay — where most remaining stores of the substance are held — expired, and Cain Toli took the island over outright. At first, he didn't deny us our usual shipments from there for various purposes — but this winter, he cut us off entirely, claiming the Duke of Berghof instructed the Toli that the outer islands were no longer to receive any of it, since it's been essentially our lifeblood for coastal defense.
+
+This coincides suspiciously with the Duke of Berghof's own blockading activity against Monmurg, and what I've heard suggests there's been direct communication between the Duke and Prince Toli — talks between the two, which historically is bizarre, since they've had essentially nothing to do with each other for hundreds of years.
+
+GOUGE: Who's actually producing the substance, then, if not Gradsul?
+
+DM (as Jamis): Not Gradsul, no — even though Gradsul claims to maintain a very advanced magical academy, including the Duke of Berghof's own school of transmutation, with presumably adequate transmuters of their own, none of them rival the Duke of Berghof's actual knowledge of how to produce this particular substance.
+
+GOUGE: I'm just wondering why the Toli would need to work with Fairwind to take barrels off Helm Island at all, if they already have direct access through Berghof.
+
+DM (as Jamis): That's nearly a direct provocation, isn't it. I think Fairwind's actions stem from his jealousy of Monmurg's success specifically. Of all the modern principalities, Monmurg has benefited the most from our alliance with the outer islands — the wealth flowing through us, the taxes generated, the trade volume, far beyond what raw piracy alone could provide the other islands, even though they still engage in it; it's simply not nearly as lucrative as the legitimate trade Prince Jeon has cultivated. So perhaps, from Fairwind's perspective, he genuinely doesn't see himself as working against the principalities — in his mind, he might frame it as "I'm aligned with all of you; Monmurg is the one truly working against the rest of us."
+
+GOUGE: Did he actually say that?
+
+DM (as Jamis): Not explicitly, no — I'm extrapolating, since he's never shown much warmth for Monmurg specifically, despite his long friendship with Jeon. I believe there's something colder going on underneath — his jealousy of Monmurg's success, combined with his objection to Jeon's political pressure campaigns, are both at play here.
+
+And, to be fair, Fairwind probably has a legitimate point regarding the negotiations with the Toli and the Duke of Berghof. My read is that the Duke is restricting our supply specifically because of Jeon's efforts to eliminate the slave trade out of the Mediko Jungle. He's been petitioning for some time to halt slave trading throughout the sea principalities, which would limit Prince Toli's ability to raid the jungle tribes for their wealth — gold, ivory, and especially slaves. That's actually where the bulk of Toli wealth comes from — raiding those tribes, trading the captives as human capital across the region.
+
+Jeon finds this practice distasteful and would eliminate it from Monmurg entirely if he could. However, both Berghof and the Toli benefit too much from that trade to give it up easily, and they're apparently willing to risk our broader alliance over it — even exposing themselves to the Duke of Gradsul's influence as leverage to bring Jeon back in line.
+
+I think Fairwind's underlying point is understandable — he's wary of provoking the Duke of Berghof unnecessarily, and he's argued this position many times in council. Unfortunately, this latest move puts everyone in danger, especially with Gradsul already gaining ground against us militarily. Cain Toli, though, is a separate and more serious matter — I think his betrayal goes far beyond anything Fairwind's doing. Fairwind, as far as I can tell, is just trying to broker some personal gain — gold, mostly, that's my read on his true motivation. His actions still constitute a personal betrayal of the sea principalities and of Jeon, but I understand the motivation behind it, even if I don't condone it.
+
+What I don't yet fully understand is the extent to which the Toli, through Cain Toli specifically, are actively assisting the Duke of Gradsul in this war against us. About a month and a half ago, a wizard visited our docks — you'll remember him; one of his associates hired you and Karmirg to guard him.
+
+GOUGE: I don't recall that one directly.
+
+DM (as Jamis): No matter — I'll summarize. The one thing I wanted from that wizard was information on what the Toli wanted along the coast near Saltmarsh. It turns out the Toli located a powerful artifact there — one I believe allows control over turtle dragons. The reason we haven't been successful in certain naval engagements is tied directly to this, and it's a state secret, so this doesn't go beyond this room.
+
+I'm telling you because this artifact needs to be recovered, if at all possible — we need to find an opportunity to do so. But Cain Toli, I believe, is our primary enemy here. If he can control turtle dragons, that explains a great deal — when our corsairs engage Keoland's warships, we often see storms forming at a distance, a classic sign of turtle dragon activity nearby, and shortly after, a few of our ships simply go missing.
+
+Normally, turtle dragons don't bother us directly — for years, we've paid an annual tribute to keep them from interfering with our fleets passing through their territory. They're greedy, but gold buys their cooperation easily enough, and they have no particular interest in harming humans, whom they find rather unappetizing — hobgoblins and Sahaugin are much more to their taste, more like sardines to them, comparatively. But I think Cain Toli is directing them against us specifically now, or at least that's what I've been able to piece together from my conversations with Lord Phranck and others familiar with such matters.
+
+I think Fairwind is something of a witless fool in all this — he doesn't grasp the true depth of the game being played here, or how dangerous it actually is. But his meddling cannot simply be ignored.
+
+GOUGE: Absolutely not.
+
+DM (as Jamis): Should we stop here for now?
+
+GOUGE: Yeah.

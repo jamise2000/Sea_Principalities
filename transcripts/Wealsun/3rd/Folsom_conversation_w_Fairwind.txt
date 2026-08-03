@@ -1,0 +1,45 @@
+[SPEAKER_00]: What is your name, boy?
+[SPEAKER_01]: Can we whisper? Just in case anyone's around us.
+[SPEAKER_00]: What is your name?
+[SPEAKER_01]: Well, I'm Folsom, the marine bard. I'm assuming you're Lord Fairwind.
+[SPEAKER_00]: I am Lord Fairwind, yes. You seem like a very nice young man — why have you fallen in with these cutthroats?
+[SPEAKER_01]: Just following orders from the captain. I was put on this mission.
+[SPEAKER_00]: Yes, orders. I wish I could speak with Paul Rivera in private — do you think we can arrange that?
+[SPEAKER_01]: I mean, we can totally do that.
+[SPEAKER_00]: Well, maybe when we're out of this — when everything's settled around here. And you should know: Prince Jeon is being betrayed by one of his greatest advisors. Have you heard of Lord Jamis?
+[SPEAKER_01]: No.
+[SPEAKER_00]: No? He's a very famous man. Do you know he's been in touch with agents from Keoland?
+[SPEAKER_01]: I don't even know that.
+[SPEAKER_00]: You know who his wife is, don't you?
+[SPEAKER_01]: I'm assuming I would, but no, I don't.
+[SPEAKER_00]: Lady Azane, she's known as now — that wasn't always her name. Do you know who her brother is?
+[SPEAKER_01]: I'll have to defer to you to fully inform me, though.
+[SPEAKER_00]: His name is Lord Zafar Azane. He's actually a high noble in Keoland, directly loyal to the Duke of Gradsul. You know who the Duke of Gradsul is, don't you?
+[SPEAKER_01]: I'm sure I don't.
+[SPEAKER_00]: Well, he's the powerful Lord of Keoland — actually the worst enemy of the sea principalities. It's his navy that's blockading Monmurg right now. And Zafar is Lord Jamis's wife's brother.
+[SPEAKER_01]: Okay. That's not the greatest news.
+[SPEAKER_00]: You didn't know that, did you?
+[SPEAKER_01]: No, I didn't know that.
+[SPEAKER_00]: It's not common knowledge — however, it's something I keep my eye on quite a bit. Zafar Azane has been at Lord Jamis's castle several times in the last few months. I believe Lord Jamis is betraying Prince Jeon to the Duke of Gradsul. That's the way they all are.
+[SPEAKER_01]: Jeon?
+[SPEAKER_00]: Yes. Do you know who Gouge is — the one who seems to be leading you all?
+[SPEAKER_01]: I've known him for about a day or so.
+[SPEAKER_00]: He's one of Jamis's assassins — he's killed many people. He's not a nice person; vicious, in fact. The elf is one of his henchmen too — they've done many nefarious jobs for Lord Jamis in the past. It wouldn't go well for you if I were killed and you were innocent in this. It wouldn't go well for your other companions either, and most of them are innocent as well. I'm thinking of that large, honest man, and Merrick, who I know is honorable. I know none of you really know what's at stake here.
+[SPEAKER_01]: I appreciate it — thanks for your consideration.
+[SPEAKER_00]: Good, honest, loyal men of the principalities, I'd say, should not be involved in the struggles of princes. And Paul Rivera — I hope he knows what he's doing, getting you involved in this. I think he's trying to be loyal to his uncle, but what I'd suggest is you do your utmost to help him survive this encounter with Gouge and Jude the wizard.
+[SPEAKER_01]: Absolutely.
+[SPEAKER_01]: I mean, there's so many questions to ask, given the information that's coming to me now — I don't know you well, and you don't know me, but we are men of the sea.
+[SPEAKER_00]: I can assure you that I will do everything I can to keep you alive, so we can question you properly.
+[SPEAKER_01]: I'm not going to be questioned.
+[SPEAKER_00]: This is what I want to assure you: you will survive, if I have my way — you and your companions. Gouge, I don't know — I think he's an agent of Lord Jamis, and I think Jude is as well — but understand, if you do not resist, you'll be fine. And know this: if I do not survive this, please go to my family and tell them what I told you. Also tell Paul Rivera of my concern — that I believe Lord Jamis is a traitor and has been working with and talking to Zafar Azane, who is, again, known to be head of the Office of Forbidden Magic in Gradsul. I know these things might not mean much to you, but understand: there are secret organizations of wizards whose goal is the destruction of the principality. Do you understand?
+[SPEAKER_01]: I do understand. These are dangerous, dangerous times.
+[SPEAKER_00]: And the reason I'm taking the actions I'm taking is for the survival of all of you.
+[SPEAKER_01]: Understood. Yeah.
+[SPEAKER_00]: I'll do everything I can to make sure you survive this. I know we're not exactly friends right now, but I can assure you, you would be questioned [fairly], and I can assure you that you can survive this.
+[SPEAKER_01]: I appreciate your honesty and your support. Thank you.
+[SPEAKER_00]: No — thank you. Here, Paul. Thank you for reversing course on your witness against me. [The recording shifts to the DM helping Folsom's player write down names and spellings for their notes:]
+[SPEAKER_00]: So — Lord Jamis. And then his wife, Lady Azane. Her brother, right? Her brother is Zafar Azane. Rough spelling on that: Zafar is Z-A-F-A-R. Azane is A-Z-A-N-E. And then there's the Duke of Gradsul — he's head of an organization known as the Office of Forbidden Magic; he's the one running it.
+[SPEAKER_01]: Got it. [joking about the parenthetical aside] Cute. Okay, got it.
+[SPEAKER_00]: And the Duke of Gradsul is the one blockading us. The Duke of Gradsul is like a king over in Keoland — one of the greatest nobles in the world — and it's actually his navy that's blockading Monmurg. This is kind of an ancient enemy to the sea principalities. In fact, the Duke of Gradsul has an ancestor who used to be King of Keoland, and that ancestor is the one who actually attacked the sea principalities a hundred and fifty years ago.
+[SPEAKER_01]: Got it. Perfect — that one's written down for you.
+[SPEAKER_00]: Check.

@@ -1,0 +1,103 @@
+[Speaker Key: DM = Dungeon Master (narration, rules calls, voicing the Marine sergeant and enemy combatants) | JUDE = Jude's player | PAUL = Paul Rivera's player. NOTE: This is the longest and most mechanically dense file in the collection — the initial landing and ambush at the Helm Island quays that kicks off the major battle sequence (continuing into "Marines_ambushed_by_hobgoblins" and "Marines_shelter_in_guard_tower"). Given the overwhelming volume of individual dice rolls across many combat rounds, this reconstruction focuses on the tactical arc, key dialogue, and major narrative beats — the eerily empty harbor, the realization that the defenders are corrupted/replaced versions of Fairwind's own men, the tower set ablaze, and the climactic dash back toward the ship as the position becomes untenable — rather than transcribing every individual attack roll.]
+
+DM: Second of Wealsun, around 5 p.m., as Paul Rivera and Jude, with a detachment of Marines, walk down the pier toward the Helm Island quays.
+
+JUDE: [aside] Is Gouge with us in this group, or did he go ashore at the southern lighthouse instead?
+
+DM: He went with the other boats to the southern island.
+
+JUDE: Got it.
+
+JUDE: As we approach — does anyone come out to meet us? That's the strange part — no ships, no patrols at all.
+
+DM: You walk the length of the pier, and nobody's there — no one on the stairs leading up from the quay. The stairwell up to the island's interior is about sixty feet ahead of where the dock ends.
+
+PAUL: Is there a signal we're supposed to give the ship's captain if there's no harbor master to greet us?
+
+DM: He's close enough to see you directly — about three hundred feet off — and you assume the sergeant will handle that signal himself.
+
+PAUL: [to the sergeant, pulling him aside slightly] I don't want to step on your command, but — where do you want me positioned?
+
+DM: He's leading from the front of the column.
+
+PAUL: [quietly, to the sergeant] I think the crossbowmen should have bolts nocked and ready — this empty harbor is exactly the kind of dead-quiet that worries me.
+
+DM: It is dead silent — no harbor master, nothing.
+
+PAUL: We should proceed as if we're walking into an ambush, even if we don't say that outright to the men.
+
+DM: You reach the end of the dock, marching in column, Paul beside the sergeant.
+
+PAUL: [to the sergeant] Ready your crossbows, squad, please.
+
+DM (as sergeant): Yes, sir. [calling a halt at the edge of the dock] Crossbows up!
+
+DM: The crossbowmen begin loading their weapons.
+
+PAUL: We should form a shield wall, too.
+
+DM (as sergeant): Let's keep moving toward the stairs for now, but stay ready.
+
+DM: You proceed forward, weapons loaded, toward the stairwell.
+
+JUDE: [keeping his wand drawn, alert] I'll have my wand out, just in case.
+
+DM: As you approach the stairs leading up from the quay, crossbow bolts suddenly fire down on you from hidden positions — hard points built into the structure above.
+
+DM: [resolving the initial volley] Your front rank, shields raised, takes no real damage — bolts deflecting off scale mail and embedding harmlessly in shields.
+
+DM: You hear a shout from somewhere ahead, and suddenly figures appear at those hard points above — a full unit begins marching down toward the stairs to meet you.
+
+DM: Roll initiative — sergeant, Jude, Paul, and the enemy unit.
+
+DM: [resolving combat over several rounds] The fight that follows is brutal and prolonged — bolts and arrows exchanged from elevated positions, your Marines holding a disciplined shield wall as they advance step by step up toward the stairwell, taking and dealing damage in roughly equal measure at first.
+
+JUDE: [studying the defenders as the fight progresses] Wait — these aren't ordinary men. Look at their faces.
+
+DM: You realize, partway through the engagement, that these are not Fairwind's loyal garrison troops as expected — they're hobgoblins, red-skinned and clearly inhuman up close, wearing what looks like standard-issue Monmurgian-style armor.
+
+PAUL: [grimly] So either Fairwind's men have been replaced outright, or this island's entire garrison is compromised.
+
+JUDE: Either way, we fight through them — no surrender to expect from this lot, not like regular soldiers who might yield.
+
+DM: The battle continues — your side trading volleys and melee exchanges with the dug-in hobgoblin defenders, the sergeant directing the advance.
+
+DM (as sergeant, shouting orders): Push forward — shield wall, advance!
+
+DM: [resolving several more rounds] Your Marines, disciplined despite the chaos, manage to avoid losing anyone in the initial exchanges, though a few take solid hits. Jude, meanwhile, unleashes a wall of fire against a cluster of hobgoblins holding one of the hard points.
+
+JUDE: [casting] Burn.
+
+DM: [resolving] The fire catches — you hear distinctly inhuman, panicked screams as hobgoblins try to leap clear of the flames. One doesn't make it in time, engulfed entirely; the structure itself begins to catch, smoke and flame rising from what had been a defensive tower.
+
+PAUL: [pressing the advance alongside the Marines] Keep moving up with them.
+
+DM: You advance alongside the main body of troops as the position above continues to burn and collapse under sustained pressure.
+
+DM: [continuing through additional rounds of combat] The fighting grinds on, the defenders thinning as the fire spreads and your forces methodically clear each hard point in turn.
+
+DM: Eventually, only a couple of hobgoblins remain holding out near the base of the stairs.
+
+JUDE: [taking a final shot] I'll finish this.
+
+DM: [resolving] Clean hit — that position's cleared.
+
+DM: At this point, it becomes apparent that the wider battle — encompassing the ship still docked behind you, and whatever's happening further along the shoreline — is taking a turn for the worse. [This connects directly to the events depicted in "Marines shelter in guard tower," where the watching squad witnesses Sahaugin emerging from the water in overwhelming numbers to swarm the ship itself.]
+
+JUDE: [realizing the danger to the ship] Something's wrong back there — call out to the ship!
+
+PAUL: [moving toward the docked vessel] I'm heading back toward the ship — we can't leave the crew exposed to whatever's coming out of the water. Even strong fighters panic when it's sea creatures swarming a hull — that's every sailor's nightmare.
+
+JUDE: I'm with you.
+
+PAUL: [shouting to the sergeant as they move] Sergeant — secure the landing! [gesturing toward the immediate area around the dock]
+
+DM (as sergeant): [acknowledging, rallying the remaining Marines toward the threatened position]
+
+DM: The Marines fan out, moving to secure the landing zone as ordered, while Jude and Paul break away from the main group, dashing back toward the ship itself, weapons ready, fully aware that whatever's emerging from the water represents a far greater threat than the hobgoblins they've just fought through.
+
+JUDE: [readying Shield as a reaction, just in case] If anything comes at me on the way, I'm ready for it.
+
+PAUL: [dashing alongside him, shield raised, dodging as he goes] Same — moving fast, but staying alert.
+
+DM: The two of you race back across the open ground toward the docked ship, fully exposed should anything intercept you before you reach it — setting up the desperate scramble that follows as the Sahaugin assault on the harbor unfolds in full.

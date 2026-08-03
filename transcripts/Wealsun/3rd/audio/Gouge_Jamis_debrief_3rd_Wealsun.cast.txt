@@ -1,0 +1,4 @@
+# Cast for Gouge_Jamis_debrief_3rd_Wealsun
+# Expected voices: 2
+DM
+Gouge

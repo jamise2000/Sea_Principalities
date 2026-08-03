@@ -1,0 +1,8 @@
+# Cast for Party_takes_short_rest_3rd_Wealsun
+# Expected voices: 6
+DM
+Paul
+Merrick
+Gouge
+Tyrus
+Folsom

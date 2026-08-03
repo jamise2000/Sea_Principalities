@@ -1,0 +1,832 @@
+1
+00:00:03,688 --> 00:00:17,302
+[SPEAKER_00]: Second of Wealsun at 11.30 p.m., Gouge attempting to get back his spell slots is interrupted by Paul Rivero and Gouge.
+
+2
+00:00:17,422 --> 00:00:21,566
+[SPEAKER_00]: Jude trying to get back his spell slots is interrupted by Gouge and Paul Rivero.
+
+3
+00:00:21,666 --> 00:00:23,908
+[SPEAKER_00]: Wait, like interrupted as in I don't get the spell slots back?
+
+4
+00:00:24,489 --> 00:00:25,250
+[SPEAKER_00]: Well, they come in.
+
+5
+00:00:26,497 --> 00:00:28,498
+[SPEAKER_00]: Okay, I try really hard to stay meditative.
+
+6
+00:00:28,639 --> 00:00:29,039
+[SPEAKER_00]: Okay.
+
+7
+00:00:29,639 --> 00:00:32,081
+[SPEAKER_00]: Jude is in this very serene state.
+
+8
+00:00:32,281 --> 00:00:36,984
+[SPEAKER_00]: Paul would take, er, Jude would take by three in the morning to get all your spells off back.
+
+9
+00:00:37,004 --> 00:00:37,805
+[SPEAKER_03]: We're not doing that.
+
+10
+00:00:38,205 --> 00:00:43,949
+[SPEAKER_00]: I'm still trying to card to concentrate anymore, though.
+
+11
+00:00:43,969 --> 00:00:44,530
+[SPEAKER_02]: Say I go up.
+
+12
+00:00:46,011 --> 00:00:51,275
+[SPEAKER_02]: And go, not worthy of an embrace, Jude, but you are more worthy than a handshake.
+
+13
+00:00:52,015 --> 00:00:53,536
+[SPEAKER_02]: So I reach out to...
+
+14
+00:00:53,576 --> 00:00:55,358
+[SPEAKER_02]: I don't have that in there.
+
+15
+00:00:55,618 --> 00:00:57,920
+[SPEAKER_02]: Whether you're what you're doing, grab them like this.
+
+16
+00:00:58,660 --> 00:00:58,960
+[SPEAKER_02]: Shit.
+
+17
+00:00:59,561 --> 00:01:01,262
+[SPEAKER_02]: Okay.
+
+18
+00:01:02,343 --> 00:01:02,523
+[SPEAKER_01]: Fuck.
+
+19
+00:01:02,643 --> 00:01:02,963
+[SPEAKER_01]: Okay.
+
+20
+00:01:03,203 --> 00:01:03,624
+[SPEAKER_01]: Wait, what?
+
+21
+00:01:05,245 --> 00:01:06,225
+[SPEAKER_00]: I think we gotta get moving.
+
+22
+00:01:06,886 --> 00:01:08,187
+[SPEAKER_00]: What time is it?
+
+23
+00:01:08,287 --> 00:01:09,588
+[SPEAKER_00]: It's 11.
+
+24
+00:01:09,608 --> 00:01:09,948
+[SPEAKER_00]: 11.30.
+
+25
+00:01:10,008 --> 00:01:10,368
+[SPEAKER_00]: 11.30.
+
+26
+00:01:11,449 --> 00:01:13,250
+[SPEAKER_01]: You didn't want to wait until like 1?
+
+27
+00:01:13,671 --> 00:01:14,952
+[SPEAKER_01]: I only had a couple more hours.
+
+28
+00:01:17,169 --> 00:01:18,050
+[SPEAKER_01]: What happened to the tower?
+
+29
+00:01:18,070 --> 00:01:20,133
+[SPEAKER_01]: Is it the west tower?
+
+30
+00:01:20,813 --> 00:01:21,695
+[SPEAKER_01]: Sub tower?
+
+31
+00:01:22,175 --> 00:01:22,896
+[SPEAKER_01]: Where we came from?
+
+32
+00:01:23,016 --> 00:01:23,917
+[SPEAKER_01]: No, not where you came from.
+
+33
+00:01:23,958 --> 00:01:26,300
+[SPEAKER_01]: We talked to the captain and he was going to move on the...
+
+34
+00:01:27,396 --> 00:01:28,517
+[SPEAKER_00]: He hasn't sent the attack yet.
+
+35
+00:01:28,537 --> 00:01:29,617
+[SPEAKER_03]: We haven't sent the attack yet.
+
+36
+00:01:29,637 --> 00:01:31,018
+[SPEAKER_00]: That was going to happen at 12.
+
+37
+00:01:31,558 --> 00:01:32,679
+[SPEAKER_03]: That was going to happen at 12.
+
+38
+00:01:32,919 --> 00:01:33,940
+[SPEAKER_03]: We haven't talked about it yet.
+
+39
+00:01:34,160 --> 00:01:40,123
+[SPEAKER_03]: I talked about the plans with them about going to the coastline or levitating over the wall into the sanctuary.
+
+40
+00:01:40,243 --> 00:01:42,564
+[SPEAKER_01]: Well, we would still probably want to do that from the ocean side.
+
+41
+00:01:43,625 --> 00:01:46,066
+[SPEAKER_01]: And I can either levitate one or spider climb one.
+
+42
+00:01:46,086 --> 00:01:47,387
+[SPEAKER_01]: But right now, we're taking it to a boat.
+
+43
+00:01:47,407 --> 00:01:48,308
+[SPEAKER_03]: We're taking it to a boat.
+
+44
+00:01:48,908 --> 00:01:49,248
+[SPEAKER_03]: To what?
+
+45
+00:01:49,328 --> 00:01:49,648
+[SPEAKER_03]: To go now?
+
+46
+00:01:49,688 --> 00:01:54,411
+[SPEAKER_03]: To either go along the coastline and under the cavern into the helm or go over the wall.
+
+47
+00:01:54,591 --> 00:01:56,673
+[SPEAKER_01]: Well, can your homunculus search for it?
+
+48
+00:01:56,693 --> 00:02:00,856
+[SPEAKER_01]: Because if I can have an hour to do a ritual spell, I can change my frog.
+
+49
+00:02:00,896 --> 00:02:03,578
+[SPEAKER_03]: The only problem is it's made out of clay, and it will.
+
+50
+00:02:03,618 --> 00:02:06,881
+[SPEAKER_01]: Well, I mean, that's not going to hurt you, right?
+
+51
+00:02:06,921 --> 00:02:08,122
+[SPEAKER_01]: No, but I don't want to lose my homunculus.
+
+52
+00:02:10,816 --> 00:02:11,736
+[SPEAKER_02]: Wasn't there another one?
+
+53
+00:02:11,776 --> 00:02:16,798
+[SPEAKER_02]: Weren't they saying going straight to the door of the tower and getting through it and going into the keep to...
+
+54
+00:02:17,158 --> 00:02:17,739
+[SPEAKER_02]: Through the front?
+
+55
+00:02:18,259 --> 00:02:18,439
+[SPEAKER_03]: Yeah.
+
+56
+00:02:18,459 --> 00:02:18,939
+[SPEAKER_03]: Through the front?
+
+57
+00:02:18,999 --> 00:02:20,580
+[SPEAKER_03]: I mean, that's almost suicide.
+
+58
+00:02:20,700 --> 00:02:21,300
+[SPEAKER_03]: Well, no, no.
+
+59
+00:02:21,420 --> 00:02:27,783
+[SPEAKER_00]: So the plan was the diversion attack and then taking that wall to get into the tower.
+
+60
+00:02:28,763 --> 00:02:30,104
+[SPEAKER_00]: Right, but from the coastline.
+
+61
+00:02:30,524 --> 00:02:31,104
+[SPEAKER_00]: Exactly.
+
+62
+00:02:31,144 --> 00:02:34,526
+[SPEAKER_00]: The same place that you would search for the caverns as well.
+
+63
+00:02:34,726 --> 00:02:39,148
+[SPEAKER_01]: So if we're over there, can you use, I don't know, can your homunculus fly?
+
+64
+00:02:39,268 --> 00:02:46,352
+[SPEAKER_00]: Now the sergeant described that if you go up the wall, there is a way to get to the inner sanctum if you want to get the fairfield, the fairway.
+
+65
+00:02:46,472 --> 00:02:47,832
+[SPEAKER_01]: From going up the wall at that spot?
+
+66
+00:02:47,872 --> 00:02:49,913
+[SPEAKER_01]: Yeah, because I'm going to the wall of the tower.
+
+67
+00:02:50,214 --> 00:02:51,434
+[SPEAKER_01]: Okay, so we still down to two.
+
+68
+00:02:53,215 --> 00:02:54,216
+[SPEAKER_01]: Okay.
+
+69
+00:02:54,316 --> 00:02:56,497
+[SPEAKER_01]: Look, quite frankly, I'm not surprised.
+
+70
+00:02:56,517 --> 00:02:59,199
+[SPEAKER_01]: I was kind of thinking that I wouldn't be able to get the slots back.
+
+71
+00:02:59,880 --> 00:03:01,201
+[SPEAKER_01]: Four hours was going to push it.
+
+72
+00:03:02,902 --> 00:03:04,403
+[SPEAKER_01]: I was hoping that you'd be here a little later.
+
+73
+00:03:05,283 --> 00:03:06,244
+[SPEAKER_01]: Any problems getting here?
+
+74
+00:03:06,724 --> 00:03:07,145
+[SPEAKER_01]: No.
+
+75
+00:03:07,185 --> 00:03:07,925
+[SPEAKER_01]: Clears could be.
+
+76
+00:03:08,586 --> 00:03:10,667
+[SPEAKER_01]: What happened to the other 20 guys or 30 guys?
+
+77
+00:03:10,687 --> 00:03:13,189
+[SPEAKER_02]: We left them on there and they're... No, I mean the ones that fled.
+
+78
+00:03:13,629 --> 00:03:14,470
+[SPEAKER_02]: The ones that you didn't kill.
+
+79
+00:03:16,267 --> 00:03:17,148
+[SPEAKER_01]: The hobgoblins.
+
+80
+00:03:17,268 --> 00:03:19,210
+[SPEAKER_02]: Oh, they're still in the keep.
+
+81
+00:03:19,470 --> 00:03:22,612
+[SPEAKER_02]: They still have the keep and still have the lighthouse over there.
+
+82
+00:03:23,873 --> 00:03:24,694
+[SPEAKER_02]: We have the tower.
+
+83
+00:03:25,655 --> 00:03:26,615
+[SPEAKER_00]: They have the garrison.
+
+84
+00:03:26,776 --> 00:03:27,456
+[SPEAKER_02]: They have the garrison.
+
+85
+00:03:27,496 --> 00:03:28,157
+[SPEAKER_02]: We have the tower.
+
+86
+00:03:28,377 --> 00:03:31,559
+[SPEAKER_02]: We have a sergeant there who's going to signal all ships to stay away.
+
+87
+00:03:32,060 --> 00:03:37,164
+[SPEAKER_02]: And then they're watching the hobgoblins and we'll break on them if they start coming from behind.
+
+88
+00:03:37,504 --> 00:03:49,008
+[SPEAKER_01]: Okay, so if we're going to move earlier, do we want to move into position and then have the captain forego the attack on the other lighthouse and demonstrate at the front gate?
+
+89
+00:03:49,388 --> 00:03:51,508
+[SPEAKER_01]: The demonstration was just to pull the guards away.
+
+90
+00:03:51,869 --> 00:03:52,269
+[SPEAKER_00]: Correct.
+
+91
+00:03:52,289 --> 00:03:53,109
+[SPEAKER_00]: That's right.
+
+92
+00:03:53,149 --> 00:03:55,950
+[SPEAKER_01]: Right, so just to pull the guards off of those side walls.
+
+93
+00:03:59,352 --> 00:04:05,037
+[SPEAKER_01]: The captain was going to take the tower first, and then while we moved into position, he was going to send 50 men to take the tower.
+
+94
+00:04:05,077 --> 00:04:16,006
+[SPEAKER_01]: When they were done and moved back, as long as they could take it easily, he was going to maneuver and demonstrate fires and assemble a battery.
+
+95
+00:04:16,046 --> 00:04:17,327
+[SPEAKER_01]: I didn't want him to waste troops.
+
+96
+00:04:17,587 --> 00:04:26,093
+[SPEAKER_01]: So I figured that would pull any of the garrison to the front gates, or the front walls, and we could maybe clear some of the passageways for us to get...
+
+97
+00:04:26,534 --> 00:04:29,716
+[SPEAKER_01]: Okay, we're in a room alone.
+
+98
+00:04:29,736 --> 00:04:38,843
+[SPEAKER_01]: Okay, I don't know if Fairwind's good or bad, but I'm keeping from talking about this in front of the captain of the household guards.
+
+99
+00:04:40,202 --> 00:04:43,103
+[SPEAKER_02]: Yeah, I just told him he might be under some spell or something.
+
+100
+00:04:43,823 --> 00:04:51,885
+[SPEAKER_01]: So do you suspect that Lord Farrowin has given up the spell because of the sahaugin?
+
+101
+00:04:53,126 --> 00:04:55,646
+[SPEAKER_02]: No evidence, but suspicions are extremely high.
+
+102
+00:04:55,767 --> 00:04:57,187
+[SPEAKER_02]: I mean, I have suspicions too, but...
+
+103
+00:04:58,565 --> 00:04:59,646
+[SPEAKER_03]: There hasn't been any evidence to show.
+
+104
+00:04:59,666 --> 00:05:00,786
+[SPEAKER_01]: You didn't tell me you had suspicions.
+
+105
+00:05:01,407 --> 00:05:02,087
+[SPEAKER_03]: I had suspicions.
+
+106
+00:05:02,127 --> 00:05:04,288
+[SPEAKER_03]: Well, I mean, yeah, we all suspect because he's the ranking.
+
+107
+00:05:04,328 --> 00:05:06,830
+[SPEAKER_03]: Okay, to be fair, we haven't actually had the time to talk about this.
+
+108
+00:05:06,910 --> 00:05:08,811
+[SPEAKER_03]: I don't... As soon as we dropped him at the beach, we started...
+
+109
+00:05:08,831 --> 00:05:09,652
+[SPEAKER_01]: I think he would have...
+
+110
+00:05:09,792 --> 00:05:13,274
+[SPEAKER_01]: Were you sent here to assassinate him?
+
+111
+00:05:13,294 --> 00:05:14,334
+[SPEAKER_02]: You were...
+
+112
+00:05:14,554 --> 00:05:14,915
+[SPEAKER_02]: Sorry.
+
+113
+00:05:14,955 --> 00:05:15,475
+[SPEAKER_02]: You or him?
+
+114
+00:05:16,616 --> 00:05:17,916
+[SPEAKER_01]: I mean him, not me.
+
+115
+00:05:19,117 --> 00:05:21,078
+[SPEAKER_01]: I assume you could have done that much easier.
+
+116
+00:05:21,198 --> 00:05:23,500
+[SPEAKER_01]: You could have done that much easier at Ferd's when I was sleeping.
+
+117
+00:05:24,272 --> 00:05:26,556
+[SPEAKER_02]: No, I'm actually trying to figure out what the hell's going on.
+
+118
+00:05:26,716 --> 00:05:29,340
+[SPEAKER_01]: Okay, okay, so we still need to, so can we take him alive?
+
+119
+00:05:30,198 --> 00:05:31,779
+[SPEAKER_00]: Oh, yeah.
+
+120
+00:05:32,079 --> 00:05:34,140
+[SPEAKER_00]: Oh, we will have to.
+
+121
+00:05:35,241 --> 00:05:36,461
+[SPEAKER_02]: What are we talking about?
+
+122
+00:05:36,581 --> 00:05:46,046
+[SPEAKER_02]: We're talking about if he's turned on us and this is a political fiasco and we're getting screwed, then we need to bring him back and have him as a political prisoner.
+
+123
+00:05:46,746 --> 00:05:54,350
+[SPEAKER_01]: And or he needs to tell us how to undo and re-institute the, like maybe he has to be tortured, but we have to get the Sahaugin back.
+
+124
+00:05:55,011 --> 00:05:55,871
+[SPEAKER_01]: Away from the island.
+
+125
+00:05:56,192 --> 00:05:57,513
+[SPEAKER_01]: Yeah, that's the first step.
+
+126
+00:05:57,633 --> 00:05:59,295
+[SPEAKER_01]: Get the Sahaugin away.
+
+127
+00:05:59,375 --> 00:06:00,176
+[SPEAKER_03]: Well, why are they here?
+
+128
+00:06:00,196 --> 00:06:02,378
+[SPEAKER_02]: It's been centuries, so... That's the question.
+
+129
+00:06:02,418 --> 00:06:02,878
+[SPEAKER_03]: Exactly.
+
+130
+00:06:02,898 --> 00:06:04,220
+[SPEAKER_03]: He should know.
+
+131
+00:06:04,260 --> 00:06:08,304
+[SPEAKER_03]: The only suspicion is because he kept them away, I guess, from some bullshit.
+
+132
+00:06:08,324 --> 00:06:10,866
+[SPEAKER_01]: Do you have any knowledge of CLs operating in the area?
+
+133
+00:06:10,886 --> 00:06:12,208
+[SPEAKER_01]: Because I know they hate Sahaugin.
+
+134
+00:06:13,294 --> 00:06:17,056
+[SPEAKER_02]: No, but the ranger with me I'm sure does.
+
+135
+00:06:17,096 --> 00:06:19,398
+[SPEAKER_02]: He knows the island well and is well-versed of all of us.
+
+136
+00:06:19,418 --> 00:06:25,221
+[SPEAKER_01]: The only thing I can think of is maybe there was an agreement with the sea elves that maybe Lord Farrow one fucked up.
+
+137
+00:06:26,142 --> 00:06:27,302
+[SPEAKER_01]: You can't talk to those guys?
+
+138
+00:06:29,484 --> 00:06:31,165
+[SPEAKER_01]: I don't swim very well.
+
+139
+00:06:31,185 --> 00:06:37,308
+[SPEAKER_01]: I mean, I guess if they came up on land, I've never been to one of their domiciles.
+
+140
+00:06:38,009 --> 00:06:38,309
+[SPEAKER_02]: Okay.
+
+141
+00:06:40,396 --> 00:06:41,777
+[SPEAKER_02]: I think we need to get in and get to him.
+
+142
+00:06:41,797 --> 00:06:43,057
+[SPEAKER_01]: Okay, let me get my shit together.
+
+143
+00:06:44,118 --> 00:06:45,719
+[SPEAKER_01]: I would still like to be able to search.
+
+144
+00:06:45,739 --> 00:06:47,981
+[SPEAKER_01]: Are you saying that you can or you can't?
+
+145
+00:06:49,662 --> 00:06:51,243
+[SPEAKER_01]: You want to go now, now wait an hour.
+
+146
+00:06:51,463 --> 00:06:54,244
+[SPEAKER_03]: Okay, my Mahamakui cannot fly.
+
+147
+00:06:54,264 --> 00:06:54,865
+[SPEAKER_03]: It glides.
+
+148
+00:06:54,965 --> 00:06:55,545
+[SPEAKER_03]: It can fly.
+
+149
+00:06:56,026 --> 00:06:57,246
+[SPEAKER_03]: No, you said it glides.
+
+150
+00:06:57,306 --> 00:06:59,068
+[SPEAKER_03]: But, I mean, it could climb the wall.
+
+151
+00:06:59,168 --> 00:07:00,308
+[SPEAKER_03]: That's what I was saying to him.
+
+152
+00:07:00,328 --> 00:07:02,830
+[SPEAKER_03]: Okay, so it could search the coastline.
+
+153
+00:07:02,850 --> 00:07:04,051
+[SPEAKER_02]: Yes, it'll search the coastline.
+
+154
+00:07:04,071 --> 00:07:05,712
+[SPEAKER_02]: Me and the ranger can scout out ahead.
+
+155
+00:07:06,212 --> 00:07:06,732
+[SPEAKER_02]: Okay.
+
+156
+00:07:06,752 --> 00:07:07,813
+[SPEAKER_02]: And make sure everything's clear.
+
+157
+00:07:08,393 --> 00:07:09,174
+[SPEAKER_01]: Okay.
+
+158
+00:07:10,074 --> 00:07:10,854
+[SPEAKER_01]: How do you want to travel?
+
+159
+00:07:11,555 --> 00:07:12,755
+[SPEAKER_01]: The island's a little barren.
+
+160
+00:07:13,396 --> 00:07:15,577
+[SPEAKER_01]: I don't know if they're going to have any watches on that side.
+
+161
+00:07:15,597 --> 00:07:18,058
+[SPEAKER_01]: Do you guys have a plan to do so in stealth?
+
+162
+00:07:18,919 --> 00:07:19,079
+[SPEAKER_01]: Yeah.
+
+163
+00:07:19,719 --> 00:07:21,360
+[SPEAKER_01]: Okay.
+
+164
+00:07:22,921 --> 00:07:23,581
+[SPEAKER_00]: We are, honey.
+
+165
+00:07:23,621 --> 00:07:24,121
+[SPEAKER_00]: Don't worry.
+
+166
+00:07:24,361 --> 00:07:25,422
+[SPEAKER_00]: We're on our way.
+
+167
+00:07:26,698 --> 00:07:27,318
+[SPEAKER_00]: Who said that?
+
+168
+00:07:27,899 --> 00:07:30,060
+[SPEAKER_00]: There's a woman in this barracks?
+
+169
+00:07:30,560 --> 00:07:30,880
+[SPEAKER_01]: All right.
+
+170
+00:07:30,900 --> 00:07:32,441
+[SPEAKER_01]: The winches.
+
+171
+00:07:32,681 --> 00:07:34,962
+[SPEAKER_01]: Give me 15 minutes to get my supplies and shit ready.
+
+172
+00:07:35,483 --> 00:07:36,603
+[SPEAKER_01]: I can meet you at the front gate.
+
+173
+00:07:36,823 --> 00:07:42,426
+[SPEAKER_02]: Yeah, I think we're going to stay off of, we're going to be as close to the coastline as we can, stay with whatever cover there is.
+
+174
+00:07:43,267 --> 00:07:47,069
+[SPEAKER_02]: The ranger can throw up some fog, worst case of... Are we allowed to do black face?
+
+175
+00:07:48,249 --> 00:07:49,050
+[SPEAKER_02]: Black face, too.
+
+176
+00:07:49,390 --> 00:07:50,731
+[SPEAKER_02]: Yeah, of course, red face.
+
+177
+00:07:51,571 --> 00:07:52,712
+[SPEAKER_02]: I haven't seen the disguises yet.
+
+178
+00:07:52,792 --> 00:07:53,652
+[SPEAKER_03]: They sound interesting.
+
+179
+00:07:53,672 --> 00:07:54,833
+[SPEAKER_03]: Am I allowed to put my bad mask on, then?
+
+180
+00:07:57,974 --> 00:08:02,176
+[SPEAKER_01]: I don't think you're going to need it here, but I mean, if you can operate with it.
+
+181
+00:08:03,257 --> 00:08:14,763
+[SPEAKER_01]: Anyways, to the DMs, so does that mean that I still only have the original three points back, three spell slots back, not the full?
+
+182
+00:08:14,883 --> 00:08:15,983
+[SPEAKER_01]: Is that how we described it?
+
+183
+00:08:16,003 --> 00:08:18,805
+[SPEAKER_01]: Yeah, we're shiny at first, the one you have on now.
+
+184
+00:08:18,825 --> 00:08:20,205
+[SPEAKER_03]: Right now I have metal.
+
+185
+00:08:20,265 --> 00:08:23,407
+[SPEAKER_02]: Yeah, you can't really see much, but everything's super tight and gloves.
+
+186
+00:08:23,467 --> 00:08:25,188
+[SPEAKER_02]: Describe my character.
+
+187
+00:08:25,528 --> 00:08:27,009
+[SPEAKER_02]: Well, I mean, we're looking at you, I'm like...
+
+188
+00:08:29,847 --> 00:08:32,509
+[SPEAKER_02]: I can't cure leprosy, but somebody probably can.
+
+189
+00:08:32,609 --> 00:08:34,530
+[SPEAKER_01]: All right.
+
+190
+00:08:34,630 --> 00:08:36,551
+[SPEAKER_01]: I think you've already beat it.
+
+191
+00:08:36,611 --> 00:08:38,092
+[SPEAKER_01]: Isn't that why we went to Hempoland?
+
+192
+00:08:38,392 --> 00:08:39,733
+[SPEAKER_01]: For you to beat the leprosy?
+
+193
+00:08:39,773 --> 00:08:40,533
+[SPEAKER_02]: Yeah, yeah.
+
+194
+00:08:40,553 --> 00:08:41,153
+[SPEAKER_02]: It sure is.
+
+195
+00:08:41,233 --> 00:08:42,314
+[SPEAKER_02]: All right.
+
+196
+00:08:42,414 --> 00:08:42,914
+All right.
+
+197
+00:08:43,815 --> 00:08:44,315
+[SPEAKER_01]: All right.
+
+198
+00:08:44,715 --> 00:08:45,536
+[SPEAKER_01]: Yeah.
+
+199
+00:08:45,676 --> 00:08:46,436
+[SPEAKER_01]: I'll go get the crew.
+
+200
+00:08:46,496 --> 00:08:47,417
+[SPEAKER_01]: All right.
+
+201
+00:08:47,477 --> 00:08:48,197
+[SPEAKER_01]: Let me get my components.
+
+202
+00:08:48,237 --> 00:08:48,737
+[SPEAKER_01]: I'll be with them.
+
+203
+00:08:48,757 --> 00:08:53,640
+[SPEAKER_03]: We'll talk a little bit about what we, the other planet, and we'll wait for you.
+
+204
+00:08:53,940 --> 00:08:54,120
+[SPEAKER_01]: Yeah.
+
+205
+00:08:54,160 --> 00:08:54,541
+[SPEAKER_01]: Make it quick.
+
+206
+00:08:54,821 --> 00:08:55,061
+[SPEAKER_01]: Yeah.
+
+207
+00:08:55,141 --> 00:08:55,901
+[SPEAKER_01]: Five minutes, ten.
+
+208
+00:08:56,542 --> 00:08:57,022
+[SPEAKER_01]: Ten tops.
+

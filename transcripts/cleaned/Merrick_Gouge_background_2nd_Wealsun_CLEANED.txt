@@ -1,0 +1,27 @@
+[Speaker Key: DM = Dungeon Master. This file is the DM's scripted opening narration (a near-duplicate of the intro read in "Back_ground_overview_Monmurg_characters_2nd_Wealsun" and "Council_w_Jeon_Jamis_2nd_Wealsun"), followed by a brief DM/player Q&A | MERRICK = Merrick's player, asking the clarifying question at the end.]
+
+DM: Second of Wealsun, in the city of Monmurg. [Session subtitle: Merrick and Gouge interacting with Lord Jamis.]
+
+It is in certain times in Monmurg, a city perched precariously on the edge of prosperity and ruin. It was the month of Wealsun, in the 579th Common Year of Keoland's calendar, and the air was thick with the scent of desperation.
+
+Monmurg, the jewel of the Azure Sea, had long thrived on the lifeblood of trade, its veins pulsing with the wealth of nations near and far. Yet now the very arteries that sustained it were severed, and the city felt itself ghastly for survival.
+
+In the past, Monmurg's formidable navy had been the guardian of its prosperity, its ships slicing through the azure waves with the grace and power of a predator. The sea lanes were its domain, and the nations of Onwal, Irongate, and beyond paid homage in the form of trade — vessels laden with riches destined for Monmurg's bustling markets. From the fertile lands [of certain allied nations] came cheeses and meats; from the Duchy of Berghof came grains and rice, the bounty of their vast plantations. The city was a hub of commerce — its stalls a cacophony of voices and the clatter of goods exchanged.
+
+But now the tide has turned. Keoland, a powerful rival, had openly declared war, casting the sea principalities in shadow as the Keoland navy blockaded the trade lines. The blockade was a noose tightening around Monmurg's neck, and the once-bustling trade routes lay silent, the ships diverted to Red Shore by the cunning Duke of Gradsul. His navy, though inferior in might, had somehow outmaneuvered the Monmurgian fleet, leaving the city bewildered and beleaguered.
+
+Whispers of supernatural forces and treacherous storms swirled through the taverns and marketplaces as the people of Monmurg searched for answers amid the chaos. The situation was dire — the traders who braved the blockade found themselves trapped in a city teetering on the brink of famine. The foreign district was a tinderbox of unrest, its inhabitants driven to desperation by hunger and fear. Lord Jamis, tasked with maintaining order, found his patrols stretched thin, their presence a mere bandage on a festering wound.
+
+As if the blockade were not enough, the specter of piracy loomed. The Scarlet Rat, a pirate of fearsome repute, had struck at Port Torvin, leaving it in ruins, its warehouses — once full of food supplies destined for Monmurg — reduced to ash. The town, once thought secure, now lay in tatters. Monmurg was under siege, its lifeline severed, and the specter of starvation looming large.
+
+The political landscape was no less tumultuous. The Prince of Port Toli, a key ally, had turned a deaf ear to Monmurg's plight, his promises of aid as empty as the city's granaries. Rumors of discord among the sea princes, fueled by the contentious slave trade, added to the city's woes. The Prince of Monmurg, caught in a web of intrigue and betrayal, faced a future as uncertain as the storm-tossed seas.
+
+In the midst of this turmoil, Monmurg stood at a crossroads. The city, once a beacon of trade and prosperity, now faced a future shrouded in uncertainty. Its people, resilient and resourceful, clung to hope as they awaited the turning of the tide. For in Monmurg, as in all things, the wheel of fortune was ever turning, and the dawn of a new era could lie just beyond.
+
+DM: Any questions about that?
+
+MERRICK: Their fleet was beaten? They hope not to be fed... is it through maybe supernatural forces that people are whispering about?
+
+DM: So, the strange thing is, the fleets of Monmurg and the outer isles, for whatever reason, are not going out on patrols. They won't leave the docks, so people are very, very confused. The rumors are starting as to why this is happening — there have been defeats against Keoland, but for some reason the commodores aren't even trying to bring the fight at this point. The few traders that manage to get past the blockade bring only a trickle of the goods they usually bring into the city at this time of year. As the summer goes on, this will get worse.
+
+DM: Okay.

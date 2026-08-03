@@ -1,0 +1,4 @@
+# Cast for Paul_studies_Homunculi_manual_Prolog
+# Expected voices: 2
+SPEAKER_00: DM
+SPEAKER_01: Paul

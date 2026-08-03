@@ -1,0 +1,51 @@
+[SPEAKER_00]: The Brewing Storm - Song Description. This song hints at the troubles plaguing the Sea Principalities and reveals there are conflicts between the rulers. It doesn't name any ruler specifically, but it does call out that the current troubles facing the Sea Principalities is as much the fault of disunity among the Princes as it is the hostilities of the Duke of Gradsul. None of the Princes will be happy about this song, but it is generic enough and obvious enough that no particular Prince will try an exact retribution on the bard that sings it, unless the political situation becomes more dire.
+[SPEAKER_01]: **Verse 1**
+[SPEAKER_01]: Oh, Monmurg, you're a Jewel on display,
+[SPEAKER_01]: But your leaders have led you astray.
+[SPEAKER_01]: Princes and Plars, in their gilded halls,
+[SPEAKER_01]: Can't see the writing on your walls.
+[SPEAKER_01]: The Duke of Gradsul's noose will bind,
+[SPEAKER_01]: But it's your own leaders who are truly blind.
+[SPEAKER_01]: **Chorus**
+[SPEAKER_01]: Oh, Princes of the Sea, what have you done?
+[SPEAKER_01]: Your squabbles and schemes have blocked out the sun.
+[SPEAKER_01]: While you bicker and fight, the city's in plight,
+[SPEAKER_01]: And the Duke of Gradsul laughs while you fight.
+[SPEAKER_01]: **Verse 2**
+[SPEAKER_01]: The navy's strong, or so they say,
+[SPEAKER_01]: But storms and whispers have led you astray.
+[SPEAKER_01]: The enemy's fleet, though weaker and slow,
+[SPEAKER_01]: Has somehow managed to steal the show.
+[SPEAKER_01]: Is it magic or treachery, who can tell?
+[SPEAKER_01]: But incompetence might be the cause as well.
+[SPEAKER_01]: **Chorus**
+[SPEAKER_01]: Oh, Princes of the Sea, what have you done?
+[SPEAKER_01]: Your squabbles and schemes have blocked out the sun.
+[SPEAKER_01]: While you bicker and fight, the city's in plight,
+[SPEAKER_01]: And the Duke of Gradsul laughs at your blight.
+[SPEAKER_01]: **Bridge**
+[SPEAKER_01]: Port Torvin's in ashes, the food's running low,
+[SPEAKER_01]: Yet you sit in your castles, putting on a show.
+[SPEAKER_01]: The Prince of Port Toli, with his ships bayed,
+[SPEAKER_01]: Plays his own game while the city's betrayed.
+[SPEAKER_01]: Internal strife, a festering sore,
+[SPEAKER_01]: While Monmurg starves, all plan for more.
+[SPEAKER_01]: **Verse 3**
+[SPEAKER_01]: The traders are stuck, the markets are bare,
+[SPEAKER_01]: And the people of Monmurg are in despair.
+[SPEAKER_01]: The Prince of Berghof, with his meager supply,
+[SPEAKER_01]: Leaves you to wonder, "Is this goodbye?"
+[SPEAKER_01]: Your allies are distant, your enemies near,
+[SPEAKER_01]: Yet you do nothing but stoke the fear.
+[SPEAKER_01]: **Chorus**
+[SPEAKER_01]: Oh, Princes of the Sea, what have you done?
+[SPEAKER_01]: Your squabbles and schemes have blocked out the sun.
+[SPEAKER_01]: While you bicker and fight, the city's in plight,
+[SPEAKER_01]: And the Duke of Gradsul laughs while you fight.
+[SPEAKER_01]: **Outro**
+[SPEAKER_01]: So here's to the leaders, the Princes and Plars,
+[SPEAKER_01]: Who've turned Monmurg's fortune into scars.
+[SPEAKER_01]: While you play your games, the city's in pain,
+[SPEAKER_01]: And the Duke of Gradsul wins again.
+[SPEAKER_01]: Oh, Monmurg, your fate's in their hands,
+[SPEAKER_01]: But it's their own folly that tightens the bands.

@@ -1,0 +1,584 @@
+1
+00:00:00,872 --> 00:00:01,732
+[SPEAKER_00]: You guys are discussing.
+
+2
+00:00:01,772 --> 00:00:02,893
+[SPEAKER_00]: With the captain?
+
+3
+00:00:02,913 --> 00:00:04,474
+[SPEAKER_00]: You are together right now.
+
+4
+00:00:04,494 --> 00:00:05,415
+[SPEAKER_00]: Just the two of us.
+
+5
+00:00:05,455 --> 00:00:07,076
+[SPEAKER_00]: Just the two of us.
+
+6
+00:00:07,096 --> 00:00:08,217
+[SPEAKER_00]: Okay.
+
+7
+00:00:08,237 --> 00:00:08,677
+[SPEAKER_00]: So we need to know
+
+8
+00:00:30,279 --> 00:00:33,801
+[SPEAKER_02]: How many hobgoblins at least landed ashore?
+
+9
+00:00:34,241 --> 00:00:39,843
+[SPEAKER_02]: And if the captain is vague on that, it's going to cause me to have some trust problems with him.
+
+10
+00:00:40,103 --> 00:00:42,965
+[SPEAKER_02]: I mean, the captain's holed up here, so that's a good sign.
+
+11
+00:00:44,305 --> 00:00:51,168
+[SPEAKER_02]: He's not obviously with the hobgoblins, but we need to know about the number of their forces.
+
+12
+00:00:51,548 --> 00:00:52,989
+[SPEAKER_02]: Why do you think he's with the hobgoblins?
+
+13
+00:00:53,169 --> 00:00:53,529
+[SPEAKER_02]: No, no.
+
+14
+00:00:54,170 --> 00:00:55,470
+[SPEAKER_02]: Well, I suspect everybody.
+
+15
+00:00:55,970 --> 00:00:56,371
+[SPEAKER_02]: Don't you?
+
+16
+00:00:59,359 --> 00:01:03,421
+[SPEAKER_02]: I mean, Lord Fairwind's not exactly off the hook.
+
+17
+00:01:04,142 --> 00:01:07,764
+[SPEAKER_01]: Well, I've been bleeding for the past 24 hours, so sorry.
+
+18
+00:01:07,784 --> 00:01:11,726
+[SPEAKER_01]: That hasn't been on my mind, but... Yeah, no, it's okay.
+
+19
+00:01:12,246 --> 00:01:15,108
+[SPEAKER_02]: You were just asking me why I would suspect him to someone.
+
+20
+00:01:18,218 --> 00:01:19,839
+[SPEAKER_00]: Now the captain is not Fairwind.
+
+21
+00:01:20,339 --> 00:01:21,719
+[SPEAKER_00]: No, I know that.
+
+22
+00:01:21,779 --> 00:01:25,880
+[SPEAKER_02]: Fairwind's maybe held up.
+
+23
+00:01:26,120 --> 00:01:31,681
+[SPEAKER_02]: If he's still on our side, he's held up either captive or trying to defend himself in the inner sanctuary.
+
+24
+00:01:31,701 --> 00:01:32,201
+[SPEAKER_00]: Okay, so...
+
+25
+00:01:40,846 --> 00:01:50,549
+[SPEAKER_02]: If Gouge and his company comes, his companions come, I can guarantee you we're gonna be moving on the keep tonight.
+
+26
+00:01:51,890 --> 00:02:02,373
+[SPEAKER_02]: So if Gouge can make it here, which I have no reason to believe that he's not going to be, will you be able to, are you good enough to move on the castle tonight?
+
+27
+00:02:04,373 --> 00:02:04,794
+[SPEAKER_02]: Yeah.
+
+28
+00:02:05,474 --> 00:02:05,794
+[SPEAKER_02]: Okay.
+
+29
+00:02:06,874 --> 00:02:08,175
+[SPEAKER_02]: Do you have anything that
+
+30
+00:02:13,238 --> 00:02:22,061
+[SPEAKER_02]: For protection, do you have anything, like, any special abilities or any magical devices that will, like, help keep you secure and safe?
+
+31
+00:02:22,941 --> 00:02:24,881
+[SPEAKER_02]: I mean, none of that's a guarantee, of course.
+
+32
+00:02:26,822 --> 00:02:29,263
+[SPEAKER_02]: I actually don't think so.
+
+33
+00:02:31,723 --> 00:02:35,744
+[SPEAKER_02]: Okay, I just need to know so that I can think if there's anything that I can do to help with that.
+
+34
+00:02:36,425 --> 00:02:37,405
+[SPEAKER_02]: But, um...
+
+35
+00:02:39,172 --> 00:02:40,653
+[SPEAKER_02]: Certainly you don't have to tell me.
+
+36
+00:02:40,693 --> 00:02:42,314
+[SPEAKER_02]: You don't have to tell me.
+
+37
+00:02:42,354 --> 00:02:46,618
+[SPEAKER_02]: You don't have to tell me everything.
+
+38
+00:02:50,340 --> 00:02:58,066
+[SPEAKER_02]: Were you given any specific instructions from Jion or Lord Jamis, Prince Jion or Lord Jamis regarding this mission?
+
+39
+00:02:58,086 --> 00:02:59,247
+[SPEAKER_01]: You know everything.
+
+40
+00:02:59,267 --> 00:03:02,870
+[SPEAKER_01]: We were supposed to come here to make sure that everything was okay.
+
+41
+00:03:02,910 --> 00:03:06,212
+[SPEAKER_01]: I'm a representation of Jion himself.
+
+42
+00:03:06,573 --> 00:03:06,913
+[SPEAKER_02]: Okay.
+
+43
+00:03:08,670 --> 00:03:22,857
+[SPEAKER_02]: To the DM, is there, do I have an assessment on like, is the garrison versus our 20 marines, or are our 20 marines maybe a step up in skill level or armament over garrison, or are they virtually?
+
+44
+00:03:22,957 --> 00:03:23,778
+[SPEAKER_00]: No, they're the same.
+
+45
+00:03:23,838 --> 00:03:25,559
+[SPEAKER_00]: I mean really they are the same.
+
+46
+00:03:25,719 --> 00:03:26,419
+[SPEAKER_00]: Armed the same.
+
+47
+00:03:28,220 --> 00:03:28,880
+[SPEAKER_00]: These are marines.
+
+48
+00:03:29,120 --> 00:03:31,181
+[SPEAKER_00]: Gotcha.
+
+49
+00:03:31,322 --> 00:03:35,784
+[SPEAKER_02]: But other than the fact that maybe the 20 marines would fall more directly under his control.
+
+50
+00:03:36,464 --> 00:03:36,784
+[SPEAKER_02]: Right?
+
+51
+00:03:36,824 --> 00:03:43,329
+[SPEAKER_00]: Because now the captain's... No, I wouldn't say that.
+
+52
+00:03:43,349 --> 00:03:51,856
+[SPEAKER_00]: I think that the situation is still the same, which is the captain is the officer.
+
+53
+00:03:52,456 --> 00:03:55,038
+[SPEAKER_00]: Right, but he's a Fairwind and his troops.
+
+54
+00:03:56,719 --> 00:04:00,862
+[SPEAKER_00]: True, but if Fairwind was here, he would obviously be the guy in command.
+
+55
+00:04:00,922 --> 00:04:01,383
+[SPEAKER_00]: Of course.
+
+56
+00:04:01,923 --> 00:04:03,985
+[SPEAKER_00]: The captain's the guy in command, but Paul...
+
+57
+00:04:07,638 --> 00:04:11,564
+[SPEAKER_00]: He has the ability to influence things greatly.
+
+58
+00:04:11,965 --> 00:04:14,809
+[SPEAKER_00]: Now, how do you put it?
+
+59
+00:04:14,910 --> 00:04:15,711
+[SPEAKER_00]: How do I put this?
+
+60
+00:04:17,213 --> 00:04:17,914
+[SPEAKER_00]: It would be like...
+
+61
+00:04:19,957 --> 00:04:22,978
+[SPEAKER_00]: A general and the vice president of the United States hanging out.
+
+62
+00:04:23,738 --> 00:04:30,099
+[SPEAKER_00]: The vice president would basically say, you're in command, but I want you to do this.
+
+63
+00:04:30,219 --> 00:04:34,040
+[SPEAKER_00]: You figure out the details, but this is how we do things.
+
+64
+00:04:34,640 --> 00:04:46,082
+[SPEAKER_02]: So then what we need to know is if we go in, what I'm assuming, what I'm going to assume is that Gow is just going to want to move on to keep, but he's going to want to do it stealthily.
+
+65
+00:04:46,902 --> 00:04:54,784
+[SPEAKER_02]: The question then would be, are we going to go all out and get the captain and the garrison and 170 guys?
+
+66
+00:04:55,224 --> 00:04:57,965
+[SPEAKER_02]: Why don't we ask them?
+
+67
+00:04:58,065 --> 00:05:04,167
+[SPEAKER_02]: Well, we can, but I'm running to spite you first, because you'll ask him, not me.
+
+68
+00:05:04,527 --> 00:05:06,087
+[SPEAKER_02]: You should do most of the talking on this.
+
+69
+00:05:06,427 --> 00:05:08,488
+[SPEAKER_01]: Wait, I thought you were talking.
+
+70
+00:05:09,542 --> 00:05:12,584
+[SPEAKER_01]: Are you communicating to the other group of Marines by the light, right?
+
+71
+00:05:13,004 --> 00:05:19,728
+[SPEAKER_02]: Yeah, they're going to stay and hold that because they're going to, like, warn off any shipping from Monmurg or any of the other sea princes.
+
+72
+00:05:19,768 --> 00:05:21,209
+[SPEAKER_02]: Just so that the same thing doesn't happen.
+
+73
+00:05:21,229 --> 00:05:23,190
+[SPEAKER_02]: They don't just make it into the harbor and get sent.
+
+74
+00:05:24,128 --> 00:05:25,509
+[SPEAKER_01]: Yeah, I mean...
+
+75
+00:05:25,569 --> 00:05:28,691
+[SPEAKER_02]: In 70 of us... Well, we need to secure the helm.
+
+76
+00:05:28,732 --> 00:05:32,755
+[SPEAKER_02]: That's what Lord Jemma said, is that the helm has to be secured.
+
+77
+00:05:33,755 --> 00:05:40,020
+[SPEAKER_02]: We've got the barracks, but without the keep, we're not going to necessarily be able to, like...
+
+78
+00:05:40,040 --> 00:05:42,462
+[SPEAKER_02]: I mean, we can't say we hold the island unless we have the keep.
+
+79
+00:05:43,499 --> 00:05:44,721
+[SPEAKER_02]: So we're going to have to move on the keep.
+
+80
+00:05:44,741 --> 00:05:53,891
+[SPEAKER_02]: We're going to find out from the captain, and we'll ask the captain, but I'm talking to you about this because you kind of need to be the one that's fronting this.
+
+81
+00:05:54,011 --> 00:05:55,373
+[SPEAKER_02]: I mean, like, I don't mind helping out.
+
+82
+00:05:55,393 --> 00:05:55,773
+[SPEAKER_02]: Captain?
+
+83
+00:05:56,114 --> 00:05:56,374
+[SPEAKER_01]: Yeah.
+
+84
+00:05:56,795 --> 00:05:59,157
+[SPEAKER_02]: I mean, haven't you seen how everybody asks?
+
+85
+00:05:59,237 --> 00:06:02,281
+[SPEAKER_02]: Like, every time I start opening my mouth and talking, they're like, who the hell is this?
+
+86
+00:06:02,561 --> 00:06:03,002
+[SPEAKER_01]: Yeah.
+
+87
+00:06:03,482 --> 00:06:04,843
+[SPEAKER_02]: I mean, who the...
+
+88
+00:06:05,284 --> 00:06:10,088
+[SPEAKER_01]: I'm basically one step up above white... To be fair, I asked myself that question when I first finished that room.
+
+89
+00:06:10,449 --> 00:06:11,029
+[SPEAKER_02]: Right, right.
+
+90
+00:06:11,049 --> 00:06:17,555
+[SPEAKER_02]: So, I've got some experience fighting wars, but I'm also trying to not, like, try...
+
+91
+00:06:18,156 --> 00:06:18,376
+[SPEAKER_02]: Die.
+
+92
+00:06:18,456 --> 00:06:19,317
+[SPEAKER_02]: No, it's not about dying.
+
+93
+00:06:19,377 --> 00:06:20,538
+[SPEAKER_02]: I definitely don't want to die.
+
+94
+00:06:21,379 --> 00:06:22,440
+[SPEAKER_02]: It's about...
+
+95
+00:06:23,501 --> 00:06:25,763
+[SPEAKER_02]: This is...
+
+96
+00:06:25,803 --> 00:06:27,885
+[SPEAKER_02]: Your royalty, so... Yeah, I do.
+
+97
+00:06:29,127 --> 00:06:31,849
+[SPEAKER_02]: Yeah, so you need to be doing most of the talking, so we're just talking.
+
+98
+00:06:32,149 --> 00:06:34,410
+[SPEAKER_01]: You're going to be talking about what you're going to be talking about.
+
+99
+00:06:34,430 --> 00:06:36,451
+[SPEAKER_01]: All right, I'll go talk to the captain, bro.
+
+100
+00:06:36,932 --> 00:06:38,653
+[SPEAKER_02]: Okay.
+
+101
+00:06:38,673 --> 00:06:47,338
+[SPEAKER_02]: Okay, so perhaps asking him about assaulting the keep, but after like as more of a distraction.
+
+102
+00:06:48,385 --> 00:06:49,285
+[SPEAKER_02]: I mean, it would still be amazing.
+
+103
+00:06:49,305 --> 00:06:50,066
+[SPEAKER_02]: Should we go over?
+
+104
+00:06:50,806 --> 00:06:54,608
+[SPEAKER_02]: Well, okay, so what I was saying is that Gouge is going to want to infiltrate.
+
+105
+00:06:54,708 --> 00:06:55,668
+[SPEAKER_02]: That's his style.
+
+106
+00:06:56,248 --> 00:07:02,851
+[SPEAKER_02]: He's not going to want to climb a ladder with flaming arrows being shot at his ass.
+
+107
+00:07:02,911 --> 00:07:11,175
+[SPEAKER_02]: He's going to want to go kill a poster and gate guard or have me blow a hole through something and then we'll go in.
+
+108
+00:07:11,995 --> 00:07:12,415
+[SPEAKER_02]: Whatever.
+
+109
+00:07:12,715 --> 00:07:13,596
+[SPEAKER_02]: Or scale a wall.
+
+110
+00:07:13,636 --> 00:07:14,556
+[SPEAKER_02]: He's gonna scale a wall.
+
+111
+00:07:15,536 --> 00:07:22,659
+[SPEAKER_02]: So that would probably be me, you, him, and whoever he's calling henchmen these days.
+
+112
+00:07:22,819 --> 00:07:24,759
+[SPEAKER_02]: You know, his crew.
+
+113
+00:07:25,780 --> 00:07:35,263
+[SPEAKER_02]: But if we can get the captain, if we go all in on this, certainly while we're doing whatever we need to be doing, that could either be rescuing Leonard Fairwind,
+
+114
+00:07:36,285 --> 00:07:38,026
+[SPEAKER_02]: Or finishing Loric Fairwind.
+
+115
+00:07:38,327 --> 00:07:39,727
+[SPEAKER_02]: Do you understand what I mean?
+
+116
+00:07:40,068 --> 00:07:41,148
+[SPEAKER_02]: Yeah, I understand your name.
+
+117
+00:07:41,168 --> 00:07:41,289
+[SPEAKER_02]: Okay.
+
+118
+00:07:42,009 --> 00:07:45,071
+[SPEAKER_02]: So, we'd still need to take this island.
+
+119
+00:07:46,852 --> 00:07:47,433
+[SPEAKER_01]: You know, the keep.
+
+120
+00:07:47,693 --> 00:07:47,873
+[SPEAKER_01]: Yeah.
+
+121
+00:07:48,674 --> 00:07:53,297
+[SPEAKER_02]: So, I don't know, do you feel like going all in is a thing, or do you feel like hunkering down?
+
+122
+00:07:53,860 --> 00:07:56,964
+[SPEAKER_02]: I don't know what the food situation is or the fresh water situation.
+
+123
+00:07:56,984 --> 00:07:59,827
+[SPEAKER_02]: I'm pretty sure the captain said we had like plenty of food.
+
+124
+00:08:00,328 --> 00:08:00,828
+[SPEAKER_01]: I think he did.
+
+125
+00:08:00,848 --> 00:08:01,930
+[SPEAKER_02]: Yeah, for weeks.
+
+126
+00:08:02,110 --> 00:08:03,291
+[SPEAKER_02]: And water too, I assume.
+
+127
+00:08:03,472 --> 00:08:03,852
+[SPEAKER_01]: Yeah.
+
+128
+00:08:03,952 --> 00:08:13,724
+[SPEAKER_01]: I mean, worst case scenario, then if we all just die or we all just get completely repelled, then we just post back up here in the barracks and held out for a week if we can.
+
+129
+00:08:14,498 --> 00:08:15,820
+[SPEAKER_01]: But yeah, I say we go all the way.
+
+130
+00:08:15,840 --> 00:08:18,142
+[SPEAKER_02]: Well, we have no direct way unless ships come.
+
+131
+00:08:18,162 --> 00:08:19,564
+[SPEAKER_02]: Now I'm pretty sure Lord Jamis...
+
+132
+00:08:19,584 --> 00:08:20,485
+[SPEAKER_02]: They're gonna say like...
+
+133
+00:08:20,705 --> 00:08:24,329
+[SPEAKER_02]: They're probably gonna send another ship in like at least two or three days.
+
+134
+00:08:24,489 --> 00:08:27,332
+[SPEAKER_01]: They'll probably send the ship within two days minimum.
+
+135
+00:08:27,352 --> 00:08:28,373
+[SPEAKER_01]: That's the earliest I can think.
+
+136
+00:08:28,493 --> 00:08:29,694
+[SPEAKER_02]: That's what I would imagine.
+
+137
+00:08:29,714 --> 00:08:30,375
+[SPEAKER_02]: Something like that.
+
+138
+00:08:30,555 --> 00:08:31,656
+[SPEAKER_02]: Two, three at the outside.
+
+139
+00:08:32,657 --> 00:08:38,241
+[SPEAKER_01]: But, with the sahaugin being involved... That makes it a bit more scary.
+
+140
+00:08:38,341 --> 00:08:44,645
+[SPEAKER_02]: Yeah, and I don't know that Gouge's crew of the 30 guys can hold out if the sahaugin decide to solve that.
+
+141
+00:08:44,665 --> 00:08:48,448
+[SPEAKER_02]: They may not like it, but it just depends.
+
+142
+00:08:48,468 --> 00:08:50,689
+[SPEAKER_02]: I don't know how many hobgoblins there are in this island.
+
+143
+00:08:51,530 --> 00:08:53,151
+[SPEAKER_00]: We should ask the captain.
+
+144
+00:08:53,271 --> 00:08:55,052
+[SPEAKER_02]: Yeah, let's talk to the captain.
+
+145
+00:08:55,933 --> 00:08:58,795
+[SPEAKER_00]: Okay, so, the office that you're in...
+
+146
+00:08:59,827 --> 00:09:03,151
+[SPEAKER_00]: You ask for the captain to be summoned, and he comes.
+

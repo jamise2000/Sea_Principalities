@@ -1,0 +1,5 @@
+# Cast for Back_ground_overview_Monmurg_characters_2nd_Wealsun
+# Expected voices: 3
+SPEAKER_00: Tyrus
+SPEAKER_01: Folsom
+SPEAKER_02: DM

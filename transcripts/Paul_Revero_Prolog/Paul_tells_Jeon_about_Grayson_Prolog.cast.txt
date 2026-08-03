@@ -1,0 +1,4 @@
+# Cast for Paul_tells_Jeon_about_Grayson_Prolog
+# Expected voices: 2
+SPEAKER_00: Paul
+SPEAKER_01: DM

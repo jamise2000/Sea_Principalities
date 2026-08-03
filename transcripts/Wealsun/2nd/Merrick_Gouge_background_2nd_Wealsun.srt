@@ -1,0 +1,172 @@
+1
+00:00:00,358 --> 00:00:10,142
+[SPEAKER_00]: Second Wealsun in the city of Monmurg, Merrick and Gouge interacting with Lord Jamis.
+
+2
+00:00:12,884 --> 00:00:18,506
+[SPEAKER_00]: It is in certain times in Monmurg a city perched precariously on the edge of prosperity and ruin.
+
+3
+00:00:19,346 --> 00:00:29,331
+[SPEAKER_00]: It was the month of Wealsun in the 579th common year of Keoland's calendar and the air was thick with the scent of desperation.
+
+4
+00:00:30,537 --> 00:00:39,902
+[SPEAKER_00]: Monmurg, the jewel of the Azure Sea, had long thrived on the lifeblood trade, its veins pulsing with the wealth of nations near and far.
+
+5
+00:00:40,983 --> 00:00:47,447
+[SPEAKER_00]: Yet now the very arteries that sustained it were severed, and the city found itself gasping for survival.
+
+6
+00:00:49,248 --> 00:00:59,073
+[SPEAKER_00]: In the past, Monmurg's formidable navy had been the guardian of its prosperity, its ships slicing through the azure waves with the grace and power of a predator.
+
+7
+00:01:00,014 --> 00:01:12,240
+[SPEAKER_00]: The sea lanes were its domain, and the nations of Onwal, Irongate, and beyond paid homage in the form of trade, their vessels laden with riches destined for Monmurg's bustling markets.
+
+8
+00:01:13,491 --> 00:01:24,665
+[SPEAKER_00]: From the fertile lands of the Yonery came cheeses and meats, while the duchy of Berthof sent grains and rice, the bounty of their vast plantations.
+
+9
+00:01:25,986 --> 00:01:32,374
+[SPEAKER_00]: The city was a hub of commerce, its docks a cacophony of voices and a clatter of goods exchanged.
+
+10
+00:01:33,707 --> 00:01:35,288
+[SPEAKER_00]: But now the tides had turned.
+
+11
+00:01:35,848 --> 00:01:45,813
+[SPEAKER_00]: Keoland, a powerful rival, had openly declared war, casting a shadow over the sea principalities as the Keog Navy blockaded the trade lines.
+
+12
+00:01:47,094 --> 00:01:58,920
+[SPEAKER_00]: The blockade was a noose tighten around Monmurg's neck, and the once bustling trade routes lay silent, their ships diverted to Red Shore by the cunning Duke of Gradsul.
+
+13
+00:02:00,505 --> 00:02:10,649
+[SPEAKER_00]: His navy, though inferior in might, had somehow outmaneuvered the Monmurian fleet, leaving the city bewildered and beleaguered.
+
+14
+00:02:11,950 --> 00:02:22,875
+[SPEAKER_00]: Whispers of supernatural forces and treacherous storms swirled through the taverns and marketplaces as the people of Monmurg searched for answers in this chaos.
+
+15
+00:02:24,282 --> 00:02:25,503
+[SPEAKER_00]: The situation was dire.
+
+16
+00:02:26,144 --> 00:02:31,969
+[SPEAKER_00]: The traders who would brave the blockade found themselves trapped in a city teetering on the brink of famine.
+
+17
+00:02:32,770 --> 00:02:39,956
+[SPEAKER_00]: The foreign district was a tinderbox of unrest, its inhabitants driven to desperation by hunger and fear.
+
+18
+00:02:41,098 --> 00:02:50,186
+[SPEAKER_00]: Lord Jamis, tasked with maintaining order, found his patrols stretched thin, their presence a mere bandage on this festering moon.
+
+19
+00:02:52,371 --> 00:02:56,294
+[SPEAKER_00]: As if the blockade were not enough, the specter of piracy loomed.
+
+20
+00:02:57,775 --> 00:03:10,725
+[SPEAKER_00]: The Scarlet Rat, a pirate of fearsome repute, had struck at Portovin, leaving it in ruins and its warehouses, once full of supplies destined for Monmurg, reduced to ash.
+
+21
+00:03:11,940 --> 00:03:14,942
+[SPEAKER_00]: The town, once thought secure, lay in tatters.
+
+22
+00:03:15,683 --> 00:03:23,028
+[SPEAKER_00]: Monmurg was under siege, its lifeline severed, and the specter of starvation looming large.
+
+23
+00:03:24,349 --> 00:03:26,951
+[SPEAKER_00]: The political landscape was no less tumultuous.
+
+24
+00:03:27,531 --> 00:03:37,459
+[SPEAKER_00]: The Prince of Port Toli, a key ally, had turned a deaf ear to Monmurg's plight, his promises of aid as empty as the city's granaries.
+
+25
+00:03:39,740 --> 00:03:47,207
+[SPEAKER_00]: Rumors of discord among the sea princes, fooled by the contentious slave trade, added to the city's woes.
+
+26
+00:03:47,987 --> 00:03:55,654
+[SPEAKER_00]: The Prince of Monmurg, caught in a web of intrigue and betrayal, faced a future as uncertain as the storm-trough seas.
+
+27
+00:03:56,965 --> 00:04:01,806
+[SPEAKER_00]: In the midst of this turmoil, Monmurg stood at a crossroads.
+
+28
+00:04:02,386 --> 00:04:08,328
+[SPEAKER_00]: The city, once a beacon of trade and prosperity, now faced a future shrouded in uncertainty.
+
+29
+00:04:08,808 --> 00:04:14,229
+[SPEAKER_00]: Its people, resilient and resourceful, clung to hope as they awaited the turning of the tide.
+
+30
+00:04:14,970 --> 00:04:24,652
+[SPEAKER_00]: For in Monmurg, as in all things, the wheel of fortune was ever turning, and the dawn of a new era could lay just beyond the horizon.
+
+31
+00:04:27,715 --> 00:04:30,398
+[SPEAKER_00]: Any questions about that?
+
+32
+00:04:30,438 --> 00:04:32,459
+[SPEAKER_02]: Monmurg is in complete disarray.
+
+33
+00:04:32,479 --> 00:04:35,222
+[SPEAKER_02]: I'm just trying to summarize what I got in my head.
+
+34
+00:04:37,824 --> 00:04:51,277
+[SPEAKER_02]: Their fleet was beaten or failed to stop through maybe supernatural forces that are whispers of.
+
+35
+00:04:52,418 --> 00:04:53,499
+[SPEAKER_02]: People are starving.
+
+36
+00:04:55,261 --> 00:05:02,171
+[SPEAKER_00]: So what's strange is the fleets of Monmurg in the Outer Isles, for whatever reason, are not going forth on patrols.
+
+37
+00:05:02,852 --> 00:05:04,574
+[SPEAKER_01]: They won't leave the docks.
+
+38
+00:05:05,055 --> 00:05:07,318
+[SPEAKER_01]: So people are very, very...
+
+39
+00:05:11,525 --> 00:05:15,267
+[SPEAKER_01]: And rumors are starting as to why this is happening.
+
+40
+00:05:15,387 --> 00:05:22,290
+[SPEAKER_01]: There have been defeats against Keoland, but for some reason, the Commodores aren't even trying to bring the battle at this point.
+
+41
+00:05:22,870 --> 00:05:32,975
+[SPEAKER_01]: And the few traders that manage to get through the blockade bring only a little bit of the goods, a trickle, what they usually do to the sea at this time of the year.
+
+42
+00:05:34,135 --> 00:05:36,857
+[SPEAKER_01]: As the summer goes on, this will only get worse.
+
+43
+00:05:41,034 --> 00:05:41,318
+[SPEAKER_01]: Okay.
+

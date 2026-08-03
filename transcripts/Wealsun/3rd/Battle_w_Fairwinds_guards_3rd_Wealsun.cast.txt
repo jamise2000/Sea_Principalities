@@ -1,0 +1,9 @@
+# Cast for Battle_w_Fairwinds_guards_3rd_Wealsun
+# Expected voices: 7. SPEAKER_03 and SPEAKER_06 were swapped in the previous guess — corrected below.
+SPEAKER_00: Jude (confirmed — "Am I 120 feet? I'd like to see if I can firebolt the same guy...", matching his cleaned line)
+SPEAKER_01: Tyrus (confirmed — "I get to go 60 feet on this?... we'll kill him if you don't give us safe passage", matching his cleaned lines)
+SPEAKER_02: DM (dominant, solid — narration and rules resolution throughout)
+SPEAKER_03: Merrick (confirmed — "I'm all the way in the back, so I don't really know what I can do" and "how much time has gone by since... the last battle with the Toli", matching his cleaned lines) — NOT Paul, correcting the previous guess
+SPEAKER_04: Folsom (confirmed — "I'll give it to Jude" and grapples Fairwind, matching his cleaned lines)
+SPEAKER_05: Gouge (confirmed — calls his own initiative roll "18... with my pluses", matching his cleaned line)
+SPEAKER_06: Paul (confirmed — the raw explicitly marks the turn transition "Gouge is gone, now we have Paul Ribeiro" right before this tag performs the acrobatics-around-Folsom move, gets kicked by Fairwind, and falls into the water — the cleaned transcript's reconstruction mistakenly folds this sequence into Gouge's dialogue, but the raw shows it's Paul's turn) — NOT Merrick, correcting the previous guess

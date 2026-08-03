@@ -1,0 +1,201 @@
+[SPEAKER_00]: Evening of the third of Wealsun. Merrick and Tyrus return to find Gouge and Folsom sitting together — Folsom looking a little sheepish as they walk up.
+[SPEAKER_01]: So, what did you guys learn? Do we need to go back to the island?
+[SPEAKER_02]: Before any of that — I was brought here specifically to keep this one's mouth shut.
+[SPEAKER_03]: What did I do? I just walked through the door—
+[SPEAKER_02]: You were spilling the most horrendous bullshit I've ever heard.
+[SPEAKER_03]: Great voice, though.
+[SPEAKER_02]: Great voice, I'll give you that — but do you not know how to read a room?
+[SPEAKER_03]: I can't help it.
+[SPEAKER_02]: You're not aware of that, clearly. You did great helping with the ship, building things — you're a good hand. But right now, I don't know how I feel about you.
+[SPEAKER_03]: What's your issue, exactly — what's your move here?
+[SPEAKER_02]: My move is, I know you made a damn good song. But I also know, without a doubt, that Monmurg is struggling, and that song would not play well in a room full of off-duty Marines.
+[SPEAKER_03]: Maybe it would've gone over better elsewhere.
+[SPEAKER_02]: Maybe know your crowd next time. I respect the artistry — I don't respect the timing. But anyway — when it comes to what we saw and learned on Helm Island, you need to stay completely silent. There were no barrels. There were no political revelations. I don't even know if you got off the boat, as far as anyone else needs to know.
+[SPEAKER_03]: We did get a boat — I didn't actually spill anything specific, if you think about it.
+[SPEAKER_02]: I'm just saying, there's foul play afloat here, and you need to watch what comes out of your mouth.
+[SPEAKER_01]: Maybe run your lyrics by an advisor next time. That's all I'll say about it.
+[SPEAKER_02]: Don't run them by me — you hit the nail on the head with that one, kid, just at the wrong moment.
+[SPEAKER_01]: Well, I did some decent damage control in there after you left — they didn't even seem that stunned by it in the end.
+[SPEAKER_02]: Maybe just don't go back to that barracks for a while — would be a good thing for you. Marines are simple creatures — feed them enough drink, they forget things fast.
+[SPEAKER_03]: You guys should know by now — yes, I'm privy to all this business, but my mouth is shut because I'm smarter than that. This isn't a conversation you need to have with me. I'm not policing what you're doing.
+[SPEAKER_02]: So — what about the barrels, everything we found out there?
+[SPEAKER_03]: I reported what I needed to, I'm done with it.
+[SPEAKER_01]: Nobody else heard anything from us about any of that — we said we got stranded, made a makeshift raft to get separated from the group, and sailed back on our own.
+[SPEAKER_02]: What's the cover story exactly?
+[SPEAKER_01]: Supply run, the ship got wrecked at the docks, we had to improvise a way back.
+[SPEAKER_02]: That's all anyone else knows?
+[SPEAKER_01]: That's all we gave Owen. We didn't tell him about the rest — just that hopefully the protective spell gets restored.
+[SPEAKER_04]: [arriving] I did mention to Owen, just so you know—
+[SPEAKER_02]: I don't want you saying anything to Owen.
+[SPEAKER_04]: We just said he—
+[SPEAKER_02]: What the fuck, Owen?
+[SPEAKER_04]: Oh, he's cool — Owen wants to give us a chance. My cousin, Owen.
+[SPEAKER_02]: Okay.
+[SPEAKER_04]: Did he ask you about the job?
+[SPEAKER_01]: That's what I overheard — I was offered a job by Owen. He asked me to talk to you, Gouge, about it.
+[SPEAKER_02]: From Owen?
+[SPEAKER_01]: From Owen.
+[SPEAKER_02]: Does Owen know who I am?
+[SPEAKER_04]: Owen Black — no, he doesn't know who you actually are. I think he probably only knows your friend here a bit better.
+[SPEAKER_02]: What's Owen's position in all this?
+[SPEAKER_04]: He's been smuggling for Monmurg's benefit for the last few years — his real motivation is coin, sure, but he does it in a way that benefits our people. Food, mostly, right now — from Red Shore to Monmurg.
+[SPEAKER_02]: [tracing the route] So, Red Shore to Monmurg, right there.
+[SPEAKER_04]: Right.
+[SPEAKER_02]: And that's where we already were.
+[SPEAKER_04]: Right.
+[SPEAKER_02]: Did he tell you how he hurt his hand?
+[SPEAKER_04]: He mentioned it — said he was attacked by hobgoblins on his way back.
+[SPEAKER_02]: That's it?
+[SPEAKER_04]: Well, the actual reason he hurt it is — he was kidnapped.
+[SPEAKER_02]: By the wizard? The Scarlet Rat?
+[SPEAKER_04]: No — well, he was attacked by the Scarlet Rat at one point, separately. [trying to recall the exact sequence] I might need to actually concentrate to get the story straight — he didn't go into excessive detail, but the gist is, he was taken captive in Saltmarsh, then managed to make his way to port — Seton, I think it was.
+[SPEAKER_02]: Sounds like he's smuggling stuff in to help us, and didn't mention the full story because he didn't want military involvement.
+[SPEAKER_04]: That tracks — he's smuggling to keep the city alive, basically.
+[SPEAKER_02]: But who the hell — my main concern is, why does my name come up in any of this?
+[SPEAKER_04]: I didn't bring your name up — he asked who you were, since you're my cousin's contact, I guess.
+[SPEAKER_02]: How does he know who I am?
+[SPEAKER_04]: No idea — seems like you've got a bit of a reputation around here.
+[SPEAKER_02]: Wouldn't make my head any bigger, but I'd rather know. If you talk to him again, I'd like to understand why he knows me specifically. That said, I do support what he's doing — if this brings more food and supplies into the city while we figure out the bigger picture, I'm fully behind it. I might have to report this and get it cleared properly, though — I don't like that he knows who I am while I don't know him. Just letting you all know that. Not saying it's necessarily a problem, but it's something I want clarity on.
+[SPEAKER_01]: Good to know.
+[SPEAKER_04]: We hear you.
+[SPEAKER_01]: What I need to figure out is whether I'm actually going with this guy — because that means taking leave from the Marines to do it. Are we really taking orders from some smuggler now?
+[SPEAKER_02]: I'm not saying take orders from anybody — but right now, I do take certain orders, from certain people.
+[SPEAKER_01]: What do you mean, leaving the Marines to do this?
+[SPEAKER_02]: I mean exactly that — you'd need a leave of absence.
+[SPEAKER_01]: I'm not doing this alone, that's for sure.
+[SPEAKER_02]: Sure — that's understandable. It's possible, though, if you talk to Jamis about it directly — he might let you take a crew and run this as reconnaissance. Getting eyes on Red Shore would be valuable on its own. He's used people this way before — agents posing as smugglers, that sort of arrangement.
+[SPEAKER_02]: I'm curious to see what doesn't get blocked, honestly, given what contacts he has.
+[SPEAKER_04]: You could probably work it so Tyrus takes leave, brings Folsom along for a few days — might not be such a bad idea.
+[SPEAKER_02]: [reassuring] Tyrus, don't worry about what the military brass might think — I think it'd genuinely be good for all of us to get out of here for a few days. Especially you.
+[SPEAKER_02]: But — what did you two actually learn from your briefing with Jamis? Anything you can share?
+[SPEAKER_01]: I told him everything we saw, what we know.
+[SPEAKER_02]: I'm curious about his reaction.
+[SPEAKER_01]: Have you met with Jamis yet?
+[SPEAKER_02]: No — only from a distance. Has he met with Jamis?
+[SPEAKER_01]: Of course.
+[SPEAKER_02]: Was Jamis shocked by any of it?
+[SPEAKER_01]: Hard to say — he's difficult to read. Let's just say there's clearly more work to be done here, politics and military matters aside.
+[SPEAKER_02]: I think it might actually be in everyone's best interest to take this job with Owen — the military angle can stay quiet, you don't need to worry about the leave of absence complicating things. This could work out in our favor long-term, and be good for the city.
+[SPEAKER_01]: Do I need to go through my captain, or can I go straight to Jamis and sort it out that way?
+[SPEAKER_02]: I'd say go straight to Jamis, sort it all out with him directly.
+[SPEAKER_01]: Okay. Well — before we go any further, I need to know what you and your little buddy here actually learned from Fairwind.
+[SPEAKER_02]: [to Tyrus] As a matter of fact, I was about to bring that up myself — convenient timing.
+[SPEAKER_01]: You're treading on real thin ice with me right now.
+[SPEAKER_02]: I hear you — I'm not trying to step on anyone's toes here.
+[SPEAKER_01]: Continue, then.
+[SPEAKER_02]: So — Fairwind. I'll tell you exactly what he told me, verbatim, and I want to be clear I'm neutral on whether any of it's actually true.
+[SPEAKER_01]: Do we know if he had him under a charm spell at the time?
+[SPEAKER_02]: Yeah, there was a charm spell involved.
+[SPEAKER_01]: Could that make him say things that aren't true?
+[SPEAKER_02]: A charm spell works more like talking to a trusted friend — your friend can still lie to you, but there's a good chance Fairwind told the truth as he understood it. None of us actually know Fairwind's general honesty — is he lawful good, neutral, chaotic — he could easily slant things to benefit himself regardless.
+[SPEAKER_01]: So we shouldn't dismiss what he said outright — it might be true.
+[SPEAKER_02]: Fairwind told me about — wait, let me get the names straight. There's Prince Jeon, and there's Lord Jamis.
+[SPEAKER_01]: Right.
+[SPEAKER_02]: Prince Jeon is — Paul's uncle.
+[SPEAKER_01]: Right, Paul.
+[SPEAKER_02]: Lord Jamis was apparently the subject of a lot of what Fairwind was discussing — his alignments, his ties to everything that's been happening.
+[SPEAKER_01]: Do we believe any of it?
+[SPEAKER_02]: Wait — let me get this in order. Fairwind was talking about Lord Jamis's ties, specifically. [reading from notes] Everyone knows Lady Jamis as well — her brother, according to Fairwind, is Zafar Azane, who works for the Duke of Gradsul and runs the Office of Forbidden Magic.
+[SPEAKER_01]: Not a great look, given everything happening right now.
+[SPEAKER_02]: The Duke of Gradsul is the one blockading Monmurg.
+[SPEAKER_01]: Let me make sure I've got this straight — write it down properly.
+[SPEAKER_02]: Here's exactly what I wrote. The Duke of Gradsul is the traditional enemy of the sea principalities — one of his ancestors, Lucian the Fourth, attacked the sea principalities and died at the Siege of Westkeep. The Duke's line periodically produces the King of Keoland, and whenever that happens, Keoland tends to go to war with the sea principalities. So the Duke's bloodline is essentially the principalities' oldest enemy.
+[SPEAKER_01]: So who's in league with the Duke right now, specifically?
+[SPEAKER_02]: His brother-in-law — Lady Jamis's brother, Zafar Azane.
+[SPEAKER_01]: Hold on — Lord Jamis's wife's brother is Zafar Azane, who runs the Duke's Office of Forbidden Magic?
+[SPEAKER_02]: That's right.
+[SPEAKER_01]: That's... not great.
+[SPEAKER_02]: Works directly for the Duke, runs the Office of Forbidden Magic — could even be close to the Duke's own inner circle, for all we know.
+[SPEAKER_01]: So — given all this — are your suspicions shifting? From Paul and Prince Jeon, down to Lord Jamis himself?
+[SPEAKER_02]: Let's be honest, I don't think any of us really know what's going on for certain.
+[SPEAKER_01]: That's fair.
+[SPEAKER_02]: But I think if Jamis asks us anything directly, we say nothing about this particular thread.
+[SPEAKER_01]: What you're telling me right now — if there's real suspicion pointed at Jamis, you're treading on seriously thin ice with me. My loyalty runs through Jamis, but my true loyalty is to Monmurg itself. I'm not saying Jamis is necessarily complicit, or pulling strings behind everything — I'm just saying, what Fairwind described sounds like a web of connections that all seem to lead back toward him, even if unintentionally.
+[SPEAKER_02]: Lord Jamis, Lady Jamis — and we all know she works some kind of influence behind the scenes.
+[SPEAKER_01]: Quite the connection, or just coincidence?
+[SPEAKER_02]: I don't believe in pure coincidence with something like this.
+[SPEAKER_01]: And Jamis told me himself he doesn't keep close friends — so I'm not going to bring any of this up with him directly regarding what's actually happened.
+[SPEAKER_02]: I think the best course of action is to take the job with Owen. I can tell Jamis we're running reconnaissance — easy enough. Owen doesn't need to know we're doing recon for the crown at all; he can just think we've stepped away from military duty for personal reasons. Probably the safest thing for him to believe.
+[SPEAKER_01]: Tired of the politics, whatever it may be — just looking out for ourselves and the city.
+[SPEAKER_02]: Exactly — best interest going forward, but it seems like the fastest, cleanest way to handle this.
+[SPEAKER_02]: Like I said, especially with Jamis — I don't think you should bring any of this up to him directly.
+[SPEAKER_01]: This is a little shocking to me, honestly, but—
+[SPEAKER_02]: Obviously, if I've got to play the part of someone keeping an eye on you all for him, that's the part I'll play. But I'm not going to distrust what you're doing just because of what you've told me. And, obviously, I take it with a grain of salt — this is coming from the same man who tied himself up to fake being a hostage. Nobody outside this group knows any of this — that's how much trust we're putting in Paul's account right now.
+[SPEAKER_01]: Paul?
+[SPEAKER_02]: He was pretty heated about it — young, genuine emotion, which makes me inclined to believe him, unless he's that good an actor.
+[SPEAKER_01]: I don't think Paul's in on anything.
+[SPEAKER_02]: Jamis could be playable too, in all this. Jamis sent me to talk to Owen discreetly, to learn more about Red Shore.
+[SPEAKER_01]: Sounds like Owen's heading back there anyway.
+[SPEAKER_02]: He is — so us going to Red Shore might reveal exactly why Jamis wanted that information in the first place.
+[SPEAKER_01]: That's where everything being blockaded is actually ending up.
+[SPEAKER_02]: Right. And if, in the meantime, we can help get supplies flowing to the people here, that eases tensions too — feels like a two-birds situation.
+[SPEAKER_01]: Agreed. And if you talk to Jamis about any of this — about me being involved going forward—
+[SPEAKER_02]: I won't mention you specifically. As far as I know, he's cut me loose on this end — I did my job, got paid, had a drink in his office, and walked out. That's the last contact I've had.
+[SPEAKER_01]: I want to stay on his good side — have a drink for me when you see him next.
+[SPEAKER_02]: For the most part, I'm off the hook at this point, unless you need me pulled back in — which I don't think you should do unless necessary. Depends on whether you all need me deeper in this, since my suspicions are rising too, and I want to make sure things check out.
+[SPEAKER_01]: I think you'd be a great asset on a journey with Owen — and actually, he did request that I run this job by you specifically, try to get you involved.
+[SPEAKER_02]: I'd actually like to have a meeting with him directly, then.
+[SPEAKER_01]: You can arrange that.
+[SPEAKER_02]: I understand — I just don't like people knowing about me without my consent.
+[SPEAKER_01]: Sure.
+[SPEAKER_02]: Folsom — count me in. You're coming on this job too.
+[SPEAKER_03]: Yes?
+[SPEAKER_02]: You need to get your ass out of Monmurg for a bit, and I need a break from that mouth of yours for a while.
+[SPEAKER_01]: I was going to bring him along anyway.
+[SPEAKER_02]: Let's go, then — all of us.
+[SPEAKER_03]: Wherever Tyrus goes, I go.
+[SPEAKER_02]: Well, Tyrus, I trust you'll have a good time on this one.
+[SPEAKER_01]: Oh, yeah.
+[SPEAKER_02]: Maybe rein him in a little, though — and no booze for him for a while.
+[SPEAKER_01]: We'll see how that goes.
+[SPEAKER_02]: Good thing Marines are simple-minded — you really didn't say much that'll stick, if you think about it.
+[SPEAKER_02]: I'm going to leave you two here. If you want to talk with Owen, he's probably still at his bar.
+[SPEAKER_01]: If you want, I can come with.
+[SPEAKER_02]: I've got no problem with that.
+[SPEAKER_01]: I think you two should head out instead — he's not going back into that barracks.
+[SPEAKER_03]: Definitely not going back in there.
+[SPEAKER_01]: We'll head to the bar you mentioned instead — any other good spots?
+[SPEAKER_02]: Ferdin's is the best.
+[SPEAKER_01]: Ferdin's it is.
+[SPEAKER_02]: Just go up to the counter, lay down some silver, mention my name — that's all you'll need. You'll be fine.
+[SPEAKER_01]: Fair enough. I think — since we're heading to Red Shore — we should also try to find out where Zafar is, or get whatever information we can on the whole affair.
+[SPEAKER_02]: Definitely. And while we're there—
+[SPEAKER_01]: Agreed.
+[SPEAKER_02]: [aside, to the DM] I've heard of Lady Jamis, but there might be history I've missed, given my personal absence from regular play — I need to know if there's more background on her I should be aware of.
+[SPEAKER_00]: There's some, yes.
+[SPEAKER_02]: Cool, okay.
+[SPEAKER_00]: So you all decide to walk the streets of the foreign district, heading to Ferdin's bar.
+[SPEAKER_01]: We're going to go talk to Ferdin?
+[SPEAKER_00]: Do you want to do that tonight?
+[SPEAKER_01]: I mean, he's kind of busy doing his thing.
+[SPEAKER_00]: Well, you'll get a chance to talk to him properly if you take this job on the ship anyway — better venue than a place full of Marines who've already seen a body or two tonight.
+[SPEAKER_01]: Agreed — I really don't want to go back to that barracks at all tonight.
+[SPEAKER_02]: After hauling Folsom out, I don't want to be questioned about what happened either.
+[SPEAKER_01]: Did anyone notice Owen's hand, by the way, when we were at the bar?
+[SPEAKER_02]: Who, Ferdin?
+[SPEAKER_01]: No, Owen.
+[SPEAKER_02]: Yeah, you noticed — just looked like a splint, could've happened on the ship or something innocuous.
+[SPEAKER_01]: It wasn't something that stood out as a big deal in the moment.
+[SPEAKER_02]: You might notice it more after a while, putting things together, but in the moment it reads as nothing.
+[SPEAKER_01]: Fair, I did ask about it, but that's fine.
+[SPEAKER_00]: So you head back toward Ferdin's.
+[SPEAKER_02]: [to the group] Don't look so overtly military — you'll throw off the whole atmosphere of the place I'm taking you to.
+[SPEAKER_01]: No worries.
+[SPEAKER_00]: All right — the four of you walk the streets into the foreign district, leaving the harbor district behind, going deeper into the foreign district than any of you have dared before. The foreign district is essentially this world's version of a "Chinatown" — a melting pot of cultures and travelers from across the region. This is where foreign traders rent rooms, second only to the Great Market in terms of cosmopolitan mix. But it's also where the locals of Monmurg who can't make ends meet any other way end up — through begging, theft, worse.
+[SPEAKER_02]: [wry] This is where I grew up.
+[SPEAKER_01]: No shit.
+[SPEAKER_00]: You head into the part of the foreign district where the foreign merchants live, into some of the rougher corners of the city you've never personally seen. Ferdin's bar sits across from an alley with a makeshift sign reading "Blood Alley," and another nearby alley—
+[SPEAKER_01]: What's that one called?
+[SPEAKER_00]: "Murder Alley."
+[SPEAKER_02]: Subtle.
+[SPEAKER_00]: You go inside, and you're struck by the clientele — mercenaries from all corners of the world, scarred dwarves, down-and-out pirates from Port Toli.
+[SPEAKER_01]: [joking, miming a dainty sip] Very refined in here.
+[SPEAKER_02]: [laughing] No, not really.
+[SPEAKER_00]: Ferdin himself is in — Gouge, you grab the two of you quickly and bring them over.
+[SPEAKER_00]: [eyeing the three of them] What do we have here?
+[SPEAKER_02]: At least they smell better than Karmirg.
+[SPEAKER_00]: That's true, by the way — he's been missing the last week or two, mumbling something before he left. You haven't seen him, have you?
+[SPEAKER_02]: Fortunately and unfortunately, no.
+[SPEAKER_02]: [quietly, to Ferdin] Say nothing about us to the elf, if he comes around asking. Pour us four red eyes and just say "Gouge sent them," in case anyone asks.
+[SPEAKER_00]: I'll do it.
+[SPEAKER_02]: Thank you. Okay, let's go, you two.

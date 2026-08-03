@@ -1,0 +1,451 @@
+[SPEAKER_00]: It is the second of Wealsun in the city of Monmurg when you awake the next day after you've created your homunculi.
+[SPEAKER_00]: Basically, you planned to start working on the mission that Prince Gianna had given you, which was to look into the Toli that possibly could be in the city.
+[SPEAKER_01]: Oh, that's right.
+[SPEAKER_01]: He wanted me to find their agents.
+[SPEAKER_01]: There's agents that are working for us?
+[SPEAKER_01]: No.
+[SPEAKER_01]: These are from Toli.
+[SPEAKER_00]: Working against you.
+[SPEAKER_00]: So, you get up the next morning.
+[SPEAKER_00]: After you've done everything that you want to do, you have what you want, and you were kind of planning on how you were going to start this.
+[SPEAKER_00]: Obviously, the first thing you were going to do was
+[SPEAKER_01]: Go down there and interrogate that guy.
+[SPEAKER_01]: Yeah, my dungeon and interrogate that guy.
+[SPEAKER_01]: I blew an arrow right through his...
+[SPEAKER_01]: It hit him in the neck and I told him already what happened.
+[SPEAKER_01]: I gave him loose details.
+[SPEAKER_00]: You're not expecting to get much information out of him?
+[SPEAKER_00]: I need an in.
+[SPEAKER_00]: You're expecting to turn him into something for you.
+[SPEAKER_00]: Yeah.
+[SPEAKER_01]: A connection to this.
+[SPEAKER_00]: Exactly.
+[SPEAKER_00]: That's kind of what you're looking to do, right?
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: Anyway, what happens, probably around 11 a.m. after you finish breakfast and are getting ready to go to the dungeon, is a servant comes and knocks on the door.
+[SPEAKER_00]: Come in.
+[SPEAKER_00]: They open the door and look away from you because you don't have your mask on yet.
+[SPEAKER_00]: Oh, shoot.
+[SPEAKER_00]: And it says, excuse me, Paul, your uncle, Prince Jeon, wishes to see you in his office right away.
+[SPEAKER_01]: Of course.
+[SPEAKER_01]: I'll tell him I'll be there.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: He walks away.
+[SPEAKER_01]: I'll get my stuff on and go see Jeon.
+[SPEAKER_01]: Again.
+[SPEAKER_01]: So you suit up?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: What mask do you wear?
+[SPEAKER_01]: My new one.
+[SPEAKER_00]: The black metal?
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: All right.
+[SPEAKER_00]: So you walk to his office.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: The guards let you in and you enter the room.
+[SPEAKER_00]: And see Prince Jeon behind his desk with Lord Jamis sitting in a chair across from him.
+[SPEAKER_00]: Behind Lord Jamis standing an elf.
+[SPEAKER_00]: Not
+[SPEAKER_00]: Elves are not very common in Monmurg, but there are a few.
+[SPEAKER_00]: This one, however, seems to have a very dark demeanor as compared to most.
+[SPEAKER_00]: He's not smiling.
+[SPEAKER_00]: In fact, his lips are drawn very tight.
+[SPEAKER_00]: And he's looking concerned as Lord Jamis and Prince Jeon have a
+[SPEAKER_00]: What I would call a very tense pregnant moment as you come in.
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: John looks up as you walk into the room and he says, Ah!
+[SPEAKER_00]: Paul, you've joined us.
+[SPEAKER_00]: Please have a seat.
+[SPEAKER_00]: This is Lord Jamis, as you know.
+[SPEAKER_00]: And this is one of his agents.
+[SPEAKER_00]: I believe your name is...
+[SPEAKER_00]: Jude, yes.
+[SPEAKER_00]: He's a wizard, one in the employ of Lord Jamis, and reportedly very knowledgeable in arcane matters.
+[SPEAKER_02]: Okay, no.
+[SPEAKER_02]: To the DM, is this the guy whose wife is Sue?
+[SPEAKER_02]: Lord Jamis.
+[SPEAKER_02]: I know Lord Jamis.
+[SPEAKER_02]: I mean, but Prince Jeanne.
+[SPEAKER_02]: Is Prince Jeanne married?
+[SPEAKER_00]: Prince Jeanne is not married to a Sue woman.
+[SPEAKER_00]: Lord Jamis is married to a Sue woman.
+[SPEAKER_00]: Okay, that's right.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: And Lord Jamis has been kind of a patron for you in the past.
+[SPEAKER_00]: In a way, it's kind of a weird relationship because
+[SPEAKER_00]: He's kind of a on-again, off-again guy.
+[SPEAKER_00]: A lot of threats, a little love.
+[SPEAKER_00]: Basically, he doesn't use your gouge in a way that is promotable.
+[SPEAKER_00]: It's like gouge has kind of gotten the end with him, but Jeon uses gouge as a quiet knife man.
+[SPEAKER_00]: And in a way, Jamis has kind of used you as that.
+[SPEAKER_00]: But of late, I think that you're realizing that he's starting to realize you have more capability than that.
+[SPEAKER_00]: You're actually
+[SPEAKER_00]: More powerful and possibly could eclipse the value of gouge moving forward.
+[SPEAKER_00]: You know, there aren't that many wizards.
+[SPEAKER_00]: There are a lot of drunken sailors that do knife work on the docks.
+[SPEAKER_00]: Gouge is a good one, but...
+[SPEAKER_00]: He doesn't speak ancient Seul.
+[SPEAKER_00]: He doesn't speak ancient Seul.
+[SPEAKER_00]: Or Flaness.
+[SPEAKER_00]: Or Flaness, exactly.
+[SPEAKER_00]: Anyway.
+[SPEAKER_00]: So, you walk in, Paul.
+[SPEAKER_02]: And Paul is introduced as the nephew of Prince Jeon?
+[SPEAKER_00]: No, he doesn't say one way or the other what the deal is.
+[SPEAKER_00]: Okay.
+[SPEAKER_02]: Yet.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: So I just look at him, the new guy, and nod.
+[SPEAKER_02]: You're wearing a mask?
+[SPEAKER_02]: Can you describe yourself to me?
+[SPEAKER_01]: Yeah, no, so I'm wearing this dark cloak.
+[SPEAKER_01]: I have studded leather on and I have this... Do you have a 20 sunny down?
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: Roll it.
+[SPEAKER_02]: Fifteen.
+[SPEAKER_02]: Any pluses?
+[SPEAKER_00]: Come with me.
+[SPEAKER_00]: This person who just walked into the room is wearing a cowl that you recognize as being something the monks of the Scarlet Brotherhood in... Is that Henthaland?
+[SPEAKER_00]: It was the peninsula that you and Karmurk were in, where Karmurk did all that stuff.
+[SPEAKER_00]: Remember that temple you took over?
+[SPEAKER_00]: Where I got turned into a snake?
+[SPEAKER_00]: Exactly.
+[SPEAKER_02]: They would wear...
+[SPEAKER_02]: So, you have no idea who this fucker is.
+[SPEAKER_02]: You had said that there was an invisible person that I could maybe kind of detect.
+[SPEAKER_02]: I don't know if we have to go back on that.
+[SPEAKER_02]: No, that happened.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: I'm not getting any vibes or any kind of smell.
+[SPEAKER_02]: Nothing.
+[SPEAKER_02]: Like, that wouldn't have been the guy.
+[SPEAKER_02]: No.
+[SPEAKER_02]: To my knowledge.
+[SPEAKER_02]: Unless it was magical.
+[SPEAKER_02]: Of course.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Of course.
+[SPEAKER_02]: Okay.
+[SPEAKER_00]: Jude, this is Paul.
+[SPEAKER_00]: He is one of my relatives, my nephew.
+[SPEAKER_02]: And he's here for?
+[SPEAKER_00]: I wish to include him in the operations that we've been talking about.
+[SPEAKER_00]: From what I understand, Lord Jamis has told me that you've been investigating the possibility of Toli agents in the city of Monmurg.
+[SPEAKER_00]: Yes.
+[SPEAKER_02]: My investigations are still preliminary.
+[SPEAKER_02]: It's only just begun.
+[SPEAKER_00]: I understand.
+[SPEAKER_00]: Lord Jamis, would you tell us all exactly what has transpired over the last month in this regard?
+[SPEAKER_00]: So Jamis kind of gives you a strange look, and you're not really sure why, but he says, certainly.
+[SPEAKER_00]: Maybe a month ago we had a visit from a
+[SPEAKER_00]: Wizard from the kingdom of Keoland.
+[SPEAKER_00]: I had spoken to you about this individual earlier, Jude.
+[SPEAKER_00]: This Lord Phranck, apparently from the magical schools of Gradsul, the magical academy.
+[SPEAKER_00]: This is the same place that my son, Grayson Jamis, attended school at the transmutation school.
+[SPEAKER_00]: Several years ago.
+[SPEAKER_00]: This was some 20 years ago.
+[SPEAKER_00]: He died there.
+[SPEAKER_00]: Phranck, however, was an evoker and he visited Monmurg.
+[SPEAKER_00]: Interestingly enough, I believe to contact me, he wished to glean information about
+[SPEAKER_00]: What my intent was towards the Duke of Gradsul.
+[SPEAKER_00]: I had really no idea what Phranck was intending.
+[SPEAKER_00]: However, he gave me information.
+[SPEAKER_00]: He also gave me a contact to a spy that he had embedded in Monmurg.
+[SPEAKER_00]: To be honest,
+[SPEAKER_00]: I have not really been able to understand this Lord Phranck's true intentions.
+[SPEAKER_00]: Was it to warn us or not to warn us?
+[SPEAKER_00]: Is he working against the Duke of Kratzl or not?
+[SPEAKER_02]: Did this happen before the blockade?
+[SPEAKER_00]: This happened
+[SPEAKER_00]: Briefly after the blockade had started, before it was officially announced, and before Port Torvin was burned to the ground.
+[SPEAKER_02]: How long ago was Port Torvin burned to the ground?
+[SPEAKER_00]: This was about two weeks ago.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: And I have been here in the city since I talked to the, got intercepted on my travels.
+[SPEAKER_00]: About a week.
+[SPEAKER_00]: So you came from Red Shore, where you remember all that stuff was happening.
+[SPEAKER_00]: All those ships were going there.
+[SPEAKER_02]: And I was forthcoming with Jamis about that.
+[SPEAKER_02]: Totally.
+[SPEAKER_00]: And he wanted that information.
+[SPEAKER_02]: But that was happening while I was kind of on my way to Monmurg, the burning of
+[SPEAKER_02]: The town?
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: I mean, obviously you didn't know about it, but I think that probably what happened was it happened before you got to Monmurg, right?
+[SPEAKER_00]: But you just heard about it, right?
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Well, so do we know where Lord Phranck is now?
+[SPEAKER_00]: Supposedly he's in Saltmarsh.
+[SPEAKER_00]: Even though we have not been able to pin his exact whereabouts down.
+[SPEAKER_02]: Saltmarsh is inland and north, northerly?
+[SPEAKER_00]: Saltmarsh is in Salonmoor.
+[SPEAKER_00]: It is across the Bay of Salonmoor.
+[SPEAKER_00]: You would have to sail there, it would be a day and a half sail from Monmurg if you wish to go that way.
+[SPEAKER_00]: Through dangerous waters because the blockade and the war is occurring in that region.
+[SPEAKER_02]: If we traveled by land, it would be back along the peninsula.
+[SPEAKER_00]: You would have to go through the Houle marshes, cross the Houle River, go through territories that are not civilized in any way.
+[SPEAKER_02]: Who burned the town?
+[SPEAKER_00]: Do we know?
+[SPEAKER_00]: Jamis kind of
+[SPEAKER_00]: He looks at Jeon and says, My reports tell me that the person that burned the town and stole a large amount of goods was actually an agent of Lord Phranck.
+[SPEAKER_02]: Since we don't know which side Lord Phranck is on.
+[SPEAKER_00]: His actions befuddled me.
+[SPEAKER_00]: Because when he was in Monmurg, he was attacked by four assassins that were obviously from Port Toli.
+[SPEAKER_00]: I had no idea what they were trying to accomplish.
+[SPEAKER_00]: But during that period of time, I think he got into contact with an agent he had, who later contacted me and
+[SPEAKER_00]: Informed me of a traitor that was actually passing information to the Toli.
+[SPEAKER_00]: A dockmaster of mine named a tear who had been in Gradsall maybe three weeks before.
+[SPEAKER_00]: On a mission of diplomacy, this was before the hostility started, but apparently a tear had been turned at that time.
+[SPEAKER_02]: And you would like me to work with?
+[SPEAKER_00]: Let me continue.
+[SPEAKER_00]: Lord Phranck has magically contacted me several times.
+[SPEAKER_00]: I do not know what his intentions are.
+[SPEAKER_00]: I don't know if he is completely in control of this Scarlet Rat, as he calls himself, the man that burned Port Torvin down.
+[SPEAKER_00]: However, the actions of the Scarlet Rat have further endangered the city of Monmurg.
+[SPEAKER_00]: As you know, our food stores are quickly dwindling
+[SPEAKER_00]: And the foodstuffs that we were to get from the yeomanry are no longer available.
+[SPEAKER_00]: That is exactly what he destroyed in Port Torban.
+[SPEAKER_00]: Basically all the food to supply the foreign district and the merchant district for the summer trading months have been completely annihilated.
+[SPEAKER_00]: And without
+[SPEAKER_00]: Trade coming to the city, and with the embargo on, there simply is not enough food to go around in the city at this time.
+[SPEAKER_02]: And that's not enough to condemn Lord Phranck, if it was the Scarlet Rat as an agent of his?
+[SPEAKER_00]: It goes deeper than that, Jude.
+[SPEAKER_00]: Lord Phranck, as it turns out,
+[SPEAKER_00]: is, in my estimation, an officer, an inquisitor from the Office of Urban Magic.
+[SPEAKER_00]: Say that again.
+[SPEAKER_00]: He's an inquisitor from the Office of Urban Magic.
+[SPEAKER_00]: Urban Magic?
+[SPEAKER_00]: Forbidden.
+[SPEAKER_00]: Oh, Forbidden Magic.
+[SPEAKER_00]: This is a secret organization out of Gradsoul that makes sure and investigates magical activity and punishes those and brings to justice those that are involved in prescribed magic.
+[SPEAKER_00]: This is not generally a problem in our realm as there are not many people that engage in prescribed magic.
+[SPEAKER_00]: We have no definition for that.
+[SPEAKER_00]: However, Keoland is very clear on these terms, necromancy being among the most important magic to control and make sure that it is not practiced by individuals.
+[SPEAKER_00]: Supposedly he is inside Salinmoor, in Saltmarsh, to investigate the use of necromancy.
+[SPEAKER_02]: The illness or the disease that was affecting
+[SPEAKER_00]: Which disease is that?
+[SPEAKER_02]: I thought that there was something that was happening with that swamp area that was to the south of the salt marsh.
+[SPEAKER_00]: Are you speaking of the black sickness?
+[SPEAKER_02]: Yes.
+[SPEAKER_02]: Is Lord Font investigating the black sickness?
+[SPEAKER_00]: Jamis says, I don't know of that.
+[SPEAKER_00]: I think he actually is investigating the resurgence of some extremist groups known as the Sons of Olan from that area that have historically been involved with necromancers.
+[SPEAKER_00]: However, the black sickness is affecting Monmurg much worse than it's affecting Selm or Keoland.
+[SPEAKER_00]: As you know, Westkeep is crawling with people that have become subjected to the black sickness.
+[SPEAKER_00]: And I think you yourself have seen the effect that it has.
+[SPEAKER_02]: Okay, now to the DM.
+[SPEAKER_02]: Does the Sons of Orlong in Flanish or ancient Suli language, is that anything significant?
+[SPEAKER_02]: Does Orlong bring up any memory of anything?
+[SPEAKER_00]: What's your history?
+[SPEAKER_00]: History is plus eight.
+[SPEAKER_00]: Roll a DC 20 roll.
+[SPEAKER_00]: Damn, wow.
+[SPEAKER_00]: You have never heard of Sons of Olan.
+[SPEAKER_02]: Do I at least know if Orlan is a Flanessie or a Suel?
+[SPEAKER_02]: Olan?
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: O-L-A-N is the way it's pronounced?
+[SPEAKER_00]: It's a Suel name.
+[SPEAKER_00]: Okay.
+[SPEAKER_02]: And how would you have us move forward?
+[SPEAKER_00]: Well, there are several considerations I would have you look into.
+[SPEAKER_00]: One, we have this agent of Lord Fox, someone that I have worked with in the past.
+[SPEAKER_00]: Her name is Khaleesi.
+[SPEAKER_00]: She is an elf in Monmurg.
+[SPEAKER_00]: She actually has had contact with Gouge.
+[SPEAKER_00]: And she
+[SPEAKER_00]: Implicated Atere as the traitor.
+[SPEAKER_00]: This was my harbormaster, my main harbormaster.
+[SPEAKER_00]: And apparently Atere had been working with Ateli in several ways.
+[SPEAKER_00]: Ostensibly for money.
+[SPEAKER_00]: This was before the attack on Port Twerven happened, and it was my intention to deliver a tear into Lord Phranck's hands to discern more information.
+[SPEAKER_00]: You see, these inquisitors have the ability to read minds.
+[SPEAKER_00]: And I would know what a tear was doing in Gradsul.
+[SPEAKER_00]: Lord Phranck apparently
+[SPEAKER_00]: Was looking into the possibility that the Duke of Gradsul was in cahoots with the Prince of Port Toli, Sac Don Toli.
+[SPEAKER_00]: And I wish to know the truth of that.
+[SPEAKER_00]: However, he has not given me a report in the time, and his actions afterwards indicate to me that he has become an enemy and not a friend.
+[SPEAKER_02]: So investigating, what was his name again?
+[SPEAKER_02]: Atare.
+[SPEAKER_00]: A-T-A-R-E. And his connection to Port, the Toli?
+[SPEAKER_00]: Connection to the Toli.
+[SPEAKER_00]: Atare is long gone.
+[SPEAKER_00]: He's in Saltmarsh.
+[SPEAKER_00]: At this point.
+[SPEAKER_02]: Now, just to the DM, I have written here from previous notes that there was a Kane, Toli has an artifact.
+[SPEAKER_02]: Yes.
+[SPEAKER_02]: Which controls the dragons, sea turtles.
+[SPEAKER_00]: And that's what Jamis told you.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: And he told you that after the interaction with Phranck and the Toli.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Now we can trust Khaleesi?
+[SPEAKER_02]: At least.
+[SPEAKER_02]: Nominally?
+[SPEAKER_00]: Jamis says, no.
+[SPEAKER_00]: She's acted in good faith while she's been in Monmurg, but she is a creature of Lord Fog.
+[SPEAKER_02]: I think I have not yet been able to investigate her movements yet, but I think that you said that if I could confirm her illegitimacy.
+[SPEAKER_00]: That is on the table.
+[SPEAKER_00]: I think that what would be interesting is to know whether or not she still has contact with Lord Phranck and if there is any information we can glean from her about where his whereabouts are.
+[SPEAKER_02]: Would you like us to intercept Khaleesi?
+[SPEAKER_02]: And if so, does she have a method for getting in touch with you?
+[SPEAKER_00]: She contacts me regularly, but she has basically not given me anything that is meaningful in information for several weeks now.
+[SPEAKER_00]: In fact, a month.
+[SPEAKER_00]: After the information about a tear was done, that was the end of it.
+[SPEAKER_00]: Okay.
+[SPEAKER_02]: Pause.
+[SPEAKER_02]: To the DM.
+[SPEAKER_02]: So, in the context of the blockade, the sack of the city that provides our, you know, resources, she hasn't given us anything solid for a while now, it seems like.
+[SPEAKER_02]: Like, where are we... For at least two weeks.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Two weeks is not a long time, however...
+[SPEAKER_00]: In a siege.
+[SPEAKER_00]: I have tried to get messages to Lord Phranck.
+[SPEAKER_00]: In fact, there was a spy infiltrator who had gone to Port Toli.
+[SPEAKER_00]: I assumed for Lord Phranck.
+[SPEAKER_00]: I gave a message to this person, basically telling them that I wish Lord Phranck to contact me.
+[SPEAKER_00]: This was maybe five days ago.
+[SPEAKER_00]: They had since passed into Sollenmore, but I've heard nothing.
+[SPEAKER_00]: And I remind you that Lord Phranck has the ability to reach out with his mind and contact you.
+[SPEAKER_00]: I was expecting a magical message from him as of this time.
+[SPEAKER_00]: When he said you and he gestured to... No, he contacts me, not Paul.
+[SPEAKER_02]: Okay.
+[SPEAKER_00]: Paul luckily has not been corrupted by the mind of the Inquisitor yet.
+[SPEAKER_02]: I'm trying to put two and two together.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: That's a lot of information.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: I start doing like some numbers counting in my head.
+[SPEAKER_02]: And he's not doing anything.
+[SPEAKER_02]: Do I get the feeling like he's some type of muscle?
+[SPEAKER_00]: I have not said a single word.
+[SPEAKER_00]: He's been silent.
+[SPEAKER_02]: I'm like he's starting to creep me out a little bit.
+[SPEAKER_02]: Like he's just the muscle in the dark.
+[SPEAKER_02]: I'm the investigator.
+[SPEAKER_02]: He's the killer.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: He hasn't even budged.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: I apologize.
+[SPEAKER_02]: I interrupted with my questions.
+[SPEAKER_02]: You said that when I asked you what you would have us do, you said that there were several things.
+[SPEAKER_02]: So there's perhaps, if I understand you correctly, bringing Khaleesi in.
+[SPEAKER_02]: Then there is, if we can find the one that she reported on, your shipmaster, or do we know if he's fled?
+[SPEAKER_00]: A tear was taken into custody, as I said.
+[SPEAKER_00]: I took him into custody.
+[SPEAKER_02]: Have you gleaned anything?
+[SPEAKER_00]: This was three weeks ago.
+[SPEAKER_00]: I did not torture the man.
+[SPEAKER_00]: Too much.
+[SPEAKER_00]: He had no information to me that I did not already know.
+[SPEAKER_00]: However, I did ascertain the fact that he was working for the Toli.
+[SPEAKER_00]: I had Gouge and Karmark deliver him to Port Torvin, which is where Lord Fonk told me a contact would take him.
+[SPEAKER_00]: Take custody of them.
+[SPEAKER_00]: This happened.
+[SPEAKER_00]: Little was I to know the actual contact that occurred was the pirate that was burning Port Torvin to the ground.
+[SPEAKER_00]: The Scarlet Rat.
+[SPEAKER_00]: And that is why I know the identity of that individual.
+[SPEAKER_00]: The Scarlet Rat?
+[SPEAKER_00]: Yes.
+[SPEAKER_02]: Okay, to the DM, which he has not said.
+[SPEAKER_02]: He's just referred to the Scarlet Rat as the Scarlet Rat?
+[SPEAKER_02]: Yes.
+[SPEAKER_02]: Or did I miss it?
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: And he hasn't said what the identity is.
+[SPEAKER_00]: Well, what he's basically saying is he didn't know who did it except the Scarlet Rat.
+[SPEAKER_00]: He figured out that was the guy who was calling himself the Scarlet Rat.
+[SPEAKER_00]: And he knew at that point that he was affiliated with Lord Thrawn because he took a tear at that point after he raised Torvin to the ground.
+[SPEAKER_00]: So what happened was Phranck talked to Jamis and they said, this guy's a traitor, through Khaleesi.
+[SPEAKER_00]: Jamis took a tear, interrogated him, found out all this crap about him, about what was going on, said, okay, I'm gonna give him to Lord Phranck now.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: And had him transported by Gouge and Karmar to Port Torvin, where the rat was burning the city down.
+[SPEAKER_00]: So there, and the rat took custody of him.
+[SPEAKER_02]: So do we think that Lord Phranck is a scarlet rat?
+[SPEAKER_02]: Do you say that?
+[SPEAKER_00]: No.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Basically what Jamis is saying is that Scarlet Rat, who he describes as a Toli Rat.
+[SPEAKER_02]: Yeah, because it put us in a hard spot.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: The guy that was in charge was obviously a Toli Rat, not Lord Phranck.
+[SPEAKER_00]: Phranck is an agent of Lord Phranck, or an agent of the Toli, or an agent of the Duke of Gradsul.
+[SPEAKER_00]: He can't figure out where Phranck fits into this, but it's obviously becoming clear that Phranck, who had been trying to gain favor with Lord Jamis, had actually showed up to Monmurg, had talked to Lord Jamis and said things to him,
+[SPEAKER_00]: Went around and did all this other bizarre stuff.
+[SPEAKER_00]: Like, got his man to go burn Port Torban.
+[SPEAKER_00]: So, what is he doing?
+[SPEAKER_00]: What's the deal?
+[SPEAKER_02]: I look at Lord Janus, but also acknowledge, what was the other guy's name?
+[SPEAKER_00]: John.
+[SPEAKER_02]: Prince John.
+[SPEAKER_02]: And say, so you would have us prioritize which of these things.
+[SPEAKER_02]: I feel like
+[SPEAKER_02]: We could bring in Khaleesi if needed.
+[SPEAKER_02]: That seems to be pretty straightforward.
+[SPEAKER_02]: The search for any Toli spies or agents within Monmurg is gonna take time.
+[SPEAKER_02]: Or do you wish us to travel outside of the city?
+[SPEAKER_00]: John says,
+[SPEAKER_00]: It is my wish that Paul take the lead on this.
+[SPEAKER_00]: However, Jamis says that you are educated in the arcane and that you would be useful in countering anything that the Toli assassins may have.
+[SPEAKER_02]: Have you faced any Toli assassins today?
+[SPEAKER_01]: Today has just started.
+[SPEAKER_02]: I mean, previously?
+[SPEAKER_01]: Recently?
+[SPEAKER_01]: No.
+[SPEAKER_00]: I don't think so, at least.
+[SPEAKER_00]: Karmirg and Gouge killed four of them, Jamis says.
+[SPEAKER_00]: But you know what slayers they are.
+[SPEAKER_00]: And in truth, it was a battle.
+[SPEAKER_00]: You know how the Toli assassins are, Jude, mixing magic and weaponry.
+[SPEAKER_00]: I don't wish to see Paul involved in combat.
+[SPEAKER_02]: This from Jamis or from Prince Jeon?
+[SPEAKER_02]: That's Jamis actually says that.
+[SPEAKER_00]: However, I would like you to involve him in the investigation, if you would.
+[SPEAKER_02]: And so Jamis is saying involved.
+[SPEAKER_02]: Prince Jeon said he leaves.
+[SPEAKER_02]: Either way, nobody wants them hurt.
+[SPEAKER_02]: Both of them obviously don't want them hurt, so I'm babysitting.
+[SPEAKER_02]: I don't say that out loud, by the way.
+[SPEAKER_02]: I'm just thinking to myself.
+[SPEAKER_02]: Of course.
+[SPEAKER_02]: I can't say it out loud.
+[SPEAKER_00]: Excellent.
+[SPEAKER_00]: We have a council meeting.
+[SPEAKER_00]: Please, the two of you, compare
+[SPEAKER_00]: Information that you may have.
+[SPEAKER_00]: Bring Paul up to speed on what your current investigations are.
+[SPEAKER_00]: After our meeting, we can speak further on where we're at.
+[SPEAKER_00]: I would like you to help Paul in facilitating resources.
+[SPEAKER_00]: Paul, I heard of your activities last night.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: Involve Jude in this.
+[SPEAKER_00]: His skills may be helpful.
+[SPEAKER_00]: Of course.
+[SPEAKER_00]: Thank you.
+[SPEAKER_02]: Okay, what mask are you wearing?
+[SPEAKER_02]: Do I notice?
+[SPEAKER_02]: Well, you know what he's wearing.
+[SPEAKER_02]: Well, I know you told me what he's wearing, but like, is he wearing a mask?
+[SPEAKER_02]: Or was that just associated with a call?
+[SPEAKER_00]: What are you talking about?
+[SPEAKER_00]: No.
+[SPEAKER_00]: This thing is a metal mask that covers the entire face.
+[SPEAKER_00]: It's got eye slits but it's like slits of metal that are put together with very fine ringlets and it covers the head very well.
+[SPEAKER_00]: The metal is cut geometrically and they have like
+[SPEAKER_00]: Interesting designs cut into them.
+[SPEAKER_02]: So does Prince Jeon and Lord Jamis Lee, do we have the office?
+[SPEAKER_00]: Well, they don't say that.
+[SPEAKER_00]: They say please go to this lounge slash library to go have the conversation.
+[SPEAKER_00]: We have to go to a meeting at the Admirals and we'll talk to you later.
+[SPEAKER_02]: Okay.
+[SPEAKER_00]: If I see a servant on the way, I'm going to be like... Actually, a servant comes to you and basically says, please come this way.
+[SPEAKER_00]: Okay.
+[SPEAKER_02]: When he gets us to where we're going, we're going to need some wine.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: So anyway, he gets you to a small study and you say to the sergeant, I mean the servant, bring us some wine.
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: So the servant says, yes sir, goes away.
+[SPEAKER_00]: Hang on a second.

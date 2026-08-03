@@ -1,0 +1,368 @@
+[Speaker Key: DM = Dungeon Master (narration, voicing Owen Black) | TYRUS = Tyrus's player | FOLSOM = Folsom's player | GOUGE = Gouge's player (arriving partway through)]
+
+DM: Evening of the 3rd of Wealsun, after the party returns to Monmurg on the corsair. Gouge and Merrick are summoned to see Lord Jamis — you hear the captain say, "Let's go see Lord Jamis so he can debrief you." Jude and Paul make their way from the Royal Docks up toward the palace, leaving the two of you, Tyrus and Folsom, basically on your own.
+
+TYRUS: Let's hit the bar.
+
+FOLSOM: We are hitting the bar.
+
+DM: Okay, so you walk out of the royal district, back toward the Harbor District, which you're much more familiar and comfortable with. The local Marine barracks seem to be having quite the gathering — lots of people outside partying, more cheerful than you've seen in weeks. What do you want to do?
+
+TYRUS: These are all my guys here — well, a lot of my actual unit's still out on the island, but these are still my people, men I know.
+
+FOLSOM: A lot of them died, though.
+
+TYRUS: Not mine specifically, but yeah, plenty of Marines died. These are still people I know — let's grab a drink before we properly hit the bar.
+
+FOLSOM: Agreed.
+
+TYRUS: I'm assuming the occasion is us coming back — I'll tap one of the guys on the shoulder.
+
+DM: One of them, beer in hand, looking out at the docks, spots you.
+
+DM (as a Marine): Folsom!
+
+FOLSOM: Hey!
+
+DM (as the Marine): What's the occasion — Tyrus! Owen Black came back today, from Red Shore — smuggled food back for the city. Brought a couple of barrels of cider too, good stuff, good friends with the lot of us. Not watered down like everything's been the past few weeks — you can actually get properly drunk on this.
+
+TYRUS: I love it.
+
+DM (as the Marine): Go get yourselves one.
+
+TYRUS: Got to follow orders. [to Folsom] Owen Black — I'm assuming I'd know his name?
+
+FOLSOM: I know Owen a bit — he used to be a Marine, not anymore, but he knows the waters extremely well. He's actually a relative of Merrick's.
+
+TYRUS: Oh, okay.
+
+FOLSOM: Bit of a pirate, more of a smuggler really.
+
+TYRUS: Got it.
+
+FOLSOM: He was a little too wild for the Marines — wasn't dishonorably discharged, just had bigger ambitions. Better that they parted ways.
+
+TYRUS: Before I go get a beer — [tapping the Marine again] is Owen Black still around?
+
+DM (as the Marine): At the bar!
+
+TYRUS: I'd love to grab a beer with him — let's go.
+
+DM: Okay, so you walk over, and Owen's sitting there telling tall tales, a splint on his left arm like he hurt it somehow. You haven't seen Owen in a couple of months — last time was winter, and he seemed to be making himself scarce for a while, though you don't know why. He's back to his usual self now — the more gregarious of him and Merrick. Merrick's more serious, duty-oriented; Owen's friendlier, freer, quick with a smile and a joke. He knows you both.
+
+DM: He's laughing at the bar as you two walk up.
+
+TYRUS: Owen!
+
+DM (as Owen): [taking a drink, looking around] Oh, awesome! How are you, lad? You're looking good. Who's this giant next to you? [punching Tyrus's arm] I understand you're responsible for all this.
+
+TYRUS: I am responsible for it.
+
+DM (as Owen): Going to be great, especially in these dire times.
+
+TYRUS: I definitely owe you, for sure — not a good drink to be had in the Harbor District otherwise.
+
+DM (as Owen): No, not for me either. But appreciated nonetheless. How'd you get past the patrols coming in?
+
+DM (as Owen): To be honest, I didn't even know we were having trouble with them while I was out there.
+
+TYRUS: Where have you been?
+
+DM (as Owen): A little bit here, a little bit there — not a good idea to ask me that question directly.
+
+TYRUS: I understand, I understand.
+
+DM (as Owen): Well, it's not a big secret — Red Shore's where all the ships are headed now.
+
+TYRUS: The one blockaded by the Duke of Gradsul?
+
+DM (as Owen): That's the one. It's a mess there.
+
+TYRUS: I bet — mess in the harbor too?
+
+DM (as Owen): Have you ever been to Red Shore?
+
+TYRUS: I have not — let me check if my character has. No, neither of us has been.
+
+DM (as Owen): It's a whaling town — docks fit for fishing boats, not for handling fifty merchant ships with no dockmaster who knows what he's doing, no real navigator, no running lights, no proper shipping lanes. Total chaos. Merchant ships just languishing in the harbor, merchants grumbling because they can't unload anything. I sail in with my little cutter, buy up what I can directly from desperate merchants — they give me great prices just to move product — load up, and come back. I don't even double the price for you boys, just a fifty percent markup. But in the open market, I make quite a bit more. Food, oil, things this town actually needs — doing my small part, and making decent coin doing it.
+
+TYRUS: Worth it either way.
+
+DM (as Owen): Money's not bad, no.
+
+TYRUS: Interesting way to make a living right now.
+
+DM (as Owen): There's definitely more opportunity in it, if you're looking, Tyrus.
+
+TYRUS: I'm always looking for ways to help Monmurg through this.
+
+DM (as Owen): I thought you were Marine golden boy material — wouldn't want to run around with a smuggler, would you?
+
+TYRUS: It's not really about running with a smuggler — it's about helping Monmurg get through this blockade. That's the priority for me.
+
+DM (as Owen): Fair enough, I can respect that.
+
+TYRUS: Where's Merrick?
+
+DM (as Owen): Who knows — brooding boy's off somewhere, probably hiding in a corner.
+
+DM (as Owen): Honestly, I was looking for him myself — he knows these waters as well as anyone, maybe better than me, even. He's the only other one besides me who can slip past the Red Shore patrols and make the trades there.
+
+TYRUS: You'll be in town a few days?
+
+DM (as Owen): A few days, yes, before I head back to Red Shore.
+
+TYRUS: We'll definitely see him — maybe we can all get together, figure out what he wants to do.
+
+DM (as Owen): That sounds excellent. You're not talking to any authorities about any of this, are you?
+
+TYRUS: No, I like my ale too much for that.
+
+DM (as Owen): There you go. But there might be a real opportunity here to bring more supplies into Monmurg — that's what I'd actually be interested in. The city's dying out here.
+
+TYRUS: It does seem dire.
+
+DM (as Owen): Very dire. So if we could bring in more supplies, that's an opportunity worth pursuing.
+
+TYRUS: I heard about Port Torvin.
+
+DM (as Owen): What did you hear?
+
+TYRUS: That it was burned to the ground — that's a big part of why we're in such dire straits, since most of our supplies came through there. Destroyed by someone called the "Toli Rat," or the "Scarlet Rat."
+
+DM (as Owen): I've heard that rumor too.
+
+TYRUS: Any validity to it, you think?
+
+DM (as Owen): Hard to say with rumors — but I actually know the Scarlet Rat. I've met him before.
+
+TYRUS: Really?
+
+DM: You can tell Owen's a little tipsy at this point.
+
+TYRUS: What's your read on him?
+
+DM (as Owen): He's a fraud.
+
+TYRUS: Really?
+
+DM (as Owen): Just between the three of us here — about two months ago, I was in Saltmarsh, smuggling weapons in and out. I had dealings with a certain Cain Toli on a job he was running — I was scouting to make sure there were no patrols around for him. There was a sailor working under Cain Toli on his ship, a gangly Toli kid, barely more than a cabin boy. Lo and behold, a couple weeks later, I run into this same rat right here in Monmurg, not three or four doors down from where we're sitting now — and he attacks me. Recognized my face.
+
+Turns out he's tied to some wizard called Lord Phranck, who I happen to know is connected to a noble of Keoland — some local appointee in Saltmarsh, a military commander called the "power" of Baywin. I'd actually had dealings with Baywin myself before. [showing his splint] See this? He's the one who broke my arm. Captured me, interrogated me in the Appleyard shell-keep.
+
+TYRUS: You're not pulling my leg here?
+
+DM (as Owen): That's the funny part — there were bugbears down there too, captives, and a couple of other prisoners, I think part of Toli's crew, or at least associated with him. We broke out together, managed to get the better of one of Baywin's guard dogs — some crazed dwarf from the mountains up north — and escaped. I got hold of a skiff and got out of there.
+
+TYRUS: Lucky turn of events.
+
+DM (as Owen): It was. We ran down the coast, made it to Saltmarsh, then on to Seton. Picked up a couple of old friends along the way, who helped get me back to Monmurg, and I picked up a new ship.
+
+TYRUS: Quite the adventure.
+
+DM (as Owen): Definitely lucky. So then I had to make some money to pay off that new skiff — Red Shore's the best place for that right now, since that's where all the trade and goods are sitting, going nowhere. Nobody's buying, nobody can unload — if you've got a ship and you're willing to go grab what you need, you can get nearly anything.
+
+TYRUS: [checking a map] So Saltmarsh is up here, Red Shore's there?
+
+DM (as Owen): Right about there, yeah — that's why everyone's funneling through there because of the blockade.
+
+TYRUS: That makes sense. Definitely something to think about — there's real opportunity here. We could use more supplies for the Marines too, or just leave the Marines and work for you directly, make some real coin.
+
+DM (as Owen): You too — of course, helping the city of Monmurg helps us too.
+
+TYRUS: Why not?
+
+DM (as Owen): I mean, what was Monmurg built on, really — smuggling, piracy, profit. That's what we're about here. So helping Monmurg is helping ourselves. Aren't we children of this city too? We feel a responsibility to see it endure, since this is where we make our coin, free trade and commerce, as it were.
+
+TYRUS: I have to let Merrick know what's going on with the Helm.
+
+DM (as Owen): I've heard rumors the Helm was in jeopardy — still is, from what I hear. You're not telling me everything, are you? You were there, I know it — heard your platoon shipped out, but you came back without most of them.
+
+TYRUS: There was, uh, quite a situation — we nearly didn't make it, escaped on a homemade raft after the place got overrun.
+
+DM (as Owen): You haven't seen sharks in the water lately, have you?
+
+TYRUS: Yeah, actually.
+
+DM (as Owen): I noticed them too, coming into the bay today — surprised me, honestly.
+
+TYRUS: Really?
+
+DM (as Owen): Really — they attacked us, but not enough of them to overwhelm us. My men handled themselves well with a blade, lost one or two but made it back to the bay.
+
+TYRUS: I heard it was much worse out at the Helm — lost a whole ship, from what I understand.
+
+DM (as Owen): When did you get in?
+
+TYRUS: Today, actually.
+
+DM (as Owen): I've seen a lot of ships heading out since I arrived — Marine ships, by the look of it.
+
+TYRUS: Of course.
+
+DM (as Owen): Seems like a full operation underway.
+
+TYRUS: Would take quite a few ships, I'd imagine, to properly retake the place.
+
+DM (as Owen): We barely escaped ourselves — lucky to be out at all. Was it the hobgoblins that got you?
+
+TYRUS: We saw some hobgoblins, none on the way back, thankfully — but yeah, that was part of it.
+
+DM (as Owen): Interesting. How long's it been since you've personally seen hobgoblins active like that?
+
+TYRUS: You'd know better than me — you travel more.
+
+DM (as Owen): I'll tell you this — hobgoblin activity's been increasing off the coast near Salinmoor, around a small island they call Turtle Island, sometimes "Wizard Island." I've actually sailed through that area myself. Seems like that's where they're regrouping — off the coast where the real marshland starts, near a small town called Appleyard.
+
+TYRUS: Any idea why?
+
+DM (as Owen): No idea.
+
+TYRUS: Seems like an opportunity worth flagging to the Admiralty — I assume they already know?
+
+DM (as Owen): Oh, yeah, absolutely — given the resurgence in hobgoblin activity up north, though I didn't expect them to push this far south.
+
+TYRUS: Neither did we, until we got to the island and found the protective enchantment had been disrupted. We're still trying to figure out how to restore it and keep the hobgoblins from coming back for good.
+
+DM (as Owen): So the enchantment's still broken?
+
+TYRUS: As of when we left, yes — though it might've been restored by now, since we got back last night.
+
+DM: Just to clarify the timeline — you went to the island on the second, returned on the third, and it's now evening of the third. So you've been gone roughly twenty-four hours.
+
+TYRUS: Right, so hopefully by now they've made progress restoring it, especially since more ships have gone out.
+
+DM (as Owen): That would be amazing if they have.
+
+TYRUS: I hope they get their act together — the city's been through enough as it is.
+
+DM (as Owen): Agreed. I don't see this blockade breaking anytime soon.
+
+TYRUS: No. What do you think it would actually take to break it?
+
+DM (as Owen): Winning one goddamn naval battle would do wonders. Why our corsairs haven't gone out and properly ripped apart the Keoland navy, I have no idea — for some reason our fleet's stuck in dock. There aren't even that many warships at Red Shore — maybe three, plus two at Seton and one in Saltmarsh. I've seen them myself.
+
+TYRUS: We could take the whole armada with a coordinated strike.
+
+DM (as Owen): Easily — we could burn Red Shore to the ground with the right force. It would only take a fraction of our fleet, and that city would be decimated. Plenty of captains out there don't even want to be stationed there — they'd rather be home. Why it hasn't happened yet, I have no idea.
+
+TYRUS: Probably some princely politics behind it.
+
+DM (as Owen): That's for sure.
+
+TYRUS: Which prince, though?
+
+DM (as Owen): Maybe all of them.
+
+TYRUS: You think they want to look this foolish to their own people?
+
+DM (as Owen): I think whatever lines their pockets matters more to them than how they look to the public.
+
+TYRUS: I'd call you a traitorous liar if I disagreed with that.
+
+DM (as Owen): [to Folsom] But, Folsom — you got a song for us?
+
+FOLSOM: I do have a song. [looking around] Is there a counter I can use here?
+
+DM: Yeah, there's a spot for exactly that.
+
+FOLSOM: [climbing up] All right.
+
+FOLSOM: Ladies and gentlemen — for your entertainment, I bring you... Folsom!
+
+DM: Roaring applause, presumably.
+
+FOLSOM: [hyping the crowd] Tyrus, I won't be needing an announcer for once — everybody's already happy! Well, before I get into the tale of our recent adventure, let's give it up for Owen for providing us with this grand festivity we're enjoying right now!
+
+DM: Cheers all around.
+
+FOLSOM: But I do, in fact, have a song for everyone here, about our recent adventure.
+
+DM: [aside] Let's see — you've already got the song in mind?
+
+FOLSOM: [introducing it with dramatic flair] Ladies and gentlemen — he's traveled far, small in stature, big in song, entertainer extraordinaire — [trailing off, second-guessing himself]
+
+DM: [aside, breaking briefly] Honestly, I didn't expect this song to come up quite this soon — he needs no introduction, but I'll give one anyway.
+
+FOLSOM: [internally debating which song to perform — this could shape how the Marines and the city react to recent events]
+
+DM: This is a big decision — you're deciding between songs that could swing public reaction significantly. There's a more neutral option you could go with instead, and save the riskier ones for when you've built up more goodwill.
+
+FOLSOM: [deciding to go for it anyway, more pointed than neutral]
+
+DM: All right — for this song, you call it "The Brewing Storm." Roll a performance check.
+
+FOLSOM: [rolling] One.
+
+DM: [grimacing] Well — for the sake of the story, I'm going to say this actually lands reasonably well in terms of the words themselves, even if the delivery's rough.
+
+FOLSOM: [performing]
+
+> "Oh, Monmurg, you're a jewel on display,
+> but your leaders have led you astray.
+> Princes and powers in their gilded halls
+> can't see the writing on your walls.
+> They could grasp the news, if they'd only try,
+> but it's your own leaders who are truly blind.
+>
+> Oh, princes of the sea, what have you done?
+> Your squabbles and schemes have blocked out the sun.
+> While you bicker and fight, the city's in plight,
+> and the Duke of Gradsul laughs while you fight.
+>
+> The navy's strong, or so they say,
+> but storms and whispers have led you astray.
+> The enemy's fleet, the weaker and slow,
+> has somehow managed to steal the show.
+> Is it magic, or treachery — who can tell?
+> But incompetence might be the cause as well.
+>
+> Oh, princes of the sea, what have you done?
+> Your squabbles and schemes have blocked out the sun.
+> While you bicker and fight, the city's in plight,
+> and the Duke of Gradsul laughs at your light.
+>
+> For Torvin in ashes, the food's running low,
+> you sit in your castles, putting on a show.
+> The Prince of Port Toli, with his ships delayed,
+> plays his own game while the city's betrayed.
+> Internal strife, a festering sore,
+> while Monmurg starves, you all plan for more.
+> The traders are stuck, the markets are bare,
+> and the people of Monmurg are in despair.
+> The Duke of Berghof, with his meager supply,
+> leaves you to wonder — is this goodbye?
+> Your allies are distant, your enemies near,
+> and you do nothing but stroke your own fear.
+>
+> Oh, princes of the sea, what have you done?
+> Your squabbles and schemes have blocked out the sun.
+> While you bicker and fight, the city's in plight,
+> and the Duke of Gradsul laughs while you fight too.
+>
+> So here's to the leaders, the princes and powers,
+> who've turned Monmurg's fortune to scars.
+> While you play your games, the city's in pain,
+> and the Duke of Gradsul wins again.
+> Monmurg, your fate's in their hands,
+> but it's their own folly that tightens the bands."
+
+DM: [breaking from the performance] You rolled — what, six or seven low rolls in a row putting that together?
+
+FOLSOM: I rolled two ones across four different dice, somehow.
+
+DM: So, the lyrics themselves are genuinely good — clearly you had time to write and practice them. The problem is the audience. They're very patriotic, and this is... not a flattering song for the princes, delivered to a room full of off-duty Marines.
+
+GOUGE: [arriving, unimpressed] Can I step in here?
+
+DM: Go ahead.
+
+GOUGE: I set down my red eye, walk over, slide my dagger out partway, then back in — just to make a point.
+
+GOUGE: [to Folsom, quietly but firmly] These words aren't welcome here. [grabbing him] Sit the fuck down. [to the room] He's had a bit too much. [dragging Folsom out of the barracks]
+
+DM: So you basically get hauled out.
+
+TYRUS: [staying behind, awkwardly] I'll come down in a second — let me grab my drink. [to Owen] Next round's on me.
+
+DM: Owen raises a glass in thanks. [The scene shifts outside as Gouge takes Folsom into the alley.]

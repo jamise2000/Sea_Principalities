@@ -1,0 +1,351 @@
+[Speaker Key: DM = Dungeon Master (narration, rules calls) | JUDE = Jude's player | GOUGE = Gouge's player | MERRICK = Merrick's player | TYRUS = Tyrus's player | FOLSOM = Folsom's player | PAUL = Paul Rivera's player]
+
+DM: Good morning. Morning of the third of Wealsun, approaching eight o'clock.
+
+JUDE: [reappearing, dropping invisibility] I walk up to Gouge.
+
+GOUGE: Where did you go? We'd barred the door after securing the inner sanctum.
+
+JUDE: I needed about twenty more minutes to get a spell slot back. The Sea Ghost is gone — I couldn't see it anchored, or at least not where it had been. No idea if another ship's coming in. The hobgoblins demonstrating at the front gate have pulled back.
+
+GOUGE: Where the hell did you actually go, though?
+
+JUDE: I snuck around — cast invisibility on myself and scouted to see what was happening. Nobody can get down here since we barred that door behind us when we came back into the inner sanctum. The hobgoblins are still posted, but the troops have stopped demonstrating — probably pulled back to their garrison. I also checked that other door we hadn't explored yet.
+
+GOUGE: The one with the bars?
+
+JUDE: Yeah — it was open. Found racks that were completely empty, probably thousands of barrels' worth of storage space, all cleared out. That's likely where they kept the supply. Further down, there was another barred door, looking out onto a small beach. That's a secret entrance — I saw footprints in the sand, but couldn't get through since it was locked.
+
+GOUGE: I've got lockpicks, that's good to know.
+
+JUDE: What I'm saying is — in the thirty minutes since, if the Toli had come through there, they'd have left wet footprints. I checked for that specifically, didn't find any.
+
+GOUGE: We don't know all the secret passages, clearly.
+
+JUDE: I just know what I saw — footprints on the sand, the Sea Ghost gone, the troops pulled back. Not surprising they'd return to garrison. The hobgoblins are still posted outside the inner sanctum where we snuck past them — we'd have to fight through the guards to get back out that way. I don't want to try sneaking past them again without resting first.
+
+GOUGE: Do you think they're only running this operation at night, under cover of darkness, in case merchant ships might spot them?
+
+JUDE: That would explain the timing.
+
+GOUGE: If that's the case, maybe the Toli didn't even swim out to the ghost the moment we caught Fairwind.
+
+JUDE: I don't think he'd swim that far himself, but he's a sailor, used to the water — though with the sharks around—
+
+GOUGE: Once we dumped that powder in the water, it killed a Toli agent right there. Fairwind probably saw that happen, or at least figured out what we were planning, since we'd told him outright we were going after the barrels.
+
+JUDE: I don't know — if there's a skiff coming in, I need to rest now so I can recover some spells. But if one does show up, great.
+
+JUDE: I did see footprints on that small beach when I looked through the barred door — so if Fairwind went that way and locked the door behind him, he'd have needed keys, but we already stripped him of everything.
+
+GOUGE: Where exactly does Fairwind actually reside — is he lord of a small holding, or something bigger?
+
+DM: Fairwind Island is a large outer territory — he's got an entire island to himself.
+
+GOUGE: And this command of the Helm rotates between the princes?
+
+DM: Right, it rotates. But remember, he admitted he's been skimming barrels for a while — so he's got his own private stockpile somewhere.
+
+GOUGE: So if the Toli came specifically during the fog to take barrels, they're actually a bit late to this — since he says he's been doing this for months already, maybe longer.
+
+JUDE: With the Sahaugin dead in this area, there's no reason not to signal Monmurg now — we can do that from the inner sanctum, if we've secured enough of the island to risk it.
+
+DM: You don't fully know how secure things are, but you do know there are a lot of dead bodies around. How far is the shark from where you're standing right now?
+
+JUDE: [checking the distance to the giant shark carcass]
+
+DM: About fifty feet from the edge.
+
+JUDE: Signaling is definitely important — if we can get Jude or Folsom up to signal.
+
+GOUGE: If we need to get off the island quickly, could the shark carcass hold the party?
+
+DM: Oh, yeah, actually.
+
+GOUGE: And there are tents down by the shoreline, near the docks?
+
+DM: Right, by the docks — a couple of them.
+
+GOUGE: [recalling the hobgoblin equipment they'd seen] It looked decent quality. If we took a long rest, could we improvise a small sailboat out of the materials here?
+
+DM: Possibly — what you'd probably want to do is use the outgoing tide. You could paddle it out, since the tides move strongly in and out of this area, and ride that current out. The shark itself is one option, but you could also tear up the docks and tents to build an actual raft, which would take about as much time either way.
+
+GOUGE: All right — I'll head back. I'll leave the shark behind and swim or rope my way back to shore, whichever's faster, and start scavenging materials — tearing up some tents, see what we've got to work with.
+
+DM: Roll a survival check.
+
+MERRICK: [Meanwhile] We could take the beacon tower and signal that we've secured the barrels, repelled the hobgoblins, and need reinforcements. If reinforcements come, his troops — unless Fairwind himself is present — would likely just fall in line.
+
+JUDE: We'd need to get into the main beacon tower to communicate with Monmurg, though — that's in the castle proper.
+
+MERRICK: So we'd need an hour, not four. I can go with you guys — I've still got my wand, plenty of spell slots left, four first-level spells, and I can keep talking through it.
+
+DM: Okay, so you head down to the docks with Merrick.
+
+GOUGE: Not too close — saves us time. With these tents and materials, I can improvise a raft and sail us back to Monmurg. We can load barrels onto it, report to Lord Jamis, get to safety, rest, and figure out next steps.
+
+JUDE: How long would that sail take, roughly?
+
+DM: About a five-hour trip.
+
+JUDE: Five hours — but maybe we'd run into a merchant ship along the way that could help?
+
+DM: With the blockade in effect, unlikely — but you might run into a Monmurgian patrol instead. If you signal from the inner sanctum that you're on your way, they could meet you partway. And if you've got a barrel or two of the substance with you, you could distribute it as needed to keep the strait clear of Sahaugin — that's really your main concern at this point, since you've only dumped a barrel's worth into this immediate area so far.
+
+GOUGE: I need to talk to Jude — how long does he need to rest?
+
+DM: He'd need a full long rest to recover his spell slots properly.
+
+GOUGE: I need you to use whatever cantrips you've got and signal from the inner sanctum — let them know we're on our way, to watch the waves. Nothing more detailed than that, just enough to be understood.
+
+FOLSOM: I'm an expert at signaling — I can handle that.
+
+GOUGE: Go back to the sanctum, send the signal: on our way, watch the waves, then spell out my name.
+
+FOLSOM: I'll head there while you keep working on the raft.
+
+DM: So you walk away, sneak back up to where the inner sanctum is — takes about fifteen minutes. It's still secure: the dead hobgoblin, the dead Toli agent, still where you left them. You go to the window with the signal lantern.
+
+FOLSOM: I signal: on our way, watch the waves, then spell out Gouge's name.
+
+DM: Okay, you head back down — want to check the captive prisoner again on your way?
+
+JUDE: Can I check him for any markings I might have missed?
+
+DM: Nothing — perfectly clean skin, no tattoos, clearly deliberate.
+
+JUDE: [checking with Tyrus about his own healing reserves] I did use a spell slot during the fight — did I get that back during the short rest?
+
+DM: That would have been a d10 worth, yes — you should have used it mid-battle against the hobgoblins, honestly.
+
+TYRUS: That's important to remember for next time.
+
+DM: All right — so, what do you all want to do next? Are we still moving forward with the plan?
+
+GOUGE: I'm good to go.
+
+JUDE: You guys good?
+
+DM: [aside, regarding missing party members] They're not here right now — you actually see Merrick down at the docks, tearing apart tent material and hammering pieces together, building a makeshift raft.
+
+JUDE: What's he doing — trying to sail the shark out of here like some kind of Captain Nemo?
+
+DM: No, the shark's out of the picture — it sank.
+
+JUDE: Okay — well, I need to know if I get my full four-hour rest, or if you all want to act sooner.
+
+DM: You can start your rest and see what happens around you.
+
+JUDE: I'll start my four-hour rest — might not make it the full time, but I'll begin.
+
+DM: All right — if the resupply skiff was due back by now, it hasn't shown, and the Sea Ghost is long gone, so who knows where that skiff actually is. You walk down to where Merrick is pulling lumber from the docks, putting together a structure.
+
+JUDE: What's going on here?
+
+GOUGE: Making a makeshift raft. We're going to sail it around. I sent Folsom up to signal the inner sanctum — that we're on our way, watch the waves. Reinforcements should meet us, and we'll be back in Monmurg by tomorrow, maybe even tonight. Roughly a five-hour trip.
+
+JUDE: What about the sharks?
+
+GOUGE: We're taking enough of the barrel substance with us to keep them off — that's our ticket to safety. We need to bring some of those barrels, since that's literally our job here.
+
+JUDE: My job's on the line too — I don't care what else is happening on the rest of this island right now; this whole situation's a mess. There are hundreds of issues we could chase, but we need to get to safety, report back, and figure out a better plan from there.
+
+GOUGE: That's exactly what we're doing — sending word, bringing back what we've learned.
+
+DM: [aside] And he's nearly died doing the more dangerous parts of this, so he's taking the shorter route on what's left.
+
+JUDE: Is he back yet, or still up there signaling?
+
+DM: He's back, helping with the raft signal work.
+
+GOUGE: They'll expect us now — we'd better get moving.
+
+JUDE: In a bit — let him finish meditating, he looks like he's deep in it.
+
+GOUGE: [to the group] This is as much my responsibility as anyone's — I know these waters well enough that I can time our departure for the best possible crossing speed. Get on the raft, and we'll make our way back. Getting off this island will be the best outcome regardless. We've got barrels to keep us safe along the way.
+
+JUDE: We could just load everyone and everything onto the raft without complication.
+
+JUDE: I'll take point — being the fancy elf I am, best foot forward. If we run into a Toli vessel or anything else that threatens us, a good fireball could go a long way.
+
+JUDE: [to Tyrus] You're still meditating? Or are you just carrying things while resting?
+
+TYRUS: I'm fine, I can help out a bit.
+
+JUDE: All right — well, I thought this plan would sound a lot worse than it actually does. Give us some credit.
+
+DM: [aside about Folsom's bardic performance earlier] The bard who entertained the prisoner — that was quite something.
+
+DM (as Fairwind, complaining): Guards — it's Lord Fairwind! I've been held against my will!
+
+GOUGE: I told you at the start — I figured we'd have to ride the shark out, going purely on my survival instincts and ranger intuition.
+
+JUDE: I thought we were going to do a full Jack Sparrow and walk the shark like some kind of turtle-dragon thing — we did actually discuss that.
+
+GOUGE: I've got to get back to work. [continuing to break apart the dock structure for raft materials]
+
+DM: So, you all spend about two hours building this raft, and you're satisfied with the plan?
+
+MERRICK: It's about as good as it gets — Gouge is probably more in charge of this than I am; I've got no real command authority over the military men here, but I'm looking out for our best interests, given everything we now know for Lord Jamis.
+
+GOUGE: We've got the information together, at least. I'm the one who's hired for safety reporting — gathering everything we witnessed.
+
+MERRICK: Recounting our story, plus whatever else you've gathered.
+
+GOUGE: We'll report it all to Jamis, let him decide what to do with it.
+
+DM: All right, two hours later, you've got a raft.
+
+JUDE: How big is it — can it carry everyone plus the barrels?
+
+DM: It's going to need to carry six people — you don't want to overload it too much. I'd say no more than four barrels.
+
+GOUGE: We're taking four, then.
+
+JUDE: How long is a full long rest?
+
+DM: Eight hours.
+
+GOUGE: We'll definitely take four barrels — leaves twenty-one behind.
+
+DM: [checking timing and tides] Past the peak, but riding the outgoing current on the raft, you should make it to Monmurg by nightfall for sure — and if anyone spots you along the way, that's actually what you're hoping for, since they'd send a ship to help.
+
+GOUGE: Do we wait for everyone to finish resting, or start moving now?
+
+DM: Tyrus is only trancing as an elf-equivalent — he can be carried while still resting, technically.
+
+TYRUS: I've already missed one window of rest, so if you all want to just carry or guide me along, go ahead.
+
+DM: What's your strength?
+
+GOUGE: Eighteen.
+
+DM: You carry him down to the raft without much trouble.
+
+GOUGE: I'm gentle about it, not just dragging him around carelessly.
+
+TYRUS: [from his trance] How are you feeling, by the way?
+
+GOUGE: I'm going to keep resting on the raft itself, if that's allowed — don't strictly need to trance the whole time.
+
+DM: You'd still want a long rest eventually, but resting aboard the raft works for now.
+
+TYRUS: I'll rest on the raft, then.
+
+GOUGE: I can stay awake and keep watch.
+
+FOLSOM: Should I and Gouge paddle while you direct?
+
+MERRICK: I'll paddle too, and try to direct our course.
+
+JUDE: I'm picturing this raft as basically a floating pile of wood.
+
+DM: It's a bit better than that, actually — there's a makeshift sail rigged from tent fabric.
+
+GOUGE: Calling it a sail might be generous — but yeah, made from old tent canvas, since they're no longer needed as tents.
+
+MERRICK: I'll work the sail with the wind, and direct our heading.
+
+JUDE: If you need me, I'm going to sleep. [to Merrick] Did you signal our people on the Monmurg side already?
+
+GOUGE: Yeah — Folsom signaled ahead to Monmurg, told them we're coming, watch the waves.
+
+JUDE: You signaled all the way to Monmurg, from the inner sanctum? That's pretty impressive — Monmurg's only about five miles away, right across the bay; you'd basically be able to see the response.
+
+GOUGE: Folsom's good at what he does. He took a stroll out there and sent the signal himself.
+
+JUDE: [musing] We could theoretically get reinforcement ships out here and retake the island before the next dawn, if we push it.
+
+GOUGE: We should — but for now, if you need me, I'm sleepy, might doze off.
+
+DM: All right, so you paddle out through the cave mouth.
+
+GOUGE: [spotting something] Grab us a hobgoblin body — I want to bring proof back, show Lord Jamis this is real, this actually happened.
+
+DM: Sure — you rope it and let it float behind you as you go.
+
+DM: It takes about fifteen minutes to clear the cave mouth, and Merrick gets the sail working. Even though the raft is slow, you make steady progress — about one mile per hour out into the channel, putting you at roughly a five-hour crossing.
+
+DM: Roll for an encounter check.
+
+JUDE: [checking on the cargo] Do you want to keep dipping into the barrels along the way, or leave them sealed?
+
+GOUGE: I'd like to open one and sprinkle handfuls out every five or ten minutes, just to keep the water around us clear.
+
+JUDE: We'll keep some of it loose, not all sealed in the barrel.
+
+GOUGE: [joking about the yellow powder] It's sulfur, basically — worth more than gold to us right now, given what it does.
+
+DM: And yes, it remains explosive under the right conditions, just to reiterate.
+
+GOUGE: Hell yeah, brother.
+
+DM: So you continue on, and after about an hour you've navigated around Helm Island and are properly on your way to Monmurg. Another hour passes — it's around ten in the morning now.
+
+JUDE: Have I had my full four hours of rest yet?
+
+DM: Yes, you have.
+
+JUDE: Sweet.
+
+DM: You spot three corsairs heading out from the city toward you.
+
+JUDE: [relieved] Finally.
+
+GOUGE: Did you at least let the other tower know what was going on?
+
+JUDE: You mean the eastern tower? I focused on getting word to Monmurg directly.
+
+DM: All right — another thirty minutes, and one of the corsairs pulls alongside you.
+
+JUDE: I want to make sure I've got a pocket full of that yellow powder — just a small pile, tucked away — so I can study it myself later.
+
+DM: Okay, you scoop some into a pouch.
+
+GOUGE: [examining the hobgoblin corpse they towed along] I want to check it for any magical properties — maybe something useful from its bones.
+
+DM: You'd probably get more use out of Sahaugin gills for a potion of water breathing, honestly.
+
+GOUGE: Either way, I show the corsair crew the hobgoblin body as proof when they pull alongside.
+
+DM: So, the six of you are taken aboard. Merrick — or whoever's narrating — explains the Sahaugin attack.
+
+GOUGE: Do you want to mention the powder at all?
+
+JUDE: To who — the regular crew? No, absolutely not — that stays for Jamis's ears only.
+
+DM: Okay, so you're loaded aboard, and the captain asks: do we head back to the island, or return to Monmurg?
+
+GOUGE: Back to Monmurg — I need to tell Jamis everything that's happened, with backup in tow.
+
+DM: You've got three corsairs total — two could continue on to the island while one brings you back.
+
+GOUGE: I want to tell the captain it's "all clear" on one front, but that I need to get back and brief Jamis directly.
+
+DM: There's still hobgoblins holding the Helm, though — is that really "all clear"?
+
+GOUGE: No, no — I mean the immediate area we cleared, the cave and the docks where we fought, that's secure. The Helm itself still needs retaking.
+
+DM: So you want the other two corsairs to continue on, fully loaded with Marines?
+
+GOUGE: Yes — send support to where we originally landed, and to the barracks, since that's where our remaining troops are holding out and needs reinforcing.
+
+DM: And the rest of the barrels — there were twenty-five total, you only took four, leaving twenty-one behind.
+
+GOUGE: That's only good for a couple more days at most.
+
+JUDE: The problem now is, everyone involved already knows about the cave's location.
+
+GOUGE: Right — so we could post a guard along the northwestern or northeastern edge, but as long as someone's sprinkling that stuff in the water regularly over the next couple of days, we should be fine until reinforcements properly secure it.
+
+DM: So you're sending two corsairs back, fully crewed.
+
+GOUGE: It's only five miles — we should make it back before nine.
+
+JUDE: I do want to bring all four barrels with us, for safekeeping.
+
+GOUGE: All four?
+
+JUDE: At least two, but I'd rather take all four.
+
+DM: Do you want to send the other two corsairs along as backup just 

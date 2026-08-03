@@ -1,0 +1,7 @@
+# Cast for Folsoms_confession_3rd_Wealsun
+# Expected voices: 5
+SPEAKER_00: DM
+SPEAKER_01: Tyrus
+SPEAKER_02: Gouge
+SPEAKER_03: Folsom
+SPEAKER_04: Merrick

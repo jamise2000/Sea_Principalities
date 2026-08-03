@@ -1,0 +1,4 @@
+# Cast for Jude_sails_into_Redshore_late_flocktime
+# Expected voices: 2
+SPEAKER_00: DM
+SPEAKER_01: Jude

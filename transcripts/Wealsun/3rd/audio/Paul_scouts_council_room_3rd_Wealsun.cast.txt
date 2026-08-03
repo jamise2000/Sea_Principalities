@@ -1,0 +1,4 @@
+# Cast for Paul_scouts_council_room_3rd_Wealsun
+# Expected voices: 2
+DM
+Paul

@@ -1,0 +1,5 @@
+# Cast for Jude_Paul_attacks_by_Sahaugin_2nd_Wealsun
+# Expected voices: 3
+SPEAKER_00: Paul
+SPEAKER_01: DM
+SPEAKER_02: Jude

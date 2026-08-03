@@ -1,0 +1,9 @@
+# Cast for Battle_w_Fairwinds_guards_3rd_Wealsun_end
+# Expected voices: 7
+SPEAKER_00: DM
+SPEAKER_01: Gouge
+SPEAKER_02: Jude
+SPEAKER_03: Merrick
+SPEAKER_04: Tyrus
+SPEAKER_05: Paul
+SPEAKER_06: Folsom

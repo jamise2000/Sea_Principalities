@@ -1,0 +1,142 @@
+[SPEAKER_00]: Zafar's instructions.
+[SPEAKER_00]: The foundation of these homoculae begin with a malleable clay, carefully sculpted into the likeness of small lizard-like creatures.
+[SPEAKER_00]: The choice of form is not arbitrary.
+[SPEAKER_00]: The lizard's form is simple and durable, unlike that of a spider or another insect.
+[SPEAKER_00]: Also with its ability to blend into surroundings, it is an ideal model for a creature designed for espionage.
+[SPEAKER_00]: The clay is imbued with a subtle enchantment by soaking it in warm water with one drop of its master's blood, making it receptive to the magical energies that will soon animate it.
+[SPEAKER_00]: The form can be as complex or as simple as desired, but a true artisan will ensure that the final form is both functional and aesthetically pleasing.
+[SPEAKER_00]: Central to the animation of Jody's homoculi are green gemstones, the ones gifted to me by the lithomancer Zafar Azane are similar to the stones used to create the animated blades that he is famous for.
+[SPEAKER_00]: Zafar has informed me that he learned how to create these stones in the archives of the Arcane Order, a lost variation of a soul gem whose creation was discovered and perfected by the transmuters of the Suel Empire before the Twin Cataclysms.
+[SPEAKER_00]: One stone is known as the Heart Stone and is used to animate the homoculi.
+[SPEAKER_00]: The other is the Mind Stone, which the homoculi's master will use to animate the automaton itself.
+[SPEAKER_00]: Each gemstone is attuned to a specific frequency of arcane energy, a process that requires both skill and patience.
+[SPEAKER_00]: The heartstone is embedded within the clayform, nested where a heart might reside, and it is this stone that serves as the conduit for the master's will, via the mindstone.
+[SPEAKER_00]: The proper gemstone's ritual of animation is simple.
+[SPEAKER_00]: The master stands before the nascent homoculus, focusing his mind and channeling his thoughts through the mindstone.
+[SPEAKER_00]: The master intones the magical words, lapis philosophorum.
+[SPEAKER_00]: As the master's consciousness flows into the mindstone, the homoculus is awakened with the spark of life.
+[SPEAKER_00]: The connection is not one of domination.
+[SPEAKER_00]: But symbiosis, the homoculus becomes an extension of the master's mind, capable of executing complex tasks and relaying information with uncanny precision.
+[SPEAKER_00]: Once animated, the homoculi are remarkably resilient.
+[SPEAKER_00]: Unlike their traditional counterparts, they do not wither outside their jars or require a subsidence to survive.
+[SPEAKER_00]: Their clay bodies, reinforced by the magical properties of the Hearthstone, can withstand the rigors of their mission.
+[SPEAKER_00]: Should they sustain damage, a simple mending cantrip is sufficient to restore them to their original state, ensuring their longevity and continued service.
+[SPEAKER_00]: Zafar informed me this implementation of Joe D's method of creating homoculi is but one of many possible paths to animation.
+[SPEAKER_00]: These homoculi, unlike their mythical phantoms, are not mere curiosities, but invaluable tools capable of performing feats that would be impossible for any ordinary spy.
+[SPEAKER_01]: That's exactly what I was hoping to be.
+[SPEAKER_01]: That's exactly why I wanted to wait.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Let's cook one of those up.
+Okay.
+[SPEAKER_01]: So, how do you want to start that?
+[SPEAKER_01]: I'm hoping it's got some instructions, right?
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: I mean, absolutely.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: So, do you want to... You have the two stones.
+[SPEAKER_00]: Yeah, I have the two stones.
+[SPEAKER_00]: Right?
+[SPEAKER_00]: Do you want to get a bunch of clay?
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: Okay, so...
+[SPEAKER_00]: You ask the servants to bring you what you need, which is a cistern, a lump of clay, good clay, and clean water.
+[SPEAKER_00]: So that afternoon they bring it to you and you spend the time
+[SPEAKER_00]: Forming the clay into what you want your homoculi to look like.
+[SPEAKER_00]: Correct?
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: So you take the cistern, cut your finger, and drip a little bit of blood in there, as requested.
+[SPEAKER_00]: And then you bathe the clay in the water, forming it into whatever shape you want it to look like.
+[SPEAKER_00]: What do you want it to look like?
+[SPEAKER_00]: Didn't it say a lizard?
+[SPEAKER_00]: It basically said that the lizard was kind of the most useful form of these little homunculi.
+[SPEAKER_00]: The question I have for you is how big do you want it to be?
+[SPEAKER_00]: How small do you want it to be?
+[SPEAKER_00]: Small.
+[SPEAKER_00]: I want it to be small.
+[SPEAKER_00]: Like that big?
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Okay, so the one that you were using for
+[SPEAKER_00]: Or you found and you cut the head off.
+[SPEAKER_00]: It was about that big.
+[SPEAKER_00]: Wasn't it like a gargoyle?
+[SPEAKER_00]: It was kind of like a little gargoyle.
+[SPEAKER_00]: Bigger.
+[SPEAKER_00]: But you want to make one smaller.
+[SPEAKER_00]: Now, there are instructions in there on variations that can have poisonous things or whatever like that.
+[SPEAKER_00]: But it sounds like you want yours to be very small and simple.
+[SPEAKER_00]: Just one for recon and detection.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Using your Arcana roll, you spend four hours working on this homoculi.
+[SPEAKER_00]: This is a DC 15 roll to be able to go through the instructions.
+[SPEAKER_00]: You need to roll a 12 to make one that is acceptable.
+[SPEAKER_00]: Okay?
+[SPEAKER_00]: The way this works is that every point above a DC 15, the resulting homoculi will have one hit point.
+[SPEAKER_00]: So if you roll a 16, you create a homoculi with one hit point.
+[SPEAKER_00]: If you roll a 20, you create a homoculi with a 5.
+[SPEAKER_00]: One.
+[SPEAKER_00]: Your first attempt is horrible.
+[SPEAKER_01]: So like mangled and like... You take it out of the thing and it falls apart.
+[SPEAKER_00]: Okay, that's... You were trying to be as artistic as possible.
+[SPEAKER_00]: I'm not very artistic.
+[SPEAKER_00]: So basically you waste four hours working on the homoculi.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: So, hmm.
+[SPEAKER_01]: It's awful.
+[SPEAKER_01]: I'm going to have to try again.
+[SPEAKER_01]: You start over.
+[SPEAKER_01]: Right.
+[SPEAKER_00]: Smashing the beast.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: A little piece of this.
+[SPEAKER_00]: And working again.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Three.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: So, daytime goes into nighttime.
+[SPEAKER_00]: And about 10 p.m. at night, you're exhausted.
+[SPEAKER_00]: Your attempts, you actually got to the point where you created the little creature, which was ridiculously looking.
+[SPEAKER_00]: Put it in the Hearthstone, and in desperation said the word slap his philosophy for him.
+[SPEAKER_00]: One of the legs twitched for a second, and then the entire beast crumbled.
+[SPEAKER_00]: Roll an end check.
+[SPEAKER_01]: Oh wait.
+[SPEAKER_01]: Thirteen.
+[SPEAKER_00]: Oh, okay.
+[SPEAKER_00]: You realize that the clay they brought you was substandard.
+[SPEAKER_01]: Too grainy.
+[SPEAKER_01]: You need something better.
+[SPEAKER_01]: Let me go out and get myself.
+[SPEAKER_00]: It's okay.
+[SPEAKER_01]: Okay, I go out and I get myself good clay.
+[SPEAKER_01]: No, no.
+[SPEAKER_00]: Remember, it's 10pm at night.
+[SPEAKER_01]: Yeah, I... Where are you gonna get the clay?
+[SPEAKER_01]: I don't know.
+[SPEAKER_01]: Not where they got that clay.
+[SPEAKER_00]: Yeah, so...
+[SPEAKER_00]: There is a marketplace.
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: I'm going to go to that marketplace.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: So the Grand Market is someplace you can go to.
+[SPEAKER_01]: I'm sure I've got money.
+[SPEAKER_01]: I mean, I'm... Oh, yeah.
+[SPEAKER_01]: You've got lots of money.
+[SPEAKER_01]: Platinum card or whatever.
+[SPEAKER_00]: Do you want to rest that evening or do you want to go out at night?
+[SPEAKER_01]: Let's just get it done now and then maybe I'll try again in the morning just before I leave.
+[SPEAKER_00]: Okay.
+[SPEAKER_01]: So...
+[SPEAKER_00]: You decide that you're going to go find this yourself.
+[SPEAKER_00]: Street vendors in the great market.
+[SPEAKER_00]: Correct?
+[SPEAKER_00]: Yep.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: So, how do you want to go?
+[SPEAKER_00]: How do you want to dress?
+[SPEAKER_01]: I'm just...
+[SPEAKER_01]: I might take some of those casual clothes so I don't stick out so bad maybe.
+[SPEAKER_01]: Do you want to dress as a merchant?
+[SPEAKER_01]: Do you want to dress as a... What do you want to dress as?
+[SPEAKER_01]: I'll just dress as, like I said, a black robe.
+[SPEAKER_00]: Black cloak?

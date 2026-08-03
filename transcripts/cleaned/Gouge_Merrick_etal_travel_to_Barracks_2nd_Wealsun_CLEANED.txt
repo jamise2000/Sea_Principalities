@@ -1,0 +1,197 @@
+[Speaker Key: DM = Dungeon Master (narration, rules calls, voicing Captain Sten at the barracks) | MERRICK = Merrick's player | GOUGE = Gouge's player | TYRUS = Tyrus's player]
+
+DM: Second of Wealsun, after sundown — the party rests and communicates with the barracks for about an hour, trying to figure out their next move. There's been signal communication with the barracks, via mirrors and lantern signals.
+
+MERRICK: That's been coming from Jude, correct?
+
+DM: Yes — back and forth. What you learn is that Jude and Paul Rivera are at the garrison, which is still controlled by the sea principalities — a hundred fifty men there, basically waiting for you if you want to come deal with the situation. There's some urgency, since the island is surrounded by Sahaugin and can't get reinforcements until they're driven off. Jude says he has a plan for that.
+
+GOUGE: He's pretty smart.
+
+DM: His plan: you and Merrick go out ahead, bringing a small group with you — three swordsmen, two bowmen.
+
+TYRUS: So the captain holds back here with the rest of the men?
+
+DM: Right — making sure you're not flanked from behind by anyone still in the area. He's also going to signal any approaching ships to stay away, given the Sahaugin presence, and you'll have what you need to signal back to him in turn.
+
+MERRICK: [to Folsom] Do we have what we need to signal back to him?
+
+DM: Yes — though you're not taking the actual lantern with you when you head to the barracks; you'll use a different method to signal back.
+
+TYRUS: [checking his own resources] I think I'm still down five hit points after the short rest.
+
+DM: That's right, given the updated character sheet. Also — Tyrus, you get to pick your prepared spells now. You've got four open slots, plus the always-available third-level options — Compelled Duel and Command — and Divine Smite is always available regardless.
+
+TYRUS: So those are in addition to the four I pick, not counting against them?
+
+DM: Correct — those three are always on top of your four chosen spells.
+
+TYRUS: Then I'll pick Compelled Duel, Cure Wounds, Searing Smite, Thunderous Smite, and — since those top-level ones are already covered separately — I'll add Shield of Faith as my fourth pick instead, since it's more original for this loadout.
+
+DM: All right — you finish communicating with the others around 10 p.m. When do you want to try sneaking off?
+
+MERRICK: As soon as possible.
+
+DM: So the plan — the tower archers will create a diversion, firing on the barracks area to draw attention, while you slip out the back.
+
+MERRICK: Right — we go out the back while they cover from the top, drawing fire away from us.
+
+DM: So you're taking two crossbowmen and three swordsmen with you.
+
+MERRICK: That's correct.
+
+DM: Your party gathers at the back of the tower. Who's leading?
+
+MERRICK: I'll go first — I know this terrain better than anyone.
+
+GOUGE: I'll follow behind you, not too far back, keeping you in sight.
+
+MERRICK: I can stay stealthy as long as I keep Gouge in view, and everyone else stays behind him.
+
+DM: All right, you head out the back of the tower, moving toward the bridge. Roll stealth.
+
+MERRICK: [rolling] Twenty.
+
+DM: You melt into the night, reading the coastline's contours like you've done it a thousand times — moving as one with the shadows despite the moonlight. You advance thirty feet completely silent.
+
+MERRICK: How far do I go before signaling the others to follow? I want to make it to the bridge first.
+
+DM: You reach the bridge — about a hundred fifty feet in. Roll perception.
+
+MERRICK: [rolling] Eighteen total.
+
+DM: No one visible on the far side — clear all the way to the bridge, just shadows near the barracks in the distance, but nothing between the tower and your position.
+
+MERRICK: I'll signal the others to come up behind me.
+
+DM: You signal, and they start moving forward — Tyrus, you're coordinating that.
+
+TYRUS: I'll keep myself between Merrick and the rest, letting him lead.
+
+DM: You all start sneaking toward the bridge. Roll stealth.
+
+GOUGE: [rolling] Twenty-seven.
+
+DM: Gouge slips into the moonlight smoothly — looks great.
+
+TYRUS: I'm right behind him.
+
+DM: [resolving the rest of the group's stealth checks] The crossbowmen and swordsmen don't fare as well — their scale mail clinks audibly, and despite Tyrus's breastplate muffling some of it, the sound carries. They trip slightly in the dark, giving away their position.
+
+DM: Roll initiative — you hear crossbow bolts firing in your direction.
+
+DM: [resolving] Three bolts fire toward your group — all miss, but it's clear the men behind you have been heard, if not seen, and bolts continue raining down toward your trailing soldiers.
+
+TYRUS: What about the men up on the tower — are they returning fire to cover us?
+
+DM: They start firing down at the threat too.
+
+TYRUS: I'm telling my men to fall back.
+
+MERRICK: I can cast Fog Cloud to cover their retreat, if you want — costs a spell slot, but it'll help.
+
+TYRUS: Do it.
+
+DM: You cast it — do you want it centered on your retreating men, or on yourself at the bridge?
+
+MERRICK: On them, behind us, to cover their retreat — they're the ones taking fire because they made noise.
+
+DM: You drop the fog right where they need it. Your five trailing men fall back to the tower as ordered, while the three of you — Merrick, Gouge, and Tyrus — push on and reach the bridge, now alone.
+
+MERRICK: We're at the edge of the bridge. I want to look down — check for sharks or Sahaugin in the water.
+
+DM: Roll perception.
+
+MERRICK: [rolling] Twenty-six total.
+
+DM: You see sharks, and a Sahaugin riding one of them out in the bay, off to one side.
+
+MERRICK: We need to cross down the center of the bridge, not near the edges — and we shouldn't cross as a tight group. Spread out, go in pairs, gather on the other side.
+
+TYRUS: We'll go in twos — me and Gouge first, you two follow.
+
+DM: All right — weapons out, you sneak across the center of the bridge, exposed in the moonlight but shielded from view on either side. It's about four hundred feet across.
+
+GOUGE: Long bridge.
+
+DM: You reach the other side without incident, though it felt exposed the whole way. The second pair crosses without trouble either, and the four of you regroup on the far side.
+
+MERRICK: Any new signals from the tower?
+
+DM: Nothing new.
+
+MERRICK: All right — we're not going to travel along the coastline; we'll stay as far from it as possible, moving through the most wooded, secluded terrain we can find, even if it takes longer than a direct route.
+
+DM: You lead the way.
+
+MERRICK: I trust this path.
+
+DM: You cut into the forest.
+
+MERRICK: I'll stay near the edge of the treeline as we move.
+
+DM: You stealth along the forest's edge — the distance from here to the barracks is roughly half a mile, but moving stealthily, it takes about an hour. You're off the main path, moving through sparse woods and palm trees — secluded, though not perfectly hidden. After about an hour, around 11 p.m., you find yourselves sixty or seventy feet outside the palisade walls of the barracks, watchtowers visible with Marines standing guard. What do you want to do?
+
+MERRICK: Do they see us?
+
+DM: No — you're still concealed in the woods.
+
+MERRICK: We need to signal them so we're recognized, not mistaken for a threat. Does anyone know if there's only one entrance to this place?
+
+GOUGE: I remember there was activity going on at the docks when we passed through before, but not here.
+
+MERRICK: [to Gouge] Do you want to try getting up to the wall, find the door?
+
+GOUGE: Can I climb it, or is it solid?
+
+DM: You could try scaling the palisade, but you risk being seen — there's a garrison of a hundred fifty men posted along it, watchtowers spaced out, people watching from multiple points even if not constantly.
+
+MERRICK: I don't think we need to sneak in, honestly — they're expecting us, given the signaling all along. It's obviously us approaching, not hobgoblins. We should just go for the front door.
+
+GOUGE: Scale it instead?
+
+MERRICK: No — I think we can just call out from here. How far are we from the wall?
+
+DM: About seventy feet, with a thirty-foot clearing between the treeline and the wall itself.
+
+MERRICK: How far does Message reach?
+
+GOUGE: I'll sneak up closer to the door myself, in case anyone's exposed — better me than the group.
+
+MERRICK: I can use Message to whisper to one of the guards on the tower, announce our arrival quietly rather than just shouting across the clearing.
+
+DM: You can do that, yes.
+
+MERRICK: [casting Message toward the tower] We're here — Gouge and party are at the edge of the woods.
+
+DM: Using the spell, one of the guards responds — you hear his voice directly in your mind.
+
+DM (as guard, via Message): We've been expecting you, keeping a lookout. Go along the west wall to the front gate, and you'll be let in.
+
+MERRICK: All right — weapons still out, let's move.
+
+GOUGE: Let's follow the wall around.
+
+DM: You move along the wall to the front gate, and as soon as you arrive, it lifts, and the four of you slip underneath into the compound.
+
+DM: Standing there to greet you is a captain in a breastplate.
+
+DM (as Captain Sten): Merrick! Good to see you. Tyrus — you know this man, one of Fairwind's captains. We've heard you were coming — good that you've made it up here. Good to see you too, Gouge.
+
+GOUGE: How's the garrison holding up to the south?
+
+DM (as Sten): We've got a small group holding it — about twenty men stationed at the lighthouse. There's nobody actually in the lighthouse itself; we hold it, but it's unmanned at the moment. Our ship was able to secure that position. The barracks here, though — that's a different story. The hobgoblins there are dead, but the place is now full of Sahaugin.
+
+GOUGE: Wait — hobgoblins, or Sahaugin?
+
+DM (as Sten): Both, in different areas — hobgoblins killed several of our men before we cleared them, but Sahaugin have taken over parts of the barracks itself. We don't know exact numbers — at least ten or fifteen. We hold the tower, signal any approaching ships that the area's unsafe. The lighthouse and the actual barracks structure remain contested.
+
+We saw your ship get overrun by Sahaugin as it came in — lost nearly everyone. The unit escorting Paul Rivera made it ashore safely, from what we can tell, but the rest of the contingent on the ship — somewhere around two hundred men — we believe there were no survivors.
+
+GOUGE: [looking around] Where's the elf?
+
+DM: You look — he's not here.
+
+DM (as Sten): [shaking his head] Gouge, I take it — you must be him, given the reputation. Folsom, good to meet you too. Paul Rivera and his companion wish to speak with you — come with me.
+
+DM: He leads you down into the barracks, to what looks like the command office. Inside, sitting there, is young Paul Rivera — no sign of Jude. Paul looks strange in person: a silver mask covering his face, tight-fitting leather clothing, gloves on despite the warm weather — altogether bizarre. The four of you file into the room and pause.

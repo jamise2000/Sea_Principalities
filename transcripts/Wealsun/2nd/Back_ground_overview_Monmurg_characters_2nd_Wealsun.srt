@@ -1,0 +1,360 @@
+1
+00:00:01,188 --> 00:00:10,950
+[SPEAKER_02]: It is the second of Wealsun and Monmurg, things are uncertain.
+
+2
+00:00:13,851 --> 00:00:20,333
+[SPEAKER_02]: Monmurg is a city perched precariously on the edge of prosperity and ruin.
+
+3
+00:00:20,493 --> 00:00:30,595
+[SPEAKER_02]: In the month of Wealsun, in the 579th common year of the Keoland's calendar, the air was thick with scent of desperation.
+
+4
+00:00:31,698 --> 00:00:40,725
+[SPEAKER_02]: Monmurg, the jewel of the azure sea, had long thrived on the lifeblood of trade, its veins pulsing with the wealth of nations near and far.
+
+5
+00:00:41,706 --> 00:00:49,713
+[SPEAKER_02]: Yet now, the very arteries that sustained it were severed, and the city found itself gasping for survival.
+
+6
+00:00:51,836 --> 00:01:02,266
+[SPEAKER_02]: In the past, Monmurg's formidable navy had been the guardian of its prosperity, its ships slicing through the azure waves with the grace and power of a predator.
+
+7
+00:01:03,167 --> 00:01:14,177
+[SPEAKER_02]: The sea lanes were its domain and the nations of Onwal, Irongate, and beyond paid homage in the form of trade, their vessels laden with britches destined for Monmurg's bustling markets.
+
+8
+00:01:15,347 --> 00:01:25,408
+[SPEAKER_02]: From the fertile lands of the yeomanry came cheeses and meats, while the duchy of Berkhof sent grains and rice, the bounty of their vast plantations.
+
+9
+00:01:26,505 --> 00:01:27,847
+[SPEAKER_02]: The city was a hub of commerce.
+
+10
+00:01:28,107 --> 00:01:32,192
+[SPEAKER_02]: It stalks a cacophony of voices and a clatter of goods being exchanged.
+
+11
+00:01:33,373 --> 00:01:45,568
+[SPEAKER_02]: But now the tides had turned and Keoland, a powerful rival, had openly declared war, casting a shadow over the sea principalities as the Keoland Navy blockaded the trade lines.
+
+12
+00:01:48,152 --> 00:01:58,443
+[SPEAKER_02]: The blockade was a noose tightening around Monmurg's neck, and the once bustling trade routes lay silent, their ships diverted to Redshore by the cunning Duke of Gradsul.
+
+13
+00:01:59,564 --> 00:02:07,713
+[SPEAKER_02]: His navy, though inferior in might, had somehow outmaneuvered Monmurg's fleets, leaving the city bewildered and beleaguered.
+
+14
+00:02:09,016 --> 00:02:21,164
+[SPEAKER_02]: Whispers of supernatural forces and treacherous storms swirled through the taverns and marketplaces as the people of Monmurg searched for answers as to the cause of this chaos.
+
+15
+00:02:22,185 --> 00:02:23,405
+[SPEAKER_02]: The situation was dire.
+
+16
+00:02:23,666 --> 00:02:29,750
+[SPEAKER_02]: The traders who had braved the blockade found themselves trapped in a city teetering on the brink of famine.
+
+17
+00:02:30,748 --> 00:02:37,612
+[SPEAKER_02]: The foreign district was a tinderbox of unrest, its inhabitants driven to desperation by hunger and fear.
+
+18
+00:02:38,613 --> 00:02:47,459
+[SPEAKER_02]: Lord Jamis, tasked with maintaining order, found his patrols stretched thin, their presence a mere bandage on a festering wound.
+
+19
+00:02:48,800 --> 00:02:53,083
+[SPEAKER_02]: As if the blockade were not enough, the specter of piracy loomed large.
+
+20
+00:02:54,163 --> 00:02:58,146
+[SPEAKER_02]: The Scarlet Rat, a pirate of fearsome repute, had struck Port Torvin,
+
+21
+00:02:58,880 --> 00:03:05,063
+[SPEAKER_02]: Leaving it in ruins and its warehouses once full of supplies destined for Monmurg reduced to ash.
+
+22
+00:03:05,743 --> 00:03:08,904
+[SPEAKER_02]: The town, once thought secure, lay in tatters.
+
+23
+00:03:09,885 --> 00:03:15,347
+[SPEAKER_02]: Monmurg was under siege, its lifeline severed, and the specter of starvation loomed large.
+
+24
+00:03:17,053 --> 00:03:19,294
+[SPEAKER_02]: The political landscape was no less tumultuous.
+
+25
+00:03:19,734 --> 00:03:30,038
+[SPEAKER_02]: The prince of Port Toli, a key ally, had turned a deaf ear to Monmurg's plight, his promises of aid as empty as the city's granaries.
+
+26
+00:03:31,179 --> 00:03:37,521
+[SPEAKER_02]: Rumors of discord among the sea princes, fueled by the contentious slave trade, added to the city's woes.
+
+27
+00:03:38,142 --> 00:03:45,985
+[SPEAKER_02]: The prince of Monmurg, caught in a web of intrigue and betrayal, faced a future as uncertain as the storm-tossed seas.
+
+28
+00:03:47,867 --> 00:03:52,250
+[SPEAKER_02]: In the midst of this turmoil, Monmurg stood at a crossroads.
+
+29
+00:03:52,990 --> 00:03:57,633
+[SPEAKER_02]: The city, once a beacon of trade and prosperity, now faced a future shrouded in uncertainty.
+
+30
+00:03:58,294 --> 00:04:04,198
+[SPEAKER_02]: Its people, resilient and resourceful, clung to hope as they awaited the turning of the tide.
+
+31
+00:04:05,739 --> 00:04:12,383
+[SPEAKER_02]: For in Monmurg, as in all things, the wheel of fortune was ever turning.
+
+32
+00:04:15,140 --> 00:04:19,322
+[SPEAKER_02]: Okay, so that's the backdrop of where you guys are at.
+
+33
+00:04:21,863 --> 00:04:24,065
+[SPEAKER_02]: All of you, apart.
+
+34
+00:04:24,245 --> 00:04:25,545
+[SPEAKER_02]: Questions before I go on?
+
+35
+00:04:25,565 --> 00:04:31,968
+[SPEAKER_02]: Who again is on Helms Island?
+
+36
+00:04:32,429 --> 00:04:44,375
+[SPEAKER_02]: Currently Helms Island, which is an island in the middle of the Monmurgian Straits, which is the main military base of the Sea Princess fleets.
+
+37
+00:04:45,423 --> 00:04:52,584
+[SPEAKER_02]: The Commander of Helm Island rotates between the Princes of the Outer Isles and Monarch.
+
+38
+00:04:53,464 --> 00:04:54,745
+[SPEAKER_02]: That's on this island right here?
+
+39
+00:04:55,025 --> 00:04:57,225
+[SPEAKER_02]: It's that little speck right in the middle.
+
+40
+00:04:57,645 --> 00:05:00,426
+[SPEAKER_02]: Is he allowed to see this or is he allowed to see this?
+
+41
+00:05:00,466 --> 00:05:02,806
+[SPEAKER_02]: You are all allowed to see that, right?
+
+42
+00:05:03,506 --> 00:05:05,046
+[SPEAKER_02]: So it's that little dot right there.
+
+43
+00:05:05,066 --> 00:05:06,247
+[SPEAKER_02]: You know the details of everything.
+
+44
+00:05:06,347 --> 00:05:08,207
+[SPEAKER_01]: You know where the rocks are, right?
+
+45
+00:05:08,907 --> 00:05:10,647
+[SPEAKER_01]: That's that little speck right there.
+
+46
+00:05:10,667 --> 00:05:10,727
+[SPEAKER_01]: The
+
+47
+00:05:16,058 --> 00:05:22,583
+[SPEAKER_02]: Command of the island rotates between Monmurg and the Three Adirados.
+
+48
+00:05:22,744 --> 00:05:25,586
+[SPEAKER_02]: The Prince Toli does not take command of that.
+
+49
+00:05:25,666 --> 00:05:27,648
+[SPEAKER_02]: It's an Oeridian thing, basically.
+
+50
+00:05:28,468 --> 00:05:34,573
+[SPEAKER_02]: As only Corsairs and Oeridian fleets dock there.
+
+51
+00:05:35,274 --> 00:05:36,435
+[SPEAKER_02]: They are allowed to dock there.
+
+52
+00:05:36,635 --> 00:05:37,896
+[SPEAKER_02]: Fairwind is the current command.
+
+53
+00:05:37,916 --> 00:05:38,957
+[SPEAKER_02]: Fairwind, okay, yep.
+
+54
+00:05:41,659 --> 00:05:42,040
+[SPEAKER_01]: And then...
+
+55
+00:05:47,641 --> 00:05:48,424
+[SPEAKER_01]: Any other questions?
+
+56
+00:05:51,847 --> 00:05:56,468
+[SPEAKER_01]: The pirate attacked, Scarlet Wrath was his name?
+
+57
+00:05:56,729 --> 00:06:06,211
+[SPEAKER_02]: Yes, Scarlet Wrath attacked a very small port called Port Torvin, it's not really on the map, it's up near the mouth of the Hull River, and he burned it to the ground.
+
+58
+00:06:06,271 --> 00:06:16,895
+[SPEAKER_02]: It was a small town, but the thing about Port Torvin is it had a large stockade where all the trade that came from the land up the Hull River
+
+59
+00:06:18,742 --> 00:06:28,147
+[SPEAKER_02]: The goods would be transferred from river ships into a stockade and then picked up by seagoing vessels later and brought to Monmurg.
+
+60
+00:06:28,508 --> 00:06:30,209
+[SPEAKER_02]: So that's kind of how that trade happened.
+
+61
+00:06:33,330 --> 00:06:36,272
+[SPEAKER_02]: And he attacked there and he burned that place to the ground.
+
+62
+00:06:36,452 --> 00:06:43,456
+[SPEAKER_02]: And what was bad about that is that's where a lot of supplies, the food supplies, come from to the city of Monmurg.
+
+63
+00:06:43,676 --> 00:06:44,697
+[SPEAKER_01]: And then the blockade is...
+
+64
+00:06:47,650 --> 00:06:48,610
+[SPEAKER_02]: What was that port again?
+
+65
+00:06:49,371 --> 00:06:50,011
+[SPEAKER_02]: Port Torvin.
+
+66
+00:06:50,471 --> 00:06:50,911
+[SPEAKER_02]: Torvin.
+
+67
+00:06:50,991 --> 00:06:51,332
+[SPEAKER_02]: Right there.
+
+68
+00:06:51,952 --> 00:06:59,815
+[SPEAKER_02]: So what the deal is, is normally ships come in from the north and come into Monarch from over here.
+
+69
+00:07:00,936 --> 00:07:04,777
+[SPEAKER_02]: Keoland is right here, like that, up there.
+
+70
+00:07:05,938 --> 00:07:08,799
+[SPEAKER_02]: So the Duke of Gradsul, Gradsul is right there.
+
+71
+00:07:09,715 --> 00:07:09,996
+[SPEAKER_01]: Right.
+
+72
+00:07:10,396 --> 00:07:13,341
+[SPEAKER_02]: And his navy is coming down and making sure this.
+
+73
+00:07:14,362 --> 00:07:15,584
+[SPEAKER_02]: No one gets to go there.
+
+74
+00:07:15,965 --> 00:07:16,365
+[SPEAKER_02]: I gotcha.
+
+75
+00:07:16,405 --> 00:07:22,655
+[SPEAKER_02]: And he's diverting ships to this little island called Redshore, which is in Keoland.
+
+76
+00:07:23,718 --> 00:07:34,701
+[SPEAKER_02]: Redshore is like a whaling town, and it's fairly large, maybe 7,000 people, but they don't have the docks to be able to absorb that amount of tonnage that comes in.
+
+77
+00:07:35,181 --> 00:07:42,242
+[SPEAKER_02]: The Monmurgian docks are probably at least 10 to 15 times as large as what Redshore's is.
+
+78
+00:07:42,823 --> 00:07:47,043
+[SPEAKER_02]: So it's doubtful that they're able to absorb the trade.
+
+79
+00:07:47,384 --> 00:07:51,765
+[SPEAKER_02]: Basically what's happening is Gradsul is saying, you're not going to get your stuff.
+
+80
+00:07:52,325 --> 00:07:53,105
+[SPEAKER_02]: It's not going to happen.
+
+81
+00:08:01,257 --> 00:08:01,677
+[SPEAKER_00]: Okay.
+
+82
+00:08:03,359 --> 00:08:03,959
+[SPEAKER_02]: Any questions?
+
+83
+00:08:05,501 --> 00:08:06,221
+[SPEAKER_02]: Things to clear up?
+
+84
+00:08:08,043 --> 00:08:09,524
+[SPEAKER_00]: I have a question about my character.
+
+85
+00:08:09,884 --> 00:08:11,025
+[SPEAKER_00]: Sure.
+
+86
+00:08:12,887 --> 00:08:16,130
+[SPEAKER_00]: Did my dad die or is he still around and just retired?
+
+87
+00:08:17,651 --> 00:08:18,191
+[SPEAKER_00]: Your dad died.
+
+88
+00:08:19,692 --> 00:08:19,993
+[SPEAKER_00]: Okay.
+
+89
+00:08:21,074 --> 00:08:21,614
+[SPEAKER_00]: Neat.
+
+90
+00:08:24,496 --> 00:08:24,917
+[SPEAKER_02]: In battle.
+

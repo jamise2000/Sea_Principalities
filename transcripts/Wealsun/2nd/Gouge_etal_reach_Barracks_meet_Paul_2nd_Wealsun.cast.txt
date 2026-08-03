@@ -1,0 +1,10 @@
+# Cast for Gouge_etal_reach_Barracks_meet_Paul_2nd_Wealsun
+# Expected voices: 6 (DM, Paul, Gouge, Tyrus, Merrick, Folsom), but per the cleaned transcript's own note, Folsom has no individually-attributable lines in this scene — he's present but silent. This is a dense 6-person scene; SPEAKER_00 and SPEAKER_02 were raw tags shared by two characters each and have been split with letter suffixes directly in the transcript.
+SPEAKER_00A: Gouge — "I step forward... It's me" (stepping forward when asked who's Gouge); "Yeah, things are not well here... we've got that under control"; "I'd rather use stealth and kind of sneak in and try to..."; also confirms Sten's and Merrick's knowledge of the keep layout later in the scene ("Steve does know it, and Merrick knows it")
+SPEAKER_00B: Paul — "Hello. I've heard a lot about you..."; the extended darkvision-range questioning ("What's his range — sixty feet, a hundred twenty?"); the "who are we looking for / Find Fairwind" mission-recap exchange
+SPEAKER_01: Paul (confirmed — explicit self-introduction: "I am Paul Rivero... nephew of Lord Jeon")
+SPEAKER_02A: Tyrus — his one substantive line in this scene: "We traveled in and there was no detection... I saw down in the water several sharks and hobgoblins"
+SPEAKER_02B: Merrick (confirmed — "I'm very familiar with the coastline, so the way we came in is I kind of led the pack"; "My fog might help though" — his Fog Cloud signature; "I know the insides, yes. I've never gone through the tunnels...")
+SPEAKER_03: Paul (second split — recaps the troop losses and tower situation: "So we came in and landed here. We took over this tower... twenty-five guys that were left here", matching Paul's cleaned dialogue almost verbatim)
+SPEAKER_04: DM (confirmed — narration throughout, voices Sten the garrison sergeant)
+SPEAKER_05: Gouge (third split — explains Jude's trance: "He's in the middle of... trancing... trying to get his spell slots back"; the key-master joke: "I am the key master. Not to boast, but I can open a few doors myself")

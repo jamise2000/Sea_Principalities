@@ -1,0 +1,237 @@
+[SPEAKER_00]: A battle has been raging in a sea chasm between Gouge, Tyrus, Folsom, Paul Rivera, Merrick, and Lord Fairwind's guards. This is the continuation of that fight. Can you see what's happening down there — roll perception?
+[SPEAKER_01]: [rolling] One.
+[SPEAKER_00]: You fired past your own — there's a gigantic shark down there, and three people have gone into the water. You can't make out anything useful.
+[SPEAKER_01]: Do I want to move around?
+[SPEAKER_02]: [clarifying] You mean me, not Gouge?
+[SPEAKER_01]: I'll cover that entrance, ready an arrow, watch for anyone trying to come through.
+[SPEAKER_00]: Okay, you post up, arrow ready, watching the entryway for anyone emerging.
+[SPEAKER_00]: Merrick, then Tyrus — your turn.
+[SPEAKER_03]: I'll use my action to move.
+[SPEAKER_00]: You move thirty feet normally — let's count it out. You're right here on the ledge.
+[SPEAKER_03]: And then dash the rest of the way?
+[SPEAKER_00]: Absolutely.
+[SPEAKER_03]: I'm at the door — is there a lock?
+[SPEAKER_00]: There's no door, just an open entryway — you can see rooms beyond it, with men inside.
+[SPEAKER_04]: [casting] I want to cast Bless on people near me.
+[SPEAKER_00]: You might not want to do that right now.
+[SPEAKER_04]: [grumbling] Fine — I'll ready Thunderous Smite instead, so if anyone comes through, it knocks them back.
+[SPEAKER_00]: Okay, bonus action, Thunderous Smite readied. So you come around the corner — actually, you don't enter the room, you're at the door, ready, and two guards come around — you blast the first one back a bit.
+[SPEAKER_00]: There are two guys standing right there, breastplates, swords drawn, ready for combat.
+[SPEAKER_03]: I'm going to move my thirty feet — over here — and yell to Jude while running, hoping he can convince him to levitate Paul out of the water.
+[SPEAKER_02]: Just run!
+[SPEAKER_00]: Okay, you've got your action — want to do anything else with it?
+[SPEAKER_03]: I want to give Jude some inspiration — how far away is he?
+[SPEAKER_00]: Within range.
+[SPEAKER_03]: I'll use my last Bardic Inspiration on Jude.
+[SPEAKER_00]: Good call. That's your bonus action — you've still got your action available too.
+[SPEAKER_03]: Can I help Gouge move, or is Fairwind too far to see?
+[SPEAKER_00]: You can't see him from here — you'll save your action.
+[SPEAKER_00]: Jude, your turn — you're casting Levitate?
+[SPEAKER_02]: Yes — do I have line of sight? I've got darkvision, so I should be able to see him flailing in the water.
+[SPEAKER_00]: If you cast Levitate, you can pull him twenty feet up out of the water right away. He's within sixty feet, within sight, and you raise him vertically twenty feet.
+[SPEAKER_02]: [casting] All right — Paul, you start rising out of the water.
+[SPEAKER_00]: Something rushes past your leg in the dark as you go.
+[SPEAKER_03]: [aside, regarding whether his Bardic Inspiration was used] He didn't need it — he gets to keep it.
+[SPEAKER_00]: So basically, you pull him out of the water, and now he's twenty feet above the platform, roughly fifteen feet up.
+[SPEAKER_05]: I'll reach for him if I can, but I think I can bring myself the rest of the way.
+[SPEAKER_05]: I'll hold my action until I get up there.
+[SPEAKER_00]: Okay, you're holding your action. Do you see Fairwind?
+[SPEAKER_05]: No.
+[SPEAKER_00]: All right — initiative order: Tyrus fourteen, Folsom eighteen, Paul ten, Merrick twenty, Gouge ten, the guards eleven.
+[SPEAKER_00]: Merrick, you're up first.
+[SPEAKER_03]: I'm going to move up — toward Jude.
+[SPEAKER_00]: You move up behind him.
+[SPEAKER_03]: Can I move further? I had my bow ready — let me look down at the water, can I see anything?
+[SPEAKER_00]: [rolling] Three — no, nothing useful. Lots of darkness.
+[SPEAKER_03]: Can I do something to help Paul while he's up there?
+[SPEAKER_00]: You see Paul levitating up out of the water — there's really nothing you can do for him right now, unless you throw him a rope.
+[SPEAKER_03]: I could try that next time.
+[SPEAKER_00]: Good idea for next time. For now, you ready your bow, watching the water.
+[SPEAKER_00]: Gouge — your action?
+[SPEAKER_01]: I'm going to move right next to Jude.
+[SPEAKER_00]: Do you have any rope?
+[SPEAKER_01]: No.
+[SPEAKER_00]: Then there's not much else for you to do — you've been caught a bit unprepared on that front.
+[SPEAKER_01]: Well, in that case, I'll grab onto Jude and use Enhance Ability — Bear's Endurance — give him some temporary hit points.
+[SPEAKER_00]: That's two d6 temporary hit points — roll it.
+[SPEAKER_01]: [rolling] Six, twelve — twelve total.
+[SPEAKER_00]: Solid roll there.
+[SPEAKER_00]: Tyrus, your turn.
+[SPEAKER_04]: I'm going to hold this position, keep these guards contained right here.
+[SPEAKER_00]: You hold the line.
+[SPEAKER_04]: I'll yell out: "We will kill the lord if you don't let us pass!"
+[SPEAKER_00]: You shout that, and ready your action — do you hear movement back down the stairway?
+[SPEAKER_04]: Probably, yeah — I've got my readied action waiting.
+[SPEAKER_00]: A guard steps up with sword drawn, attacking Tyrus. Can you see him?
+[SPEAKER_04]: Yes, with advantage, since he can't see me.
+[SPEAKER_00]: [rolling for the guard] Misses — the blow goes wide.
+[SPEAKER_00]: "Hey, at least you're not the one fighting the shark."
+[SPEAKER_00]: The guard pushes forward and attacks again — what's your AC?
+[SPEAKER_04]: Eighteen.
+[SPEAKER_00]: [rolling] He strikes — you block with your shield, then he comes back the other way and strikes again. This guy's skilled — that's a twenty-two, hits you.
+[SPEAKER_04]: Can I dodge?
+[SPEAKER_00]: Not at this point — he's already committed.
+[SPEAKER_04]: [taking the hit]
+[SPEAKER_00]: He knocks you down with that blow, then follows up with a stab.
+[SPEAKER_04]: [rolling to avoid] Manages to roll out of the way of that one.
+[SPEAKER_00]: Okay, back to the guards' turn.
+[SPEAKER_00]: Jude — you can adjust Paul's altitude by another twenty feet.
+[SPEAKER_02]: I'll bring him the rest of the way up onto the platform.
+[SPEAKER_00]: Do you want to help him onto solid ground?
+[SPEAKER_02]: Yeah — does he go before me, or do I move first?
+[SPEAKER_00]: Paul's already saved his action from before, so he goes.
+[SPEAKER_05]: [moving forward] We've got to go, go, go, go, go!
+[SPEAKER_00]: [tracking movement] You dash forward.
+[SPEAKER_00]: You see Tyrus getting disarmed by this guardsman — not just any guardsman, a particularly skilled one.
+[SPEAKER_05]: [checking his options] I'm not within attack range yet.
+[SPEAKER_00]: Right, and since you dashed, that's your action used — but you've still got your bonus action. Want to throw a dagger or hand axe?
+[SPEAKER_05]: I'll throw my hand axe.
+[SPEAKER_00]: Okay — so as Tyrus's weapon gets knocked from his hand, you come up from behind and throw the axe at the guard. Do you want to use Human Determination for advantage on the roll?
+[SPEAKER_05]: Yes.
+[SPEAKER_00]: [rolling with advantage] Thirteen plus your bonus — that hits!
+[SPEAKER_00]: Damage — one d6 plus five, total of about eleven.
+[SPEAKER_00]: You throw it over Tyrus's shoulder, and it clips the guard's helmet, slicing into his ear.
+[SPEAKER_00]: Ah!
+[SPEAKER_00]: Didn't get a clean headshot, but close enough — Gouge, you took your shot with the bow too?
+[SPEAKER_01]: No, that was Paul. I still have my action — I'll dash to move up behind Jude.
+[SPEAKER_00]: Initiative for this round: Tyrus eight, Paul twenty-two, Jude twenty-two, Merrick six, Folsom eleven, the guards nine and ten.
+[SPEAKER_00]: Paul or Jude — who goes first?
+[SPEAKER_05]: I'll go — I'm laying down flat, since we're jammed up in this space, so people can step over me if needed. I'll cast Levitate while doing it, trying to look for Fairwind.
+[SPEAKER_00]: So you're lying down, head tilted toward the edge, looking down — also clearing the path for others.
+[SPEAKER_01]: I can step over you, or even on you if I have to.
+[SPEAKER_05]: That's where he went into the water, right? I'm trying to spot him — roll perception?
+[SPEAKER_00]: Yes.
+[SPEAKER_03]: I've got a Bardic Inspiration available, if you want it before or after you roll.
+[SPEAKER_00]: You can add it after seeing your roll.
+[SPEAKER_05]: [rolling] Four.
+[SPEAKER_03]: Want to add it?
+[SPEAKER_05]: It'd take me to seven — not great, but better than nothing, since I'm hoping for at least a ten to actually spot him in this dark, choppy water.
+[SPEAKER_00]: With the bonus, that's seven — still not enough.
+[SPEAKER_05]: I don't see him.
+[SPEAKER_02]: Can I try too?
+[SPEAKER_00]: You can, but remember you don't have darkvision active relevant here — you don't see him either.
+[SPEAKER_00]: Jude's turn.
+[SPEAKER_02]: [shouting] Fairwind, you asshole — surface!
+[SPEAKER_00]: What do you want to do?
+[SPEAKER_02]: I'm looking for Fairwind too, scanning the water.
+[SPEAKER_00]: Roll perception — at disadvantage, since it's dark.
+[SPEAKER_02]: [rolling] Three.
+[SPEAKER_00]: No sign of him — however, you hear a splash off that way.
+[SPEAKER_02]: Toli, or a shark?
+[SPEAKER_00]: Could be either, hard to tell in the dark.
+[SPEAKER_00]: Folsom, your turn.
+[SPEAKER_06]: I'm going to move thirty feet, then dash — over here.
+[SPEAKER_00]: Bond's actually right there — okay.
+[SPEAKER_06]: I'll engage with my dagger and scimitar.
+[SPEAKER_00]: You step up next to Tyrus and attack that guard.
+[SPEAKER_06]: [rolling] Fourteen plus nine — that's a hit. Damage — one d6 plus six. I want this to count as a sneak attack, since Tyrus is flanking him.
+[SPEAKER_00]: Right, being within five feet of an ally fighting the same enemy qualifies — sneak attack applies. [rolling damage] Ten — eighteen, twenty-four total.
+[SPEAKER_00]: You walk up and slit the guy's throat right under his jaw — blood pours out.
+[SPEAKER_06]: I'll step toward the next guy and attack him too with my bonus action, if I can reach.
+[SPEAKER_00]: You can — go ahead.
+[SPEAKER_06]: [rolling] Natural twenty!
+[SPEAKER_00]: Show them how it's done.
+[SPEAKER_00]: That's two d4 damage plus your attack bonus — total of about eleven.
+[SPEAKER_00]: You stab the second guy — not down, but badly hurt.
+[SPEAKER_00]: There's a passage going off this way, with bars across an open doorway.
+[SPEAKER_00]: Gouge's turn — this guard, already damaged by Gouge, swings back with his sword.
+[SPEAKER_00]: What's your AC?
+[SPEAKER_01]: Sixteen — wait, no, I don't have my leather on right now.
+[SPEAKER_00]: Studded leather is twelve base, plus your dexterity modifier of four — that's sixteen.
+[SPEAKER_01]: My dexterity's actually higher right now from that buff, but that doesn't change my armor class directly.
+[SPEAKER_00]: Right, doesn't apply here. [rolling] Fourteen plus six — twenty, that hits you.
+[SPEAKER_00]: He sweeps your legs out and follows up — eleven points of damage from the blow, and you have to make a strength saving throw, DC fourteen.
+[SPEAKER_01]: [rolling] Eleven, minus the temporary hit points already absorbed some of that — so net, I'm at plus one effectively.
+[SPEAKER_00]: That's a big hit — he knocks you to the ground, then stabs at you with a follow-up.
+[SPEAKER_00]: [rolling] Nine plus six, fifteen — you manage to roll out of the way as he strikes.
+[SPEAKER_00]: Tyrus's turn.
+[SPEAKER_04]: I'm going to move in and attack this guy.
+[SPEAKER_00]: Bonus action — want to draw your dagger too, since your longsword's on the ground?
+[SPEAKER_04]: Yeah, I'll pull the dagger and throw it at him.
+[SPEAKER_00]: [rolling] Seventeen, twenty-two — that hits. Want to use Divine Smite, or do you still have Thunderous Smite loaded?
+[SPEAKER_04]: I've got Thunderous Smite ready — I'll use that.
+[SPEAKER_00]: That'll knock him back if he fails the save, plus an extra two d6 damage on top of your dagger's one d4 plus two, plus your strength bonus — that's about eight total damage.
+[SPEAKER_00]: You come up next to Gouge as this guy's standing over him, and you stab him twice with the dagger, right in the gut — he staggers back against the wall and collapses face-forward.
+[SPEAKER_01]: [from the ground] All right — put your arm up, help me up.
+[SPEAKER_00]: Merrick, your turn — you get to move.
+[SPEAKER_03]: I move forward. Did I hear any splashing earlier when Jude was looking for Fairwind?
+[SPEAKER_00]: You were watching Jude search, lying along the catwalk — you don't have darkvision, so within thirty feet you'd need to listen specifically. Roll for it.
+[SPEAKER_03]: Can I hear anything — splashing, water?
+[SPEAKER_00]: No, you hear nothing.
+[SPEAKER_03]: I'll keep moving up, then.
+[SPEAKER_00]: You move up next to Paul Rivera.
+[SPEAKER_05]: Don't push me.
+[SPEAKER_03]: I won't — trust me.
+[SPEAKER_00]: You guys see no remaining enemies nearby — what do you want to do?
+[SPEAKER_05]: I'm still scanning for Fairwind — I yell out loud: "Look for Fairwind!"
+[SPEAKER_00]: Jude yells the same.
+[SPEAKER_01]: I'll get up and watch to make sure nothing's coming.
+[SPEAKER_00]: You stand and face that direction, watching for threats. Do you want to redeem yourself, bard?
+[SPEAKER_06]: Actually, yeah — I'll go pick up my hand axe and head over there.
+[SPEAKER_00]: You want to walk over and grab Tyrus's sword too?
+[SPEAKER_06]: I'll grab it for him.
+[SPEAKER_00]: Gouge, you look down that hallway — nothing visible.
+[SPEAKER_00]: Tyrus, come with me — you look through the passage, and you see faint light off in the distance. There's what looks like a cliff edge, and on top of it, a ballista — a large siege weapon.
+[SPEAKER_00]: Beyond that, there's a huge cavern, about thirty feet from where you're standing, opening up wide. Do you want to push further, or hold position and report back?
+[SPEAKER_04]: I want to stay here and report back, and grab my sword.
+[SPEAKER_06]: I've got it — here.
+[SPEAKER_00]: Tyrus moves back to the side of the room, Folsom brings him his sword.
+[SPEAKER_04]: There's a ballista down there, torchlight, but I didn't see much else.
+[SPEAKER_01]: A ballista? [joking] That's hilarious — open door, whoo.
+[SPEAKER_04]: Wait — am I standing in the ballista's firing line, or off to the side?
+[SPEAKER_00]: You're off to the side — the ballista's actually mounted on a ledge, pointing down into a wide-open room below; doesn't seem aimed at where you're standing, more like covering some kind of guard point further in.
+[SPEAKER_00]: What do you all want to do?
+[SPEAKER_04]: I'm yelling for help finding Lord Fairwind.
+[SPEAKER_00]: You all start moving — which direction?
+[SPEAKER_01]: I'm lying down still, so if anyone needs to jump over me, go ahead — I'm looking this way.
+[SPEAKER_03]: I'll continue scanning down this direction.
+[SPEAKER_00]: Roll perception.
+[SPEAKER_03]: How deep is the water at the end there — still about thirty feet down?
+[SPEAKER_00]: About twenty feet above the water.
+[SPEAKER_03]: [rolling] Seventeen, with the bonus.
+[SPEAKER_00]: Nice — you see the shark moving off in that direction, and something floating in the water that looks like a human arm, drifting this way with the current.
+[SPEAKER_01]: Can I roll to spot anything else?
+[SPEAKER_00]: [rolling for Gouge] Eight — you see nothing.
+[SPEAKER_00]: Nobody else spots Fairwind specifically.
+[SPEAKER_01]: I got a ten, for what it's worth.
+[SPEAKER_00]: Still nothing — though it does look like the caverns continue in that direction.
+[SPEAKER_01]: No sign of Fairwind, then?
+[SPEAKER_00]: Correct — no Fairwind in sight.
+[SPEAKER_01]: Does it look like there's a way through if I check that opening?
+[SPEAKER_00]: Probably best not to risk it blindly — could be an escape route, could be something worse.
+[SPEAKER_05]: Did anyone else see anything? If not, I'll come back over to this ledge and start looking myself.
+[SPEAKER_00]: Want to make your way down to ground level?
+[SPEAKER_05]: Yeah, but I'm focused on finding Fairwind. If he went in right here, which way would the current carry him?
+[SPEAKER_00]: The tide's moving that direction — it would carry him further that way.
+[SPEAKER_05]: I'm jogging lightly, looking over the edge as I go.
+[SPEAKER_00]: You all search for about twenty seconds — you don't see anything except that arm floating.
+[SPEAKER_05]: [yelling out, alarmed]
+[SPEAKER_00]: You can make out the object floating that way.
+[SPEAKER_05]: I want to make sure — should I use a spell to check if it's actually Fairwind?
+[SPEAKER_02]: Who cares whose arm it is — if it's just an arm —
+[SPEAKER_05]: It matters, because either we're chasing Fairwind, or it's just leading us to shark bait.
+[SPEAKER_02]: What if it's the Toli, though?
+[SPEAKER_05]: I don't care whose arm it is — I'll levitate it up twenty feet and bring it down for a closer look, unless it's got a tattoo or something identifying.
+[SPEAKER_00]: It's just an arm — nothing attached to it, no other identifying features visible from here.
+[SPEAKER_02]: I thought you meant maybe there was a body nearby — light it up so we can see in the water.
+[SPEAKER_05]: If it's the Toli's arm, fine, it's the Toli's. If it's Fairwind's—
+[SPEAKER_02]: I don't care whose arm it is, if someone's bleeding out down there—
+[SPEAKER_05]: What I'm asking is whether that confirms Fairwind's dead, or if he's escaped and is hobbling around the island somewhere.
+[SPEAKER_00]: So you yell out, trying to get confirmation.
+[SPEAKER_05]: I'll cast Light on it, to identify it clearly.
+[SPEAKER_00]: You're about twenty-five feet above the water — that should be enough range to identify whose arm it is.
+[SPEAKER_05]: If it's lit, I'll cast Light directly on it.
+[SPEAKER_00]: Do you want to use a cantrip, or save a spell slot, to make sure?
+[SPEAKER_05]: I'll just cast Light — simplest option.
+[SPEAKER_00]: You cast Light on it, and it's definitely the Toli's arm — you can tell from the markings.
+[SPEAKER_05]: So Fairwind might still be alive — let's hope.
+[SPEAKER_01]: Do you have rope?
+[SPEAKER_05]: Yes.
+[SPEAKER_00]: You're going to go in the water?
+[SPEAKER_05]: With a rope tied off, yeah.
+[SPEAKER_00]: Okay, you tie some rope to yourself.
+[SPEAKER_05]: If the current's flowing that way, that's the direction he'd be drifting.
+[SPEAKER_00]: All right.
+[SPEAKER_05]: Hang on — I want to check if he's climbing out somewhere, under the walkway.
+[SPEAKER_00]: With the arm lit up nearby, there's enough ambient light to make out shapes below.
+[SPEAKER_05]: I'll look around to see if it's Fairwind down there.

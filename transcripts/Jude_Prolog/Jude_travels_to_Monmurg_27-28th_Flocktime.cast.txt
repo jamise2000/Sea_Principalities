@@ -1,0 +1,4 @@
+# Cast for Jude_travels_to_Monmurg_27-28th_Flocktime
+# Expected voices: 2
+SPEAKER_00: DM
+SPEAKER_01: Jude

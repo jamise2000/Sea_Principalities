@@ -1,0 +1,1676 @@
+[SPEAKER_00]: Second of Wealsun, Jude at Lord Jamis' office, they had just had a discussion and he had basically suggested there were several things he wanted Jude to look into.
+[SPEAKER_00]: Okay, so do you have any other questions for him or do you want to clarify anything?
+[SPEAKER_01]: What I wanted to double check is he gave me that ring.
+[SPEAKER_01]: And did you ever determine what that ring was?
+[SPEAKER_01]: I think I thought it was invisibility.
+[SPEAKER_01]: Do you know?
+[SPEAKER_01]: Is it lesser or greater?
+[SPEAKER_01]: Or do you?
+[SPEAKER_00]: Yeah, the ring of invisibility he took from you?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: He was talking about giving it back.
+[SPEAKER_01]: He said he kind of opened up a drawer and all that.
+[SPEAKER_00]: Yes, so obviously we have to modify these for the 5e rule, right?
+[SPEAKER_01]: Right.
+[SPEAKER_01]: For me, what I'd like to know mostly is, is it like unlimited charges?
+[SPEAKER_01]: Is it greater or lesser invisibility?
+[SPEAKER_00]: It is a ring invisibility.
+[SPEAKER_00]: It's just normal invisibility.
+[SPEAKER_00]: It's not greater, right?
+[SPEAKER_00]: But while you're wearing it, you can turn invisible as an action.
+[SPEAKER_00]: So there are no charges involved.
+[SPEAKER_00]: However, if you attack or whatever, you lose that invisibility, right?
+[SPEAKER_00]: You can also use a bonus action to become visible again.
+[SPEAKER_01]: Okay, so just hypothetically, if I was in combat with it, I can't become invisible with a bonus action, right?
+[SPEAKER_00]: No, that takes, that's an action.
+[SPEAKER_01]: That takes a full action.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: So, alright, gotcha.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Yeah, I think I understand how to make that work.
+[SPEAKER_00]: Okay, let me do something really fast.
+[SPEAKER_01]: Spell-wise, is it just going to be verbal, like to initiate it?
+[SPEAKER_00]: What do you mean?
+[SPEAKER_01]: Like I just say a word and I become invisible.
+[SPEAKER_01]: I just want to make sure I don't have
+[SPEAKER_00]: No, no, no.
+[SPEAKER_00]: You don't have to say or do anything.
+[SPEAKER_00]: Basically, it's like you put on the ring, or you turn the ring on your finger.
+[SPEAKER_00]: Right?
+[SPEAKER_00]: So there's no word.
+[SPEAKER_00]: It just takes an action.
+[SPEAKER_01]: Okay, gotcha, gotcha.
+[SPEAKER_01]: Cool.
+[SPEAKER_01]: The other thing is I want to make sure, Jameson had said, just to clarify with you, that I would have access to funds.
+[SPEAKER_01]: He gave me sort of access to, or at least I could ask for, I can't remember what our code name was, but for the torturer to give him.
+[SPEAKER_01]: One thumb.
+[SPEAKER_01]: One thumb.
+[SPEAKER_01]: But he also said something about securing our own food.
+[SPEAKER_01]: He said he couldn't be able to provide food.
+[SPEAKER_01]: Now, that's fine, but what I'm wondering is, is the state of the city, at least, when it comes to the... Now, what he said to you was he could not provide you good food.
+[SPEAKER_00]: Oh, good food.
+[SPEAKER_00]: Right, he said, you know, I can give you things like grain or oatmeal or whatever, right, but he's not going to be able to give you...
+[SPEAKER_00]: Quality, basically.
+[SPEAKER_00]: You're not gonna starve when you're under his care unless things get really bad, but you're not gonna eat well, is what he was saying.
+[SPEAKER_00]: Okay.
+[SPEAKER_01]: And he understands that I'll be operating largely out of thirds, correctly?
+[SPEAKER_01]: Correct.
+[SPEAKER_01]: I mean, so he understands that that will be sort of a base of operations for me if he needs to get in touch with me.
+[SPEAKER_00]: Yeah, he basically, you know he knows where your haunt was in the old days, and he expects you probably to go back there.
+[SPEAKER_00]: And if he needs to find you, if you're anywhere in the
+[SPEAKER_00]: Well, in the city, pretty much.
+[SPEAKER_00]: I mean, he's got spies everywhere, right?
+[SPEAKER_01]: Well, so...
+[SPEAKER_01]: As I'm moving through, did he clarify a little bit more on what he would like me to try to discern?
+[SPEAKER_01]: I know that I'm supposed to meet that other person of his.
+[SPEAKER_01]: He's not sure he can trust her completely.
+[SPEAKER_01]: So he wants me to try to verify that.
+[SPEAKER_01]: But am I sort of like doing a little bit of counter espionage?
+[SPEAKER_01]: Like am I trying to track down spies, spy system?
+[SPEAKER_00]: I think that's partly it.
+[SPEAKER_00]: I think that really what he wants you to do is to try and figure out, from what he talked to you about, he said, okay, so this Phranck guy, right?
+[SPEAKER_00]: He's kind of been doing things in the city, and I really don't know what to make of him.
+[SPEAKER_01]: The Phranck guy is no longer in the city, though.
+[SPEAKER_01]: He's the one that came and talked to the mad alchemist guy.
+[SPEAKER_00]: Right, right.
+[SPEAKER_00]: But I mean, what Lord Jamis was kind of saying to you is, okay, there's this guy named Lord Phranck who is associated with the Duke of Gradsul, right?
+[SPEAKER_00]: And he's been made head of Saltmarsh, which is over here, right?
+[SPEAKER_00]: Military Commandant of Saltmarsh, right?
+[SPEAKER_00]: And then Jamis said, and Phranck has been making some noise, because he came into Monmurg a month or so ago, a month and a half ago, and actually wanted to meet with Lord Jamis.
+[SPEAKER_00]: Okay?
+[SPEAKER_00]: And they actually had a meeting.
+[SPEAKER_00]: And then Lord Jamis kind of used Gouge and Karmirg to protect him.
+[SPEAKER_00]: But at the same time, at the same time, what happened was some Toli assassins tried to
+[SPEAKER_00]: Kill Phranck, right?
+[SPEAKER_00]: In the city of Monmurg.
+[SPEAKER_00]: In Monmurg.
+[SPEAKER_00]: And what it was is Lord Jamis had kind of gotten Goug and Karmirg to be his, like, defenders.
+[SPEAKER_00]: But what he said was that Phranck was questioning one of the Toli assassins.
+[SPEAKER_00]: That had attacked them that night on the port in the docks.
+[SPEAKER_00]: And it was obvious to Gouge that Phranck was questioning this guy and reading his mind.
+[SPEAKER_00]: Right?
+[SPEAKER_00]: And then what happened is Gouge basically said...
+[SPEAKER_00]: He asked Phranck to ask a question to the guy.
+[SPEAKER_00]: The guy asked the question.
+[SPEAKER_00]: Phranck asked the question and then told Gouge that basically Kane Toli had this artifact.
+[SPEAKER_01]: Right, and what we suspect is that Keoland's artifact somehow has something to do with maybe the dragon sea turtles.
+[SPEAKER_00]: Exactly.
+[SPEAKER_00]: And so what was weird is, after Phranck asked that question, Gouge basically said, okay, I've got the information I need.
+[SPEAKER_00]: And Phranck was like, what are you talking about?
+[SPEAKER_00]: You're just my, you know, you're my mercenary.
+[SPEAKER_00]: And Gouch said, well, no, I work for Lord Jamis, and thank you for the information.
+[SPEAKER_00]: Right?
+[SPEAKER_00]: And some other strange things happened, like there was this spy Khaleesi that Phranck had sent to the city that he had been in touch with.
+[SPEAKER_00]: And that was the person that Lord Jamis said, I've used her myself to do things.
+[SPEAKER_00]: For me, one of them is I used her to deliver my old harbormaster to Lord Phranck by getting Goug and Karmark to take this guy to Port Torvin, right here.
+[SPEAKER_00]: That's the place that got burned to the ground where all the food was destroyed.
+[SPEAKER_00]: So what Lord Jamis is saying is he's like, I don't really know who this Phranck guy is.
+[SPEAKER_00]: Right?
+[SPEAKER_00]: Because in some ways we're trying to figure things out together, but in other ways he's doing things like his, obviously his contact burned down Port Torvin.
+[SPEAKER_00]: He's got spies in Monmurg who...
+[SPEAKER_00]: This Khaleesi character who he thinks is hidden under his nose, but not really.
+[SPEAKER_00]: But he's got Kane Toli and a bunch of the Toli sort of riled up.
+[SPEAKER_00]: And he wants to know why.
+[SPEAKER_00]: In fact, when Phranck left Monmurg, he left on a boat and he apparently got captured by Kane Toli.
+[SPEAKER_00]: And then later escaped.
+[SPEAKER_00]: He was held on Caintola's Island, which is around here, right?
+[SPEAKER_00]: But he later escaped.
+[SPEAKER_00]: Lord Jamis also told you that there was a merchant who was a Monmergian merchant, but who operated as a smuggler out of Saltmarsh.
+[SPEAKER_00]: And Phranck had questioned the man
+[SPEAKER_00]: And frightened him enough to come back to Monmurg.
+[SPEAKER_01]: Was Lord Jamis ever able to intercept or question that man that came back?
+[SPEAKER_00]: Basically, he said he had, but he wanted you to go and seek him out.
+[SPEAKER_01]: Is that the Mad Alchemist, dude?
+[SPEAKER_00]: No, no, no.
+[SPEAKER_00]: The Mad Alchemist was another guy.
+[SPEAKER_00]: The name of the merchant is...
+[SPEAKER_00]: What was it?
+[SPEAKER_00]: Ebruck, I think.
+[SPEAKER_00]: Let me look that up, actually.
+[SPEAKER_00]: I have those notes down.
+[SPEAKER_00]: But no, Frunk also went and talked to a mad alchemist.
+[SPEAKER_00]: And this alchemist is actually in the foreign district as well, right?
+[SPEAKER_00]: And he was like, you could probably discern more about it than I can from him.
+[SPEAKER_00]: You know, I want you to go and talk to this guy and figure out what Lord Phranck was after.
+[SPEAKER_01]: And so Khaleesi, because she had traveled or been in service with Lord Phranck, has knowledge of Lord Phranck.
+[SPEAKER_01]: The Mad Alchemist had interactions with Lord Phranck.
+[SPEAKER_01]: And while Lord Phranck seems like he is allied, at least tentatively, with Monmurg, against the Toli, because he was captured by Cain Toli and he's riled up the two of the Tolis, he's still almost largely kind of like his models are unknown and he's pursuing his own ends.
+[SPEAKER_00]: It seems like that.
+[SPEAKER_00]: So, Lord Jamis isn't sure if he thinks he's an ally, or if he thinks he's actually an agent for the Duke of Gradsul, or what the deal is.
+[SPEAKER_00]: I mean, obviously, Lord Thronk is somebody that's working for the Duke of Gradsul, right?
+[SPEAKER_00]: But he...
+[SPEAKER_00]: You can't figure out his motivations, right?
+[SPEAKER_01]: Where is Lord Tronc now, to the best of our knowledge?
+[SPEAKER_01]: To the best of our knowledge, where is Lord Tronc?
+[SPEAKER_00]: In Saltmarsh.
+[SPEAKER_00]: Here.
+[SPEAKER_01]: Okay, okay.
+[SPEAKER_01]: Right.
+[SPEAKER_01]: So when he was in Saltmarsh, was it this merchant that you're going to look up their name?
+[SPEAKER_01]: A merchant that he had come back to Monmurg?
+[SPEAKER_00]: So the merchant that Lord Funk had interrogated had come back to Monmurg to sit out the war.
+[SPEAKER_00]: Apparently this guy is very rich.
+[SPEAKER_00]: This merchant is very rich and had had a successful business out of Saltmarsh.
+[SPEAKER_01]: So, Kane Toli is suspected as being the one who damaged or burned the food supply at Port Torvin.
+[SPEAKER_00]: No.
+[SPEAKER_01]: But not necessarily?
+[SPEAKER_01]: No?
+[SPEAKER_00]: No.
+[SPEAKER_00]: In fact... Was that Lord Fromm?
+[SPEAKER_00]: Well, this is the funny thing.
+[SPEAKER_00]: What Lord Jamis told you was that he had Gouge and Karmirg deliver
+[SPEAKER_00]: A spy who was once his harbormaster to Port Torvin, and there was supposed to be a hookup there to take the spy into custody.
+[SPEAKER_00]: Khaleesi had said that if he wanted to get this spy to Lord Phranck, deliver him here at Port Torvin.
+[SPEAKER_00]: So there was somebody to pick up the spy at Port Torvin, but it was the same person that burned down Port Torvin.
+[SPEAKER_00]: So they know it was not Cantoli.
+[SPEAKER_00]: And there was some relationship with Prank.
+[SPEAKER_01]: Is it south?
+[SPEAKER_01]: It's not on this map.
+[SPEAKER_01]: Is that one keep by the, I think it's the Houle, you said the Houle Marshes, there's a, is it West, Westguard?
+[SPEAKER_00]: It's called West Keep, and it's basically, here's Port Torvin, and there's a road that goes that way, and that road leads to West Keep.
+[SPEAKER_01]: Okay, and that's the one where there was the sort of like a juice and sort of people would do this dark ritual and invite at this beverage it was black juice and kind of go crazy violent?
+[SPEAKER_00]: Well...
+[SPEAKER_00]: They became crazy and violent after they did it several times.
+[SPEAKER_00]: But that's another thing that Lord Jamis said Phranck was talking about, investigating somewhat.
+[SPEAKER_01]: Was the substance or that region and the cult that was functioning out there?
+[SPEAKER_00]: The substance.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Well, that would make sense with the link to the alchemist.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Is there a priority?
+[SPEAKER_01]: Has the Lord Jamis given me any kind of like a priority?
+[SPEAKER_01]: So it's determined through maybe Khaleesi, the merchant who's in Monmurg, and the mad alchemist to try to discern more information about Lord Phranck so that we can make a determination on friend or foe.
+[SPEAKER_01]: Or whatever.
+[SPEAKER_01]: At least get something about his motivations.
+[SPEAKER_01]: But it's expected that Khaleesi knows something, some piece of the puzzle of Lord Kronk.
+[SPEAKER_01]: The Merchant knows something, and the Mad Alchemist.
+[SPEAKER_01]: Am I missing anybody besides those three?
+[SPEAKER_00]: No.
+[SPEAKER_00]: Not yet.
+[SPEAKER_00]: I don't think so.
+[SPEAKER_00]: I think that's a good amount.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: If I need to move in and out of the gates of Monmurg, you know, I was taken into custody.
+[SPEAKER_01]: Is there anything I need to do?
+[SPEAKER_01]: Is there a secret handshake?
+[SPEAKER_00]: To go in and out of where?
+[SPEAKER_01]: Well, I mean out of like the gate.
+[SPEAKER_01]: The only gate that I can think of that I would be either myself or sending my henchmen would be maybe the inland gate.
+[SPEAKER_01]: I might need to send him out on some errands.
+[SPEAKER_01]: I'm not entirely sure.
+[SPEAKER_01]: But because Monmurg is essentially under siege, I guess what I'm asking you, Jamis, is there any way for me to pass through that gate?
+[SPEAKER_01]: I was just taken into custody.
+[SPEAKER_01]: Is it always going to be so?
+[SPEAKER_00]: Basically, I think what we were going to say to you was, he doesn't want you to be seen as his guy.
+[SPEAKER_00]: So, I think the way it works is, he wants you to be...
+[SPEAKER_00]: He wants to communicate with you through other means.
+[SPEAKER_00]: So, he doesn't want to give you all of these...
+[SPEAKER_01]: Of course, of course.
+[SPEAKER_01]: Okay, yeah, so I get it then.
+[SPEAKER_01]: I get it.
+[SPEAKER_01]: I can find my own means in and out or such.
+[SPEAKER_01]: How do you want me to exchange information?
+[SPEAKER_01]: I don't want to necessarily risk one thumb, one thumbs for if I feel like I need somebody that needs me.
+[SPEAKER_00]: He says, well, I think Jude, what I'd like to do is use Khaleesi for that.
+[SPEAKER_00]: I'm going to treat you the way I treat Gouge and Karma, which is I've been using Khaleesi as a messenger between Gouge, Karma, and now you.
+[SPEAKER_00]: I've been trying to gain her trust to think that she's closer to me than you are.
+[SPEAKER_00]: So, let's use her as the proxy.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: If I suspect her of operating against us, is there, in the rare case, that I need to bypass the release?
+[SPEAKER_01]: Is there a further note?
+[SPEAKER_00]: Well, I've given you the Ring of Invisibility.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Well, I mean like...
+[SPEAKER_01]: I don't need to know all your secrets, but that's not going to save me if you've got some room that explodes into a firebomb that disintegrates me.
+[SPEAKER_01]: Either way, either way, I'll find some way to make contact with you.
+[SPEAKER_00]: I would suggest that if you do not trust Khaleesi,
+[SPEAKER_00]: And you suspect her working against me, then you should probably just come to my office directly.
+[SPEAKER_00]: Exactly.
+[SPEAKER_00]: I mean, if it gets that bad, and you know something like that is happening, then definitely come to me directly.
+[SPEAKER_00]: Polisi is not who I'm worried about.
+[SPEAKER_00]: I'm worried about the Toli.
+[SPEAKER_01]: I think that that's a fair worry.
+[SPEAKER_01]: I mean, I shared everything completely with you from the conversation with the Earl of Redskins.
+[SPEAKER_00]: Yeah, so I think that... Well, I think that what I'm trying to say here
+[SPEAKER_00]: I want the Toli to think that you are approachable, too.
+[SPEAKER_00]: Right?
+[SPEAKER_01]: And you believe that that's the same, that you've been able to preserve that with Gouge and Carmen?
+[SPEAKER_00]: I think that moving forward I'm going to be unable to do that.
+[SPEAKER_00]: After Gouge and Karmirg killed the four Toli assassins, they become suspect and... Should I choose a different location than Ferds?
+[SPEAKER_00]: No, no, no.
+[SPEAKER_00]: No, no, no.
+[SPEAKER_00]: You're known there.
+[SPEAKER_00]: You're known there, and they are associates of yours.
+[SPEAKER_00]: And the truth is, is that...
+[SPEAKER_00]: It is well known that I had Karmirg exiled from the city over two years ago.
+[SPEAKER_00]: So there's no good blood there.
+[SPEAKER_00]: And the truth is Karmirg and Gage were acting like sellswords for Lord Phranck when that occurred, when the battle occurred.
+[SPEAKER_00]: I don't believe that
+[SPEAKER_00]: Gouge and Karmirg necessarily look anything more than what they pretend to be, which is mercenaries.
+[SPEAKER_00]: Now, unfortunately, if a real war happens, that may have to change, but for now, I think that if you go and stay in Ferds, that's as good a place as any.
+[SPEAKER_01]: Okay, alright.
+[SPEAKER_01]: As a good note, to build on
+[SPEAKER_01]: You could give me access to some spells, but I'll give you that would involve water and not fire.
+[SPEAKER_01]: I've been blown shit apart for the last year on land, and fire is something that really would cause humans to flee, but on the ocean I realized that if I had to actually use fire spells, which is all that I have as far as my dominant, dominant spells, I have other spells of course, but if you need me to fight on the ship I'm happy to
+[SPEAKER_01]: I'll discuss things with my brother-in-law and we'll see what we can do.
+[SPEAKER_01]: Of course, of course.
+[SPEAKER_01]: All right, the only last thing is since I won't really be in direct contact with you, do you want me to run any financial requests?
+[SPEAKER_01]: I'm down to about five or six months.
+[SPEAKER_00]: I'll have Khaleesi bring you a stipend every week.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Fair enough.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Then it sounds like we're off.
+[SPEAKER_01]: It's good to see you again, Lord Jabez, only I had hoped things would be different.
+[SPEAKER_01]: To see Monmurg as it once was.
+[SPEAKER_00]: Well, at least to see Monmurg one last time before it falls, if it does happen.
+[SPEAKER_01]: I sincerely hope not.
+[SPEAKER_01]: And to the DM, just to remind him about my request, that he tried to notify the Philo and the D. Correct.
+[SPEAKER_01]: What they might anticipate from the South.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: Get a message to them.
+[SPEAKER_00]: Okay, you're going faint again, Steve.
+[SPEAKER_00]: Is your mouth moving away from the...
+[SPEAKER_01]: How's it sound now?
+[SPEAKER_00]: A little better.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: It might just be that they shift over time.
+[SPEAKER_01]: Make sure.
+[SPEAKER_01]: I just check my dongle.
+[SPEAKER_01]: It's up.
+[SPEAKER_01]: Let me know if I go faint again.
+[SPEAKER_00]: Okay.
+[SPEAKER_01]: Maybe it's just my face.
+[SPEAKER_00]: No, it kind of seems like your mouth is going away from the mic every once in a while.
+[SPEAKER_01]: This should drop down lights from the headphones.
+[SPEAKER_01]: Right.
+[SPEAKER_01]: But if I adjust the headphones on my ear or on my head, it might be pulling it away.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: Either that or the wire is twisting.
+[SPEAKER_00]: I don't know.
+[SPEAKER_00]: It's strange.
+[SPEAKER_00]: It goes in and out.
+[SPEAKER_01]: Does the wire twisting do stuff?
+[SPEAKER_00]: Well, I mean, it's the signal... Oh, yeah.
+[SPEAKER_01]: I guess if it's kind of cheap or something, maybe.
+[SPEAKER_01]: Right.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Just let me know again.
+[SPEAKER_00]: See, that was strange because right then it became very loud.
+[SPEAKER_01]: Oh, did it?
+[SPEAKER_01]: I just actually was messing around with the wire a little bit.
+[SPEAKER_01]: Wow, I wonder if that's the difference between inexpensive headphones and good ones.
+[SPEAKER_01]: It's probably the damn wire.
+[SPEAKER_01]: The damn wire is like super thin, like hairline fractured.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Well, we'll keep trying.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Tell me if I fade.
+[SPEAKER_00]: No, it sounds good right now.
+[SPEAKER_01]: Do you want me to leave by a back door?
+[SPEAKER_00]: I don't think that will be necessary.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: I had you brought here under arrest and questioned like I do many people.
+[SPEAKER_00]: Okay.
+[SPEAKER_01]: Very well.
+[SPEAKER_00]: You leaving should be fine.
+[SPEAKER_01]: Alright.
+[SPEAKER_01]: I give a bow.
+[SPEAKER_01]: Elvish quickly bow.
+[SPEAKER_01]: May we save
+[SPEAKER_01]: Lord Jeon and Monmurg.
+[SPEAKER_01]: Prince Jeon and Monmurg.
+[SPEAKER_00]: Yes.
+Okay.
+[SPEAKER_00]: Expect Khaleesi within the next few days to visit you.
+[SPEAKER_01]: Of course, of course.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: I want to, to you, the DM, I was thinking about using the Tanner as a connection to get a better source quality food.
+[SPEAKER_01]: Sending, is it Horatio?
+[SPEAKER_01]: Is that my man?
+[SPEAKER_01]: Horace.
+[SPEAKER_01]: Horace.
+[SPEAKER_01]: And sending Horace with a mount, like have him either rent a mount or purchase a mount, not a war steed or anything stupid.
+[SPEAKER_01]: But to go out and to deliver a partial payment of 50 gold with promise of if you can bring a wagon in of food resources that are more than just, you know, oatmeal.
+[SPEAKER_01]: Right.
+[SPEAKER_01]: That he would be paid double that amount.
+[SPEAKER_00]: Okay, so basically you leave the bailey, right?
+[SPEAKER_00]: And you collect Horace, who's basically sitting out front with the guards with your stuff.
+[SPEAKER_00]: And so you walk out of the bailey and walk down the stairs, okay?
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: All right.
+[SPEAKER_00]: And Horace stands up and a guard has come with you and he basically says, these two can go.
+[SPEAKER_00]: They're no longer needed.
+[SPEAKER_00]: And those guys walk off and they shut the door and you and Horace Bulpate are basically left there sitting on the stairs.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Well, I have a local place that we can go to to at least take a room.
+[SPEAKER_00]: What was that all about?
+[SPEAKER_01]: I'll explain to you later.
+[SPEAKER_01]: It's just a continuation of what happened, you know, more information about what happened when we got here, when we got waylaid on the high seas by Bratzel's ships.
+[SPEAKER_01]: Just more explanation.
+[SPEAKER_01]: I see.
+[SPEAKER_01]: There's a state of, apparently a state of war, or at least a fact of war, existing between Bratzel and the sea presses.
+[SPEAKER_00]: There seems to be quite a bit of tension around here.
+[SPEAKER_00]: The guards treated me well enough though.
+[SPEAKER_01]: Excellent, excellent.
+[SPEAKER_01]: I'll need you, that's your finest as far as making connections and just keep an eye out.
+[SPEAKER_01]: We're going to need a lot of information in the coming weeks.
+[SPEAKER_00]: I see.
+[SPEAKER_01]: This way.
+[SPEAKER_00]: All right.
+[SPEAKER_00]: So where do you want to walk?
+[SPEAKER_00]: You want to go back to the foreign district?
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: I'll go back to the foreign district.
+[SPEAKER_01]: As a foreigner and a non-citizen, you're not really allowed to hang out anywhere else but the foreign district.
+[SPEAKER_00]: Well, no.
+[SPEAKER_00]: First off, foreigners can be on the docks, or they can go to the Great Market, which is kind of in the center of town.
+[SPEAKER_00]: Or they can go into the foreign district, and actually, that's where most of them live, and a lot of them live there.
+[SPEAKER_00]: We're about to lose the connection, so I'm going to restart it, but let me explain this.
+[SPEAKER_00]: Where they cannot go, however, are on one of the four hills.
+[SPEAKER_00]: There are four hills around the city, and those are all restricted areas.
+[SPEAKER_00]: One is kind of the Merchant District.
+[SPEAKER_00]: Another one is the Noble District.
+[SPEAKER_00]: There's the Scholar District, which has like the library and all of the people that actually do studies, right?
+[SPEAKER_01]: Okay, so wait.
+[SPEAKER_01]: Merchant, Scholar.
+[SPEAKER_00]: Yep.
+[SPEAKER_01]: Noble.
+[SPEAKER_01]: Noble?
+[SPEAKER_00]: Yes.
+[SPEAKER_01]: And what was it for?
+[SPEAKER_00]: Well, that's the military district, where most of the military guys are, right?
+[SPEAKER_00]: Okay.
+[SPEAKER_01]: And I can go to the Great Square, the docks, and the farm district?
+[SPEAKER_00]: Pretty much, yeah.
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: Okay, I'm going to restart the meeting.
+[SPEAKER_01]: Okay, and when I, with the meeting...
+[SPEAKER_01]: Check, check, check.
+[SPEAKER_00]: Hey, I'm here.
+[SPEAKER_01]: All right, cool.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Yeah, well, we will return.
+[SPEAKER_01]: But I kind of say, just a little bit lowly, I just, you know, tell Horace to, you know, make sure that you know how to get back to Lord Jamis' place here.
+[SPEAKER_00]: All right, sir.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: So you guys walk down the dock, and you want to go to Ver's place, right?
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: Okay, so it's fairly late in the day, but you guys walk down the docks.
+[SPEAKER_00]: And enter the foreign district through the southern gate.
+[SPEAKER_01]: How do the defenses look?
+[SPEAKER_00]: Do they look still... Oh no, they're still strong.
+[SPEAKER_00]: And the guards are still there.
+[SPEAKER_00]: Obviously, this has not been going on long enough to wear down the... Basically, the military looks like it's well fed at this point.
+[SPEAKER_01]: Yeah, it's not like people are fighting over dead rats and shit yet.
+[SPEAKER_00]: Well, at least not the military.
+[SPEAKER_00]: I mean, people fight over dead rats in the foreign district all the time, so... That's not a new thing.
+[SPEAKER_00]: It's not usually that bad.
+[SPEAKER_00]: There are worse places, definitely.
+[SPEAKER_00]: But, you know, there are poor people in the foreign district, of course, right?
+[SPEAKER_00]: And...
+[SPEAKER_00]: Basically, you go through the southern gate and enter the foreign district and start heading towards first place, walking through the town.
+[SPEAKER_00]: You can definitely tell that there's a little more desperation here.
+[SPEAKER_00]: Than usual.
+[SPEAKER_00]: And there are arguments.
+[SPEAKER_00]: And it does look like there are people that are going without.
+[SPEAKER_00]: And the beggars look worse off than they usually are.
+[SPEAKER_00]: Right?
+[SPEAKER_00]: So, basically you reach Bird's Bar
+[SPEAKER_00]: By dusk.
+[SPEAKER_00]: And you can tell by the way Horace is looking around.
+[SPEAKER_00]: He's kind of...
+[SPEAKER_00]: Worried about the scene, because this is a rough part of town.
+[SPEAKER_00]: This is where mercenaries usually hang out, and Burge Bar is known to be a place where mercenaries often come, right?
+[SPEAKER_01]: I like a horse.
+[SPEAKER_01]: I've operated out of here for quite some time, but...
+[SPEAKER_01]: So, no piece knots on your blade, please.
+[SPEAKER_00]: I understand.
+[SPEAKER_01]: Still, I know the proprietor, unless he's changed.
+[SPEAKER_01]: If he's the same, if he gets third, he should be fine.
+[SPEAKER_01]: I'm sure he runs a fairly tight ship and a heavy crossbow behind the bar.
+[SPEAKER_01]: Just watch my back.
+[SPEAKER_00]: I will.
+[SPEAKER_01]: Alright, uh, we bring our stuff in, and is it crowded?
+[SPEAKER_00]: Okay, so you go in, and, um, I wouldn't say it's crowded.
+[SPEAKER_00]: You see a couple of new faces, um, Olven,
+[SPEAKER_00]: Wild men from the Medeo Jungle.
+[SPEAKER_00]: A couple of Toli rats basically looking to find jobs, odd jobs here and there.
+[SPEAKER_00]: Basically people looking to either get on with a slavership or maybe join the Navy but have been rejected for whatever reason, right?
+[SPEAKER_00]: You do not see Karmirg or Gouge, but you see Ferd behind the bar, basically cleaning glass and, you know, looking at his customers suspiciously.
+[SPEAKER_01]: Okay?
+[SPEAKER_01]: I pick a table in the corner, of course, back against the wall, a piece of view of the front door.
+[SPEAKER_00]: Okay, so basically, Horace has your crate of wine, right?
+[SPEAKER_01]: Right, yeah.
+[SPEAKER_01]: So I pointed a table in the corner, like, let's just go sit down right over here for a little bit.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Let's just take our time.
+[SPEAKER_00]: Okay, so he carries your crate of wine over to the table and puts it down, you know, and the 17 pairs of eyes, I mean, 17 eyes look at you.
+[SPEAKER_00]: One guy has missing an eye.
+[SPEAKER_00]: So it's an odd number as you come to the bar and put your stuff down on the ground, right?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Well, are we gonna be at a table over by the bar?
+[SPEAKER_01]: Like, is there a table free that's like, you know, somewhat like, you know, back against the wall?
+[SPEAKER_01]: Or am I gonna need to go up?
+[SPEAKER_00]: All the tables are against the wall.
+[SPEAKER_00]: So, there are no tables in the middle of the room.
+[SPEAKER_00]: So, yes, you can definitely find one that's against the wall.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: We find one that's against the wall.
+[SPEAKER_01]: I just, I just have him, uh, I have Horace, uh, put down the, uh,
+[SPEAKER_00]: Okay, he puts it down and he goes, I guess this is definitely a back against the wall kind of place.
+[SPEAKER_01]: I just smile and kind of chuckle.
+[SPEAKER_01]: I forgot how desperate the place was.
+[SPEAKER_01]: All right, well, I pull out a wine and I go up to the bar.
+[SPEAKER_00]: Okay.
+[SPEAKER_01]: I just wait patiently to, you know, the bird to come over.
+[SPEAKER_00]: Well, he's cleaning a glass.
+[SPEAKER_00]: He kind of looks at you.
+[SPEAKER_00]: He goes, I see you back, huh?
+[SPEAKER_01]: I said that I am.
+[SPEAKER_01]: That I am.
+[SPEAKER_01]: It's been some time.
+[SPEAKER_01]: Grab yourself a glass.
+[SPEAKER_01]: Bring two more.
+[SPEAKER_00]: He reaches under the bar and pulls out some glasses and brings them up and he goes, ah, you're going to treat me, I see.
+[SPEAKER_01]: Well, considering it will probably be the only glass we get, seeing as how I'll meet the rest of these for bribes, this will be the last time that I drink, and I shouldn't drink at least with an old acquaintance.
+[SPEAKER_01]: This is also my good man who guards my back.
+[SPEAKER_01]: This is Horace.
+[SPEAKER_01]: Horace, Herd.
+[SPEAKER_00]: Horace nods and then Herd kind of looks at him, kind of spits down the corner and goes,
+[SPEAKER_00]: Your guards are getting older, I see.
+[SPEAKER_00]: You look the same to me as you did when you left two years ago.
+[SPEAKER_00]: What brings you back?
+[SPEAKER_00]: Same thing that the half-orc and the red-eye came back for?
+[SPEAKER_01]: No, I mean, I actually came back to drag his sorry ass back to cross the Azure Sea.
+[SPEAKER_01]: He kind of left some unfinished business on the other side.
+[SPEAKER_00]: Oh, really?
+[SPEAKER_00]: Who's this?
+[SPEAKER_00]: The half-orc?
+[SPEAKER_01]: Who's he talking to?
+[SPEAKER_01]: Oh, yeah.
+[SPEAKER_01]: Karmirg.
+[SPEAKER_00]: Yeah, Karmirg.
+[SPEAKER_00]: He's been around.
+[SPEAKER_01]: Oh, yeah?
+[SPEAKER_01]: When's the last time you saw him?
+[SPEAKER_00]: It's been about three days.
+[SPEAKER_00]: He and Gouge have gone off again.
+[SPEAKER_00]: They seem to be up to some adventures lately.
+[SPEAKER_01]: Of course, of course.
+[SPEAKER_01]: Hey, you still have a set room that I can let out or reclaim?
+[SPEAKER_00]: I may.
+[SPEAKER_00]: How much are you willing to pay?
+[SPEAKER_01]: Well, as long as it's not lice infested and it's not on the first level, I'll pay well enough.
+[SPEAKER_00]: Well, I can get you something on the second level, but as to the lice infestations, that's your own problem.
+[SPEAKER_01]: You got at least clean sheets, bedding, perhaps another mattress.
+[SPEAKER_00]: You have been away a long time, haven't you?
+[SPEAKER_01]: Oh, come on.
+[SPEAKER_00]: You never used to be so picky yourself, even though I do remember you redesigning that place.
+[SPEAKER_00]: I'll tell you what, I can give you your old room.
+[SPEAKER_01]: I would appreciate that.
+[SPEAKER_00]: Okay, so he reaches down, actually, and brings out this kind of spiked club.
+[SPEAKER_00]: It's not spiked, but it's basically... Well, you know, it's like one of those little baseball bats people have, but it's got some... Like a tire knocker?
+[SPEAKER_00]: Exactly, exactly.
+[SPEAKER_00]: And he slams it down on the bar, and he goes, Hey, you!
+[SPEAKER_00]: He points his club across the thing to one of the guys on the other wall and goes, You're out!
+[SPEAKER_00]: The guy stands up, he's like this totally rat, and he goes, What do you mean I'm out?
+[SPEAKER_00]: I paid for the week of that room, I did.
+[SPEAKER_00]: He goes, Bert goes, This elf here says he wants his room back, and he's taking it.
+[SPEAKER_01]: I turn left.
+[SPEAKER_01]: Is that gonna be a problem?
+[SPEAKER_00]: Okay, the guy pulls out a knife, and goes, Maybe it is.
+[SPEAKER_01]: Okay, I...
+[SPEAKER_01]: Crinkle a little bit of fat bottle between my fingertips and give them, like, a slanty-eyed.
+[SPEAKER_01]: Without taking my eyes off the Toli rat, I just ask Fer.
+[SPEAKER_01]: I say, hey, Fer, has the town come to, uh, eating people yet?
+[SPEAKER_00]: People eating people?
+[SPEAKER_01]: Well, no, I say, sorry, I say, like, you know, has it come to cannibalism yet in the town?
+[SPEAKER_00]: Uh...
+[SPEAKER_00]: Isn't that desperate yet?
+[SPEAKER_01]: You still got that cold storage we could hang his body in?
+[SPEAKER_01]: Did you say that?
+[SPEAKER_00]: He goes, well, yes I do, actually.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: It's empty now.
+[SPEAKER_01]: Oh.
+[SPEAKER_01]: It might be that meat's back on the menu.
+[SPEAKER_00]: So the Toli Rat is kind of looking at you like,
+[SPEAKER_00]: Who do you think you are?
+[SPEAKER_01]: Just a weary traveler that's taking my room back.
+[SPEAKER_01]: Over your dead body or not.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Do you have a... Can you click on your intimidate skill?
+[SPEAKER_01]: Geez, do I have intimidate?
+[SPEAKER_00]: Oh yes, everybody does.
+[SPEAKER_00]: You probably just don't have...
+[SPEAKER_00]: So I go to my character sheet?
+[SPEAKER_00]: Go to your character sheet.
+[SPEAKER_01]: Let's see.
+[SPEAKER_01]: Public.
+[SPEAKER_01]: Core.
+[SPEAKER_01]: I want the core.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: So, uh, intimidate.
+[SPEAKER_00]: Intimidation.
+[SPEAKER_01]: I see it.
+[SPEAKER_01]: Do I just click on it?
+[SPEAKER_00]: Just click on it.
+[SPEAKER_01]: Normal role, submit.
+[SPEAKER_01]: What does it get?
+[SPEAKER_00]: A six.
+[SPEAKER_00]: Okay, so the guy says, no poncy elf is gonna kick me out of my room.
+[SPEAKER_00]: Okay, you just magic missile him.
+[SPEAKER_00]: Do it.
+[SPEAKER_01]: What do I need to do?
+[SPEAKER_01]: It's an auto hit.
+[SPEAKER_00]: So go to your character.
+[SPEAKER_00]: There's a little thing down that says magic missile.
+[SPEAKER_01]: Oh, is that gonna be under spells?
+[SPEAKER_00]: It's on the front page.
+[SPEAKER_00]: So on the core page.
+[SPEAKER_00]: On the core page, there are things that are attacks.
+[SPEAKER_00]: You have sleep, fireball, wall of fire, firebolt, all these other things.
+[SPEAKER_01]: So I just clicked it.
+[SPEAKER_00]: Now, let me look at this really fast.
+[SPEAKER_00]: Let me do it right because this is actually going to be three die four plus three.
+[SPEAKER_00]: Right?
+[SPEAKER_00]: Instead of one die, four plus three.
+[SPEAKER_00]: Okay?
+[SPEAKER_00]: So you clicked it, and it said it did a force of four, but I want you to click it again.
+[SPEAKER_01]: One more or two more times?
+[SPEAKER_00]: Just once.
+[SPEAKER_00]: Just once.
+[SPEAKER_00]: This will be the real attack.
+[SPEAKER_00]: Okay, so you do nine points of damage.
+[SPEAKER_00]: Okay, so you hit the guy with nine points of damage.
+[SPEAKER_00]: That does not kill him.
+[SPEAKER_00]: Roll an ish.
+[SPEAKER_01]: For initiative, it's just I'm going to go to the far left of the screen and roll a 20-sided, correct?
+[SPEAKER_00]: You could do that, or if you look at your character where it says initiative at the top, you can click on that.
+[SPEAKER_01]: 24.19?
+[SPEAKER_00]: Okay, so basically your magic missile hits him and it shocks him, okay?
+[SPEAKER_00]: He's going to attack you this next round.
+[SPEAKER_00]: You did not kill him.
+[SPEAKER_01]: Okay, but do I beat him in initiative?
+[SPEAKER_00]: You definitely beat him in initiative.
+[SPEAKER_00]: You rolled a 20, he rolled an 8.
+[SPEAKER_00]: Now, you can either use a magic missile or a firebolt.
+[SPEAKER_01]: Oh, the firebolt is a...
+[SPEAKER_00]: The thing about the firebolt is that you have to attack and actually hit him with his AC.
+[SPEAKER_00]: You get a plus 8 attack with your firebolt and it does 2 die 10 fire damage.
+[SPEAKER_00]: So it's up to you.
+[SPEAKER_00]: But it doesn't take any spell slots.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: He's got a couple other Toli-rat friends hanging out at the same table.
+[SPEAKER_00]: Yeah.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Yeah, then I'll do Firebolt.
+[SPEAKER_01]: So do I roll a 20-sided first?
+[SPEAKER_00]: So what you do is just click on Firebolt and it will roll everything and the damage.
+[SPEAKER_01]: Submit.
+[SPEAKER_00]: So your firebolt hits with a 28.
+[SPEAKER_00]: Okay?
+[SPEAKER_00]: So you rolled a 20.
+[SPEAKER_00]: And you did double damage.
+[SPEAKER_01]: Oh, I rolled a 20.
+[SPEAKER_01]: It doesn't say that I rolled a 20, but it does say plus 8.
+[SPEAKER_00]: Do you see how it's green?
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Whenever it's green, you rolled a 20.
+[SPEAKER_00]: Right?
+[SPEAKER_00]: And if you actually put your cursor over the 28, you'll see it's that you rolled a 20 plus 5 plus 3 because of your proficiency, right?
+[SPEAKER_01]: Holy smokes.
+[SPEAKER_01]: Okay, someone will pay for damage.
+[SPEAKER_00]: Well, you've done 10 points of fire damage.
+[SPEAKER_00]: You rolled a 3 and a 7.
+[SPEAKER_00]: So that's 10 points total, so you've done a total of 19 points.
+[SPEAKER_00]: Okay, so you hit the guy with... What's that?
+[SPEAKER_01]: Do we see if his greasy-haired ass turns on fire?
+[SPEAKER_01]: I think there's a chance of lighting fence somebody up.
+[SPEAKER_01]: I yell, get the water pail, bird!
+[SPEAKER_01]: Get the water pail!
+[SPEAKER_00]: Well, it does drop him, okay?
+[SPEAKER_00]: And he goes down and he is smoldering, right?
+[SPEAKER_00]: And let me see what it says about the cantrip firebolt.
+[SPEAKER_00]: A flammable object hit by the spell ignites and that it's not being worn or carried.
+[SPEAKER_00]: So no, you do not catch this crazy-ass fire.
+[SPEAKER_01]: I'm just thinking he probably hasn't been in a long time.
+[SPEAKER_01]: He's got a lot of oil.
+[SPEAKER_00]: Definitely true.
+[SPEAKER_00]: But he falls, right?
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: And the other two guys stand up and Horace pulls his sword and Ferd gets his crossbow and puts it on the table, right?
+[SPEAKER_00]: And he says, Ferd says, I suggest you get your friend out of here.
+[SPEAKER_01]: Does he look like he's dead dead?
+[SPEAKER_00]: He's knocked out.
+[SPEAKER_00]: Something like that, right?
+[SPEAKER_00]: And they kind of like look at you and look at Ferd, and Ferd is just basically sitting there with the crossbow bolt.
+[SPEAKER_00]: And they grab him up and they leave.
+[SPEAKER_00]: Everybody else in the room is kind of standing up.
+[SPEAKER_00]: Some have weapons drawn.
+[SPEAKER_00]: Some don't.
+[SPEAKER_00]: And they're just watching the situation.
+[SPEAKER_00]: But they grab those guys and leave.
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: And for looks at you goes...
+[SPEAKER_01]: I suppose I'll be paying for their rooms as well.
+[SPEAKER_00]: No.
+[SPEAKER_00]: They're all three staying in.
+[SPEAKER_00]: You know how totally rats are.
+[SPEAKER_00]: Oh shit.
+[SPEAKER_01]: And they were in my room?
+[SPEAKER_00]: It's only been for a few days.
+[SPEAKER_01]: I'm gonna definitely need a scrub.
+[SPEAKER_00]: Well...
+[SPEAKER_00]: I'll get a washer made to come up and take care of that for you.
+[SPEAKER_00]: A couple of copper coins.
+[SPEAKER_01]: Silver.
+[SPEAKER_01]: How much to keep the room for indefinitely?
+[SPEAKER_00]: Well, it's going to be the same rate that we used to do.
+[SPEAKER_00]: Ten gold coins a week.
+[SPEAKER_01]: Of course.
+[SPEAKER_01]: I give him 40 gold coins.
+[SPEAKER_00]: Okay, so you plot 40 gold coins down on the table.
+[SPEAKER_00]: He picks one up and...
+[SPEAKER_00]: Bites it and kind of looks at it and goes, foreign money, eh?
+[SPEAKER_01]: Best from Irongate, if they can mine.
+[SPEAKER_00]: Well, I'll take the coin.
+[SPEAKER_00]: I know Irongate.
+[SPEAKER_01]: They haven't too basic currency yet, as far as I know.
+[SPEAKER_00]: So he takes a sip of your wine and goes, ah, good stuff.
+[SPEAKER_00]: Yes.
+[SPEAKER_01]: Now, you said that your larders are empty.
+[SPEAKER_01]: We don't have a body to put in there yet, but do you have a source of any decent food?
+[SPEAKER_01]: I'm trying to procure that myself.
+[SPEAKER_00]: Well, I don't have a source of anything really right now.
+[SPEAKER_00]: The market's bare.
+[SPEAKER_00]: In fact, I have a feeling that Gouge is out looking for red-eye, if you know what I mean.
+[SPEAKER_01]: Of course, of course.
+[SPEAKER_01]: Seems like everything's in short supply.
+[SPEAKER_00]: Definitely.
+[SPEAKER_00]: If you come across anything, I'll buy it.
+[SPEAKER_00]: There's gold aplenty.
+[SPEAKER_00]: Nothing to buy it though.
+[SPEAKER_00]: Nothing to buy with it though.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Many of those Toli rats hanging around?
+[SPEAKER_01]: More than usual?
+[SPEAKER_00]: More than I'd like to see, definitely.
+[SPEAKER_00]: The war is on and they're looking for jobs on the ships.
+[SPEAKER_00]: Unfortunately, no one's hiring so they look around
+[SPEAKER_00]: Looking for trouble in the alleyways, all over the city.
+[SPEAKER_01]: Order's up after dark?
+[SPEAKER_00]: There's other ones out here too.
+[SPEAKER_00]: I don't want to talk about it inside the... Of course.
+[SPEAKER_01]: Show me to my room, please.
+[SPEAKER_01]: Certainly.
+[SPEAKER_00]: This way.
+[SPEAKER_00]: Okay, so he basically takes you to the back area and starts going up the stairs.
+[SPEAKER_00]: Horace behind you carrying the wine, right?
+[SPEAKER_01]: Anybody eyeballing us with like any particular...
+[SPEAKER_01]: It doesn't have to be interest, but more like I'm trying to decide if there's any allies with Toli grass, like, or maybe...
+[SPEAKER_00]: I wouldn't say that.
+[SPEAKER_00]: Everybody's eyeballing you.
+[SPEAKER_00]: I mean, everybody's looking at you.
+[SPEAKER_01]: Okay, but nobody looks particularly pissed, or...?
+[SPEAKER_00]: Everybody looks angry in Fird's Bar.
+[SPEAKER_00]: I mean, these are scumbags, okay?
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: I mean, you know, it's like... Is there a maid?
+[SPEAKER_00]: Is there a maid?
+[SPEAKER_01]: Is there somebody else behind the bar or was it just Burt?
+[SPEAKER_01]: It's just Burt, right?
+[SPEAKER_01]: Okay, how many patrons?
+[SPEAKER_00]: How many patrons?
+[SPEAKER_00]: There are like, uh, there are six now.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Next two rounds are on me, gents.
+[SPEAKER_01]: Sorry for the disturbance.
+[SPEAKER_00]: Uh, first goes...
+[SPEAKER_01]: I look at them, I like, well you do have booze, don't you still?
+[SPEAKER_00]: No!
+[SPEAKER_00]: I don't.
+[SPEAKER_01]: Oh.
+[SPEAKER_01]: Shit, so what are they all drinking, water?
+[SPEAKER_00]: Why do you think they're so angry?
+[SPEAKER_00]: You come in here with a case of wine?
+[SPEAKER_00]: Why do you think they're looking at you?
+[SPEAKER_01]: Well, I thought maybe they were pissed because I was... Next round's on Jude.
+[SPEAKER_01]: He takes out two bottles of your wine and puts it on the table.
+[SPEAKER_00]: And they go, ah!
+[SPEAKER_00]: The six guys jump up and they run up there and Fer just starts pouring your wine into there.
+[SPEAKER_00]: So you've used three of your twelve bottles.
+[SPEAKER_00]: No, three of your twenty-four bottles.
+[SPEAKER_01]: I gotta keep track of that shit.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Okay, so the guys go up there and they're not delicately drinking this wine.
+[SPEAKER_01]: Oh, shit.
+[SPEAKER_01]: You might want to sip that.
+[SPEAKER_00]: Okay, Barry goes, go up and get out of here.
+[SPEAKER_00]: Get up into your room.
+[SPEAKER_01]: Don't spill it.
+[SPEAKER_01]: You're spilling it.
+[SPEAKER_01]: Fine, fine.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Damn, no booze either.
+[SPEAKER_01]: Shit, this town really is on the edge.
+[SPEAKER_00]: Okay, so you and Horace go up into your room, right?
+[SPEAKER_00]: And it is a little messy, and, you know, the bed's unmade and so on, but these guys that have been staying there really didn't have much else in here, right?
+[SPEAKER_01]: I rifled through their shit, though, just to see.
+[SPEAKER_00]: Yeah, it's basically not much.
+[SPEAKER_00]: In fact, yeah, it's like they didn't leave packs or pouches or anything.
+[SPEAKER_00]: Maybe a odd shirt, something like that.
+[SPEAKER_01]: Sock, yeah.
+[SPEAKER_00]: Yeah.
+[SPEAKER_01]: Dirty one.
+[SPEAKER_00]: Okay.
+[SPEAKER_01]: Exactly.
+[SPEAKER_01]: So they were traveling, like, or at least everything that they have was on their bodies.
+[SPEAKER_00]: Pretty much.
+[SPEAKER_00]: They had their weapons, their money, everything like that.
+[SPEAKER_00]: Otherwise, however, your room is pretty undisturbed.
+[SPEAKER_00]: The bookcase is still there.
+[SPEAKER_00]: I remember your character did a lot to try and make his area nice.
+[SPEAKER_00]: You're annoyed because your bookcase, somebody's carved their initials in it.
+[SPEAKER_00]: And, you know, parts of the room are scratched and so on, but the furnishings are still nice.
+[SPEAKER_00]: It's not like Ferd went up there and just kind of tore everything out.
+[SPEAKER_00]: Right?
+Right.
+[SPEAKER_00]: And the window still has the best view of the docks of any place in the foreign district.
+[SPEAKER_01]: All right, Horace, we'll make yourself comfortable.
+[SPEAKER_01]: I think we should both crash here.
+[SPEAKER_01]: There's enough room.
+[SPEAKER_01]: We'll just need another cop brought up for you.
+[SPEAKER_01]: And I start to mending.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: What's our plan next, Jude?
+[SPEAKER_01]: Well, we want to secure a food source, especially for FURD.
+[SPEAKER_01]: We might be able to take the edge off the anger if we can.
+[SPEAKER_01]: I'm thinking it has to be outside of the city, most likely.
+[SPEAKER_01]: I was thinking of Tanner.
+[SPEAKER_01]: What are your thoughts?
+[SPEAKER_01]: Tanner might have access to food.
+[SPEAKER_01]: At least, otherwise, we'll go broke spending all of our gold for just rabbit meat.
+[SPEAKER_00]: Eh, but Tanner might have noticed some fishermen.
+[SPEAKER_00]: Usually, poor towns do well like this because, you know, you can't boycott the sea.
+[SPEAKER_01]: Of course, of course.
+[SPEAKER_01]: And, being out in smaller towns, I'm sure that they saw this coming fairly rapidly, so I'm willing to pay good for their stores, or at least access to some of their stores.
+[SPEAKER_00]: I have another thought too, Jude.
+[SPEAKER_00]: What?
+[SPEAKER_00]: Owen Black.
+[SPEAKER_00]: I'm sure they're smugglers.
+[SPEAKER_01]: How do you think, uh...
+[SPEAKER_01]: I'm not entirely sure.
+[SPEAKER_01]: We don't have a way of getting back in touch with Owen Black, do we?
+[SPEAKER_00]: No, we don't, unfortunately, but I'm sure that there are smugglers that operate.
+[SPEAKER_01]: Or the fishermen.
+[SPEAKER_00]: Yeah, maybe I'll talk to some of the fishermen in the village when I'm out there.
+[SPEAKER_01]: So I'll send you out.
+[SPEAKER_01]: I'll send you with, what do you think, 50 gold?
+[SPEAKER_01]: Tell him another 50 when he arrives with a wagon full of some provisions.
+[SPEAKER_01]: Please, just not Google.
+[SPEAKER_01]: I mean, anything's better than nothing, of course.
+[SPEAKER_01]: But some sides of vacants, certainly any fish that they can catch.
+[SPEAKER_01]: That would be welcome.
+[SPEAKER_01]: Fat, lard, things like that.
+[SPEAKER_00]: That sounds good.
+[SPEAKER_00]: I'll leave tomorrow morning.
+[SPEAKER_01]: Yes, Monmurg's no place, I think, to be leaving in the dark.
+[SPEAKER_01]: Watch yourself.
+[SPEAKER_01]: We've made enemies.
+[SPEAKER_01]: I do apologize, but watch yourself.
+[SPEAKER_00]: Certainly.
+[SPEAKER_00]: Well, I guess to bed now.
+[SPEAKER_01]: Yeah, now is there a second cotton here?
+[SPEAKER_01]: Do I need to, like, I mean, I can ask to have one brought up.
+[SPEAKER_00]: Yeah, no, no, no.
+[SPEAKER_00]: I mean, so Horace will, he can sleep on the floor tonight.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: I'm sure you don't think he's got good betting.
+[SPEAKER_01]: I mean, I'm not trying to get to it.
+[SPEAKER_00]: Yeah, I mean, you guys have bedrolls, things like that.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Yeah, that's true.
+[SPEAKER_01]: We've been fighting and campaigning for a year.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Like I said, I do some mending, take the initials off of it.
+[SPEAKER_01]: I make a note of the initials, but...
+[SPEAKER_00]: It's, it's, um, karma.
+[SPEAKER_00]: Not really initials.
+[SPEAKER_01]: Oh, is it karma?
+[SPEAKER_01]: He doesn't scribble.
+[SPEAKER_01]: I know this karma is scribble.
+[SPEAKER_01]: Yeah, exactly.
+[SPEAKER_01]: Okay, well, if anything needs to be repaired or fixed, I'll use my mending.
+[SPEAKER_00]: Okay, so you go through the room basically mending the... Yeah, loose stools, broken stool legs, whatever.
+[SPEAKER_00]: Okay, so by the end of the night, you have your room in pretty good shape.
+[SPEAKER_00]: And, you know, you feel comfortable.
+[SPEAKER_00]: Kind of like coming home.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Coming home.
+[SPEAKER_01]: I fill him in on, I fill Horace in on a little bit more detail regarding that we will be meeting Khaleesi, specifically about Khaleesi.
+[SPEAKER_01]: If Lord Jamis described any parts of her, you know, she is an elf, right?
+[SPEAKER_00]: Yes.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: So there'll be a female elf, whatever color hair, you know, I'd do some basic descriptions
+[SPEAKER_01]: She should be getting back in touch with us in a couple days, maybe two, three days.
+[SPEAKER_01]: But hopefully, I would like you to, when you travel out, if you can just be careful, watch yourself.
+[SPEAKER_00]: Certainly.
+[SPEAKER_00]: When I'm in ENSAR, what do you plan to do?
+[SPEAKER_01]: Well, I think that I'm going to talk with Ferd and try to reacquaint myself with the foreign district.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Also, when you're out there on Instaar, see if you can slip some gold into maybe a fisherman's hand if he knows any way to make contact with Owen Black.
+[SPEAKER_01]: You can definitely get some blues in this bar.
+[SPEAKER_00]: I'll see what I can do.
+[SPEAKER_01]: Fair enough.
+[SPEAKER_01]: I'm sure Ferb would pay for it, as he said down below.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: I try to sleep, but I don't think I'm going to be able to sleep.
+[SPEAKER_01]: There's too much stuff going into my brain.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: So you do what you normally do, which is trance.
+[SPEAKER_00]: Yeah, sure.
+[SPEAKER_00]: So that goes on for four hours.
+[SPEAKER_01]: In this program, do I need to reset anything?
+[SPEAKER_01]: Does it take my spell slots?
+[SPEAKER_00]: Normally, I keep track of that.
+[SPEAKER_00]: I don't think it records your spell slots, actually.
+[SPEAKER_00]: That would be an interesting feature.
+[SPEAKER_00]: I think that would be neat.
+[SPEAKER_00]: Actually, you can go to Long Rest and click on that.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Maybe they added that.
+[SPEAKER_00]: That's cool.
+[SPEAKER_00]: Let me check really fast.
+[SPEAKER_00]: Yeah, so basically...
+[SPEAKER_00]: Yeah, you have to record spell slots, so when you cast a spell, it doesn't automatically record that.
+[SPEAKER_00]: We'll have to do that in the future.
+[SPEAKER_00]: But if you click on long rest... What does that do?
+[SPEAKER_00]: Oh, it doesn't do anything.
+[SPEAKER_01]: It doesn't really do anything.
+[SPEAKER_00]: I think they're going to be putting that feature into the game soon.
+[SPEAKER_00]: That would be nice.
+[SPEAKER_01]: That would be.
+[SPEAKER_01]: Yeah, because then it would kind of keep track of your spell usage without worrying about, you know, if that missed it.
+[SPEAKER_00]: Exactly.
+[SPEAKER_01]: Yeah, so I'll move downstairs, like let Boris sleep if he's able to, you know, if he's a seasoned campaigner and he's out.
+[SPEAKER_01]: Make sure the room's locked, you know, when I leave so it's not just open to anybody.
+[SPEAKER_01]: And then, yeah, I'll go down and like try to talk to Fer a little bit more discreetly.
+[SPEAKER_01]: Maybe in his back room or his kitchen or something like that.
+[SPEAKER_00]: All right.
+[SPEAKER_00]: So, that evening, you want to do it that evening?
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: So, you go back downstairs, leaving Horace up top, right?
+[SPEAKER_00]: And there are still people in the bar.
+[SPEAKER_00]: Ferd is basically still there just kind of watching things.
+[SPEAKER_00]: The two bottles have been completely drunk down.
+[SPEAKER_00]: Of course.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: And so you come down into the front room and, you know, Ferd's basically there.
+[SPEAKER_00]: There are only five guys in the bar still, though.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Lordian, local Monmurian, no more Toli grass.
+[SPEAKER_01]: You said some wild men from Medeo.
+[SPEAKER_00]: There's an old men, a couple of old men from the Medeo jungle.
+[SPEAKER_00]: They're like basically mercenaries, right?
+[SPEAKER_01]: They left experienced?
+[SPEAKER_00]: Oh yeah.
+[SPEAKER_01]: They've been around a lot of men in arms and mercenaries lately.
+[SPEAKER_01]: Still, I'm thinking to myself, that's Toli territory, right?
+[SPEAKER_01]: Doesn't the Tolis control the trade out of the Inidia?
+[SPEAKER_00]: Yeah, but they take Ullman as slaves.
+[SPEAKER_00]: So these are guys that either are guides or, you know,
+[SPEAKER_00]: These are sort of like from tribes that work with the Toli or with the Monmurians to capture other people.
+[SPEAKER_01]: Right.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: They trade for better weapons, better... Yeah.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: The rest of them, are they pretty much locals?
+[SPEAKER_01]: Denizens?
+[SPEAKER_01]: Streets?
+[SPEAKER_00]: Yeah, they're Oeridians that they look like they're from the Outer Isles.
+[SPEAKER_00]: But, you know, they're a rough crowd.
+[SPEAKER_00]: These are like...
+[SPEAKER_00]: People come into Fird's Bar to buy sellswords.
+[SPEAKER_00]: To get sellswords.
+[SPEAKER_00]: Right?
+[SPEAKER_00]: To hire people to fight for them.
+[SPEAKER_00]: So it's not...
+[SPEAKER_01]: So the Toli rats getting beat up is probably not going to help their reputation.
+[SPEAKER_00]: Of the Toli rats?
+[SPEAKER_01]: Yeah, once they've got Toli... Yeah, it's not going to help their reputation.
+[SPEAKER_00]: You know, and actually...
+[SPEAKER_00]: I don't think anybody really cared about what you did, by the way.
+[SPEAKER_01]: Okay, I can barely hear you.
+[SPEAKER_01]: Oh, sorry.
+[SPEAKER_01]: I'd prefer another glass if we didn't polish off that first bottle that I opened up later.
+[SPEAKER_00]: Sure, sure.
+[SPEAKER_00]: Okay, he picks it up and he goes, I do appreciate you bringing some wine in.
+[SPEAKER_00]: It's not my favorite stuff, but it's better than going without.
+[SPEAKER_01]: How long has the alcohol been depleted?
+[SPEAKER_00]: It's been about a week.
+[SPEAKER_01]: Oh, damn.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: No sources that you've been able to secure?
+[SPEAKER_00]: Well, actually, that's kind of where Karmirg and Gouge are now.
+[SPEAKER_00]: Don't say anything about it, but they're looking at trying to get more supplies from Westkeep.
+[SPEAKER_01]: That's a little bit farther out.
+[SPEAKER_01]: Do you think if I send my man out to Ansar that he might be able to secure some food for gold?
+[SPEAKER_00]: Possibly at the Fisher Village.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: I've done that too.
+[SPEAKER_00]: Port Colm as well.
+[SPEAKER_00]: They're not as effective as we are.
+[SPEAKER_00]: Of course.
+[SPEAKER_00]: Not everybody can do that though.
+[SPEAKER_01]: So you had referred to others besides just the Toli rats.
+[SPEAKER_01]: Do you want to go to your back room?
+[SPEAKER_00]: All right.
+[SPEAKER_00]: There's nothing really here to steal.
+What the?
+[SPEAKER_01]: I wouldn't say that.
+[SPEAKER_01]: It's a decent place.
+[SPEAKER_00]: No, the only thing these rabble would try to steal is my alcohol, but unfortunately I have none.
+[SPEAKER_00]: So, yes, let's go in the back room.
+[SPEAKER_00]: Have a little chat.
+[SPEAKER_00]: Okay, he looks across and goes,
+[SPEAKER_00]: Not if you take anything and the two of you walk back into the kitchen, which basically is pretty bare, right?
+[SPEAKER_01]: Damn.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: So, this seems pretty dire here.
+[SPEAKER_01]: Are you even able to put much on the table for these fellas out there?
+[SPEAKER_00]: They don't come here for the food, they come here for the patrons looking for, you know, them.
+[SPEAKER_00]: They're what's for sale, more than anything.
+[SPEAKER_01]: Well, I'm surprised every mercenary hasn't been snatched up already by the princes.
+[SPEAKER_00]: But I guess if they can't sally for... Oh, you'd be surprised, actually.
+[SPEAKER_00]: Princes, nobles, merchants, those are usually the people that hire these men.
+[SPEAKER_00]: But without the great market working,
+[SPEAKER_00]: It's hard for these sellswords to find a decent day of pay.
+[SPEAKER_01]: Is it the same all over the city?
+[SPEAKER_00]: Well, I would say the Noble District has more than its fair share, of course.
+[SPEAKER_00]: Military doesn't look too bad off.
+[SPEAKER_00]: Merchants, of course, are fat.
+[SPEAKER_00]: I'm sure that their larders are all
+[SPEAKER_00]: Decently filled, actually.
+[SPEAKER_00]: No one knows how long this is gonna last, though, so no one's really selling.
+[SPEAKER_01]: What is the word on the street as to why the Sea Princes haven't sallied for us and kicked the crap out of Gradsfield?
+[SPEAKER_00]: The word on the street is that Lord Jamis is a coward, but you and I know that's not true.
+[SPEAKER_00]: I've heard the rumors, and by the way, Gouge and Karmirg have talked in my presence a few times.
+[SPEAKER_00]: There's totally spies around, believe you me.
+[SPEAKER_01]: Now, you said there's been an increase in others.
+[SPEAKER_01]: Have you seen an increase in Suu?
+[SPEAKER_00]: Oh, definitely.
+[SPEAKER_00]: Definitely.
+[SPEAKER_00]: So, the Toli are crawling through the city.
+[SPEAKER_00]: And in fact, I don't know if you've known this, the Gouge and Kalmar ran into six of them at one point, killed many of them.
+[SPEAKER_00]: Out on the docks, no less.
+[SPEAKER_01]: At broad daylight or at nighttime?
+[SPEAKER_00]: No, it was at nighttime.
+[SPEAKER_00]: They were protecting some fool who had sailed into town, was flashing his money all over the place.
+[SPEAKER_00]: Some crazy Keog Suel, supposedly from Gradsul.
+[SPEAKER_00]: Anyway, asking a lot of questions, making himself very well known.
+[SPEAKER_00]: Kind of a fool.
+[SPEAKER_00]: But apparently,
+[SPEAKER_00]: He got the attention of the Toli.
+[SPEAKER_00]: Steve?
+[SPEAKER_00]: Hey, I'm here.
+[SPEAKER_01]: All right, cool.
+[SPEAKER_01]: Sorry, I had to run to the bathroom real quick.
+[SPEAKER_00]: Okay.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: So we have Suel and Toli here, crawling all over the city.
+[SPEAKER_01]: You've been privy to some of Gouge and Karmirg's conversations.
+[SPEAKER_01]: Where do you think I can help best?
+[SPEAKER_01]: Help what?
+[SPEAKER_01]: I don't know, gouging Karnberg, isn't that what I always end up doing, is bailing their ass out of some sort of bullshit or the other?
+[SPEAKER_00]: Yes, well, that's for sure.
+[SPEAKER_00]: I don't know, some young lass has been coming in and talking to them, hiring them for jobs every now and then.
+[SPEAKER_00]: Hmm.
+[SPEAKER_01]: Maybe point her out if she comes in, that I happen to be down in the common room or something.
+[SPEAKER_00]: Yeah, you can't miss her, she's one of your kind.
+[SPEAKER_01]: Oh.
+[SPEAKER_01]: What else?
+[SPEAKER_01]: Huh.
+[SPEAKER_01]: Pretty?
+[SPEAKER_00]: Eh.
+[SPEAKER_00]: I've seen prettier, but, yeah, she's not bad to look at.
+[SPEAKER_01]: She's not plump like you like?
+[SPEAKER_00]: Well, not even close.
+[SPEAKER_00]: She's a wood elf.
+[SPEAKER_00]: Very skinny, like yourself.
+[SPEAKER_01]: Well, we both know you don't fight.
+[SPEAKER_01]: Well, I can blow things up really well.
+[SPEAKER_00]: Well, that has more utility in most cases.
+[SPEAKER_00]: You could probably get yourself a job with the Navy if you wanted to.
+[SPEAKER_00]: I'm sure they are looking for someone with your skills.
+[SPEAKER_00]: You need it.
+[SPEAKER_01]: If I need it, I may.
+[SPEAKER_01]: We can't get booze in this place.
+[SPEAKER_00]: Yeah, like I said, there's no work escorting nobles or merchants anymore.
+[SPEAKER_00]: It's hard times.
+[SPEAKER_00]: So,
+[SPEAKER_01]: Have you, uh, any strong arms on your pay roster?
+[SPEAKER_00]: I don't pay those fools.
+[SPEAKER_00]: They pay me.
+[SPEAKER_01]: Well, I'm just thinking in case some Lord look totally rats come back.
+[SPEAKER_00]: Oh, don't worry about those.
+[SPEAKER_00]: Galgen Carmich will have their heads if they see them.
+[SPEAKER_00]: Apparently somebody's put a bounty on them.
+[SPEAKER_01]: On Toli?
+[SPEAKER_01]: Rats?
+[SPEAKER_01]: Or on foul gauchin karma?
+[SPEAKER_00]: No, the assassins.
+[SPEAKER_00]: The assassins.
+[SPEAKER_00]: They stand out.
+[SPEAKER_00]: You can tell them from a mile away.
+[SPEAKER_01]: Seriously?
+[SPEAKER_00]: Oh yes, absolutely.
+[SPEAKER_00]: Sewal, silk shirts, delicate swords and daggers.
+[SPEAKER_01]: They haven't even tried to disguise themselves.
+[SPEAKER_00]: Well, they didn't that night.
+[SPEAKER_00]: After that, though, what Gouge told me is somebody to put a prize on their heads.
+[SPEAKER_00]: And basically, he was told to kill them if he saw any of them in the city.
+[SPEAKER_00]: Since then, they've been nowhere.
+[SPEAKER_00]: Their spies are still around, however.
+[SPEAKER_01]: Their spies is obviously observable.
+[SPEAKER_00]: Not as obvious as you might think.
+[SPEAKER_00]: I heard tell that Lord Jamis actually had a spy in his own council.
+[SPEAKER_00]: In fact, from what Gouge told me, this man had been spying on Lord Jamis right under his nose for months.
+[SPEAKER_00]: Gouge took the man out at Lord Jamis' bequest.
+[SPEAKER_01]: If I need some eyes and ears on the streets to look for some of these spies, do you have any resources that you trust?
+[SPEAKER_00]: What are you looking for?
+[SPEAKER_01]: Spies.
+[SPEAKER_00]: Well, those are hard to come by.
+[SPEAKER_00]: I mean...
+[SPEAKER_00]: We could have the lads keep an eye out, if that's what you'd like.
+[SPEAKER_01]: Yeah, what do they need?
+[SPEAKER_01]: Do they need food or pay?
+[SPEAKER_00]: I'm sure food would go better.
+[SPEAKER_01]: Food would go better, of course.
+[SPEAKER_00]: At this point.
+[SPEAKER_00]: But exactly what are you looking for?
+[SPEAKER_01]: Well, more... more Suel assassins.
+[SPEAKER_01]: Of course, maybe more discreetly hid now.
+[SPEAKER_01]: Certainly anybody...
+[SPEAKER_01]: I'm looking to see... if they penetrated Lord, if some force, some spy, some Seul spy penetrated Lord Jamis' counsel.
+[SPEAKER_00]: He wasn't a Seul.
+[SPEAKER_01]: He wasn't?
+[SPEAKER_00]: He was an Oeridian, yes.
+[SPEAKER_00]: He's being paid off by a Seul, though.
+[SPEAKER_00]: Of course it wouldn't be that easy.
+[SPEAKER_00]: A Toli, no less.
+[SPEAKER_01]: Hmm.
+[SPEAKER_00]: But no, there are spies all over the place, from what I've heard.
+[SPEAKER_00]: From what Gow just told me.
+[SPEAKER_01]: You mean, uh, Toli?
+[SPEAKER_01]: Toli spies, or just spies?
+[SPEAKER_00]: They're not Toli, of course, Jude.
+[SPEAKER_00]: They're Oeridians, just like.
+[SPEAKER_01]: Well, it paid off by the Toli.
+[SPEAKER_00]: Absolutely.
+[SPEAKER_01]: Of course it wouldn't have been that easy, too.
+[SPEAKER_00]: In fact, I wouldn't be surprised if some of the men out there weren't on their payroll.
+[SPEAKER_00]: After what Gouge did.
+[SPEAKER_01]: Wait, what did Gouge do?
+[SPEAKER_00]: He killed their assassins.
+[SPEAKER_00]: I just told ya.
+[SPEAKER_01]: Oh, I see what you mean.
+[SPEAKER_01]: Sorry, sorry.
+[SPEAKER_00]: No, it's a strange time.
+[SPEAKER_00]: People talking and so on.
+[SPEAKER_01]: So I'm surprised you don't have a still being operated.
+[SPEAKER_01]: I mean, grain?
+[SPEAKER_01]: Rule?
+[SPEAKER_01]: Turning that into alcohol?
+[SPEAKER_01]: There's a mint to be made here.
+[SPEAKER_01]: A city under siege?
+[SPEAKER_00]: Well.
+[SPEAKER_00]: If I had the knowledge to do that, I'd do it, but unfortunately I'm not a man of those means.
+[SPEAKER_01]: Hmm.
+[SPEAKER_01]: What do you know of a mad alchemist?
+[SPEAKER_01]: Oh.
+[SPEAKER_01]: The one that's out in the square.
+[SPEAKER_01]: The merchant in the square.
+[SPEAKER_00]: Yeah, I know him.
+[SPEAKER_01]: You might be able to, like,
+[SPEAKER_01]: Copped us.
+[SPEAKER_01]: If food's on such short supply, perhaps we could invite him here, if I can secure some food.
+[SPEAKER_00]: That man never leaves his building.
+[SPEAKER_01]: No, he has a building on the square.
+[SPEAKER_00]: Oh yes, you know this.
+[SPEAKER_01]: Don't do it.
+[SPEAKER_00]: Oh yeah, you do.
+[SPEAKER_00]: This guy is like a... he's got a curio shop.
+[SPEAKER_01]: Very well known.
+[SPEAKER_01]: So he's mad crazy, but he's got his own place.
+[SPEAKER_01]: Okay, so he's not like a...
+[SPEAKER_00]: He is not indigent at all.
+[SPEAKER_00]: He's actually very wealthy.
+[SPEAKER_00]: And he basically makes money selling healing potions and shit like that to people.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: But no, I think you're right.
+[SPEAKER_00]: I think getting him to make a still would be a good idea.
+[SPEAKER_01]: Yeah, I think so.
+[SPEAKER_01]: I mean, it's gonna be gruel for days, weeks.
+[SPEAKER_01]: We could make more money if we were able to turn some of that into alcohol.
+[SPEAKER_01]: And, you know, people are never very hungry when they're drunk.
+[SPEAKER_00]: I agree.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: I'll see what I can do tomorrow.
+[SPEAKER_01]: I'll move down there.
+[SPEAKER_01]: I need to talk to him.
+[SPEAKER_01]: So perhaps that will be a good beginning.
+[SPEAKER_00]: I'll keep my eye out for the last.
+[SPEAKER_00]: I'll tell you when she comes in.
+[SPEAKER_00]: She usually comes in and talks to Gouging Coburg, but she hasn't been around for the last few days, seeing they're out of town.
+[SPEAKER_01]: Perhaps you could employ a couple of the lads that you were talking about, and what I'd like to know is specifically some of the places and the haunts that people that come in and out of here go.
+[SPEAKER_01]: There's not a big number, so three or four of the lads, if we can provide them some food.
+[SPEAKER_01]: But I'd like to know.
+[SPEAKER_01]: If we have a spy in our midst out there, it's a given, as you said, probably.
+[SPEAKER_01]: But I'd like to know where they reside.
+[SPEAKER_00]: Ah.
+[SPEAKER_00]: All right.
+[SPEAKER_00]: I can do that for you.
+[SPEAKER_00]: I'll set that up.
+[SPEAKER_00]: Keep an eye on the ruffians, as it were.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: And see if they lead us to any others.
+[SPEAKER_00]: Good plan.
+[SPEAKER_01]: Well, tomorrow I'll send my man out to Edstar.
+[SPEAKER_01]: Is there anyone besides the Tanner that you would suggest that he inquire of potential food with, or do you think that the Tanner of Edstar is a decent pillar?
+[SPEAKER_00]: I don't know who the Tanner is.
+[SPEAKER_01]: Ah, that's all well and good then.
+[SPEAKER_00]: Haven't been to Ensar in years.
+[SPEAKER_01]: Wow, it's not even that far from the city gate.
+[SPEAKER_00]: It's 30 miles away.
+[SPEAKER_01]: Not that far.
+[SPEAKER_00]: Actually, it's about 24 miles away.
+[SPEAKER_01]: No, that's fine.
+[SPEAKER_01]: I mean, I just came across the Azure Sea on the other side of the ocean.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Well, yes, of course.
+[SPEAKER_01]: Have you even left the foreign district or the city of Monmurg in the last five years?
+[SPEAKER_00]: Well...
+[SPEAKER_00]: To be honest, Jude, I don't think I've left the city of Monmurg in the last 20 years.
+[SPEAKER_01]: That's sad.
+[SPEAKER_01]: On a separate note, do you happen to know, and I kind of lean in conspiratorially, do you happen to know Owen Black?
+[SPEAKER_00]: I know that loser.
+[SPEAKER_00]: Yeah, I know Owen Black.
+[SPEAKER_01]: He helped get me here after my ship was, like, intercepted by Gradsul's men and taken to Redshore.
+[SPEAKER_01]: I had to pay that fellow some money to get smuggled in.
+[SPEAKER_01]: He dropped us at Edsar.
+[SPEAKER_01]: That's how I am familiar with Tanner at Edsar.
+[SPEAKER_00]: Yeah, Owen Black.
+[SPEAKER_00]: Gouge slapped that boy down not six months ago.
+[SPEAKER_00]: Beat him up in this very bar pretty badly, actually.
+[SPEAKER_01]: Really?
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: Come to think of it, yeah, Gouge didn't like the look of him.
+[SPEAKER_00]: You might ask Gouge why, or what happened between them.
+[SPEAKER_01]: Of course.
+[SPEAKER_01]: Of course.
+[SPEAKER_01]: That's a good note.
+[SPEAKER_01]: Good note.
+[SPEAKER_01]: Do let me know, or let Gouge know, or Karmirg, if they come in, that I'm reoccupying my old room.
+[SPEAKER_01]: I fixed it up a little bit there.
+[SPEAKER_01]: It wasn't as bad as I feared.
+[SPEAKER_01]: I appreciate it.
+[SPEAKER_01]: Thank you.
+[SPEAKER_00]: Certainly.
+[SPEAKER_01]: Uh, I know that food, and obviously there's no alcohol or grub.
+[SPEAKER_01]: Um, what's the situation on clean water?
+[SPEAKER_01]: I mean, that's still wonderful, right?
+[SPEAKER_00]: Well, the water's as clean as it's always been.
+[SPEAKER_01]: Oh.
+[SPEAKER_00]: I know you like boiling it.
+[SPEAKER_01]: I was gonna say, not bad, huh?
+[SPEAKER_00]: Okay, that's no different, Steve.
+[SPEAKER_01]: Yeah, I'm off.
+[SPEAKER_01]: That's what I meant, like, not bad.
+[SPEAKER_01]: Exactly.
+[SPEAKER_01]: Before it was like, pretty good food, demorable water, and plenty of grog, and now it's no grog.
+[SPEAKER_01]: Bad food and bad food.
+[SPEAKER_00]: That's really the problem.
+[SPEAKER_00]: You used to have alcohol you could drink and now you don't have that.
+[SPEAKER_01]: Yeah, now you don't have that.
+[SPEAKER_01]: Well, we have got to fix that.
+[SPEAKER_01]: Okay, I'll let you back to make sure that they haven't dismantled your fine wooden bar and sold it outside the street.
+[SPEAKER_00]: Okay, so you guys go back in.
+[SPEAKER_00]: And do you want to retire for the evening?
+[SPEAKER_00]: Yeah, I think I'll retire for the evening.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Go to sleep, you wake up the next day, and Horace, I guess you give Horace like 50 gold coins?
+[SPEAKER_01]: Yeah, yeah.
+[SPEAKER_01]: I just be like, you know, look, it's about 24 miles there.
+[SPEAKER_01]: Try not to come back in the dark.
+[SPEAKER_01]: Be careful with the Oeridians and Toli.
+[SPEAKER_01]: It's not just the Toli rats, there are Oeridians that employ with the, you know, some of the, some assassins, so trust no one.
+[SPEAKER_00]: Alright, so I'm gonna go there, make contact.
+[SPEAKER_01]: Yeah, make contact.
+[SPEAKER_01]: Ask for a source or contact with Owen Black, if any of the fishermen.
+[SPEAKER_01]: And let them know that we're wanting to pay well for a weekly wagon supply.
+[SPEAKER_01]: And if they can get us any salted pork, you know, bacons, meats.
+[SPEAKER_01]: I mean, I'm not going to refuse grains, just, you know, preferably not only that.
+[SPEAKER_01]: Yeah, let them know that we're willing to pay.
+[SPEAKER_01]: Do I have an idea of a sense?
+[SPEAKER_01]: I mean, I've been in a D to the DM, so I've been in a D in a war-torn land.
+[SPEAKER_01]: Is 50 gold like chump change?
+[SPEAKER_00]: No, that's not chump change.
+[SPEAKER_00]: I mean, that's definitely good money.
+[SPEAKER_01]: I'm thinking 100 gold, if we can get a wagon, he gives them 50 up front, or bribes, or not bribes, but like loosens some, you know, gets the wheels greased, you know, whether it's fishermen, gets some supplies loosened for a wagon load, another 50 on demand, and I'm still willing to pay basically for a wagon load a week of food.
+[SPEAKER_01]: Not just for me and Horace, but like a wagon load.
+[SPEAKER_01]: But I also tell them that the tanner has to bring it in himself, and it's got to be disguised under highs.
+[SPEAKER_01]: Otherwise, it won't make it to Hertz Bar.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Basically smuggling food inside the city.
+[SPEAKER_01]: Yes, smuggling food inside the city.
+[SPEAKER_00]: Okay.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: And hopefully, of course, can kind of get that established.
+[SPEAKER_01]: It's getting the grease, you know, the wheels greased, and then with the wagon load, he won't have to go out there and go get a wagon load.
+[SPEAKER_01]: And I, you know, when he comes back, if it works, we'll talk deferred about, like, how to just freely unload it, you know, if it's deferred has, like, an unloading area or something like that or, you know, so we're not just bringing in, like, you know, groceries to the front truck and door.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: Exactly.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: So then I'll say goodbye to him.
+[SPEAKER_01]: Watch yourself.
+[SPEAKER_01]: I need you.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: All right.
+[SPEAKER_00]: He leaves that morning.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: And he's got a little extra money for like, you know, rent a horse, I guess.
+[SPEAKER_01]: You know, don't pick a light-ass horse.
+[SPEAKER_01]: You don't pick one that goes fast, please.
+[SPEAKER_00]: Okay.
+[SPEAKER_01]: Yeah, okay.
+[SPEAKER_01]: Because I'm going to get a weekly stipend from, or Jamis, so at least a portion of that, whatever that ends up being, can at least help with food.
+[SPEAKER_01]: And if we can secure that, then I'm thinking we can pay for some of the street urchins or some of the people who would like with food to start our own observation network, so to speak.
+[SPEAKER_00]: Right.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: And then I'll plan to go down to the square, to the Alchemist shop.
+[SPEAKER_00]: All right.
+[SPEAKER_00]: So what time do you want to go to the Alchemist shop?
+[SPEAKER_01]: Well, I mean, if it was... Well, no.
+[SPEAKER_01]: What I'm going to assume is I'm going to go mid-morning.
+[SPEAKER_01]: I don't think I need to go super early because there was nobody really in the market square, right?
+[SPEAKER_00]: Right.
+[SPEAKER_00]: Nobody's at the market.
+[SPEAKER_00]: So actually, the Alchemist shop is not in the market.
+[SPEAKER_00]: It's in the foreign district.
+[SPEAKER_01]: Oh, okay.
+[SPEAKER_00]: He's a porner.
+[SPEAKER_01]: Okay, I'll probably do it, I'll give a good hour, past after Forrest leaves, and then I'll head out.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: All right, so you walk down the street, roll a perception check.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Where is, is it passive perception, passive wisdom?
+[SPEAKER_01]: No, no.
+[SPEAKER_01]: It would be the regular book, right?
+[SPEAKER_00]: It is passive.
+[SPEAKER_00]: It is passive wisdom.
+[SPEAKER_00]: I'm sorry.
+[SPEAKER_00]: Oh, is it?
+[SPEAKER_00]: Yeah.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Oh, then don't let me roll it.
+[SPEAKER_01]: It just says it's 14.
+[SPEAKER_00]: Yeah, it's 14.
+[SPEAKER_00]: Okay, so...
+[SPEAKER_01]: Roll a 20?
+[SPEAKER_00]: No.
+[SPEAKER_00]: Go to perception and click on perception.
+[SPEAKER_00]: Wisdom.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Gotcha.
+[SPEAKER_01]: And do it.
+[SPEAKER_00]: 16.
+[SPEAKER_00]: 16.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: All right, so you step out of the street and start walking and you feel like there's somebody behind you.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Is there any shop, I mean like, are you saying like hair stands up on the back of my neck behind me or are you saying like I just feel like I'm being observed or like trailed?
+[SPEAKER_00]: Well,
+[SPEAKER_01]: I mean, like, striking range?
+[SPEAKER_00]: Like, holy shit, I need to, like... No, not striking range.
+[SPEAKER_00]: I mean, you have blindsight.
+[SPEAKER_00]: And you walk out on the street, and, like, across the street in an alleyway, you sense something that you can't see.
+[SPEAKER_00]: And then that goes away.
+[SPEAKER_00]: So it is sort of like hair standing up on the back of your neck, in a way.
+[SPEAKER_01]: I'm going to make a turn into a nearby shop shortly after that.
+[SPEAKER_01]: So within the same block, relatively, I don't want to move quickly, but within a short distance.
+[SPEAKER_01]: Hopefully it's not a woman's boutique.
+[SPEAKER_00]: Yeah, there's none of those here.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: And what I'm going to do is as I turn and walk in, I'm going to look for someplace to be obscure and use my ring.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: All right, so you basically, do you want to just walk into an alleyway and put your ring on?
+[SPEAKER_01]: No, I might be being observed and I'm not sure of the nature.
+[SPEAKER_01]: I want it to be a little bit more closer quarters.
+[SPEAKER_00]: Okay, so you go into a shop and basically go into a, I don't know, a
+[SPEAKER_00]: God, what's there?
+[SPEAKER_01]: Like even if there's like an aisle, like it's a clothing shop, a leather shop.
+[SPEAKER_00]: There's nothing really like that in the foreign district.
+[SPEAKER_00]: There's bars, there's the alchemist place, alleyways, they're...
+[SPEAKER_00]: This is kind of where people live.
+[SPEAKER_00]: It's kind of a living area.
+[SPEAKER_00]: You know what I mean?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Okay, is there any outclothes that I could duck into that, like step into, like I'm gonna go into a door?
+[SPEAKER_00]: Yeah, if you want to like go to a, you know, find some place where there's a stairwell up into a apartment, you could do that.
+[SPEAKER_01]: Yeah, something where I can at least break line of sight from.
+[SPEAKER_01]: Any observers that I do not know where they might be observing.
+[SPEAKER_00]: Sure.
+[SPEAKER_00]: So basically you turn the corner into a house's alcove, right?
+[SPEAKER_00]: And you want to go up the stairs, right?
+[SPEAKER_01]: Yeah, yeah.
+[SPEAKER_01]: And when I can, discreetly, I'll go ahead and initiate the invisibility.
+[SPEAKER_00]: Okay, so you go up the stairs and you put on the invisibility, right?
+[SPEAKER_01]: Right.
+[SPEAKER_01]: And then I'll immediately kind of step to the side and just breathe quietly.
+[SPEAKER_01]: A few minutes.
+[SPEAKER_00]: Okay.
+[SPEAKER_01]: Now, do I have to worry about the invisibility spell coming off after a certain amount of time?
+[SPEAKER_00]: No.
+[SPEAKER_00]: No, no, no.
+[SPEAKER_00]: The ring, it stays.
+[SPEAKER_00]: It stays.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: If there's nobody physically that comes or I don't observe, like I'm going to be observing the immediate area too, so I'll move out or wake up the door.
+[SPEAKER_01]: Okay, so what happens is you're standing, you've gone up the stairs a little bit, right, to this apartment.
+[SPEAKER_00]: And you put on the ring, and you're standing on the stairs just basically sitting there, right?
+[SPEAKER_00]: And I assume you're trying to be stealthy.
+[SPEAKER_01]: Yes.
+[SPEAKER_00]: So roll your stealth.
+[SPEAKER_00]: There's a skill called stealth, and you're actually very good with stealth.
+[SPEAKER_00]: You get a plus seven.
+[SPEAKER_00]: Now, because you have invisibility, you can hide basically in the open, right?
+[SPEAKER_00]: So let me look at this.
+[SPEAKER_00]: What was your stealth roll?
+[SPEAKER_01]: Yeah, the roll was 10.
+[SPEAKER_01]: Does it automatically add my pluses?
+[SPEAKER_00]: It basically does add your pluses.
+[SPEAKER_00]: Oh, I guess that was pretty lit.
+[SPEAKER_00]: So yeah, the roll was 3 with stealth 7.
+[SPEAKER_00]: So that was the total.
+[SPEAKER_00]: But you're basically just standing there, right?
+[SPEAKER_01]: Yeah, I'm not even trying to sneak move.
+[SPEAKER_01]: I just wanted to step out to the side a little bit.
+[SPEAKER_01]: So, for instance, if somebody were following me and let's say they were really well hidden or even invisible themselves, I don't want to get bumped into if they're coming up to check the door to see if I went into the place.
+[SPEAKER_01]: Totally.
+[SPEAKER_01]: Okay, so how long do you want to stand there?
+[SPEAKER_01]: About two, three minutes.
+[SPEAKER_00]: Okay, so you're standing there and...
+[SPEAKER_00]: Fairly quickly, I would say about a minute later, using your blindsight, this thing is invisible and it's your blindsight where you detect them.
+[SPEAKER_00]: Something looks around the corner and you don't see them at all.
+[SPEAKER_00]: But it pierces around the corner at where you're at.
+[SPEAKER_00]: Doesn't come into the alley anyway, just like looks around and then it goes back.
+[SPEAKER_01]: Huh.
+[SPEAKER_00]: It was maybe about 25 feet away from you.
+[SPEAKER_01]: And it was invisible.
+[SPEAKER_00]: You didn't see it.
+[SPEAKER_01]: Right, so I only sensed it, correct?
+[SPEAKER_00]: With blindsight, you sensed it.
+[SPEAKER_01]: So does that give me a sense for, like, are we talking non-human or kind of other than?
+[SPEAKER_01]: Like, I don't know if I can sense that at the point, so I don't have too much experience with it.
+[SPEAKER_01]: The only reason why I ask is because you said this thing.
+[SPEAKER_01]: Do I detect it as a thing?
+[SPEAKER_00]: So blindsight, let's see about this.
+[SPEAKER_00]: I want to read the blindsight feet.
+[SPEAKER_01]: Sorry.
+[SPEAKER_01]: That's part of the function of my eyes, right?
+[SPEAKER_00]: Yeah, so the deal is you can't really... What you sense is you sense vibrations and sound and smell.
+[SPEAKER_01]: Okay, did it smell human?
+[SPEAKER_00]: It smelled human, yes.
+[SPEAKER_00]: It did.
+[SPEAKER_00]: You couldn't see it.
+[SPEAKER_00]: And the form of it was such that you really couldn't see what the form was.
+[SPEAKER_00]: You can't really see faces with blindsight.
+[SPEAKER_00]: You know what I mean?
+[SPEAKER_01]: Yeah, I understand.
+[SPEAKER_01]: Would I recognize this particular smell if I smelled it again?
+[SPEAKER_00]: Oh, yeah.
+[SPEAKER_01]: Okay, so I put that to memory.
+[SPEAKER_00]: Yes, and in fact, it smells strange.
+[SPEAKER_00]: It smells like...
+[SPEAKER_00]: There's definitely a strange body odor associated with it.
+[SPEAKER_01]: Okay, nothing that I can match with anybody that's in birds.
+[SPEAKER_00]: Yeah, normally people will use like perfumes or whatever.
+[SPEAKER_00]: No, this was not anyone you've smelt before.
+[SPEAKER_00]: And it doesn't smell chard.
+[SPEAKER_00]: Actually, do an int check.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Let's see.
+[SPEAKER_01]: Insight?
+[SPEAKER_00]: Insight, yes.
+[SPEAKER_00]: Twelve.
+[SPEAKER_00]: It's familiar, but you can't quite place that smell.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: What I'll do is I will stealthily, if you want to make another stealth role I can, I'll move and I'll move away.
+[SPEAKER_01]: Do I have to go deeper into the alleyway if I want to not cross its path closer?
+[SPEAKER_00]: Well, if you want to get out, you have to leave the alleyway.
+[SPEAKER_00]: I gotta go past it, so to speak?
+[SPEAKER_00]: Basically, you have to leave the alleyway where you came.
+[SPEAKER_00]: Unless you want to go into the house or the apartment.
+[SPEAKER_01]: No.
+[SPEAKER_01]: But what I am going to do is I'm going to pick something up that's loose, maybe a small handful of pebbles, before I try to sneak.
+[SPEAKER_01]: So that way, if I really screw up on my stealth wheel, I can try to do a distraction, even though I'll stay invisible, so that I can do a distraction, like throw some rocks somewhere else.
+[SPEAKER_01]: I'll just have them in my hand.
+[SPEAKER_00]: Okay, so you basically try and stealth out of the alleyway and down the street.
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: Roll yourself.
+[SPEAKER_00]: Okay, so you leave the alleyway and go in the direction of the alchemist, correct?
+[SPEAKER_01]: Yes, correct.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Make sure I don't bump into anybody, you know, like get people with a bit of a wide burst and nobody's like falling over the invisible guy.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: So you smell that, that width of smell in the air, but no.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Nothing, nothing else.
+[SPEAKER_00]: You can't, he's not within 60 feet of you.
+[SPEAKER_01]: Okay, and does that eventually go away as I get closer to or when I come up to the Alchemist's house?
+[SPEAKER_00]: Yeah, I mean it goes away very quickly actually.
+[SPEAKER_01]: So I think I've lost my tail.
+[SPEAKER_00]: Yeah.
+[SPEAKER_01]: Okay, alright, then I'll go into the Alchemist's house and
+[SPEAKER_01]: Maybe at some point.
+[SPEAKER_00]: Do you want to turn off the invisibility before you go in or after you go in?
+[SPEAKER_01]: Before, I think I'd like to.
+[SPEAKER_01]: So just once again step behind something, break line of sight with as many people as I can, kind of, and then I'll bend over like I was picking something up and deactivate the invisibility and stand up and look at something in my hand like I thought was just bent over.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: All right.
+[SPEAKER_01]: All right, and then I'll go into the alchemist.
+[SPEAKER_00]: Okay, so you walk into the alchemist shop, and instantly your nose is overwhelmed by a whole bunch of different smells.
+[SPEAKER_00]: And actually they're very pungent, and because of your blindsight senses, you're like, whoa, this is a lot of stuff.
+[SPEAKER_00]: It's like sulfur, you know, incense, all these different
+[SPEAKER_00]: Vapors coming off and drifting through the air.
+[SPEAKER_00]: And you walk through the front door and then there are a set of curtains, right, that go into the next room and you walk in there and it's even more powerful, right, the spells.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Is there anybody else in the shop or do I see the patron?
+[SPEAKER_00]: Well, you come in and you see this guy and you've seen him before.
+[SPEAKER_00]: You've actually been in here with Gouge before.
+[SPEAKER_00]: He's kind of this, I would say, really bizarre looking old guy that has these glasses on.
+[SPEAKER_00]: You really can't even tell if he's a man or a woman.
+[SPEAKER_00]: He's got like
+[SPEAKER_01]: Hair coming down.
+[SPEAKER_01]: He's white hair.
+[SPEAKER_00]: He's very old.
+[SPEAKER_00]: Crooked, gnarled teeth.
+[SPEAKER_00]: Wearing these big, volumous robes, hiding what looks to be like a fairly, I would say, fat body, but not intensely so, right?
+[SPEAKER_01]: Not like morbidly obese.
+[SPEAKER_00]: You know, I would say he would be considered obese, but he wouldn't be considered morbidly obese, right?
+[SPEAKER_01]: Okay, yeah.
+[SPEAKER_01]: Get in a wall knocked down so he can get out of bed.
+[SPEAKER_00]: Yeah, and he has this faint smell of kind of...
+[SPEAKER_00]: Rancid butter about him, right?
+[SPEAKER_00]: Yeah, it's not nice.
+[SPEAKER_00]: Anyway, he goes, Ha!
+[SPEAKER_00]: Ha, customer!
+[SPEAKER_00]: Can I help you?
+[SPEAKER_01]: Yes, yes, please.
+[SPEAKER_00]: Potions!
+[SPEAKER_00]: Love potions!
+[SPEAKER_00]: Love making potions!
+[SPEAKER_00]: What do you need?
+[SPEAKER_01]: No.
+[SPEAKER_00]: I need a still.
+[SPEAKER_00]: Still.
+[SPEAKER_01]: Oh, for turning grain into alcohol.
+[SPEAKER_00]: Nah, you wish to make alcohol.
+[SPEAKER_00]: Well, yes.
+[SPEAKER_00]: Simple enough.
+[SPEAKER_00]: You need equipment.
+[SPEAKER_00]: Equipment?
+[SPEAKER_01]: Yes.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: Equipment.
+[SPEAKER_00]: Wonderful.
+[SPEAKER_00]: Wonderful.
+[SPEAKER_00]: Come.
+[SPEAKER_00]: He, like, walks over.
+[SPEAKER_00]: He goes...
+[SPEAKER_00]: What you need are these things.
+[SPEAKER_00]: And he starts pulling stuff out and he goes, Do you want copper?
+[SPEAKER_00]: Or would you rather have brass?
+[SPEAKER_00]: Brass is the alchemist's friend.
+[SPEAKER_00]: However, copper will make it pure even though it costs much more.
+[SPEAKER_00]: We'll do copper.
+[SPEAKER_00]: Wonderful.
+[SPEAKER_00]: You have the cooling tubes and the vats?
+[SPEAKER_00]: Of course I do.
+[SPEAKER_00]: All of these things.
+[SPEAKER_00]: He starts, like, rummaging through boxes and he goes, we'll assemble it for you.
+[SPEAKER_01]: Very well.
+[SPEAKER_01]: Can you, do you have anybody that can ship it once it's assembled to a given location here?
+[SPEAKER_01]: Well, in the foreign quarter, yes.
+[SPEAKER_00]: Portage is not my job.
+[SPEAKER_00]: You do what you do.
+[SPEAKER_01]: Well, how big is it?
+[SPEAKER_01]: I'll give a quick assessment.
+[SPEAKER_00]: Okay, well, he puts something together.
+[SPEAKER_00]: He's like pulling things out, copper things, all these stuff together, you know?
+[SPEAKER_00]: And he goes, Yes!
+[SPEAKER_00]: Yes, the manual.
+[SPEAKER_00]: And he actually goes over to a fairly big book and like goes through some pages and he goes, Simple Spirits.
+[SPEAKER_00]: And he points to this diagram of a
+[SPEAKER_00]: Basically, it's still, right?
+[SPEAKER_00]: And it's like, you recognize the book, it is the magnum opus, right, by Ujor Udias.
+[SPEAKER_00]: And that's basically the transmuter that you've heard of before, right?
+[SPEAKER_00]: And he goes,
+[SPEAKER_00]: This is what you want.
+[SPEAKER_01]: Yes?
+[SPEAKER_01]: Yes, I lean in and look at the book.
+[SPEAKER_01]: Oh, that's amazing.
+[SPEAKER_00]: Yes, this is my copy.
+[SPEAKER_00]: My copy.
+[SPEAKER_00]: Is it the only one?
+[SPEAKER_00]: You ask him that?
+[SPEAKER_00]: He goes, no, this is the original.
+[SPEAKER_00]: Ujo Udias wrote this.
+[SPEAKER_00]: All alchemists have a copy.
+[SPEAKER_00]: Very simple things, very simple things.
+[SPEAKER_01]: Of course, of course, yes.
+[SPEAKER_00]: I'll make this for you.
+[SPEAKER_00]: Say 20 gold coins.
+[SPEAKER_01]: Of course, of course, yes, please.
+[SPEAKER_01]: Of course, yeah.
+[SPEAKER_01]: Fork out 20 gold coins.
+[SPEAKER_00]: Okay, so you put those down on the table?
+[SPEAKER_01]: Yeah, and I look at the Simple Spirits recipe.
+[SPEAKER_01]: Is the Simple Spirits recipe still in the book, or was it like a copy?
+[SPEAKER_01]: May I copy the Simple Spirits recipe?
+[SPEAKER_00]: Certainly!
+[SPEAKER_00]: Read, read.
+[SPEAKER_00]: There are different ones you want.
+[SPEAKER_00]: Do you want the hard stuff, or if you would like, you can do something
+[SPEAKER_00]: Not as much alcohol.
+[SPEAKER_00]: It depends on whatever.
+[SPEAKER_00]: There are three recipes there.
+[SPEAKER_00]: Please look at them.
+[SPEAKER_00]: Take what you will.
+[SPEAKER_01]: Well, thank you.
+[SPEAKER_01]: I don't think I probably have paper and a quill.
+[SPEAKER_01]: Paper and a quill?
+[SPEAKER_01]: I can gladly pay you some more silver for them.
+[SPEAKER_00]: Oh, certainly.
+[SPEAKER_01]: You know how to write.
+[SPEAKER_01]: Oh, yes, yes.
+[SPEAKER_00]: Okay, so he goes...
+[SPEAKER_01]: I kind of point at the ears.
+[SPEAKER_00]: He goes, ah.
+[SPEAKER_00]: An elf, but something else.
+[SPEAKER_01]: Oh.
+[SPEAKER_00]: He gets you some paper and brings it over and puts it down and goes... Is he like looking at my eyes?
+[SPEAKER_00]: Yeah, he's looking at your eyes and he goes, You've been touched.
+[SPEAKER_01]: Rather unpleasant they said, yes.
+[SPEAKER_00]: You are molded.
+[SPEAKER_01]: I like to think perhaps not into the shape that my enemies would have preferred.
+[SPEAKER_01]: And something new.
+[SPEAKER_00]: A transmuter did this to you, I see.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: One of the most sinister ones from the South lands.
+[SPEAKER_00]: Interesting.
+[SPEAKER_01]: Hopefully not too interesting.
+[SPEAKER_01]: My eyes are not for sale.
+[SPEAKER_00]: You've been touched by the Scarlet Brotherhood, I take it.
+[SPEAKER_01]: Stu, you know much of them?
+[SPEAKER_00]: I know of them.
+[SPEAKER_00]: Not much of them, or many of them, but I know of them.
+[SPEAKER_01]: I'd love to compare notes with you sometime, because I'd like to kill every one of them.
+[SPEAKER_00]: He kind of strangely goes, what have they done to you, besides touched you?
+[SPEAKER_01]: Well, that was enough.
+[SPEAKER_00]: I understand.
+[SPEAKER_00]: I understand.
+[SPEAKER_00]: Here's your paper and pen.
+[SPEAKER_00]: He puts those down.
+[SPEAKER_01]: Okay, I start to write.
+[SPEAKER_01]: So I'll go ahead and write the three, but if it looks like, you know, he's busy, super absorbed in assembling the, you know, pieces and stuff of the still, what else is in the book, bro?
+[SPEAKER_01]: Well, it's a huge volume.
+[SPEAKER_00]: And basically Jude has a bunch of different very practical methodologies for doing things like I will send you actually a copy of what I have written down of what's in the book.
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: Well, now the question I have to you is, do you want to spend time here reading it, or what do you want to do?
+[SPEAKER_01]: Yeah, if he's okay with that, I will.
+[SPEAKER_01]: Keeping one ear open, does he have a little bell like that dings when the shop door opens?
+[SPEAKER_00]: Oh yeah, absolutely.
+[SPEAKER_01]: Okay, so just making sure that I notice if, like, that bell dings or if somebody walks in.
+[SPEAKER_01]: I say, this is amazing.
+[SPEAKER_01]: This is amazing.
+[SPEAKER_01]: Is it okay if I peruse any of the rest of the books after, you know, maybe writing the recipes?
+[SPEAKER_00]: Of course, of course.
+[SPEAKER_00]: This book should be in every good library there is.
+[SPEAKER_00]: I know they have one in the scholars district.
+[SPEAKER_00]: This is my personal copy.
+[SPEAKER_00]: I bought this in Port Toli some 20 years ago.
+[SPEAKER_01]: Hmm.
+[SPEAKER_00]: You don't have any copies yourself here, do you, for sale?
+[SPEAKER_00]: Oh, no, no, no.
+[SPEAKER_00]: Oh.
+[SPEAKER_00]: No, no, no.
+[SPEAKER_00]: You would want to go to Port Toli.
+[SPEAKER_00]: There's a book merchant there.
+[SPEAKER_00]: He has a direct connection to the Arcane Order, they say.
+[SPEAKER_01]: Oh.
+[SPEAKER_01]: Well, I'm surprised that it's not...
+[SPEAKER_01]: I thought you could get everything here at Monmurg.
+[SPEAKER_00]: Oh, no, no, no, no.
+[SPEAKER_00]: No, no, no, no.
+[SPEAKER_00]: All the best books are important, Toli.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Since he doesn't mind me looking at it, he knows that I can read.
+[SPEAKER_01]: Yeah, I peruse the book.
+[SPEAKER_01]: I do make sure that I copy down the three different spirits.
+[SPEAKER_01]: I'll just put down three spirits.
+[SPEAKER_00]: Steve, we're about to lose the session?
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: What I'm going to...

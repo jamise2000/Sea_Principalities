@@ -1,0 +1,4 @@
+# Cast for Jude_intro_mid_Flocktime
+# Expected voices: 2
+SPEAKER_00: DM
+SPEAKER_01: Jude

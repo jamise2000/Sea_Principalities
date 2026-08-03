@@ -1,0 +1,8 @@
+# Cast for Merrick_Aristotle_join_marines_2nd_Wealsun
+# Expected voices: 5
+SPEAKER_00: Gouge (going by "Aristotle" in this scene)
+SPEAKER_01: DM
+SPEAKER_02: Merrick
+SPEAKER_03: Tyrus
+SPEAKER_04: DM (same narrator as SPEAKER_01, split by diarization)
+# Note: Folsom has no directly-quoted line in this scene, per the cleaned transcript (he's referenced only in third person, e.g. "Folsom starts playing something upbeat").

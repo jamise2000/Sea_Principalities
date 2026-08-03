@@ -1,0 +1,553 @@
+[SPEAKER_02]: Evening of the Third of Wealsun, after the party returns to Monmurg on the Kosair, Gouge and Merrick are summoned to go and see Lord Jamis.
+[SPEAKER_02]: You actually hear the captain say, you're supposed to go see Lord Jamis so he can debrief you.
+[SPEAKER_02]: Jude and Paul make their way from the Royal Docks up the stairs towards the palace, leaving the two of you basically hanging out by yourself, just kind of going... Let's hit the bar.
+[SPEAKER_02]: No, we are hitting the bar.
+[SPEAKER_02]: We are hitting the bar.
+[SPEAKER_02]: Okay, so you walk out of the Royal District and the Royal docks back towards the Harbor District, which you're much more familiar with and comfortable with, right?
+[SPEAKER_02]: And actually the local barracks, the Marine barracks, seems to be happening.
+[SPEAKER_02]: There are a lot of people outside partying, and you haven't seen it this cherry in many, many weeks.
+[SPEAKER_00]: What do you guys want to do?
+[SPEAKER_00]: Well, I'm definitely...
+[SPEAKER_00]: These are all my men.
+[SPEAKER_00]: These are all my guys here, right?
+[SPEAKER_00]: Well, I guess a lot of my guys are still on the island, but I mean, I'm still... No, these are your guys.
+[SPEAKER_00]: Yeah, I'm familiar with... A lot of your guys died.
+[SPEAKER_00]: Yeah, but... Not your guys.
+[SPEAKER_00]: Yeah, but I mean, a lot of Marines died, but these guys are all still people I know, so let's go have a drink real quick before we hit the bar.
+[SPEAKER_00]: Agreed.
+[SPEAKER_04]: I'm assuming the occasion is us returning, but I'm just going to tap one guy on the shoulder.
+[SPEAKER_03]: One of the guys who's got a beer out in front, looking at the dogs, cheering, goes, Folsom!
+[SPEAKER_04]: I go, hey, it's a special occasion.
+[SPEAKER_02]: Tyrus, Owen Black came back today!
+[SPEAKER_02]: He was in Red Shore.
+[SPEAKER_02]: He smuggled.
+[SPEAKER_02]: He smuggled food back for us.
+[SPEAKER_02]: Well, he smuggled back food back for the city, but he was sure to give a couple of barrels of cider to his good friends.
+[SPEAKER_02]: These are not watered down, my boys, like they have been in the past weeks.
+[SPEAKER_02]: You can get a real drunk on with this stuff.
+[SPEAKER_00]: Right on.
+[SPEAKER_02]: Go get yourselves one.
+[SPEAKER_00]: I mean, gotta follow orders.
+[SPEAKER_00]: Holin' Black, I'm assuming, is a name I would know.
+[SPEAKER_02]: You know Owen, kind of.
+[SPEAKER_02]: He's actually, yeah, well, he's actually, he used to be a Marine, he's not anymore, but he knows the waters very well.
+[SPEAKER_02]: He's actually a relative of Merrick's.
+[SPEAKER_00]: Oh, okay.
+[SPEAKER_00]: In a way.
+[SPEAKER_00]: Is a bit of a pirate?
+[SPEAKER_00]: More of a smuggler.
+[SPEAKER_02]: Copy.
+[SPEAKER_02]: But, you know, he was a little too wild for the Marines.
+[SPEAKER_02]: He wasn't dishonorably discharged, but he just had bigger brains.
+[SPEAKER_04]: Yes, better to part ways.
+[SPEAKER_04]: Before I go and go get a beer, I tap the guy on the side.
+[SPEAKER_04]: Is Owen Black around here?
+[SPEAKER_04]: Is he still here?
+[SPEAKER_04]: At the bar!
+[SPEAKER_04]: Well, I would love to get a beer with him.
+[SPEAKER_04]: Let's go do it.
+[SPEAKER_02]: Okay, so you walk over, and Owen's basically sitting there telling tall tales.
+[SPEAKER_02]: He's got this splint on his left arm, as if he has hurt his arm in some way.
+[SPEAKER_02]: And you haven't seen Owen for a couple of months now.
+[SPEAKER_02]: In fact, I think it was wintertime when you last saw him and he was around.
+[SPEAKER_02]: It seems like he was kind of making himself scarce there for a bit.
+[SPEAKER_02]: You don't know why, but he's back to himself.
+[SPEAKER_02]: He's the more gregarious of him and Merrick.
+[SPEAKER_02]: Merrick is a little bit more serious, more duty-oriented.
+[SPEAKER_02]: Owen is more friendlier, more freer, with a smile and a joke and so on.
+[SPEAKER_02]: But he knows both of you, right?
+[SPEAKER_02]: So he's basically laughing at the ball when the two of you walk up.
+[SPEAKER_04]: What do you say?
+[SPEAKER_04]: Owen, long time no see, good to see ya.
+[SPEAKER_02]: He takes a drink and looks around and goes, Ah, Folsom, how are you, lad?
+[SPEAKER_02]: You're looking good.
+[SPEAKER_02]: And who's this giant next to you that just punches you in the arm?
+[SPEAKER_00]: I understand you're the one who's responsible for this.
+[SPEAKER_02]: Well, I am responsible for it, and you owe me greatly, especially in these dire times.
+[SPEAKER_00]: I definitely owe you well, for sure.
+[SPEAKER_02]: Not a good drink to be had in the Harbor District, if it were not for me.
+[SPEAKER_00]: No.
+[SPEAKER_00]: Well, we appreciate both.
+[SPEAKER_00]: How did you get past the Sahuagins coming in?
+[SPEAKER_02]: Well, to be honest with you, I didn't even know we were having trouble with them when I was going through the waters.
+[SPEAKER_02]: Where have you been?
+[SPEAKER_02]: A little bit here, a little bit there.
+[SPEAKER_02]: You know it's not good to ask me that question.
+[SPEAKER_00]: I understand, I understand.
+[SPEAKER_02]: Well, it's not a big secret.
+[SPEAKER_02]: Redshore is where all the ships are going, you know?
+[SPEAKER_02]: The ones being blockaded by the Duke of Gradsul.
+[SPEAKER_02]: It's a mess.
+[SPEAKER_02]: Oh, I bet.
+[SPEAKER_02]: It's a mess in the harbor.
+[SPEAKER_02]: Have you ever been to Redshore?
+[SPEAKER_02]: I have not.
+[SPEAKER_02]: I'm assuming my character hasn't.
+[SPEAKER_02]: No, never.
+[SPEAKER_02]: I haven't.
+[SPEAKER_02]: No, you never have either.
+[SPEAKER_02]: It's a whaling town.
+[SPEAKER_02]: A whaling town that has docks that are fit for nothing but fishing.
+[SPEAKER_02]: Trying to undock 50 ships there without any kind of dockmaster that knows what to do, a navigator that knows his way, running lights, shipping lanes, anything.
+[SPEAKER_02]: It's chaos.
+[SPEAKER_02]: There are ships, merchant ships, languishing.
+[SPEAKER_02]: In the harbor and the merchants are grumbling because they can't get any of their wares off.
+[SPEAKER_02]: I go in there with my little cutter, buy everything I can from the merchants unwittingly.
+[SPEAKER_02]: They give me great prices, load up my ship, come back.
+[SPEAKER_02]: I'm not charging you twice.
+[SPEAKER_02]: Only a 50% markup for you.
+[SPEAKER_02]: But in the marketplace, I make quite a bit of money.
+[SPEAKER_02]: I'm looking for foods, oils, things everybody needs in this town.
+[SPEAKER_02]: I'm doing my small bit for Monmurg.
+[SPEAKER_00]: How does it work?
+[SPEAKER_00]: No doubt.
+[SPEAKER_00]: No doubt.
+[SPEAKER_00]: And the money isn't bad either, I bet.
+[SPEAKER_00]: Money's not bad.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Well, this would be an interesting way.
+[SPEAKER_00]: I think there's an opportunity to get more
+[SPEAKER_00]: You looking for a job, Tyrus?
+[SPEAKER_00]: Well, I'm always looking for something.
+[SPEAKER_00]: An opportunity to help Monmurg, that's for sure.
+[SPEAKER_02]: Well, I thought you were a marine golden boy.
+[SPEAKER_02]: You wouldn't want to be running around with a smuggler now, would you?
+[SPEAKER_00]: If there's an opportunity to help Monmurg in this blockade is my biggest thing.
+[SPEAKER_00]: I fully agree.
+[SPEAKER_00]: Where's Merrick?
+[SPEAKER_00]: Who knows?
+[SPEAKER_00]: The brooding boy is off somewhere.
+[SPEAKER_00]: Probably hiding in a corner somewhere.
+[SPEAKER_02]: Well, to be honest with the two of you, I was actually looking for him because he knows these waters as well as anyone.
+[SPEAKER_02]: Better even than me, even.
+[SPEAKER_04]: Merrick is skilled at what he does.
+[SPEAKER_02]: Yeah, I'd say that he's the only one besides me that can make it through the Red Shore patrols and slip into the harbor of Red Shore and make the trades.
+[SPEAKER_02]: Well, are you going to be in town for a couple of days?
+[SPEAKER_02]: I'm going to be in town for a couple of days, yes, but I'm going to be making my way back to Red Shore in some time.
+[SPEAKER_00]: Well, we'll definitely be seeing him and maybe we can get to him together with you.
+[SPEAKER_00]: Find out something that he wants to do.
+[SPEAKER_02]: That sounds excellent.
+[SPEAKER_02]: Now, you wouldn't be talking to any authorities, would you?
+[SPEAKER_00]: No, I like my ale.
+[SPEAKER_00]: Yeah, there you are.
+[SPEAKER_00]: But maybe there's a big opportunity here to provide more supplies for Monmurg.
+[SPEAKER_00]: That's what I would be interested in.
+[SPEAKER_00]: The city of Monmurg is dying here.
+[SPEAKER_00]: Yeah, it seems dire.
+[SPEAKER_00]: It seems very dire.
+[SPEAKER_00]: For sure.
+[SPEAKER_00]: So if we could provide more supplies, that would be an opportunity.
+[SPEAKER_00]: I heard about Port Torvid.
+[SPEAKER_00]: Oh, what did you hear?
+[SPEAKER_02]: Well, it was burned to the ground.
+[SPEAKER_02]: That's why we're in dire straits here.
+[SPEAKER_02]: All the supplies from the yeomanry coming to the Prince of Alley, to the Monmurg, got destroyed by this person called the Toli Rat, the Scarlet Rat.
+[SPEAKER_00]: You haven't heard that rumor, have you?
+[SPEAKER_00]: Oh, I've heard something about it, but didn't know if there was any validity to it, the way rumors work.
+[SPEAKER_00]: I know the Scarlet Rat.
+[SPEAKER_00]: I've met him before.
+[SPEAKER_00]: Really?
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Okay, you can see he's a little tipsy.
+[SPEAKER_00]: And what's your thoughts of him?
+[SPEAKER_00]: He's a fraud.
+[SPEAKER_03]: Really?
+[SPEAKER_03]: How so?
+[SPEAKER_02]: Well, I'm not saying, well, just between the two, three of us.
+[SPEAKER_02]: Two months ago, I was in Saltmarsh, smuggling weapons in and out of Saltmarsh.
+[SPEAKER_02]: And I had dealings with a certain Kane Tolley on this mission he was having.
+[SPEAKER_02]: I was acting sort of as a scout to make sure that there were no patrols in the area for him.
+[SPEAKER_02]: There was a certain sailor that worked for Kane Toli on his ship.
+[SPEAKER_02]: A gangly Toli rat.
+[SPEAKER_02]: Not much more than a cabin boy, as it were.
+[SPEAKER_02]: And then lo and behold, a couple of weeks later, this rat I find in Monmurg.
+[SPEAKER_02]: Not three or four doors down from where we are right now, in a bar.
+[SPEAKER_02]: And he attacks me.
+[SPEAKER_02]: He knows my face.
+[SPEAKER_02]: Come to find out, he's associated with some wizard called Lord Phranck, who I happen to know is affiliated with a nobleman of Keoland.
+[SPEAKER_02]: Local appointee in Saltmarsh, a new military commander called the Plar, glowing Baywin.
+[SPEAKER_02]: I had had actual dealings with Baywin.
+[SPEAKER_02]: Oh, excuse me.
+[SPEAKER_02]: See this?
+[SPEAKER_02]: He broke my arm.
+[SPEAKER_02]: Captured me and interrogated me in the Apple Yard Shell Keep.
+[SPEAKER_02]: You think I'm lying?
+[SPEAKER_02]: No, no, no.
+[SPEAKER_00]: I'm wondering how you made it out.
+[SPEAKER_02]: Well, that's the funny part of it.
+[SPEAKER_02]: There were a couple of bugbears that were captive down there as well, and a couple of hobgoblins also.
+[SPEAKER_02]: I think they were part of Toli's crew, or at least associated with them.
+[SPEAKER_02]: We broke out.
+[SPEAKER_02]: We managed to get advantage and face down one of Lord Baywin's guard dogs, a crazy dwarf from the Yoten Mountains.
+[SPEAKER_02]: And we escaped.
+[SPEAKER_02]: I was able to get a skiff and leave.
+[SPEAKER_00]: That's a pretty lucky turn of events.
+[SPEAKER_02]: No, tell me it was.
+[SPEAKER_02]: Anyway, we ran down the coast.
+[SPEAKER_02]: We were able to make ourselves the salt marsh and then on to Seaton.
+[SPEAKER_02]: And from there, it was just a couple of friends that I was able to hook up with.
+[SPEAKER_02]: They got me back to Monmurg and I got a new ship.
+[SPEAKER_00]: Wow.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: Quite the adventure.
+[SPEAKER_00]: Yeah, definitely lucky.
+[SPEAKER_00]: So then you decided to score some
+[SPEAKER_02]: Well, I had to make money to pay off the new skiff somehow.
+[SPEAKER_02]: That's true.
+[SPEAKER_02]: And Red Shore is definitely the best place to go now.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Well, I mean, that's where all the trade is.
+[SPEAKER_02]: That's where all the goods are.
+[SPEAKER_02]: And they aren't moving.
+[SPEAKER_02]: You can't find...nobody's buying.
+[SPEAKER_02]: Nobody can unload their goods.
+[SPEAKER_02]: If you have a ship and you're willing to go up...
+[SPEAKER_02]: Take what you can, you can get it.
+[SPEAKER_02]: Whatever you need.
+[SPEAKER_00]: I thought I had a map of the... That's not...
+[SPEAKER_00]: It doesn't have... That's got...
+[SPEAKER_00]: The marsh is kind of like up over here, isn't it?
+[SPEAKER_00]: There's Red Shore.
+[SPEAKER_00]: Oh, that's the Red Shore.
+[SPEAKER_00]: Okay, yeah.
+[SPEAKER_00]: Salt marsh is around here.
+[SPEAKER_00]: Oh, okay.
+[SPEAKER_00]: Salt marsh is there.
+[SPEAKER_00]: I thought it was more inland than there.
+[SPEAKER_00]: That's my mistake.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: So that's why he...
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: So that's where everybody's going because of the blockade then, huh?
+[SPEAKER_00]: That makes sense.
+[SPEAKER_00]: We'll definitely have to think on this.
+[SPEAKER_00]: There's definitely an opportunity here to...
+[SPEAKER_02]: There are a lot of opportunities.
+[SPEAKER_02]: If you just leave the Marines and come and work for me, you can make quite a bit of coin.
+[SPEAKER_03]: You too.
+[SPEAKER_03]: To, of course, help the city of Monmurg.
+[SPEAKER_03]: Of course, to help the city of Monmurg.
+[SPEAKER_03]: Why not?
+[SPEAKER_02]: But, I mean, what was Monmurg founded on?
+[SPEAKER_02]: Smuggling.
+[SPEAKER_02]: Piracy.
+[SPEAKER_02]: Profit.
+[SPEAKER_02]: That's what we're about here.
+[SPEAKER_02]: So, of course, helping Monmurg is helping ourselves.
+[SPEAKER_02]: Are we not children of this town?
+[SPEAKER_00]: The city?
+[SPEAKER_00]: This is true.
+[SPEAKER_00]: And that's why we feel like we have a responsibility to see that it endures as much as we can.
+[SPEAKER_02]: This is the place that we make money.
+[SPEAKER_02]: We make coin.
+[SPEAKER_02]: Free trade.
+[SPEAKER_00]: Fantastic.
+[SPEAKER_02]: And commerce, as it were.
+[SPEAKER_00]: I'll have to let Merrick know.
+[SPEAKER_02]: What of you?
+[SPEAKER_02]: I've heard tale, rumors.
+[SPEAKER_02]: That the helm was in jeopardy.
+[SPEAKER_00]: That's what I've heard, that it's still in jeopardy.
+[SPEAKER_02]: Ah, you're not letting on something.
+[SPEAKER_02]: You were there.
+[SPEAKER_02]: I know it.
+[SPEAKER_02]: I heard.
+[SPEAKER_02]: Your platoon shipped out.
+[SPEAKER_02]: However, you return without them.
+[SPEAKER_00]: Yeah, there was quite a bit of... We narrowly escaped.
+[SPEAKER_00]: On a homemade skiff, as a matter of fact.
+[SPEAKER_00]: Overrun by... You haven't seen any sharks in the water lately, have you?
+[SPEAKER_04]: Yeah.
+[SPEAKER_02]: Actually, you're unaware of the sharks.
+[SPEAKER_02]: Well, I have to be honest with you, when I was coming into the bay,
+[SPEAKER_02]: This today, there were sahaugin in the water, and I was very surprised on it.
+[SPEAKER_02]: Really?
+[SPEAKER_02]: Really?
+[SPEAKER_02]: They attacked us, but there were not enough of them to overtake us.
+[SPEAKER_02]: My men were pretty handy with the blades, so we were able to survive.
+[SPEAKER_02]: We lost a man or two, but we got back to the bay.
+[SPEAKER_02]: I heard it was much worse on the helm.
+[SPEAKER_02]: I heard that they lost the ship.
+[SPEAKER_00]: When did you get in?
+[SPEAKER_00]: Noon, today.
+[SPEAKER_00]: Have you seen any ships leave since then?
+[SPEAKER_02]: There have been a lot of ships going back towards the hub.
+[SPEAKER_02]: Marine ships?
+[SPEAKER_02]: Marine ships, of course.
+[SPEAKER_02]: Oh, okay.
+[SPEAKER_02]: It seems like there's a full-on invasion.
+[SPEAKER_00]: Yeah, it's going to take quite a few ships, I would imagine.
+[SPEAKER_00]: Like I say, escaped on our own, skiffed.
+[SPEAKER_00]: Lucky to be out.
+[SPEAKER_00]: So it was the hogging.
+[SPEAKER_00]: We did see some sahaugin, but none on the way back, thankfully.
+[SPEAKER_00]: Interesting.
+[SPEAKER_04]: How long has it been since you've seen a sahaugin, you think?
+[SPEAKER_02]: Well, I've more traveled than you, and I'll tell you this.
+[SPEAKER_02]: The sahaugin seemed to be returning to Selenmore, off the coast of Selenmore, near a small island called
+[SPEAKER_02]: Turtle Island.
+[SPEAKER_02]: Some people call it Lizard Island.
+[SPEAKER_02]: And I've actually been around this area myself.
+[SPEAKER_02]: They seem to be returning to that place.
+[SPEAKER_02]: It's kind of off the coast right where the little marshes start.
+[SPEAKER_02]: Near a small town named Appleyard.
+[SPEAKER_03]: Do you think there's any reason why?
+[SPEAKER_03]: I have no idea.
+[SPEAKER_00]: Well certainly I think
+[SPEAKER_00]: Seems like an opportunity.
+[SPEAKER_02]: I would assume the Admiralty knows about this, correct?
+[SPEAKER_02]: Oh yeah, absolutely.
+[SPEAKER_02]: I mean, the return of the sahaugin.
+[SPEAKER_02]: Like I said, I have seen more activity up north, but I didn't think they'd come this far south.
+[SPEAKER_00]: We didn't either until we got to the island.
+[SPEAKER_00]: No.
+[SPEAKER_04]: The spell that was put on the island, we're still trying to figure out how to
+[SPEAKER_04]: Bring it back and figure out how to restrain the sahaugin from returning to the land.
+[SPEAKER_00]: So the enchantment is still broken.
+[SPEAKER_00]: Do you know how it was broken?
+[SPEAKER_00]: Well, it might have been reinstated by now.
+[SPEAKER_00]: We got in last night.
+[SPEAKER_00]: It was last night now?
+[SPEAKER_00]: Yeah, earlier in the day.
+[SPEAKER_02]: It's evening.
+[SPEAKER_02]: You came yesterday.
+[SPEAKER_02]: You went to the island on the 2nd.
+[SPEAKER_02]: You got back on the 3rd.
+[SPEAKER_02]: The evening of 3rd is now the evening.
+[SPEAKER_00]: Okay, so we got back this morning.
+[SPEAKER_00]: So maybe it's been restored by then.
+[SPEAKER_02]: You didn't get back this morning.
+[SPEAKER_02]: You got back this evening.
+[SPEAKER_02]: You had been gone maybe 24 hours.
+[SPEAKER_00]: The day that we were there, we were hoping to restore the spell in any means necessary.
+[SPEAKER_00]: Since they sent more ships out, maybe they've been able to restore that spell.
+[SPEAKER_00]: That would be amazing if they did.
+[SPEAKER_02]: Well, I hope they get their act together.
+[SPEAKER_02]: The city has gone through enough as it is.
+[SPEAKER_03]: Agreed.
+[SPEAKER_03]: I don't see the blockade being broken any time soon.
+[SPEAKER_03]: No.
+[SPEAKER_00]: Hmm.
+[SPEAKER_00]: What do you think that would take to break it?
+[SPEAKER_02]: Winning one goddamn battle on the sea?
+[SPEAKER_02]: That would be awesome.
+[SPEAKER_02]: I mean, why the Cossairs haven't gone out there and ripped the Men-O-War up, I have no idea.
+[SPEAKER_02]: For some reason our Navy is in dock.
+[SPEAKER_02]: There are not that many Men-O-War.
+[SPEAKER_02]: At Redshore.
+[SPEAKER_02]: Maybe three.
+[SPEAKER_02]: Really?
+[SPEAKER_02]: There's two in Seton and one in Saltmarsh.
+[SPEAKER_02]: I know this.
+[SPEAKER_02]: I've seen them.
+[SPEAKER_02]: Hmm.
+[SPEAKER_02]: Think of a troll, the entire armada of Monmurg would easily, the armada of Monmurg would easily burn Redshore to the ground.
+[SPEAKER_02]: It would take a thousand marines and the city would be decimated.
+[SPEAKER_02]: All those ships and many of those captains don't want to be there.
+[SPEAKER_02]: They'd like to come to us.
+[SPEAKER_02]: Why it's not happened yet, I have no idea.
+[SPEAKER_00]: Probably something up to the princes doing, that's for sure.
+[SPEAKER_02]: Yeah, which one though?
+[SPEAKER_00]: Maybe all of them.
+[SPEAKER_00]: You think they want to look this foolish?
+[SPEAKER_00]: To the people?
+[SPEAKER_00]: I think whatever lines their pocketbook is more important than what they look like to the people.
+[SPEAKER_02]: I'd call you a traitorous liar if I didn't agree with you.
+[SPEAKER_04]: But Folsom, do you have a song for us?
+[SPEAKER_04]: I, in fact, do have a song for us.
+[SPEAKER_04]: Is there like a counter at this bar?
+[SPEAKER_04]: Oh yeah, there's a place you could do your thing.
+[SPEAKER_04]: Okay, I stand up on the counter.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: And then I go, Ladies and gentlemen, for your entertainment, I bring you Folsom.
+[SPEAKER_04]: Ah, roaring applause, I'm assuming.
+[SPEAKER_04]: Ah, Tyrus, what would I be without my announcer?
+[SPEAKER_03]: Everybody's happy.
+[SPEAKER_04]: Yeah!
+[SPEAKER_04]: Well, before anything of my adventure, let's give it up for Owen for providing us with this grand festivities that we're experiencing right now.
+[SPEAKER_04]: Don't do it!
+[SPEAKER_04]: But I do, in fact, have a song for us on the most recent adventure.
+[SPEAKER_04]: I already know the song.
+[SPEAKER_04]: I'm not stage fright or anything.
+[SPEAKER_04]: This is me just trying to pick what I want to... Ladies and gentlemen, the one.
+[SPEAKER_00]: He's traveled far.
+[SPEAKER_00]: Small in stature.
+[SPEAKER_00]: Big in song.
+[SPEAKER_00]: Entertainer extraordinaire.
+[SPEAKER_04]: Okay, honestly, I didn't know this song was gonna have this much of an impact.
+[SPEAKER_01]: Than the legend of no other.
+[SPEAKER_01]: God damn it.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Ladies and gentlemen.
+[SPEAKER_04]: God damn.
+[SPEAKER_00]: He needs no introduction, but I'll do it anyway.
+Oh.
+[SPEAKER_01]: Folsom.
+[SPEAKER_01]: Folsom.
+[SPEAKER_01]: Folsom.
+[SPEAKER_01]: Folsom.
+[SPEAKER_01]: Folsom.
+[SPEAKER_04]: Folsom.
+[SPEAKER_04]: Folsom.
+[SPEAKER_04]: Fucking A.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: I should have read.
+[SPEAKER_00]: You know, I thought going into it, I was like, oh, I got it, but... You're failing getting minuses to your three checks right now.
+[SPEAKER_00]: No, no, no, I'm... No, he's deciding his fate.
+[SPEAKER_03]: Oh, okay.
+[SPEAKER_01]: I didn't realize it was going to be so important.
+[SPEAKER_01]: Ooh.
+[SPEAKER_00]: This whole song right here might change the course of all eternity, my friend.
+[SPEAKER_04]: You know, kudos to you.
+[SPEAKER_04]: This is...
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Do you need a minute?
+[SPEAKER_00]: No, I don't need a minute.
+[SPEAKER_00]: Okay, you got it?
+[SPEAKER_04]: I got it.
+[SPEAKER_04]: What's the name of this song, Roy?
+[SPEAKER_04]: The name of this song, I title...
+[SPEAKER_00]: I'm going to go get a beer.
+[SPEAKER_00]: You take one second.
+[SPEAKER_00]: No.
+[SPEAKER_00]: Do you have any questions?
+[SPEAKER_04]: This is a big decision.
+[SPEAKER_04]: This is a huge attack.
+[SPEAKER_04]: Because I was like, I'm going to go for the one with the most experience points, of course.
+[SPEAKER_04]: And then it's like, you know, I was really just going to pick between these two because it was like 500.
+[SPEAKER_04]: Sure, why not?
+[SPEAKER_04]: But it's like deciding my fate of like, of what?
+[SPEAKER_04]: Oh my god.
+[SPEAKER_04]: Lord Fairman told me and then
+[SPEAKER_04]: And then shitting on Lord Jamis.
+[SPEAKER_03]: Well, you can go with the more neutral option.
+[SPEAKER_02]: So the thing is, is that these other songs maybe you can work up to later as you figure more stuff out.
+[SPEAKER_02]: You can go with a thing that's more neutral if you would like.
+[SPEAKER_02]: That's true.
+[SPEAKER_02]: Okay.
+[SPEAKER_04]: Okay, time's up.
+[SPEAKER_04]: Yep.
+[SPEAKER_04]: Folsom, Folsom, Folsom, Folsom.
+[SPEAKER_04]: For this song, I call it The Brewing Storm.
+[SPEAKER_04]: I get out my fife and play just a little, like, gnarly riff.
+[SPEAKER_04]: And I go, oh Monmurg, you're a jewel on display.
+[SPEAKER_04]: Hang on.
+[SPEAKER_04]: Oh, shit.
+[SPEAKER_03]: Do a performance roll.
+[SPEAKER_01]: Oh.
+[SPEAKER_03]: Okay.
+[SPEAKER_04]: Performance.
+[SPEAKER_04]: So that's a one.
+[SPEAKER_03]: I'll let you...
+[SPEAKER_03]: I'm gonna say this actually does well, because I think that for the game, we need to have this song do well.
+[SPEAKER_03]: Yeah.
+[SPEAKER_01]: Thank you.
+[SPEAKER_04]: Holy shit.
+[SPEAKER_01]: You can now, I'm sorry, the quality is not right there.
+[SPEAKER_01]: Sure.
+[SPEAKER_01]: I'll be there.
+[SPEAKER_01]: The Navy's strong, or so they say.
+[SPEAKER_01]: Where storms and whispers have led you astray.
+[SPEAKER_01]: The enemy's fleet, though we could run slow.
+[SPEAKER_01]: Tell the world he comes and smite people.
+[SPEAKER_01]: You're gonna get canceled for this.
+[SPEAKER_01]: I know.
+[SPEAKER_01]: Trust me.
+[SPEAKER_01]: I could've just, I could've gotten no out words.
+[SPEAKER_01]: Names & Gouge, Merrick.
+[SPEAKER_03]: I'm sorry the recording quality is so bad.
+[SPEAKER_03]: No, I want to hear Folsom.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: That's me.
+[SPEAKER_03]: Oh, that's it.
+[SPEAKER_03]: All right, so Folsom, go ahead and let's re-roll your performance.
+[SPEAKER_03]: We do have to re-roll that to see how it's taken by the people in the barracks.
+[SPEAKER_04]: Well, my performance is plus six times two.
+[SPEAKER_02]: Well, it's plus six, but you have proficiency in it, right?
+[SPEAKER_02]: So your proficiency is plus four, plus your charisma bonus, which is plus four, so it's plus eight.
+[SPEAKER_02]: Okay.
+[SPEAKER_03]: And I didn't meet with him before this?
+[SPEAKER_03]: No.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: One.
+[SPEAKER_04]: He had me a free bullet because it was a one.
+[SPEAKER_03]: Okay, so you finished the song.
+[SPEAKER_03]: And you realize, and by the way, that was two ones in a row, you're singing to a bunch of Marines.
+[SPEAKER_03]: And let's talk the words of what this says.
+[SPEAKER_01]: Let's give it up, my man!
+[SPEAKER_01]: I'm gonna hype him up.
+[SPEAKER_01]: Yeah, yeah, buddy, my man.
+[SPEAKER_03]: Everybody just kind of sits there looking at Folsom, like, on the side.
+[SPEAKER_03]: I don't know what I'm doing here, but I followed Merrick.
+[SPEAKER_03]: So here's the song.
+[SPEAKER_03]: O Monmurg, you're a jewel on display, But your leaders have led you astray.
+[SPEAKER_03]: Princes and plars in their gilded halls Can't see the writing on your walls.
+[SPEAKER_03]: Newka grassled noose will bind, But it's your own leaders who are truly blind.
+[SPEAKER_03]: O princes of the sea, what have you done?
+[SPEAKER_03]: Your squabbles and schemes have blocked out the sun.
+[SPEAKER_03]: While you bicker and fight, this city's in plight, and the Duke of Gradsul laughs while you fight.
+[SPEAKER_03]: The Navy's strong, or so they say, but storms and wisters have led you astray.
+[SPEAKER_03]: The enemy's fleet, the weaker and slow, has somehow managed to steal the show.
+[SPEAKER_03]: Is it magic or treachery?
+[SPEAKER_03]: Who can tell?
+[SPEAKER_03]: But incompetence might be the cause as well.
+[SPEAKER_01]: Oh, this is harsh!
+[SPEAKER_03]: O princes of the sea, what have you done?
+[SPEAKER_03]: Your squabbles and schemes have blocked out the sun.
+[SPEAKER_03]: While you bicker and fight, the city's in plight, and the Duke of Grasel laughs at your blight.
+[SPEAKER_03]: For Torvin's in ashes, the food's running low.
+[SPEAKER_03]: You sit in your castles, putting on a show.
+[SPEAKER_03]: The Prince of Port Toli, with his ships bayed, plays his own game while the city's betrayed.
+[SPEAKER_03]: Internal strife, a festering sore, while Monmurg starves.
+[SPEAKER_03]: All plan for more.
+[SPEAKER_03]: The traders are stuck, the markets are bare, and the people of Monmurg are in despair.
+[SPEAKER_03]: The Prince of Berghof, with his meager supply, leaves you to wonder, is this goodbye?
+[SPEAKER_03]: Your allies are distant, your enemies near.
+[SPEAKER_03]: You do nothing but stoke the fear.
+[SPEAKER_03]: O princes of the sea, what have you done?
+[SPEAKER_03]: Your squabbles and schemes have blocked out the sun.
+[SPEAKER_03]: While you bicker and fight, the city's in plight, and the Duke of Gradsul laughs while you fight.
+[SPEAKER_03]: So here's to the leaders, the princes and plars, who've turned Monmurg's fortunes into scars.
+[SPEAKER_03]: While you play your games, the city's in pain, and the Duke of Gradsul wins again.
+[SPEAKER_03]: They'll monomer your fates in their hands, but it's their own folly that tightens the bands.
+[SPEAKER_00]: Do you know that you rolled like seven rolls in a run?
+[SPEAKER_00]: You rolled that a one.
+[SPEAKER_04]: What is the reaction of the barracks?
+[SPEAKER_04]: The barracks are silent.
+[SPEAKER_00]: I rolled this and then rolled that again.
+[SPEAKER_00]: That's like six or seven ones in a row that he rolled just now.
+[SPEAKER_00]: I rolled two ones.
+[SPEAKER_00]: With four different dice.
+[SPEAKER_03]: So by the way, the performance is good.
+[SPEAKER_03]: It's passable.
+[SPEAKER_03]: You haven't had time to practice it.
+[SPEAKER_03]: It's not that.
+[SPEAKER_03]: It's just that the audience is like...
+[SPEAKER_03]: Very patriotic.
+[SPEAKER_01]: I'm not a very good move to play in.
+[SPEAKER_03]: Can I make a move here?
+[SPEAKER_03]: Oh yeah, you bet.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: I'm going to set down the red eye.
+[SPEAKER_03]: I'm going to come over.
+[SPEAKER_03]: This.
+[SPEAKER_03]: I'm going to slide out my dagger and slide it back in.
+[SPEAKER_03]: See, these words aren't welcome here.
+[SPEAKER_03]: I'm going to take charge of him.
+[SPEAKER_03]: I grab him, I look at you, and you sit the fuck down, and I drag him out of the barracks.
+[SPEAKER_00]: So, how about, I look at Owen and go, like, how much?
+[SPEAKER_00]: Okay, wait a second, so do you let him do that?
+[SPEAKER_03]: Um, yeah, here, sit the fuck down.
+[SPEAKER_03]: I'm saving your ass.
+[SPEAKER_03]: Yeah, I let him do it.
+[SPEAKER_03]: Okay, so you basically get dragged.
+[SPEAKER_03]: Are you gonna take him out of the barracks?
+[SPEAKER_03]: Yes.
+[SPEAKER_02]: Okay, so you guys go on the street.
+[SPEAKER_02]: Okay, you guys are gone, and so the two of you are here.
+[SPEAKER_02]: I'll come down in a second.
+[SPEAKER_00]: I'm gonna grab my gold here, and I'll go to Owen, next barrel is on me.
+[SPEAKER_00]: I gotta take a leap.
+[SPEAKER_00]: Hang on a second.
+[SPEAKER_00]: We're gonna go outside too.
+[SPEAKER_00]: Hang on a second.

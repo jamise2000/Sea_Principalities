@@ -1,0 +1,385 @@
+[Speaker Key: DM = Dungeon Master (narration, rules calls, voicing guards and Fairwind) | TYRUS, GOUGE, FOLSOM, PAUL, MERRICK, JUDE = respective players. NOTE: This file is the DM's recording of the full battle against Lord Fairwind's guards on the narrow bridge/catwalk. The latter half of this same battle (roughly from the point Fairwind is thrown into the water onward) was also saved as a separate file, "Battle_w_Fairwinds_guards_3rd_Wealsun_end," and has already been cleaned separately — see that file for the conclusion of this fight. This document covers the earlier portion: the initial clash with Fairwind's guards on the bridge, the grapple with Fairwind himself, and his being thrown into the chasm.]
+
+DM: Okay, it's the third of Wealsun. Let's roll initiative — Tyrus, Gouge, tell me what you get.
+
+TYRUS: Sixteen, with pluses.
+
+GOUGE: Eighteen.
+
+FOLSOM: Sixteen.
+
+PAUL: Twelve.
+
+MERRICK: Twelve.
+
+JUDE: Twelve.
+
+DM: All right — Tyrus, you're up first. You can dash sixty feet if you want, or just thirty normally.
+
+TYRUS: I'll dash thirty feet.
+
+DM: You move up and see a guard standing there, shield raised.
+
+TYRUS: I'll hold here — yell out: "We'll kill him if you don't give us passage!"
+
+DM: You can dash or dodge as your action — which do you want?
+
+TYRUS: I'll dodge, after the shout.
+
+DM: Bonus action available too — want to ready Thunderous Smite? It lasts up to ten rounds if unused.
+
+TYRUS: I'll hold onto that for now, since I want to use Divine Smite the instant I land a hit rather than commit early.
+
+DM: Fair — if you don't use a readied smite within ten rounds, the spell slot's wasted, so it's a balance of risk versus flexibility.
+
+TYRUS: I'll hold for now. I dodge.
+
+DM: Next up — Merrick, you're in the back.
+
+MERRICK: Not sure what I can do from here. How much time's passed since the last fight?
+
+DM: About thirty minutes, with all the talking and walking that's happened.
+
+MERRICK: Is Longstrider still active on me?
+
+DM: Yes, that lasts eight hours — so you've got extended movement, ninety feet if you dash.
+
+MERRICK: I'll drop my bow out, bonus action for my belt—
+
+DM: You're about ninety feet back, in dim light — if you want to fire at the silhouette ahead, you can, though you risk hitting an ally given the angle.
+
+MERRICK: I'll take the shot anyway.
+
+DM: Since the target can't see you, you get advantage — roll twice, take the higher.
+
+MERRICK: [rolling] Seventeen.
+
+DM: Your arrow streaks out of the darkness and connects — solid damage. The guard yells out, "Under attack!"
+
+DM: That was Merrick — want to do anything else, reposition?
+
+MERRICK: I'll just hold position here, no clear advantage to moving further right now.
+
+DM: Next — Jude or Folsom?
+
+JUDE: Am I in range — a hundred twenty feet? I want to hit the same guy Merrick just shot with my firebolt.
+
+DM: You're actually about twenty feet outside range.
+
+JUDE: I'll move forward to get in range, then.
+
+DM: That works — though it puts you closer to the edge.
+
+JUDE: I'll hold my action instead — if everyone pushes forward and I get in range, I fire both bolts at once; if I see more than one target down there, I'll save it for a fireball instead, since that's a hundred-fifty-foot range.
+
+DM: Got it.
+
+FOLSOM: I'm going to grapple Fairwind directly — charm's still active on him, right? I grab him, pull out my dagger, hold it to his throat.
+
+DM: Roll an athletics check for the grapple.
+
+FOLSOM: [rolling] Seventeen.
+
+DM: That's enough — Fairwind, under the charm, doesn't fully resist; he turns, smells something's off, but you've got him.
+
+FOLSOM: [shouting] Cease fire! Hold!
+
+DM: You hold the dagger to his throat, signaling the men to stand down.
+
+DM: Gouge — your turn.
+
+GOUGE: I'll pull my crossbow, load it, move up thirty feet behind Tyrus.
+
+DM: You see the guard in the darkness ahead.
+
+GOUGE: Can I sneak attack?
+
+DM: Not technically sneak attack, but you do have advantage on this shot since he can't see you clearly.
+
+GOUGE: [rolling with advantage] Nineteen — that's a hit. Heavy crossbow damage.
+
+DM: Your bolt streaks out, hits him in the shoulder — serious damage.
+
+GOUGE: I'll try to slip past on the side using acrobatics.
+
+DM: That'd be a DC 10 check if you want to go around Folsom and Fairwind on the inner wall — careful, though, you risk knocking someone off the edge if you mess it up.
+
+GOUGE: [rolling] Eighteen — easily clears it.
+
+DM: You slide around cleanly.
+
+GOUGE: [continuing toward the edge] I'll try to push past toward the wall.
+
+DM: That'd risk shoving Folsom or Fairwind off — are you sure?
+
+GOUGE: I'll go around instead, using acrobatics rather than athletics.
+
+DM: Roll it.
+
+GOUGE: [rolling] Nineteen — you make it past easily, all the way down the ledge.
+
+DM: As you pass, Fairwind kicks at Folsom's leg, and — Paul, you're caught in this too — make a DC 15 dexterity save.
+
+PAUL: [rolling a 20]
+
+DM: You manage to avoid the worst of it, barely two points of damage as you catch yourself.
+
+FOLSOM: [aside] Wait, can I use Cutting Words on Fairwind's roll?
+
+DM: You'd have had to do that during his roll, not after — but noted for next time.
+
+DM: Paul, you actually nose-dive into the water below.
+
+PAUL: There's a Toli body already down there?
+
+DM: You can make it out before you hit the surface — and Fairwind may be trying to break free from Folsom's grip in the meantime. Folsom, roll athletics to maintain your hold.
+
+FOLSOM: [rolling] Eleven.
+
+DM: He breaks free.
+
+JUDE: [readying a response] I'm going to fireball Fairwind's general direction if he's clear of our own people.
+
+DM: All right — he's currently fleeing toward Gouge, attacking as he goes. Multiattack — three swings.
+
+DM: [rolling] He clips Gouge across the back of the skull, solid damage, then continues his attempt to throw himself — or others — off the ledge.
+
+GOUGE: [reacting] I want credit if that shark down there ends up eating a Toli first, for what it's worth.
+
+DM: Noted. Everyone — get clear of the catwalk, this isn't a stable position to be fighting on.
+
+GOUGE: What'd he roll to kick me off?
+
+DM: That was an opportunity attack, technically — you moved out of his immediate range without disengaging properly, so he got a free swing as you passed.
+
+GOUGE: Fair enough.
+
+DM: He's not just attacking randomly — once Folsom's grapple and charm broke down, he reverted to trying to escape by any means, including shoving people in his way. Even under the charm, he wouldn't have intentionally thrown an ally into shark-infested water — but the charm's broken now, so all bets are off.
+
+DM: Gouge, make a strength save — disadvantage, since you're still reeling from the head hit. DC 14.
+
+GOUGE: [rolling] Eleven and a ten — I hold on, barely don't go over the edge myself.
+
+DM: Good — you're rattled, but still on the catwalk, with Fairwind right behind you.
+
+DM: New initiative round — Tyrus fifteen, Gouge eighteen, Paul fourteen, Merrick seventeen, Folsom fourteen, Jude ten, Fairwind highest.
+
+DM: Gouge, you're up.
+
+GOUGE: I've got this asshole right next to me — I'm going to turn and grab him, try to throw him off the ledge myself.
+
+DM: That's a shove attack — contested athletics or acrobatics check, your strength against his attempt to resist.
+
+GOUGE: [rolling] Twenty.
+
+FAIRWIND: [resisting] You absolute—
+
+DM: [resolving] You win clearly — you grab him, wrestle him toward the edge, and throw him over, into the water below.
+
+GOUGE: [triumphant, dark humor] Go drink with the fish, then.
+
+DM: He goes over, into the drink.
+
+DM: Do you want to look down, see what's happening in the water now?
+
+GOUGE: Yeah, I'll check.
+
+DM: Roll perception, at disadvantage, given the darkness.
+
+GOUGE: [rolling] Fifteen.
+
+DM: You see splashing where he landed — about thirty feet down. Then, looking further out into the darker water, roll again, disadvantage still applies.
+
+GOUGE: [rolling]
+
+DM: You see thrashing, then a shape rises and pulls something under — something or someone just got dragged beneath the surface. Hard to tell if it was Fairwind himself or someone else nearby.
+
+GOUGE: I'll keep watching, see if anything else surfaces.
+
+DM: Nothing more for the moment.
+
+DM: Merrick, your turn — can you see anything down there too?
+
+MERRICK: [rolling perception] One.
+
+DM: You see almost nothing useful — just confirm that at least three people have gone into the water at this point between Fairwind, Paul, and whoever else got pulled under.
+
+DM: Do you want to reposition, Gouge — or hold?
+
+GOUGE: I'll hold here, keep watch on the entrance in case anyone else tries to come through, arrow ready.
+
+DM: Okay, you post up, watching the passage.
+
+DM: Tyrus, your turn.
+
+TYRUS: I'm going to move thirty feet up toward the doorway.
+
+DM: You reach an open entryway — no actual door, just an open threshold with rooms beyond it, men inside.
+
+TYRUS: I'll ready Thunderous Smite as a bonus action, in case anyone comes through that doorway at me.
+
+DM: Okay — and as you wait, two guards in breastplates round the corner, swords drawn, ready for a fight.
+
+TYRUS: I'm moving up to engage, yelling for Jude as I go — hoping he can get to Paul, levitate him out of the water.
+
+DM: Got it — you're calling out as you move into position.
+
+DM: Folsom — what are you doing? Want to use your last Bardic Inspiration on someone, given the chaos?
+
+FOLSOM: I'll give it to Jude — good call, given he's about to attempt the rescue.
+
+DM: Jude, your turn — you're casting Levitate?
+
+JUDE: Yes — moving forward to get line of sight on Paul in the water.
+
+DM: With your darkvision, you spot him flailing below. Levitate has a sixty-foot range and you're well within it — you can raise him vertically up to twenty feet immediately.
+
+JUDE: I'll do that.
+
+DM: Something rushes past Paul's leg in the dark water as he rises — unclear what.
+
+JUDE: [aside] Did Folsom's inspiration end up being needed?
+
+DM: No — turns out you didn't need it for this roll, but you keep it regardless, still active for the next ten minutes.
+
+DM: So, Paul rises out of the water, currently about twenty feet up, roughly fifteen feet above the platform itself.
+
+JUDE: I'll hold an action to help bring him the rest of the way once he's close enough.
+
+DM: Got it — holding your action.
+
+DM: New round — Merrick, you're up first.
+
+MERRICK: I'll move up toward Jude's position.
+
+DM: You come up behind him, see him leaning over the edge.
+
+MERRICK: Can I look down into the water myself?
+
+DM: Roll perception.
+
+MERRICK: [rolling] Three.
+
+DM: Too dark to make out anything useful from your angle. You could try throwing Paul a rope once he's close enough, though — worth remembering for next time.
+
+MERRICK: I'll ready my bow instead, keep watch on the water in case something surfaces.
+
+DM: Okay — bow ready, watching.
+
+GOUGE: [meanwhile] I'm going to use Enhance Ability — Bear's Endurance — on myself, since I took that hit to the head earlier.
+
+DM: That grants you temporary hit points — roll two d6.
+
+GOUGE: [rolling] Six, six — twelve temporary hit points.
+
+DM: Solid roll.
+
+DM: Tyrus, your turn.
+
+TYRUS: I'm holding this chokepoint, trying to contain these two guards here.
+
+DM: You hold your ground.
+
+TYRUS: I yell: "We will kill the lord if you don't let us pass!"
+
+DM: You shout that, then ready your action, listening for movement back down the stairway.
+
+TYRUS: Yeah, exactly.
+
+DM: One of the guards steps up and attacks you — can you see him?
+
+TYRUS: With advantage, since he can't see me in the dark.
+
+DM: [resolving] His first attack goes wide. He calls back to his companion: "At least you're not the one in the water" — joking grimly about Fairwind's situation moments ago.
+
+DM: His follow-up attack — what's your AC?
+
+TYRUS: Eighteen.
+
+DM: [resolving] He connects this time — twenty-two total, hits you. This guy's clearly skilled — blocks your shield bash, comes back around for a second strike.
+
+TYRUS: Can I dodge at this point?
+
+DM: Not this exchange — he's already committed. [resolving] He connects again, significant damage, and you have to make a strength saving throw.
+
+TYRUS: [rolling] Eleven, plus three.
+
+DM: He knocks your sword clean out of your hand with that blow.
+
+TYRUS: That hurt.
+
+DM: Jude's turn — you can move Paul up the remaining ten feet onto the platform proper.
+
+JUDE: I'll do that, help him up.
+
+DM: Does Paul act before or after you, given he already saved his action?
+
+JUDE: He's already used his earlier in the sequence — I'll move forward myself now, dash toward the fight.
+
+DM: You see Tyrus getting disarmed by this skilled guardsman as you approach.
+
+JUDE: I'm not quite in range to attack directly yet — but since I dashed, I've still got my bonus action. I'll throw my hand axe at the guy disarming Tyrus.
+
+DM: Want to use Human Determination for advantage on that throw?
+
+JUDE: Yes.
+
+DM: [resolving with advantage] Twenty-two total — that's a hit, clipping his helmet, cutting into his ear. Not a killing blow, but he's rattled.
+
+DM: Gouge, you're up — did you already take your shot?
+
+GOUGE: That was actually Paul's hit, not mine — let me dash up behind Jude instead.
+
+DM: Okay, you move into position.
+
+DM: New round — initiative resets: Tyrus eight, Paul twenty-two, Jude twenty-two, Merrick six, Folsom eleven, the guards nine and ten.
+
+DM: Paul or Jude — who goes first?
+
+PAUL: I'll go — I'm lying flat near the edge so people can step over me if needed, and casting Levitate to look for Fairwind in the water below.
+
+DM: You scan, trying to spot him.
+
+PAUL: [rolling, with Bardic Inspiration added] Seven total — not enough to make it out clearly in the dark water.
+
+DM: No sign of him from your vantage.
+
+JUDE: [also searching] Fairwind, you asshole — surface!
+
+DM: [resolving Jude's perception check, at disadvantage due to darkness] No direct sighting, but you hear a splash off in one direction — could be Fairwind, could be the Toli, or the shark.
+
+DM: Gouge, then Folsom — your turns.
+
+FOLSOM: I'll move thirty feet, then dash the rest of the way.
+
+DM: You close the distance.
+
+GOUGE: I'll engage the wounded guard with my dagger and scimitar.
+
+DM: [resolving] Twenty-three total — that's a hit, and since Tyrus is within five feet, flanking counts as your sneak attack bonus automatically.
+
+GOUGE: I'll take it.
+
+DM: [rolling damage] You slip the blade across his throat, right under the jaw — he goes down. You can follow up with your dagger on the second guard if you can reach him.
+
+GOUGE: I'll do that.
+
+DM: [resolving] Natural twenty — show them how it's done.
+
+GOUGE: [finishing the second guard with a clean strike]
+
+DM: You walk up and stab cleanly — he staggers but isn't quite down yet.
+
+DM: There's a passage continuing off to the side here — bars on a door, though it looks like it's currently unlocked, propped open.
+
+DM: This second guard, badly wounded, swings back at Gouge with his sword.
+
+GOUGE: What's my AC again — I lost my leather at some point?
+
+DM: Studded leather, twelve base plus your dexterity bonus of four — sixteen total.
+
+DM: [resolving] He hits for solid damage, sweeps your legs, and you have to make a strength save, DC 14.
+
+GOUGE: [rolling, factoring in temporary hit points absorbing some of the blow] I manage to stay upright, mostly.
+
+[This concludes the portion unique to this file — the fight continues from here exactly as recorded in "Battle_w_Fairwinds_guards_3rd_Wealsun_end," where Tyrus finishes off the remaining guard with Thunderous Smite, the party searches for Fairwind's body, and eventually locates a severed Toli arm floating in the water, prompting Paul to investigate further with a rope.]

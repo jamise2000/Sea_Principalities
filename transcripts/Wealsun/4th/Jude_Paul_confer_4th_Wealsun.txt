@@ -1,0 +1,223 @@
+[SPEAKER_00]: Sometime after the 3rd of Wealsun, Jude and Paul Rivera get a chance to connect and discuss what happened on Helm Island, and what they've learned since returning.
+[SPEAKER_01]: I'm not sure we should have killed Lord Fairwind — though maybe it's moot now. I don't know if Jeon and Fairwind could have worked things out otherwise.
+[SPEAKER_02]: Did you want him dead? I wanted him in custody.
+[SPEAKER_01]: When we lost him, I wasn't sure what we'd even do with him beyond arrest — he was a traitor, guilty of treason, but we didn't have time to sort that out properly while moving through the castle.
+[SPEAKER_02]: We had him dead to rights, though. What exactly did you hear him say — I never actually asked you directly.
+[SPEAKER_01]: I told you already, not in character — he was talking with the Toli, about disposing of evidence or selling something off. The Toli responded, basically, "We noticed you took most of it anyway."
+[SPEAKER_02]: Of the powder, yeah — he admitted as much once we had him tied up.
+[SPEAKER_01]: What was he saying when he was fighting with Gouge?
+[SPEAKER_02]: I don't think he was really talking to Gouge directly at that point — you two were just fighting, I thought.
+[SPEAKER_01]: I mean the Toli — Gouge had punched one of them.
+[SPEAKER_02]: No, I meant on the stairs in the cave — when I'd fallen, and you were lifting me back up. Fairwind and Gouge were exchanging words then.
+[SPEAKER_01]: No, Gouge had already moved forward by that point — the real issue was, right after you went into the water, Fairwind attacked Gouge and knocked him toward the ledge.
+[SPEAKER_02]: So something was said in that moment?
+[SPEAKER_01]: Actually, what happened was Folsom — Fairwind was whispering to Folsom, the bard, at that point. That's what was going on; I wasn't privy to it directly.
+[SPEAKER_02]: And then you got kicked off, right, and went down.
+[SPEAKER_01]: Have you ever actually been to Fairwind's own holdings — his island?
+[SPEAKER_02]: No, I've never toured his island specifically.
+[SPEAKER_00]: You've been to the main port of Fairwind Island, attended a feast there once, but never toured the island in detail.
+[SPEAKER_02]: I've seen the obvious stuff, but nothing in-depth.
+[SPEAKER_01]: So if we have to find where he's stashed things, you'd have basically no idea?
+[SPEAKER_02]: Pretty much zero clue.
+[SPEAKER_01]: Let me ask you this — is Fairwind the kind of man who'd keep valuables close to him physically, or would he stash things on entirely separate islands, far from his main holdings?
+[SPEAKER_00]: Roll a check on that.
+[SPEAKER_02]: [rolling] Thirteen plus four.
+[SPEAKER_00]: Fairwind strikes you as old-school — pirate tradition through and through. These people live for secret treasures, hidden locations, smuggling routes. If he's true to type, he'll have several stashes, not just one — never put all your eggs in one basket. He'll likely have one well-defended, dangerous location that serves as an obvious decoy, and several other genuinely secret caches elsewhere.
+[SPEAKER_01]: Historically, lords of the outer islands all maintain their own hidden stockpiles.
+[SPEAKER_02]: Are there just countless tiny islands out there? It'd be unrealistic to search them all, even within a day's sail of his main holdings.
+[SPEAKER_00]: I wouldn't call it that extreme, but the outer islands as a whole are extensive — hundreds of smaller islands scattered around, something like an archipelago. Not infinite, but plenty to make a thorough search impractical without better intelligence.
+[SPEAKER_01]: So Fairwind's definitely not keeping everything in one strongbox — caches scattered everywhere.
+[SPEAKER_02]: [considering] You're part of the royal family, Paul — so your personal knowledge might be limited just by youth and your family's particular focus. It'd be unrealistic for you to know much about the Toli or Fairwind's specific habits and travels offhand.
+[SPEAKER_01]: True, but it's worth thinking about — I know more than the average person, just from my own background. For instance, my experience with the Scarlet Brotherhood, and suspecting a real connection between them and the Toli, shapes how I view the Toli generally.
+[SPEAKER_02]: I don't have that kind of context myself.
+[SPEAKER_01]: That's fine — I just want you thinking about it. These are the kinds of things that get discussed over dinners as you grow up in that world — if we're going to pin down where Fairwind might have stashed things, we need to know about incursions he's made, places he's sailed into accidentally or otherwise.
+[SPEAKER_02]: I'll check the library for shipping logs and records.
+[SPEAKER_01]: I'll definitely check too, but you'd need to bring me along for proper access.
+[SPEAKER_02]: Appreciated.
+[SPEAKER_02]: What did you think — was our overall operation at the Helm successful?
+[SPEAKER_01]: I didn't get much chance to talk with Jamis directly about it myself.
+[SPEAKER_02]: I checked in with you a bit — did Jamis ask you a lot about Fairwind?
+[SPEAKER_01]: He mostly wanted to know what happened, generally.
+[SPEAKER_02]: How did he react when you told him about the treasure situation?
+[SPEAKER_01]: He was upset — didn't want to go to war with Fairwind over it.
+[SPEAKER_02]: So he wasn't making excuses for him?
+[SPEAKER_01]: Not really — he wants Fairwind found and punished, even if outright war isn't the goal.
+[SPEAKER_02]: Can I ask what exactly Jeon wants from us now?
+[SPEAKER_01]: He wants us to find Fairwind and bring him into custody — and first, recover and recreate the barrels of powder, find wherever Fairwind took them.
+[SPEAKER_02]: Janus said something similar to me, actually.
+[SPEAKER_01]: That tracks. So — find the powder, get Fairwind if possible, and he also wants me to teach you wizardry properly.
+[SPEAKER_02]: Wait, Jeon actually said that?
+[SPEAKER_01]: Yes.
+[SPEAKER_02]: I feel fine about that — is it something you'd want to do?
+[SPEAKER_01]: Yeah, I'm fine with it.
+[SPEAKER_02]: It benefits the family too, since we're not really spellcasters otherwise — having one in the family closes a real gap.
+[SPEAKER_01]: He's trying to address that weakness directly.
+[SPEAKER_02]: And you've got your homunculus already, made it yourself.
+[SPEAKER_01]: Yeah — what's your intelligence score, out of curiosity?
+[SPEAKER_02]: I don't actually know offhand.
+[SPEAKER_01]: We're probably about equal.
+[SPEAKER_02]: Doubtful.
+[SPEAKER_01]: [bantering] Whatever, buddy — I don't see you making a homunculus out of, well, certain ingredients.
+[SPEAKER_02]: I didn't even know about that part.
+[SPEAKER_01]: You already knew I was teasing you about the island thing, with the blood and all that.
+[SPEAKER_02]: That's not eighteen intelligence, surely?
+[SPEAKER_01]: What's yours?
+[SPEAKER_02]: Twenty, apparently.
+[SPEAKER_01]: Okay, whatever — give me a level or two, I'll catch up.
+[SPEAKER_02]: It sounds like you've got a real propensity for magic, which is a great starting point — and you're curious, which I think matters even more.
+[SPEAKER_01]: So, Jeon wants us to find and recreate the powder first.
+[SPEAKER_02]: We need to locate it before we can even think about recreating it.
+[SPEAKER_01]: Is that his top priority, in your sense?
+[SPEAKER_02]: We've got maybe fifty days — three months at the outside, from what I heard, possibly longer if those twenty-five barrels we left behind are still secured.
+[SPEAKER_01]: Do we need to go back to the Helm at all, to help deal with the hobgoblins?
+[SPEAKER_02]: He wasn't upset about that specifically — nothing was really said about going back, beyond him asking whether it was safe to.
+[SPEAKER_01]: Which implies, if it is safe, he wants us to.
+[SPEAKER_02]: To the Helm? Yeah, given there are still twenty-five barrels there.
+[SPEAKER_01]: It might already be secured by other troops, though — if they're not using the secret access, they'll just bring in another full ship's worth eventually.
+[SPEAKER_02]: I'm wondering if we need to help Monmurg's troops defeat the hobgoblins directly, or if I should stay here and focus on alchemical research with you.
+[SPEAKER_01]: Another wizard's apparently been brought in to help with relief efforts. So I think Jeon's got that covered without us specifically — might not even need us there anymore.
+[SPEAKER_02]: Fine by me, if we haven't been requested.
+[SPEAKER_01]: Do you remember when I was cutting gills off that Sahaugin earlier?
+[SPEAKER_02]: Yeah.
+[SPEAKER_01]: I originally thought I could use them for a potion of water-breathing, but on the sail back I realized the gills might actually hold residue from the chemical itself — worth examining, since the substance clearly killed that Sahaugin, and a forty-foot shark, and eight or ten more right there in that cove. Potency's not in question.
+[SPEAKER_02]: One barrel apparently covers the entire stretch around Monmurg, too — good spread.
+[SPEAKER_01]: Right — but what Lord Jamis actually asked me to determine is whether there was a counter-agent used against it. If we examine the gills, we might find traces — did the powder cause swelling, did it congeal strangely, or is there residue from something that countered a previous application? Remember, they said it needs reapplication every two days around the Helm.
+[SPEAKER_02]: Do you know the alchemist shop just off the square in the foreign district?
+[SPEAKER_01]: Sure I do.
+[SPEAKER_02]: No, you don't, actually.
+[SPEAKER_01]: I don't.
+[SPEAKER_02]: There's a good alchemist there I've been trying to get to know — good reason to visit now. We could buy materials, and ask if he knows of any reagents that might reveal residual chemicals in the gills.
+[SPEAKER_01]: Sure, but why would we want to identify a counter-agent specifically — we're not trying to make one ourselves.
+[SPEAKER_02]: Right, not us — what worried Lord Jamis was that the Helm had supposedly been seeded with the powder before the storm hit, and it should last two days. So either it was somehow neutralized, or it was fake all along — sand instead of the real powder.
+[SPEAKER_01]: That wouldn't explain the hobgoblins, though — those came from outside, brought in by the Toli and that ghost ship, under cover of the fog. That's my read — Fairwind didn't bring them in himself, but he was clearly working with the Toli on some level.
+[SPEAKER_02]: I don't disagree, but I think Fairwind was working for himself primarily, not really for the Toli.
+[SPEAKER_01]: Agreed — he saw an opportunity and took it. Even the fact that the Toli said he'd taken most of the powder for himself suggests he's playing his own game, not theirs.
+[SPEAKER_02]: What's the actual benefit to the Toli in this arrangement, then?
+[SPEAKER_01]: They got some barrels out of it — final depletion of what little remained. [aside] Wait, was this something Jamis didn't want repeated? I can't quite remember the boundary.
+[SPEAKER_02]: You'll have to remind me what's off-limits to mention to others.
+[SPEAKER_01]: Remember how Jamis said not to tell anyone certain things—
+[SPEAKER_02]: Right, nothing about that specifically here, just between us. But before I forget, remind me if I get close to oversharing.
+[SPEAKER_01]: Will do. Because here's the thing — Fairwind could blame the Toli for everything, which was Jamis's suspicion. Meaning he's still primarily serving his own interests, just under cover of working with them. He wants more power, that's my read.
+[SPEAKER_02]: So, getting back to the real question — Jamis wants to know: after the Helm was properly seeded with the powder, why was the Sea Ghost able to get in and let the Sahaugin do their thing? Was it because Fairwind seeded it improperly, was a counter-agent used, or did the Sahaugin somehow overcome it on their own?
+[SPEAKER_01]: The Sahaugin overcoming it themselves doesn't track — they died en masse when it was reapplied. The only odd detail is, in the day or two before we left, the light signals from the Helm weren't matching the right codes.
+[SPEAKER_02]: This powder only stays effective a day or two — did the Sahaugin just wait it out?
+[SPEAKER_01]: No — the Sahaugin actually came in under cover of that unnatural fog, seizing the citadel itself. By taking the citadel, they likely interfered with the powder application directly, which also explains the mismatched signal codes.
+[SPEAKER_02]: Interestingly, if Fairwind was working that closely with the Toli, why would the signal codes be wrong at all — wouldn't he know the proper countersign?
+[SPEAKER_00]: Roll an intelligence check, both of you.
+[SPEAKER_01]: [rolling] Thirteen plus five.
+[SPEAKER_02]: [rolling] Similar.
+[SPEAKER_00]: Together, you piece it out: Fairwind was playing both the Toli and Jeon against each other. He wanted Jeon to receive suspicious signals — while simultaneously making sure the Toli believed those same signals looked innocuous to outsiders.
+[SPEAKER_01]: That tracks — Fairwind was essentially signaling "something's wrong, come investigate," while trying to appear cooperative to the Toli at the same time. Playing both sides against each other, mostly for his own benefit.
+[SPEAKER_02]: He's basically demanding respect, in his own way.
+[SPEAKER_01]: Right — Jamis did mention Fairwind's always been a little jealous of Jeon specifically.
+[SPEAKER_02]: That tracks with what I'm thinking — there's clearly some level of cooperation with the Toli, but I don't think Fairwind is fully in their pocket. Even when we took him prisoner, that was my sense.
+[SPEAKER_01]: Agreed — he's still working mostly for himself. Otherwise we wouldn't have gotten that garbled signal in the first place.
+[SPEAKER_02]: Maybe he's still open to dealing, if what he really wants is respect through perceived power. What if we don't sneak around him anymore — we go talk to him directly?
+[SPEAKER_01]: We didn't kill him, after all — just the two Toli.
+[SPEAKER_02]: Did you kill both of them?
+[SPEAKER_01]: I didn't actually — I think I've got more Toli to kill in my future, somehow.
+[SPEAKER_02]: [joking] Like John Wick — "send them all."
+[SPEAKER_01]: Every single one, sure.
+[SPEAKER_02]: Just a thought — what do you think about proposing to Jamis that we try dealing with Fairwind directly, rather than continuing to sneak around him?
+[SPEAKER_01]: You could float that to Jamis when you talk to him.
+[SPEAKER_02]: You're not coming with me to that meeting?
+[SPEAKER_01]: No, I've got things to do — starting on those gills before they degrade further. We also need more agents, more spies, generally.
+[SPEAKER_02]: Can I give you a tip, by the way?
+[SPEAKER_01]: Sure, go for it — I take feedback fine.
+[SPEAKER_02]: The twenty men whose lives we saved, who came with us off the Helm — if they hadn't joined us, they'd be dead on that ship. I don't think you should hold that over their heads, exactly, but when you talk to Jamis, you should find out who their captain or sergeant was, and start building loyalty there. In a time of scarcity, letting that sergeant — assuming he doesn't hoard it himself — have a bit of coin to help feed his men's families would buy you real goodwill among the Marines.
+[SPEAKER_01]: Good point. Second — there's that thief from the guild.
+[SPEAKER_02]: Right, the one we didn't actually torture with the poker.
+[SPEAKER_01]: If we can establish a working relationship — money talks, but don't start by throwing coppers at him; that just buys you a knife in the back. He needs to feel that his own rise is tied to yours.
+[SPEAKER_02]: That thief already knows who I am.
+[SPEAKER_01]: Then someone will eventually pay him handsomely to kill a member of the royal family — that could be you. But if he wants to climb faster than waiting his whole life, that's also potentially you, if you play it right.
+[SPEAKER_02]: Makes sense.
+[SPEAKER_01]: Start with the soldiers, since presumably they'd know how many of those twenty troops are still on the island — though we don't know that yet ourselves.
+[SPEAKER_02]: We don't know how Fairwind's own men were handled either.
+[SPEAKER_01]: Right — there's still roughly three hundred of Fairwind's men who may not be aware of his duplicity at all.
+[SPEAKER_02]: I'd hope they're not just locked up somewhere, given we already lost two hundred Marines in the initial attack.
+[SPEAKER_01]: Fairwind mentioned locking his own troops into sections of the hold, unarmed, denying them access to the armory — that accounts for maybe a hundred to a hundred fifty inside the citadel. Don't forget the other hundred fifty who staged that diversion outside — at the time, they seemed loyal to the principalities, actively working alongside us.
+[SPEAKER_02]: Absolutely.
+[SPEAKER_01]: So it really depends on how Jeon's instructed his captains aboard the corsairs to handle things going forward. What I'd suggest — when those twenty men come back, get in touch with whichever officer came ashore with us. They'll know it's because of the two of us that they're alive — not that we should take credit from their own skill, since they fought well too, and we're alive partly thanks to them holding that beachhead. I'd say start there, and also continue cultivating that thief from the guild — even though he tried to kill you.
+[SPEAKER_02]: To be fair, it wasn't a particularly skilled attempt.
+[SPEAKER_01]: More like a desperate cutpurse job. Not to mention, I shot an arrow clean through his companion's neck.
+[SPEAKER_02]: And then you saved him.
+[SPEAKER_01]: Out the other side, more or less — so we're even, in a way.
+[SPEAKER_02]: I'd bet he'd give a great deal to have patronage like what we're offering.
+[SPEAKER_01]: Sure, though I could also make it very clear — if he ever drops me, certain consequences follow for his family too.
+[SPEAKER_02]: Wait, what — would you actually do that?
+[SPEAKER_01]: I'm saying, hypothetically, if there were an understanding that betrayal carries consequences beyond just himself—
+[SPEAKER_02]: Let's not go down that road.
+[SPEAKER_01]: Fine, leave the scorched-earth approach to me, then. I do kill fairly efficiently, when needed.
+[SPEAKER_01]: I'm heading to the alchemist shop — you should come see it, since it's tied somewhat to Lord Phranck's circle.
+[SPEAKER_02]: I'm aware of Phranck, at least as background noise to everything going on.
+[SPEAKER_01]: This alchemist I'm trying to cultivate a relationship with — wouldn't hurt for you to be there too when we talk to him. I want to get these gills to him before they degrade any further.
+[SPEAKER_02]: How are you even preserving them?
+[SPEAKER_01]: Wrapped in a damp cloth, basically — not exactly proper preservation, but it's something.
+[SPEAKER_01]: So — while we're at it, what would you actually want to learn first about magic, if we're starting properly?
+[SPEAKER_02]: Spellcasting, I suppose — though I don't know anything specific yet.
+[SPEAKER_01]: Nothing at all? I've got some useful cantrips we could start with — once learned, they're always available, no real drain on your reserves.
+[SPEAKER_02]: I know cantrips exist, just not what they actually do.
+[SPEAKER_01]: We'll start with manipulating simpler ones before moving to anything heavier — some cantrips do real damage even at this introductory level, but there are also incredibly useful utility ones. Mending, for instance — people undersell it, but being able to fix things quickly and cleanly has all kinds of uses. Royal seals that need to look unbroken, say.
+[SPEAKER_02]: I was thinking more practically — rope that's frayed or cut, useful if you need a quick escape. Or a door that's been busted open.
+[SPEAKER_01]: Exactly that kind of thing — and eventually, Levitate, though that's more advanced; we'll start with Mending first.
+[SPEAKER_02]: You can't even levitate yet, can you?
+[SPEAKER_01]: I can, actually — I just don't teach everyone everything right away. Levitate's what saved you from that forty-foot shark situation, remember.
+[SPEAKER_02]: [laughing] That was ridiculous.
+[SPEAKER_01]: It was awesome, actually — hilarious, the look on your face.
+[SPEAKER_02]: [recalling] Wait, weren't we talking about scaling a castle wall around then, something about penetrating defenses?
+[SPEAKER_01]: We were, before we joined up at the rendezvous point — back in the barracks.
+[SPEAKER_02]: Right, right.
+[SPEAKER_01]: And wait until you see my fireball improve eventually — bigger area, more damage, the works.
+[SPEAKER_01]: So — what else did we need to cover? The yellow powder, finding Fairwind, and teaching you magic — that's the big three, as far as I can tell.
+[SPEAKER_02]: I think that about covers the essentials, yeah.
+[SPEAKER_01]: So why don't we start by heading to the alchemist — let me show you where he is.
+[SPEAKER_02]: Sounds good.
+[SPEAKER_01]: One thing worth noting — I don't think his life is necessarily in immediate danger, but someone could plausibly want him removed, given his indirect connection to Lord Phranck, even if he doesn't fully realize that connection puts him at risk.
+[SPEAKER_02]: Is Phranck an actual warrior, or more of an enforcer type?
+[SPEAKER_01]: He's originally from Keoland, came here, met with Lord Jamis in the past — think of him more as a disciplinarian for magic users. The "shame, shame, stop raising the dead" type.
+[SPEAKER_02]: [getting it] He polices illegal or unsavory magic use, then.
+[SPEAKER_01]: Exactly — necromancy chief among the things he hunts down. He's an Inquisitor, essentially. He's not in Monmurg anymore, but he did meet with this alchemist while he was here, and I've been quietly trying to cultivate that same relationship — using the alchemist's expertise for our research, since he knows far more about practical alchemy than I do.
+[SPEAKER_02]: Got it — so this is another good reason for me to go meet him directly.
+[SPEAKER_01]: Right. And if, through your own contacts as you build them, you ever learn that people might be watching his shop, or lurking around it, that would be valuable to know.
+[SPEAKER_02]: When you say "cultivate" contacts — where would I even start building a real network?
+[SPEAKER_01]: Bastard children are a great starting point, honestly.
+[SPEAKER_02]: [surprised] What — what do you even say to them?
+[SPEAKER_01]: [pointed] Paul Rivera is a bastard himself, in case that point's been missed.
+[SPEAKER_02]: [taken aback, but listening]
+[SPEAKER_01]: Bastard children rarely receive much love from their parents, and they usually stand to inherit little to nothing. But while they're still young, they tend to hold onto hope, still idolize the idea of rising above their circumstances.
+[SPEAKER_02]: [quietly absorbing this, grateful for the mask hiding his expression]
+[SPEAKER_01]: It's a useful place to start cultivating loyalty — they still feel some connection to their birth family, not yet realizing how limited their prospects likely are. If you're genuine about it — and you should be — you can effectively become a substitute for the parental guidance and opportunity they're missing.
+[SPEAKER_02]: That's a little mercenary, even framed that way.
+[SPEAKER_01]: It is, but it's effective, and it's not dishonest if you actually follow through and look out for them.
+[SPEAKER_01]: The other category — loyal servants, distinguished from disloyal ones. Disloyal servants tend to be openly bitter, sarcastic. Loyal ones can feel the same way underneath, but they know better than to show it. You want to identify them before they become openly resentful — typically once they've hit their ceiling within a lord's service, excelled as far as they're going to get, especially if they're intelligent or talented enough to want more.
+[SPEAKER_02]: So I represent leverage — a path upward for them.
+[SPEAKER_01]: Not just money — you represent the possibility that, as your own influence rises, theirs could rise alongside it. The smarter ones recognize that immediately, which is exactly why you want the quiet, competent ones, not the openly bitter ones who can't keep their resentment hidden.
+[SPEAKER_00]: [interjecting] Roll an intelligence check here.
+[SPEAKER_01]: [continuing] You'd be well within reason to ask, if not all, then most of the Marines who were with us on the docks, to serve as a personal guard.
+[SPEAKER_02]: Beyond personal guard duty, what else would I have them do?
+[SPEAKER_01]: You need agents too, don't you? Some could serve as spies — feeding you information about goings-on in the military, the barracks, but also functioning as enforcers. If you're in the foreign district talking to people, having a couple of them stand behind you, making sure no one tries anything, isn't a bad idea at all. It wouldn't hurt to have men loyal specifically to you and me, rather than just the crown generally. You talk up Jeon publicly, frame it all as service to him — but you personally saved these men's lives. That's how loyalty starts. You extend patronage, and gradually build your own small cadre — the more talented among that group, the ones who survived when three hundred Marines didn't.
+[SPEAKER_02]: Wait — only twenty survived the mission total, and every one of them made it to the barracks?
+[SPEAKER_01]: That's right, unless any died afterward fighting to retake the Helm from the hobgoblins.
+[SPEAKER_01]: On loyal servants more broadly — never ask one to betray their actual lord. They need to see serving you as fully compatible with their existing loyalty, not in conflict with it. That principle also applies to talented servants who've simply hit a ceiling in their current position. Avoid castellans specifically, though.
+[SPEAKER_02]: Who?
+[SPEAKER_01]: The heads of the royal apartments and keep — they've usually settled comfortably into their position, made their nest, and tend to act more as double agents than genuinely useful contacts. Better to look elsewhere.
+[SPEAKER_00]: [aside] What Jude's describing, essentially, is helping Paul build his own shadow network of loyal subordinates — beneath the castellans and captains, not replacing them outright, but cultivating the lieutenants and sergeants beneath them.
+[SPEAKER_01]: Look for the underappreciated ones — the intelligent lieutenant who provides genuinely valuable input in meetings but gets slightly dismissed by his own captain. Or the sergeant who does excellent work but doesn't flatter his superiors, so he's taken for granted rather than promoted. You're a prince's family member, and Jeon himself has no heir yet — he's still relatively young, unmarried — so realistically, you could end up in a position of real power someday. People like that may quietly start thinking: maybe Paul Rivera is the one who eventually elevates me, whether to head of the dungeons, or chief merchant of the trade district, or wherever their talents lie. What I'm saying is: build your own infrastructure. Find the unappreciated, competent people — not the ones already openly resentful, but the quietly capable ones who are smart enough to keep their frustration hidden.
+[SPEAKER_01]: And don't rely purely on money — in hard times like these, it helps, but people smart enough to be valuable allies are also smart enough to bleed you dry if that's all you offer. The royal coffers have limits, and you don't want to be perceived as simply buying loyalty, because that kind of loyalty can always be outbid by someone else. What actually works is demonstrating genuine interest in their advancement — that's the real currency of patronage. It implies an imbalance, sure — you have, they don't, currently — but the implication that you're invested in their skills, their potential to rise alongside you, matters more than money ever will. Money helps people survive hard times, feed their families — and that buys you real, lasting goodwill. But money thrown around carelessly, without real interest in their progress, just makes you another transactional patron, easily replaced by whoever offers more.
+[SPEAKER_02]: I get it.
+[SPEAKER_01]: And as I said — never ask anyone you cultivate to betray their existing loyalty, because in turn, you don't want to create a precedent where betrayal seems acceptable, even toward you eventually. What goes around comes around.
+[SPEAKER_02]: I genuinely can't imagine a situation where I'd want someone to betray Jeon or Jamis on my behalf.
+[SPEAKER_01]: Exactly — so don't ever imply you'd expect that from anyone you cultivate, and you'll automatically remove a lot of their underlying anxiety about serving you. It makes it easier for them to get close to you, since they're never forced to choose between loyalties. That's how real bonds form.
+[SPEAKER_02]: Cool — and don't worry about your own position in all this?
+[SPEAKER_01]: I'm already well past needing that kind of cultivation myself — my own future's tied directly to Jamis already. We're talking about you building your own rising network here, separate from mine.
+[SPEAKER_02]: Makes sense.
+[SPEAKER_01]: So, as I said — look for those opportunities. The guy who handles all the paperwork, keeps everything running smoothly, that the lieutenant just assumes will always get done correctly — that person's probably underappreciated, kept exactly where they are. Remember this: people in power rarely promote subordinates who make them look good, because promoting them usually means losing them from their own service. So they keep them trapped — not always maliciously, just because those subordinates make them look good to everyone above.
+[SPEAKER_02]: It's not just the generals who get all the recognition, then.
+[SPEAKER_01]: Right — plenty of ship captains beneath the admiralty, or the lieutenants serving under captains who themselves dream of admiralty, will never get their own ship — precisely because they run their current one so well that promoting them would be a loss for their superior.
+[SPEAKER_02]: Good to know.
+[SPEAKER_01]: Let's go find the alchemist before I end up tossing these robes — they smell like fish at this point.
+[SPEAKER_02]: You've been carrying the gills on you this whole time?
+[SPEAKER_01]: Didn't have a proper container — just wrapped in a damp rag.
+[SPEAKER_02]: You didn't even put them in a bag or something?
+[SPEAKER_01]: Didn't think that far ahead — it hasn't even been a full day yet.
+[SPEAKER_02]: [shaking his head] They have no idea what they're in for, working with you.

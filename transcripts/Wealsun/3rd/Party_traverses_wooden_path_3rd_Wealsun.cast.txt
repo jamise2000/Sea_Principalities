@@ -1,0 +1,20 @@
+# Cast for Party_traverses_wooden_path_3rd_Wealsun
+# Correction: only SPEAKER_00 through SPEAKER_05 actually exist in this transcript (verified by grep) — the previous cast.txt fabricated a SPEAKER_06 entry that has no corresponding lines in the raw file. Paul does not appear to have a distinct line in this scene either.
+# Expected voices: 6 real tags (DM, Folsom, Merrick, Jude, Gouge, Tyrus). This file has unusually heavy cross-tag sharing — several tags catch two or three different characters depending on the moment.
+SPEAKER_00D: DM — "That actually is a good feat", confirming Folsom's feat choice
+SPEAKER_00M: Merrick — "Something's down there", "Does it seem to notice us?"
+SPEAKER_00G: Gouge — asks about stealthing near the torchlight with his shield covered
+SPEAKER_00J: Jude — "I have a little serum full of the yellow stuff that I took with me" (the magic dust vial), matching his cleaned line
+SPEAKER_01F: Folsom — opening feat discussion ("Reverse spell... identify it too so you know what to [dispel]"); later notes the group is "waiting for Gouge"
+SPEAKER_01M: Merrick — "I'm the closest to the captive Toli guy that's gagged"; rolls his perception check ("plus three for perception... 19 total")
+SPEAKER_01G: Gouge — the shark-warning speech: "We have to continue. There's a large shark patrolling... whoever can get to a barrel first", an exact match to his cleaned line
+SPEAKER_01J: Jude — "Have we all crossed the bridge by now?", matching his cleaned opening question; "You should let me have that spot" (joking about wanting Merrick's Message cantrip)
+SPEAKER_02M: Merrick — "I need to tell you guys something... Ranger" (his class signature), matching his cleaned lines about hearing the shark
+SPEAKER_02J: Jude — "Is this something I could recognize... or something I wouldn't have knowledge on?", matching Jude's cleaned line
+SPEAKER_03J: Jude — "Like the Goblin King there", matching his cleaned line
+SPEAKER_03T: Tyrus — motions Gouge up next to him to check out the torchlight
+SPEAKER_03G: Gouge — "So I'm going to pass. My light cover" (covering his own shield-light to move stealthily)
+SPEAKER_04: DM (dominant, solid — primary narrator throughout)
+SPEAKER_05T: Tyrus — "Understandable... do you have any magic dust on ya?", matching his cleaned line
+SPEAKER_05J: Jude — "I think I actually have a little" (offering the dust vial)
+SPEAKER_05D: DM — voicing Folsom's Message-spell communication to Tyrus ("Tyrus, this is not a joke about women...")

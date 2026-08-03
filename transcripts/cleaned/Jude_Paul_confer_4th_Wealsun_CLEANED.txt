@@ -1,0 +1,455 @@
+[Speaker Key: DM = Dungeon Master (narration, occasional rules calls) | JUDE = Jude's player | PAUL = Paul Rivera's player]
+
+DM: Sometime after the 3rd of Wealsun, Jude and Paul Rivera get a chance to connect and discuss what happened on Helm Island, and what they've learned since returning.
+
+JUDE: I'm not sure we should have killed Lord Fairwind — though maybe it's moot now. I don't know if Jeon and Fairwind could have worked things out otherwise.
+
+PAUL: Did you want him dead? I wanted him in custody.
+
+JUDE: When we lost him, I wasn't sure what we'd even do with him beyond arrest — he was a traitor, guilty of treason, but we didn't have time to sort that out properly while moving through the castle.
+
+PAUL: We had him dead to rights, though. What exactly did you hear him say — I never actually asked you directly.
+
+JUDE: I told you already, not in character — he was talking with the Toli, about disposing of evidence or selling something off. The Toli responded, basically, "We noticed you took most of it anyway."
+
+PAUL: Of the powder, yeah — he admitted as much once we had him tied up.
+
+JUDE: What was he saying when he was fighting with Gouge?
+
+PAUL: I don't think he was really talking to Gouge directly at that point — you two were just fighting, I thought.
+
+JUDE: I mean the Toli — Gouge had punched one of them.
+
+PAUL: No, I meant on the stairs in the cave — when I'd fallen, and you were lifting me back up. Fairwind and Gouge were exchanging words then.
+
+JUDE: No, Gouge had already moved forward by that point — the real issue was, right after you went into the water, Fairwind attacked Gouge and knocked him toward the ledge.
+
+PAUL: So something was said in that moment?
+
+JUDE: Actually, what happened was Folsom — Fairwind was whispering to Folsom, the bard, at that point. That's what was going on; I wasn't privy to it directly.
+
+PAUL: And then you got kicked off, right, and went down.
+
+JUDE: Have you ever actually been to Fairwind's own holdings — his island?
+
+PAUL: No, I've never toured his island specifically.
+
+DM: You've been to the main port of Fairwind Island, attended a feast there once, but never toured the island in detail.
+
+PAUL: I've seen the obvious stuff, but nothing in-depth.
+
+JUDE: So if we have to find where he's stashed things, you'd have basically no idea?
+
+PAUL: Pretty much zero clue.
+
+JUDE: Let me ask you this — is Fairwind the kind of man who'd keep valuables close to him physically, or would he stash things on entirely separate islands, far from his main holdings?
+
+DM: Roll a check on that.
+
+PAUL: [rolling] Thirteen plus four.
+
+DM: Fairwind strikes you as old-school — pirate tradition through and through. These people live for secret treasures, hidden locations, smuggling routes. If he's true to type, he'll have several stashes, not just one — never put all your eggs in one basket. He'll likely have one well-defended, dangerous location that serves as an obvious decoy, and several other genuinely secret caches elsewhere.
+
+JUDE: Historically, lords of the outer islands all maintain their own hidden stockpiles.
+
+PAUL: Are there just countless tiny islands out there? It'd be unrealistic to search them all, even within a day's sail of his main holdings.
+
+DM: I wouldn't call it that extreme, but the outer islands as a whole are extensive — hundreds of smaller islands scattered around, something like an archipelago. Not infinite, but plenty to make a thorough search impractical without better intelligence.
+
+JUDE: So Fairwind's definitely not keeping everything in one strongbox — caches scattered everywhere.
+
+PAUL: [considering] You're part of the royal family, Paul — so your personal knowledge might be limited just by youth and your family's particular focus. It'd be unrealistic for you to know much about the Toli or Fairwind's specific habits and travels offhand.
+
+JUDE: True, but it's worth thinking about — I know more than the average person, just from my own background. For instance, my experience with the Scarlet Brotherhood, and suspecting a real connection between them and the Toli, shapes how I view the Toli generally.
+
+PAUL: I don't have that kind of context myself.
+
+JUDE: That's fine — I just want you thinking about it. These are the kinds of things that get discussed over dinners as you grow up in that world — if we're going to pin down where Fairwind might have stashed things, we need to know about incursions he's made, places he's sailed into accidentally or otherwise.
+
+PAUL: I'll check the library for shipping logs and records.
+
+JUDE: I'll definitely check too, but you'd need to bring me along for proper access.
+
+PAUL: Appreciated.
+
+PAUL: What did you think — was our overall operation at the Helm successful?
+
+JUDE: I didn't get much chance to talk with Jamis directly about it myself.
+
+PAUL: I checked in with you a bit — did Jamis ask you a lot about Fairwind?
+
+JUDE: He mostly wanted to know what happened, generally.
+
+PAUL: How did he react when you told him about the treasure situation?
+
+JUDE: He was upset — didn't want to go to war with Fairwind over it.
+
+PAUL: So he wasn't making excuses for him?
+
+JUDE: Not really — he wants Fairwind found and punished, even if outright war isn't the goal.
+
+PAUL: Can I ask what exactly Jeon wants from us now?
+
+JUDE: He wants us to find Fairwind and bring him into custody — and first, recover and recreate the barrels of powder, find wherever Fairwind took them.
+
+PAUL: Janus said something similar to me, actually.
+
+JUDE: That tracks. So — find the powder, get Fairwind if possible, and he also wants me to teach you wizardry properly.
+
+PAUL: Wait, Jeon actually said that?
+
+JUDE: Yes.
+
+PAUL: I feel fine about that — is it something you'd want to do?
+
+JUDE: Yeah, I'm fine with it.
+
+PAUL: It benefits the family too, since we're not really spellcasters otherwise — having one in the family closes a real gap.
+
+JUDE: He's trying to address that weakness directly.
+
+PAUL: And you've got your homunculus already, made it yourself.
+
+JUDE: Yeah — what's your intelligence score, out of curiosity?
+
+PAUL: I don't actually know offhand.
+
+JUDE: We're probably about equal.
+
+PAUL: Doubtful.
+
+JUDE: [bantering] Whatever, buddy — I don't see you making a homunculus out of, well, certain ingredients.
+
+PAUL: I didn't even know about that part.
+
+JUDE: You already knew I was teasing you about the island thing, with the blood and all that.
+
+PAUL: That's not eighteen intelligence, surely?
+
+JUDE: What's yours?
+
+PAUL: Twenty, apparently.
+
+JUDE: Okay, whatever — give me a level or two, I'll catch up.
+
+PAUL: It sounds like you've got a real propensity for magic, which is a great starting point — and you're curious, which I think matters even more.
+
+JUDE: So, Jeon wants us to find and recreate the powder first.
+
+PAUL: We need to locate it before we can even think about recreating it.
+
+JUDE: Is that his top priority, in your sense?
+
+PAUL: We've got maybe fifty days — three months at the outside, from what I heard, possibly longer if those twenty-five barrels we left behind are still secured.
+
+JUDE: Do we need to go back to the Helm at all, to help deal with the hobgoblins?
+
+PAUL: He wasn't upset about that specifically — nothing was really said about going back, beyond him asking whether it was safe to.
+
+JUDE: Which implies, if it is safe, he wants us to.
+
+PAUL: To the Helm? Yeah, given there are still twenty-five barrels there.
+
+JUDE: It might already be secured by other troops, though — if they're not using the secret access, they'll just bring in another full ship's worth eventually.
+
+PAUL: I'm wondering if we need to help Monmurg's troops defeat the hobgoblins directly, or if I should stay here and focus on alchemical research with you.
+
+JUDE: Another wizard's apparently been brought in to help with relief efforts. So I think Jeon's got that covered without us specifically — might not even need us there anymore.
+
+PAUL: Fine by me, if we haven't been requested.
+
+JUDE: Do you remember when I was cutting gills off that Sahaugin earlier?
+
+PAUL: Yeah.
+
+JUDE: I originally thought I could use them for a potion of water-breathing, but on the sail back I realized the gills might actually hold residue from the chemical itself — worth examining, since the substance clearly killed that Sahaugin, and a forty-foot shark, and eight or ten more right there in that cove. Potency's not in question.
+
+PAUL: One barrel apparently covers the entire stretch around Monmurg, too — good spread.
+
+JUDE: Right — but what Lord Jamis actually asked me to determine is whether there was a counter-agent used against it. If we examine the gills, we might find traces — did the powder cause swelling, did it congeal strangely, or is there residue from something that countered a previous application? Remember, they said it needs reapplication every two days around the Helm.
+
+PAUL: Do you know the alchemist shop just off the square in the foreign district?
+
+JUDE: Sure I do.
+
+PAUL: No, you don't, actually.
+
+JUDE: I don't.
+
+PAUL: There's a good alchemist there I've been trying to get to know — good reason to visit now. We could buy materials, and ask if he knows of any reagents that might reveal residual chemicals in the gills.
+
+JUDE: Sure, but why would we want to identify a counter-agent specifically — we're not trying to make one ourselves.
+
+PAUL: Right, not us — what worried Lord Jamis was that the Helm had supposedly been seeded with the powder before the storm hit, and it should last two days. So either it was somehow neutralized, or it was fake all along — sand instead of the real powder.
+
+JUDE: That wouldn't explain the hobgoblins, though — those came from outside, brought in by the Toli and that ghost ship, under cover of the fog. That's my read — Fairwind didn't bring them in himself, but he was clearly working with the Toli on some level.
+
+PAUL: I don't disagree, but I think Fairwind was working for himself primarily, not really for the Toli.
+
+JUDE: Agreed — he saw an opportunity and took it. Even the fact that the Toli said he'd taken most of the powder for himself suggests he's playing his own game, not theirs.
+
+PAUL: What's the actual benefit to the Toli in this arrangement, then?
+
+JUDE: They got some barrels out of it — final depletion of what little remained. [aside] Wait, was this something Jamis didn't want repeated? I can't quite remember the boundary.
+
+PAUL: You'll have to remind me what's off-limits to mention to others.
+
+JUDE: Remember how Jamis said not to tell anyone certain things—
+
+PAUL: Right, nothing about that specifically here, just between us. But before I forget, remind me if I get close to oversharing.
+
+JUDE: Will do. Because here's the thing — Fairwind could blame the Toli for everything, which was Jamis's suspicion. Meaning he's still primarily serving his own interests, just under cover of working with them. He wants more power, that's my read.
+
+PAUL: So, getting back to the real question — Jamis wants to know: after the Helm was properly seeded with the powder, why was the Sea Ghost able to get in and let the Sahaugin do their thing? Was it because Fairwind seeded it improperly, was a counter-agent used, or did the Sahaugin somehow overcome it on their own?
+
+JUDE: The Sahaugin overcoming it themselves doesn't track — they died en masse when it was reapplied. The only odd detail is, in the day or two before we left, the light signals from the Helm weren't matching the right codes.
+
+PAUL: This powder only stays effective a day or two — did the Sahaugin just wait it out?
+
+JUDE: No — the Sahaugin actually came in under cover of that unnatural fog, seizing the citadel itself. By taking the citadel, they likely interfered with the powder application directly, which also explains the mismatched signal codes.
+
+PAUL: Interestingly, if Fairwind was working that closely with the Toli, why would the signal codes be wrong at all — wouldn't he know the proper countersign?
+
+DM: Roll an intelligence check, both of you.
+
+JUDE: [rolling] Thirteen plus five.
+
+PAUL: [rolling] Similar.
+
+DM: Together, you piece it out: Fairwind was playing both the Toli and Jeon against each other. He wanted Jeon to receive suspicious signals — while simultaneously making sure the Toli believed those same signals looked innocuous to outsiders.
+
+JUDE: That tracks — Fairwind was essentially signaling "something's wrong, come investigate," while trying to appear cooperative to the Toli at the same time. Playing both sides against each other, mostly for his own benefit.
+
+PAUL: He's basically demanding respect, in his own way.
+
+JUDE: Right — Jamis did mention Fairwind's always been a little jealous of Jeon specifically.
+
+PAUL: That tracks with what I'm thinking — there's clearly some level of cooperation with the Toli, but I don't think Fairwind is fully in their pocket. Even when we took him prisoner, that was my sense.
+
+JUDE: Agreed — he's still working mostly for himself. Otherwise we wouldn't have gotten that garbled signal in the first place.
+
+PAUL: Maybe he's still open to dealing, if what he really wants is respect through perceived power. What if we don't sneak around him anymore — we go talk to him directly?
+
+JUDE: We didn't kill him, after all — just the two Toli.
+
+PAUL: Did you kill both of them?
+
+JUDE: I didn't actually — I think I've got more Toli to kill in my future, somehow.
+
+PAUL: [joking] Like John Wick — "send them all."
+
+JUDE: Every single one, sure.
+
+PAUL: Just a thought — what do you think about proposing to Jamis that we try dealing with Fairwind directly, rather than continuing to sneak around him?
+
+JUDE: You could float that to Jamis when you talk to him.
+
+PAUL: You're not coming with me to that meeting?
+
+JUDE: No, I've got things to do — starting on those gills before they degrade further. We also need more agents, more spies, generally.
+
+PAUL: Can I give you a tip, by the way?
+
+JUDE: Sure, go for it — I take feedback fine.
+
+PAUL: The twenty men whose lives we saved, who came with us off the Helm — if they hadn't joined us, they'd be dead on that ship. I don't think you should hold that over their heads, exactly, but when you talk to Jamis, you should find out who their captain or sergeant was, and start building loyalty there. In a time of scarcity, letting that sergeant — assuming he doesn't hoard it himself — have a bit of coin to help feed his men's families would buy you real goodwill among the Marines.
+
+JUDE: Good point. Second — there's that thief from the guild.
+
+PAUL: Right, the one we didn't actually torture with the poker.
+
+JUDE: If we can establish a working relationship — money talks, but don't start by throwing coppers at him; that just buys you a knife in the back. He needs to feel that his own rise is tied to yours.
+
+PAUL: That thief already knows who I am.
+
+JUDE: Then someone will eventually pay him handsomely to kill a member of the royal family — that could be you. But if he wants to climb faster than waiting his whole life, that's also potentially you, if you play it right.
+
+PAUL: Makes sense.
+
+JUDE: Start with the soldiers, since presumably they'd know how many of those twenty troops are still on the island — though we don't know that yet ourselves.
+
+PAUL: We don't know how Fairwind's own men were handled either.
+
+JUDE: Right — there's still roughly three hundred of Fairwind's men who may not be aware of his duplicity at all.
+
+PAUL: I'd hope they're not just locked up somewhere, given we already lost two hundred Marines in the initial attack.
+
+JUDE: Fairwind mentioned locking his own troops into sections of the hold, unarmed, denying them access to the armory — that accounts for maybe a hundred to a hundred fifty inside the citadel. Don't forget the other hundred fifty who staged that diversion outside — at the time, they seemed loyal to the principalities, actively working alongside us.
+
+PAUL: Absolutely.
+
+JUDE: So it really depends on how Jeon's instructed his captains aboard the corsairs to handle things going forward. What I'd suggest — when those twenty men come back, get in touch with whichever officer came ashore with us. They'll know it's because of the two of us that they're alive — not that we should take credit from their own skill, since they fought well too, and we're alive partly thanks to them holding that beachhead.
+
+I'd say start there, and also continue cultivating that thief from the guild — even though he tried to kill you.
+
+PAUL: To be fair, it wasn't a particularly skilled attempt.
+
+JUDE: More like a desperate cutpurse job. Not to mention, I shot an arrow clean through his companion's neck.
+
+PAUL: And then you saved him.
+
+JUDE: Out the other side, more or less — so we're even, in a way.
+
+PAUL: I'd bet he'd give a great deal to have patronage like what we're offering.
+
+JUDE: Sure, though I could also make it very clear — if he ever drops me, certain consequences follow for his family too.
+
+PAUL: Wait, what — would you actually do that?
+
+JUDE: I'm saying, hypothetically, if there were an understanding that betrayal carries consequences beyond just himself—
+
+PAUL: Let's not go down that road.
+
+JUDE: Fine, leave the scorched-earth approach to me, then. I do kill fairly efficiently, when needed.
+
+JUDE: I'm heading to the alchemist shop — you should come see it, since it's tied somewhat to Lord Phranck's circle.
+
+PAUL: I'm aware of Phranck, at least as background noise to everything going on.
+
+JUDE: This alchemist I'm trying to cultivate a relationship with — wouldn't hurt for you to be there too when we talk to him. I want to get these gills to him before they degrade any further.
+
+PAUL: How are you even preserving them?
+
+JUDE: Wrapped in a damp cloth, basically — not exactly proper preservation, but it's something.
+
+JUDE: So — while we're at it, what would you actually want to learn first about magic, if we're starting properly?
+
+PAUL: Spellcasting, I suppose — though I don't know anything specific yet.
+
+JUDE: Nothing at all? I've got some useful cantrips we could start with — once learned, they're always available, no real drain on your reserves.
+
+PAUL: I know cantrips exist, just not what they actually do.
+
+JUDE: We'll start with manipulating simpler ones before moving to anything heavier — some cantrips do real damage even at this introductory level, but there are also incredibly useful utility ones. Mending, for instance — people undersell it, but being able to fix things quickly and cleanly has all kinds of uses. Royal seals that need to look unbroken, say.
+
+PAUL: I was thinking more practically — rope that's frayed or cut, useful if you need a quick escape. Or a door that's been busted open.
+
+JUDE: Exactly that kind of thing — and eventually, Levitate, though that's more advanced; we'll start with Mending first.
+
+PAUL: You can't even levitate yet, can you?
+
+JUDE: I can, actually — I just don't teach everyone everything right away. Levitate's what saved you from that forty-foot shark situation, remember.
+
+PAUL: [laughing] That was ridiculous.
+
+JUDE: It was awesome, actually — hilarious, the look on your face.
+
+PAUL: [recalling] Wait, weren't we talking about scaling a castle wall around then, something about penetrating defenses?
+
+JUDE: We were, before we joined up at the rendezvous point — back in the barracks.
+
+PAUL: Right, right.
+
+JUDE: And wait until you see my fireball improve eventually — bigger area, more damage, the works.
+
+JUDE: So — what else did we need to cover? The yellow powder, finding Fairwind, and teaching you magic — that's the big three, as far as I can tell.
+
+PAUL: I think that about covers the essentials, yeah.
+
+JUDE: So why don't we start by heading to the alchemist — let me show you where he is.
+
+PAUL: Sounds good.
+
+JUDE: One thing worth noting — I don't think his life is necessarily in immediate danger, but someone could plausibly want him removed, given his indirect connection to Lord Phranck, even if he doesn't fully realize that connection puts him at risk.
+
+PAUL: Is Phranck an actual warrior, or more of an enforcer type?
+
+JUDE: He's originally from Keoland, came here, met with Lord Jamis in the past — think of him more as a disciplinarian for magic users. The "shame, shame, stop raising the dead" type.
+
+PAUL: [getting it] He polices illegal or unsavory magic use, then.
+
+JUDE: Exactly — necromancy chief among the things he hunts down. He's an Inquisitor, essentially. He's not in Monmurg anymore, but he did meet with this alchemist while he was here, and I've been quietly trying to cultivate that same relationship — using the alchemist's expertise for our research, since he knows far more about practical alchemy than I do.
+
+PAUL: Got it — so this is another good reason for me to go meet him directly.
+
+JUDE: Right. And if, through your own contacts as you build them, you ever learn that people might be watching his shop, or lurking around it, that would be valuable to know.
+
+PAUL: When you say "cultivate" contacts — where would I even start building a real network?
+
+JUDE: Bastard children are a great starting point, honestly.
+
+PAUL: [surprised] What — what do you even say to them?
+
+JUDE: [pointed] Paul Rivera is a bastard himself, in case that point's been missed.
+
+PAUL: [taken aback, but listening]
+
+JUDE: Bastard children rarely receive much love from their parents, and they usually stand to inherit little to nothing. But while they're still young, they tend to hold onto hope, still idolize the idea of rising above their circumstances.
+
+PAUL: [quietly absorbing this, grateful for the mask hiding his expression]
+
+JUDE: It's a useful place to start cultivating loyalty — they still feel some connection to their birth family, not yet realizing how limited their prospects likely are. If you're genuine about it — and you should be — you can effectively become a substitute for the parental guidance and opportunity they're missing.
+
+PAUL: That's a little mercenary, even framed that way.
+
+JUDE: It is, but it's effective, and it's not dishonest if you actually follow through and look out for them.
+
+JUDE: The other category — loyal servants, distinguished from disloyal ones. Disloyal servants tend to be openly bitter, sarcastic. Loyal ones can feel the same way underneath, but they know better than to show it. You want to identify them before they become openly resentful — typically once they've hit their ceiling within a lord's service, excelled as far as they're going to get, especially if they're intelligent or talented enough to want more.
+
+PAUL: So I represent leverage — a path upward for them.
+
+JUDE: Not just money — you represent the possibility that, as your own influence rises, theirs could rise alongside it. The smarter ones recognize that immediately, which is exactly why you want the quiet, competent ones, not the openly bitter ones who can't keep their resentment hidden.
+
+DM: [interjecting] Roll an intelligence check here.
+
+JUDE: [continuing] You'd be well within reason to ask, if not all, then most of the Marines who were with us on the docks, to serve as a personal guard.
+
+PAUL: Beyond personal guard duty, what else would I have them do?
+
+JUDE: You need agents too, don't you? Some could serve as spies — feeding you information about goings-on in the military, the barracks, but also functioning as enforcers. If you're in the foreign district talking to people, having a couple of them stand behind you, making sure no one tries anything, isn't a bad idea at all. It wouldn't hurt to have men loyal specifically to you and me, rather than just the crown generally.
+
+You talk up Jeon publicly, frame it all as service to him — but you personally saved these men's lives. That's how loyalty starts. You extend patronage, and gradually build your own small cadre — the more talented among that group, the ones who survived when three hundred Marines didn't.
+
+PAUL: Wait — only twenty survived the mission total, and every one of them made it to the barracks?
+
+JUDE: That's right, unless any died afterward fighting to retake the Helm from the hobgoblins.
+
+JUDE: On loyal servants more broadly — never ask one to betray their actual lord. They need to see serving you as fully compatible with their existing loyalty, not in conflict with it. That principle also applies to talented servants who've simply hit a ceiling in their current position. Avoid castellans specifically, though.
+
+PAUL: Who?
+
+JUDE: The heads of the royal apartments and keep — they've usually settled comfortably into their position, made their nest, and tend to act more as double agents than genuinely useful contacts. Better to look elsewhere.
+
+DM: [aside] What Jude's describing, essentially, is helping Paul build his own shadow network of loyal subordinates — beneath the castellans and captains, not replacing them outright, but cultivating the lieutenants and sergeants beneath them.
+
+JUDE: Look for the underappreciated ones — the intelligent lieutenant who provides genuinely valuable input in meetings but gets slightly dismissed by his own captain. Or the sergeant who does excellent work but doesn't flatter his superiors, so he's taken for granted rather than promoted. You're a prince's family member, and Jeon himself has no heir yet — he's still relatively young, unmarried — so realistically, you could end up in a position of real power someday. People like that may quietly start thinking: maybe Paul Rivera is the one who eventually elevates me, whether to head of the dungeons, or chief merchant of the trade district, or wherever their talents lie.
+
+What I'm saying is: build your own infrastructure. Find the unappreciated, competent people — not the ones already openly resentful, but the quietly capable ones who are smart enough to keep their frustration hidden.
+
+JUDE: And don't rely purely on money — in hard times like these, it helps, but people smart enough to be valuable allies are also smart enough to bleed you dry if that's all you offer. The royal coffers have limits, and you don't want to be perceived as simply buying loyalty, because that kind of loyalty can always be outbid by someone else.
+
+What actually works is demonstrating genuine interest in their advancement — that's the real currency of patronage. It implies an imbalance, sure — you have, they don't, currently — but the implication that you're invested in their skills, their potential to rise alongside you, matters more than money ever will. Money helps people survive hard times, feed their families — and that buys you real, lasting goodwill. But money thrown around carelessly, without real interest in their progress, just makes you another transactional patron, easily replaced by whoever offers more.
+
+PAUL: I get it.
+
+JUDE: And as I said — never ask anyone you cultivate to betray their existing loyalty, because in turn, you don't want to create a precedent where betrayal seems acceptable, even toward you eventually. What goes around comes around.
+
+PAUL: I genuinely can't imagine a situation where I'd want someone to betray Jeon or Jamis on my behalf.
+
+JUDE: Exactly — so don't ever imply you'd expect that from anyone you cultivate, and you'll automatically remove a lot of their underlying anxiety about serving you. It makes it easier for them to get close to you, since they're never forced to choose between loyalties. That's how real bonds form.
+
+PAUL: Cool — and don't worry about your own position in all this?
+
+JUDE: I'm already well past needing that kind of cultivation myself — my own future's tied directly to Jamis already. We're talking about you building your own rising network here, separate from mine.
+
+PAUL: Makes sense.
+
+JUDE: So, as I said — look for those opportunities. The guy who handles all the paperwork, keeps everything running smoothly, that the lieutenant just assumes will always get done correctly — that person's probably underappreciated, kept exactly where they are. Remember this: people in power rarely promote subordinates who make them look good, because promoting them usually means losing them from their own service. So they keep them trapped — not always maliciously, just because those subordinates make them look good to everyone above.
+
+PAUL: It's not just the generals who get all the recognition, then.
+
+JUDE: Right — plenty of ship captains beneath the admiralty, or the lieutenants serving under captains who themselves dream of admiralty, will never get their own ship — precisely because they run their current one so well that promoting them would be a loss for their superior.
+
+PAUL: Good to know.
+
+JUDE: Let's go find the alchemist before I end up tossing these robes — they smell like fish at this point.
+
+PAUL: You've been carrying the gills on you this whole time?
+
+JUDE: Didn't have a proper container — just wrapped in a damp rag.
+
+PAUL: You didn't even put them in a bag or something?
+
+JUDE: Didn't think that far ahead — it hasn't even been a full day yet.
+
+PAUL: [shaking his head] They have no idea what they're in for, working with you.

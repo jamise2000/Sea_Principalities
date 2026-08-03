@@ -1,0 +1,10 @@
+# Cast for Party_considers_options_3rd_Wealsun
+# Expected voices: 7. This is a very long, dense negotiation/travel scene; several tags needed correcting from the previous guess. Confidence is high for SPEAKER_05/06/00, lower for the rest.
+SPEAKER_00: Gouge (confirmed — "How long is the short rest? Just one hour. Okay, let's not do that", matching cleaned's "GOUGE: Fair — how long is a short rest?... We don't have time for that.") — NOT Tyrus, correcting the previous guess
+SPEAKER_01P: Paul — confirmed via the opening "Can you ask Lord Fairwind if he's actually involved in any of this?", an exact match to Paul's cleaned line; carries nearly all of this tag's content, including the detailed strategy discussion addressed to Gouge by name (proving the speaker isn't Gouge)
+SPEAKER_01G: Gouge — two isolated lines: "I want it straight to the brain" (an execution/backstab-flavored line) and "I've got him by the hair" (restraining the captured Toli prisoner, consistent with his established role handling captives)
+SPEAKER_02: Paul (second split) — confirmed via "Not in this company", matching his cleaned line, and the garrison-casualties interrogation question
+SPEAKER_03: Mixed — carries some Gouge content and some of DM's Fairwind-voiced lines; lower confidence, likely a secondary Gouge/DM-adjacent tag
+SPEAKER_04: Merrick, by elimination (lower confidence — no single unambiguous anchor found in this file, but this tag doesn't match Paul/Gouge/Folsom/DM's confirmed signatures elsewhere)
+SPEAKER_05: DM (dominant, solid — narration and voicing Lord Fairwind throughout)
+SPEAKER_06: Folsom (confirmed — explicitly self-identifies: "Well, I'm Folsom, the Marine Bard", during the private exchange with Fairwind near the end) — NOT Paul, correcting the previous guess

@@ -1,0 +1,7 @@
+# Cast for Marines_ambushed_by_hobgoblins_2nd_Wealsun
+# Expected voices: 5
+SPEAKER_00: Merrick (by elimination — his one clear line "This is Merrick" is actually DM token-placement, so this is lower confidence)
+SPEAKER_01: Tyrus (confirmed — DM says "Okay, Tyrus" immediately before he breaks the door, DC 20 strength check)
+SPEAKER_02: Folsom (confirmed — casts Vicious Mockery, says "Way to go, man")
+SPEAKER_03: Gouge (confirmed — attacks with a cutlass and asks to backstab; also the "Definitely not" line about sparing a hobgoblin, though that one's merged into SPEAKER_04's tag in the raw text)
+SPEAKER_04: DM (dominant narrator throughout this long combat scene)

@@ -1,0 +1,207 @@
+[Speaker Key: DM = Dungeon Master (narration, rules calls, voicing nothing — Sahaugin don't speak Common) | TYRUS, GOUGE, PAUL, FOLSOM, MERRICK, JUDE = respective players. NOTE: This is a dense combat encounter against a Sahaugin ambush at the docks. Given the sheer volume of individual attack rolls and damage numbers, this reconstruction preserves the tactical decisions and banter while summarizing repetitive dice-roll exchanges rather than transcribing every single number called out.]
+
+DM: Okay, so morning light is starting to filter into the cave — sunrise is still about an hour off, so it's around 5 a.m. The four party members start running down the platform toward the beach — Tyrus in front, Gouge beside him, Paul Rivera behind, Folsom bringing up the rear. Jude's on the ballista.
+
+JUDE: I'm keeping an eye out to see if Fairwind's swimming around anywhere out here.
+
+DM: Got it. Merrick's posted as well.
+
+DM: The ballista takes three actions to operate properly — load, cock, fire — so it can't all happen in one turn unless you're already set up.
+
+TYRUS: While we're moving toward the dock, can we get one round loaded and ready?
+
+DM: Yeah, you can have one round ready to go.
+
+TYRUS: Should Merrick man the ballista instead, given his proficiency matters more there?
+
+JUDE: I've got my bow ready too — dexterity matters either way, and I've got decent dex.
+
+TYRUS: True, but your bow's probably more reliable per shot. What if I help spot for him?
+
+DM: I think what Tyrus means is, manning the ballista alone is less effective than having a spotter — not sure exactly how that resolves mechanically, but it's a reasonable idea.
+
+TYRUS: Perfect, we get it loaded and ready.
+
+DM: So you're running down to the docks, and as you arrive, Sahaugin start emerging from the water.
+
+GOUGE: Right by the barrels!
+
+DM: I'm thinking three Sahaugin total, right about there.
+
+DM: All right, let's begin combat — both of you on overwatch with ranged weapons, ready to fire.
+
+JUDE: I'll target one of the five I can see.
+
+DM: [resolving Jude's shot] That hits — nine points of damage on one of the Sahaugin. Wounded, not down.
+
+TYRUS: I'll line up the ballista shot to catch three of them in a row.
+
+DM: [resolving] That's a hit — the ballista does six d10 worth of damage, more than enough to punch straight through. It skewers the first one clean through and kills him outright, the bolt continuing on but stopping in the second body rather than passing all the way through.
+
+TYRUS: Not bad for a first shot.
+
+DM: Initiative order locks in — Folsom, Gouge, Paul, Merrick, Jude, then the Sahaugin.
+
+FOLSOM: I'll use Vicious Mockery on the one near me.
+
+DM: [rolling the Sahaugin's save] He fails — minor damage, but more importantly, disadvantage on his next attack.
+
+FOLSOM: [taunting] You silly fish.
+
+DM: He's wounded from your earlier arrow too — about eleven points off him total, not down yet, but rattled.
+
+GOUGE: I'll load my crossbow and fire.
+
+DM: [resolving] That's a hit — nine points, he goes down.
+
+GOUGE: How long to reload solo — a couple rounds?
+
+DM: About three rounds total if you're doing it alone.
+
+GOUGE: I'll dash toward the barrels instead then.
+
+DM: You dash that direction.
+
+PAUL: I want to see if I can position for a fireball without catching our own people.
+
+DM: You're currently about a hundred ten, hundred twenty feet out — fireball's got a hundred-fifty-foot range, so you're in range if you close the distance another thirty feet or so.
+
+PAUL: I'll wait until they group up more before committing to that — not worth wasting it on stragglers.
+
+DM: Fair call — you advance, watching for a better cluster.
+
+MERRICK: I'll fire on the one near Tyrus.
+
+DM: [resolving] Natural twenty — critical hit! That arrow punches clean through, wounding him badly.
+
+MERRICK: I'll also move to dash past Paul, toward Tyrus's position.
+
+DM: You cover the ground.
+
+FOLSOM: I'll stay back from the main fight, keep using Vicious Mockery from range.
+
+DM: Solid plan — keeps you out of melee range.
+
+GOUGE: I'll engage the wounded one to my left.
+
+DM: [resolving] Hit — your cutlass connects.
+
+GOUGE: I'll follow up with the dagger too.
+
+DM: [resolving] That finishes him — you slash with the blade and put the dagger right in his eye. He falls.
+
+GOUGE: I've got one on me now.
+
+DM: [tracking positioning] Remember, moving away from an engaged enemy gives them a free attack of opportunity.
+
+GOUGE: I want to make it to the barrels regardless — even if I can't break one open, I want to grab one and get into the water with it.
+
+DM: That'll cost you the opportunity attack as you disengage.
+
+GOUGE: Worth it.
+
+DM: [resolving the opportunity attack] He hits you for several points as you pull away, but you make it to the barrel.
+
+PAUL: I'll grab a barrel too, dropping my sword and shield to do it.
+
+DM: You run up and haul the barrel into your arms — heavy, but manageable. You can take one more step toward the water with it.
+
+PAUL: Toward the water, yes.
+
+DM: One of the Sahaugin attacks Gouge with advantage, sensing blood in the water.
+
+GOUGE: [taking the hit, using Uncanny Dodge to halve the damage] I'll dodge what I can.
+
+DM: Right — Uncanny Dodge halves incoming damage from a single attack, doesn't negate it. You're getting picked apart a bit here, you and Paul both.
+
+PAUL: [pressing on toward the water with the barrel]
+
+DM: [resolving several more exchanges] Gouge, you're now in a proper slugging match with this Sahaugin.
+
+GOUGE: Pull him toward the water — I want this fight to end up where the rest of the barrels can be cracked open nearby.
+
+DM: Folsom, Jude — who's going first?
+
+FOLSOM: I'll go — I move in and stab the Sahaugin with my rapier.
+
+DM: [resolving] That hits — solid damage, but he's not down yet.
+
+JUDE: [stepping in to finish what Folsom started, stabbing from behind]
+
+DM: [resolving] That's the kill — you stab him from behind, finishing him off cleanly.
+
+GOUGE: Nice. Way to go, bard.
+
+JUDE: I used my dash last round, and I think I'm about eighty feet out now — if I drop a fireball here, can I shape it to avoid catching our own two guys?
+
+DM: You absolutely can — you're a diviner, so you can sculpt the area to spare allies caught in the blast.
+
+JUDE: Then I'm doing that — last third-level slot, but worth it. I'm in range.
+
+DM: [resolving] All three remaining Sahaugin have to make a dexterity save against your spell DC.
+
+JUDE: [rolling damage] Twenty-nine points of fire damage total.
+
+DM: [resolving saves one at a time] First one fails — he was already nearly dead, so that's the kill, he's incinerated outright.
+
+DM: Second one saves, takes half — fifteen points, but he's still standing, just barely.
+
+DM: Third one is also caught directly in it — practically vaporized, collapsing into the shallows as the flames die down. The smell is somewhere between charred fish and a campfire gone wrong.
+
+JUDE: [grimacing] I don't need a bonus action for that — just a thumbs up to the carnage.
+
+DM: Folsom, you're elsewhere on the field; there's still one Sahaugin standing near Gouge, and one further down the beach.
+
+MERRICK: I'll target the wounded one — he's weaponless and shieldless at this point, no other targets near him for me to worry about with my Horde Breaker ability.
+
+DM: [resolving] That's a hit — wounds him further, but doesn't finish him.
+
+DM: Gouge, you've still got the barrel — you're tied in initiative with the remaining enemies, so you act first. Can you make it to the water and crack the barrel open?
+
+GOUGE: Yes — I'll use my action to pry it open. No weapon free for that, so I use my fists against the lid.
+
+DM: You manage it — the barrel splits open, revealing a strange pale-yellow powder that smells faintly of sulfur.
+
+GOUGE: [reacting to the smell] Christ, we could've lit this stuff on fire by accident this whole time.
+
+DM: You fling the contents into the water around you, dousing yourself and the surrounding area in the process.
+
+GOUGE: I'll throw the rest of the barrel out into the deeper water too, for good measure.
+
+DM: It goes — and remember, this stuff is also explosive under the wrong conditions, so good thing that fireball went off before you cracked this open, not after.
+
+GOUGE: Fair point — I did mention that a while back, about the barrels being dangerous near fire.
+
+DM: The remaining wounded Sahaugin attacks you with advantage, spear and claw both — [resolving] the spear misses, the claw misses too.
+
+GOUGE: Lucky.
+
+DM: Wait — does the powder affect him? He's right in the water with it now.
+
+DM: [resolving] He lets out a strange, guttural cough, water and blood bubbling from his gills, and collapses face-first into the now-tainted water.
+
+DM: Gouge — you notice your own skin, where it's contacted the dust, shifting color slightly, greenish tint turning a sickly yellow.
+
+GOUGE: I should probably wash this off.
+
+DM: Probably wise.
+
+DM: Paul, you're up — there's still one Sahaugin lurking, looking sick from the spreading powder in the water.
+
+PAUL: I'll sneak attack him while he's distracted.
+
+DM: [resolving] Hit — you stick your dagger into his gut, and he collapses.
+
+DM: All right, you're all standing on the beach now, watching the water for any more movement. About ten seconds pass — nothing at first, then a bloated body surfaces. Then another. Then dozens, popping up out in the cave's open water — Sahaugin corpses, by the look of them. Then a massive shark carcass surfaces too, forty feet long.
+
+GOUGE: That's the same one from before?
+
+DM: Looks to be — somewhere between forty and fifty Sahaugin bodies and at least a dozen sharks end up floating there. If that whole group had attacked at once, you'd have been overwhelmed.
+
+PAUL: Any sign of Lord Fairwind's body among them?
+
+DM: No — his body doesn't surface.
+
+GOUGE: We should grab that big shark while we're at it.
+
+DM: All right — that pretty much closes out the battle.

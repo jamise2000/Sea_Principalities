@@ -1,0 +1,37 @@
+# Gouge
+
+Lord Jamis's knife-man — a Monmurg-born assassin and informant risen from pickpocket to privateer to the most feared operative in the foreign district. Where Jude schemes and Paul broods, Gouge simply gets the job done, and hands you the blade back before you notice it left your side.
+
+## Physical Description
+
+The sources say less about Gouge's face than about the effect he has on a room, and that is the truer measure of him. His reputation arrives before he does: the moment he steps into the Helm barracks, the garrison captain marks him on sight — "you must be him, given the reputation" — and Paul Rivera, who has never met the man, asks for "the Gouge I've heard about." He is a killer by build and bearing, described plainly as a man made to kill: he can slit a throat and return the knife to your hand before you feel it gone.
+
+He is a native Monmurgian, hardened first by the foreign district's streets and then by years at sea as a privateer, and he carries himself with the unhurried economy of someone who has never needed to prove anything twice. A veteran of the "weather crossbowmen," he fights with both blade and crossbow and is equally at ease with either. On the Helm mission he wears the Marine uniform like the rest, but no one mistakes him for standard-issue — the disguise is a tool, not a costume.
+
+## History
+
+Gouge was born into the crowded, dangerous world of Monmurg, the jewel of the Azure Sea, and came up amid its mix of opulence and squalor. As a boy he was taken with the old tales of the Sea Princes, the buccaneers who once ruled these waters. His family fell apart while he was still young, and the foreign district's underworld drew him in; by his teens he was a capable pickpocket and street fighter, known already for quick reflexes and a cruel turn of mind.
+
+Like so many Monmurgians, the sea called him, and he joined the city's privateers young. His dexterity and sheer brutality impressed even hardened men, and his captain, Captain Cross, pulled him into the weather crossbowmen — an elite unit of cut-throats trained to kill with blade and bow alike. Across many acts of piracy on the Azure Sea, Gouge earned a double-edged name: a friend to be trusted and an enemy to be feared. But the privateers' usefulness waned, and Gouge and Cross's crew fell out of favor in Monmurg. His talents caught the eye of Lord Jamis — commodore of the fleet and Prince Jeon's spymaster — who took him in and honed him into an assassin and informant. His loyalty to Jamis has been unwavering ever since, and though Jamis would have preferred to keep his knife-man a secret, Gouge's reputation grew regardless.
+
+With his half-orc companion Karmirg, Gouge went to war on the foreign district's entrenched criminals — wiping out the Assassin's Guild and making it plain to the Thieves' Guild that his turf was not to be touched. He is no criminal overlord, but he carved out a piece of the game that few dare to cross.
+
+His recent months have been tangled and bloody. Amid the blockade strangling Monmurg, Jamis maneuvered him into the affairs of Lord Phranck, a strange Keolander acquaintance of the spymaster. On the 5th of Planting, Gouge was hired by Gedeon, an associate of Phranck's, to bodyguard the wizard — but his real charge, from Jamis, was to gather intelligence on what Phranck was doing. Shadowing his charges through the foreign district, he crossed paths with mercenaries, alchemists, and the shadowy Followers of Insamiar, before a Suel ambush exposed a deeper conspiracy centered on Cain Toli. Gouge fought hard in Phranck's defense, and the affair ended with a revelation torn from an assassin's mind: Cain Toli had come into possession of a powerful artifact. Then, on the 16th of Flocktime, Jamis sent him to deliver a traitor — the port master Atare — to Port Torvin, only for Gouge to find the town under attack by pirates led by Gedeon, the very man who had first hired him. That betrayal left him quietly questioning Phranck's loyalties, Jamis's judgment, and the shifting alliances of the whole principality.
+
+At the story's present he is folded into the Helm Island expedition, sent by Jamis with two orders: keep Prince Jeon's nephew Paul alive, and make certain Lord Fairwind ends up either dead or loyal. He crosses to the Helm with Merrick and the others, scales the fortress under cover of a diversion, helps take Fairwind and cut down the Toli in the inner sanctum, and rafts out alive when the plan comes apart — then reports it all, dry and unsparing, back to Jamis.
+
+## Personality Traits
+
+Gouge is ruthless efficiency given a body. He kills without drama or hesitation, and he plans the same way — when the party debates the Helm, he cuts to the decision, favoring stealth over the wall and forcing the issue rather than waiting on rumors of a hidden cave. He is practical to the bone, indifferent to comfort or ceremony: offered his pick of Jamis's liquor, he reaches for the cheapest bottle and doesn't care either way. He drinks, but by reputation never before a job — the discipline of a man who has stayed alive by not being sloppy.
+
+Beneath the menace runs a rigid personal code. "I follow the law," he tells Folsom, and he means his own law: total loyalty to Jamis and to those he stands with, and no quarrel with anyone who doesn't cross him or his. That code makes him, in his rough way, protective. When Folsom's ill-judged song turns a barroom hostile, Gouge reads the danger instantly, stages a bigger scene to haul the bard out under the cover of a fake threat, quiets Tyrus with a look, and defuses the whole thing before blood is spilled — then presses a magical gem on Folsom, sealing not a threat but a pact: in a fight, look to me first. He is fair, transactional, and clear about the terms of trust, and he expects the same clarity in return.
+
+He is also a shrewd, unsentimental judge of people. Watching Paul on the mission, he clocks the young man's entitlement and chip-on-the-shoulder without malice, and reasons coolly that Paul is too green and too visibly angry to be a real traitor — reading the boy's raw fury as more honest than Fairwind's polished denials. He observes more than he says, distrusts tidy accounts, and reports what he saw rather than what would please his master.
+
+## Motivations
+
+Gouge's fixed star is loyalty to Lord Jamis. It is the spine of everything he does — the missions he takes, the discretion he keeps, the killings he carries out without needing them justified. Jamis found him when the privateers had cast him off, and Gouge has repaid that patronage with an allegiance he treats as simple fact rather than sentiment.
+
+Under that sits the older engine of the street survivor: hold your turf, honor your word, and make yourself too costly to cross. Having clawed his way up from a broken family and the foreign district's gutters, he guards the place he has carved out and the few bonds he chooses to keep, and he measures others by whether they can be trusted or must be feared.
+
+Lately a third thread has begun to pull at him — doubt. Gedeon's betrayal at Port Torvin, the tangle around Phranck and Cain Toli, and the sense that the principality's alliances are shifting beneath his feet have left even this most loyal of operatives quietly weighing his master's judgment. He remains Jamis's knife, but he has started to wonder about the hand that wields him, and where all this bloody maneuvering is finally meant to lead.

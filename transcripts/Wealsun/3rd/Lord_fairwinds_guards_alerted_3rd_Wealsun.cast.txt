@@ -1,0 +1,11 @@
+# Cast for Lord_fairwinds_guards_alerted_3rd_Wealsun
+# Expected voices: 6 speaking roles (DM, Gouge, Tyrus, Folsom, Jude) plus Merrick, who the cleaned transcript's own speaker key describes as "mostly silent/listening in this scene" — he has no clear dedicated tag here. Several corrections from the previous guess below.
+SPEAKER_00: Gouge, primary (confirmed — "So why wouldn't they be quiet? They are not coming forward anymore. They've stopped as you've requested", matching his cleaned line during the solo scouting scene the DM explicitly opens on him) — one line late in the scene ("I'm turning and going back... I don't want to leave him") is actually DM voicing Fairwind's aside, not Gouge
+SPEAKER_01: DM (second split, alongside SPEAKER_04 — heavy narration and rules resolution)
+SPEAKER_02T: Tyrus — "You wanna fuck with me? I match the sound", matching his cleaned "Oh, fuck — I matched the sound"
+SPEAKER_02F: Folsom — "I grab onto Fairwind and say, do you know those guys?", matching his cleaned line, and coaches Fairwind on what to say
+SPEAKER_03: Gouge, primary (confirmed — "Humans talking. All right, we got to get back to...", matching his cleaned line) — NOT Folsom, correcting the previous guess; some adjacent lines here may belong to Tyrus instead
+SPEAKER_04: DM (primary, dominant narrator)
+SPEAKER_05: Folsom (confirmed — "I want to slightly head towards it. Dagger out", matching his cleaned line exactly) — NOT Jude, correcting the previous guess
+SPEAKER_06G: Gouge (primary) — includes an off-topic real-world tangent about glassblowing (noted as non-reconstructible cross-talk in the cleaned transcript) and "I've been hanging out with you for a long time", matching his cleaned line — NOT a clean Tyrus tag as previously guessed
+SPEAKER_06J: Jude — "I use my wand and I blow the Toli's head off", his wand and Magic Missile signature, matching the cleaned Magic Missile sequence

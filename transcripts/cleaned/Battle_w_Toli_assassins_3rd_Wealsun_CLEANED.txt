@@ -1,0 +1,231 @@
+[Speaker Key: DM = Dungeon Master (narration, rules calls, voicing the Toli noble assassins and a hobgoblin) | PAUL, JUDE, GOUGE, TYRUS, MERRICK, FOLSOM = respective players. NOTE: This is an extremely dense combat encounter against Toli noble assassins in the inner sanctum, immediately preceding the discovery and capture of Lord Fairwind. Given the sheer density of dice-roll exchanges, this reconstruction focuses on tactical decisions, dialogue, and narrative beats, summarizing repetitive numeric exchanges.]
+
+DM: All right, third of Wealsun, just after midnight — the group is in the inner sanctum. Paul Rivera comes out of his trance with the homunculus.
+
+PAUL: Holy shit, guys — we found him. Fairwind. He's in there, talking to the Toli right now.
+
+JUDE: What do the Toli look like — pale? Wizards, or fighters?
+
+PAUL: Not wearing armor — carrying swords and daggers.
+
+JUDE: Could be either, then.
+
+DM: There's a hobgoblin posted right across the doorway, with a passage going down and to the left.
+
+PAUL: I'll try to bring my homunculus around closer, get a better look.
+
+DM: You crack the door open slightly, watching.
+
+JUDE: I want fairwind to live, just to be clear, if we can manage it.
+
+DM: [resolving stealth checks for the scouting] Your frog creeps along, sweeping the area — green, watching, a hobgoblin standing guard nearby, oblivious for now.
+
+DM: The hobgoblin starts to move — almost notices Paul, then stops at the edge, doesn't quite spot him.
+
+PAUL: [signaling for a coordinated strike] I think we take the assassination shot together — should be enough to drop him if we both connect.
+
+JUDE: Agreed — if not, we've got a problem.
+
+DM: All right — roll your attacks, both with advantage since he hasn't noticed you.
+
+JUDE: [rolling] Natural twenty.
+
+PAUL: [rolling] Fifteen — solid hit too.
+
+DM: [resolving damage] Your bolt deflects off his armor — no real damage. Jude's hits clean, though — a serious wound. The hobgoblin cries out in his own tongue before collapsing, bleeding out. From deeper in the room, you hear shouting in response.
+
+DM: What do you want to do — push forward, or hold?
+
+TYRUS: I'm moving in, blade ready.
+
+DM: All right, let's set positions — Gouge up front, Tyrus and Aristotle close behind, Paul and Jude covering from range, Merrick flanking.
+
+DM: A voice calls out from inside.
+
+DM (as Toli noble): Who goes there? Identify yourselves!
+
+GOUGE: [stalling] Sorry, sir — wasn't feeling well.
+
+DM (as Toli noble): We have Lord Fairwind here — you'll kill him if you attack carelessly. State your names.
+
+JUDE: [muttering] Don't kill our lord, we're buying time.
+
+DM (as Toli noble): Show yourselves first.
+
+JUDE: You first.
+
+DM: A hobgoblin peeks around the corner, hand-crossbow raised, and fires at Jude.
+
+JUDE: [reacting] I'll use Uncanny Dodge.
+
+DM: [resolving] You halve the damage, taking a few points as the bolt grazes your face.
+
+DM: Initiative — Gouge fifteen, Folsom twenty-two, Tyrus eighteen, Aristotle... [resolving the full order]
+
+DM: Gouge, you're up — you move in and engage the Toli noble directly.
+
+DM: [resolving the Toli noble's counterattack] He pulls a rapier with his bonus action and strikes — first swing misses, you dodge cleanly; second connects for solid damage, though you use Uncanny Dodge again to halve it.
+
+GOUGE: [studying him] He's not wearing armor — fine noble clothing, clearly Toli, blond hair, looks every bit the part.
+
+DM: Paul, your turn.
+
+PAUL: I'll move past Gouge, into the doorway — dagger ready.
+
+DM: You can't move through him directly, but you can flank around to attack from behind, using your dash as a bonus action.
+
+PAUL: I'll do that.
+
+DM: [resolving] Twenty-one total, that's a hit — and since you're attacking from behind, you get your sneak attack bonus.
+
+PAUL: [rolling damage] Solid total — drops a real chunk of his health.
+
+DM: Tyrus, you engage the second one alongside Aristotle now.
+
+DM: [resolving multiple exchanges] Both of you land hits — sneak attack bonuses stacking since he's flanked. That target's looking rough.
+
+DM: Merrick — the third Toli comes at you with advantage, since you're caught somewhat exposed.
+
+MERRICK: [taking two solid hits in a row] That's a lot of damage.
+
+DM: Eighteen points total between both attacks.
+
+MERRICK: [grimacing] Noted.
+
+DM: Your turn — what do you do?
+
+MERRICK: I'll cast Longstrider on myself as a bonus action, then reposition with my bow out rather than closing to melee.
+
+DM: You fall back into a better firing position.
+
+DM: Tyrus, your turn.
+
+TYRUS: I want to push past Gouge if I can.
+
+DM: You'd need to shove him out of the way — that's a contested strength check, and it'd cost your action.
+
+TYRUS: [rolling] Even match, doesn't quite work.
+
+DM: You can't swap places with him directly either, since there's still an enemy blocking. You stay put for now.
+
+JUDE: [meanwhile, from range] I'm watching the stairwell — nothing coming up from behind, no footsteps.
+
+JUDE: I'll move up and get a clear shot — magic missile on the one giving orders.
+
+DM: [resolving] Automatic hit, multiple darts — solid damage, but he reacts with Shield at the last second, absorbing some of it.
+
+JUDE: [calling out] He's a mage!
+
+DM: Noted, everyone — adjust accordingly.
+
+DM: New round — initiative resets. Paul, you're up first.
+
+PAUL: I'll disengage from this guy as a bonus action and reposition.
+
+DM: As a rogue, you can attack first, then disengage and move — works out well for you.
+
+PAUL: [rolling] Nineteen — that's a hit. [rolling damage] Twelve points — that drops him.
+
+DM: He goes down. You then disengage and reposition to the side.
+
+DM: Tyrus, your turn.
+
+TYRUS: I'll move up and engage this next one directly — and I want to use Channel Divinity, the Sacred Weapon or Turn the Faithless option, as a bonus action, to draw attention or weaken his resolve.
+
+DM: [resolving the wisdom saves against your Channel Divinity DC of 13] One of them resists, the other fails — so it has a partial effect on the group.
+
+DM: That target now attacks you directly — two solid hits, dealing a fair amount of combined damage.
+
+TYRUS: [absorbing the hits] That stings.
+
+DM: Folsom, your turn.
+
+FOLSOM: I'll cast Cure Wounds on Paul, since he's taken some hits already.
+
+DM: [resolving] Eight points restored.
+
+GOUGE: I'm staying engaged with the wounded one — switching to my dagger for a finishing blow.
+
+DM: [resolving] Hits clean — solid combined damage between your scimitar and dagger strikes. He's nearly down.
+
+DM: Jude, your turn.
+
+JUDE: I'm going to fireball both remaining targets — let me check how many allies I can shield from the blast with Sculpt Spells.
+
+DM: Spell level plus your intelligence modifier — up to seven, so you're fine shielding everyone nearby.
+
+JUDE: I'll drop it right between the two remaining Toli, sparing our side entirely.
+
+DM: [resolving] They both need to make dexterity saves against your DC.
+
+JUDE: [rolling damage] Heavy total — should be devastating regardless of the save.
+
+DM: One of them anticipates it, though — snaps his fingers and the flames sputter out before fully igniting. Seems he's got some kind of fire resistance or anti-magic trick.
+
+JUDE: [frustrated] Of course he does.
+
+DM: You reposition behind cover as the spell fizzles against that one target, though the rest of the blast still connects with anyone else caught in range.
+
+MERRICK: [shouting] Grapple him! Don't let him cast again!
+
+DM: [to Merrick] You move into position, bow ready — clear shot on the mage now.
+
+MERRICK: I'll cast Hunter's Mark on him with my bonus action, then fire.
+
+DM: [resolving] Solid hit — the arrow catches him in the side, and he drops to his knees, badly wounded.
+
+DM: New round. Jude, you're up first again.
+
+JUDE: My plan — I move into position and drop another fireball, bending it around our own people again.
+
+DM: [resolving] This time it connects fully — significant damage, no escape this time.
+
+DM: That second Toli noble drops as well.
+
+DM: Aristotle, your turn — want to press the advantage on the one near Gouge?
+
+TYRUS: I'll move in alongside him — we can both engage.
+
+DM: You find an opening, move through, and discover a side room with a table — and there, tied to a chair, is Lord Fairwind himself, gagged.
+
+TYRUS: [aside] Good thing he's gagged.
+
+TYRUS: I'll attack the last standing Toli — using Human Determination for advantage on my strike.
+
+DM: [resolving] Hit — solid damage between your sword stroke and follow-up dagger strike. He's badly wounded now, nearly done.
+
+DM: Gouge, your turn — finish this guy off?
+
+GOUGE: [closing in for the kill]
+
+DM: He tries to disengage and flee instead, dashing for the door.
+
+GOUGE: Not happening.
+
+DM: He doesn't quite escape — Tyrus and Aristotle corner him as he tries to flee.
+
+DM: [resolving a grapple attempt] You manage to grab hold of him, pin him in place.
+
+TYRUS: I want to take him down without killing him outright — knock him unconscious instead, if possible.
+
+DM: There's no clean rule for that specifically — you could try a non-lethal strike instead, risking him staying conscious longer.
+
+TYRUS: I'll punch him instead of using my blade.
+
+DM: [resolving] Solid hit — he staggers, dazed but still conscious.
+
+TYRUS: Again.
+
+DM: [resolving] That one drops him — unconscious, not dead.
+
+GOUGE: Get him in a chair, strip him down, search for hidden pouches or weapons, and tie him up properly so he can't cast anything with his hands free.
+
+DM: You search him thoroughly, tear strips from his own fine silk shirt to bind his wrists behind his back.
+
+DM (as the bound Toli, regaining consciousness, sneering): Grubby elf hands, ruining a perfectly good shirt.
+
+GOUGE: [shoving him against the wall] Shut up, you filthy pig.
+
+DM: He just looks at you, unbothered by the insult.
+
+MERRICK: [checking the room is secure] Everyone — spread out, make sure this room's clear before we deal with any of this further.

@@ -1,0 +1,5 @@
+# Cast for Jude_and_Paul_process_the_day_4th_Wealsun
+# Expected voices: 3
+SPEAKER_00: DM
+SPEAKER_01: Paul
+SPEAKER_02: Jude

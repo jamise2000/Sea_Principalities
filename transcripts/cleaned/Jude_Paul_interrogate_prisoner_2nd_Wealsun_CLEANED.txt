@@ -1,0 +1,623 @@
+[Speaker Key: DM = Dungeon Master (narration, voicing the prisoner Gregory and the jailer) | JUDE = Jude's player | PAUL = Paul Rivera's player]
+
+DM: The date is the 2nd of Wealsun, in the 579th Common Year of Keoland's calendar. Jude and Paul Rivera walk to the dungeons of the Royal Palace. It's not far down, but you pass several guards along the way who click their heels in acknowledgment rather than salute — they know he's coming, which tells you Jeon has granted him real standing with the household authority.
+
+JUDE: So even though I don't usually deal with that family directly, he's clearly trusted.
+
+DM: You head down about fifty feet of stairs, through a couple of open barred gates, into a dungeon that seems oversized for how little it's actually used. Prince Jeon doesn't seem to imprison many people — you don't know if that's because he's lenient, or because he simply kills the people he doesn't like instead.
+
+JUDE: Could be either.
+
+DM: You reach the jailer, who seems milder than expected. He leads you to the cell.
+
+DM (as jailer): The prisoner's behind bars — would you like me to let him out, or question him through the bars?
+
+JUDE: Just let us in.
+
+DM (as jailer): Of course. Is he chained to the wall, or—
+
+JUDE: No, that's fine.
+
+DM (as jailer): Would you like me to heat the pokers?
+
+JUDE: That would help, yes — heat the pokers.
+
+DM: He makes a point of doing it where the prisoner can see, picking through a cabinet of pokers.
+
+JUDE: I'll bring a bowl of water in with me.
+
+DM: He hands you one and starts heating irons over by the wall.
+
+DM: All right — you walk into the cell, and the prisoner pulls his legs up, looking at you both, clutching his dirty shirt.
+
+JUDE: [to the prisoner] You should be afraid. Do you remember me?
+
+DM: He looks down, doesn't answer right away.
+
+PAUL: [whispering to Jude] You're going to let me handle the talking?
+
+JUDE: Just go.
+
+PAUL: [clearing his throat] You should be afraid. Very. [rolling intimidation] Nineteen.
+
+DM: He looks at you, clearly afraid now.
+
+PAUL: But we don't need to be unkind or uncivilized. [offering the water bowl, some spilling] You must be thirsty. Have you been fed?
+
+DM (as Gregory): No.
+
+PAUL: I'd like — of course you would. [taking a sip himself, then grimacing] God, you don't want this water — far less civilized than you deserve. Speaking of what you deserve — [noticing cheese nearby] don't eat that, that's the waxy rind.
+
+DM: [aside, breaking briefly] You didn't tell me that earlier.
+
+PAUL: I'm telling you now.
+
+DM (as Gregory): I had no idea of his standing, sir — I saw a rich merchant heading toward the great market, that's all.
+
+PAUL: So you're saying you're not Toli, then?
+
+DM (as Gregory): No, sir — I'm just a Monmurg local. A royal intruder, in a city not very kind to me.
+
+PAUL: As you said — well, here's our situation. We need information from the streets, but we can't trust you.
+
+DM (as Gregory): You can trust me.
+
+PAUL: As I said, we can't. So — who can you offer as parole? Someone we contact if you go quiet on us — someone we hurt if you betray us.
+
+DM (as Gregory): [confused] Parole?
+
+PAUL: Who do we kill if we lose touch with you and feel you've sold us out?
+
+DM (as Gregory): [thinking, eating a piece of cheese he'd hidden] This is Prince Jeon's good cheese, by the way — quite good.
+
+PAUL: [continuing] So, you're not to be executed, necessarily — not yet.
+
+DM (as Gregory): I appreciate that, sir.
+
+PAUL: We haven't decided, because we still can't trust you. Help us help you — you're a decent, solid Monmurg citizen, I can tell.
+
+DM (as Gregory): I think you can trust me.
+
+PAUL: No, I don't think so — I think the trust I can have in you is easily bought, frankly. [gesturing for the poker]
+
+DM (as Gregory): How can I make you believe me?
+
+PAUL: Who can you offer up — a sister, a mother, a father? Has to be someone you wouldn't want to see tortured.
+
+DM (as Gregory): [thinking] What about my compatriot from last night? He's clearly of no value to you, given how fast he ran when things went bad.
+
+JUDE: [whispering to Paul] Let me handle this part.
+
+PAUL: [to Gregory] I don't know if you remember, but he ran on you — thinks you're dead. You took an arrow to the throat.
+
+DM (as Gregory): And I thank you, sir, for the care your people have given me since. You're probably right — my companion likely does think I'm dead.
+
+JUDE: He's probably surprised your head's not already hanging over the wall.
+
+DM (as Gregory): I don't rate the wall, sir — that's for people of higher station. The gutter's more my speed.
+
+JUDE: You're worried about that? You rated being brought all the way into the Royal Palace, at least.
+
+PAUL: That's because we don't know how to use you yet — but we do need someone we can use. You just have to convince us. Let's start simple — what's your name, friend?
+
+DM (as Gregory): Gregory.
+
+PAUL: That narrows it down — from Monmurg, I assume?
+
+DM (as Gregory): Originally from the dock district, though I live and work in the foreign district now.
+
+PAUL: [aside, checking him over] Any guild marks, tattoos? Has he been a felon before?
+
+DM: Nothing visible at first glance — he's young, no obvious criminal markings.
+
+PAUL: The poker will do, then, if needed.
+
+DM: He has some scars, though, worth examining.
+
+PAUL: I want a closer look — give me the poker, just to motivate him a bit. Take your shirt off.
+
+DM: You ask the guard what he had on him when captured.
+
+DM (as jailer): A dagger, a garrote — useful for strangling, or worse, a sling with a pouch of about a dozen sling bullets.
+
+PAUL: [to Gregory] No proof of identity on you at all?
+
+DM (as Gregory): No.
+
+PAUL: What's this, then — any guild marks?
+
+DM: He takes off his shirt, turns around — there's a tattoo on his back.
+
+PAUL: [examining it] Let me check this — roll a history check?
+
+DM: This isn't really an arcane matter, more general history — roll that instead.
+
+PAUL: [rolling] Thirteen.
+
+DM: You recognize it — he's a member of the thieves' guild operating in the foreign district.
+
+PAUL: You can put your shirt back on. It's been a while since I've kept track — who's running things in the guild these days?
+
+DM (as Gregory): Janus.
+
+PAUL: Janus — that sounds familiar.
+
+JUDE: Does it?
+
+PAUL: No, not really.
+
+PAUL: How long has Janus held that position?
+
+DM (as Gregory): About eight months.
+
+PAUL: So if someone wanted to undermine Monmurg, they'd first need people in positions of power and authority.
+
+DM: Gregory looks at you both.
+
+DM (as Gregory): We are being screwed over — people are starving in the streets.
+
+PAUL: [studying him] These matters are far above me — or the thieves' guild, I'd imagine.
+
+DM (as Gregory): I think they might include the guild, actually.
+
+PAUL: How high do your own ambitions go, exactly?
+
+DM (as Gregory): What exactly are you asking?
+
+PAUL: I'm not sure I can trust Janus, especially given he's only been in his seat eight months.
+
+DM (as Gregory): You lose nothing by my telling you Janus has held it that long.
+
+PAUL: It seems to me Monmurg's been under siege about two months now.
+
+DM (as Gregory): A month and a half, two months — and it's gotten desperate.
+
+PAUL: If someone wanted to sabotage Monmurg, that would make them an enemy of the state — and every guild member complicit, unless there were mitigating factors.
+
+DM (as Gregory): Of course.
+
+PAUL: What would those factors be?
+
+DM (as Gregory): Being upstanding, loyal to the city and to one's profession.
+
+PAUL: Sure hope they're loyal — but the forces trying to collapse or take over Monmurg would first need to infiltrate the guild itself, wouldn't they?
+
+DM: [aside] You study him closely for any tell — a swallow, a flinch.
+
+PAUL: [rolling insight] One. Nothing — can't read him at all.
+
+PAUL: So the real question is, how compromised is the guild? That's what I need to know, if you want to keep all your fingers attached.
+
+DM (as Gregory): Honestly, the guild's suffering same as everyone else — trade's terrible.
+
+PAUL: Desperation makes sense, then.
+
+DM (as Gregory): To be honest, in better times we'd never have gone after a mark like you — definitely not with just two men. I'd have hired someone to lure you into an alley properly if we'd had the coin for it.
+
+PAUL: What do you think of Janus — does he do a good job given the circumstances, or does he make unusual calls?
+
+DM (as Gregory): He skims more than he should off the top, if I'm honest.
+
+PAUL: Greed's predictable, at least — especially in hard times, that tracks. Does he favor particular advisors, particular areas? Anyone or anywhere marked as off-limits?
+
+DM (as Gregory): There'd be consequences for crossing certain lines — but honestly, we had no idea who you were when we targeted you.
+
+PAUL: Of course. We're discussing saving your life in exchange for valuable, verifiable information. So — who does Janus leave alone, in terms of paying bribes?
+
+DM (as Gregory): The usual players, as always — but there are new players paying bribes too, within the last year.
+
+PAUL: Is this about the Toli?
+
+DM (as Gregory): Maybe.
+
+PAUL: Are the Toli paying bribes?
+
+DM (as Gregory): The Toli have been all over the foreign district the last four months.
+
+PAUL: Can you identify any of them — and are they working with, or at least protected by, Janus?
+
+DM (as Gregory): Janus has nothing to do with them directly, but he stays well clear — dealing with them is practically a death sentence.
+
+PAUL: Do you know any of their names?
+
+DM (as Gregory): Toli nobles — the name Cain Toli's come up quite a bit.
+
+PAUL: We're not talking about nobles, we're talking about their hired men.
+
+DM (as Gregory): These ARE Toli assassins — nobles, specifically, trained in both assassination and magic. Several have come through the foreign district these last four months.
+
+PAUL: [surprised] Wait — that's a family tradition for them?
+
+DM (as Gregory): It's well known — the noble houses of Toli train their own in both murder and magic. Several have passed through here.
+
+PAUL: Why's it a death sentence to even cross them?
+
+DM (as Gregory): Not to attack them outright — it'd be as criminal as attacking any noble. The Toli family won't tolerate harm to their own.
+
+PAUL: Stop being vague — just tell me plainly, you can trust me. We're looking for "Toli rats."
+
+DM (as Gregory): Toli rats come and go, they're everywhere — those aren't the ones you should care about. You care about the noble assassins specifically.
+
+PAUL: How many have been seen around the foreign district?
+
+DM (as Gregory): Four of them.
+
+PAUL: For what purpose?
+
+DM (as Gregory): Asking questions, looking for specific people, meeting with contacts, spending large amounts of money — their behavior's been unusual.
+
+PAUL: How long have you been with the guild?
+
+DM (as Gregory): Since I was about ten — I'm seventeen now, roughly.
+
+PAUL: And the Toli nobles — where are they now?
+
+DM (as Gregory): Strangely, all of them left Monmurg about seven days ago.
+
+PAUL: All four of the noble assassins?
+
+DM (as Gregory): Yes.
+
+PAUL: How do you know that for certain?
+
+DM (as Gregory): They're easy to spot — they wear distinctive rings, easily recognized on the street.
+
+PAUL: [weighing his credibility] So — are you being straight with us, at least mostly?
+
+DM (as Gregory): At least, yes.
+
+PAUL: Can you actually get word to Janus directly, or just relay messages?
+
+DM (as Gregory): I can speak with him personally.
+
+PAUL: This might work out better than expected — there could be real money in this for you specifically, but we'd need to meet Janus ourselves. As non-guild members, that arrangement would need—
+
+DM (as Gregory): I could arrange a meeting, if his safety were guaranteed.
+
+PAUL: The only thing he'd refuse is being caught in some kind of trap.
+
+DM (as Gregory): Truthfully—
+
+PAUL: What about a ship, somewhere discreet — would that work?
+
+DM (as Gregory): What kind of ship?
+
+PAUL: Not one of the prince's fleet, obviously.
+
+DM (as Gregory): Perhaps the grand market, on a trade day, instead?
+
+PAUL: Would that be acceptable? [aside, checking] Is the grand market crowded these days?
+
+DM: It would normally be packed, but with everything going on lately, it's been thinner than usual — you were there recently and noticed how sparse it's gotten.
+
+PAUL: Still, it's open, relatively safe ground either way.
+
+DM (as Gregory): What he's really looking for is somewhere he can escape easily if needed — he's not marching up to the dungeon himself.
+
+PAUL: How long has Janus actually been in charge — eight months, you said? Do you trust him?
+
+DM (as Gregory): As far as trust goes in this business — it takes more than just coin, but he's the kind of person you'd back over an outsider, certainly over one of the Toli.
+
+PAUL: I didn't know who he was — the mask, was he wearing it?
+
+DM (as Gregory): No, he wasn't wearing that strange mask when we first targeted him.
+
+PAUL: [confused] Wait, I wasn't wearing a mask?
+
+DM (as Gregory): No, you had taken it off by then.
+
+DM (as Gregory): I know we attacked you — but before that, when you walked from the royal district, you were wearing that odd plastic-looking thing.
+
+DM (as Gregory): No — by the time I left the market, I'd already taken it off.
+
+PAUL: [interjecting] Wait, actually — what is that mask, to you specifically?
+
+DM (as Gregory): [pressed] Truthfully, or—
+
+PAUL: Truthfully, or it's your hand.
+
+DM (as Gregory): There are rumors — foreign spies wear that exact style of mask.
+
+PAUL: That mask, specifically?
+
+DM (as Gregory): Yes.
+
+PAUL: So you got it secondhand?
+
+DM (as Gregory): From the marketplace, yes.
+
+PAUL: Do you actually know what that mask signifies?
+
+DM (as Gregory): I know monks wear something similar, but not really, beyond that.
+
+PAUL: So when you say you wouldn't have targeted him, you're assuming, based on the mask, that he's one of these foreign spies?
+
+DM (as Gregory): No, let me explain properly. We saw this man coming from the royal district — but he wasn't dressed finely. He wore common clothes, like a vagrant or commoner, which seemed odd given where he'd come from.
+
+JUDE: [muttering] Put away the poker — we need more wine instead.
+
+DM (as Gregory): He looked completely ordinary leaving the market, except — he had a large coin purse on his belt, jingling obviously. Made him a very good target. We followed him. There was something strange about his face, though — looked human, but it didn't move right, no real expression, almost too cosmetically perfect.
+
+DM (as Gregory): He wasn't wearing the mask yet at that point — we watched him in the marketplace, and that's where he bought it, off a vendor, almost as if he didn't realize what it actually signified.
+
+PAUL: There's a vendor in the marketplace selling these masks specifically?
+
+DM (as Gregory): Yes — he's the one you should really be talking to, not me.
+
+PAUL: We'll get to him too — but we're still talking to you. Truthfully, though, I have no idea who that vendor actually is.
+
+JUDE: That's fine, that's fine — we're mostly interested in the coin angle anyway. Where do we find this vendor, or your friend who fled — where does he drink, where does he sleep?
+
+DM (as Gregory): I like where this is going.
+
+JUDE: As I said — put away the poker, get the good wine, not what you're already drinking.
+
+DM (as Gregory): There's a bar called the Homely Wench, in the foreign district — that's where you'll find Janus.
+
+PAUL: That's who you mean by "Janus," right — the guild master, not the vendor?
+
+DM (as Gregory): Right, but you also asked about my compatriot — he's there too, often.
+
+PAUL: So, the Homely Wench, near the grand market wall?
+
+DM (as Gregory): More toward the dockside, actually.
+
+PAUL: What does your friend go by — if we need to ask for him directly?
+
+DM (as Gregory): Jobs.
+
+PAUL: "Jobs," got it. And where exactly was the stall that sold the mask?
+
+DM (as Gregory): [thinking] The vendor looked to be from the east — some southern country, maybe Spindrift Isles.
+
+PAUL: I'd like to be able to trust you — and more importantly, to actually use you, frequently, for information. I think you understand the value in that. Let's say we work out an arrangement where you stay where you're being held for now, and we verify things — starting with these agents who supposedly left a week ago.
+
+DM (as Gregory): Maybe five days, actually.
+
+PAUL: I can't imagine they'd leave without anyone behind to relay information — that's exactly what we'd need to know.
+
+DM (as Gregory): There is one agent — or someone we think might be one. New to the city, around the same time the others arrived.
+
+PAUL: [thinking] I think I know who you mean.
+
+JUDE: [exchanging a look] Yeah.
+
+PAUL: Can you describe her?
+
+DM (as Gregory): An elf — attractive, elusive. She knows when she's being followed, clearly some kind of trained operator. There are rumors about who she associates with — she's been seen near Lord Jamis's residence. We're not entirely sure whether she works for him, or for the Toli.
+
+PAUL: If we chose to handle this without involving Jamis directly — how do you feel about being an informant?
+
+DM (as Gregory): That carries real risk, if my own guild found out.
+
+PAUL: Unless I'm wrong?
+
+DM (as Gregory): Unfortunately, if I show up reporting—
+
+JUDE: You'll get beaten bloody.
+
+DM (as Gregory): I think that might actually be necessary cover, honestly.
+
+PAUL: [rolling persuasion or intimidation] Fourteen.
+
+JUDE: [considering] Maybe we break his nose, take a finger — something visible, so it's clear he didn't talk willingly.
+
+PAUL: Have the guard rough him up before he's released — needs to look convincing.
+
+JUDE: Unless we just go straight to Janus and cut a deal directly — as guild master, he could offer some protection, or at least a cover story.
+
+PAUL: What's the standard punishment for being seen talking to a member of the royal family?
+
+DM: [considering] If the street didn't already know who dragged him in, then word probably hasn't spread that far — but if it looks like he was taken somewhere connected to the upper city—
+
+PAUL: Would he lose a hand?
+
+JUDE: That's what I'm thinking, yeah.
+
+PAUL: Could be a foot instead — hobbling around's its own kind of statement.
+
+JUDE: That'd suck either way. Which hand would you prefer to lose, given the choice — or do you have a better idea?
+
+DM (as Gregory): [bracing] Take my off-hand, I suppose, if it comes to that.
+
+PAUL: I'd hate to take it from you, honestly — but it might ingratiate you properly to a life of serving the crown going forward.
+
+DM (as Gregory): In truth, only Jobs really knows what happened to me — I don't know how many others saw me get taken.
+
+PAUL: What if we say they thought you were dead — tossed you in the body pile, and you crawled away on your own?
+
+JUDE: [aside] You did shoot him in the throat.
+
+PAUL: I did bandage him right after, though.
+
+JUDE: That's barely a bandage.
+
+PAUL: I put my finger in the wound, then wrapped it.
+
+JUDE: Trust me, that's hardly proper medical care.
+
+DM: [aside] I thought maybe you'd poured a healing potion on him at some point, but apparently not even that happened — he just got lucky.
+
+PAUL: Honestly, that's probably the best cover story — let them think he's dead.
+
+JUDE: Not bad, actually.
+
+PAUL: I still think we should follow through on the hand, just to make the story airtight. How do we make sure you don't just vanish on us, though?
+
+DM (as Gregory): Where would I even go?
+
+PAUL: It's less about that, more about whether you'd sell us out.
+
+DM (as Gregory): How would I sell you out — to whom?
+
+PAUL: We'd still need to stay in contact with you, which means you'd know how to reach us — and that's a liability if you decided to sell that information.
+
+DM (as Gregory): I don't know what that elf agent could even offer me that would be worth it.
+
+DM (as Gregory): Oh, by the way — I was already questioned once, by Paul Rivera and some mysterious masked figure, in the dungeon of the Royal Palace, about the Toli wandering the foreign district.
+
+JUDE: [startled] Wait, what — who questioned you?
+
+PAUL: [equally confused] Is he saying someone already questioned him?
+
+DM (as Gregory): Two men.
+
+PAUL: Who — guards?
+
+DM (as Gregory): Two guards.
+
+JUDE: What did they look like?
+
+DM (as Gregory): Standard Oeridian guards.
+
+JUDE: Wait — are you talking about us, right now?
+
+DM (as Gregory): [pointing at the man holding the poker] Obviously, yes — you two are the ones questioning me right now.
+
+PAUL: [laughing it off] Right, obviously — not two other people. What he's trying to get at is, why would I sell you out — there's no real motive for me to. I'd just end up explaining I survived getting dumped on a body pile, which sounds absurd and unbelievable on its own anyway.
+
+JUDE: Fair enough — that story alone protects you either way.
+
+DM (as Gregory): So — do you want to go speak with Janus yourselves now?
+
+JUDE: Yes, I'll do that directly.
+
+DM: Confirming — Gregory's earlier comment was just his attempt to explain how implausible his own cover story would sound if he tried to spin it as betrayal — being found on a body pile makes for a useless, almost laughable account, more than anything damning.
+
+PAUL: I think we need to establish direct contact with Janus.
+
+JUDE: And I think this elf is connected to it too, clearly.
+
+PAUL: We can play it carefully.
+
+JUDE: [to Gregory] You can leave with both hands intact — you'll be paid upon a successful meeting with Janus.
+
+PAUL: A "successful" meeting meaning you'd need to convey that we're not interested in him personally — we're interested in the Toli assassins and what they've been doing, and it sounds like you two might know more than most.
+
+JUDE: If at any point you suspect Janus is being paid off by the Toli directly, that changes things.
+
+PAUL: Do you want him to make first contact as our agent, or investigate first whether Janus is actually compromised?
+
+JUDE: Both — investigate first.
+
+PAUL: How will you stay in contact with us?
+
+DM (as Gregory): Ferd's Bar?
+
+JUDE: [surprised] You know Ferd's?
+
+DM (as Gregory): I know of it, at least — we don't really go in, since only the worst types frequent that place.
+
+JUDE: You should be more worried about us, then, given that's exactly where we operate.
+
+DM (as Gregory): [nervous laugh] Well, that's certainly something to consider.
+
+JUDE: Go ahead — how long do you need to investigate whether Janus is connected to the Toli scum?
+
+DM (as Gregory): Five days.
+
+JUDE: Five days it is. What payment do you want?
+
+DM (as Gregory): Money.
+
+JUDE: Of course — and?
+
+DM (as Gregory): Food, too.
+
+JUDE: How much money?
+
+DM (as Gregory): Fifty gold coins.
+
+PAUL: Depending on the value and verifiability of your information, we'll start with five gold — leading to much more if it checks out. Sky's the limit, depending on what you bring us.
+
+DM (as Gregory): We have a deal.
+
+PAUL: [to Jude, aside] Do I know anything about the thieves' guild from my own past dealings?
+
+JUDE: [confirming] You know the assassins' guild was effectively wiped out at some point.
+
+PAUL: Right — so this guy's probably straight thieves' guild now, not assassin-trained.
+
+JUDE: I remember being involved in that, actually, a while back.
+
+PAUL: What I really need to know is whether the Toli assassins are trying to rebuild the old assassins' guild, and whether Janus is taking Toli money to look the other way — though even if he is, we might still be able to work with him.
+
+JUDE: All right. [to Gregory] What do you need from us, besides being hired?
+
+DM (as Gregory): I mean, there's still the matter of—
+
+PAUL: I figured we'd just throw you in with the others, that'd be cover enough — wouldn't need an actual beating.
+
+DM (as Gregory): [nervous]
+
+JUDE: Too easy a story — he's got to at least take a standard beating, like anyone else caught.
+
+PAUL: Maybe he "died" during it, just for the story's sake.
+
+JUDE: Just the once.
+
+PAUL: I was actually thinking multiple "near-death" incidents for effect — and of course we'll cover any actual damage afterward, fix him up properly.
+
+JUDE: We'll beat him convincingly, then dump him on the body pile.
+
+PAUL: That's exactly what I had in mind — soak his collar in blood, make it look like they tried to torture information out of him before he "bled out" from the throat wound.
+
+JUDE: That way, if anyone did see him taken by guards, they'd assume it was just an attempt to beat information out of him that ultimately failed when he bled out. [to Gregory] Good job surviving that arrow, by the way — though your aim's terrible, you should stick to dagger work instead of slings.
+
+PAUL: Yeah, dagger next time — I don't even know what you were going for with that shot.
+
+JUDE: So, the real lure for you here is simply the money — and honestly, that should be plenty.
+
+DM (as Gregory): It is, sir, truthfully — that's exactly what I'm counting on.
+
+JUDE: And it can go pretty far if you deliver. So don't get discouraged. I'll come by Ferd's Bar within the next three days.
+
+DM (as Gregory): I'll be there, and then every other day after that.
+
+JUDE: I won't be hanging around that bar regularly myself, though.
+
+DM (as Gregory): No, you shouldn't — you'd be killed. The mercenaries there wouldn't tolerate you being a regular.
+
+JUDE: When you come in, ask for "the stale" — that signals the bartender to send word if we're not already there.
+
+DM (as Gregory): So I'd talk to the bartender directly?
+
+JUDE: Exactly.
+
+DM (as Gregory): All right.
+
+JUDE: We'll shake on it, though that means little on its own.
+
+DM (as Gregory): [to the guard] Just so it's clear — do you doubt we have the coin for this?
+
+JUDE: No, just confirming you understand the terms. Any concerns on your end?
+
+DM (as Gregory): The beating.
+
+JUDE: We'll tell them to focus on bruises — no broken bones.
+
+DM (as Gregory): I appreciate that.
+
+JUDE: Don't take it personally if it ends up worse than planned, though — I'll bring a healing draught for you in three days if it turns out to be more serious than bruising. Understood? Any questions about us specifically?
+
+DM (as Gregory): None.
+
+JUDE: Good — and just so you know, places that betray us tend to burn down for unrelated reasons.
+
+DM (as Gregory): Understood — I have a good memory for these things.
+
+DM: So the two of you walk out.
+
+PAUL: No more pokers needed — just the basic arranged beating, no broken bones, into the body pile, no actual deaths.
+
+DM: Understood — that's the plan as agreed.
+
+DM: So, where do you two want to go now?
+
+JUDE: What's our next move? We could wander the district with the homunculus.
+
+PAUL: I already grabbed mine — maybe we put it under surveillance near the booth where you got that mask, and maybe don't wear it yourself for now.
+
+JUDE: Probably wise, given everything we just heard.
+
+DM: All right — you two head upstair

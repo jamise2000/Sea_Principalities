@@ -1,0 +1,5 @@
+# Cast for Jude_Paul_introductions_2nd_Wealsun
+# Expected voices: 3
+SPEAKER_00: DM
+SPEAKER_01: Jude
+SPEAKER_02: Paul

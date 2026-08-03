@@ -1,0 +1,4 @@
+# Cast for Paul_shops_for_clay_Prolog
+# Expected voices: 2
+DM
+Paul

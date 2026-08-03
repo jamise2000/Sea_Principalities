@@ -1,0 +1,4 @@
+# Cast for Judes_conversation_w_Jamis_end_3rd_Wealsun
+# Expected voices: 2
+SPEAKER_00: DM
+SPEAKER_01: Jude

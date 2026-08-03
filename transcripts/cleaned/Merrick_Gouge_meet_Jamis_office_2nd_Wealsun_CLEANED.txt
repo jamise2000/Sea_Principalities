@@ -1,0 +1,137 @@
+[Speaker Key: DM = Dungeon Master (narration, voicing Lord Jamis) | MERRICK = Merrick's player | GOUGE = Gouge's player (the "strange man" sitting in Jamis's office, in disguise)]
+
+DM: Okay, second of Wealsun. Merrick is in the office of Lord Jamis, having been summoned there — this is sometime around 3 p.m. He enters the office and sees a strange man sitting in a chair in front of Lord Jamis's desk. Not the kind of character Lord Jamis would normally have in his house — kind of a rough-looking guy.
+
+MERRICK: I've never seen him before?
+
+DM: No — he doesn't look too soft, but he looks like a sailor, obviously. He's armed with a bow and a sword, but he looks very fresh-faced.
+
+MERRICK: Do I know why this meeting is happening?
+
+DM: No — one of Lord Jamis's runners came to get you from cards earlier this morning.
+
+MERRICK: So, what's this meeting about? [to the stranger] I'm Merrick — what are you doing here?
+
+GOUGE: I was summoned by Lord Jamis. Where are you from? A friend of Jamis's, I take it?
+
+MERRICK: Interesting — I'd usually know if someone was a close friend of Jamis's.
+
+DM (as Jamis, entering): I have no close friends — you should know that by now, Merrick. [He sits down behind the desk.] I have associates, and I have enemies. I counted your father among my friends — unfortunately, with his death, there's very little of that left for me to speak to. Gouge, however, I would talk to about certain things — he knows the way of these matters.
+
+DM: Okay, so — both of you are here for a reason. As you know, the city has been in dire straits lately; this war with Keoland has gone badly, and last night brought another bad turn. Getting worse, closer to home. We haven't lost any ships — however, a fog engulfed Helm Island last night. A strange fog, very strange for this time of year. Normally the winds would have blown it away, and the ocean isn't warm enough this time of year to create that kind of haze. When it lifted, we signaled Helm Island, as we always do after such an occurrence. The signal we received back was not properly coded. I've just come from a meeting with Prince Jeon, and he thinks I'm being a little too alarmed, but he's willing to send a corsair out there to make contact with Lord Fairwind, who is currently running the garrison on Helm Island.
+
+MERRICK: Did any of our troops do an inspection or anything?
+
+DM (as Jamis): You're going to be the first unit I send out there to do the inspection.
+
+[Brief unrelated cross-talk about audio settings, not part of the scene.]
+
+MERRICK: So I'm the first to know about this?
+
+DM (as Jamis): You must understand — you must have something greater than just intuition or suspicion if I'm calling you in for this, rather than simply sending a crew out to inspect and get the proper code.
+
+MERRICK: I have talked to Lord Jamis about my suspicions before. However—
+
+DM (as Jamis): I brought this to Prince Jeon. However, he has rejected them, unfortunately. I personally think Lord Fairwind is a traitor to the other princes. I've talked to you about my concerns regarding the Toli — Prince Sacnon Toli — and how he's been acting toward us lately. I believe Lord Fairwind feels the same way. He made many demands in council last month, specifically regarding more money from the trade that comes into Monmurg. There's been bad blood between him and Jeon for years now. I'm worried he's working with the Toli in some way.
+
+DM (as Jamis, to Merrick): Have you noticed anything suspicious during patrols around Helm Island in the last few weeks?
+
+MERRICK: No, nothing — everything seemed completely fine to me.
+
+DM (as Jamis): Now, you don't go into the council room with Lord Fairwind and speak to him directly — he's too far above you for that.
+
+MERRICK: Right, but I haven't seen anything like, say, Sahaugin tracks on the beach. I think I would have raised that. No rumors among the crews or the people either.
+
+DM (as Jamis): Well, the rumors among the crews are very interesting to me, in that they're basically saying: why aren't we going out there and beating the Keoland navy? We could easily destroy them if we wanted to — what's holding this back? And that's where the stories of supernatural occurrences and strange storms come in, which have put the Monmurg and outer island fleets at a disadvantage during very strategic moments. There have been a couple of ships lost even when they should easily have won the engagement. The survivors of those ships — and there have been a few collected — told of a fog, and a large ship coming out of the mist, a ghost ship like one of the Toli slavers — huge ships, three hundred feet, that would crash into the corsairs and destroy them, then disappear without being seen again.
+
+So, upon hearing your report, this is the first confirmed instance of a strange fog like this happening. There have been rumors of other strange things, but the fact that this happened so close to Monmurg makes me think the noose is closing around us. I don't know if this is the Toli — even though you've had interactions with their agents and with Lord Phranck — or if this is something employed by Keoland itself. Is Cain Toli doing this?
+
+GOUGE: I have no idea.
+
+DM (as Jamis): To be truthful, at this moment, I don't care. I'm sending you out with the corsair to be my eyes and ears. I want to know how the captain does his job, and whether there's anything strange about the island itself. I'm sending you for another reason too: I want to know if Lord Fairwind is a traitor, and if he is, I want you to do what you do — get to the bottom of this.
+
+You'll have an ally on the boat. You will be disguised, however, as a crossbowman in the unit — you won't be able to wear that armor you have on. I have some studded leather for you in the back. You must disguise yourself, Gouge.
+
+GOUGE: Fine.
+
+DM (as Jamis): Jude will be on the ship as well — do not speak with him.
+
+GOUGE: Good, that's easy.
+
+DM (as Jamis): He'll be present, accompanying a young noble named Paul Rivera. Paul Rivera is Prince Jeon's nephew — no harm should come to him. I argued against Paul Rivera going on this mission, but Jeon wants him there as his eyes; he's trying to give the boy more gravitas. I'll go so far as to say I need you watching out for him too — that's part of the job. However, if Paul dies, it will reflect badly on both of us. That's all I'm saying. Are you up to this task?
+
+GOUGE: Whatever you put me on, I'll see it done.
+
+DM (as Jamis, to Merrick): I know it's going to be difficult to trust Gouge from the get-go here, but he is a very loyal man to me — trust his judgment, especially when it comes to this.
+
+MERRICK: If you trust him, Jamis, I won't challenge your judgment.
+
+DM (as Jamis): Good. Please support his authority as it's needed with the troops — but only expose yourself if absolutely necessary. What I'd rather you do is infiltrate the Helm: become close with Lord Fairwind as a true trooper, and see what's going on. It could be I'm simply being paranoid and everything is fine out there. However, the fact that they haven't signaled back correctly worries me greatly.
+
+MERRICK: Strange fog, strange ships, strange signal — got it.
+
+DM (as Jamis): I'd obviously respect your judgment more than the prince's — his mind isn't as suspicious as mine. And unfortunately, I think there have been infiltrations into the Royal Palace as of late.
+
+MERRICK: Do you know from what direction the fog would have come?
+
+DM (as Jamis): That's the strange thing — it didn't blow in from anywhere. It just occurred. Nothing like I've ever seen before — very magical, to my mind, as though it was summoned from nowhere.
+
+MERRICK: On a previous expedition there, with the wizard — do I know if he'd be powerful enough for something on this level?
+
+DM (as Jamis): He wasn't — well, to be honest with you, you saw him in battle. Lord Phranck was not a slouch, by any means, but when he was fighting the Toli agents, he'd be casting a spell, and it was as if the Toli assassins, who seem to have magic of their own, would slap his hands down mid-cast — they'd be thirty feet away and somehow just shut his casting down, and he'd go, "What's going on?" He wasn't all-powerful, okay, but he could do fireball — he wasn't lightweight. It's not like he was completely ineffectual.
+
+DM (as Jamis, to Merrick): So, you're coming on this trip as someone under my purview, or troops — more of an advisor on the trip, watching to see what's going on under the captain's command. You'll be a stand-in under your own authority, as it were. Counting them all, the unit — the ship, the corsair, is going to have two hundred fifty Marines on it. You'll be able to integrate without a problem.
+
+DM (as Jamis): Are you okay with me giving you orders, knowing your mission, knowing what must be done?
+
+MERRICK: But I'll have no authority?
+
+DM (as Jamis): There'll be a Marine captain there — you'll be present as my advisor. He'll know who you are, so he'll definitely ask your opinion, but, unfortunately, this isn't your command.
+
+MERRICK: I understand — it makes it easier for me.
+
+DM (as Jamis): Are you willing to do what needs to be done?
+
+MERRICK: Excellent — yeah, okay.
+
+DM (as Jamis, to Gouge): So — are you willing to change out of your dragon-scale armor and let me hold onto it?
+
+GOUGE: Grudgingly — yes.
+
+DM: So you change into the standard armor.
+
+GOUGE: If you're taking it, at least have it cleaned.
+
+DM (as Jamis): I'm surprised you'd let me touch it.
+
+GOUGE: Don't try it on — it won't fit you. I'll have it cleaned, if you promise to give it back.
+
+DM (as Jamis): We'll see what the laundress can do. Anything else you need from me, Jamis?
+
+[Note: this last line appears to be Merrick or Gouge addressing Jamis, not Jamis speaking to himself — reconstructed as the player's question:]
+
+MERRICK/GOUGE: Anything else you need from us, Jamis?
+
+DM (as Jamis): No — just keep your eyes open. I want to know if anything strange has occurred around Helm Island. Look for signs; I'll say no more. Just use your powers of observation to make sure everything is as it should be. You know Helm Island as well as anyone, Merrick — you've walked the coastline, you've seen the signs there. Make sure there's nothing strange. That's what I wish from you. I'm afraid there's more influence at work here than just Fairwind, if it is just him — that's one thing we can deal with. If there's something else going on, something associated with the Toli, I wish to know that as well.
+
+DM (to Gouge): I'll let you pick a cover name for yourself, if you wish — that's your backstory.
+
+GOUGE: Aristotle — that's an old one of mine, going way back.
+
+DM: Yes, that'll work.
+
+DM: All right — go meet the ship. It's leaving in twenty minutes, out of the Royal Docks. You know the way.
+
+GOUGE: We've got to stop by the tavern before we go.
+
+DM: How long, five minutes? That'll put you right at the dock.
+
+DM: Okay, so you go directly to the dock, but you've got something on your mind —
+
+GOUGE: I need to go pick up a couple of flasks.
+
+DM: Okay, so you go to the bar — actually, there's one right outside. Jamis's people know it well — exactly, it's out in the harbor district. So you go down, and grab two flasks.
+
+GOUGE: Put it on my tab — I'm in a hurry.
+
+DM: All right, the two of you walk down to the Royal Docks. You see a corsair in the process of being loaded with Marines, like a full battalion — it's ready for battle. So this isn't just a token gesture; it's like Jamis convinced Jeon not to just send some small skiff out there.

@@ -1,0 +1,5 @@
+# Cast for Merrick_Gouge_background_2nd_Wealsun
+# Expected voices: 3
+SPEAKER_00: DM
+SPEAKER_01: Gouge
+SPEAKER_02: Merrick

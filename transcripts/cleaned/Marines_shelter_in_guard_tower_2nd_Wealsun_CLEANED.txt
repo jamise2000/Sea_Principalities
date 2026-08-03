@@ -1,0 +1,269 @@
+[Speaker Key: DM = Dungeon Master (narration, rules calls, voicing the sergeant and a wounded hobgoblin prisoner) | TYRUS, GOUGE, FOLSOM, MERRICK = respective players. NOTE: This is an extended, chaotic siege sequence — the squad takes a guard tower, signals a corsair offshore using improvised chemistry, then watches helplessly as Paul Rivera's landing party gets overwhelmed by a Sahaugin assault near the docks. Given the density of overlapping, fragmented dialogue, this reconstruction focuses on clear tactical decisions and narrative beats.]
+
+DM: Late afternoon on the second of Wealsun, a bit after 4:30. The hobgoblins fire bolts down into the yard, killing three of the Marines before anyone can retrieve the bodies — three dead, seventeen left in your squad of twenty. None of your archers are wounded, though several others are. The archers take positions on the second floor, ready to fire on anyone emerging, but staying hidden themselves. It's become something of a stalemate — neither side able to leave the cover of their respective buildings.
+
+TYRUS: Is this hobgoblin dead, the one we knocked down?
+
+DM: Does anyone want to keep him alive — anyone speak Hobgoblin?
+
+TYRUS: Not that I know of.
+
+DM: [resolving a survival check] He survives — the sergeant takes him prisoner. The others are dispatched.
+
+GOUGE: The big one's still alive, then?
+
+DM: Yes — the sergeant has him in custody. The rest of you regroup downstairs with the sergeant. What do you want to do?
+
+GOUGE: If there are still guys up on that wall, I want to climb it and deal with them directly.
+
+DM: Now, or after resting? How many hit points do you have?
+
+GOUGE: Plenty left — let's move now.
+
+TYRUS: I want everyone together for a second — quick plan. I'll go up the ladder, bang on the door, draw their attention. Whoever can scale the wall on the far side, away from the archers, do it while they're distracted by the door.
+
+GOUGE: I'll go.
+
+FOLSOM: I'll try the same on the other side.
+
+TYRUS: No — there are archers covering that side. Come around this way instead.
+
+DM: All right — Gouge and Folsom move to scale opposite sides of the wall while Tyrus draws attention at the main door.
+
+TYRUS: [banging with his shield] I'll hammer on this and make as much noise as possible.
+
+DM: You climb, athletics checks for both — [resolving] you both make good progress up the wall.
+
+GOUGE: I want to go up as stealthily as possible — don't want a volley of arrows the moment they spot someone cresting the wall.
+
+DM: [resolving stealth checks] Both of you make it to the top quietly.
+
+GOUGE: I'll peek over carefully rather than just vaulting straight in.
+
+DM: You see two hobgoblins standing there, swords drawn, clearly listening to the banging at the door below.
+
+GOUGE: [in Common] Surrender — we've taken the tower!
+
+DM: One responds in broken Common.
+
+DM (as hobgoblin): We surrender! [throws down his sword]
+
+GOUGE: [climbing over anyway, attacking immediately]
+
+DM: [resolving] You strike — wounds him badly, doesn't drop him outright.
+
+TYRUS: [following up]
+
+DM: [resolving multiple exchanges between Gouge, Tyrus, and the remaining hobgoblins] One of them draws a dagger despite the apparent surrender and lunges — you take a few points of damage blocking with your buckler, but you finish him off with a follow-up strike. The other one, already wounded, goes down to a sneak attack from behind.
+
+GOUGE: [grim satisfaction] That's the two of them dealt with.
+
+DM: Both hobgoblins are down, along with the earlier four. You loot them and clear the area.
+
+GOUGE: Can we open the hatch and head down?
+
+DM: Absolutely.
+
+TYRUS: [kicking the hatch three times] Clear!
+
+DM: You pop the bolt and head down. As you reach the top of the tower itself, there's no signal brazier present — should be one here normally, but it's missing.
+
+GOUGE: We need to signal that ship somehow — flaming arrow, anything.
+
+TYRUS: Who's got the best ranged weapon for this?
+
+GOUGE: Longbow's got better range than a heavy crossbow — maybe two hundred feet more.
+
+FOLSOM: Let's get something burning and shoot it toward the ship.
+
+GOUGE: I've got a tinderbox.
+
+FOLSOM: [digging through his entertainer's pack] Let me see if I've got anything useful for color or visibility.
+
+DM: Roll a check — nature, maybe, since you're improvising chemistry here.
+
+FOLSOM: [rolling] Sixteen total.
+
+DM: You find some phosphorus in your kit — combined with metal filings, you could create a distinctly colored flame, useful as a clear signal rather than just an ordinary fire arrow.
+
+FOLSOM: I'll scrape some metal off one of the hobgoblin swords for filings.
+
+DM: [resolving the improvised signal-making] You mix phosphorus with the scraped nickel filings, wrap it around a bolt tip, soak a cloth in some of Gouge's "red eye" liquor for good measure, and light it.
+
+GOUGE: [firing] Up and out toward the ship — not down into the water.
+
+DM: The bolt arcs up into the sky, trailing a smoky, distinctly bluish flame, visible over the bay where the ship is approaching.
+
+TYRUS: [watching] Does it react — peel off, keep docking?
+
+DM: A flare fires back in acknowledgment — they've seen your signal.
+
+GOUGE: Good job, kid.
+
+DM: But the ship continues into dock anyway.
+
+TYRUS: That's not what we wanted.
+
+DM: You watch as a squad of Marines is allowed to disembark — and from the glint of sunlight off a mask, you're fairly sure Paul Rivera is among them, marching up from the docks.
+
+GOUGE: That's fantastic — and also terrible, since we're supposed to be protecting that guy.
+
+TYRUS: We need to report everything to the sergeant — what we did, what happened up here, the signal, all of it.
+
+DM: You explain to the sergeant: the flare was acknowledged, but the ship docked anyway and offloaded Marines regardless, despite the warning signal.
+
+TYRUS: We need to move — if we go out this door, the hobgoblins who were holding the area near where the others fought might still be a problem, but manageable.
+
+GOUGE: I don't think we should risk going out the front with wounded among us.
+
+TYRUS: My suggestion to the sergeant: leave some men here as a distraction, scale down the far side of the wall, and make our way toward the docks directly.
+
+DM (as sergeant): You're wounded.
+
+TYRUS: I'm good to go, Sergeant.
+
+DM (as sergeant): [skeptical] You sure?
+
+TYRUS: [using Lay on Hands on himself] Back to full.
+
+DM (as sergeant): You can't realistically march out there with archers still active in that other building.
+
+TYRUS: That would be my recommendation regardless, Sergeant — unless you've got a better plan. Our orders are to take the barracks. If Paul Rivera dies out there, is our mission considered complete?
+
+DM (as sergeant): You tell me. I don't see what we can realistically do about it from here — we're nearly a mile from the docks. Even running flat out, it'd take twenty minutes to reach them, and he's got two hundred Marines with him already.
+
+DM: The captain's made his decision — rest while you can; there's nothing more to be done immediately. You watch as the detachment marches down the pier toward the quays — and suddenly, soldiers atop the quay walls open fire on Paul Rivera's unit. You watch the exchange of fire unfold from a distance, completely unable to intervene.
+
+GOUGE: Where exactly are they, relative to us?
+
+DM: Far across the bay — on the near dock, the close one. Hobgoblins are covering the bridge between here and there. You're effectively pinned.
+
+DM: Suddenly, you see a flare of magical flame erupt among the hobgoblins across the way.
+
+TYRUS: Some mage on our side is buying them time, maybe.
+
+GOUGE: Keep watching. Is there any way we can get our archers into position, use the terrain to our advantage and circle around?
+
+DM: As you watch the battle unfold, strange man-shaped fish creatures begin crawling out of the ocean onto the docks and the ship itself — hundreds of them, swarming aboard.
+
+MERRICK: [recognizing them with dawning horror] That's definitely Sahaugin.
+
+DM: Attacking the ship in the bay of the Helm — something that hasn't happened in centuries.
+
+MERRICK: I can't believe it.
+
+DM: You're talking hundreds of them — four to six hundred, easily, swarming the vessel. A burst of fire erupts in response, and the first squad of Marines manages to reach the top of the quay before disappearing from view — your own people, the ones with Paul Rivera. The boat itself, though, becomes completely overwhelmed by the Sahaugin, like ants overrunning prey.
+
+TYRUS: [in disbelief] What the hell is going on with these things — can they even fight on land, move around up here?
+
+DM: Roll a survival check — you get advantage, given your familiarity with this old enemy.
+
+MERRICK: [rolling with advantage] Seventeen plus six.
+
+DM: Sahaugin can survive on land for up to about four hours before suffocating, but they hate leaving the beaches and would very rarely venture up this far inland unless utterly desperate or forced to.
+
+TYRUS: So we need to stay off the coastline and away from the water's edge, basically.
+
+DM: That tracks.
+
+GOUGE: We're getting overrun out there. We have to help them somehow.
+
+TYRUS: If it comes down to it — Paul needs to stay protected for political reasons above almost anything else; if it's us or him, obviously we prioritize the mission, but right now our top priority is keeping him alive. The masked elf with him can handle himself, mostly, but if he needs help too, we give it. [to Merrick] Spill whatever you know about this place — now's the time.
+
+MERRICK: I know about the political need to protect Paul, but there's also something magical going on here we were specifically sent to investigate — something's been wrong on this island, and we didn't want to alarm everyone else with it before now. A mysterious fog took over the area a few days ago — nothing like it in all my years as a ranger out here. So it's not just the Sahaugin — someone's been working magic against us too, and unless we can regroup with a solid combined force—
+
+DM (as sergeant, skeptical): Are the men drunk?
+
+GOUGE: Not yet — but I will be, given the day we're having.
+
+DM (as sergeant): You're talking nonsense.
+
+MERRICK: I haven't seen Sahaugin do this in years — my own father was supposedly killed by hobgoblins, and now this.
+
+TYRUS: [pacing anxiously] We need fewer fish-people problems and more solid ground under us, frankly.
+
+DM: All right — let's talk through the rest plan. Who here is wounded?
+
+[Resolving short rest mechanics: each character can take a short rest up to three times daily, rolling their available hit dice — six d8 for the higher-level characters, one d10 for the first-level paladin and ranger, one d8 for the bard, scaling with level — to recover hit points, with all dice exhausted requiring a full long rest before replenishing.]
+
+TYRUS: We need to rest here while we figure out next steps — talk with the sergeant, talk with Merrick about the terrain, see if there's a way through.
+
+DM: You bring the sergeant up to speed, watching the boat below get completely overrun.
+
+DM (as sergeant): What do you actually know?
+
+TYRUS: Paul Rivera needs protection for political reasons — we're not running supplies, we're on reconnaissance. We believe he was on that ship, got off with a squad of two hundred Marines, then engaged near the quay — heavy magical fire involved, an elf caster with him. We think he's now somewhere on land, possibly pushing toward the barracks or the Helm itself, though we can't be certain which direction.
+
+DM (as sergeant): We've lost both our own ships at this point — we're not going anywhere by sea.
+
+TYRUS: Do you know any safe route from here to there?
+
+DM (as sergeant): The bridge is the safest path, especially with the tide in — the water beneath fills up and discourages the Sahaugin from straying that far from open water; even with the tide out, they'd avoid going up that high regardless, since they hate land travel under any circumstances. We'd want to stick to that bridge route.
+
+The problem is, the garrison currently holding the road that leads to the bridge has a clear line of fire on anyone approaching directly.
+
+TYRUS: What if we send a few people to distract that garrison while the rest of us move toward the bridge under cover? I don't love splitting up, but if we put our remaining archers on overwatch and have them open fire the moment we're spotted, that buys us a window to make a run for it.
+
+DM: Where exactly are you trying to reach?
+
+TYRUS: Wherever Paul might have gone — the Helm or the barracks, we genuinely don't know which.
+
+DM: You don't know the layout of this place well enough to say definitively which way he'd go, or whether the Helm is even still in friendly hands.
+
+TYRUS: We'd be fighting blind, without enough men to spare as a vanguard — unless we could move with real stealth.
+
+FOLSOM: What if we hold here until nightfall instead? It's pushing five now, sun sets around seven — give it a couple hours, and we could move toward the barracks under cover of darkness, see who's actually holding it.
+
+TYRUS: I could make that trip — stealthy enough to follow without being seen, and it buys me time to heal up properly in the meantime, as long as the rest of you can hold this position against anything else coming up that side.
+
+GOUGE: I don't think those Sahaugin will come up this far, given what we just learned — but we've still got that other approach to watch.
+
+TYRUS: I think that's the best plan available to us right now.
+
+DM: [aside, examining the captured hobgoblin gear] It's strange — the weapons and armor these hobgoblins carry look like they were crafted by Monmurgian smiths. The scale mail matches your own people's work, just a different color scheme, and the breastplate their leader wore, before he threw it down, looks like it came straight from your own forges — even finer craftsmanship than standard issue.
+
+TYRUS: Do I recognize any markings on it from my travels around the islands?
+
+DM: There's lettering — Berghof.
+
+TYRUS: Does anyone here speak Hobgoblin?
+
+GOUGE: I'm human, I don't think I picked that up.
+
+TYRUS: Can we get any information out of the surviving prisoner, once he's conscious?
+
+DM: He speaks Common better than the others, given his apparent rank.
+
+FOLSOM: I'll try to charm some information out of him — not exactly a creature-talker, but I can try.
+
+DM: [aside] You used all your spell slots already, didn't you — that requires a long rest to recover, not a short one. Bards specifically don't regain spell slots on a short rest the way some other classes can with Arcane Recovery.
+
+FOLSOM: Understood — I'll work with what I've got. [to the prisoner] Tell us about this armor — Berghof, right?
+
+DM (as the hobgoblin prisoner): I have no problem telling you that — it's Berghof armor. [gesturing to a rough map] Berghof's this large landmass here, the biggest holding among the sea principalities, though not directly on the coast — West Keep's up here, with a substantial inland presence.
+
+TYRUS: So armorers from Berghof, paid to outfit hobgoblin mercenaries in a similar style to our own forces?
+
+DM (as hobgoblin): That tracks with what you're seeing.
+
+TYRUS: What's their actual purpose here, though — why send hobgoblins to this island specifically?
+
+DM: That remains the open question — you've got a prisoner for further interrogation, and a island still largely unaccounted for in terms of remaining hostile numbers, on top of whatever the Sahaugin are doing.
+
+TYRUS: As long as we stay on high ground, we should be relatively safe from the Sahaugin specifically — they'd only come up here if genuinely forced to, with no other route of retreat.
+
+DM: [confirming the gear] You recognize the craftsmanship as distinctly your own nation's style, just recolored — practically identical scale mail, slightly different stylistically, but clearly the same forges.
+
+TYRUS: How do you spell "Berghof," for the record?
+
+DM: B-E-R-G-H-O-F.
+
+DM: You loot the bodies — find a heavy crossbow with twenty bolts, though you lack proficiency with martial weapons to use it effectively yourself. You also find about twelve silver coins, and a particularly fine piece of armor — bracers of some quality, worth real money, clearly belonging to someone of higher rank than a standard mercenary.
+
+TYRUS: I'll split the coin among the men here.
+
+DM: Generous, given the circumstances.
+
+TYRUS: I'll head toward the southern approach myself, let the others know what's happening as I go.
+
+DM: All right — that closes out this portion. Next, we pick up with the group figuring out their next move from here.

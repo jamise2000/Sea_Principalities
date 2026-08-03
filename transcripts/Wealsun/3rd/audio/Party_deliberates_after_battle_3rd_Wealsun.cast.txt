@@ -1,0 +1,9 @@
+# Cast for Party_deliberates_after_battle_3rd_Wealsun
+# Expected voices: 7
+DM
+Paul
+Merrick
+Gouge
+Tyrus
+Folsom
+Jude

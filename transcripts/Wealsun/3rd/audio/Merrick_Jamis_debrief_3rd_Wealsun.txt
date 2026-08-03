@@ -1,0 +1,397 @@
+[SPEAKER_00]: Third of Wealsun in the evening, Merrick going to Lord Jamis' offices to discuss what happened on Helms Island.
+[SPEAKER_00]: Alright, so you come into the room.
+[SPEAKER_00]: There is an empty glass on the table in front of the seat you're at, and Jamis is behind the desk.
+[SPEAKER_00]: And you come in, and Jamis says, Ah, Merrick.
+[SPEAKER_00]: Excuse the mess.
+[SPEAKER_00]: He goes over and picks up the glass and takes it back over to the table.
+[SPEAKER_00]: Sure.
+[SPEAKER_00]: So what happened over there?
+[SPEAKER_01]: Lots to report.
+[SPEAKER_01]: Completely overwhelmed.
+[SPEAKER_01]: I'm at a loss for words as we speak right now.
+[SPEAKER_01]: It seems that Zahagin are back or, yeah, returned.
+[SPEAKER_01]: Completely overran a full ship, I witnessed from the tower.
+[SPEAKER_01]: Once we ported on the south side, noticed sharks and the waters were infested with sharks.
+[SPEAKER_01]: Got on land and found tracks that were unusual to me and I was at unease.
+[SPEAKER_01]: Once we went to go take the South Tower, we were completely ambushed by hobgoblins.
+[SPEAKER_01]: Lost troops left and right, but ended up being able to secure the South Tower with the help of Gouge, Volsom, and Tyron.
+[SPEAKER_01]: Once we secured it, but not full, we took off to try to secure the helm.
+[SPEAKER_01]: Made it to the helm safely.
+[SPEAKER_01]: Ran into Jude and Paul Rivero.
+[SPEAKER_01]: After that I made it my job.
+[SPEAKER_01]: Did not keep my eyes off of Paul Rivero.
+[SPEAKER_01]: Stayed locked on him for his safety as he requested.
+[SPEAKER_01]: Made sure Gouge was in line as well to follow orders.
+[SPEAKER_01]: After that went disguised as hobgoblins through the keep to try to locate any survivors or who might be in the barracks of the
+[SPEAKER_01]: After sneaking through hobgoblins and doing some fighting we ended up running into
+[SPEAKER_01]: What was his name, Lord?
+[SPEAKER_00]: Fairwind.
+[SPEAKER_01]: Yeah, I ended up running into Lord Fairwind, and according to Paul Rivero, doing business with the Tolis, we found him tied up.
+[SPEAKER_00]: So you didn't hear this business between Fairwind and the Toli?
+[SPEAKER_01]: Nope, only from Paul Rivero's word of mouth, sending his little creature in.
+[SPEAKER_00]: The homunculus is what he called it, I assume.
+[SPEAKER_01]: Yes, no witness of actual words being spoken besides what
+[SPEAKER_01]: Once I got in the room and he acted very defensive and Paul Rivero and him were going at it back and forth.
+[SPEAKER_01]: He does seem guilty to this after we took him prisoner, tried to make our way through the keep on a very narrow bridge.
+[SPEAKER_01]: I witnessed him attack Folsom, push him back, and then tripped Paul Rivero into the water, get in a little argument with Gouge and fall into the water.
+[SPEAKER_01]: It didn't seem innocent to me, doing business with the Tolis.
+[SPEAKER_01]: We killed one, took another prisoner, and then he had to be thrown into the water for our survival.
+[SPEAKER_01]: So he's dead as well, saw his head later as I gutted a shark.
+[SPEAKER_00]: He had to be thrown into the water?
+[SPEAKER_01]: Not according to me.
+[SPEAKER_01]: I was in the back.
+[SPEAKER_01]: Jude was in front of me.
+[SPEAKER_01]: Once we were noticed on the bridge by a patrol, Jude had to zap him out of, I don't know, was it anger or shock or something.
+[SPEAKER_01]: He acted on whatever he needed to and threw him into the water.
+[SPEAKER_01]: But it was Jude that killed him?
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Well, I don't know if Jude did the killing.
+[SPEAKER_01]: Jude did the throwing off into the water.
+[SPEAKER_01]: I think the shark below is what killed him.
+[SPEAKER_01]: I see.
+[SPEAKER_01]: No idea if... What's his name again?
+[SPEAKER_01]: The bad guy.
+[SPEAKER_00]: Fairwind?
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: No idea if Fairwind got away or what it looks like.
+[SPEAKER_01]: After we got out of that little opening, found the barrels of powder that are supposedly this powder that keeps the sahaugin at bay and kills them.
+[SPEAKER_01]: After we noticed throwing it in the water ourselves, kills them immediately.
+[SPEAKER_01]: I brought some back with us, four barrels.
+[SPEAKER_01]: One's open because I needed to sprinkle some on our way here.
+[SPEAKER_01]: And there are more back at the...
+[SPEAKER_01]: Yes, more back.
+[SPEAKER_01]: We found around 25 on the coast.
+[SPEAKER_01]: I could only load up four because I had to build a makeshift raft out of materials I found on the coastline to get us back here as quick as possible.
+[SPEAKER_01]: We were outnumbered and it was very overwhelming, so I found it in our best interest to, with your orders, find out what I could, get Paul Ribeiro to safety,
+[SPEAKER_01]: And we needed to get back as soon as possible because if we stayed there we were just sitting ducks for, you know, either more sahaugin, slash hobgoblins coming in or more Toli fleets to the area.
+[SPEAKER_00]: Well, I think this is a commendable job.
+[SPEAKER_00]: You did everything I would expect from you and actually more.
+[SPEAKER_00]: I don't think Fairwind's involvement should be mentioned.
+[SPEAKER_00]: I say this because I need to talk to Paul Rivero before I make any accusations and obviously the situation with Prince Jeon is going to be difficult.
+[SPEAKER_00]: He didn't believe that Fairwind would be capable of any betrayals such as this.
+[SPEAKER_00]: Maybe Paul Rivero can convince him otherwise.
+[SPEAKER_00]: However,
+[SPEAKER_00]: If I were you, I would ignore Fairwind's involvement at this point and especially not speak to his men of it.
+[SPEAKER_01]: Is there anything I need to worry about going forward?
+[SPEAKER_01]: Because he knows my face.
+[SPEAKER_01]: I'm not sure if he knows my name.
+[SPEAKER_01]: With being linked back to you, or do I need to protect myself and save him for a while?
+[SPEAKER_00]: Actually, this is a DM to character.
+[SPEAKER_00]: You know Fairwind.
+[SPEAKER_00]: You've actually met him in the home before.
+[SPEAKER_00]: Oh, okay.
+[SPEAKER_00]: You've not been under his command, but basically he knows who you are.
+[SPEAKER_00]: He actually respects you.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Okay?
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: I don't think I would worry at this time.
+[SPEAKER_01]: I don't see him making a move on me or us right now would be in his best interest if he's trying to plead innocence in this case.
+[SPEAKER_00]: I think he knows that you will go back and report to me and to Prince Jeon when you have seen, as is your duty, but...
+[SPEAKER_00]: The way I see it is that what he is doing is trying to find some kind of political leverage here.
+[SPEAKER_00]: Something you shouldn't worry about.
+[SPEAKER_00]: I don't think that you're going to be reflected on.
+[SPEAKER_00]: You've done your worst.
+[SPEAKER_00]: You reported to me what happened there and his involvement.
+[SPEAKER_00]: This is between princes.
+[SPEAKER_00]: Whatever Paul Rivera wants to accuse him of, he can do that.
+[SPEAKER_00]: As long as you speak nothing of it.
+[SPEAKER_00]: At least not to other soldiers or to Fairwind's men, you should be fine.
+[SPEAKER_01]: Absolutely.
+[SPEAKER_01]: With the powder, you know, I didn't tell any of the Corsairs that picked us up what the powder is.
+[SPEAKER_01]: I don't remember if I sent them with any, just a sprinkle.
+[SPEAKER_01]: I don't remember if I did that or not.
+[SPEAKER_01]: But, you know, why is this, did you know about this powder?
+[SPEAKER_00]: It's a state secret and this needs to remain secret.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: And to be honest with you,
+[SPEAKER_00]: I will let you know this.
+[SPEAKER_00]: The fact that we only have 20 barrels left is... Well, if our enemies knew this, they would know how vulnerable we were.
+[SPEAKER_01]: Is this something my father knew of?
+[SPEAKER_00]: He was an admiral, so yes.
+[SPEAKER_01]: Interesting.
+[SPEAKER_01]: I know if it's not my place to ask, but if this was the only thing keeping the sahaugin at bay for this long, wouldn't Monmurg have any storage here to protect us if stuff really decided to go down?
+[SPEAKER_01]: Because the amount of sahaugin that we saw was extremely overwhelming.
+[SPEAKER_01]: I mean, once we sprinkled it in, it was dozens coming up out of the water.
+[SPEAKER_00]: We did have storage here, and in fact quite a bit.
+[SPEAKER_00]: However,
+[SPEAKER_00]: It's not being replenished anymore.
+[SPEAKER_00]: We're not getting new shipments.
+[SPEAKER_00]: And we've pretty much run through our shores here.
+[SPEAKER_00]: Understood.
+[SPEAKER_00]: In fact, we were shipping barrels from Helm Island to here when this occurred.
+[SPEAKER_01]: What could the Tolis have to do?
+[SPEAKER_01]: What are the Tolis going to benefit from this powder?
+[SPEAKER_01]: Is this valuable stuff they can resell or do they need to fend their own land?
+[SPEAKER_01]: I don't think they benefit from having it.
+[SPEAKER_00]: They benefit from us not.
+[SPEAKER_00]: There are political considerations going on and negotiations occurring right now between the Duke of Berkhoff, the Toli, and the Prince of Monmurg.
+[SPEAKER_00]: And I believe this is
+[SPEAKER_00]: A bargaining chip that Berghof and the Toli are going to use.
+[SPEAKER_00]: This is nothing of your concern.
+[SPEAKER_00]: Hopefully these political maneuverings can be taken care of shortly and we will not have to worry about this.
+[SPEAKER_00]: I want to stress that I would like it if you would not tell anyone of the powder.
+[SPEAKER_00]: Not tell anyone of the involvement of the Toli in this situation.
+[SPEAKER_00]: I'm glad you verified that it was the Toli that took it and what occurred.
+[SPEAKER_00]: But also do not talk about Fairwind's involvement either.
+[SPEAKER_00]: Understood.
+[SPEAKER_00]: This is internal principality politics.
+[SPEAKER_00]: And I think that the Toli and Fairwind are doing this at this time because of the situation with Gradsul.
+[SPEAKER_00]: They see weakness here and they're going to get as much out of it and as much out of Prince Jeon as they possibly can during our time of need.
+[SPEAKER_00]: Understood.
+[SPEAKER_01]: Regarding Helm Island and the Keep, there's still many hobgoblins there and we sprinkled enough to last either a day or two of the powder in the water.
+[SPEAKER_01]: But our troops, I feel like, are just sitting ducks right now if we don't send support, which it looks like you did with a couple of Corsairs.
+[SPEAKER_00]: Yes, with your report and with the barrels that you've given us, I think that we'll be able to take Helm's Island back in the next day or two.
+[SPEAKER_00]: And in fact, I think it can be a negotiated settlement with the hobgoblins because in all honesty, honestly, honesty.
+[SPEAKER_00]: We know of those troops.
+[SPEAKER_00]: They're Berghoffian troops.
+[SPEAKER_00]: The Duke of Berghof will employ hobgoblin mercenaries often, for purposes.
+[SPEAKER_00]: He mainly keeps them in the mountains.
+[SPEAKER_00]: It's not something that's common knowledge, but he does have
+[SPEAKER_00]: Units.
+[SPEAKER_00]: In fact, small armies of these men.
+[SPEAKER_00]: Why they were imported here, I have no idea.
+[SPEAKER_00]: I have a feeling it's because they would have no compunction about killing other principality men.
+[SPEAKER_01]: Something that... And maybe to hide his involvement a little bit?
+[SPEAKER_01]: Oh, it's just creatures, hobgoblins?
+[SPEAKER_00]: It's a fairly bad ruse if he was going to do that, but obviously it's better than him using...
+[SPEAKER_00]: I don't think Oeridians would do this, and I think that the other troops available to him that would hide his involvement would be Toli rats, which would be completely ineffective.
+[SPEAKER_00]: They're basically slavers and scum.
+[SPEAKER_00]: The hobgoblins are good troops, and I have a feeling he needed professional units to be able to pull this off.
+[SPEAKER_01]: Understood.
+[SPEAKER_01]: I will not speak a word of the Powder or Fairwind regarding any of this.
+[SPEAKER_01]: Do I still need to keep my eye on Paul Rivero now that he's here?
+[SPEAKER_00]: No.
+[SPEAKER_01]: Can his word be trusted?
+[SPEAKER_00]: That remains to be seen.
+[SPEAKER_00]: I won't say one way or the other the trustworthiness of Paul Rivero.
+[SPEAKER_00]: Obviously, he's a nephew to Prince John, so he does have privilege.
+[SPEAKER_00]: That is his.
+[SPEAKER_00]: From what I understand, he acted somewhat reasonably.
+[SPEAKER_00]: He was not a liability, was he?
+[SPEAKER_01]: No.
+[SPEAKER_01]: He acted on instinct, and I assume he's young.
+[SPEAKER_01]: He is.
+[SPEAKER_01]: A little hot-headed and stressful to keep my eye on, but
+[SPEAKER_01]: I wouldn't say a liability out of the way.
+[SPEAKER_01]: He made his best judgment, I feel like.
+[SPEAKER_01]: Maybe a little bit emotion driven.
+[SPEAKER_01]: I think with enough guidance.
+[SPEAKER_01]: He is a prince, so what do you expect?
+[SPEAKER_01]: He's not a military man.
+[SPEAKER_01]: Of course.
+[SPEAKER_00]: But yeah.
+[SPEAKER_00]: I will have a discussion with Paul Ribeiro in the presence of the Lord Jeon, and I'll get to the bottom of this.
+[SPEAKER_01]: Gouge?
+[SPEAKER_01]: Was a good partner, worked well, followed orders well enough.
+[SPEAKER_01]: Have you met with him yet regarding any of this?
+[SPEAKER_01]: That was his glass.
+[SPEAKER_01]: I figured I could smell a little red out of him.
+[SPEAKER_01]: Yeah, he followed order what was best for what he was getting paid for.
+[SPEAKER_01]: Yes, he's very helpful on the journey.
+[SPEAKER_01]: Tyrus, very well, but when it comes down to trustworthiness, can you trust Gouch to not say anything of this powder, being a mercenary or talking about Lord Jamis to anyone?
+[SPEAKER_01]: There's more people that know about this than just I.
+[SPEAKER_01]: You know me, I'll keep my mouth shut regarding this, whatever's best for Monmurg in your best interest.
+[SPEAKER_01]: Regarding Gouge or the Bard, Folsom.
+[SPEAKER_00]: I don't know if they're the best to... Gouge will remain quiet.
+[SPEAKER_00]: Don't worry of him.
+[SPEAKER_00]: I expect you to deal with Tyrus and Folsom on this issue.
+[SPEAKER_00]: And to let them know exactly how important it is to remain quiet on these...
+[SPEAKER_01]: I can do so.
+[SPEAKER_01]: ...occurrences.
+[SPEAKER_01]: I did see Folsom and... Because Folsom had...
+[SPEAKER_01]: Lord Jamis under his... Lord Fairwind.
+[SPEAKER_01]: Lord Fairwind.
+[SPEAKER_01]: Under his... Well, he was the one traveling with him, transporting him, prisoner per se.
+[SPEAKER_01]: Did witness some side conversation, not sure what was said, but shortly after that side conversation, it seems that's when Jamis, or Fairwind, broke free.
+[SPEAKER_01]: I'm not sure what was going down.
+[SPEAKER_01]: Folsom was a great hand to me crafting this ship, so I don't think he was at any fault, but I don't know what Fairwind could have said to maybe loosen or get free a little bit.
+[SPEAKER_00]: I'll let you ascertain what
+[SPEAKER_00]: Tyrus and Folsom know.
+[SPEAKER_00]: Discuss with Folsom what transpired between him and Fairwind and report to me later.
+[SPEAKER_00]: I'll trust you on this.
+[SPEAKER_00]: As for Tyrus, do the same.
+[SPEAKER_00]: It sounds like he was never in the presence with Fairwind alone, though.
+[SPEAKER_01]: No.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: I don't believe anyone was.
+[SPEAKER_00]: And you trust him?
+[SPEAKER_00]: Tyrus?
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: Oh, yes.
+[SPEAKER_00]: Good.
+[SPEAKER_00]: Then just caution them on being quiet, remaining quiet, and see if you can talk to Pulsum and figure out what was said between him and Fairwind in conference, if anything.
+[SPEAKER_00]: I can do that.
+[SPEAKER_00]: And I think that brings me to one last question I had.
+[SPEAKER_00]: Gouch told me that Jude killed one of the Toli prisoners, or at least threw him in the water.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: And that is true?
+[SPEAKER_01]: That is true.
+[SPEAKER_01]: What is your evaluation of Jude?
+[SPEAKER_01]: Evaluation?
+[SPEAKER_01]: Great ally and great asset to the mission at hand.
+[SPEAKER_01]: If it wasn't for him, we wouldn't.
+[SPEAKER_01]: It probably wouldn't have got out alive.
+[SPEAKER_01]: He got us through things quicker than I could have gone through things alone with levitation spells of the sort and very intelligent.
+[SPEAKER_01]: Hot-headed, but I think, you know,
+[SPEAKER_01]: Working with him, it seems like he just acted on his best judgment.
+[SPEAKER_01]: They totally were strong.
+[SPEAKER_01]: We combated with them.
+[SPEAKER_01]: It took three or four of us to get one of them down.
+[SPEAKER_01]: If Steph was about to hit the fan and looked like we were in a very vulnerable spot, he needed to do what he needed to do to feel safest, and I completely understand that.
+[SPEAKER_01]: Maybe not the route I would have gone, necessarily, but I do understand where he's coming from.
+[SPEAKER_00]: So, I'm going to warn you about those two, Gouge and Jude.
+[SPEAKER_00]: They're both very dangerous.
+[SPEAKER_00]: And gouge is a man you can trust as long as you don't get on his bad side.
+[SPEAKER_00]: He will stab you in the back if you're an enemy, but if you're an ally, he'll tell you that he's going to stab you before he does it.
+[SPEAKER_00]: Understood.
+[SPEAKER_00]: And I made sure to keep my distance.
+[SPEAKER_00]: So do not anger him, especially not when he's drunk.
+[SPEAKER_00]: Understood.
+[SPEAKER_00]: As for Jude, he's completely amoral.
+[SPEAKER_00]: He's incredibly effective, like you said.
+[SPEAKER_00]: But don't believe that he has any loyalty to you.
+[SPEAKER_00]: He has one loyalty, and that's to himself and his advancement.
+[SPEAKER_00]: I control him through advancement and through favors.
+[SPEAKER_00]: Absolutely.
+[SPEAKER_00]: But if he thinks he will get an advantage at your disadvantage, he will take it.
+[SPEAKER_01]: Well, I hope you understand that I would never go above trusting anyone that
+[SPEAKER_01]: Wasn't of your consent first.
+[SPEAKER_00]: I understand, but what I'm trying to tell you is that I don't fully trust Jude.
+[SPEAKER_01]: Absolutely.
+[SPEAKER_00]: I will keep my guard up as best I can.
+[SPEAKER_00]: I trust gouge to be gouge.
+[SPEAKER_00]: Jude's motivations, I cannot fully understand.
+[SPEAKER_01]: Would you like me, if I do have any further run-ins with him, to report back any type of...
+[SPEAKER_00]: If you see anything,
+[SPEAKER_00]: Of import that you would think is treasonous or actually meetings.
+[SPEAKER_00]: I would like reports on that, absolutely.
+[SPEAKER_00]: I don't want you to risk yourself, though.
+[SPEAKER_01]: If you don't trust him as you say, and you want to gouge and I to protect Paul Rivero as best as we could, why was he so close with Paul Rivero, if you don't mind me asking?
+[SPEAKER_00]: Prince Jeon requested him.
+[SPEAKER_00]: And I've given Prince Jeon exactly the kind of warnings that I've given you.
+[SPEAKER_00]: Understood.
+[SPEAKER_00]: However, Prince Jeon actually is very interested in magic and Jude is one of the more powerful wizards that are in the Principalities.
+[SPEAKER_00]: I think he's hoping that Jude will tutor
+[SPEAKER_00]: Paul Rivero and the magics.
+[SPEAKER_00]: And I've warned against this for several reasons.
+[SPEAKER_00]: But Jeon thinks that that is Rivero's best path.
+[SPEAKER_00]: And I think this homunculi that you talked about proves that that might be true.
+[SPEAKER_00]: Understood.
+[SPEAKER_00]: However, tell no one of this.
+[SPEAKER_00]: This is between you and me.
+[SPEAKER_00]: I want you to know this in case you get into danger with any of these folks.
+[SPEAKER_00]: Absolutely.
+[SPEAKER_00]: It's better to understand the relationships and what they mean than they know yours.
+[SPEAKER_00]: This gives you an advantage here.
+[SPEAKER_00]: Absolutely.
+[SPEAKER_00]: Yeah.
+[SPEAKER_01]: Going forward, what does our next move look like?
+[SPEAKER_01]: Hell Island, what do you need from me?
+[SPEAKER_00]: You're not going to be part of the group that goes back and takes the helm.
+[SPEAKER_01]: Are you guys being nerds?
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: I don't even know what that word means anymore.
+[SPEAKER_00]: You're talking nerdy to me.
+[SPEAKER_00]: There you go, derailed.
+[SPEAKER_00]: Barcelona cluster has 1,024 no's.
+[SPEAKER_00]: Govie devices.
+[SPEAKER_00]: Is that nerdy enough?
+[SPEAKER_00]: That's pretty cool.
+[SPEAKER_00]: I need a plug in it.
+[SPEAKER_01]: There's the couch.
+[SPEAKER_01]: I think there's some downstairs, too.
+[SPEAKER_00]: It just was downstairs.
+[SPEAKER_01]: My couch pulls off, but I do not...
+[SPEAKER_01]: But, uh... Yeah, so I won't be going to the helm.
+[SPEAKER_01]: Understood.
+[SPEAKER_00]: Your cousin Owen is back from Redshore.
+[SPEAKER_00]: He smuggled some goods back into the city.
+[SPEAKER_00]: Why don't you go talk to him?
+[SPEAKER_00]: He should be down in the Harbor District.
+[SPEAKER_00]: Understood.
+[SPEAKER_00]: He's made a profit from it, but I think he's taking some cider and other goods to the barracks.
+[SPEAKER_00]: If you want to go down and talk to him about Red Shore, that's what I'd like to know next.
+[SPEAKER_00]: I think Red Shore is where the traders from
+[SPEAKER_00]: The recipes you see are being funneled by the Duke of Gradsul.
+[SPEAKER_01]: Understood.
+[SPEAKER_01]: I do ask a favor.
+[SPEAKER_01]: If there's any chance, could I get a small amount of this powder we've seen to use on, if I'm out and about, from what I've seen of the sahaugin, enough to get me out of a pinch is all I ask.
+[SPEAKER_00]: I'll consider that.
+[SPEAKER_00]: I mean, we can't spare much, but I could look into getting some for you.
+[SPEAKER_00]: I don't want to interrupt your nerdiness.
+[SPEAKER_00]: You're good.
+[SPEAKER_00]: Hey, do you want to see your tear of a gel?
+[SPEAKER_00]: Mm-hmm.
+[SPEAKER_00]: Got it.
+[SPEAKER_00]: A priest and a rabbi are walking down the street, and they come across a little boy.
+[SPEAKER_00]: The priest says,
+[SPEAKER_00]: Hey, let's fuck them!
+[SPEAKER_00]: The rabbi asked, out of what?
+[SPEAKER_00]: That's the name, Joe.
+[SPEAKER_01]: I thought I'd take it.
+[SPEAKER_01]: So my cousin... Owen Black.
+[SPEAKER_00]: Owen Black.
+[SPEAKER_00]: He used to be in the Montmurian Navy.
+[SPEAKER_00]: And he's a pretty good guy, but he always was drawn to profit.
+[SPEAKER_00]: And so for the last couple of years, he's kind of been a smuggler, smuggling goods into Keoland.
+[SPEAKER_00]: He knows the sea pretty well between, he's not as good as you, but he's a good navigator.
+[SPEAKER_00]: He knows the sea pretty well between Monmurg and Saltmarsh and Redshort, which are those little islands.
+[SPEAKER_00]: I think if you look at the map, we have a map right here.
+[SPEAKER_00]: There's Monmurg, right?
+[SPEAKER_00]: And then there is Redshore.
+[SPEAKER_00]: And then Saltmarsh is over here.
+[SPEAKER_00]: So what he does is he takes runs up into Monmurg.
+[SPEAKER_00]: I mean up in Saltmarsh.
+[SPEAKER_00]: Because before the blockade happened,
+[SPEAKER_00]: The Duke of Grassell does not let trade happen between Monmurg and his places.
+[SPEAKER_00]: And so if you smuggle goods from Monmurg into Salinmoor, you can make a good bit of money.
+[SPEAKER_00]: Because people don't have to pay his taxes.
+[SPEAKER_01]: Good in the sort of smuggling.
+[SPEAKER_01]: Utilities and things that the city are actually going to need versus illegal smuggling.
+[SPEAKER_00]: Well, it is illegal.
+[SPEAKER_00]: Normally what Owen would do is he would smuggle like foreign goods into Saltmarsh.
+[SPEAKER_00]: Into Salonmar.
+[SPEAKER_00]: More.
+[SPEAKER_00]: Saltmarsh and Redshore from Monmurg.
+[SPEAKER_00]: But now what he's doing is he's smuggling shit out of Redshore back into Monmurg.
+[SPEAKER_00]: Like food, cider, stuff like that because the blockade's on and you guys don't have any supplies.
+[SPEAKER_00]: And
+[SPEAKER_01]: Do you think his loyalties with Lai, I mean, I would probably know this, but more with Monmurg, or is he just out to make a profit?
+[SPEAKER_00]: I mean, he's not gonna betray the city.
+[SPEAKER_00]: I mean, he's a smuggler.
+[SPEAKER_00]: I mean, he's not doing anything that...
+[SPEAKER_00]: Lord Jamis thinks is illegal, right?
+[SPEAKER_00]: Lord Jamis would be like, we should be able to trade Saltmarsh.
+[SPEAKER_00]: The fact that the Duke of Gradsul is screwing us over on this.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Screw him.
+[SPEAKER_00]: Understood.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: Now, Bowling Black is a little bit more flexible in his morality than you are.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: He was in the, you know, he was in the Marines and is loyal to that, but it's not like he is
+[SPEAKER_00]: He's not as cut dry as anything else.
+[SPEAKER_00]: I mean, he'd work for any prints.
+[SPEAKER_00]: It's not like he has any... A lot of gray areas.
+[SPEAKER_00]: He'd never be a slaver.
+[SPEAKER_00]: He wouldn't do that.
+[SPEAKER_00]: That's not his thing.
+[SPEAKER_01]: Kind of like a Han Solo type thing.
+[SPEAKER_00]: Except not as good.
+[SPEAKER_00]: He's not gonna join a bunch of rebels.
+[SPEAKER_00]: Okay, understood.
+[SPEAKER_01]: Sounds good.
+[SPEAKER_01]: Okay, yeah.
+[SPEAKER_01]: Then I'll go meet with my cousin, report back what I can.
+[SPEAKER_01]: And also, like you said, I'm going to talk to Folsom, talk to Tyrus and make sure their mouth stays shut and hopefully this gets resolved as fast as possible.
+[SPEAKER_01]: But I'll worry about the sahaugin and things of the sort you keep.
+[SPEAKER_01]: You work with the political things as you do.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Like I said, talk to Owen Black.
+[SPEAKER_00]: I want to know information about Red Shore.
+[SPEAKER_00]: I don't want to be seen with Owen Black, but I want you to get information on what Red Twirl looks like, how many ships are there.
+[SPEAKER_00]: And after that, we'll decide what's next.
+[SPEAKER_00]: Understood.
+[SPEAKER_00]: Okay.

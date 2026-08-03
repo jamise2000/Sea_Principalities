@@ -1,0 +1,1708 @@
+1
+00:00:02,268 --> 00:00:18,396
+[SPEAKER_00]: Alright, Jude, um, some random day in Fluk time, near the end, uh, basically, um, in the Azur Sea on a, on Wallian Trader, heading south.
+
+2
+00:00:19,916 --> 00:00:21,337
+[SPEAKER_00]: Okay, do you remember where we left off?
+
+3
+00:00:22,133 --> 00:00:40,861
+[SPEAKER_01]: Yeah, there was two, uh, man-of-wars, uh, Keoland man-of-wars that were, uh, dropped off ten troops, boarded us, our captain seemed, uh, maybe just either weak-minded or confused, and he, uh, agreed to go to, I think it's Sandichar, but Morrison was a shithole.
+
+4
+00:00:41,502 --> 00:00:42,042
+[SPEAKER_00]: Red Shore.
+
+5
+00:00:43,382 --> 00:00:43,883
+[SPEAKER_01]: Red Shore?
+
+6
+00:00:44,123 --> 00:00:44,443
+[SPEAKER_00]: Yeah.
+
+7
+00:00:45,693 --> 00:00:54,819
+[SPEAKER_00]: Okay, so anyway, basically what it is, is you and Horace are down in your state room, right?
+
+8
+00:00:55,519 --> 00:00:56,300
+[SPEAKER_00]: Yeah.
+
+9
+00:00:56,620 --> 00:01:02,364
+[SPEAKER_00]: And Horace has been going in and out, basically talking to you about what's been happening, but what do you want to do?
+
+10
+00:01:04,285 --> 00:01:10,849
+[SPEAKER_01]: Okay, I tell Horace, I say, listen, I can magically ensorcer the captain and get him to turn.
+
+11
+00:01:12,150 --> 00:01:15,012
+[SPEAKER_01]: Are both ships, are we like in the center of the two ships?
+
+12
+00:01:16,392 --> 00:01:19,134
+[SPEAKER_01]: I think I need to get a bird's eye view on this.
+
+13
+00:01:19,155 --> 00:01:22,958
+[SPEAKER_00]: Okay, so let me go ahead and show you what the map is of the ship.
+
+14
+00:01:23,718 --> 00:01:23,999
+Okay.
+
+15
+00:01:24,559 --> 00:01:30,825
+[SPEAKER_00]: Okay, and I will change the actual map that you're on to be able to see it.
+
+16
+00:01:35,289 --> 00:01:36,370
+[SPEAKER_00]: I will make it a...
+
+17
+00:01:43,838 --> 00:01:44,658
+[SPEAKER_00]: Okay, there you go.
+
+18
+00:01:45,259 --> 00:01:49,340
+[SPEAKER_00]: So your map should change, right?
+
+19
+00:01:49,721 --> 00:01:51,701
+[SPEAKER_00]: Yeah, yeah.
+
+20
+00:01:51,781 --> 00:01:53,222
+[SPEAKER_00]: And this is the layout.
+
+21
+00:01:53,762 --> 00:02:01,566
+[SPEAKER_00]: You and Horace are here in your stateroom, right?
+
+22
+00:02:02,186 --> 00:02:04,227
+[SPEAKER_00]: And this is the door right here to the main deck.
+
+23
+00:02:05,813 --> 00:02:07,615
+[SPEAKER_00]: Okay.
+
+24
+00:02:07,735 --> 00:02:09,677
+[SPEAKER_01]: Our stateroom, which one was it again?
+
+25
+00:02:09,957 --> 00:02:10,778
+[SPEAKER_00]: This one, 14.
+
+26
+00:02:10,798 --> 00:02:12,160
+[SPEAKER_01]: 14, okay.
+
+27
+00:02:12,420 --> 00:02:13,421
+[SPEAKER_00]: J4, actually.
+
+28
+00:02:14,002 --> 00:02:14,662
+[SPEAKER_00]: Okay, J4.
+
+29
+00:02:15,143 --> 00:02:17,385
+[SPEAKER_00]: Do you see it, where I've got you and Horace?
+
+30
+00:02:17,405 --> 00:02:18,847
+[SPEAKER_01]: Yeah, I can see it.
+
+31
+00:02:18,987 --> 00:02:19,668
+[SPEAKER_01]: I can see our names.
+
+32
+00:02:20,048 --> 00:02:22,110
+[SPEAKER_00]: So you can zoom in and out if you wish.
+
+33
+00:02:25,454 --> 00:02:28,237
+[SPEAKER_00]: So basically the two of you are in this room together and...
+
+34
+00:02:30,279 --> 00:02:38,305
+[SPEAKER_00]: Horace has just come in and basically said, you know, the captain is capitulating with these guys, and they are turning the ship towards Ridgeford.
+
+35
+00:02:40,006 --> 00:02:42,308
+[SPEAKER_01]: Okay, um, how close is the man to Horace?
+
+36
+00:02:43,749 --> 00:02:44,149
+[SPEAKER_01]: 100 feet?
+
+37
+00:02:44,369 --> 00:02:44,930
+[SPEAKER_00]: Do you ask him?
+
+38
+00:02:44,950 --> 00:02:45,490
+[SPEAKER_01]: 300 feet?
+
+39
+00:02:45,590 --> 00:02:46,511
+[SPEAKER_00]: Yeah, I ask Horace.
+
+40
+00:02:46,911 --> 00:02:51,414
+[SPEAKER_00]: He goes, um, well, from what I saw, they're off the bow.
+
+41
+00:02:51,534 --> 00:02:55,457
+[SPEAKER_00]: They're maybe, uh, I would say 100 feet, 120 feet away from each of us, yes.
+
+42
+00:03:00,017 --> 00:03:01,298
+[SPEAKER_01]: And so they've got us in the middle.
+
+43
+00:03:01,418 --> 00:03:04,000
+[SPEAKER_01]: So if we try to turn, we're going to crash into one of them.
+
+44
+00:03:04,020 --> 00:03:04,580
+[SPEAKER_01]: Is that correct?
+
+45
+00:03:07,822 --> 00:03:08,563
+[SPEAKER_00]: I would say so.
+
+46
+00:03:08,583 --> 00:03:10,844
+[SPEAKER_00]: We'll have to get close to one of them, definitely.
+
+47
+00:03:12,426 --> 00:03:14,967
+[SPEAKER_01]: What we've got to do is we've got to let the wind out of our sails.
+
+48
+00:03:14,987 --> 00:03:22,592
+[SPEAKER_01]: We've got to slag, you know, like lose all forward momentum and then put up our sails again.
+
+49
+00:03:22,812 --> 00:03:24,754
+[SPEAKER_00]: He says, what are you planning, Jude?
+
+50
+00:03:25,454 --> 00:03:26,595
+[SPEAKER_01]: I want to make a run for it.
+
+51
+00:03:29,636 --> 00:03:32,317
+[SPEAKER_01]: I mean, I don't think I want to end up in like, what did you describe?
+
+52
+00:03:32,417 --> 00:03:32,897
+[SPEAKER_01]: A shithole?
+
+53
+00:03:33,097 --> 00:03:38,059
+[SPEAKER_01]: I mean, we could, but who the hell knows how long we've got to sit there for.
+
+54
+00:03:39,560 --> 00:03:43,241
+[SPEAKER_01]: Are you thinking like that this is, you said it's not really standard.
+
+55
+00:03:43,261 --> 00:03:45,082
+[SPEAKER_01]: We could have run, but the captain didn't.
+
+56
+00:03:45,442 --> 00:03:46,682
+[SPEAKER_01]: Why don't we talk to the captain?
+
+57
+00:03:46,762 --> 00:03:50,084
+[SPEAKER_00]: Perhaps the captain can like... Well, there are Marines up on board.
+
+58
+00:03:52,865 --> 00:03:54,405
+[SPEAKER_01]: Well, I mean, they already know that we're here.
+
+59
+00:03:54,425 --> 00:03:56,126
+[SPEAKER_01]: They're going to have the manifest, correct?
+
+60
+00:03:59,702 --> 00:04:07,489
+[SPEAKER_00]: That may be the case, but in truth, they don't seem to be very interested in passengers, per se.
+
+61
+00:04:08,710 --> 00:04:14,094
+[SPEAKER_01]: So you're saying, like, perhaps we could just lay low and just see what's going on?
+
+62
+00:04:14,514 --> 00:04:27,885
+[SPEAKER_00]: Well, what I can tell you is I've only been talking to several of the mates, and from what I can tell, the... Marines have told the captain
+
+63
+00:04:29,037 --> 00:04:32,979
+[SPEAKER_00]: That currently Monmurg is being embargoed.
+
+64
+00:04:34,160 --> 00:04:34,280
+Oh.
+
+65
+00:04:34,500 --> 00:04:39,383
+[SPEAKER_00]: And that all shipping needs to travel either back to Gradsul or to Red Shore.
+
+66
+00:04:42,145 --> 00:04:46,808
+[SPEAKER_01]: So they just want to check our hold to maybe see that we're not carrying embargoed goods?
+
+67
+00:04:49,209 --> 00:04:50,030
+[SPEAKER_01]: In Monmurg?
+
+68
+00:04:50,090 --> 00:04:52,631
+[SPEAKER_01]: I mean, is that what an embargo is?
+
+69
+00:04:53,092 --> 00:04:53,892
+[SPEAKER_01]: I'm not a sailor.
+
+70
+00:04:54,012 --> 00:04:56,153
+[SPEAKER_01]: I'm not a merchant either, so...
+
+71
+00:04:56,173 --> 00:04:58,455
+[SPEAKER_00]: He says, well, I can try and find out more.
+
+72
+00:05:00,173 --> 00:05:03,334
+[SPEAKER_00]: From what I've been told, we're being diverted to Red Shore.
+
+73
+00:05:04,074 --> 00:05:05,434
+[SPEAKER_01]: Okay.
+
+74
+00:05:05,454 --> 00:05:12,095
+[SPEAKER_01]: If I act, I can't guarantee that I won't have to burn both ships and kill everybody on both of those ships.
+
+75
+00:05:13,415 --> 00:05:15,036
+[SPEAKER_01]: I'd rather not have to do that.
+
+76
+00:05:15,216 --> 00:05:16,076
+[SPEAKER_01]: I just, uh...
+
+77
+00:05:17,036 --> 00:05:19,497
+[SPEAKER_01]: I'm just not entirely sure why we're being diverted.
+
+78
+00:05:19,637 --> 00:05:24,057
+[SPEAKER_01]: You made a comment that the sailors were saying that ships have been going missing.
+
+79
+00:05:24,738 --> 00:05:27,258
+[SPEAKER_01]: I don't want to be quote-unquote missing.
+
+80
+00:05:29,178 --> 00:05:29,918
+[SPEAKER_00]: I understand.
+
+81
+00:05:30,258 --> 00:05:35,300
+[SPEAKER_00]: I don't think... Shall I find out more?
+
+82
+00:05:36,001 --> 00:05:37,241
+[SPEAKER_01]: Yeah, yeah.
+
+83
+00:05:37,281 --> 00:05:38,321
+[SPEAKER_01]: Try to find out some more.
+
+84
+00:05:38,521 --> 00:05:41,102
+[SPEAKER_01]: I'll not nerd anything or blow anything up.
+
+85
+00:05:41,242 --> 00:05:43,423
+[SPEAKER_00]: I'll see if I can get a mate to come down and talk to us.
+
+86
+00:05:44,704 --> 00:05:44,884
+[SPEAKER_01]: Right.
+
+87
+00:05:44,904 --> 00:05:46,024
+[SPEAKER_01]: I appreciate that.
+
+88
+00:05:46,344 --> 00:05:48,145
+[SPEAKER_00]: Okay, so do you want to stay in your stateroom?
+
+89
+00:05:49,499 --> 00:05:57,010
+[SPEAKER_01]: Uh, no, I mean, also, I'll follow them out and just stand in the doorway, you know, just so I can kind of see the deck and stuff.
+
+90
+00:05:57,150 --> 00:05:58,311
+[SPEAKER_01]: Like, I don't know, what's happening?
+
+91
+00:05:58,372 --> 00:06:01,556
+[SPEAKER_01]: I mean, are we the only passengers on this ship?
+
+92
+00:06:01,716 --> 00:06:02,537
+[SPEAKER_00]: No, there are other.
+
+93
+00:06:02,978 --> 00:06:04,160
+[SPEAKER_00]: There are others, definitely.
+
+94
+00:06:04,793 --> 00:06:09,675
+[SPEAKER_01]: Okay, I mean, I can't imagine that the others aren't, like, maybe curious as well.
+
+95
+00:06:09,795 --> 00:06:14,077
+[SPEAKER_00]: Well, you know, I think most of the... you've kept to yourself for the most part.
+
+96
+00:06:14,437 --> 00:06:18,598
+[SPEAKER_00]: There doesn't seem to be anybody that's like, I would say, an adventuring kind.
+
+97
+00:06:19,038 --> 00:06:27,622
+[SPEAKER_00]: Most of them are merchants that have goods on the ship and will be, you know, working in Monmurg to sell their wares and so on.
+
+98
+00:06:28,162 --> 00:06:28,842
+[SPEAKER_01]: Right, okay.
+
+99
+00:06:29,442 --> 00:06:32,604
+[SPEAKER_01]: Yeah, no, I'll just be your curious passenger.
+
+100
+00:06:34,088 --> 00:06:37,930
+[SPEAKER_00]: Alright, so you come out here and just look out the door while Horace comes out, right?
+
+101
+00:06:39,350 --> 00:06:47,814
+[SPEAKER_00]: And you come out and actually, you know, Horace comes out here and most of the deck down here are taken up by sailors.
+
+102
+00:06:47,854 --> 00:06:55,037
+[SPEAKER_00]: But you see definitely to the port and starboard side ships.
+
+103
+00:06:55,837 --> 00:07:00,099
+[SPEAKER_00]: One slightly in front of you and then one slightly aft.
+
+104
+00:07:02,978 --> 00:07:15,968
+[SPEAKER_00]: Kind of guiding the ship more to the west than south, which is kind of different from the tack you were taking, which was basically south, southward.
+
+105
+00:07:16,848 --> 00:07:17,068
+[SPEAKER_01]: Right.
+
+106
+00:07:17,168 --> 00:07:23,253
+[SPEAKER_01]: We were kind of going through that big open bay so we could cut straight into the Sea Prince Isles, right?
+
+107
+00:07:23,473 --> 00:07:23,953
+[SPEAKER_00]: Correct.
+
+108
+00:07:24,514 --> 00:07:28,557
+[SPEAKER_00]: And in fact, if we look at the map that we were looking at beforehand,
+
+109
+00:07:29,821 --> 00:07:31,762
+[SPEAKER_00]: Um, which was the sea map.
+
+110
+00:07:31,782 --> 00:07:41,804
+[SPEAKER_00]: From what you understand... And I'll use the pointer.
+
+111
+00:07:43,845 --> 00:07:45,465
+[SPEAKER_00]: This is where you guys were.
+
+112
+00:07:46,125 --> 00:07:46,645
+[SPEAKER_00]: Right here.
+
+113
+00:07:47,506 --> 00:07:48,626
+[SPEAKER_00]: Do you see that mark I made?
+
+114
+00:07:51,376 --> 00:07:54,821
+[SPEAKER_01]: Uh, no, I think I'm on... Oh, there, yes, I see it.
+
+115
+00:07:54,961 --> 00:07:55,201
+[SPEAKER_01]: Okay.
+
+116
+00:07:55,221 --> 00:07:56,002
+[SPEAKER_01]: That's where we were.
+
+117
+00:07:56,163 --> 00:07:59,227
+[SPEAKER_00]: So you guys were basically sailing directly south.
+
+118
+00:07:59,828 --> 00:08:00,088
+[SPEAKER_01]: Yeah.
+
+119
+00:08:00,509 --> 00:08:00,809
+[SPEAKER_00]: Right?
+
+120
+00:08:00,910 --> 00:08:01,470
+[SPEAKER_00]: Right, I see it.
+
+121
+00:08:01,611 --> 00:08:02,612
+[SPEAKER_00]: As you would expect.
+
+122
+00:08:04,335 --> 00:08:06,418
+[SPEAKER_00]: At this point, they're turning you this way.
+
+123
+00:08:08,278 --> 00:08:08,678
+[SPEAKER_01]: Gotcha.
+
+124
+00:08:09,418 --> 00:08:09,698
+[SPEAKER_00]: Right.
+
+125
+00:08:10,558 --> 00:08:17,320
+[SPEAKER_01]: I want to notice if there's any identifying flags on the ship and if I recognize them as Keoland.
+
+126
+00:08:17,780 --> 00:08:18,260
+[SPEAKER_00]: Oh, yeah.
+
+127
+00:08:18,360 --> 00:08:28,762
+[SPEAKER_00]: I mean, basically the ships have a red standard with a black lion on it up in the corner.
+
+128
+00:08:29,502 --> 00:08:36,083
+[SPEAKER_00]: But then the next standard underneath it is obviously the standard of the Duke of Gradsul.
+
+129
+00:08:39,419 --> 00:08:47,346
+[SPEAKER_00]: Now, Gradsul is a large town in Keoland.
+
+130
+00:08:47,426 --> 00:08:50,269
+[SPEAKER_00]: In fact, one of the larger ones that's up this way.
+
+131
+00:08:51,810 --> 00:08:54,653
+[SPEAKER_00]: And you could have gone there, but you haven't.
+
+132
+00:08:56,628 --> 00:09:08,126
+[SPEAKER_00]: So anyway, what happens is you're out there watching and it doesn't seem like, you know, it's obvious that the merchants and the crew are a little weirded out about what's happening.
+
+133
+00:09:09,327 --> 00:09:10,770
+[SPEAKER_00]: But they're not, I mean...
+
+134
+00:09:13,510 --> 00:09:20,236
+[SPEAKER_00]: It's like they're not freaked out about being killed, but they're just kind of wondering what's going on, right?
+
+135
+00:09:20,657 --> 00:09:20,897
+[SPEAKER_00]: Right.
+
+136
+00:09:21,638 --> 00:09:26,582
+[SPEAKER_01]: Anyway, Horace is out... And you said that we're being taken to Red Shore or Red Shore Island?
+
+137
+00:09:27,763 --> 00:09:28,243
+[SPEAKER_00]: Correct.
+
+138
+00:09:28,364 --> 00:09:30,105
+[SPEAKER_00]: Well, that's what Horace told you.
+
+139
+00:09:30,545 --> 00:09:36,671
+[SPEAKER_01]: That's what Horace... And didn't... Did I hear Horace correctly when he said that there was like...
+
+140
+00:09:37,307 --> 00:09:39,108
+[SPEAKER_01]: Present in this scene...
+
+141
+00:10:03,564 --> 00:10:11,168
+[SPEAKER_01]: Now, the Pomarge juts out as a peninsula almost directly north of us, right?
+
+142
+00:10:11,188 --> 00:10:13,690
+[SPEAKER_00]: I would say it's a little to the northeast, that direction.
+
+143
+00:10:13,710 --> 00:10:13,930
+[SPEAKER_00]: Northeast.
+
+144
+00:10:14,210 --> 00:10:15,571
+[SPEAKER_01]: Okay, okay, gotcha, gotcha.
+
+145
+00:10:16,632 --> 00:10:18,693
+[SPEAKER_01]: All right, I'll just cool my heels.
+
+146
+00:10:18,873 --> 00:10:31,260
+[SPEAKER_01]: I want to analyze if I can identify, without looking terribly suspicious, whoever the lieutenant or sergeant is in charge of the ten-man crew, which is kind of appraising.
+
+147
+00:10:32,052 --> 00:10:39,155
+[SPEAKER_00]: Okay, so you don't really see any marines, and you get the feeling that they are on the top part of the deck of the ship, right?
+
+148
+00:10:40,735 --> 00:10:53,340
+[SPEAKER_00]: And, um, not, you know, it seems like they're not a huge presence on the, well, I'm not going to say not a huge presence, but it seems like they could probably have put a lot more men on the ship, but have not.
+
+149
+00:10:54,521 --> 00:10:54,741
+[SPEAKER_00]: Right?
+
+150
+00:10:54,761 --> 00:10:55,301
+[SPEAKER_01]: Okay, right.
+
+151
+00:10:55,361 --> 00:10:57,342
+[SPEAKER_01]: Yeah, ten men to me seems pretty, uh...
+
+152
+00:10:59,104 --> 00:11:00,405
+[SPEAKER_00]: Well, I mean, the thing is...
+
+153
+00:11:00,425 --> 00:11:01,446
+[SPEAKER_01]: I mean, like, it's just basic.
+
+154
+00:11:01,766 --> 00:11:08,172
+[SPEAKER_00]: Right, the crew, the flute, is probably, your ship, is probably about 18 men, okay?
+
+155
+00:11:09,052 --> 00:11:11,254
+[SPEAKER_00]: So, 10 warriors is serious.
+
+156
+00:11:11,274 --> 00:11:12,115
+[SPEAKER_01]: More than enough.
+
+157
+00:11:12,135 --> 00:11:15,758
+[SPEAKER_00]: Yeah, more than enough to guide this merchant ship in, right?
+
+158
+00:11:16,219 --> 00:11:19,782
+[SPEAKER_00]: So, 18 men, the captain, there are maybe 10 people.
+
+159
+00:11:20,342 --> 00:11:24,526
+[SPEAKER_00]: So, all in all, maybe 30 people on this ship.
+
+160
+00:11:24,786 --> 00:11:26,928
+[SPEAKER_00]: But, you know, 10 marines.
+
+161
+00:11:29,075 --> 00:11:33,498
+[SPEAKER_00]: Horace comes back and he's got the fourth mate with him and basically Horace says
+
+162
+00:11:51,743 --> 00:11:53,304
+[SPEAKER_00]: This is John, the fourth mate.
+
+163
+00:11:53,344 --> 00:11:55,205
+[SPEAKER_00]: He agreed to come and talk to you.
+
+164
+00:11:55,606 --> 00:12:04,231
+[SPEAKER_00]: He's told me that the captain can't come down right now, but he intends to come and put the passengers at ease in a moment or two.
+
+165
+00:12:04,251 --> 00:12:05,572
+[SPEAKER_01]: Okay.
+
+166
+00:12:06,352 --> 00:12:11,015
+[SPEAKER_00]: So, the fourth mate goes, Excuse me, sir.
+
+167
+00:12:11,856 --> 00:12:20,321
+[SPEAKER_00]: Apparently, the Duke of Gradsul has decided to embargo and blockade Monmurg, and he is diverting all
+
+168
+00:12:23,134 --> 00:12:24,155
+[SPEAKER_00]: Towards Redshore.
+
+169
+00:12:26,616 --> 00:12:27,136
+[SPEAKER_01]: All shipping.
+
+170
+00:12:27,636 --> 00:12:32,619
+[SPEAKER_01]: Is he looking for any certain products or wares?
+
+171
+00:12:33,479 --> 00:12:35,981
+[SPEAKER_01]: Or is he embargling all things?
+
+172
+00:12:38,122 --> 00:12:46,086
+[SPEAKER_00]: My understanding is that the Duke of Gradsul has made it illegal to travel to Monmurg.
+
+173
+00:12:46,706 --> 00:12:48,387
+[SPEAKER_00]: And he's expect- Yes.
+
+174
+00:12:54,272 --> 00:13:01,137
+[SPEAKER_01]: All right, so I guess we'll find out other passage.
+
+175
+00:13:03,318 --> 00:13:06,500
+[SPEAKER_00]: Possibly, but it seems like we're on the brink of war here.
+
+176
+00:13:08,261 --> 00:13:11,123
+[SPEAKER_01]: Right, that's what I was thinking, short of a declaration of war.
+
+177
+00:13:14,145 --> 00:13:16,767
+[SPEAKER_01]: Right, well, you said your name was John.
+
+178
+00:13:17,247 --> 00:13:17,527
+[SPEAKER_00]: Yes.
+
+179
+00:13:17,547 --> 00:13:18,468
+[SPEAKER_01]: Thank you, John.
+
+180
+00:13:20,179 --> 00:13:30,164
+[SPEAKER_00]: Yes, the captain suggests that all passengers stay in their berthage until we get to Red Shore, and once there, we will get an official statement.
+
+181
+00:13:31,385 --> 00:13:31,785
+[SPEAKER_01]: Mm-hmm.
+
+182
+00:13:32,385 --> 00:13:38,368
+[SPEAKER_01]: Well, I mean, if we're this close to war, I can imagine that we'll have to disembark, I would imagine.
+
+183
+00:13:41,970 --> 00:13:43,671
+[SPEAKER_01]: Would the ship return to Scant?
+
+184
+00:13:47,753 --> 00:13:48,013
+[SPEAKER_00]: Well...
+
+185
+00:13:49,514 --> 00:13:50,595
+[SPEAKER_00]: That may be an option.
+
+186
+00:13:50,655 --> 00:13:55,918
+[SPEAKER_00]: However, we'd lose quite a bit of money if we weren't able to sell our wares in Monmurg.
+
+187
+00:13:56,938 --> 00:14:06,004
+[SPEAKER_01]: I wonder if Grasso's purchasing cargo at fair prices, I hope.
+
+188
+00:14:06,984 --> 00:14:08,325
+[SPEAKER_01]: This is none of your business, John.
+
+189
+00:14:08,345 --> 00:14:08,725
+[SPEAKER_01]: Thank you.
+
+190
+00:14:08,765 --> 00:14:09,366
+[SPEAKER_01]: Thank you so much.
+
+191
+00:14:09,426 --> 00:14:13,508
+[SPEAKER_01]: I mean, I appreciate you settling me in.
+
+192
+00:14:13,728 --> 00:14:18,091
+[SPEAKER_00]: Yes, the captain will come speak with you and the rest of the passengers in a moment.
+
+193
+00:14:19,280 --> 00:14:24,801
+[SPEAKER_00]: I think he's working out the occupation of marines, as for now.
+
+194
+00:14:25,961 --> 00:14:28,762
+[SPEAKER_01]: Alright, alright.
+
+195
+00:14:29,162 --> 00:14:32,323
+[SPEAKER_01]: Do you happen to know the names of the two warships that are escorting us?
+
+196
+00:14:34,183 --> 00:14:34,963
+[SPEAKER_00]: No sir, I don't.
+
+197
+00:14:35,743 --> 00:14:36,864
+[SPEAKER_01]: Okay, thank you.
+
+198
+00:14:39,904 --> 00:14:41,005
+[SPEAKER_01]: Okay.
+
+199
+00:14:41,425 --> 00:14:44,885
+[SPEAKER_01]: I just nod to them politely and bow my head.
+
+200
+00:14:45,385 --> 00:14:45,686
+[SPEAKER_00]: Okay.
+
+201
+00:14:46,466 --> 00:14:47,726
+[SPEAKER_00]: Do you want to go back into your room?
+
+202
+00:14:50,754 --> 00:14:58,319
+[SPEAKER_01]: So you just sit there and look outside, correct?
+
+203
+00:14:58,359 --> 00:15:00,080
+[SPEAKER_01]: Yeah, just catch some fresh air, yeah.
+
+204
+00:15:00,901 --> 00:15:06,104
+[SPEAKER_00]: Alright, so... Horace basically stands next to you and says...
+
+205
+00:15:08,126 --> 00:15:10,047
+[SPEAKER_00]: Yes, this seems strange to me.
+
+206
+00:15:12,168 --> 00:15:21,914
+[SPEAKER_01]: Well, so, I mean, like, he's going to ruin the merchants that have products on the ship if they're just seized.
+
+207
+00:15:21,954 --> 00:15:31,099
+[SPEAKER_01]: I mean, of course, if it's a prelude to war, then I suppose that makes sense that he's going to make an enemy of merchant shipping.
+
+208
+00:15:32,079 --> 00:15:37,863
+[SPEAKER_00]: I don't think that the... From what I heard, he's not seizing cargo.
+
+209
+00:15:40,133 --> 00:15:41,334
+[SPEAKER_01]: Even diverting cargo.
+
+210
+00:15:41,414 --> 00:15:50,301
+[SPEAKER_01]: I mean, like, I'm not a merchant, but I mean, you can't, like, you have certain wares that are destined for the Sea Princess or Monmurg.
+
+211
+00:15:50,721 --> 00:15:51,142
+[SPEAKER_00]: I agree.
+
+212
+00:15:51,422 --> 00:15:51,802
+[SPEAKER_00]: I mean...
+
+213
+00:15:52,282 --> 00:15:58,487
+[SPEAKER_01]: I can't imagine those are easily rerouted to another port.
+
+214
+00:15:58,747 --> 00:16:06,253
+[SPEAKER_00]: What I think is strange is that the Monmurgian Navy is not out here challenging this blockade.
+
+215
+00:16:07,917 --> 00:16:10,438
+[SPEAKER_00]: By all means, they're the more powerful force.
+
+216
+00:16:14,358 --> 00:16:15,599
+[SPEAKER_01]: I wonder if they even know.
+
+217
+00:16:16,559 --> 00:16:18,919
+[SPEAKER_01]: Do you think that the blockade has been going on for a while?
+
+218
+00:16:21,760 --> 00:16:22,200
+[SPEAKER_00]: I don't know.
+
+219
+00:16:22,240 --> 00:16:24,341
+[SPEAKER_00]: Maybe we're the first ship being escorted in.
+
+220
+00:16:25,741 --> 00:16:34,203
+[SPEAKER_01]: Uh, he could be seizing ships trying to build his navy, but then that would mean that he intends to fully seize the ship and pass it up to his service.
+
+221
+00:16:36,593 --> 00:16:43,977
+[SPEAKER_01]: Keoland hasn't mounted a naval force to attack the Sea Princes in... how long has it been?
+
+222
+00:16:43,997 --> 00:16:44,718
+[SPEAKER_01]: A decade?
+
+223
+00:16:45,078 --> 00:16:45,358
+[SPEAKER_01]: More?
+
+224
+00:16:45,978 --> 00:16:47,059
+[SPEAKER_00]: It's been more than that.
+
+225
+00:16:47,339 --> 00:16:52,662
+[SPEAKER_00]: From what I hear, maybe... what was it?
+
+226
+00:16:52,782 --> 00:16:57,745
+[SPEAKER_00]: 30 years ago, the Gradsul fleet checked the Sea Princes Navy.
+
+227
+00:17:01,690 --> 00:17:03,551
+[SPEAKER_01]: Is Gradsul, do you know much of him?
+
+228
+00:17:04,131 --> 00:17:07,132
+[SPEAKER_01]: Is he a force to be reckoned with in Keoland politics?
+
+229
+00:17:08,113 --> 00:17:12,715
+[SPEAKER_00]: From what I understand, the Duke of Gradsul is probably one of the most powerful lords in the land.
+
+230
+00:17:13,995 --> 00:17:19,958
+[SPEAKER_00]: Once thought to be possibly the inheritor of the Lion Throne.
+
+231
+00:17:23,620 --> 00:17:25,080
+[SPEAKER_00]: This seems like folly though.
+
+232
+00:17:25,140 --> 00:17:26,621
+[SPEAKER_00]: I see no benefit from it.
+
+233
+00:17:29,022 --> 00:17:30,983
+[SPEAKER_01]: It wouldn't be like a rogue.
+
+234
+00:17:37,625 --> 00:17:46,567
+[SPEAKER_00]: Well, I would say that that would be quite interesting if these two captains from Keoland took it upon themselves to escort this one ship.
+
+235
+00:17:46,607 --> 00:17:49,408
+[SPEAKER_01]: Eh, I mean, from what I understand it's...
+
+236
+00:18:02,756 --> 00:18:05,120
+[SPEAKER_00]: Decent stuff, food stuff, so on.
+
+237
+00:18:06,482 --> 00:18:16,899
+[SPEAKER_00]: Monmurg has quite an appetite for soft goods like sheep and cattle and so on.
+
+238
+00:18:19,882 --> 00:18:28,524
+[SPEAKER_00]: From what I understand, there aren't many farms in the Outer Islands, or in Monmurg itself, so they import much of their food from these other places.
+
+239
+00:18:29,104 --> 00:18:46,809
+[SPEAKER_00]: However, they trade with the dwarves from the Jotuns and others far afield, and they have more than enough goods to be able to make up for the simple stuff that Onwal and the Iron League can provide for them.
+
+240
+00:18:47,973 --> 00:18:48,893
+[SPEAKER_01]: Come here, Horace.
+
+241
+00:18:48,973 --> 00:18:49,894
+[SPEAKER_01]: Check with me.
+
+242
+00:18:50,054 --> 00:18:52,415
+[SPEAKER_01]: Let's see if you can check my variants on this.
+
+243
+00:18:53,655 --> 00:18:57,717
+[SPEAKER_01]: I move to the table and I move back into our cabin.
+
+244
+00:18:58,377 --> 00:19:01,759
+[SPEAKER_01]: I spread out, I clear the table, and I put down and I say like,
+
+245
+00:19:04,745 --> 00:19:07,125
+[SPEAKER_01]: You know, a plate or a cup.
+
+246
+00:19:07,966 --> 00:19:11,206
+[SPEAKER_01]: Keoland, specifically Gradsul, where we might go.
+
+247
+00:19:11,706 --> 00:19:17,447
+[SPEAKER_01]: And then I kind of just, you know, trace like a little bit, like with my dagger, you know, on the table, just lightly.
+
+248
+00:19:18,387 --> 00:19:21,728
+[SPEAKER_01]: The shoreline, or at least, you know, the close proximity to the shoreline.
+
+249
+00:19:22,248 --> 00:19:32,910
+[SPEAKER_01]: If we're brought here, and we're not able to get a ship into Monmurg, if we have to travel by land, that means we'll have to go through, is it Westgate or Westgard?
+
+250
+00:19:35,428 --> 00:19:48,726
+[SPEAKER_01]: But we'll have to travel through the rest of Keoland, cross their frontier border, and go through the town of... West.
+
+251
+00:19:48,806 --> 00:19:49,347
+[SPEAKER_01]: West Point?
+
+252
+00:19:51,216 --> 00:19:55,359
+[SPEAKER_00]: Okay, so you basically do your thing, right?
+
+253
+00:19:55,639 --> 00:19:56,260
+[SPEAKER_01]: Yeah, right.
+
+254
+00:19:56,280 --> 00:20:06,787
+[SPEAKER_01]: So I kind of sketched out this bay so that if we were to go down, we would have to work our way to the border on the edge of the Hu'u marches.
+
+255
+00:20:07,568 --> 00:20:12,191
+[SPEAKER_01]: And there is a town, you and I had talked about it last time, about...
+
+256
+00:20:13,545 --> 00:20:22,928
+[SPEAKER_01]: I mean, like, if we really can't, if the shipping blockade is pretty intense, and we don't want to run the blockade, I mean, I guess that would be the best way to do it, is just run the blockade.
+
+257
+00:20:22,968 --> 00:20:24,709
+[SPEAKER_01]: Otherwise, we've got weeks of travel.
+
+258
+00:20:25,189 --> 00:20:26,189
+[SPEAKER_01]: We've got weeks of travel.
+
+259
+00:20:26,529 --> 00:20:27,270
+[SPEAKER_00]: You say that to him?
+
+260
+00:20:27,810 --> 00:20:27,970
+[SPEAKER_01]: Yeah.
+
+261
+00:20:28,190 --> 00:20:29,971
+[SPEAKER_00]: He goes, undoubtedly.
+
+262
+00:20:30,011 --> 00:20:33,912
+[SPEAKER_00]: I mean, truthfully, from what I understand, Red Shore, as far as...
+
+263
+00:20:35,246 --> 00:20:40,189
+[SPEAKER_00]: A place, a port in Salinmoor is one of the better ones.
+
+264
+00:20:40,289 --> 00:20:51,976
+[SPEAKER_00]: I think the Earl of Redshore is kind of isolated from the other, the malaise that infects the rest of Salinmoor.
+
+265
+00:20:53,497 --> 00:20:58,540
+[SPEAKER_00]: It's an island, kind of a kingdom on its own, so there at least is safe.
+
+266
+00:20:59,360 --> 00:21:08,006
+[SPEAKER_00]: From what I understand, though, there's another town up the coast a bit called Salt Marsh, which is a backwater.
+
+267
+00:21:10,427 --> 00:21:15,011
+[SPEAKER_00]: Beyond that, however, I know not what lies there.
+
+268
+00:21:15,051 --> 00:21:18,113
+[SPEAKER_00]: The whole marshes are dangerous and wild.
+
+269
+00:21:19,494 --> 00:21:27,259
+[SPEAKER_00]: We would have to catch some kind of a ship that would trade, but... Or we could go to...
+
+270
+00:21:30,350 --> 00:21:32,771
+[SPEAKER_01]: We could take a ship to, is it Port Torvin?
+
+271
+00:21:33,451 --> 00:21:35,312
+[SPEAKER_01]: Is Port Torvin still within Keoland?
+
+272
+00:21:35,412 --> 00:21:39,033
+[SPEAKER_01]: I mean, passage there would be considered acceptable, wouldn't it?
+
+273
+00:21:39,253 --> 00:21:41,174
+[SPEAKER_00]: Port Torvin is not in Keoland.
+
+274
+00:21:41,274 --> 00:21:48,817
+[SPEAKER_00]: Port Torvin is in the Sea Principalities, but I think it might be easier to do than, say, into Monmurg itself.
+
+275
+00:21:50,497 --> 00:21:55,059
+[SPEAKER_01]: That would at least half our journey if we were able to go there.
+
+276
+00:21:55,159 --> 00:21:57,980
+[SPEAKER_01]: However, if it's war that we're looking at,
+
+277
+00:21:59,412 --> 00:22:01,253
+[SPEAKER_01]: I can't imagine that they would allow...
+
+278
+00:22:02,234 --> 00:22:08,018
+[SPEAKER_01]: I mean, it's much easier to cut off shipping from Port Torvin even more so than Monmurg.
+
+279
+00:22:09,620 --> 00:22:20,107
+[SPEAKER_01]: If we had come by way of Jetsam Island and traveled east of the Dragon Arrows, we would have probably avoided the blockade altogether.
+
+280
+00:22:21,668 --> 00:22:27,773
+[SPEAKER_00]: Truth... that's true, but from what I understand, the seas around Jetsam Island are dangerous and hard to go through.
+
+281
+00:22:30,580 --> 00:22:33,223
+[SPEAKER_00]: I mean, I think we could have... Well, what do you suggest?
+
+282
+00:22:33,263 --> 00:22:37,607
+[SPEAKER_01]: Do we just wait until we hit the Red Shore and ask around, or...?
+
+283
+00:22:59,754 --> 00:23:01,875
+[SPEAKER_01]: I've got to wait and talk to the captain, I guess.
+
+284
+00:23:02,595 --> 00:23:02,835
+[SPEAKER_00]: All right.
+
+285
+00:23:02,855 --> 00:23:06,437
+[SPEAKER_01]: Captain seems like he's... confident.
+
+286
+00:23:07,618 --> 00:23:17,042
+[SPEAKER_01]: But if he's... if he thinks we're going into some sort of, like, I don't want to be held until the end of a conflict between Keoland and Monmurg.
+
+287
+00:23:20,463 --> 00:23:22,224
+[SPEAKER_00]: Well, I suggest we wait.
+
+288
+00:23:22,984 --> 00:23:24,125
+[SPEAKER_01]: Yeah, I guess.
+
+289
+00:23:24,845 --> 00:23:25,145
+[SPEAKER_00]: Okay.
+
+290
+00:23:25,646 --> 00:23:28,147
+[SPEAKER_00]: So, you wait in your stateroom.
+
+291
+00:23:29,115 --> 00:23:30,296
+[SPEAKER_00]: And an hour goes by.
+
+292
+00:23:32,397 --> 00:23:35,538
+[SPEAKER_00]: And the captain finally comes down and knocks on the door.
+
+293
+00:23:36,719 --> 00:23:41,761
+[SPEAKER_00]: And basically says, gentlemen, I'm sorry for the occurrence.
+
+294
+00:23:44,503 --> 00:23:52,767
+[SPEAKER_00]: Apparently there is a state of war between the sea principalities and the kingdom of Keoland at this point in time.
+
+295
+00:23:54,568 --> 00:23:56,809
+[SPEAKER_00]: And the sea principalities have
+
+296
+00:23:58,941 --> 00:24:22,050
+[SPEAKER_00]: Been blockaded by the Kiyosh Navy and all supply ships are being rerouted to Red Shore Island for inspection and then release either to travel back home or if they would like to trade as it were in Red Shore.
+
+297
+00:24:25,971 --> 00:24:28,052
+[SPEAKER_01]: Have you spoken to the other merchants on the ship yet?
+
+298
+00:24:29,609 --> 00:24:31,050
+[SPEAKER_00]: Not all of them, but they'll know.
+
+299
+00:24:32,912 --> 00:24:35,954
+[SPEAKER_00]: And I'll get a consensus from them what they wish.
+
+300
+00:24:36,575 --> 00:24:41,139
+[SPEAKER_00]: Whether they wish me to drop them here where their car go, or take them back home.
+
+301
+00:24:42,320 --> 00:24:45,082
+[SPEAKER_01]: And you will be returning back to Scam?
+
+302
+00:24:46,263 --> 00:24:51,287
+[SPEAKER_00]: Well, it depends on what the consensus among the merchants is.
+
+303
+00:24:52,828 --> 00:24:54,089
+[SPEAKER_00]: There may be another option.
+
+304
+00:24:54,129 --> 00:24:57,893
+[SPEAKER_00]: We could be rerouted to Gradsul if we wish to trade there.
+
+305
+00:24:58,898 --> 00:25:03,181
+[SPEAKER_00]: However, there will be no ships traveling to Monmurg.
+
+306
+00:25:10,705 --> 00:25:13,327
+[SPEAKER_00]: Anyway, we'll be in Red Shore by this evening.
+
+307
+00:25:14,347 --> 00:25:14,888
+[SPEAKER_01]: Thank you Captain.
+
+308
+00:25:15,879 --> 00:25:17,260
+[SPEAKER_01]: Uh, I tried to get a read on it.
+
+309
+00:25:17,280 --> 00:25:21,102
+[SPEAKER_01]: Does he seem more self-assured than before?
+
+310
+00:25:21,162 --> 00:25:26,706
+[SPEAKER_01]: Like, that he understands the situation and he's maybe troubled but not worried?
+
+311
+00:25:26,906 --> 00:25:33,069
+[SPEAKER_00]: He seems troubled, he seems nervous, but it's not like, he's like, oh my god, they're gonna kill us or anything like that.
+
+312
+00:25:33,189 --> 00:25:33,390
+[SPEAKER_01]: Right.
+
+313
+00:25:33,430 --> 00:25:37,572
+[SPEAKER_01]: Yeah, we're not getting pressed into, you know, the Keolish maybe.
+
+314
+00:25:37,912 --> 00:25:38,453
+[SPEAKER_00]: Exactly.
+
+315
+00:25:38,953 --> 00:25:39,473
+[SPEAKER_00]: Exactly.
+
+316
+00:25:41,875 --> 00:25:42,035
+[SPEAKER_01]: Okay.
+
+317
+00:25:42,055 --> 00:25:44,176
+[SPEAKER_01]: We're not getting Shangri-La.
+
+318
+00:25:45,760 --> 00:25:51,003
+[SPEAKER_01]: Alright, I don't want to blow up two frigates.
+
+319
+00:25:55,485 --> 00:26:00,988
+[SPEAKER_01]: Alright, I just cuss, and then I open up a bottle of wine, and a cup to the forest.
+
+320
+00:26:01,609 --> 00:26:12,034
+[SPEAKER_01]: Okay, so you guys basically spend the day... Yep, I don't think that, uh, I don't think this phone line is going to make it to the South.
+
+321
+00:26:12,054 --> 00:26:13,195
+[SPEAKER_00]: Okay, I can barely hear you.
+
+322
+00:26:13,215 --> 00:26:15,616
+[SPEAKER_01]: I said you might as well have some time.
+
+323
+00:26:17,653 --> 00:26:19,094
+[SPEAKER_00]: Okay, he says, alright.
+
+324
+00:26:21,574 --> 00:26:24,816
+[SPEAKER_01]: But don't get drunk.
+
+325
+00:26:26,576 --> 00:26:26,876
+[SPEAKER_00]: Okay.
+
+326
+00:26:27,977 --> 00:26:29,337
+[SPEAKER_00]: So anyway, the day goes by.
+
+327
+00:26:31,758 --> 00:26:39,981
+[SPEAKER_00]: And by evening, you find yourself coming into a bay.
+
+328
+00:26:40,461 --> 00:26:42,242
+[SPEAKER_00]: It's actually not a bay, it's a channel.
+
+329
+00:26:43,632 --> 00:26:49,337
+[SPEAKER_00]: Between Red Shore and what you assume is the Salmonmoor coast, this place right here.
+
+330
+00:26:50,078 --> 00:26:50,439
+[SPEAKER_00]: Okay?
+
+331
+00:26:53,241 --> 00:26:54,843
+[SPEAKER_00]: Yeah.
+
+332
+00:26:54,863 --> 00:27:00,368
+[SPEAKER_00]: And actually, as you start coming in, um...
+
+333
+00:27:04,630 --> 00:27:10,192
+[SPEAKER_00]: You know, basically, you hear the captain saying, we're going to be, you know, doing our thing.
+
+334
+00:27:10,652 --> 00:27:15,233
+[SPEAKER_00]: Basically, you come into this channel, you're not really seeing this here in the stateroom, right?
+
+335
+00:27:15,893 --> 00:27:19,114
+[SPEAKER_01]: Of course, no, no, I'll step out as we're going to get a good look.
+
+336
+00:27:19,274 --> 00:27:27,176
+[SPEAKER_00]: Alright, so you step out, and actually, in this channel, there are probably 40 ships.
+
+337
+00:27:29,616 --> 00:27:32,317
+[SPEAKER_00]: That are just basically sitting there, anchored off.
+
+338
+00:27:33,723 --> 00:27:34,043
+[SPEAKER_00]: Right?
+
+339
+00:27:35,104 --> 00:27:39,848
+[SPEAKER_00]: And, um, you know, you and Horace are looking at Red Shore.
+
+340
+00:27:41,509 --> 00:27:43,571
+[SPEAKER_00]: And Horace says, my God!
+
+341
+00:27:44,712 --> 00:27:45,913
+[SPEAKER_00]: There's no Morage here!
+
+342
+00:27:47,915 --> 00:27:49,996
+[SPEAKER_00]: It would take a month to unload the ships here.
+
+343
+00:27:51,258 --> 00:27:51,798
+[SPEAKER_00]: This many.
+
+344
+00:27:51,818 --> 00:27:56,162
+[SPEAKER_01]: I just look around.
+
+345
+00:27:57,082 --> 00:28:00,285
+[SPEAKER_01]: Not that much for loading and unloading.
+
+346
+00:28:01,370 --> 00:28:09,858
+[SPEAKER_01]: Okay, so basically what happens is the captain is... Is it, do I see pennants from states all around me as you're speaking?
+
+347
+00:28:09,978 --> 00:28:23,191
+[SPEAKER_00]: Oh yeah, I mean you see pennants from, you know, from as far down as the Lindron Island or the, what are they called?
+
+348
+00:28:26,143 --> 00:28:33,507
+[SPEAKER_00]: Lindorf Isles and then there are some other flags and pennants from lands you've never seen before.
+
+349
+00:28:33,928 --> 00:28:40,431
+[SPEAKER_00]: With modes of ships and ships that look very different from the ones you're used to.
+
+350
+00:28:40,771 --> 00:28:41,112
+[SPEAKER_00]: Even though
+
+351
+00:28:42,292 --> 00:28:58,540
+[SPEAKER_00]: Really not, because you see these kind of ships come in to Monmurg, and you have in the past, and basically you understand they come from southern lands, outside the Azur Sea into the Olmen Islands and southward into the larger seas beyond.
+
+352
+00:28:59,381 --> 00:29:01,062
+[SPEAKER_00]: Larger oceans beyond, right?
+
+353
+00:29:01,807 --> 00:29:02,027
+[SPEAKER_01]: Yeah.
+
+354
+00:29:02,407 --> 00:29:09,090
+[SPEAKER_01]: So, I'm curious, and I look myself, but I ask Horace if I can't see it, anything clearly.
+
+355
+00:29:09,710 --> 00:29:12,192
+[SPEAKER_01]: Are these ships, like, I mean, like, why does nobody rock?
+
+356
+00:29:12,252 --> 00:29:16,874
+[SPEAKER_01]: Like, did we pass a picket line of Keo-ish warships?
+
+357
+00:29:19,775 --> 00:29:22,116
+[SPEAKER_00]: Okay, well, anyway, he goes, I have no idea.
+
+358
+00:29:22,136 --> 00:29:26,878
+[SPEAKER_01]: Why does nobody...
+
+359
+00:29:28,717 --> 00:29:31,558
+[SPEAKER_00]: You mean, why does nobody try to break the blockade?
+
+360
+00:29:32,438 --> 00:29:35,419
+[SPEAKER_01]: Yeah, I mean, we're quicker.
+
+361
+00:29:35,439 --> 00:29:36,440
+[SPEAKER_01]: I mean, we were quicker.
+
+362
+00:29:37,920 --> 00:29:45,622
+[SPEAKER_00]: Tis true, we were quicker, but the truth is that most of these ships, including our own, we have quite a bit of cargo.
+
+363
+00:29:46,963 --> 00:29:49,864
+[SPEAKER_00]: And it slows us down quite a bit.
+
+364
+00:29:49,924 --> 00:29:56,426
+[SPEAKER_00]: I mean, in truth, I think we have a nod or two on these man-at-wars, but...
+
+365
+00:29:57,792 --> 00:30:00,173
+[SPEAKER_00]: The question is, why risk it?
+
+366
+00:30:04,054 --> 00:30:16,398
+[SPEAKER_00]: Anyway, it seems to me that there are a few traders here that have probably journeyed more than six months to be here, and it will be a big blow if they are to turn around and go home right now.
+
+367
+00:30:29,052 --> 00:30:39,718
+[SPEAKER_01]: If I happen to catch the captain's eye while we're out on deck watching all of this and while he's probably stressed out about trying to figure out where, like I said, the barge, where we're going to go.
+
+368
+00:30:39,938 --> 00:30:56,587
+[SPEAKER_00]: Well, what happens is he does turn the boat into the, towards the island, but does not get a dock and actually is forced to stop the boat probably a hundred feet from the shore and drop anchor there, right?
+
+369
+00:30:58,053 --> 00:31:03,819
+[SPEAKER_00]: And then the Marines, you know, basically, you know, are talking to him.
+
+370
+00:31:04,761 --> 00:31:11,007
+[SPEAKER_00]: And the captain goes along and says, excuse me, excuse me, I have an announcement to make.
+
+371
+00:31:11,668 --> 00:31:13,250
+[SPEAKER_00]: Please, come out on deck, everyone.
+
+372
+00:31:16,335 --> 00:31:20,937
+[SPEAKER_01]: We shuffle, you know, towards the railing to make a little bit of room if we need to.
+
+373
+00:31:21,057 --> 00:31:23,758
+[SPEAKER_00]: Yeah, you and everybody else shuffle off.
+
+374
+00:31:25,839 --> 00:31:27,640
+[SPEAKER_00]: And the captain says, um...
+
+375
+00:31:30,741 --> 00:31:35,483
+[SPEAKER_00]: So, I know this is a disappointment, but we will not be making the journey to Monmurg now.
+
+376
+00:31:36,764 --> 00:31:46,088
+[SPEAKER_00]: We've been given a decision to make, and I will let the sergeant here make the announcement for you, and then we can decide what to do as a group.
+
+377
+00:31:47,253 --> 00:31:55,238
+[SPEAKER_00]: Those of you who do not wish to stay with the ship can talk to the sergeant.
+
+378
+00:31:55,278 --> 00:31:58,940
+[SPEAKER_00]: If you wish to disembark in Red Shore, you can go about your way.
+
+379
+00:32:00,201 --> 00:32:02,463
+[SPEAKER_00]: Sergeant, please take over.
+
+380
+00:32:03,263 --> 00:32:10,628
+[SPEAKER_00]: So the sergeant gets up there and he says, You are guests of the Earl of Red Shore.
+
+381
+00:32:14,813 --> 00:32:31,306
+[SPEAKER_00]: Travel to Monmurg has been restricted at this point because there is a state of war between the Duke of Gradsul, Keoland, and the Sea Principalities at this point.
+
+382
+00:32:33,528 --> 00:32:34,149
+[SPEAKER_00]: In truth,
+
+383
+00:32:36,586 --> 00:32:46,391
+[SPEAKER_00]: There will be no supplies going to the city of Monmurg until they surrender and Prince Jeon signs a peace treaty with the Duke of Gradsul.
+
+384
+00:32:49,413 --> 00:32:50,594
+[SPEAKER_01]: Okay, to the DM.
+
+385
+00:32:51,854 --> 00:33:01,620
+[SPEAKER_01]: Is my status, like diplomatic status that I kind of somewhat requested and you said that, you know, Lord Anlauf Ogmotton was desperate, is it formal?
+
+386
+00:33:03,621 --> 00:33:05,702
+[SPEAKER_00]: Well, I mean, you could try that.
+
+387
+00:33:06,832 --> 00:33:13,914
+[SPEAKER_01]: Well, I mean, if I don't even have letters of introduction or something stating that, then... You are the letter of introduction.
+
+388
+00:33:13,974 --> 00:33:20,796
+[SPEAKER_00]: I think that the whole deal would be that you go to Jamis and talk to him and say what the deal is, right?
+
+389
+00:33:22,636 --> 00:33:24,137
+[SPEAKER_01]: Right, that's provided I get there.
+
+390
+00:33:24,197 --> 00:33:35,760
+[SPEAKER_01]: I'm just wondering if I can't, if I can pull any kind of, like, diplomatic envoy, you know, free passage, even during times of war kind of card.
+
+391
+00:33:36,393 --> 00:33:38,634
+[SPEAKER_00]: You could try, I mean, if you want to.
+
+392
+00:33:39,354 --> 00:33:40,555
+[SPEAKER_01]: Well, but that's why I was asking.
+
+393
+00:33:40,575 --> 00:33:44,516
+[SPEAKER_01]: Do I have anything to back that up, or am I just like a dude in nice clothing?
+
+394
+00:33:46,737 --> 00:33:55,501
+[SPEAKER_00]: I mean, I don't think that Anlauf Ogmotton really gave you anything that showed, hey, this is an official guy.
+
+395
+00:33:55,861 --> 00:33:57,202
+[SPEAKER_00]: But even if you had that...
+
+396
+00:33:58,115 --> 00:34:01,578
+[SPEAKER_00]: You know, how would that be recognized right here?
+
+397
+00:34:01,718 --> 00:34:06,322
+[SPEAKER_00]: Because the D was kind of a fallen country and all this other stuff, right?
+
+398
+00:34:06,742 --> 00:34:12,687
+[SPEAKER_00]: But I mean, if you want to make a case to somebody, it's not like you're a schlub, right?
+
+399
+00:34:13,187 --> 00:34:14,148
+[SPEAKER_00]: You do have stuff.
+
+400
+00:34:18,091 --> 00:34:18,431
+[SPEAKER_01]: Alright.
+
+401
+00:34:20,313 --> 00:34:21,794
+[SPEAKER_01]: Do I have...
+
+402
+00:34:21,974 --> 00:34:22,454
+[SPEAKER_01]: I don't know.
+
+403
+00:34:22,474 --> 00:34:27,776
+[SPEAKER_01]: Well, okay, during times of war, at least I've served at least over in a D during the last year.
+
+404
+00:34:28,356 --> 00:34:31,477
+[SPEAKER_01]: Not served, but, you know, at least been in a war zone.
+
+405
+00:34:33,138 --> 00:34:38,300
+[SPEAKER_01]: Are diplomats accorded any kind of, like, you know, rights to travel through?
+
+406
+00:34:38,400 --> 00:34:40,061
+[SPEAKER_01]: In other words, like... Oh yeah, they are.
+
+407
+00:34:40,441 --> 00:34:41,361
+[SPEAKER_00]: I mean, absolutely.
+
+408
+00:34:41,681 --> 00:34:42,241
+[SPEAKER_00]: Absolutely.
+
+409
+00:34:42,982 --> 00:34:43,102
+Okay.
+
+410
+00:34:43,582 --> 00:34:43,822
+[SPEAKER_00]: Right.
+
+411
+00:34:45,169 --> 00:34:46,970
+[SPEAKER_01]: Alright.
+
+412
+00:34:48,071 --> 00:34:49,972
+[SPEAKER_01]: Is it a sergeant or is it a lieutenant in charge?
+
+413
+00:34:50,493 --> 00:34:51,594
+[SPEAKER_00]: Sergeant in charge.
+
+414
+00:34:52,294 --> 00:34:58,378
+[SPEAKER_00]: So anyway, he basically says if you want to disembark, come see me and we can get you passage to the shore.
+
+415
+00:34:58,398 --> 00:35:01,280
+[SPEAKER_00]: Okay.
+
+416
+00:35:01,841 --> 00:35:04,402
+[SPEAKER_01]: I'll stand in line to talk to the sergeant.
+
+417
+00:35:04,983 --> 00:35:05,223
+[SPEAKER_00]: Okay.
+
+418
+00:35:05,864 --> 00:35:07,305
+[SPEAKER_00]: We are about to lose the session.
+
+419
+00:35:08,203 --> 00:35:11,044
+[SPEAKER_00]: I'm going to generate another one and send you a link, alright?
+
+420
+00:35:11,685 --> 00:35:14,906
+[SPEAKER_01]: Okay, now you send it like you did in Rule 20, correct?
+
+421
+00:35:15,306 --> 00:35:15,586
+[SPEAKER_00]: Mm-hmm.
+
+422
+00:35:16,306 --> 00:35:16,587
+[SPEAKER_01]: Okay.
+
+423
+00:35:16,627 --> 00:35:17,647
+[SPEAKER_00]: Do you want me to do that again?
+
+424
+00:35:17,667 --> 00:35:23,109
+[SPEAKER_01]: Yeah, you can do that again and I'll just click on it and I think that's kind of how I got to it last time.
+
+425
+00:35:23,890 --> 00:35:24,810
+[SPEAKER_00]: Alright, we'll do that.
+
+426
+00:35:24,830 --> 00:35:25,790
+[SPEAKER_00]: Alright.
+
+427
+00:35:26,031 --> 00:35:26,851
+[SPEAKER_00]: Give me five minutes.
+

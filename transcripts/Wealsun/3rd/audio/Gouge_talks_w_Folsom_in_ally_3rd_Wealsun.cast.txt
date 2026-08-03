@@ -1,0 +1,5 @@
+# Cast for Gouge_talks_w_Folsom_in_ally_3rd_Wealsun
+# Expected voices: 3
+DM
+Folsom
+Gouge

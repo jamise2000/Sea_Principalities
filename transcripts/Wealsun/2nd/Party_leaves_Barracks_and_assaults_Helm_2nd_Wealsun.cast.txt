@@ -1,0 +1,10 @@
+# Cast for Party_leaves_Barracks_and_assaults_Helm_2nd_Wealsun
+# Expected voices: 7 (DM, Gouge, Paul, Jude, Tyrus, Folsom, Merrick). This is a long, dense infiltration sequence; several tags needed correcting from the previous guess, which had Tyrus/Gouge swapped with SPEAKER_05/06 and missed that SPEAKER_03 is shared between Folsom and Jude.
+SPEAKER_00: Paul (confirmed — calls out his own investigation roll "22" on the ship; later "I took off the silver mask I have on", his established signature item)
+SPEAKER_01: DM (second split, alongside SPEAKER_04 — heavy narration and dice-resolution throughout, with some short player replies merged in)
+SPEAKER_02: Merrick (confirmed — "I want to stay on the edge of the palm tree forest, but enough where I can see the coastline", an exact match to his cleaned line)
+SPEAKER_03A: Folsom — confirmed via "I'd be, like, second to last", matching his cleaned line; also searches and comments on the assassinated guard's loot, including the memento-mori coin ("all life is fleeting"), and takes point/guard positions later in the scene. (One line in this block, "All right, so Gouge, you look into the room", is DM narration bled into the tag, not Folsom himself.)
+SPEAKER_03B: Jude — confirmed via "I levitate his ass" and "I cast Levitate" follow-through, matching his Levitate-casting signature; also readies and casts Darkness ("The spell is darkness... I can cast Darkness, and as long as we stay within the sphere..."); handles the extended tactical/investigative analysis of the smuggler ship and organizes the rope-assisted wall climb
+SPEAKER_04: DM (primary, dominant narrator)
+SPEAKER_05: Gouge (confirmed — his athletics roll to climb the wall, "13 plus 20", matching cleaned's "GOUGE: I'll go up first... Roll athletics. Thirteen"; later the assassination kill explicitly using a cutlass, his established weapon)
+SPEAKER_06: Tyrus (confirmed — "I'm the biggest dude here", matching his established great size; later disposes of the body Gouge killed, consistent with his strength)

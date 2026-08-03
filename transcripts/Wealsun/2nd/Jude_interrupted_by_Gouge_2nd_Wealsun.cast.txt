@@ -1,0 +1,6 @@
+# Cast for Jude_interrupted_by_Gouge_2nd_Wealsun
+# Expected voices: 4
+SPEAKER_00: DM
+SPEAKER_01: Jude
+SPEAKER_02: Gouge
+SPEAKER_03: Paul

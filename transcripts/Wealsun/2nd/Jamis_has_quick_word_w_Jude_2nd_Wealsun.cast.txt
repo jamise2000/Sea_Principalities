@@ -1,0 +1,4 @@
+# Cast for Jamis_has_quick_word_w_Jude_2nd_Wealsun
+# Expected voices: 2
+SPEAKER_00: DM
+SPEAKER_01: Jude

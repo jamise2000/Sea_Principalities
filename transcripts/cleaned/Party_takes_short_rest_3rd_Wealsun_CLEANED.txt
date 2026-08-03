@@ -1,0 +1,439 @@
+[Speaker Key: DM = Dungeon Master (narration, rules calls) | PAUL = Paul Rivera's player | GOUGE = Gouge's player | TYRUS = Tyrus's player | JUDE = Jude's player | MERRICK = Merrick's player | FOLSOM = Folsom's player. NOTE: This is an extended party strategy debate following the battle with the Sahaugin, with rapid, overlapping cross-talk. Many lines are reconstructed by best inference from context and are not always attributable to a specific named character with full certainty.]
+
+DM: Okay, morning of the third of Wealsun, after the battle with the Sahaugin, after Tyrus threw the solution into the smugglers' caves of Helm Island, the party sits on the docks, recovering. Do you want to check your status? Do you want to talk strategy?
+
+PAUL: Can you really heal? I'm pretty banged up, but I'm okay — I need to rest.
+
+TYRUS: I'll run up and check — can we see if any ship is coming or leaving? Anything from the docks, or our corsair?
+
+PAUL: No — I'd like to count how many barrels we got.
+
+DM: So Paul goes up and counts the barrels — there are twenty-five.
+
+PAUL: Twenty-five.
+
+GOUGE: You should have a whole barrel of red eye. [drinking] I'm going to check if I packed my drinking flask. Does anyone want to check out these tents?
+
+TYRUS: Sure, I'll check the tents.
+
+DM: To cut to the chase — the tents are obviously a staging area, with weapons and armor matching what the hobgoblins are using — clearly where they geared up before deploying. We've got to get ready in case that ship comes back, because if they're trying to retrieve everything and there are twenty-five more barrels here, we don't have time to fully rest.
+
+GOUGE: The ship's going to come back, and we have to take it when it does.
+
+TYRUS: Do you want to station up here, start a short rest near the ballista?
+
+PAUL: Can we move the barrels up there — march them up?
+
+JUDE: I don't think we have time for that — if we see the ship coming, we need to get to the barrels before they do. What we should do is reload this thing, have an archer up here, and if the ship comes with a bunch of armed men, we cover the barrels from up top.
+
+TYRUS: We should move the barrels up here.
+
+DM: You could do that.
+
+PAUL: How far up can we go and still see the ship coming in? Can the ballista cover the entrance from up here?
+
+DM: Oh yeah, absolutely — the ballista's positioned to cover the docks and the entrance.
+
+GOUGE: We've got to pull these bodies out of the way and throw them in a tent or something.
+
+DM: It doesn't really matter visually — they're going to see the dead hobgoblins floating regardless when they come in, unless the cave's dark enough to mask it against the daylight outside.
+
+TYRUS: I'm less worried about the bodies. If we get overwhelmed, we need to secure the barrels first — moving them up here at least lets us do that quickly.
+
+JUDE: Get the ballista loaded, have some of us on the landing, some up here. If we can take that ship when it comes in, we might be able to seize it outright.
+
+PAUL: Well, fuck it — we don't have Lord Fairwind anymore. Do we burn the bridge we came in on?
+
+TYRUS: I think we can hold this from here.
+
+JUDE: Without Fairwind, we could spend some time searching, maybe thirty minutes.
+
+TYRUS: If we don't have Fairwind, we could take all the barrels, destroy what we can, work our way out, and still try to find and release Fairwind's locked-up troops — he told us roughly where they were held, just unarmed. We'd have to kill the interior guards, but we could still take the island, and hold it with twenty-five barrels against the Sahaugin, since the Toli aren't ready to storm it yet.
+
+JUDE: I want to go back to that idea — we could secure this island and hold it for fifty days, easy.
+
+PAUL: The whole island? We've barely cleared this part.
+
+TYRUS: No, but Fairwind himself said one barrel does the job — we probably overdid it right here in this cove, but we could stretch that supply across roughly two months if we ration it, especially if we can signal Monmurg for reinforcements.
+
+PAUL: So — can the party actually do this right now? How many spells does everyone have left?
+
+JUDE: I need to rest, replenish spells.
+
+PAUL: Some of us recover that way, some don't.
+
+JUDE: I've only got first-level spells once, one second-level, plus cantrips. I'll use my last bit here.
+
+TYRUS: How wounded is everyone?
+
+MERRICK: I'm okay — fifteen out of, what, twenty?
+
+FOLSOM: I'm fine too.
+
+MERRICK: I'm at nine hit points.
+
+TYRUS: So why don't we — I need to rest. Especially if Cain Toli's out there with the Sea Ghost, we won't be able to do much unless we know what we're up against. Roughly three hundred guys total, counting outside and inside garrisons.
+
+PAUL: What about the Marines? There's a hundred fifty outside, minus the twenty we've already accounted for. Fairwind said he didn't want them harmed — they just need to get to the armory.
+
+TYRUS: Let's burn that bridge, get the barrels back up top, and bring Fairwind's outer garrison over to our side.
+
+JUDE: They didn't know about his treachery — same as how the outer garrison already listened to us, since they know he's a representative of Prince Jeon.
+
+PAUL: But what's the difference between those guys and Fairwind's men in the castle?
+
+TYRUS: No, he had them locked up — but I don't think he had them in on his scheme. You heard how arrogant he was; he didn't loop his own troopers in. Otherwise we'd have had to fight through them, or they wouldn't have been locked up at all.
+
+PAUL: That's true. I think we can release them since the outer hundred fifty already saw us demonstrate openly. We can talk to them first.
+
+TYRUS: And if we take the lighthouses, we can signal Monmurg.
+
+JUDE: He said he kept them in their barracks, basically — not jail cells. He wanted them safe, but unarmed. So a few guards on duty might've been killed, but the bulk of the interior garrison is just behind locked doors.
+
+PAUL: I'd buy that — if he was under duress and said, "We'll leave your people alone, just give us the barrels," that's a deal he could make. That's what I think he was doing.
+
+TYRUS: No, no — he was in cahoots with them. He's guilty. So why were his own guys locked up then?
+
+PAUL: What exactly did I hear, when I scouted with my homunculus? They were talking about splitting the goods.
+
+DM: [aside] So you're coming up with the specifics here, since, of course, you can fill in whatever details make sense — that's part of the game, Paul telling the truth as he understood it, though he is a noble, so who knows the full picture. Based on what I wrote for you earlier: basically, Fairwind said the Toli could take the rest of the barrels away, on the condition that no one finds out he's part of this. The Toli responded along the lines of, "We noticed you already took most of it for yourself, but fine, good on you — we just don't want Monmurg to have any of it."
+
+PAUL: So Fairwind was setting it up to blame someone else, while still being part of it.
+
+TYRUS: Definitely. And if both the Toli and Fairwind are involved, there's basically a coalition against Monmurg forming. Like Fairwind said in that conversation — these are all princes, co-equal in this nation, and there's always some friction between them. But this crosses a line, because it's letting the Sahaugin run loose to screw over Monmurg specifically. The whole reason this nation exists is because the Toli, the outer islands, and the Duke of Berghof all united to defeat the Sahaugin a hundred fifty years ago.
+
+PAUL: So this is an old, ongoing conflict.
+
+TYRUS: Right — but clearly Fairwind didn't want to show his hand fully; he wanted it to look like a conflict between the Toli and Monmurg, with Monmurg losing, but without revealing that he was personally dealing with the Toli, or which side he was truly on. That's why his men got locked down rather than informed — though a few of his personal guard clearly do know, the ones Gouge's group dealt with.
+
+JUDE: So you wouldn't be surprised if Fairwind tried to play the victim — "I thought I was getting the lion's share, but the Toli took everything" — even though he took plenty himself. That probably wouldn't fully convince Jeon, but it might plant enough doubt about who his real allies are.
+
+TYRUS: This is concerning, though — Fairwind, someone from the outer islands who normally sides with Jeon, making a power play like this. Big time.
+
+DM: And when you came into the room after listening in, he was trying to act like a prisoner.
+
+PAUL: Right.
+
+DM: Okay, so on resting — you get three short rests a day, using your hit dice to heal, and then you need a long rest. Every short rest you can spend one, two, or three of those dice. If you use all three, you're out until a long rest.
+
+TYRUS: Gotcha — so at higher levels you can chain a lot of those together throughout a day, then crash hard at the end.
+
+DM: Exactly — and Folsom's Song of Rest applies on every short rest too, adding extra healing.
+
+FOLSOM: That's definitely something I want to use.
+
+DM: How long is a short rest? One hour.
+
+TYRUS: I think, given we're worried about whether Fairwind's still alive and might reach his troops first, we can't afford to fully rest yet. We're not ready for combat, though — if we can free a hundred fifty guys, kill some hobgoblins, and get them to the armory, that changes things, but we might lose the initiative if we wait.
+
+JUDE: I can keep going.
+
+PAUL: You sure?
+
+JUDE: Yeah — I'm a little roughed up, but not too bad. We've got to go try to find Fairwind before he reaches his men.
+
+TYRUS: I'd like to think he's dead, but if he's not, the only direction he can realistically go is out — the tide's going out, that's why I wanted to pull that giant shark in, see if there's anything useful, but the forty-footer's a separate matter.
+
+JUDE: Look, we can still try — it's floating. Here's the question: are you willing to leave the barrels undefended, or guarded by just one or two of us?
+
+TYRUS: I think we split up.
+
+PAUL: Are these moved up already? Folsom and I have been hauling barrels this whole time.
+
+FOLSOM: It was a hard workout — I need a short rest, just an hour.
+
+MERRICK: Merrick's fine, he knows the island — I can go with him.
+
+JUDE: We've got to reach the captive troops, but I don't know how easily we can get through. We're talking maybe twelve guards outside wherever Fairwind's men are held.
+
+TYRUS: He didn't say twelve specifically, just that they were guarded — two squads of hobgoblins, by his account, so maybe forty total.
+
+JUDE: Look, even if we haul back there, he said there were multiple ways in — we'd have to figure out which passage leads where.
+
+TYRUS: I don't like it, and yes, it puts us all close to death — but if Fairwind's troops end up turned against us, his best move is to kill us all so there's no one left to contradict his story. That's what we're up against.
+
+PAUL: So if we take an hour's rest, where's he going to be by then? If he made it outside, he could reach the beach and talk to his own outer troops, claim we're the traitors.
+
+TYRUS: If he made it inside instead, he'd be talking to his demonstrating troops out front — but that area's full of hobgoblins right now.
+
+JUDE: Remember, his outer hundred fifty troops were already building something — we don't even know what they were doing, just that he sent some out as a distraction.
+
+TYRUS: We can speculate all day, but here's the thing — if he reaches that outer beach, he'll have roughly a hundred fifty troops he can re-command. If he goes inside instead, there's a similar number of his men there, plus the hobgoblins.
+
+PAUL: How do we know the hobgoblins would even follow him if his cover's blown?
+
+TYRUS: Screw the hobgoblins — maybe he has them killed, since the game's up for the Toli connection too. The problem is, we're part of "the gig" now too — he could kill us in seconds if it comes to that.
+
+JUDE: What if a whole enemy ship comes back through here while we're split up?
+
+TYRUS: We're fine, we're fine.
+
+JUDE: With two of us guarding the barrels and the rest of us elsewhere, we're not fine — we're all still exposed if a ship full of reinforcements shows up.
+
+TYRUS: Look, everything depends on timing here.
+
+JUDE: I'm not saying yes to every plan floated, but here's what I'd suggest — some of us go up top by the ballista, and the rest focus on controlling Fairwind's men while watching for him directly.
+
+TYRUS: Let's look in the shark's belly — if there's no Fairwind inside, we know we still have to go find him elsewhere.
+
+JUDE: Okay, so who's resting and who's hauling barrels right now? We already moved all the barrels.
+
+DM: You already did — that took about thirty minutes.
+
+TYRUS: Another thirty and we're committed either way — we've got to go in, we've spent thirty minutes just talking while the barrels got moved.
+
+PAUL: We're going — unless someone disagrees? Then post someone awake by the ballista who isn't napping. Since all the Sahaugin in this immediate area are dead, can we go back to where we lost Fairwind and check for secret passages or exits we might have missed?
+
+TYRUS: Sure, but that takes time too. I'm saying, take command of his men now, before the hobgoblins regroup.
+
+JUDE: The problem with controlling his men is, are we sure we're not just walking into more hobgoblins?
+
+TYRUS: I get that — but unless we're sneaking out entirely, if he's already dead, this is all academic, and we could afford to wait days, no big deal. The real problem is we have no way off this island. Fairwind knows exactly who each of us are — if he survives, reaches the beach, gets past the hobgoblins, and talks to his men, he could frame this however he wants, and by the time he's done that, we'd represent a bigger threat to him than the hobgoblins ever were. He'd want us found and killed.
+
+PAUL: Even if we're near death anyway, he might not care — as long as he secures the remaining barrels and gets away clean, he wins regardless.
+
+TYRUS: He's already planning to have a quiet word with Lord Jamis about all this when he gets back — he's not that worried about us specifically, since we still have no way off the island.
+
+JUDE: What's Tyrus's general read on the political situation here?
+
+TYRUS: I know enough — he's already holding most of the cards, and honestly he's in an even better position than before, since we don't know what happens if we rest and he comes after us with everything he's got. He doesn't need to kill us all personally — he knows we're representatives of Lord Jamis and Jeon's family.
+
+PAUL: I sent my homunculus into that room — he was making a deal with the Toli, basically letting them keep the rest of the barrels.
+
+PAUL: The rest, since he was already taking some for himself, admittedly?
+
+JUDE: Was he tied up during that conversation?
+
+TYRUS: Nope, not tied up at the time.
+
+JUDE: So the "tied up" act we found him in was a ruse?
+
+TYRUS: Exactly — meaning he was fully complicit. In fact, he might even have been trying to double-cross the Toli themselves, on top of screwing over Jeon.
+
+PAUL: That's how I read it too — he's trying to undercut Monmurg while keeping a hand in every faction's business, letting the Toli and the rest of the principalities fight it out while he profits and slips away. That's going to happen whether he kills us or not.
+
+JUDE: Wait — I don't want to get killed in the process, just so he gets away happy.
+
+TYRUS: He gets away either way; the Toli agents involved are already dead too. We're not exactly winning by sitting here.
+
+DM: [calling a brief pause to let each person make their point] He did say he wanted to talk to your uncle anyway — that he'd talk to Jeon eventually.
+
+PAUL: He did say that, yeah, absolutely — but that doesn't matter, since we already caught him red-handed once.
+
+TYRUS: His hands aren't clean just because he says he'll talk to Jeon — he's exposed now, and he's going to use this to extort concessions regardless. He could kill every hobgoblin on the island, claim he personally defeated a Toli plot to seize the Helm, and come out smelling like roses, still in control of his men.
+
+PAUL: What are we going to do about the hobgoblins, then? His own troops might not even know the full picture.
+
+TYRUS: Again, why would he move the barrels away at all if this wasn't premeditated? It's clearly a play. What I'm saying is, the gig's up for him now — so how does he handle that? He has to silence every witness. We are his number one problem right now, and we don't have a boat to get off this island. Without us around to contradict him, he can say whatever he wants happened — that the Sahaugin destroyed the ship, for instance.
+
+PAUL: So let me ask everyone this — assuming all that's true, is it better to fight through his hobgoblins or Toli-aligned forces to reach his men directly, or is it smarter to just hide?
+
+MERRICK: I don't think hiding is a great option. I think finding his troops might be the best of the worst-case options, since I doubt all of his men knew what was going on, and ultimately they'll side with whoever's actually armed and in front of them.
+
+TYRUS: This island's big enough to hide on, too — we could stash some barrels. How many days would that buy us against the Sahaugin returning?
+
+JUDE: Maybe six to ten days before they're back in force.
+
+DM: It's actually only been about a day since you arrived — second of Wealsun when you got here, and this is the morning of the third. So you've been here roughly twelve hours.
+
+TYRUS: We could try to hold up in a tower — realistically, by the end of today, or midday tomorrow, Jeon should already be sending reinforcements.
+
+PAUL: What if we tried to take the signal tower inside the keep? Even without engaging Fairwind's men directly, if we secure the signal tower, we can alert Monmurg.
+
+TYRUS: We'd have to take it during the day, though the signal's probably more visible at night. We'd need to hold it and rest there.
+
+PAUL: We could signal that we've got twenty-five barrels, but we'd have to leave most of them here, or split up to guard them.
+
+TYRUS: If a couple of us stayed with the barrels and there was an attempt to retake them, how would that go?
+
+JUDE: Not well — we'd get overrun. How many people are usually on that resupply skiff we saw earlier?
+
+DM: A skiff that size is probably crewed by around four, with room for up to twenty passengers.
+
+TYRUS: So, what are our actual options? We wait for the skiff to come back. We take it by force, load the barrels, fight through if needed, then wait for night and try to make it back to Monmurg.
+
+JUDE: We'd almost have to wait for night anyway, since the hobgoblins will eventually realize the skiff hasn't returned — though the real danger is Cain Toli's bigger ship, the Sea Ghost, running us down in daylight. At night, I could cast Darkness to help mask our escape, though it'd only really obscure the front of a boat — the rest would still be visible as we move through it.
+
+TYRUS: That's better than nothing — they'd just see a dark cloud instead of us directly. Could you do that during the day too?
+
+JUDE: I could, if needed — same trick, dark cloud trailing in our wake.
+
+TYRUS: So if we do that, barricade the narrow hallway, or burn that bridge down behind us — but that all depends on the boat actually coming in, us loading the barrels, and getting out clean. With twenty-five barrels, they'll definitely come looking, but we'd have the advantage, since they won't have Sahaugin help anymore — we wiped those out — and they might not even know we've taken the barrels yet, since there's no Sahaugin left to warn them. And we've still got the ballista.
+
+TYRUS: If it's only four to six crew, even wounded, we could handle that — if we rest even just an hour, that should be enough.
+
+DM: It's approaching morning — you're about an hour from dawn. Five or six a.m.
+
+TYRUS: So we can't move again until dark.
+
+DM: What season is it?
+
+TYRUS: Late spring, not winter.
+
+DM: So it won't get properly dark again until around seven p.m.
+
+TYRUS: So we'd be stuck here roughly twelve hours, which is its own problem — if that skiff doesn't return within an hour or two of when it's expected, they'll start wondering what's wrong.
+
+JUDE: They might send a small boat to check, but without numbers, we could handle that — though it would alert them something's off.
+
+TYRUS: The big boat can't come into this cove directly — that's why they use the skiff. But yes, they'd know something's wrong. And if Fairwind's alive and reaches his troops, he'll paint us as Toli agents or pirates to turn his men against us.
+
+TYRUS: So as I see it, our options are: one, wait for the boat and try to escape on it; two, hide on the island, which I'm not sure works well for us; or three, try to make contact with Fairwind's troops directly, hoping for some luck, but we'd have to fight through a lot to get there.
+
+MERRICK: As good as option three sounds, I don't think we should leave the barrels totally unguarded — this is a strong vantage point, we can see what's coming in and block the rear approach too.
+
+PAUL: Why do we even need to hold onto the barrels? Monmurg's under embargo — they can't easily replace these.
+
+TYRUS: That's exactly what Fairwind himself said — he's been quietly siphoning barrels to his own stockpile, and there's probably more of this supply chain we haven't discovered yet. These barrels come in fairly regularly from somewhere.
+
+JUDE: I don't think we can burn the bridge we came in on and also hold this position — we need that route open.
+
+TYRUS: The only ways they can attack us are from here, or from where the gate is.
+
+PAUL: Could we muscle the ballista around to shoot up that entrance stairway we came down? Can it be repositioned, or is it fixed to fire only out over the bay?
+
+DM: You can turn it to fire up toward that stairway, yes — fully adjustable.
+
+TYRUS: That would mess some shit up.
+
+JUDE: For sure — but it's only one shot at a time, one person at a time coming through.
+
+TYRUS: We could fireball the bridge if we need to, burn it where we came in.
+
+JUDE: If I had an hour, I've got Tenser's Floating Disk — I could haul a lot of stuff with that, drag it along behind me. The problem is, we don't know this place well enough to know where to stash anything safely — wherever we hide the barrels, given enough time, they'll find it.
+
+TYRUS: So it seems like our choice is: hunker down, try to heal up, take that hour's rest most of us need — or push forward, roll the dice, and try to seize control of his men and take the inner keep.
+
+JUDE: Even if we control his men, if Fairwind shows up somewhere unexpected, would they follow us instead of him?
+
+TYRUS: No — one of us would just have to kill him.
+
+JUDE: Hopefully not in front of his own men, though.
+
+[The group transitions to actually taking a short rest while continuing to plan.]
+
+DM: How wounded are you?
+
+TYRUS: I'm fine, more or less.
+
+MERRICK: I'm down some.
+
+DM: Okay — gather around for the short rest; Folsom plays his Song of Rest.
+
+FOLSOM: How many hit dice do I have left? I've got eighteen — I'll take a short rest along with everyone.
+
+DM: So the shark's got a ballista bolt with a rope stuck in it, and you're trying to pull it in. How far down is it?
+
+GOUGE: [continuing the shark investigation in parallel]
+
+DM: About a hundred fifty feet away, twenty feet down. You can tie it off and try to haul it in.
+
+GOUGE: The shark weighs a ton.
+
+DM: [confirming] What are you guys doing with the shark stuff while everyone else takes a short rest?
+
+JUDE: We're not taking a short rest — Paul and I are going to sneak up and try to find Fairwind. I'll go invisible, he can stay hidden, and we'll work our way up the side.
+
+PAUL: Can't I just send my homunculus around to scout instead?
+
+JUDE: He can send it ahead, sure, but it can't do everything — we should still go up ourselves, see if we can intercept or identify whether Fairwind's heading for the inner troops. We can't see far enough to know if he's heading for the outer ones, but those already know Jeon's family is here.
+
+DM: Okay, so you two go scout while the others take a short rest. Let's resolve the short rest first.
+
+MERRICK: [rolling hit dice] Six, plus an extra die — eight, plus a ten, plus a six. Wow — so I'm only down six now.
+
+DM: That's the one-hour short rest, yes.
+
+FOLSOM: How many hit dice have you used for your short rest already?
+
+MERRICK: None yet.
+
+FOLSOM: Great, use them all then. [rolling] Three d10s and a d6 — eight, eight, sixteen, twenty-six total healed back.
+
+DM: And you, Folsom — want to take a short rest too?
+
+FOLSOM: I haven't taken any damage yet, so I don't get anything back from hit dice, but maybe my Bardic Inspiration comes back.
+
+DM: Let's check — does a short rest restore Bardic Inspiration?
+
+FOLSOM: At level five, I think it does — let me check the rules.
+
+DM: You need to finish a long rest for full Bardic Inspiration recovery, typically — but your Song of Rest still applies to others taking the short rest.
+
+FOLSOM: I'll play my flute while everyone else rests, then.
+
+DM: Right, that enhances their short-rest healing by an extra d6.
+
+FOLSOM: [to Merrick] Do you need that boost? You haven't taken much damage at all.
+
+MERRICK: I'm down nine hit points.
+
+FOLSOM: That's not that much, bro.
+
+MERRICK: I know, but every bit helps.
+
+FOLSOM: Fair enough — you'll get back whatever your hit dice roll, plus the extra d6 from the flute, so you should be back near full.
+
+JUDE: [to Folsom] Do you have any spells left to use?
+
+FOLSOM: If not, I'd say take the nine and come with me — though you don't have to.
+
+JUDE: I'll take my nine and go.
+
+FOLSOM: You want us to come?
+
+JUDE: No, I'll go by myself.
+
+DM: Okay, so Jude goes alone. Roll your short rest hit dice.
+
+JUDE: [rolling] One d8, plus a d6 from the song of rest — eight total, so I'm down by one point now.
+
+DM: Okay, you take your rest, with Folsom playing throughout — no idea exactly where you're heading off to, though.
+
+DM: Merrick, you shimmy down a fifty-foot rope.
+
+MERRICK: Is this just a private moment, or is everyone watching me do this?
+
+DM: They're watching — it's the entertainment, and they're also keeping an eye out for any boat. So, you get onto the shark — it's floating like a makeshift boat at this point. What do you want to do?
+
+MERRICK: I'm standing on top of it.
+
+DM: How submerged is it — half the body floating, or more?
+
+MERRICK: How much is above water?
+
+DM: I'd say two-thirds of the body is submerged, but that's still a lot of bulk above the surface.
+
+MERRICK: Was it lying on its side, or belly-up?
+
+DM: Belly-up.
+
+MERRICK: Okay, I want to cut into it — enough to get inside and check the stomach, but not so much that it sinks.
+
+DM: So you're trying to get into the interior and see what's there.
+
+MERRICK: Right.
+
+DM: All right, you cut it open and start pulling the interior contents out.
+
+MERRICK: I'm assuming I have some familiarity with cutting sharks open.
+
+DM: Yeah — though this is harder than usual, since the skin's much thicker and the creature's much bigger, but the anatomy's roughly where you'd expect. It takes some time, but you get inside and start sorting through the contents.
+
+MERRICK: [pulling something out] You pull out a Toli head.
+
+DM: Yeah — it's that guy. He'd clearly been swallowed.
+
+MERRICK: [reacting] Thank you — moving to the rest of it.
+
+DM: After about half an hour going through the contents —
+
+MERRICK: I'm tossing this stuff overboard, I assume.
+
+DM: Sure — no sign of Fairwind, though.
+
+MERRICK: [surprised by something else inside] What — that's a big shirt, bro.
+
+GOUGE: [from elsewhere] Tie the barrels down — go time on the barrels.
+
+JUDE: [casting] I cast invisibility and head out. Paul and I will be gone for a bit — I'll be right

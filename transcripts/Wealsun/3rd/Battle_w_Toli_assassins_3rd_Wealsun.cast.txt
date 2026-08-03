@@ -1,0 +1,10 @@
+# Cast for Battle_w_Toli_assassins_3rd_Wealsun
+# Expected voices: 7
+SPEAKER_00: Folsom (confirmed — "Twenty-two for Folsom", reporting his own roll; later casts Cure Wounds on Paul, matching his cleaned line exactly)
+SPEAKER_01J / SPEAKER_02J: Jude — confirmed via "my toad" (his familiar, per the player's clarification that the toad belongs to Jude, not Paul), "I need to know if they're wizards or are they fighters?", and his Fireball/Magic Missile/Suggestion spellcasting throughout the fight and interrogation
+SPEAKER_01P / SPEAKER_02P: Paul — confirmed via "Holy shit, guys, we got him... he's in there talking to Tutoly right now", his light-crossbow/dagger combat actions, and directing the search and binding of the captured Toli mage
+# Note: raw tags SPEAKER_01 and SPEAKER_02 each contained both Jude's and Paul's dialogue at different points; both have been split with a J/P suffix directly in the transcript rather than a single letter, since both raw tags needed splitting the same way.
+SPEAKER_03: Gouge (confirmed — refuses to be shoved aside by Tyrus: "Fuck no, you ain't pushing me"; performs the scimitar+dagger sneak-attack combo, his established signature)
+SPEAKER_04: DM (dominant narrator/rules-caller throughout)
+SPEAKER_05: Merrick (confirmed — "I cast Longstride on myself", matching cleaned's "MERRICK: I'll cast Longstrider on myself as a bonus action")
+SPEAKER_06: Tyrus (confirmed — "Sword and shield... gash right up to the very..."; later uses Channel Divinity, his established Paladin ability)

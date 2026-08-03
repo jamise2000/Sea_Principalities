@@ -1,0 +1,5 @@
+# Cast for Jude_and_Paul_begin_training_4th_Wealsun
+# Expected voices: 3
+SPEAKER_00: DM
+SPEAKER_01: Jude
+SPEAKER_02: Paul

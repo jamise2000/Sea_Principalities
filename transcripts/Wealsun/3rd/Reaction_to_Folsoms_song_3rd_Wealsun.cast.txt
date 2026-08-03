@@ -1,0 +1,7 @@
+# Cast for Reaction_to_Folsoms_song_3rd_Wealsun
+# Expected voices: 3 (DM voices Owen Black — not a separate real speaker), plus Tyrus and Merrick
+# Note: this file's diarization is unreliable — Tyrus and Merrick have similar vocal profiles, and short replies bleed between tags throughout. Confidence is lower here than most other files.
+SPEAKER_00: DM (narration throughout, and voices Owen Black in the extended bar conversation)
+SPEAKER_01: Merrick (early in the scene, his shocked reaction to Folsom's performance and his brief exchange before he departs to report to his captain) — the SAME tag is reused later in the file for Tyrus's half of the extended one-on-one conversation with Owen, after Merrick has already left the scene (the two don't overlap, but diarization gave them the same number)
+SPEAKER_02: Tyrus (confirmed early — "It's a farce... Kid always tries to crack jokes... You know what Marines like? Beer!")
+SPEAKER_03: Isolated, garbled cluster (9 lines) during the "was that Gouge? / I'm bailing from the bar" exchange — content mixes what look like Tyrus's, Merrick's, and Owen's lines merged into one tag; too short and cross-contaminated to confidently assign to a single speaker

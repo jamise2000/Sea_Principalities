@@ -1,0 +1,7 @@
+# Cast for Tyrus_Folsom_goto_barracks_3rd_Wealsun
+# Expected voices: 5
+DM
+Tyrus
+Folsom
+Gouge
+Merrick

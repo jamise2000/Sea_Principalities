@@ -1,0 +1,12 @@
+# Cast for Party_deliberates_after_battle_3rd_Wealsun
+# Expected voices: 7. Several corrections from the previous guess below; confidence is high for SPEAKER_00/03/06, lower for the rest (heavy tag-sharing in this file).
+SPEAKER_00: DM (dominant, solid — narration throughout)
+SPEAKER_01M: Merrick — confirmed via "I'm looking to see if... Lord Fairwind is already up on the rocks", an exact match to his cleaned line; also his spell-range questions ("it's beyond my spell... if you two wanted to man the ballista, I could move down the walkway and use my spells")
+SPEAKER_01T: Tyrus — "Yeah, we got to get to the barrels... We all move, get to the barrels", matching his cleaned lines; also "Can you show us where the big ballista was and what direction it's pointing?"
+SPEAKER_01G: Gouge — the largest share of this tag once Merrick/Tyrus are pulled out; confirmed via "I need one person to help me man the ballista. I'm proficient with crossbows", matching his cleaned line, and "I'll stay with Merrick" (referring to Merrick in the third person, confirming the speaker isn't Merrick)
+SPEAKER_02T: Tyrus, primary (confirmed — "Shark and sahaugin in the water. We need to keep moving", matching his cleaned line exactly) — NOT Gouge, correcting the previous guess
+SPEAKER_02J: Jude — "Do you think we should blow the bridge behind us?", matching his cleaned line ("JUDE: What's he doing over there? Do you think we should blow the bridge behind us?")
+SPEAKER_03: Gouge, primary (confirmed — "This is going to be... protecting the place where they come in. I'm imagining this is barred off...", an exact match to his cleaned line) — NOT Merrick, correcting the previous guess
+SPEAKER_04: Merrick, second split (confirmed — "how far is this distance from here to there?" and "I want to know for spell range", matching his cleaned lines) — NOT Paul, correcting the previous guess
+SPEAKER_05: Low confidence, rare appearances only — mostly present during the unrelated real-world banter tangent the cleaned transcript flags as non-reconstructible; likely Jude by elimination, but no strong anchor found
+SPEAKER_06: Paul (confirmed — "I guess I'm going with them... I have one spell left", matching his cleaned lines exactly) — NOT Tyrus, correcting the previous guess

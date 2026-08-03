@@ -1,0 +1,4 @@
+# Cast for Jude_has_audience_Jamis_1st_Wealsun
+# Expected voices: 2
+SPEAKER_00: DM
+SPEAKER_01: Jude
