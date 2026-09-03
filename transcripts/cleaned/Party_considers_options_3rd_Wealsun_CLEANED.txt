@@ -1,4 +1,4 @@
-[Speaker Key: DM = Dungeon Master (narration, voicing Lord Fairwind) | GOUGE = Gouge's player | PAUL = Paul Rivera's player | TYRUS = Tyrus's player | MERRICK = Merrick's player | FOLSOM = Folsom's player | JUDE = Jude's player. NOTE: The final portion of this file (Fairwind's lengthy exposition to Folsom about Lord Jamis's wife's brother, Zafar Azane, and the Duke of Gradsul) duplicates content already cleaned in "Folsom_conversation_w_Fairwind_CLEANED.txt" and is not repeated here in full — see that file for the conclusion of this exchange.]
+[Speaker Key: DM = Dungeon Master (narration, voicing Lord Fairwind) | GOUGE = Gouge's player | PAUL = Paul Revero's player | TYRUS = Tyrus's player | MERRICK = Merrick's player | FOLSOM = Folsom's player | JUDE = Jude's player. NOTE: The final portion of this file (Fairwind's lengthy exposition to Folsom about Lord Jamis's wife's brother, Zafar Azane, and the Duke of Gradsul) duplicates content already cleaned in "Folsom_conversation_w_Fairwind_CLEANED.txt" and is not repeated here in full — see that file for the conclusion of this exchange.]
 
 DM: Early morning on the third of Wealsun. The party has just defeated a couple of Toli agents in the inner sanctum and is sitting with Lord Fairwind — either genuinely captured, or playing captive — trying to figure out next steps.
 
@@ -84,7 +84,7 @@ DM (as Fairwind): Treason against whom?
 
 PAUL: Against us. Against Monmurg.
 
-DM (as Fairwind): What allegiance do I actually owe you, Paul Rivera?
+DM (as Fairwind): What allegiance do I actually owe you, Paul Revero?
 
 PAUL: You're lucky I'm not pressing this further than I am. Nobody's trying to usurp your authority — you just need to speak with Prince Jeon directly.
 
@@ -134,7 +134,7 @@ DM (as Fairwind): Ah — you wish to go down there.
 
 PAUL: We'd like to recapture what's being taken. We've seen the barrels ourselves.
 
-GOUGE: Wouldn't that be the best way to hold the island against the Sahaugin, at minimum?
+GOUGE: Wouldn't that be the best way to hold the island against the sahaugin, at minimum?
 
 DM (as Fairwind): I think it's the only way Monmurg actually survives this, frankly.
 
@@ -160,7 +160,7 @@ DM (as Fairwind): You mean Cain Toli's ship? With his hand-picked men, his perso
 
 GOUGE: How big is this ship, exactly?
 
-DM (as Fairwind): There's a smaller ship that ferries between the larger one and shore — that's the one in the cove right now. We're trying to get it back into the water so we can repel the Sahaugin properly.
+DM (as Fairwind): There's a smaller ship that ferries between the larger one and shore — that's the one in the cove right now. We're trying to get it back into the water so we can repel the sahaugin properly.
 
 GOUGE: We're not taking Kane's main ship, but we'll take that smaller one, and we'll smuggle you back to Monmurg with us. Or we can negotiate something else.
 
@@ -170,7 +170,7 @@ GOUGE: Frankly, none of us much care for your deals — you've already admitted 
 
 DM (as Fairwind): Correct — I'll exercise my right to remain silent on the rest, then.
 
-GOUGE: You've crippled Jeon's defenses by taking those barrels, which let the Sahaugin overrun this place. At minimum, you've got two hundred dead Monmurgian Marines in this bay to answer for.
+GOUGE: You've crippled Jeon's defenses by taking those barrels, which let the sahaugin overrun this place. At minimum, you've got two hundred dead Monmurgian Marines in this bay to answer for.
 
 DM (as Fairwind): I respect your uncle quite a bit, Paul — he's an honest man. However, I don't think he fully understands what's actually occurring among the principalities, and my disagreements with him stem from exactly that.
 
@@ -180,7 +180,7 @@ DM (as Fairwind): I don't think you're getting off this island alive, actually �
 
 PAUL: Why's that? How would you stop us?
 
-DM (as Fairwind): I wouldn't need to actively stop you — I'd simply let the Sahaugin handle it.
+DM (as Fairwind): I wouldn't need to actively stop you — I'd simply let the sahaugin handle it.
 
 PAUL: You just said we'd get off only if you allow it.
 
@@ -196,7 +196,7 @@ PAUL: I figured as much.
 
 GOUGE: I don't know how long it holds, honestly.
 
-PAUL: [frustrated, addressing Fairwind directly] So while you and the rest of the princes worry about your petty squabbles, the people of Monmurg are the ones actually suffering. Nothing improves until the Sahaugin are repelled, order's restored, and this blockade ends. Let's go downstairs, deal with this properly, and get that substance into the water now.
+PAUL: [frustrated, addressing Fairwind directly] So while you and the rest of the princes worry about your petty squabbles, the people of Monmurg are the ones actually suffering. Nothing improves until the sahaugin are repelled, order's restored, and this blockade ends. Let's go downstairs, deal with this properly, and get that substance into the water now.
 
 DM (as Fairwind): It's being moved out as we speak, in fact.
 
@@ -244,17 +244,17 @@ GOUGE: [keeping a firm grip on Fairwind, half-joking] Come here, buddy — best 
 
 DM: All right — how do you want to march, what's the order? Any hobgoblins down here you might run into?
 
-DM (as Fairwind): There are stationed hobgoblins along the upper shafts, but not on the passage we're taking specifically. There are also Sahaugin in the water caves nearby — if we bring barrels through there, the substance should kill or drive them off as we pass.
+DM (as Fairwind): There are stationed hobgoblins along the upper shafts, but not on the passage we're taking specifically. There are also sahaugin in the water caves nearby — if we bring barrels through there, the substance should kill or drive them off as we pass.
 
 GOUGE: That's how we survive the trip, then.
 
 PAUL: Do we have to go through the caves to reach the barrels?
 
-DM (as Fairwind): Yes — all the remaining barrels are being staged near the water caves currently. You'll need to get near the Sahaugin to retrieve them.
+DM (as Fairwind): Yes — all the remaining barrels are being staged near the water caves currently. You'll need to get near the sahaugin to retrieve them.
 
 DM (as Fairwind): I have no doubt you'll be able to negotiate with Jeon as something of an equal eventually, but you can't negotiate that way with me — you've already pointed out you have his agent and a hostage of mine present. You negotiate with Jeon himself, and I'm sure he'll deal fairly with you given what you're bringing back.
 
-But to get you off this island alive, past the Sahaugin, we'll need at minimum enough barrels to secure the Helm and reach that smaller ship — and we'll need to take it outright.
+But to get you off this island alive, past the sahaugin, we'll need at minimum enough barrels to secure the Helm and reach that smaller ship — and we'll need to take it outright.
 
 GOUGE: One barrel would secure the Helm for quite a while, you said.
 
@@ -312,7 +312,7 @@ GOUGE: That's the one we go for, then.
 
 PAUL: We'll need some luck, and maybe leverage the captured Toli if we're spotted, to avoid getting boarded ourselves.
 
-GOUGE: If we've got barrels, that neutralizes the Sahaugin threat at least — that's priority one.
+GOUGE: If we've got barrels, that neutralizes the sahaugin threat at least — that's priority one.
 
 JUDE: I can have my homunculus scout ahead, check the Sea Ghost's exact position, see if the coast is clear for the skiff to slip away.
 
@@ -346,7 +346,7 @@ GOUGE: Across the bridge, what's on the other side?
 
 DM: The passage continues, turning corners as it descends — there's a drop-off into what sounds like open water below, with a narrow wooden walkway built into the cave wall, no railing.
 
-GOUGE: [shining the light down] Can I see any sharks or Sahaugin in the water below?
+GOUGE: [shining the light down] Can I see any sharks or sahaugin in the water below?
 
 DM: The water's too deep to see the bottom from here — you can hear it, but can't make out anything specific.
 

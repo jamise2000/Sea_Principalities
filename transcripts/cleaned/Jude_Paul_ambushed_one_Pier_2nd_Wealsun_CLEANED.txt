@@ -1,6 +1,6 @@
-[Speaker Key: DM = Dungeon Master (narration, rules calls, voicing the Marine sergeant and enemy combatants) | JUDE = Jude's player | PAUL = Paul Rivera's player. NOTE: This is the longest and most mechanically dense file in the collection — the initial landing and ambush at the Helm Island quays that kicks off the major battle sequence (continuing into "Marines_ambushed_by_hobgoblins" and "Marines_shelter_in_guard_tower"). Given the overwhelming volume of individual dice rolls across many combat rounds, this reconstruction focuses on the tactical arc, key dialogue, and major narrative beats — the eerily empty harbor, the realization that the defenders are corrupted/replaced versions of Fairwind's own men, the tower set ablaze, and the climactic dash back toward the ship as the position becomes untenable — rather than transcribing every individual attack roll.]
+[Speaker Key: DM = Dungeon Master (narration, rules calls, voicing the Marine sergeant and enemy combatants) | JUDE = Jude's player | PAUL = Paul Revero's player. NOTE: This is the longest and most mechanically dense file in the collection — the initial landing and ambush at the Helm Island quays that kicks off the major battle sequence (continuing into "Marines_ambushed_by_hobgoblins" and "Marines_shelter_in_guard_tower"). Given the overwhelming volume of individual dice rolls across many combat rounds, this reconstruction focuses on the tactical arc, key dialogue, and major narrative beats — the eerily empty harbor, the realization that the defenders are corrupted/replaced versions of Fairwind's own men, the tower set ablaze, and the climactic dash back toward the ship as the position becomes untenable — rather than transcribing every individual attack roll.]
 
-DM: Second of Wealsun, around 5 p.m., as Paul Rivera and Jude, with a detachment of Marines, walk down the pier toward the Helm Island quays.
+DM: Second of Wealsun, around 5 p.m., as Paul Revero and Jude, with a detachment of Marines, walk down the pier toward the Helm Island quays.
 
 JUDE: [aside] Is Gouge with us in this group, or did he go ashore at the southern lighthouse instead?
 
@@ -82,7 +82,7 @@ JUDE: [taking a final shot] I'll finish this.
 
 DM: [resolving] Clean hit — that position's cleared.
 
-DM: At this point, it becomes apparent that the wider battle — encompassing the ship still docked behind you, and whatever's happening further along the shoreline — is taking a turn for the worse. [This connects directly to the events depicted in "Marines shelter in guard tower," where the watching squad witnesses Sahaugin emerging from the water in overwhelming numbers to swarm the ship itself.]
+DM: At this point, it becomes apparent that the wider battle — encompassing the ship still docked behind you, and whatever's happening further along the shoreline — is taking a turn for the worse. [This connects directly to the events depicted in "Marines shelter in guard tower," where the watching squad witnesses sahaugin emerging from the water in overwhelming numbers to swarm the ship itself.]
 
 JUDE: [realizing the danger to the ship] Something's wrong back there — call out to the ship!
 
@@ -100,4 +100,4 @@ JUDE: [readying Shield as a reaction, just in case] If anything comes at me on t
 
 PAUL: [dashing alongside him, shield raised, dodging as he goes] Same — moving fast, but staying alert.
 
-DM: The two of you race back across the open ground toward the docked ship, fully exposed should anything intercept you before you reach it — setting up the desperate scramble that follows as the Sahaugin assault on the harbor unfolds in full.
+DM: The two of you race back across the open ground toward the docked ship, fully exposed should anything intercept you before you reach it — setting up the desperate scramble that follows as the sahaugin assault on the harbor unfolds in full.

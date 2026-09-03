@@ -1,4 +1,4 @@
-[Speaker Key: DM = Dungeon Master (narration, voicing Captain Richard and others) | JUDE = Jude's player | PAUL = Paul Rivera's player]
+[Speaker Key: DM = Dungeon Master (narration, voicing Captain Richard and others) | JUDE = Jude's player | PAUL = Paul Revero's player]
 
 DM: Second of Wealsun, around 3 p.m., as Jude and Paul begin their journey. You get your equipment together, make sure everything's set — you're heading on a short sea journey across the Monmurgian Straits to Helm Island.
 
@@ -158,7 +158,7 @@ PAUL: So the quays are guarded?
 
 DM (as Captain Richard): Of course. Are your Marines allowed ashore once we dock, or kept on the ship as standard procedure?
 
-DM (as Captain Richard): Obviously we can't take the whole contingent up the hill — this isn't an attack force, it's an investigation. What will likely happen is most of my men stay on the boat, while you, Lord Rivera, take a detachment with you up to the Helm to see Fairwind.
+DM (as Captain Richard): Obviously we can't take the whole contingent up the hill — this isn't an attack force, it's an investigation. What will likely happen is most of my men stay on the boat, while you, Lord Revero, take a detachment with you up to the Helm to see Fairwind.
 
 PAUL: My question to him will be why he's been unable to signal correctly for the past several days. I might suggest you have a few small squads ready to intercept any hard points, should there be catastrophic problems — which we're not yet sure of.
 
@@ -276,7 +276,7 @@ DM: Yes — about ten men in scale mail and ten crossbowmen.
 
 PAUL: Cool.
 
-DM (as Marine sergeant): Lord Rivera, your squad awaits. [pointing them out]
+DM (as Marine sergeant): Lord Revero, your squad awaits. [pointing them out]
 
 PAUL: Let's go. [aside] I want to make sure that, even though I'm asking a lot of questions, I'm not stepping on the captain's authority.
 

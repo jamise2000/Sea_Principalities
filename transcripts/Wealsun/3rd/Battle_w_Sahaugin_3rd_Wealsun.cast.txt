@@ -1,9 +1,9 @@
-# Cast for Battle_w_Sahaugin_3rd_Wealsun
+# Cast for Battle_w_sahaugin_3rd_Wealsun
 # Expected voices: 7 (DM, Tyrus, Gouge, Paul, Folsom, Merrick, Jude) — this is a dense combat scene with heavy cross-tag bleed between the dominant talkers; several tags are shared/reused between two characters whose turns don't overlap in time
 SPEAKER_00: DM (dominant narrator/rules-caller throughout)
 SPEAKER_01: Jude (primary — "I'm also keeping an eye out... to see if Fairwind's swimming around"; casts the sculpted fireball as a diviner) — also carries some of Paul's dialogue merged in (e.g. the final sneak-attack finishing move)
 SPEAKER_02: Gouge (confirmed — scimitar+dagger attack combo, his established weapon pairing; brash combat banter: "I ain't fucking giving up. Boom!")
 SPEAKER_03: Paul (primary — "This powder is also explosive, you should know... I said that way back", and is addressed by name: "thanks for the info there, Paul") — NOT Folsom; the earlier guess likely confused this with Folsom the way file 10's did
-SPEAKER_04: Tyrus (primary — tracks his own HP/AC while sustaining repeated Sahaugin attacks) — also carries some of Paul's dialogue merged in during the barrel-grabbing sequence
-SPEAKER_05A: Folsom — confirmed via Vicious Mockery ("let me use Vicious Mockery... fuck you, fish brain"), the Message/Vicious Mockery cantrip list, and the rapier stab that kills a Sahaugin ("stab the sahaugin with my rapier"). A few short scorekeeping/reaction lines (e.g. "They all trip. Paul, you go first.") are likely DM narration bled into this tag rather than Folsom himself.
+SPEAKER_04: Tyrus (primary — tracks his own HP/AC while sustaining repeated sahaugin attacks) — also carries some of Paul's dialogue merged in during the barrel-grabbing sequence
+SPEAKER_05A: Folsom — confirmed via Vicious Mockery ("let me use Vicious Mockery... fuck you, fish brain"), the Message/Vicious Mockery cantrip list, and the rapier stab that kills a sahaugin ("stab the sahaugin with my rapier"). A few short scorekeeping/reaction lines (e.g. "They all trip. Paul, you go first.") are likely DM narration bled into this tag rather than Folsom himself.
 SPEAKER_05B: Merrick — confirmed via joining the ballista ("my archery proficience... does that come into play with the ballista?"), reloading and firing his bow, the natural-20 crit "near Tyrus"/"T-Money", and explicitly invoking his Horde Breaker ranger ability

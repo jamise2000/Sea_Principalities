@@ -1,4 +1,4 @@
-[Speaker Key: DM = Dungeon Master (narration, voicing the sergeant/garrison captain "Sten") | PAUL = Paul Rivera's player | GOUGE = Gouge's player | TYRUS = Tyrus's player | MERRICK = Merrick's player. NOTE: Folsom is present in the group but does not have clearly attributable individual lines in this segment.]
+[Speaker Key: DM = Dungeon Master (narration, voicing the sergeant/garrison captain "Sten") | PAUL = Paul Revero's player | GOUGE = Gouge's player | TYRUS = Tyrus's player | MERRICK = Merrick's player. NOTE: Folsom is present in the group but does not have clearly attributable individual lines in this segment.]
 
 DM: Second of Wealsun, 11:15 p.m. Paul is sitting in the barracks command center when the sergeant brings in four individuals who look like Marines.
 
@@ -22,11 +22,11 @@ GOUGE: [introducing the others] Tyrus.
 
 PAUL: Tyrus. Good to meet you.
 
-TYRUS: We traveled in without detection — no trouble, came through the wilderness rather than along the coastline. I saw several sharks and Sahaugin in the water, so we avoided the shore.
+TYRUS: We traveled in without detection — no trouble, came through the wilderness rather than along the coastline. I saw several sharks and sahaugin in the water, so we avoided the shore.
 
 MERRICK: I was sent by Lord Jamis — Merrick.
 
-PAUL: I am Paul Rivera, nephew to Prince Jeon — whether or not you know me by name.
+PAUL: I am Paul Revero, nephew to Prince Jeon — whether or not you know me by name.
 
 MERRICK: Did I get that right — nephew to Lord Jeon?
 
@@ -72,7 +72,7 @@ The other plan — riskier, but potentially more valuable — involves a cavern 
 
 GOUGE: Does anyone actually know where it is?
 
-PAUL: No — nobody's confirmed it. It's a rumor we've heard, that's all. We know it has to be somewhere along the coastline, on the side facing the Sahaugin-infested waters, which is its own risk.
+PAUL: No — nobody's confirmed it. It's a rumor we've heard, that's all. We know it has to be somewhere along the coastline, on the side facing the sahaugin-infested waters, which is its own risk.
 
 GOUGE: Is there any way to signal if we choose to go the underground route, and need backup?
 
@@ -98,13 +98,13 @@ DM: You could get out that way and move stealthily, yes.
 
 GOUGE: Then we send the diversion out, sneak out ourselves, and our only two real choices from there are: levitate over the wall, or find the hidden cave entrance.
 
-I personally lean toward going over the wall — avoids the Sahaugin entirely, since they're going to be a serious problem, and I'm not willing to bet they won't find us in those tunnels.
+I personally lean toward going over the wall — avoids the sahaugin entirely, since they're going to be a serious problem, and I'm not willing to bet they won't find us in those tunnels.
 
 PAUL: They'll have lookouts posted, possibly quite a few along the wall too.
 
 GOUGE: If we can get to the wall undetected, that's the first real test — from there, Merrick and I can scout for the hidden entrance in that direction if the wall route doesn't pan out.
 
-MERRICK: I should be able to tell whether there are Sahaugin nearby — I'm very familiar with this coastline. On the way in, I led the group, scouting ahead to make sure everything was clear. We can go out the back, and if I spot Sahaugin, I can cast fog to mask our position and let us keep moving without being seen.
+MERRICK: I should be able to tell whether there are sahaugin nearby — I'm very familiar with this coastline. On the way in, I led the group, scouting ahead to make sure everything was clear. We can go out the back, and if I spot sahaugin, I can cast fog to mask our position and let us keep moving without being seen.
 
 PAUL: How many times can you do that?
 
@@ -150,7 +150,7 @@ PAUL: Is that the same as elven darkvision, or can they see even further?
 
 DM: Roughly the same range.
 
-PAUL: That's not especially far, honestly. If we stay up away from the shoreline, the Sahaugin can't follow us too far inland anyway — they can tolerate land for maybe thirty minutes or so if pushed, but they strongly prefer not to.
+PAUL: That's not especially far, honestly. If we stay up away from the shoreline, the sahaugin can't follow us too far inland anyway — they can tolerate land for maybe thirty minutes or so if pushed, but they strongly prefer not to.
 
 GOUGE: They hate it, basically — so they're unlikely to be posted as guards too far from the water. There might be hobgoblins instead, though, somewhere along that route.
 
@@ -206,7 +206,7 @@ DM (as Sten): The best approach we've discussed: take the lower wall near the ga
 
 PAUL: I vote we take the coastal approach — not directly along the shore, of course, but generally that direction — searching for the tunnel entrance as we go.
 
-GOUGE: Levitating over the wall is great, but hobgoblins definitely can't levitate to follow us, so that's an advantage either way. I still vote for the coastal route, though — it's the most direct path, in my opinion. I have no real idea how the tunnels connect to the interior, and I'm worried they might just dead-end into a room full of hungry Sahaugin rather than anywhere useful.
+GOUGE: Levitating over the wall is great, but hobgoblins definitely can't levitate to follow us, so that's an advantage either way. I still vote for the coastal route, though — it's the most direct path, in my opinion. I have no real idea how the tunnels connect to the interior, and I'm worried they might just dead-end into a room full of hungry sahaugin rather than anywhere useful.
 
 PAUL: That's a fair concern.
 

@@ -131,8 +131,8 @@
 [SPEAKER_01]: This guy charges forward with his spear coming.
 [SPEAKER_02]: Okay, okay, okay.
 [SPEAKER_02]: I want to know, is this guy, this is one of those sea creatures that came out of the water?
-[SPEAKER_01]: You have seen Sahaugin before in your life.
-[SPEAKER_01]: So you know that this is a Sahaugin, a shark man that can breathe under the water and telepathically communicates with sharks, making them do its bidding.
+[SPEAKER_01]: You have seen sahaugin before in your life.
+[SPEAKER_01]: So you know that this is a sahaugin, a shark man that can breathe under the water and telepathically communicates with sharks, making them do its bidding.
 [SPEAKER_02]: Is there any limitation for how long he can be above land?
 [SPEAKER_02]: To my knowledge.
 [SPEAKER_02]: Roll Arcanum.

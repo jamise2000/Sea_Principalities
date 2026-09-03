@@ -1,4 +1,4 @@
-# Cast for Battle_w_Sahaugin_3rd_Wealsun
+# Cast for Battle_w_sahaugin_3rd_Wealsun
 # Expected voices: 6
 DM
 Paul

@@ -4,19 +4,19 @@ DM: Third of Wealsun, in the evening — Merrick goes to Lord Jamis's offices to
 
 DM (as Jamis): Ah, Merrick — excuse the mess. [He picks up the glass, sets it aside.] So, what happened over there?
 
-MERRICK: A lot to report — completely overwhelming, honestly, I'm a bit at a loss for words as we speak. It seems the Sahaugin have returned — they completely overran a full ship, witnessed from the tower. Once we got ported on the south side, we noticed sharks, the water infested with them. I went ashore and found tracks unusual to me, and I was uneasy about it. Once we went to take the south tower, we were ambushed by hobgoblins, lost troops left and right, but managed to secure it, with help from Gouge, Folsom, and Tyrus.
+MERRICK: A lot to report — completely overwhelming, honestly, I'm a bit at a loss for words as we speak. It seems the sahaugin have returned — they completely overran a full ship, witnessed from the tower. Once we got ported on the south side, we noticed sharks, the water infested with them. I went ashore and found tracks unusual to me, and I was uneasy about it. Once we went to take the south tower, we were ambushed by hobgoblins, lost troops left and right, but managed to secure it, with help from Gouge, Folsom, and Tyrus.
 
-After securing it, we moved to try to take the Helm itself — made it there safely, ran into Jude and Paul Rivera. From that point on, I made it my job not to let Paul Rivera out of my sight, kept locked on him for his safety, as you'd requested, and made sure Gouge stayed in line and followed orders.
+After securing it, we moved to try to take the Helm itself — made it there safely, ran into Jude and Paul Revero. From that point on, I made it my job not to let Paul Revero out of my sight, kept locked on him for his safety, as you'd requested, and made sure Gouge stayed in line and followed orders.
 
-After that, we snuck through the hobgoblins in the keep, trying to locate any survivors in the barracks. After some fighting, we ran into — what's his name — Lord Fairwind. According to Paul Rivera, he'd been doing business with the Toli — we found him tied up.
+After that, we snuck through the hobgoblins in the keep, trying to locate any survivors in the barracks. After some fighting, we ran into — what's his name — Lord Fairwind. According to Paul Revero, he'd been doing business with the Toli — we found him tied up.
 
 DM (as Jamis): So you didn't directly witness this business between Fairwind and the Toli?
 
-MERRICK: No, only from Paul Rivera's account — he sent his little creature in.
+MERRICK: No, only from Paul Revero's account — he sent his little creature in.
 
 DM (as Jamis): The homunculus, is that what he called it?
 
-MERRICK: Yes, yes — no witness to actual words spoken, beyond what happened once I got into the room myself, where he acted very defensively and he and Paul Rivera went back and forth. He did seem guilty, especially after we took him prisoner and he tried to fight his way through the keep on us, on a very narrow bridge. I witnessed him attack Folsom, push him back, then trip and shove Paul Rivera into the water during a scuffle with Gouge, and end up in the water himself. He didn't seem innocent to me, given the dealings with the Toli.
+MERRICK: Yes, yes — no witness to actual words spoken, beyond what happened once I got into the room myself, where he acted very defensively and he and Paul Revero went back and forth. He did seem guilty, especially after we took him prisoner and he tried to fight his way through the keep on us, on a very narrow bridge. I witnessed him attack Folsom, push him back, then trip and shove Paul Revero into the water during a scuffle with Gouge, and end up in the water himself. He didn't seem innocent to me, given the dealings with the Toli.
 
 We killed one Toli, took another prisoner, and then Fairwind himself had to be thrown into the water for our own survival — so he's dead too, saw his body later, got him in a shark attack.
 
@@ -26,13 +26,13 @@ MERRICK: Not according to me — I was in the back, Jude was up front. Once we w
 
 DM (as Jamis): But it was Jude who killed him?
 
-MERRICK: Yes — well, I don't know if Jude actually killed him directly, or if throwing him in was what did it; I think the shark below is what actually killed him. No idea about — what's the prisoner's name again? Apparently no idea if anyone got away. After we got through that opening, we found the barrels of powder — supposedly the substance that keeps the Sahaugin at bay and kills them. After we threw some into the water ourselves, it killed them immediately. I brought four barrels back with us — one's already open, since I had to sprinkle some on our way here — and there are more back there.
+MERRICK: Yes — well, I don't know if Jude actually killed him directly, or if throwing him in was what did it; I think the shark below is what actually killed him. No idea about — what's the prisoner's name again? Apparently no idea if anyone got away. After we got through that opening, we found the barrels of powder — supposedly the substance that keeps the sahaugin at bay and kills them. After we threw some into the water ourselves, it killed them immediately. I brought four barrels back with us — one's already open, since I had to sprinkle some on our way here — and there are more back there.
 
 DM (as Jamis): More back where you found it?
 
-MERRICK: Yes — we found around twenty-five barrels total on the coast. I could only load four, since I had to build a makeshift raft from materials on the coastline to get us back as fast as possible. We were badly outnumbered, completely overwhelmed. I judged it best, per your orders, to get Paul Rivera to safety and get back as soon as possible — staying there any longer would have left us sitting ducks, with more Sahaugin, more hobgoblins, or more Toli ships likely incoming.
+MERRICK: Yes — we found around twenty-five barrels total on the coast. I could only load four, since I had to build a makeshift raft from materials on the coastline to get us back as fast as possible. We were badly outnumbered, completely overwhelmed. I judged it best, per your orders, to get Paul Revero to safety and get back as soon as possible — staying there any longer would have left us sitting ducks, with more sahaugin, more hobgoblins, or more Toli ships likely incoming.
 
-DM (as Jamis): Well, I think this is commendable work — you did everything I'd expect from you, and more. I don't think Fairwind's involvement should be mentioned just yet. I say this because I need to speak with Paul Rivera myself before making any accusations, and obviously the situation with Prince Jeon is going to be delicate — he never believed Fairwind capable of something like this. Maybe Paul Rivera can convince him otherwise. But if I were you, I'd avoid mentioning Fairwind's involvement at this point, especially not to his men.
+DM (as Jamis): Well, I think this is commendable work — you did everything I'd expect from you, and more. I don't think Fairwind's involvement should be mentioned just yet. I say this because I need to speak with Paul Revero myself before making any accusations, and obviously the situation with Prince Jeon is going to be delicate — he never believed Fairwind capable of something like this. Maybe Paul Revero can convince him otherwise. But if I were you, I'd avoid mentioning Fairwind's involvement at this point, especially not to his men.
 
 MERRICK: Is there anything I need to worry about, going forward? He knows my face, possibly my name — could that be linked back to you, or do I need to protect myself?
 
@@ -40,7 +40,7 @@ DM: [aside to Merrick, as a DM note] You actually know Fairwind — you've met h
 
 MERRICK: Okay, cool.
 
-DM (as Jamis): I wouldn't worry at this time — I don't see him making a move on you or us right now; it wouldn't serve his interests if he's trying to plead innocence. He knows you'll report back to me, and to Prince Jeon, as is your duty. The way I see it, what he's doing is angling for political leverage — that's not something you need to worry about. You've done your part — reported what happened, including his involvement. This is between princes now. Whatever Paul Rivera wants to accuse him of, that's his business. As long as you say nothing of it, especially not to other soldiers or Fairwind's own men, you should be fine.
+DM (as Jamis): I wouldn't worry at this time — I don't see him making a move on you or us right now; it wouldn't serve his interests if he's trying to plead innocence. He knows you'll report back to me, and to Prince Jeon, as is your duty. The way I see it, what he's doing is angling for political leverage — that's not something you need to worry about. You've done your part — reported what happened, including his involvement. This is between princes now. Whatever Paul Revero wants to accuse him of, that's his business. As long as you say nothing of it, especially not to other soldiers or Fairwind's own men, you should be fine.
 
 MERRICK: Absolutely. Regarding the powder — I didn't tell any of the corsair crews who picked us up what it actually was. I might have given them a sprinkle of it, I don't fully remember.
 
@@ -54,7 +54,7 @@ MERRICK: Is this something my father knew of?
 
 DM (as Jamis): He was an admiral, so yes.
 
-MERRICK: Interesting — I know it might not be my place to ask, but if this is the only thing that's kept the Sahaugin at bay for this long, wouldn't Monmurg keep a reserve here too, in case things really went wrong? Because the number of Sahaugin we saw was extremely overwhelming — once we sprinkled it in, dozens came up out of the water.
+MERRICK: Interesting — I know it might not be my place to ask, but if this is the only thing that's kept the sahaugin at bay for this long, wouldn't Monmurg keep a reserve here too, in case things really went wrong? Because the number of sahaugin we saw was extremely overwhelming — once we sprinkled it in, dozens came up out of the water.
 
 DM (as Jamis): We did have storage here, in fact quite a bit — however, it's not being replenished anymore. We're not receiving new shipments, and we've pretty much run through what we had stored locally. In fact, we were actively shipping barrels from Helm Island here when this all occurred.
 
@@ -78,7 +78,7 @@ MERRICK: Understood.
 
 DM (as Jamis): I don't want a word of the powder or Fairwind's involvement getting out.
 
-MERRICK: Do I still need to keep an eye on Paul Rivera?
+MERRICK: Do I still need to keep an eye on Paul Revero?
 
 DM (as Jamis): No — that's a matter of trust that remains to be seen; I won't say one way or the other about his trustworthiness specifically, but he is Jeon's nephew and carries that privilege. From what I understand, he acted reasonably.
 
@@ -88,7 +88,7 @@ DM (as Jamis): No — a little hotheaded, stressful to manage, but not a liabili
 
 MERRICK: Of course.
 
-DM (as Jamis): I'll have a discussion with Paul Rivera myself, in Prince Jeon's presence, and get to the bottom of this. Gouge was a good partner on this — worked well, followed orders well enough. Have you spoken with him yet about any of this?
+DM (as Jamis): I'll have a discussion with Paul Revero myself, in Prince Jeon's presence, and get to the bottom of this. Gouge was a good partner on this — worked well, followed orders well enough. Have you spoken with him yet about any of this?
 
 MERRICK: That was his glass — I figured I could smell the red eye on it.
 
@@ -150,7 +150,7 @@ MERRICK: Would you like me to report back anything if I have further dealings wi
 
 DM (as Jamis): If you see anything that strikes you as treasonous, or any clandestine meetings, yes, I'd like reports on that — but I don't want you risking yourself over it.
 
-MERRICK: If you don't trust him, as you say, and you want Gouge and me to protect Paul Rivera as best we can — why was Jude allowed so close to Paul, if you don't mind my asking?
+MERRICK: If you don't trust him, as you say, and you want Gouge and me to protect Paul Revero as best we can — why was Jude allowed so close to Paul, if you don't mind my asking?
 
 DM (as Jamis): Prince Jeon requested it — and I gave Jeon exactly the warnings I've given you. However, Jeon is genuinely interested in magic, and Jude is one of the more powerful wizards in the principalities; I think he's hoping Jude will tutor Paul in the arcane arts. I've warned against it, for several reasons, but Jeon believes it's Paul's best path forward — and that homunculus you mentioned suggests he might be right.
 
@@ -182,7 +182,7 @@ MERRICK: Can do.
 
 DM (as Jamis): I believe Red Shore is where the traders from your part of the sea are being funneled by the Duke of Gradsul.
 
-MERRICK: Understood. I do have one favor to ask — any chance I could get a small amount of this powder for personal use, if I'm out and about and run into Sahaugin? Just enough to get myself out of a pinch is all I ask.
+MERRICK: Understood. I do have one favor to ask — any chance I could get a small amount of this powder for personal use, if I'm out and about and run into sahaugin? Just enough to get myself out of a pinch is all I ask.
 
 DM (as Jamis): I'll consider that — we can't spare much, but I can look into getting you some.
 
@@ -202,7 +202,7 @@ MERRICK: Understood.
 
 DM (as Jamis): Now, Owen's a bit more flexible morally than you are — he was in the Marines, loyal to that, but he's not as black-and-white as some. He'd work for any prince, really, no strong allegiance, but he's got grit — he'd never become a slaver, that's not his thing. More of a free agent, like a lesser version of some smuggler archetype you might imagine — but he wouldn't join any rebel faction either.
 
-MERRICK: Understood. Sounds good. Then I'll go meet with my cousin, report back what I learn, and also, as you said, talk to Folsom and Tyrus, make sure they keep quiet — hopefully this all gets resolved as quickly as possible. I'll leave the Sahaugin and the political matters in your hands, as you prefer to handle them.
+MERRICK: Understood. Sounds good. Then I'll go meet with my cousin, report back what I learn, and also, as you said, talk to Folsom and Tyrus, make sure they keep quiet — hopefully this all gets resolved as quickly as possible. I'll leave the sahaugin and the political matters in your hands, as you prefer to handle them.
 
 DM (as Jamis): Like I said, talk to Owen Black — I want information about Red Shore. I don't want to be seen with him myself, but I want you to learn what Red Shore looks like, what ships are there. After that, we'll decide what's next.
 

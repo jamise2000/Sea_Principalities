@@ -1,6 +1,6 @@
-[Speaker Key: DM = Dungeon Master (narration, voicing the prisoner Gregory and the jailer) | JUDE = Jude's player | PAUL = Paul Rivera's player]
+[Speaker Key: DM = Dungeon Master (narration, voicing the prisoner Gregory and the jailer) | JUDE = Jude's player | PAUL = Paul Revero's player]
 
-DM: The date is the 2nd of Wealsun, in the 579th Common Year of Keoland's calendar. Jude and Paul Rivera walk to the dungeons of the Royal Palace. It's not far down, but you pass several guards along the way who click their heels in acknowledgment rather than salute — they know he's coming, which tells you Jeon has granted him real standing with the household authority.
+DM: The date is the 2nd of Wealsun, in the 579th Common Year of Keoland's calendar. Jude and Paul Revero walk to the dungeons of the Royal Palace. It's not far down, but you pass several guards along the way who click their heels in acknowledgment rather than salute — they know he's coming, which tells you Jeon has granted him real standing with the household authority.
 
 JUDE: So even though I don't usually deal with that family directly, he's clearly trusted.
 
@@ -454,7 +454,7 @@ PAUL: We'd still need to stay in contact with you, which means you'd know how to
 
 DM (as Gregory): I don't know what that elf agent could even offer me that would be worth it.
 
-DM (as Gregory): Oh, by the way — I was already questioned once, by Paul Rivera and some mysterious masked figure, in the dungeon of the Royal Palace, about the Toli wandering the foreign district.
+DM (as Gregory): Oh, by the way — I was already questioned once, by Paul Revero and some mysterious masked figure, in the dungeon of the Royal Palace, about the Toli wandering the foreign district.
 
 JUDE: [startled] Wait, what — who questioned you?
 

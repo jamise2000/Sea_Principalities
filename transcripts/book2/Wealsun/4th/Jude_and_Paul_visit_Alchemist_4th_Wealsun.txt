@@ -47,7 +47,7 @@
 [SPEAKER_00]: Yes, he's on the case. Copper and sulfur — the elements — combined in a way that you'll understand. Come, let me show you.
 [SPEAKER_02]: We gave him a sample, remember, of the material taken from — was it Helm Island?
 [SPEAKER_00]: Helm — yes, on Helm Island, during that adventure with all that material.
-[SPEAKER_02]: Remember the Sahaugin, and those creatures, and what specifically protects Helm Island — it's that material. We took some, and I asked him to analyze it.
+[SPEAKER_02]: Remember the sahaugin, and those creatures, and what specifically protects Helm Island — it's that material. We took some, and I asked him to analyze it.
 [SPEAKER_00]: Copper and sulfur — combined in a way that's very strange, very new to me.
 [SPEAKER_02]: A process you've never seen before?
 [SPEAKER_00]: I don't know it. I know the elements — I've broken it down, I know what's there, and there are some other trace elements. But basically, copper and sulfur, combined in a way I've never seen.
@@ -74,9 +74,9 @@
 [SPEAKER_02]: Do you know how it's made?
 [SPEAKER_00]: No. That's what Jeon was saying too. I thought I had something that explains a bit of it — do you have any equations? Grayson was doing research, trying to figure out how to make it.
 [SPEAKER_01]: [to Jude] So, why is this so important that we make or reproduce it? [to DM, breaking briefly] You're asking the DM, right?
-[SPEAKER_02]: No, I'm asking him. Well, you know what — it's to keep the Sahaugin back.
-[SPEAKER_01]: The Sahaugin get killed by it?
-[SPEAKER_02]: Yeah, and so the sea principalities use it to make sure the Sahaugin stay away.
+[SPEAKER_02]: No, I'm asking him. Well, you know what — it's to keep the sahaugin back.
+[SPEAKER_01]: The sahaugin get killed by it?
+[SPEAKER_02]: Yeah, and so the sea principalities use it to make sure the sahaugin stay away.
 [SPEAKER_01]: And it's such a finite amount that they have to sprinkle it carefully.
 [SPEAKER_02]: Yeah — those stores have lasted twenty years because we haven't gotten any new supply.
 [SPEAKER_02]: [to the Alchemist] You know this is explosive, right?
@@ -94,7 +94,7 @@
 [SPEAKER_02]: Bring them to me.
 [SPEAKER_00]: This is an interesting problem — I would like to help. I assume you want more of this substance, but my question to you is: why do you wish to kill the fish?
 [SPEAKER_02]: Not all of them — sorry.
-[SPEAKER_00]: No, that makes sense — that's the reason the Sahaugin haven't bothered the sea principalities. Ah — this is the magical "shield" I'd always wondered about. This answers so many questions.
+[SPEAKER_00]: No, that makes sense — that's the reason the sahaugin haven't bothered the sea principalities. Ah — this is the magical "shield" I'd always wondered about. This answers so many questions.
 [SPEAKER_02]: I mean — are we allowed to know this?
 [SPEAKER_00]: Am I not allowed to tell you? No — but through you, yes. Do you understand? I understand that if Paul Rivera is here, he is protected — is that correct?
 [SPEAKER_02]: Yes.

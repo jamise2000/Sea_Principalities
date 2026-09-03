@@ -1,4 +1,4 @@
-[Speaker Key: DM = Dungeon Master (narration, voicing Lord Jamis) | JUDE = Jude's player | PAUL = Paul Rivera's player. NOTE: the file header says "Gouge and Paul discuss," but the dialogue clearly involves Jude (in his mask) and Paul, as in the surrounding files — this appears to be a labeling mix-up in the original session title, corrected here based on context.]
+[Speaker Key: DM = Dungeon Master (narration, voicing Lord Jamis) | JUDE = Jude's player | PAUL = Paul Revero's player. NOTE: the file header says "Gouge and Paul discuss," but the dialogue clearly involves Jude (in his mask) and Paul, as in the surrounding files — this appears to be a labeling mix-up in the original session title, corrected here based on context.]
 
 DM: The date is the 2nd of Wealsun, in the 579th Common Year of Keoland's calendar — around 2 p.m. in the afternoon, Jude and Paul discuss their next step.
 
@@ -176,7 +176,7 @@ DM (as Jamis): I mean, who would seize the fortress without planning to do more 
 
 JUDE: How will you have us inserted, with the corsair?
 
-DM (as Jamis): Paul Rivera will be himself, out there in open daylight — you'll be known to the captain.
+DM (as Jamis): Paul Revero will be himself, out there in open daylight — you'll be known to the captain.
 
 PAUL: Okay.
 

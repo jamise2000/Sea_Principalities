@@ -1,6 +1,6 @@
 # Prince Jeon II
 
-Prince of Monmurg, captain of all fleets and Ruler of the Azure Sea — first among the five princes of the Sea Principalities and the Hold's official leader. A good and widely loved ruler, uncle and protector of Paul Rivera, and an idealist whose loyalties and convictions may be the very seams the Toli intend to pull apart. An NPC, and the crown at the center of the story's crisis.
+Prince of Monmurg, captain of all fleets and Ruler of the Azure Sea — first among the five princes of the Sea Principalities and the Hold's official leader. A good and widely loved ruler, uncle and protector of Paul Revero, and an idealist whose loyalties and convictions may be the very seams the Toli intend to pull apart. An NPC, and the crown at the center of the story's crisis.
 
 ## Physical Description and Bearing
 

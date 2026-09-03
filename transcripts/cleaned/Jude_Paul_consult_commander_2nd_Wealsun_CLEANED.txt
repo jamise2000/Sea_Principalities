@@ -1,4 +1,4 @@
-[Speaker Key: DM = Dungeon Master (narration, voicing the garrison captain) | PAUL = Paul Rivera's player (leading the questioning, as Jeon's representative) | JUDE = Jude's player. NOTE: the source recording does not clearly mark speaker turns; Paul is assigned the bulk of the interrogation in keeping with the "you should be doing the talking" dynamic established in the preceding scene, while lines concerning the sewer/water tunnels, the Sahaugin enchantment, and levitation magic are assigned to Jude, consistent with his established paranoia about infiltration routes and his (secret) spellcasting. The disguise-kit/mask-making exchange near the end is assigned to Paul, who handles that work throughout these files. A few pure dice/mechanics asides with no narrative content have been omitted.]
+[Speaker Key: DM = Dungeon Master (narration, voicing the garrison captain) | PAUL = Paul Revero's player (leading the questioning, as Jeon's representative) | JUDE = Jude's player. NOTE: the source recording does not clearly mark speaker turns; Paul is assigned the bulk of the interrogation in keeping with the "you should be doing the talking" dynamic established in the preceding scene, while lines concerning the sewer/water tunnels, the sahaugin enchantment, and levitation magic are assigned to Jude, consistent with his established paranoia about infiltration routes and his (secret) spellcasting. The disguise-kit/mask-making exchange near the end is assigned to Paul, who handles that work throughout these files. A few pure dice/mechanics asides with no narrative content have been omitted.]
 
 DM: Second of Wealsun, around 9:15 p.m. Paul and Jude send for the captain to have a discussion regarding the Helm and its defenses.
 
@@ -32,17 +32,17 @@ JUDE: Is there any kind of subterranean sewer system?
 
 DM: He looks at you for a moment. [as the captain] This is a state secret — but since Prince Jeon sent you, I'll assume you're cleared to know. There are supposedly secret entrances underneath the Helm. A cave system, navigable by small boat, running beneath the fortress itself. It was an old smugglers' hideout, centuries back. I've never been down there myself — the Admiralty doesn't let anyone near it. But there are rumors it's somewhere on this side of the island. If the hobgoblins had knowledge of it, that could be how they got in — though how they'd have made it up through the caverns is another question. I have no real knowledge of this — it's rumor.
 
-JUDE: I asked about the sewer system because I'm concerned about the Sahaugin using any water-access tunnels to get in.
+JUDE: I asked about the sewer system because I'm concerned about the sahaugin using any water-access tunnels to get in.
 
-DM (as the captain): That's what's strange — historically, the Sahaugin have never been able to reach this island at all. It's supposedly protected by a magical enchantment that kills any Sahaugin who come near. Even sharks won't approach these waters.
+DM (as the captain): That's what's strange — historically, the sahaugin have never been able to reach this island at all. It's supposedly protected by a magical enchantment that kills any sahaugin who come near. Even sharks won't approach these waters.
 
 JUDE: Who maintains that enchantment — or has it just held on its own for a hundred years?
 
-DM (as the captain): The fact that the Sahaugin can reach these beaches now is a serious problem. Otherwise our ships would range freely around this island — but that protection has held for over a hundred years, since the Great Sahaugin Wars.
+DM (as the captain): The fact that the sahaugin can reach these beaches now is a serious problem. Otherwise our ships would range freely around this island — but that protection has held for over a hundred years, since the Great Sahaugin Wars.
 
 JUDE: Is the enchantment linked to the turtle dragons somehow?
 
-DM (as the captain): I know nothing of that. I've heard turtle dragons favor Sahaugin the way they favor sharks — I'd assume Sahaugin flee from them the way anyone would, since sharks are apparently a turtle dragon's favorite meal. I'd guess that extends to sharkmen too.
+DM (as the captain): I know nothing of that. I've heard turtle dragons favor sahaugin the way they favor sharks — I'd assume sahaugin flee from them the way anyone would, since sharks are apparently a turtle dragon's favorite meal. I'd guess that extends to sharkmen too.
 
 PAUL: That could be it — if their protection's been withdrawn, that might tie into everything else we're already facing, with the blockade on the Sea Principalities.
 
@@ -112,9 +112,9 @@ PAUL: [to the DM] Even with braziers and fires, would those still not count as t
 
 DM: No — you could definitely signal with those, and honestly, having them lit again would help, because shipping passing at night would be able to see the Helm and steer clear. Taking those back would help warn off shipping, and you'd communicate better with Monmurg too.
 
-PAUL: But I think what the captain's really getting at is that the Sahaugin enchantment being down is the real crisis here.
+PAUL: But I think what the captain's really getting at is that the sahaugin enchantment being down is the real crisis here.
 
-DM (as the captain): That's the biggest problem. If reinforcements come, they could swamp the bay — and they already took out two hundred Marines aboard a ship. Short of a full assault with a thousand Marines or more, depending on Sahaugin numbers, that's a serious threat.
+DM (as the captain): That's the biggest problem. If reinforcements come, they could swamp the bay — and they already took out two hundred Marines aboard a ship. Short of a full assault with a thousand Marines or more, depending on sahaugin numbers, that's a serious threat.
 
 PAUL: How would you go about retaking the other two towers, given that we hold the South Tower? What would you recommend?
 
@@ -192,7 +192,7 @@ PAUL: Can you think of anything else that might help with subterfuge or stealth?
 
 DM (as the captain): No — the more people you bring, the harder it'll be to stay hidden. I wouldn't take a large group, and I'd put them under your command so I can stay and defend the barracks. I don't know how many men Gouge will bring — knowing him, not many. He doesn't trust anybody as it is.
 
-DM (as the captain): I'd suggest you prepare your troops and a plan to take the Western Tower, and when Gouge arrives from Monmurg, we discuss it further with him — see if he has any variations, and prepare a diversionary maneuver as well. I'd like there to be as few casualties as possible, especially with the Sahaugin still a threat to holding this island. So don't waste lives at the front gate unless I'm the one making things explode there.
+DM (as the captain): I'd suggest you prepare your troops and a plan to take the Western Tower, and when Gouge arrives from Monmurg, we discuss it further with him — see if he has any variations, and prepare a diversionary maneuver as well. I'd like there to be as few casualties as possible, especially with the sahaugin still a threat to holding this island. So don't waste lives at the front gate unless I'm the one making things explode there.
 
 DM (as the captain): This sounds like a decent plan. Paul — are you going to be part of the group that infiltrates the Helm?
 

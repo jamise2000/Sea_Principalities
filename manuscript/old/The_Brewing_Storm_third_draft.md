@@ -3,451 +3,13 @@
 
 ---
 
-## PART ZERO: TWO ROADS TO MONMURG
-
-# Chapter One — The Envoy from Idee
-
-Idee had taught Jude to travel light and trust little, and both habits served him well on the Onwalian trader that carried him west out of Scant, deep into the month of Flocktime. He had booked the passage himself, with Horace Baldpate at his shoulder as he had been for the better part of a year now — a fifth-level sword for hire out of Onwal, broad through the chest, unhurried in his opinions, and possessed of the one virtue Jude prized above swordsmanship in a hired man: he knew the ports of the western world, and he had never once asked why an elf wizard wanted to reach a city under siege.
-
-The mission, such as it was, could be stated in a single sentence, though Jude had turned it over enough times on the voyage that it no longer felt so simple. Find Karmirg. Bring him home, or bring back something that would serve as well. The half-orc had deserted the wars in Idee more than a year past, vanishing south with Gouge and a Reaver's letter of marque, leaving his hill-tribesmen leaderless and scattered before the giants they had provoked, and Idee — beaten low by the Herzog of the South Province and by the tidal wave that had drowned half of Naree before that — could not easily spare the men it took to replace him. Lord Anlauf Ogmotton had not ordered Jude to bring Karmirg back so much as begged him to, in the particular tired, unsparing way of a man who had run out of better options.
-
-There was a second sentence beneath the first, unspoken even to Horace: that Jude was glad of an excuse to see Monmurg again, whatever the state of it, and that some of what he told himself was duty toward Idee was really an old debt of his own — Karmirg, and by extension Gouge, and by further extension Lord Jamis, the patron who had once made use of him and might again, if the offer were sweetened correctly. A trade port at Naree, ships that no longer paid Onwal's tolls, silver enough to make the Sea Princes take an interest in a country they had never troubled to learn the name of. It was, Horace had said one evening over a shared bottle, a very good plan for a man with an evil mind, and Jude had not entirely denied it.
-
-"You're thinking again," Horace said, on the third night out, watching Jude turn a coin over and over between two fingers without seeming to notice he did it. "You do that face."
-
-"I'm listening," Jude said. "You've sailed more of these waters than I have. Tell me what Onwal thinks of the Great Kingdom's reach into the Azure Sea."
-
-Horace obliged, at length, and by the time the wine was gone Jude had a clearer sense of the board he meant to play on — the Iron League clinging together by momentum more than strength, the Sea Princes indifferent to everything but coin, the old grudge between Suel houses that ran under half the politics of three nations like a fault line no one spoke of directly. He filed it away. Information was the only cargo he never ran short of room for.
-
-The Keoland warships found them a week later, on a grey morning with the coast of the Pomarj a smudge to the northeast. Two men-of-war, flying the red-and-black lion of the crown over the standard of the Duke of Gradsul, closed on either bow with the unhurried confidence of ships that expected no argument, and got none. Ten marines came aboard, polite and thorough, and the merchant captain — a man Jude had marked already as more anxious than his cargo manifest justified — capitulated to their terms before Jude had finished dressing.
-
-"They're diverting us," Horace reported, back from the deck with the particular blankness of a man delivering news he didn't like. "Monmurg's under embargo. All shipping bound there goes to Redshore instead, for inspection."
-
-"Embargo," Jude said, "or war?"
-
-"They didn't use that word. But I don't think it matters which word they use."
-
-Jude weighed, briefly, the cost of forcing the issue — of putting both ships to the torch and swimming for it, of pressing the captain to run rather than yield to two hulls that could not, by any measure Horace could offer, actually outsail an Onwalian trader with a full head of wind. He decided against it before the thought had fully formed. Whatever waited in Monmurg, it would still be waiting after a day lost to Redshore, and a burned patrol boat was not a debt he wanted following him into a city he meant to ask favors of. He went up on deck instead, watched the Keoland colors flying off the bow, and said nothing that could be repeated against him later.
-
-Redshore, when they raised it that evening, was not what the name promised. Forty-odd ships lay at anchor in the channel between the island and the Salinmoor coast, more hulls than the little fishing town could possibly unload in a season, and the beach had sprouted a raw, improvised market of kegs and stalls and canvas awnings, merchants hawking wares to men who had nowhere else to spend their coin and nothing better to do while they waited for a war to end. Horace stared at the crowd of masts with something like physical pain.
-
-"There's no moorage here," he said. "It would take a month to empty these holds properly."
-
-"Then I expect a great many men are about to lose a great deal of money," Jude said, and went to find the ship's sergeant.
-
-He gave his name plainly enough — Jude, of Idee — and let the sergeant read what he liked into the rest: a man of some means, traveling light, not fool enough to try smuggling contraband past armed marines with a straight face. He did not offer the word *diplomat* until he was asked, and even then he let it sit lightly, a card shown rather than played. It bought him passage ashore before nightfall, and a name — the Earl of Redshore, who alone among the men currently choking off Monmurg's trade might have the standing to let one small, insistent elf continue on his way.
-
-The castle sat at the end of a stone mole jutting into the bay, two keeps joined by a drawbridge, built for a siege from the sea and none at all from the land — a fortification that would have fit, Jude thought, comfortably inside one wing of Prince Jeon's palace, and said as much to no one but himself. He paid the coin he was asked for and did not haggle over it. In Jude's experience, a man who bribed cheerfully was rarely searched carefully, and a diplomat with an open purse was a much more interesting guest than one who counted his silver twice.
-
-"Please," he told the guard captain at the gate, gesturing at the crowded bay behind him with the particular weary grace of a man too long at sea, "I would gladly pay more than my share for a hot meal and a place by the fire. Whether or not the Earl wishes to hear my case."
-
-The guard studied him, studied the jingling purse, and let the drawbridge down.
-
-They fed Horace in the kitchens, and led Jude up a worn stone stair into a hall hung with tapestries and warmed by a hearth too large for the room, where he waited alone long enough to notice the crest above the mantel — a Suel design, old and proud, worn thin at the edges the way old pride tends to wear. When the Earl finally came, he came unhurried: fifty-some years old, black-haired despite his Suel blood, a longsword worn with the ease of a man who had used it more than once and did not need to prove it now.
-
-"I find something strange about you," the Earl said, when the wine was poured and the courtesies exchanged, studying Jude with the frank, unapologetic interest of a man who had few visitors left to study. "An elf, plainly enough. But I have never before seen an elf with your eyes."
-
-Jude did not flinch from it. He had stopped flinching from it years ago, though he had never stopped noticing when someone else did — the faint slit of pupil that opened wide and strange in low light, snake-quick, nothing an elf's eye ought to do. "A dragon in the family tree, perhaps," he said, lightly, and watched the Earl decide not to press further, filing the oddity away instead with the same careful attention he gave everything else about his guest.
-
-The conversation that followed told Jude a great deal more than he offered in return. The Earl held little patience for Idee's troubles — *this bores me, Jude* — but no shortage of opinion on the war he had been posted to enforce: that the Duke of Gradsul meant, in the end, to bring the four Oeridian princes of the Sea Principalities to heel and only then treat with Port Toli, whose slaving the Duke's whole crusade was nominally meant to end. It was, the Earl allowed with something close to satisfaction, a fine excuse for an old rivalry, dressed in the clothes of a moral cause. He did not call it that outright. He did not need to. Jude had spent enough years reading men who chose their words for what they concealed rather than what they revealed to hear the shape of it anyway, and he let the Earl believe he had been subtler than he was.
-
-"You are not merely an ambassador from some small country I've never heard of," the Earl said at last, leaning back, wine in hand. "So it is fortuitous fate has drawn you my way. For both of us, I think."
-
-"How so, my lord?"
-
-"Just as your Lord Jamis has the ear of Prince Jeon, I have the ear of the Duke himself. I'm always in want of good agents to bring me information." A pause, weighted, deliberate. "Troop movements. The temper of the city. The state of its granaries. Someone in want of a patron with real pockets would do well to remember who offered first."
-
-Jude turned his wine glass slowly and said all the things a frightened, over-matched foreign envoy ought to say — that he sought only to serve Idee, that he understood nothing of Monmurg's defenses beyond what any traveler might notice, that he was, alas, entirely out of his depth among houses so great and dealings so far above his station. He did not say yes. He did not say no. He let the Earl believe he had planted a seed in soil that might, given time and money, grow something useful, and the Earl seemed content enough with that to offer, unprompted, the one thing Jude had actually come for.
-
-"There's a man in Redshore. Owen Black — once of the Sea Principalities' own navy, now a smuggler and a knave, but he knows these shipping lanes and these patrols better than any man alive, and he owns his own ship. For the right price, he might take you as far as one of the outer islands. Perhaps even to Monmurg itself." The Earl's eyes glinted, amused at his own generosity. "Find him at a bar called the Whale. Loud, scarred, hard to miss. Tell him nothing happens in Redshore without my say-so, and that I hope, in time, we'll find each other useful."
-
-Jude thanked him with exactly as much warmth as the offer deserved — genuine enough to be believed, careful enough to promise nothing — and left the castle a little after nine, Horace falling into step beside him on the road back toward the town's raucous, torch-lit sprawl of makeshift taverns.
-
-"An interesting man," Horace offered, once they were well clear of the gate.
-
-"He wanted me for a spy," Jude said, "and gave me a smuggler instead. I'll take the better bargain." He glanced sideways at his companion, weighing how much of the rest was worth saying aloud even here, and decided: little enough. "Watch what you say tonight. We're about to go looking for a man in a room full of people who'll sell what they hear to whichever side pays first."
-
-"I generally assume that's true everywhere," Horace said, and Jude, for the first time since the man-of-wars had come alongside, allowed himself something close to a laugh.
-
-# Chapter Two — Owen Black's Passage
-
-The wine merchant found them before they found the Whale — a well-dressed Oeridian with two armed guards flanking his cart and a keg of something pale and foreign-tasting he called Chardonnay, and Jude, recognizing an easy source of gossip when one presented itself, bought three bottles at a price the man plainly considered a personal triumph.
-
-It bought more than wine. Loosened by coin and the rare pleasure of a customer who didn't haggle, the merchant offered up everything Redshore had been whispering for weeks: that some sorcerer had turned a sea monster loose among the islands off Monmurg's strait, and that no ship of the Sea Principalities' navy could pass north of it unmolested; that Port Torvin had burned to the waterline not a fortnight past, every man, woman, and child put to the sword or the flame, and with it the last shipment of grain the Yeomanry had sent to feed a starving city; that the pirates responsible flew no colors of their own, but were said — by rumor, only by rumor, the merchant was careful to stress, refilling his glass — to answer to the new commandant of a backwater called Saltmarsh, in a province long thought too cursed and too marsh-ridden to matter to anyone.
-
-"And the Toli," Jude said, watching the man's guards for any flicker of recognition rather than the man himself. "You've heard nothing of them in all this?"
-
-The guards said nothing. That, in itself, told him something.
-
-"The Toli purchase whatever peace they can buy," the merchant said, with the vague unease of a man repeating something he did not fully understand and did not wish to. "Strange things are happening in these waters that have nothing to do with dukes or princes."
-
-Jude thanked him for his candor and his Chardonnay in equal measure, and left three bottles lighter and considerably better informed, following the merchant's directions two hundred feet down the pier to a raucous, lantern-lit tangle of driftwood tables the man had called the Whale.
-
-Owen Black found them before Jude had finished his second drink — a scarred, loud, unmistakably Oeridian man who crossed the tavern floor the moment Jude's borrowed authority reached him, and settled into the seat across the table with the easy confidence of a man who already knew he was being courted.
-
-"You have me at a disadvantage, friend," he said. "Who sent you my way?"
-
-"He lives across the water, in the large stone construction."
-
-Owen Black's grin widened. "Ah. Say no more. He wouldn't send you unless you had need of me."
-
-The terms were simple enough, once the pleasantries had run their course: fifty gold now, fifty on landing, passage for two only, no promises about anyone else's ship in the harbor making the same run. Jude paid half up front and watched the man's eyes track the weight of the purse rather than its contents, filing away the small, useful fact that Owen Black valued coin more than curiosity — a trait Jude had found, over a great many years, to be the single most reliable quality in a hired man.
-
-They boarded within the hour. Owen's sloop proved fast and lean beneath a hull scorched black in patches along the deck — old fire damage, poorly scrubbed away, that the man explained with a shrug and no real elaboration: the ship had been stolen from him some months back, returned to him afterward, and he professed not to know how the scorching had come to be there. Jude let the lie sit unchallenged. A man in his trade collected more secrets than he could use, and this one belonged to someone else's story.
-
-They ran without lights through waters thick with anchored merchantmen, Owen threading the gaps between hulls with the unhurried skill of a man who had done it a hundred times before, and by the small hours they were clear of the bay entirely, running south along a coastline of green rolling hills that gave no sign, in the moon's poor light, of any war at all.
-
-"There's not much west of Angler Island," Owen said, when Jude asked after the low smudge of land visible off the port bow. "Saltmarsh has docks now, if you believe it. New lord there, trying to make something of the place."
-
-"And the sea monster the merchant spoke of?"
-
-Owen was quiet a moment too long before he answered. "If there's truth in that rumor, I'd wager on one of the sea turtles out of the Dragon Isles. I've sailed past them myself. Strange storms out there — a mist once, thick as a hurricane, in a sea too shallow to breed one honestly." He nodded toward a point on the dark water Jude could barely make out, low clouds clinging to the horizon at the very edge of sight. "And there — do you see it? An old fort, built a hundred and fifty years back against the sahaugin. A Toli princeling holds it now. Ships come and go from there at all hours, and every time the Monmurgian fleet tries to sally in force, that's when the storms come up."
-
-Jude filed the fort away beside the sea turtle and the mist and the burning of Port Torvin, one more piece in a shape he did not yet have enough pieces to see clearly, and said nothing more of consequence until Owen's men put the longboat over the side within sight of Ensar's rocky beach, near dawn.
-
-"Remind him," Owen said, taking the second half of his fee, "that I'm well in Monmurg. That's the only message I need carried."
-
-The two miles into Ensar went slowly, Jude and Horace hauling a wine crate slung between two poles like the poorest sort of porters, until a tanner with a mule cart agreed, for two gold coins, to carry them the rest of the way to the city.
-
-He talked the whole thirty miles, as men paid to talk tend to do, and Jude let him, offering wine and careful questions in the proportions that kept the man's tongue loose without ever making him suspicious of why an elf claiming to be from Redshore cared so much about ships and storms and Toli movements in the middle bay. He learned that the tanner had seen the same fortress-island Owen had pointed out, more than once, and that ships sailed to and from it freely by daylight, in numbers that had nothing to do with smuggling. He learned the name that went with it — Cain Toli — offered up for the price of a single gold coin and a shared bottle. He learned that the Monmurgian fleet had sallied twice in recent memory, and both times been driven back by storms that broke, with suspicious punctuality, the moment the fleet cleared the strait. And he learned, last and worst, that Port Torvin's destruction had been laid at the feet of a man called Captain Crimson — by all accounts a Toli agent, though rumored to answer, strangely, to the new commandant of Saltmarsh rather than to any prince of his own house.
-
-"I'll tell you what," Jude said at last, as the walls of Monmurg rose ahead of them in the last grey light of evening, "I would pay you to speak of all this to a man I know here. A Lord Jamis."
-
-The tanner's easy chatter dried up at once. "A man as important as Lord Jamis," he said, careful now, "surely knows all that I know."
-
-"Perhaps," Jude allowed, and let the matter drop, and pressed an extra handful of silver into the man's palm anyway, for a name and a fort and a suspicion he intended to make considerably more use of than the tanner would ever learn.
-
-They reached the gates a little before eight, on the evening of the first of Wealsun — a year and a season since Jude had last stood inside them, and the city that opened before him was not the one he remembered. The Great Market beyond the gate, which by his memory ought to have been a wall of noise and color even at this hour, stood half empty, its stalls given over more to the sale of bread and porridge than of silk or spice. The guards who searched them were thorough in a way peacetime guards rarely bothered to be. And when Jude gave his name and stated his business — an audience, if it could be arranged, with Lord Jamis — the escort that arrived to collect him came twelve men strong, polite, unsmiling, and entirely unsurprised.
-
-"Leave the wine," the sergeant told him, when Jude reached for the crate at the Bailey's door. "You can tell Lord Jamis of your gift."
-
-Jude left it, and Horace beside it, and let himself be led down a corridor he remembered rather better than he let the guards see, toward a small, well-furnished room hung with charts of the Azure Sea — and toward the one conversation, of everything that had happened since Idee, that he suspected would actually matter.
-
-# Chapter Three — The War of Spies
-
-Lord Jamis kept him waiting ten minutes, which Jude judged deliberate, and used to pace the small room's worn carpet and take its measure again: the charts, the navigation instruments gathering dust on a shelf that spoke of a younger man who had once sailed farther than most of his countrymen, the two chairs set at a careful, unthreatening distance from each other. He had sat in this room before. It had not changed. He was less certain, this time, that he had not.
-
-"So," Jamis said, when he finally came in and settled across from him, unhurried, "you've returned from your journeys."
-
-"I return in a season of plenty," Jude said, "and find, on arriving, a great deal of hardship."
-
-"What brings you back?"
-
-He gave it plainly enough — Karmirg, the ruin of Idee's hill levies without him, the hope of some loan or trade concession that might keep a small, drowning country afloat a season longer. He watched Jamis's face for the tell he half-expected and did not find one; only that same unhurried attention, and, every few seconds, a finger raised absently to his lips, moving as though shaping words with no sound behind them, a habit Jude found himself unable to stop watching.
-
-"Let me ask a question first, Jude. Idee. What news of it — is there someone there you serve?"
-
-"No one but your lordship, in truth," Jude said, and told the rest honestly enough, because honesty, deployed selectively, had always served him better than the alternative: the blockade, the two men-of-war, Redshore, the Earl.
-
-Jamis's stillness sharpened at that. "You've been in Redshore."
-
-"I have. I spoke with the Earl himself."
-
-"Did the Earl ask you to assassinate me?"
-
-"No," Jude said, and put both hands up, palms open, letting the gesture do work his voice could not. "I swear it. Even had he asked, I would not have thought of it."
-
-"I will know if you are lying to me."
-
-"Then know that I'm not." He held the look a moment, then let his hands drop and his shoulders ease, and watched something in Jamis's posture ease with them. "He did offer me something, though I doubt it will surprise you. Coin, in exchange for whatever I might learn of you, and of Prince Jeon's intentions. I told him nothing that mattered. He gave me a smuggler in return, and I used the man to reach your gates, which I judge the better half of that bargain."
-
-"That's whose ship my man in Ensar saw you with." Jamis studied him a long moment, and then, unexpectedly, laughed — short, dry, more relief in it than humor. "Yes. I see."
-
-He rose, crossed to a cabinet, and came back with a single bottle and two glasses, and something in the room's temperature changed as he poured — the careful interrogation folding itself away, replaced by something closer to the old ease Jude remembered from years before. "My brother-in-law brought me this a week past. Try it."
-
-"To your health," Jude said, lifting the glass, "and to the success of Monmurg in difficult times," and meant at least half of it.
-
-It was there, over the wine, that Jamis began, in earnest, to tell him how bad things truly were — a telling that went on long enough, and ranged wide enough, that Jude understood he was being trusted with more than an old agent's due. A month and a half past, an evoker out of Gradsul named Lord Phranck had come to Monmurg seeking audience, and Jamis, uncertain of the man's purpose, had set Gouge and Karmirg to guard him as hired swords rather than reveal his own hand. Four Toli assassins had struck at Phranck on the docks that same visit — the sort of killers used only against great nobles, which told its own story about how seriously the Toli regarded him — and in the fighting's aftermath, Phranck had read the dying mind of one of the attackers and let slip, almost in passing, that a Toli adventurer named Cain Toli had come into possession of some rare and terrible artifact.
-
-"An artifact," Jamis said, "that we believe controls one of the dragon turtles out of the Dragon Isles. The greatest of them — the very one we've paid our tribute to for a hundred and fifty years. We've lost three ships trying to run the blockade since. Every time we sally in force, a storm rises that has no business existing in these waters, and the fleet limps home, or doesn't come home at all."
-
-"I heard something of a fort," Jude offered, "held in the middle bay. A tanner told me ships come and go from it freely, and that they leave whenever your fleet tries to sail."
-
-"That would be Cain Toli's island," Jamis said, something sharpening behind his eyes at the confirmation. "You sailed past it yourself, on your way in with Owen Black."
-
-The rest came in pieces, each one worse than the last. Phranck, it seemed, had not come to Monmurg out of simple diplomacy — Jamis's brother-in-law in Gradsul, a Suel courtier and former head inquisitor named Zafar Azane, had confirmed that Phranck now held secret office as an Inquisitor of the Office of Forbidden Magic, hunting necromancy in Salinmoor under a cult calling itself the Sons of Olan, tied somehow to a black, madness-inducing drink brewed by kobolds in the marshes near West Keep. Phranck traveled with a gnome alchemist, Cebu Baron, said to be hunting a cure for the same black sickness now spreading through the Principalities. And when Phranck left Monmurg two months past, he had been taken captive by Cain Toli himself and held on that same island fortress, before escaping by means Jamis did not know and plainly wished he did.
-
-"I don't know where his loyalties truly lie," Jamis admitted. "He works for the Duke of Gradsul, that much is certain. But he is ambitious past the point of easy use, and Zafar believes we might yet turn him — through Cebu, who he's close to, and who Zafar very much wants as an agent of ours."
-
-There was more still: an elf spy named Kalisi, planted in Monmurg by Phranck months before and since turned, or apparently turned, into one of Jamis's own couriers — the same woman who had helped deliver a traitorous harbormaster into Toli hands at Port Torvin, only for the pickup to become the massacre that burned the town to the waterline. A Monmurgian merchant, grown rich smuggling goods through Saltmarsh under Keoland's nose, who Phranck had questioned and frightened badly enough to send running home. A mad alchemist in the foreign district who Phranck had also visited, for reasons Jamis had not yet untangled. And beneath all of it, a deeper and more unsettling shape: that the Duke of Gradsul, denied a Suel bride from any great house of Keoland for two generations running, had been offered one at last by the Toli — pure Suel blood to continue his line — in exchange for grinding the four Oeridian princes of the Sea Principalities into the sea, after which, Jamis suspected, the Duke would find himself very much alone with allies who had never wanted anything but his fleet spent and his enemies dead.
-
-"The Scarlet Brotherhood," Jamis said, low, "have made inroads into the very academy at Gradsul. Zafar believes they're shipping arms into the Duchy of Berghof under everyone's nose, and that this alliance of Toli and Gradsul and Berghof is meant to clear the Sea Principalities from the board entirely. I don't say this to Jeon. I don't say this to anyone, save you, now."
-
-Jude sat with that a long moment, turning it the way he turned any problem too large to solve outright — into pieces small enough to be worked at one at a time. "And you believe I can help you sort truth from performance in all of this. More than Gouge could. More than Karmirg."
-
-"Their loyalty is beyond question," Jamis said. "Their insight into magic is not. I need a scalpel as well as a cutlass, Jude, and right now the fog in front of me is thick enough that I can't tell which end of the knife I'm holding." He opened a drawer, and set on the table between them a familiar ring — the one he had taken from Jude years before, in the old days of half-trust and mutual use that had defined their arrangement then. "Take it back. You'll need it for my purposes. The truth is, I am desperate enough that I would take you into my service this hour, and trust you more, in this particular matter, than almost anyone else I have."
-
-Jude took the ring, turned it once between his fingers, and put it on without further comment, which seemed answer enough for both of them.
-
-What followed was practical in the way Jamis's instructions always were — precise, hedged, designed to be denied later if it came to that. Jude was to seek out three threads: Kalisi, who knew Phranck best and was, not incidentally, being tested for her true loyalties by being told rather less than she believed she was told; the merchant Phranck had frightened out of Saltmarsh; and the mad alchemist in the foreign district, whom Phranck had also visited and whom Jamis suspected knew more than he let on. Jude would live at Ferd's, as he always had, and receive his stipend and his messages through Kalisi, who did not yet know Jude answered to the same master she did, and whom Jamis meant to use, in turn, as a test — if word of some invented indiscretion of Jude's failed to reach Jamis by any route but Kalisi's own mouth, he would know exactly where her true loyalties sat.
-
-"If you ever come to distrust her outright," Jamis said, "or suspect the Toli have turned her against me, come to me directly. I'll know something is badly wrong. Until then, let her think you're approachable. Let the Toli believe it too."
-
-"And if I need a man questioned somewhere quieter than an alley?"
-
-"Ask Kalisi to send you One Thumb. You remember him."
-
-"I remember precisely what he did to Karmirg's threats of vengeance," Jude said, "which is to say nothing at all, and go on sharpening his knives."
-
-Jamis's mouth curved, the closest thing to real warmth Jude had seen from him all evening. "Then you understand him well enough."
-
-There was one more matter Jude would not leave unspoken, whatever else the night had cost his original errand. "Idee still stands, Lord Jamis, for now. If there's any way to warn Philo — Anlauf Ogmotton's regent — of what you suspect the Scarlet Brotherhood intends beyond the South Province, I would ask it of you as the last of what I came here for."
-
-"I'll see a message sent," Jamis said, "though the seas between here and there are no longer safe for anyone to carry it. That is the truth of everything now, Jude. Nothing is safe. Not the seas, not the city, not the men who serve me." He rose, signaling the audience's end, weariness settling visibly back over him now that the performance of it was done. "At least you'll have seen Monmurg once more, before we learn whether it falls."
-
-"I sincerely hope it does not," Jude said, and bowed the elf's quick, economical bow, and meant that too, more than he had expected to when he'd walked in.
-
-Horace was waiting on the Bailey steps when the guards released him, wine crate at his feet, patient as ever. "Well?" he asked, once they were clear of the door and out into the cooling evening air.
-
-"More of the same conversation we had on the ship," Jude said, which was not quite a lie. "Come. I know a place we can take a room, and I think, before the night's done, I'm going to need you sober and watching the door."
-
-# Chapter Four — Ferd's
-
-Ferd's had not changed in Jude's absence, which was itself a kind of comfort in a city that had changed around it in nearly every other particular. The same low-beamed common room, the same watchful proprietor cleaning the same glasses behind a bar he kept, by long habit, within reach of a loaded crossbow. A handful of new faces had drifted in with the hard times — Olven wildmen down from the Amedio jungle, a pair of Toli rats hunting odd jobs, men too proud or too rejected to find berths on a slave ship or in the navy — but the bones of the place were the same, and Jude claimed the same corner table he always had, back to the wall, a clear line to the door, and let seventeen pairs of curious eyes take his measure while Horace Baldpate set down the crate of wine that had survived, against considerable odds, an entire ocean.
-
-It was an inn as much as a bar, in the way of the foreign district's better dives — two narrow rooms above the common floor, reached by a stair at the back that Ferdin kept an eye on the way another man might keep an eye on his till. One had been Jude's, before he'd left for Idee; the other belonged, by long and unspoken arrangement, to Gouge, whenever business kept him in the city rather than wherever Jamis's other errands sent him. Karmirg, when he was still welcome anywhere near the place, had never troubled himself with a room at all, preferring to sleep it off wherever he'd fallen in the common room below — a habit that had cost Ferdin more broken furniture than either of them cared to tally, and that Jude, reclaiming his old key that first evening, was privately relieved not to have to contend with just yet.
-
-He did not see Gouge or Karmirg that first night, which did not trouble him; Jamis had made plain enough that their paths would need to cross, if at all, without acknowledgment. What he wanted first was smaller and more practical, and considerably less dangerous than anything Jamis had asked of him: a still, and the excuse it would give him to sit in this room for months at a time without anyone wondering why an elf wizard had suddenly taken such an interest in Ferd's custom.
-
-Horace himself he released within the week, once it was plain the man's hire had run its natural course — passage bought, mission delivered, an elf's debts settled honestly and in full. Horace took the coin, and the sound advice that a fifth-level sword with an eye for ports could do considerably better for himself in a starving city than standing guard over another man's ambitions, and went to find whatever living Monmurg still had to offer a stranger who knew ships and kept his mouth shut. Jude did not ask after him again. It was, he judged, the kindest thing he could do for a man who had done him an honest service and deserved to vanish into the crowd rather than be dragged any further into whatever the coming months made of Ferd's and its listening walls. Monmurg was large enough, and hungry enough, to swallow one more quiet man without a trace, and Jude rather suspected that suited Horace as well as it suited him.
-
-The alchemist he found for it kept a cramped shop deeper in the foreign district, cluttered floor to ceiling with jars and copper fittings and the particular chaos of a man who trusted his own memory over any system of order. He produced the components for a small still with the enthusiasm of a craftsman glad of honest work, and when Jude asked after recipes, pulled down a heavy, much-thumbed volume and opened it with something close to reverence.
-
-"The Magnum Opus," he said. "By Ujor Udias. Every alchemist worth the name owns a copy. This is mine." He flipped to a diagrammed page and tapped it twice. "Simple spirits. This is what you want."
-
-"Is it the only copy?"
-
-"The original, this one. But no — every alchemist has one. Simple things, truly. Very simple." He named a price, took his coin without counting it twice, and set Jude up with paper and quill to copy down what he needed, then went back to assembling copper fittings while Jude bent over the recipes, one ear on the shop bell.
-
-It was while he wrote that the alchemist, glancing up from his work, went suddenly and frankly still.
-
-"An elf," he said slowly, "but something else." He came closer, studying Jude's eyes in the lamplight with the same clinical attention he'd given the still's fittings. "You've been touched. Molded."
-
-"Rather unpleasantly, they told me," Jude said, and did not look away. "Though I like to think not entirely into the shape my enemies would have preferred."
-
-"A transmuter did this to you."
-
-"One of the more sinister ones out of the southern lands, yes." Jude let the smallest, coldest edge into his voice, the one he reserved for a very short list of things. "You know of them?"
-
-"I know of them. Not much, but I know they exist." The alchemist studied him a moment longer, something almost like pity in it. "You've been touched by the Scarlet Brotherhood, I take it."
-
-"I'd love to compare notes with you sometime," Jude said, "because I intend to kill every one of them I find."
-
-The alchemist did not press further, only handed him the last of the paper with a murmured *I understand* that Jude suspected was more honest than most people's sympathy, and went back to his fittings, and Jude went back to his recipes, and neither of them spoke of it again that evening.
-
-He walked back to Ferd's in the dark with the still's parts promised for delivery within the week, three recipes for spirits copied out in his own careful hand, and the beginnings of a plan already forming — a still in the cellar, cheap liquor brewed from the noble houses' cast-off fruit and grain, and a room upstairs where soldiers and sailors and foreign-district toughs would drink themselves loose-tongued on his hospitality, never once suspecting that the quiet elf who kept to his corner was listening to every word of it. It was not the mission he had sailed from Idee to complete. It would, he suspected, matter a great deal more before it was finished.
-
-Above him, past the gates and the guards and the long climb to the palace on the hill, Lord Jamis and Prince Jeon were already turning over the fates of princes and blockades in rooms Jude had no part in yet — though that, too, would not remain true for long. Somewhere closer, in a chamber he had never seen and could not have named, a masked young man he had not yet met was bent over a lump of clay and old magic, working toward a thing of his own that would, within a day, put both their names in the same room at last.
-
-# Chapter Five — The Ghost in the Halls
-
-Paul Rivera had been born into a scandal and raised inside its shadow, and by the time he was old enough to understand the shape of either fact, both had already hardened into the architecture of his life.
-
-His mother, Lady Elaria, had been sixteen or seventeen when she came home from wherever she had been carrying a child and no husband, and no amount of Prince Jeon's fury — a fury that wanted, more than anything, a name to put a blade through — had ever moved her to give one up. She had never married. She had never, so far as Paul could tell, stopped loving whoever it was, in whatever silent and ruinous way a woman loves a man she has agreed never to speak of again. Jeon had not thrown her out, had not disowned the child, had done — Paul understood this now, turning it over as an adult rather than a boy — the closest thing to right that a proud man wounded in his pride could manage: he had kept them both, housed them both in a style equal to his own, and never once forgiven either of them for the silence.
-
-Paul remembered almost none of his life before the age of six. What he had instead were fragments — his mother's grief, present even in memories that predated whatever accident had left him scarred; small magical creatures that visited him in dreams and, he suspected now, in fact; a room full of wondrous things, glimpsed and then gone. The fire that had taken his face, his hair, the ordinary use of his skin, arrived in memory only as an absence, a place where six-year-old Paul's recollection simply stopped and did not resume until he was old enough to understand that everyone around him flinched, however briefly, whatever they schooled their faces to show afterward.
-
-He had grown up masked, therefore, first by necessity and then by habit — leather in the day-to-day, because it was lighter and quieter than metal, and clothing sufficient to keep the ruin of his skin from anyone's sight, because he had learned early that the horror people felt looking at him was a thing he could spare them, and spare himself, by simply not being seen. He had become, by slow and mostly unplanned degrees, very good at not being seen. He knew the palace's back halls and servants' stairs better than its state rooms. He could take food from the kitchens, clothing from his own wardrobe, information from any conversation held carelessly near an open door, and leave no more trace of himself than a held breath.
-
-It had not made him beloved. His uncle's household tolerated his presence at council and at table because his blood demanded it, and gave him nothing else — no post, no command, no post of any kind, while cousins five years his junior took their first commissions in the Monmurgian navy and captained mercenary companies in the port district. Paul understood, without anyone troubling to say it aloud, that he unsettled people: his face when it showed, his manner when he forgot to guard it, the blunt and often unwelcome accuracy of things he said before he had learned to weigh whether saying them was wise. He was, by his own private reckoning, considerably more intelligent than most of the men who were trusted with responsibilities he was not. It changed nothing. Cleverness that arrived wrapped in social wreckage tended to be received, he had found, as a curiosity rather than a qualification.
-
-His mother had been the one fixed point in all of it — insular herself, frozen in a grief she had never fully explained even to him, but present, and his. When she died, in the spring of his twenty-third year, she came briefly clear at the end, gripping his hand while Jeon held the other. *Paul, what will you do without me?* And then, when Jeon pressed her — gently, but pressed nonetheless, one final time, for the name he had wanted for twenty-three years — she gave him nothing but the shape of a mercy: *He was a good man. Of royal blood, brother. I loved him dearly. I promised I would never reveal who he was.* She asked only that Jeon do right by his nephew, and died before either man could ask her anything more.
-
-Jeon wept, which surprised Paul more than the death itself had — a prince of pirates, a man who had buried soldiers and burned enemies and made peace with worse things than grief, undone for a handful of minutes by his sister's hand going slack in his own. He composed himself quickly enough afterward, and was, in his own fashion, honest with Paul about what came next: the wing of the palace Elaria had occupied would go to more senior relations; Paul would move back into his mother's own childhood chambers on the east side of the castle, smaller, plainer, with a fine view of the sea he did not particularly mind; his attendance at council, tolerated until now at his mother's insistence, would quietly lapse. *I have no real use for you*, Jeon told him, not unkindly, in the way a man states a fact he has turned over many times and stopped being able to soften.
-
-Paul had not been able to leave it there. *You've never given me a chance,* he said, and when his uncle asked, not unreasonably, what use he imagined himself to be, Paul offered the one true thing he had: that he moved through the palace unseen, that servants and guards alike forgot to watch what they said in his presence, that he had spent twenty-three years becoming a ghost in his own family's halls, and a ghost, properly used, heard things a garrison of loyal soldiers never would. Jeon had not said no. He had said, instead, that such work belonged to spymasters, that his own spymaster was a man named Lord Jamis, and that he would consider whether Paul's peculiar talents might be put toward something better than solitude — a door left ajar, where every door before had been shut outright.
-
-It was the nearest thing to hope Paul had been offered in longer than he cared to count, and in the week that followed, waiting for his uncle to remember the promise amid a blockade and a council in constant session, Paul did what he had always done when the world declined to include him: he went looking for something to occupy the silence himself, and moved back into rooms he had not slept in since before the fire, in a wing of the palace that, he was about to discover, remembered a great deal more of his childhood than he did.
-
-# Chapter Six — The Room Behind the Wall
-
-The itching that woke him a week after his mother's funeral was not, at first, on his skin.
-
-Paul had smoked the black opium stick down to a stub before he'd stumbled to bed — stronger than what he usually kept, thick and heavy in a way that had filled the small chamber with more smoke than he remembered lighting for, and the dreams that came with it were vivid in a way ordinary sleep rarely gave him. He woke uncertain of the hour, hands going to his face out of old habit, and found the itch not in the scarred ruin of his skin but somewhere behind his eyes — a memory trying to surface, insistent as a splinter working its way out.
-
-*Little friends.* Small, magical, half-remembered things that had visited his dreams for as long as he could recall and never once, until tonight, felt like more than dreaming.
-
-He got up, crossed to the balcony, and let the sea air clear the smoke from his head, looking down past the Royal Docks to where a scatter of lit windows marked Lord Jamis's residence on the cliff below. The dream did not clear with the smoke. He had lived in this room as a child — he remembered that much plainly enough, the bed, the balcony, the long climb of stairs — but the memory insisted there had been more to it. A room beyond a door, filled with wondrous things. Bottles. Devices. His mother close by, and beyond her, through some threshold he could no longer place, the place where he had played.
-
-He went to the closet.
-
-It took him longer than it should have to notice that the back wall didn't sit quite true — a veneer of plaster laid smooth and painted over stone that had no business being plastered at all, the sort of thing done by someone who wanted a wall to look like it had always been a wall. He worked his dagger into the seam and peeled it back in long, satisfying strips, and beneath it found a stone door, old and simple, closed on a lock no more complicated than the ones he'd taught himself to pick from books he was fairly sure his mother had never known he'd read.
-
-He dressed properly before he opened it — leathers, mask, gloves, the whole quiet armor of a man who did not want to be recognized by his own face — and worked the lock with his thieves' tools until it gave, and stepped through into a corridor three feet wide and reeking of years of undisturbed dark.
-
-It sloped downward for sixty feet before opening onto a stair, and the stair dropped another eighty beyond that, deep enough that he lost any sense of where in the palace he stood relative to where he'd started. Dust and cobwebs thickened with every step. A guardroom, long abandoned, showed arrow slits looking out toward the sea — the same view as his own balcony, he realized, only far lower, a fortification built for a siege nobody living remembered planning for. And beneath all of it, walking corridors his feet seemed to know before his mind caught up to them, the flashbacks came faster: *I have been here. I have walked this before.*
-
-The room, when he reached it, told him why.
-
-Even in the torchlight, ruined as it was, he recognized the bed he'd slept in as a small child, his mother beside him; the table where she'd read to him from books whose covers he still remembered by color and weight. And past that, through a doorway with no door left in its frame — only scorch marks radiating outward across the stone, and the wreckage of a table and cistern and a scatter of burnt glass and metal — the place his memory had been circling since he'd woken. He knew it the way a body knows a wound long after the mind has stopped consciously guarding it: this was where the fire had started. Somewhere in the wreckage of that table, a smaller version of himself, curious past the point of caution, had reached for something he shouldn't have and brought the whole room down in flame around him.
-
-He picked his way through broken glass that still smelled, faintly, of ozone and old chemistry, to a row of squat barrels marked with three red X's apiece — and something in him, some old, wordless certainty, said *dangerous* before his mind had finished forming the thought, and behind it, fainter, his mother's voice: *Breathing in even a minute amount of that will kill you, Paul.* He opened one anyway, carefully, and found a grayish powder he didn't recognize by sight but that pulled at some buried memory all the same, and took a careful sample in a shard of glass before sealing the lid again.
-
-The oven in the room beyond gave up two rats, oversized and vicious, that he killed without much difficulty — one gutted on his dagger, the other burned to death against the flat of his torch, its fangs weeping a strange, faintly yellow fluid he chose not to examine too closely. A locked door farther on resisted his picks in a way no ordinary lock ever had, something on the far side pushing back against his tools as though the mechanism itself objected to his presence, and when he pressed his eye to the keyhole he found torchlight burning steadily beyond it — Lord Jamis's own residence, he understood slowly, close enough that his mother's secret room and the harbormaster's private chambers had once, long ago, shared a threshold. He did not force it. Whatever waited on the other side would keep.
-
-It was the chest, in the end, that answered the question the whole night had been building toward.
-
-Three small clay figurines sat nested among a scatter of books — creatures like little gargoyles, wings folded, and the moment he lifted one free it came alive in his gloved hand and sank its teeth in, drawing blood only that his glove kept from reaching skin. He killed it properly this time, popped free the small green stone lodged where a heart should have been, and pocketed it beside its twin, found a moment later in a smaller box that had once, his mother's bodyguard would have told him if she'd had one, made her weep for hours whenever she opened it.
-
-The books beneath the figurines were two he could not read at all — spellbooks, almost certainly his mother's — and a third, thinner, that he could. *Creating a Homunculus.* Translated, the title page informed him, by a man named Grayson Jamis.
-
-He sat with that a long moment, in a ruined room eighty feet under his own bedroom, turning a name he had never once heard spoken in nineteen years of royal dinners and council sessions over and over, waiting to see if it would resolve into anything more than a stranger's name on a borrowed book. It did not, not yet. But it settled into him the way the stone door's lock had settled against his picks — a small, deliberate resistance, the sense of something on the other side of a wall that very much wanted to stay unopened.
-
-He gathered what he could carry — the figurines, the box of letters, all three books, his sample of the grey powder — resealed the barrel, and climbed the eighty feet and sixty feet and the last stretch of narrow corridor back to his own closet, pushing the old clothes back over the broken plaster, and sat on the edge of his bed until nearly three in the morning with the letters unopened in his lap, because he already suspected, in the particular cold and certain way he suspected most things, that once he opened them he would not be able to go back to not knowing.
-
-He opened them anyway. He had never once, in twenty-three years, managed to leave a door closed simply because someone had wanted it to stay that way.
-
-# Chapter Seven — Letters
-
-There were a dozen letters in the box, tied loosely enough that Paul guessed they had been read and re-read many times before whatever grief finally sealed them away, and he read them in the order his mother had kept them, by lamplight, until the words on the page had gone soft with how many times he'd gone back over them.
-
-Grayson wrote from Gradsul, from a magical academy Paul had never had cause to think about — the College of Transmutation, admitting, as best Paul could piece together, mostly the sons and daughters of Suel nobles from the Duchy, with the occasional outsider let in on sufferance or sponsorship. Grayson had gotten in somehow, and spent the letters' span working, with what read like real devotion, on a single project: *I have been working tirelessly on recreating the pale yellow powder — the very weapon that once turned the tides against the sahaugin. Its potential is immense, and I am driven by the hope that it will secure peace and prosperity for our beloved principalities.* He never said, in any letter Paul found, exactly what the weapon did. He wrote instead like a man trying to earn something — a peace with himself, a peace with his own family, and, running under every line of every letter like a current, a place in Elaria's future that his station alone did not entitle him to.
-
-A name recurred through the letters that meant nothing to Paul on its own — Archibald, mentioned three or four times in passing, once with real warmth, never explained. And near the end of the stack, tangled together in a way that took Paul the better part of an hour and a fair amount of frustrated arithmetic to untangle, a family tree he had not known he belonged to: Grayson's uncle was a man named Zafar Azane, a Suel wizard high in Keoland's magical academies — and Zafar's sister was Lady Jamis. Which meant, if the letters said what Paul thought they said, that Grayson Jamis was the son of Lord Jamis and Lady Jamis both — Prince Jeon's own admiral and spymaster — and that the young man who had loved Elaria and never quite managed to prove himself worthy of marrying her had been, all along, close enough to the throne to have made the whole scandal entirely unnecessary, had anyone simply been honest twenty-three years sooner.
-
-Paul sat with the arithmetic of it until his head ached. *Lord Jamis does what Jeon says*, he told himself, working it through out loud in the empty room, as if saying it might make the shape of the thing settle. *Lord Jamis is a servant of my uncle. And if this is true, then Lord Jamis's son is —* He did not finish the sentence, even alone, even to himself. It felt like the kind of sentence that needed a witness before it could be trusted.
-
-The last letter was stranger than the rest, and troubled him more. Grayson wrote of a man called Archibald — relentless, the letter said, in his pursuit of something called the *Magnum Opus*, convinced the true text lay hidden in the dungeons of the Office of Forbidden Magic in Gradsul, guarded by inquisitors and wards no ordinary scholar had any business testing himself against. *His passion is infectious,* Grayson had written, *and I find myself drawn, against my better judgment, into the possibility of unlocking such mysteries.* Paul read that line four times and did not like the shape it made. A man in love, trying to prove himself to a prince who would never quite accept him, pulled along by a friend's obsession into something that sounded, even filtered through twenty-three-year-old ink, considerably more dangerous than alchemy for its own sake.
-
-He did not sleep that night, not properly. He lay turning the names over — Grayson, Zafar, Archibald, the strange half-remembered weapon meant to hold back the sahaugin, the family that had apparently been his all along without anyone troubling to tell him — and by the time the sky beyond his balcony had gone from black to the grey of early morning, he had already decided what he meant to do with the knowledge, which was the one thing his mother, in twenty-three years of careful silence, had never once managed: he meant to ask, directly, of the people who could actually answer.
-
-He dressed, gathered the letters, and left the homunculus book behind, tucked back into its hiding place beneath his bed — some instinct telling him that was not the thing to carry into Lady Jamis's house first — and went to find his grandmother, though he did not yet have the nerve to call her that, even privately, even once.
-
-# Chapter Eight — Grandmother
-
-The servant who answered Lord Jamis's door kept his voice carefully level when Paul gave his name, and could not quite keep the fear out of it all the same. Paul had grown used to that particular failure in people, the way his presence made even well-trained composure crack at the edges, and waited without comment while the man went to announce him.
-
-He came back within five minutes, which Paul understood — correctly, he would learn — meant Lady Jamis had not hesitated at all.
-
-She received him alone, in a well-appointed study laid with wine and cheese and fruit as though she had been expecting a guest of consequence rather than an unannounced grandnephew of dubious parentage — a woman in her sixties or seventies, hair gone to white shot through with the ghost of what had once been red, unmistakably Suel in a way that made the whole shape of Grayson's letters snap suddenly, uncomfortably, into focus. Paul had known, in the abstract, that Lord Jamis had married outside his own people. He had never once had cause to wonder what that meant for the blood running in his own veins until this exact moment, sitting across from a woman who might, if the letters spoke true, be his father's mother.
-
-"I am flattered you have come to give me an audience," she said, when the servant had withdrawn and the door was shut, "even unexpected as it is."
-
-"I'm sorry for coming without notice," Paul said. He had never learned the art of easing into a difficult thing, and did not attempt to learn it now. "I've been going through my mother's possessions. I have reason to believe you are my grandmother." He set the letters on the table between them without further preamble.
-
-Something moved behind her composure — fear, plainly, though whether of him or of what he carried he couldn't yet tell. "You have a son named Grayson," she said, which was not quite agreement and not quite denial. "Had. We lost him many years ago."
-
-"I think he was my father. These letters prove he wrote to my mother." He watched her take them up, watched her go still and then, halfway through, begin to cry — silent, controlled, the tears falling onto the ink without her seeming to notice. It took her the better part of ten minutes to finish reading, and when she looked up again, something in her had settled, the way a held breath settles once it's finally let go.
-
-"It has been many years since I've seen Grayson's hand," she said. "He wrote to me too, when he first went to Gradsul — not so often as he wrote your mother, I think, but I kept every letter he sent, and reading these has brought me back to a time I try not to visit often." She set the letters down with a care that told Paul, more than her tears had, exactly how much they cost her to hold. "It is obvious they loved each other greatly. Something the court was never permitted to know."
-
-"You didn't know either?"
-
-"I had my suspicions." She studied him a long moment, the frank, assessing look of a woman deciding how much honesty a stranger could bear. "I will tell you the truth, Paul, because I think you would rather have it than comfort. I suspected, from the year you were born, that you might be my grandson. I hesitated to reach for you. Your accident left your lineage a mystery even to a grandmother's eye — I could not tell, looking at you, whose face I was looking for. And I did not want to reopen a wound, or risk a schism between my husband and Grayson's memory, on nothing firmer than suspicion."
-
-"Lord Jamis doesn't know."
-
-"He suspects, as I did. No more than that." She folded her hands in her lap, and for the first time since he'd sat down, something like real warmth entered her voice. "Your mother, Grayson, and my nephew Archibald were the fastest of friends, growing up in this city. Archibald was my brother Zafar's ward — a bastard himself, born to a noblewoman of Port Toli, brought to me as a boy because Zafar saw in him the makings of a great scholar. Precocious. Brilliant, in truth, in a way that unsettled people twice his age."
-
-Paul asked the obvious question, and watched something shift in her face at the asking — a hesitation her earlier candor hadn't shown, a quiver at the mouth that told him, plainly as any confession, that there was more to Archibald than she meant to volunteer easily. He weighed pressing it, decided the ground he already stood on was worth more than the ground he might gain by pushing, and let the moment pass instead.
-
-"What happened to Grayson?" he asked instead. "The letters are twenty-three years old."
-
-"I don't know for certain. But the last letter, about the Alchemy Caves, tells me most of what I need to guess." She rose, crossed to a shelf crowded with books, and drew a slow, steadying breath before she went on. "The Magnum Opus that scholars study today has been edited by the Office of Forbidden Magic in Gradsul for centuries. There is an original text still, they say, kept in the dungeons beneath that same office — guarded by inquisitors, warded by magic no young man should have tested himself against. Archibald was obsessed with it. I believe, from these letters, that he drew Grayson into helping him search for it." She looked at Paul directly, and something in her voice hardened, grief giving way, briefly, to something closer to anger. "There was a scandal, twenty years past. Archibald was banished from the academies. My brother Zafar lost his post at the Office of Forbidden Magic over it, and a friend of his lost the transmutation school besides. Zafar has never told me outright whether the inquisitors killed Grayson, or whether the wards themselves did. He has only ever hinted that Grayson died in the caves beneath the school, in Archibald's company, chasing knowledge that was never meant to be theirs. Archibald escaped. He was exiled to Salinmoor, and so far as I know, has not been seen in Gradsul since."
-
-"Where can I find Zafar?"
-
-"That may be difficult. He serves the Duke of Gradsul directly, and we are, as you're aware, presently at war with the Duke of Gradsul." She considered him a moment. "I could write to him. Tell him you wish to meet."
-
-"I would go to him myself, if it came to that."
-
-"Your uncle will not permit it," she said, not unkindly, "and he would not be wrong to refuse. But I will write." She reached out then, an open, uncertain gesture — an offer he could have declined, and did not — and the embrace that followed was awkward only for a moment before it became something more genuine than either of them had likely expected. She was crying again by the time she let him go, and turned her face away before she called for the servant to see him out.
-
-She stopped him at the door with one more thing, though — crossed to a bookshelf, swung it aside on a hinge Paul would not have found without being shown, and revealed a second door behind it, plain stone, warded by something she could not open herself. "This once connected my husband's chambers to the prince's own residence," she said, resting her hand against it. "Grayson and Archibald used it, in their day, to see your mother without half the court watching. It has been sealed by an arcane word since Grayson died, and I have never brought myself to pass through it again. But this library is yours to use whenever you wish, Paul — and if you ever find a way to open that door from the other side, you will find nothing here I would keep from you."
-
-Paul thanked her, and meant it more than the words alone could carry, and left the small palace on the cliff with a locked door behind him that he suspected, without yet being able to say why, he had already stood on the other side of once — three feet wide, sixty feet of dark corridor, and a lock that had pushed back against his picks as if something on the far side very much did not want to be found.
-
-He went to find his uncle next. He had, after all, only half his answer.
-
-# Chapter Nine — What Jeon Feared
-
-Jeon's guards made him wait, as they always did, and Paul spent the wait rehearsing how little of the last two days he actually wanted to explain before he was finally waved through into his uncle's study.
-
-"This had better be important," Jeon said, not looking up from whatever correspondence had claimed the desk in front of him. "I'm dealing with a blockade, Paul."
-
-"I've learned something important about my mother. And my father."
-
-That brought his uncle's head up fast enough that Paul almost regretted the bluntness of it. "That was quick," Jeon said, something guarded already entering his voice.
-
-Paul told it as plainly as he'd told Lady Jamis — the letters, the name, the son of Lord Jamis and Lady Jamis both — and watched his uncle's face do something complicated across the length of the telling: a scowl at first, tightening as Paul spoke, and then, gradually, as Jeon actually took up the letters and began reading them himself, something that looked almost like relief.
-
-"Well, Paul," Jeon said, when he'd finished, setting the pages down with a care that surprised him, "you have brought great peace to my mind. I feared, if it ever came to this conversation, that I would like the answer far less." He was quiet a moment, turning something over. "Grayson Jamis was a good man. Honorable. Intelligent. I can accept him as your father far more easily than I could have accepted some of the alternatives I've spent twenty-three years imagining. He and your mother were inseparable as children. I think she loved him a great deal, and I am — glad, in truth, to finally know it."
-
-"What alternatives?" Paul asked, because something in the way his uncle had said it demanded the question be asked directly.
-
-Jeon's face closed a little. "The letters mention a man named Archibald."
-
-"Yes. I don't know who he is."
-
-"He was a demon, Paul." The word came out with more weight than Paul had expected, weight that had clearly been sitting in his uncle for a very long time. "The thought of you having come from him was unbearable to me. He was cruel — and worse than cruel, because he was also brilliant, and his charm, false as it was, could work on anyone above him in station. Those beneath him, he tortured. Not always with his hands. He knew how to do it in ways that never came back to touch him. I told my father for years he was no good influence on your mother, and still he drew her in, and Grayson, and half the young courtiers of our generation, into whatever orbit suited him." Jeon's jaw worked once before he continued. "I kept you at arm's length all these years, Paul. Not for your face. For that — for not knowing, until this moment, whether I was looking at Grayson's son or his. I have watched you closely enough to know you are not cruel, whatever else you are. I did not know, until today, whether that was your own nature or simply the accident that spared you from developing his."
-
-Paul absorbed that in silence, turning over twenty-three years of a coldness he had always assumed was simple indifference, and found, to his own mild surprise, that he did not resent his uncle for it nearly as much as he might have expected to.
-
-"There's a man named Zafar mentioned in the letters," he said finally. "I've spoken with Lady Jamis. I asked if I might meet him."
-
-"Zafar Azane," Jeon said. "I know him well. Why do you wish to meet him?"
-
-"To learn what happened to my father."
-
-Jeon set the letters down and studied him for a long moment, weighing something Paul couldn't read. "You may need to travel to see him," he said, "and Gradsul, Paul, is the last place in the Flanaess I could permit you to go. Not while the Duke of Gradsul's ships sit outside our harbor."
-
-"I know what I'm asking for."
-
-"You know what you are asking for. You do not know what you would be walking into." Jeon's voice sharpened, urgency replacing the earlier softness. "Zafar Azane is among the most powerful wizards in the Flanaess, and I could not tell you with confidence whose side he truly serves. I will not hand the Duke of Rhola a hostage with your blood in his veins, however careful you believe yourself to be." He held up a hand before Paul could argue further. "I will write to him myself. Ask for an audience on Idee's behalf — on the Sea Principalities', I mean to say — and let Lady Jamis arrange what she can through her own channels. If Zafar wishes to speak with you, he will find a way that does not require you to set foot in Gradsul. That is the most I will permit."
-
-It was not everything Paul had hoped for, but it was considerably more than the flat refusals he had spent a lifetime collecting from this office, and he recognized the difference well enough to accept it without further argument. Jeon asked, almost as an afterthought, whether he might keep the letters — *for affection's sake*, he said, and Paul, reading something in his uncle's face that didn't match the reason given, declined, and watched Jeon accept the refusal with a stiffness that told Paul his instinct had been correct: his uncle meant to use them for something Paul hadn't been told, very possibly a conversation with Lord Jamis that Paul had no wish to be a bystander to before he understood the ground better himself.
-
-"One more thing, before you go," Jeon said, as Paul rose to leave. "I have a task for you, if you'll take it. I have reason to believe agents of Port Toli are moving through the foreign district — Suel, and dangerous, likely bound to Prince Sacnon himself. I do not want you engaging them. I want you to find them. Watch who they meet, who they speak to. I have reason to suspect someone in our own employ is working with them, and I would very much like to know who." He paused, weighing his nephew with an expression Paul hadn't seen from him before — something closer to actual trust than anything twenty-three years of dinners and councils had ever offered. "Keep your distance. You've proven tonight you can move through this city without being seen. I would like to see what that's worth, put to proper use."
-
-"It will be done," Paul said, and meant it more fiercely than he let show.
-
-"Take a disguise from the wardrobe I'll have sent to your rooms. No one in that district can know who you are." Jeon studied him a moment longer, then returned to the papers on his desk, the audience plainly at its end. "Tomorrow, Paul. Begin tomorrow."
-
-Paul left with the letters back in his own keeping and a task, at last, that was entirely his — and went straight to his rooms to finish what the last two days had already set in motion: pulling the homunculus manual out from under his bed, and beginning, in earnest, to build the one thing that might let him do his uncle's work without ever once having to be seen doing it.
-
-# Chapter Ten — Clay and Blood
-
-*Zafar's Instructions*, the manual called itself on its title page, and the hand that had translated it — Grayson's, Paul now understood, reading his father's own careful script for what he was beginning to think of as the first time — set out the working with the patience of a man who had clearly done it himself more than once.
-
-The foundation was clay, malleable and worked into the likeness of something small and lizard-like — not arbitrary, the text insisted, but chosen: durable where a spider's form was fragile, capable of blending into stone and shadow in a way a fashioned insect never could, ideal for a creature built to watch and not be watched watching. The clay wanted a drop of its maker's blood, worked into warm water until it took the enchantment properly. And at the center of the whole working sat the two green stones Paul had carried up from the ruined lab beneath his own floor — a Heartstone, embedded in the clay where a heart would sit, and a Mindstone, kept by the master, the true seat of the working. Zafar had learned the making of them, the text claimed, from the lost archives of the Arcane Order — a variation on the old soul-gem craft the Suel transmuters had perfected before the Twin Cataclysms took the rest of their empire with them. The ritual itself was almost absurdly simple beside all of that: the master stood before the unfinished creature, focused his will through the Mindstone, and spoke two words — *lapis philosophorum* — and what woke afterward was not a servant exactly, but something closer to an extension of the caster's own mind, given legs and eyes and a body that did not need feeding or watering to survive.
-
-Paul's first attempt, worked from the coarse clay the palace servants had brought him, came apart in his hands before he'd finished the shaping. His second lasted long enough to twitch once in response to the words before it crumbled entirely, and left him sitting amid the wreckage of it at ten o'clock at night with the uncomfortable certainty that the clay itself, not his skill, was the failure — grainy, poorly fired, nothing like the material the manual clearly assumed a serious artificer would use.
-
-He dressed for the streets rather than wait for morning. The metal half-mask he'd bought weeks before — lighter than his leather one, cooler, close enough to a real face at a glance that most people didn't look twice — went on under a plain black cloak, and he left the palace through the Royal District's gate with the guard's polite, faintly unsettled deference following him out, and chose the foreign district over the longer, better-lit route through the harbor, because it was faster and because some part of him, he suspected, wanted the excuse to see it properly for the first time in longer than he cared to admit.
-
-It smelled the way he'd been told it would — rot and salt and woodsmoke and worse, threaded through with the noise of taverns still lit and loud well past the hour any respectable district would have gone dark. He kept to the main street, one hand near his short sword, and told himself the shape he glimpsed twice, ducking into an alley mouth first eighty feet behind him and then sixty, was nothing worth stopping for.
-
-The Grand Market, half-empty compared to what he remembered of better years, still had merchants trading by lamplight, and Paul found what he needed at a potter's stall run by a broad, red-haired man from somewhere far to the west — good Bakloonish clay, waterproof, thirty pounds of it for three gold coins and a fourth for the bag, generosity the man plainly hadn't expected and took with visible gratitude. Paul lingered afterward longer than he'd meant to, drawn to a weaponsmith's stall where a dark, wickedly slender stiletto — Dulkheim steel, the man swore, though Paul's own reading of him said the finer points of that claim were more sales patter than fact — proved sharp enough to punch through chain mail his own broad dirk merely skidded off, and came home with him for forty-eight gold and a haggle Paul rather enjoyed losing. A second stall, deeper in the market, sold him the darkened version of the metal mask he already wore — the merchant's warning, offered almost as an afterthought, that the design belonged properly to the monks of the Scarlet Brotherhood and might get him mistaken for one, filed away rather than heeded.
-
-He was halfway back to the Royal District, mask stripped off and folded into his cloak, walking with more confidence than the last hour's shopping strictly justified, when the first sling stone caught him from behind.
-
-It struck the shoulder of his cloak and did nothing worse than startle him — lead shot, he understood a heartbeat later, meant to kill rather than merely bruise — and the second came a breath after the first, deflected as much by luck as by leather. He turned, crossbow already coming up out of habit more than conscious decision, and found two figures crouched in an alley mouth thirty feet off, reloading their slings with the unhurried confidence of men who had done this before and rarely needed a second attempt.
-
-He didn't give them one. The bolt took the nearer man clean through the throat before he'd finished bringing his own sling to bear, and the second fled into the dark rather than test whatever had just happened to his partner. Paul crossed the thirty feet at an unhurried walk, weighing — with a coldness that would have startled him, had he stopped to examine it — whether the man bleeding out against the alley wall was worth more to him dead or questioned, and decided, in the end, that a live prisoner was worth considerably more than a dead mystery. He knelt, worked his thumb into the wound to slow the bleeding, and held it there with a steadiness that surprised him until the man's breathing evened out into something that might, with care, survive the night.
-
-*Take him to the palace dungeon*, he told the guard at the gate, when he'd walked the rest of the way home without further incident. *I want him where I can find him later.* The guard's face, when Paul gave his name, did the particular careful thing faces did around him — not fear exactly, not anymore, but something adjacent to it, the beginning of a wariness he suspected, with some private satisfaction, might prove useful in whatever came next.
-
-He slept badly and briefly, and woke to word that his prisoner had survived the night and been delivered as instructed, and turned, at last, back to the clay.
-
-The good Bakloonish material took the shaping the way the palace clay never had — patient under his hands, holding the small, precise lizard-form he wanted, wings folded flat along its back — and when he set the Heartstone into its chest and spoke the words, *lapis philosophorum*, the little creature twitched once, twice, and opened eyes that were, he understood a moment later with a shock that took him a long minute to steady through, somehow also his own.
-
-It was disorienting in a way nothing in the manual had quite prepared him for — half his awareness in his own body, sitting on the edge of his bed, and half suddenly low to the ground, seeing his own room from a lizard's-eye height, the strange doubled sense the old book had likened to a man trying to walk and read at once. He sent it crawling up the wall first, testing the grip of small clay claws against stone, then out under the door and down the corridor, following the sound of voices toward the servants' passage — a steward's voice, and a guard's, discussing, in the flat, unhurried tones of men repeating instructions they'd been given more than once, the prisoner Paul had sent down the night before, and Prince Jeon's standing order that everything his nephew did, everywhere he went, whoever he spoke with, was to be reported faithfully back to the crown.
-
-Paul sat very still in his own body while his small clay eyes watched the two men from ten feet up a wall they never thought to look at, and understood, with a clarity that felt like the first genuinely useful thing anyone had ever handed him, exactly how much this small, deliberate act of creation had just changed about what he was capable of — for his uncle's purposes, and, he suspected, before very much longer, for purposes entirely his own.
-
-He called the little creature back before either man could finish speaking, tucked it into a pocket sewn deep enough to keep it hidden, and sat a long while in the grey early light turning over everything the last week had given him: a father, a grandmother, a dead man's half-told story about a demon named Archibald, a task from a prince who had never before trusted him with one, and, curled warm and strange against his ribs, the first working proof that he was, whatever else the city believed of him, considerably more than the ghost it had always been content to let him be.
-
-He was still turning it over the next morning, the second day of Wealsun, when a servant knocked to tell him his uncle wished to see him — and to bring, if he would, the small creature he'd apparently already begun telling people about.
-
----
-
 ## PART ONE: THE PRINCE'S ERRAND
 
-# Chapter Eleven — Council in the Royal Tower
+# Chapter One — Council in the Royal Tower
 
 The second day of Wealsun dawned grey and salt-scented over Monmurg, the light struggling through a haze that had hung over the harbor for a fortnight. Once, in the days before the blockade, the jewel of the Azure Sea had woken each morning to the clatter of laden carts and the cries of dockhands hauling in the night's catch of trade — grain from Berghof, cheese and meat from the allied duchies, the endless commerce that had made the city fat and proud. Now the docks stood half empty, the granaries thinner every week, and the people of the foreign district eyed each other with the particular hunger of a city that knew, somewhere in its bones, that the worst had not yet come.
 
-Keoland's navy sat across the trade lanes like a closed fist. The Duke of Gradsul, cunning where Monmurg's admirals had once been proud, had turned the merchant ships toward Redshore instead — a whaling town with neither the berths nor the warehouses to swallow what Monmurg's docks were built for. And somewhere out past the mouth of the Hool River, a pirate calling himself the Scarlet Rat had put Port Torvin to the torch, taking with it the last dependable trickle of food that might have seen the city through the summer.
+Keoland's navy sat across the trade lanes like a closed fist. The Duke of Gradsul, cunning where Monmurg's admirals had once been proud, had turned the merchant ships toward Red Shore instead — a whaling town with neither the berths nor the warehouses to swallow what Monmurg's docks were built for. And somewhere out past the mouth of the Hool River, a pirate calling himself the Scarlet Rat had put Port Torvin to the torch, taking with it the last dependable trickle of food that might have seen the city through the summer.
 
 It was into this uncertainty that Paul Rivera woke, in a chamber of the Royal Palace that had never quite felt like home, the morning after he had bent clay and old magic into the shape of a small clay familiar about the size of a large garden lizard. He had slept poorly — he always did, the nights after discovering something new — but there was work to be done today, and he intended to begin it before breakfast had properly settled. Prince Jeon, his mother's brother and the nearest thing Paul had to a father since her death, had set him to a task some days before: find the Toli agents moving through Monmurg, the enemy's eyes and ears working against the city from within its own streets.
 
@@ -493,7 +55,7 @@ Jamis gave Paul a strange, searching look before he began — as though weighing
 
 "Shortly after it began, though before it was announced — and before Port Torvin burned."
 
-"I've been in the city about a week since," Jude said, softly, working out the timeline. "I came from Redshore — I remember the ships gathering there."
+"I've been in the city about a week since," Jude said, softly, working out the timeline. "I came from Red Shore — I remember the ships gathering there."
 
 "That happened while you traveled here," Jamis said. "You wouldn't have known of it until you arrived."
 
@@ -620,7 +182,7 @@ A servant appeared at the door before Paul could decide where to take their conv
 "Bring us wine," Paul told him as they settled in, and the servant bowed and withdrew to fetch it.
 
 
-# Chapter Twelve — Masks and Measures
+# Chapter Two — Masks and Measures
 
 The study was small and close, lined with books neither of them would read that day, and for a long moment after the servant left, Jude simply studied Paul across the narrow table — the set of his shoulders, the deliberate stillness that the mask's discipline only reinforced.
 
@@ -1074,7 +636,7 @@ They left him then, the jailer already moving to make good on the arranged viole
 
 "Wise, given all we've just heard," Jude agreed, and the two of them climbed back toward the light of the upper palace, leaving the dungeon and its bargains behind them.
 
-# Chapter Thirteen — Summoned to the Harbor Office
+# Chapter Three — Summoned to the Harbor Office
 
 That same afternoon, while Paul and Jude were still at their work in the dungeon beneath the palace, a very different summons had gone out across the city. A runner had pulled Merrick away from a game of cards in the barracks common room with nothing more than "Lord Jamis wants you," and Merrick — a ranger and navigator long attached to Jamis's household, a man who had walked more of Helm Island's coastline than anyone else still drawing breath in Monmurg — had known better than to ask why before he arrived.
 
@@ -1182,7 +744,7 @@ He glanced at Gouge. "Choose a name for yourself, if you like, for the crossing.
 
 They went by way of a harbor-district bar Jamis's people knew well, where Gouge collected two flasks and put them on his tab with the air of a man who fully intended to settle it eventually, and then made for the Royal Docks, where a corsair sat loaded for battle — no small skiff, no token gesture, but a full battalion readying itself under the afternoon light.
 
-# Chapter Fourteen — Orders for the Helm
+# Chapter Four — Orders for the Helm
 
 Of all this, Paul and Jude knew nothing. While Jamis set his other agents moving toward the harbor, the two of them took the back stairs up from the dungeon and returned to the little study, where the last of the wine and cheese still waited. It was past two in the afternoon now, the light through the narrow window gone thin and golden, and the matter of the mask sat between them like a third guest neither had invited.
 
@@ -1282,7 +844,7 @@ Jude glanced, briefly, toward the door and the market beyond it. "Time enough to
 
 ## PART TWO: TO HELM ISLAND
 
-# Chapter Fifteen — The Royal Docks
+# Chapter Five — The Royal Docks
 
 At the Royal Docks in Monmurg, Tyrus and Folsom had already been standing at attention for the better part of an hour, part of a marine detachment — crossbowmen and infantry both — summoned down from the Harbor District with no more explanation than the rest of the gathering battalion had been given.
 
@@ -1370,7 +932,7 @@ The captain looked ready to refuse — and then the masked lord leaned in and mu
 
 "Tyrus — get them ready," the sergeant said, and the deck erupted into motion, men hauling longboats to the port rail as the corsair began its slow turn.
 
-# Chapter Sixteen — The Corsair
+# Chapter Six — The Corsair
 
 For Paul and Jude, that same crossing wore an altogether different face. By three in the afternoon they had their gear together and were making for the Royal Docks, where the corsair sat low in the water under the weight of two hundred fifty Marines and their equipment. Paul had never crossed to Helm Island before, and he found himself measuring the distance with his eyes as they walked — a speck of rock and lighthouse fire sitting in the middle of the Monmurgian Straits, between the peninsula and the looming bulk of Flotsam Island, well clear of the cold northern waters where the turtle dragons were said to nest.
 
@@ -1498,7 +1060,7 @@ Jude drew the sergeant aside a moment, voice pitched low. "A word on my signals,
 
 They set off down the length of the pier, Marines flanking, Paul walking beside them rather than before or behind, Jude a silent shape at his shoulder with one hand resting near a wand he had not yet drawn.
 
-# Chapter Seventeen — The Empty Harbor
+# Chapter Seven — The Empty Harbor
 
 The silence was the worst of it. No harbor master waiting at the dock's end. No patrols on the stairs leading up. Nothing but the slap of water against pilings and the measured tread of Marines' boots on old stone, sixty feet of empty pier between them and the stairwell rising toward the island's interior.
 
@@ -1544,7 +1106,7 @@ Paul was already moving. "I'm not leaving the crew exposed to whatever's coming 
 
 "Sergeant — secure the landing!" Paul shouted back, gesturing toward the cleared ground around the dock, and watched the man rally what remained of the squad to hold it even as he and Jude broke away, weapons drawn, sprinting back across open ground toward the ship and whatever horror was rising to meet it.
 
-# Chapter Eighteen — Out of the Deep
+# Chapter Eight — Out of the Deep
 
 Jude and Paul were still fifty yards from the water line when the first of them broke the surface — a shape man-like in outline, but wrong in every particular, a wide, lipless mouth crowded with teeth, eyes flat and black and utterly without warmth.
 
@@ -1572,11 +1134,11 @@ It came on regardless, spear and claw both, and Paul felt the barbed point catch
 
 "Already accounted for." Jude drew the spell's shape tight around them both — an evoker's old trick of sparing chosen allies from his own fire — and let it go.
 
-The blast rolled out over the cluster of Sahaugin in a wash of white and gold, and this close, even sheltered from the worst of it, Paul felt the heat of it on his face. Two of the creatures never had the chance to scream. A third staggered, blackened and reeling, and the rest scattered, badly burned, barely still standing.
+The blast rolled out over the cluster of sahaugin in a wash of white and gold, and this close, even sheltered from the worst of it, Paul felt the heat of it on his face. Two of the creatures never had the chance to scream. A third staggered, blackened and reeling, and the rest scattered, badly burned, barely still standing.
 
 "I've almost nothing left," Jude admitted, low, "and I am not explaining to Lord Jamis how I let the lot of them overrun us. Fall back — get clear of this line."
 
-Paul disengaged, moving fast and low, putting distance between himself and the reach of any remaining blade or claw. One of the burned Sahaugin closed on Jude's position but couldn't quite make the distance after its own dash; Jude, retreating steadily, put a bolt of light through its throat as it tried to scramble up onto the dock, and it went down without a sound.
+Paul disengaged, moving fast and low, putting distance between himself and the reach of any remaining blade or claw. One of the burned sahaugin closed on Jude's position but couldn't quite make the distance after its own dash; Jude, retreating steadily, put a bolt of light through its throat as it tried to scramble up onto the dock, and it went down without a sound.
 
 The last one standing came on regardless, scorched black along one side, moving with the desperate, wounded fury of a creature with nothing left to lose. Jude finished it where it stood rather than risk the opening a retreat might offer, then fell back thirty feet in a single hard sprint, Paul at his shoulder.
 
@@ -1584,7 +1146,7 @@ The last one standing came on regardless, scorched black along one side, moving 
 
 They ran.
 
-# Chapter Nineteen — The Barracks
+# Chapter Nine — The Barracks
 
 Paul and Jude found the sergeant already standing over one of the fallen hobgoblins, having driven a boot into its ribs to be certain of it — and up close, the wrongness of the thing was plainer still: armor and weapons cut in a style so near to a Monmurg Marine's own that it could only have come from the same craftsmen, turned to some other, darker purpose.
 
@@ -1650,7 +1212,7 @@ The commander led Paul and Jude to a quieter corner of the compound, where the s
 
 "Hobgoblins," Paul said.
 
-"Is that the word for them? And working in concert with the Sahaugin, it seems — two of our ships in the bay are already sunk."
+"Is that the word for them? And working in concert with the sahaugin, it seems — two of our ships in the bay are already sunk."
 
 "Any word from the eastern lighthouse?"
 
@@ -1668,7 +1230,7 @@ Paul turned the numbers over as the commander waited. "We have two choices, as I
 
 "You're doing your best to put a bright face on it," the commander observed, not unkindly.
 
-"But we can't sit idle for that reason," Paul went on. "We could send a single runner, but I think we press instead — force word back to Monmurg that more men are needed. We're facing what you call Sahaugin —"
+"But we can't sit idle for that reason," Paul went on. "We could send a single runner, but I think we press instead — force word back to Monmurg that more men are needed. We're facing what you call sahaugin —"
 
 "Sahaugin," the commander confirmed.
 
@@ -1678,7 +1240,7 @@ Paul turned the numbers over as the commander waited. "We have two choices, as I
 
 "An advisor of mine."
 
-"Then let me say this to your advisor as much as to you," the commander said. "Any movement toward the lighthouses now is deeply dangerous — the Sahaugin move through open water easily, and they're swarming this island in numbers we've never seen from them before. It's strange to me they'd come here at all — they've left this place alone for centuries, since they were broken here long ago."
+"Then let me say this to your advisor as much as to you," the commander said. "Any movement toward the lighthouses now is deeply dangerous — the sahaugin move through open water easily, and they're swarming this island in numbers we've never seen from them before. It's strange to me they'd come here at all — they've left this place alone for centuries, since they were broken here long ago."
 
 "Unless," Jude said slowly, "given everything else — the embargo, the isolation, whatever protection this island once carried against them — that protection's weakened. Something's changed, and this is simply the next consequence of it."
 
@@ -1686,13 +1248,13 @@ Paul turned the numbers over as the commander waited. "We have two choices, as I
 
 "Whatever we do," Jude went on, "it must be done carefully. We can hold this barracks — the red-faced men won't take it from us. But the beaches are a death sentence for anyone who tries them now."
 
-"Which is the greater threat," Paul asked, "the Sahaugin, or the hobgoblins?"
+"Which is the greater threat," Paul asked, "the sahaugin, or the hobgoblins?"
 
-"The Sahaugin, without question — there are simply more of them. We've seen perhaps a hundred of the red-faced men at most, all come off that boat."
+"The sahaugin, without question — there are simply more of them. We've seen perhaps a hundred of the red-faced men at most, all come off that boat."
 
 Jude considered the lighthouse visible from where they stood, turning the question over with the particular calculation of a man measuring what his own fire could and couldn't reach. Could he burn one of the towers outright — everyone inside, in a single stroke? He doubted it. The lighthouses stood near eighty feet, several floors apiece; a fireball would gut the base and all who sheltered there, but whoever held the upper stories would ride out the flames and come down after. Not that, then. He kept the reckoning to himself and let it go.
 
-"For now," the commander said, "you should rest, and heal. We've no way to signal at all — every other tower's been taken, and I don't believe it was the hobgoblins who did it. More likely the Sahaugin themselves, or the hobgoblins that came ashore during the attack."
+"For now," the commander said, "you should rest, and heal. We've no way to signal at all — every other tower's been taken, and I don't believe it was the hobgoblins who did it. More likely the sahaugin themselves, or the hobgoblins that came ashore during the attack."
 
 "Where do the other towers sit, precisely?" Paul asked. "Is there any way to signal them from here at all?"
 
@@ -1704,7 +1266,7 @@ Jude considered it a long moment. "Send the name *Karmirg*, once the light allow
 
 "There's little else to send until then," Paul agreed. "But once we know who's friendly, we can say more."
 
-"A sound plan," the commander said. "It's more than I had on my own. You're wounded — you should rest while there's time for it. We'll bring food. This place is safe enough, for now — the Sahaugin won't scale these walls, and the hobgoblins haven't the numbers to take it from us."
+"A sound plan," the commander said. "It's more than I had on my own. You're wounded — you should rest while there's time for it. We'll bring food. This place is safe enough, for now — the sahaugin won't scale these walls, and the hobgoblins haven't the numbers to take it from us."
 
 "I need four hours to meditate, if I'm to recover what magic I've spent," Jude said.
 
@@ -1722,7 +1284,7 @@ Left to himself, Jude found a quiet corner and settled into the discipline of a 
 
 ## PART THREE: THE MARINES' PATH
 
-# Chapter Twenty — Tracks on the Beach
+# Chapter Ten — Tracks on the Beach
 
 They rowed in under a clear sky and calm water, twenty minutes to shore, the whole squad falling into that particular stillness that comes over men who suspect, without quite saying so, that something is wrong before they can name what.
 
@@ -1768,7 +1330,7 @@ The windows told the story before the arrows did. Twice, in the space of a hundr
 
 And then the tower's defenders were no longer hiding at all. Figures poured out onto every defensible ledge and doorway, weapons already leveled, and the fight that had been building since the empty docks finally broke wide open.
 
-# Chapter Twenty-One — The Tower
+# Chapter Eleven — The Tower
 
 The volley came first — a hail of bolts from the tower's heights, most of it turned aside by raised shields, but not all of it. Three men went down in that opening exchange before anyone could drag them clear, leaving seventeen where twenty had stood a moment before.
 
@@ -1806,7 +1368,7 @@ The retreat, when it came, was ragged and short-lived — the fleeing hobgoblins
 
 They had won it. But the cost sat plain in the wounded groaning on the stone floor, and in the sergeant himself, upright only by will alone, blood soaking through the shoulder of his tunic as the unit began, raggedly, to regroup.
 
-# Chapter Twenty-Two — The Karmirg Signal
+# Chapter Twelve — The Karmirg Signal
 
 The tower wasn't fully theirs even then. Bolts still fell from the barracks buildings nearby, killing three more Marines before anyone could drag the bodies clear, and for a long, grinding stretch the fight settled into a stalemate — neither side willing to break from cover, seventeen of the original twenty left standing, most of them wounded, the archers holding the tower's upper floor without daring to show themselves at the windows.
 
@@ -1872,7 +1434,7 @@ A flare of magical flame bloomed suddenly among the distant hobgoblin positions.
 
 And then the water itself began to move — pale, man-shaped things crawling up out of the sea by the hundred, swarming the docks and the ship alike.
 
-"That's Sahaugin," Merrick said, the words coming out of him like something torn loose. "Hundreds of them. On the Helm. I can't credit it — this hasn't happened in centuries."
+"That's sahaugin," Merrick said, the words coming out of him like something torn loose. "Hundreds of them. On the Helm. I can't credit it — this hasn't happened in centuries."
 
 They watched the first squad of Marines reach the top of the quay and vanish from sight — their own people, Paul's escort among them — even as the corsair itself disappeared beneath a swarm of shapes like ants overrunning some larger, dying thing.
 
@@ -1886,7 +1448,7 @@ Merrick called on everything he'd ever learned of the old enemy and found, at le
 
 "If it comes to a choice," Tyrus said, quiet and hard, "Paul stays protected above nearly everything else — that's the mission, whatever the cost to the rest of us. The elf with him can likely see to himself. But Paul comes first." He turned to Merrick. "Whatever you know about this island, now's the time to share it."
 
-"I know the political weight of keeping him alive," Merrick said. "But there's something else at work here too — something we were sent specifically to look into, something wrong with this place that none of us wanted to alarm the others with before now. That fog wasn't natural. Nothing in all my years walking this coast prepared me for what we're seeing tonight. It isn't only the Sahaugin — someone worked magic against this island, and unless we can gather real strength and move as one—"
+"I know the political weight of keeping him alive," Merrick said. "But there's something else at work here too — something we were sent specifically to look into, something wrong with this place that none of us wanted to alarm the others with before now. That fog wasn't natural. Nothing in all my years walking this coast prepared me for what we're seeing tonight. It isn't only the sahaugin — someone worked magic against this island, and unless we can gather real strength and move as one—"
 
 "Are the men drunk?" the sergeant asked, skeptical of the whole account.
 
@@ -1894,7 +1456,7 @@ Merrick called on everything he'd ever learned of the old enemy and found, at le
 
 "You're speaking nonsense."
 
-"I haven't seen the Sahaugin do anything like this in all my years," Merrick said, quieter now, something old and unhealed moving behind his eyes. "My own father was killed by hobgoblins, they told me, once. And now this."
+"I haven't seen the sahaugin do anything like this in all my years," Merrick said, quieter now, something old and unhealed moving behind his eyes. "My own father was killed by hobgoblins, they told me, once. And now this."
 
 "Fewer fish-men, more solid ground beneath us," Tyrus muttered, pacing the length of the tower's parapet. "That's all I ask of tonight."
 
@@ -1952,7 +1514,7 @@ He turned to Merrick. "You know this ground better than any of us — lead us to
 
 They chose their escort with care — two crossbowmen, three shield-bearers, the sergeant himself staying behind to hold the tower and keep the signal line open, Tyrus and Folsom joining once word came that the way ahead was truly clear.
 
-"Stay off the beaches," Gouge warned them all, one last time, before they moved out into the dark. "None of us see well enough at night to trust to it blindly, and the Sahaugin own that water after sundown more than they ever have before tonight. Mind the bridge, and mind each other."
+"Stay off the beaches," Gouge warned them all, one last time, before they moved out into the dark. "None of us see well enough at night to trust to it blindly, and the sahaugin own that water after sundown more than they ever have before tonight. Mind the bridge, and mind each other."
 
 And with that, what remained of the southern squad slipped out into the darkness of Helm Island, bound for the barracks, and for whatever waited with Paul Rivera behind its walls.
 
@@ -1960,7 +1522,7 @@ And with that, what remained of the southern squad slipped out into the darkness
 
 ## PART FOUR: SIGNALS IN THE DARK
 
-# Chapter Twenty-Three — Word From the Tower
+# Chapter Thirteen — Word From the Tower
 
 Sunset came grudgingly, the sky over the Helm gone the color of a healing bruise, and with the last of the light the garrison commander made good on his word. Up on the barracks' watch-platform, a signalman worked a hinged mirror against the dying sun, tilting it in short, practiced bursts — the old code of the sea principalities, dots and dashes of reflected fire, the same method that had once carried word the length of the Monmurgian coast in a matter of minutes.
 
@@ -1988,9 +1550,9 @@ They were anxious, too, for word of Paul specifically — a prince's blood being
 
 Word went back the other way in turn — the numbers Paul had helped the commander reckon earlier: the barracks' own hundred, the twenty who had come ashore with Paul, and now the tower's twenty-seven, set against whatever remained of the southern squad's original strength. A hundred fifty Marines still held out somewhere on the island proper, the tower's answering flashes confirmed — which put the full reckoning, once losses were weighed against everything the night had already cost, somewhere near two hundred men still capable of fighting, scattered across three isolated points that could not yet see or reach one another.
 
-"We'll be fighting the Sahaugin on top of the hobgoblins, then," Jude said, low, watching the mirror flash its patient rhythm across the dark water.
+"We'll be fighting the sahaugin on top of the hobgoblins, then," Jude said, low, watching the mirror flash its patient rhythm across the dark water.
 
-"They're a different problem entirely," Paul said. "For now it's the hobgoblins that matter most. The Sahaugin can't come up onto this land and stay — not for long, and not by choice."
+"They're a different problem entirely," Paul said. "For now it's the hobgoblins that matter most. The sahaugin can't come up onto this land and stay — not for long, and not by choice."
 
 The tower meant to hold its position regardless, the signal made clear, if only to keep any relief ship from Monmurg from sailing blind into the same trap that had already claimed one corsair.
 
@@ -1998,9 +1560,9 @@ The tower meant to hold its position regardless, the signal made clear, if only 
 
 The answer, when it came, was no — not any longer. The brazier meant for a true signal fire had been carried off by the hobgoblins along with everything else; all that remained to the men holding the tower were a handful of short-range flares, enough to warn a ship at close range but nothing that could carry word across open water to Monmurg itself.
 
-"What happens to them if the Sahaugin decide to press the tower directly?" Jude asked. "That's not much of a position to hold against a real push."
+"What happens to them if the sahaugin decide to press the tower directly?" Jude asked. "That's not much of a position to hold against a real push."
 
-The fortifications there were modest, the tower's own men admitted through the mirror, and they were asking for relief all the same — though for the moment, clear of the open beach, they didn't rate the Sahaugin as their most pressing danger.
+The fortifications there were modest, the tower's own men admitted through the mirror, and they were asking for relief all the same — though for the moment, clear of the open beach, they didn't rate the sahaugin as their most pressing danger.
 
 "Does that square with what we already know of them?" Paul asked.
 
@@ -2012,7 +1574,7 @@ Paul lowered the mirror's answering flag and looked out at the black water, the 
 
 "Then we'd best have a plan ready by the time he arrives," he said.
 
-# Chapter Twenty-Four — All In
+# Chapter Fourteen — All In
 
 They took their short rest where they could find it — a bench, a corner of the commander's own quarters — and by nine that evening, restored enough to think clearly, Paul and Jude found a quiet moment alone to speak plainly before anyone else's counsel crowded the room.
 
@@ -2092,7 +1654,7 @@ Jude turned that over, then set it aside for a more practical question. "How do 
 
 "Let's put it to the captain," Paul said, and went to send for him.
 
-# Chapter Twenty-Five — The Captain's Ledger
+# Chapter Fifteen — The Captain's Ledger
 
 The garrison captain arrived within minutes, a lean, weathered man with the particular patience of someone who had answered a great many royal summonses in his time and expected this to be one more. He inclined his head to Paul.
 
@@ -2126,9 +1688,9 @@ The captain considered the question with the care of a man doing sums in his hea
 
 The captain studied him a long moment before answering, weighing, perhaps, how much a prince's household truly ought to know. "That's a closely held secret — but Prince Jeon sent you, so I'll trust you're meant to hear it. There are rumored passages beneath the Helm, a cave system navigable by small boat, an old smugglers' route from centuries past. I've never set foot down there myself; the Admiralty keeps it close. But the rumor places an entrance somewhere on this side of the island. If the hobgoblins knew of it, that might explain how they came up from beneath — though how they'd have found their way through those caverns at all, I couldn't begin to guess. Understand, this is rumor, nothing I could swear to."
 
-"I ask," Jude said, "because I'm concerned the Sahaugin might use any water-fed tunnel to reach the interior."
+"I ask," Jude said, "because I'm concerned the sahaugin might use any water-fed tunnel to reach the interior."
 
-"That's the strangest part of tonight," the captain said. "Historically, the Sahaugin have never been able to reach this island at all — it's held some manner of warding for over a century, since the last great war against their kind. Even sharks give these waters a wide berth, or did."
+"That's the strangest part of tonight," the captain said. "Historically, the sahaugin have never been able to reach this island at all — it's held some manner of warding for over a century, since the last great war against their kind. Even sharks give these waters a wide berth, or did."
 
 "Who maintains that warding?" Jude pressed. "Or has it simply held on its own strength all this time?"
 
@@ -2136,7 +1698,7 @@ The captain studied him a long moment before answering, weighing, perhaps, how m
 
 "Is the enchantment tied to the turtle dragons in any way?" Jude asked.
 
-"I know nothing of that," the captain admitted. "I've heard the great turtles favor Sahaugin much as they favor sharks — natural enemies, if the old sailors' talk is to be believed. If sharks avoid these waters, perhaps that's the whole of it, and the sharkmen inherited the same instinct."
+"I know nothing of that," the captain admitted. "I've heard the great turtles favor sahaugin much as they favor sharks — natural enemies, if the old sailors' talk is to be believed. If sharks avoid these waters, perhaps that's the whole of it, and the sharkmen inherited the same instinct."
 
 "If that protection's truly gone," Paul said, half to himself, "it may tie into everything else pressing on Monmurg just now — the blockade included."
 
@@ -2188,7 +1750,7 @@ The captain's mouth tightened before he went on, unprompted. "The honest trouble
 
 "Only reachable by water, then?" Jude asked.
 
-"That, and the tide besides. And the Sahaugin swim those waters better than any of us — they'd have you in pieces before you came within reach of it."
+"That, and the tide besides. And the sahaugin swim those waters better than any of us — they'd have you in pieces before you came within reach of it."
 
 "They wouldn't expect us," Paul said, "if we went carefully enough."
 
@@ -2204,9 +1766,9 @@ He turned the thought over aloud, half for the captain's benefit and half his ow
 
 "It would do both, in truth," the captain said. "Ships passing at night would see the light and steer wide, and word would carry to the city better than it does now. Retaking even one tower would be worth doing for that alone."
 
-"I think what the captain means," Paul said to Jude, "is that the broken warding against the Sahaugin is the true crisis here — more than the hobgoblins, more than anything else."
+"I think what the captain means," Paul said to Jude, "is that the broken warding against the sahaugin is the true crisis here — more than the hobgoblins, more than anything else."
 
-"It is," the captain confirmed. "If reinforcement comes and the Sahaugin swarm the bay the way they did tonight, we could lose entire companies before they ever make land — as we already lost two hundred men aboard that corsair. Short of a full assault with a thousand men or better, depending on their numbers, that threat alone could break us."
+"It is," the captain confirmed. "If reinforcement comes and the sahaugin swarm the bay the way they did tonight, we could lose entire companies before they ever make land — as we already lost two hundred men aboard that corsair. Short of a full assault with a thousand men or better, depending on their numbers, that threat alone could break us."
 
 "How would you go about retaking the other two towers, given we already hold the southern one?" Paul asked.
 
@@ -2284,7 +1846,7 @@ The captain's eyes sharpened with sudden interest. "You can levitate a man?"
 
 "Only that more men make for less quiet," the captain said. "I'd keep the party small, and under your authority rather than mine, so that I can remain here and hold the barracks properly. I couldn't guess how many Gouge will bring — knowing the man's reputation, not many. He trusts few enough as it is."
 
-"I'd have you ready your own troops and a plan for the Western Tower," the captain said, "and when your agent arrives from Monmurg, put it before him — see what he'd change, and settle on a proper diversion besides. I want as few lives spent as possible, especially with the Sahaugin still a threat to holding this island at all. Don't throw men away at that front gate unless I'm the one lighting the fire there myself."
+"I'd have you ready your own troops and a plan for the Western Tower," the captain said, "and when your agent arrives from Monmurg, put it before him — see what he'd change, and settle on a proper diversion besides. I want as few lives spent as possible, especially with the sahaugin still a threat to holding this island at all. Don't throw men away at that front gate unless I'm the one lighting the fire there myself."
 
 He studied Paul a moment longer. "You mean to go with the party that goes over the wall?"
 
@@ -2304,7 +1866,7 @@ He studied Paul a moment longer. "You mean to go with the party that goes over t
 
 The captain inclined his head once more and withdrew, leaving Paul and Jude alone once again with the shape of a plan now settling, however roughly, into place.
 
-# Chapter Twenty-Six — Two Kinds of Skill
+# Chapter Sixteen — Two Kinds of Skill
 
 They sat together afterward in the quiet the captain left behind, the lamp burning low, the night outside gone fully dark now save for the distant, watchful glow of the Helm's stolen fires.
 
@@ -2398,7 +1960,7 @@ Paul laughed. "Fine — laugh it up."
 
 "Should I push for as long as I can manage, or will a shorter rest have to serve?"
 
-Left to himself a moment, Jude weighed the question against the night still ahead. He had used what he had freely already — a wall of fire on the docks, a fireball among the Sahaugin — and a longer meditation would restore more of it, if the hours allowed. "I took a short rest earlier, so I've a portion back already. I'll see how far the night lets me go before I'm called on again."
+Left to himself a moment, Jude weighed the question against the night still ahead. He had used what he had freely already — a wall of fire on the docks, a fireball among the sahaugin — and a longer meditation would restore more of it, if the hours allowed. "I took a short rest earlier, so I've a portion back already. I'll see how far the night lets me go before I'm called on again."
 
 "I'll keep at the disguises while you do," Paul said. "Worst case, you only get partway through, and we make do with what's there."
 
@@ -2420,9 +1982,9 @@ Left to himself a moment, Jude weighed the question against the night still ahea
 
 ## PART FIVE: GOUGE'S CREW
 
-# Chapter Twenty-Seven — Through the Woods
+# Chapter Seventeen — Through the Woods
 
-At the Southern Guard Tower, the hour of waiting had worn thin. Merrick had spent it turning the mirror-signals over in his mind, and Gouge had spent it, as he spent most things, in restless silence, until word came at last that Jude and Paul Rivera held the barracks — a hundred fifty men there, and urgency besides, since the island lay ringed by Sahaugin and no relief could reach it until they were driven clear.
+At the Southern Guard Tower, the hour of waiting had worn thin. Merrick had spent it turning the mirror-signals over in his mind, and Gouge had spent it, as he spent most things, in restless silence, until word came at last that Jude and Paul Rivera held the barracks — a hundred fifty men there, and urgency besides, since the island lay ringed by sahaugin and no relief could reach it until they were driven clear.
 
 "He's pretty sharp, that one," Gouge said, when the shape of Jude's plan was laid out for him — a small party going ahead on foot, three swordsmen and two bowmen in tow, while the tower's own captain held the rest back to guard against anything still lurking behind them, and to warn off any ship that came sailing blind into the strait.
 
@@ -2450,7 +2012,7 @@ The first bolt hissed past a heartbeat later, then two more — all wide, but cl
 
 "Do it," Tyrus said, and Merrick let the spell go, a grey curtain rolling low across the ground exactly where the trailing men needed it most. The five fell back toward the tower under its cover, while Merrick, Gouge, and Tyrus pressed on alone, three now where six had started, and reached the bridge without further incident.
 
-At the rail, Merrick leaned out and looked down into the black water below — sharks cutting pale wakes beneath the surface, and further off, unmistakable even at this distance, a Sahaugin riding one of them like a man might ride a hound.
+At the rail, Merrick leaned out and looked down into the black water below — sharks cutting pale wakes beneath the surface, and further off, unmistakable even at this distance, a sahaugin riding one of them like a man might ride a hound.
 
 "We don't cross bunched together, and not near the edges," he said. "Down the center, in pairs, and we regroup on the far side."
 
@@ -2482,11 +2044,11 @@ They moved along the base of the palisade with weapons still drawn, and by the t
 
 "How does it stand to the south?" Gouge asked.
 
-"We hold a small garrison there — twenty men or so at the lighthouse, though the tower itself sits empty. Our ship secured that ground cleanly enough." The captain's face darkened. "Here, it's another matter. We cleared the hobgoblins from the barracks proper, but Sahaugin have taken parts of the structure since."
+"We hold a small garrison there — twenty men or so at the lighthouse, though the tower itself sits empty. Our ship secured that ground cleanly enough." The captain's face darkened. "Here, it's another matter. We cleared the hobgoblins from the barracks proper, but sahaugin have taken parts of the structure since."
 
-"Both, then," Gouge said. "Hobgoblins and Sahaugin."
+"Both, then," Gouge said. "Hobgoblins and sahaugin."
 
-"Both, in different corners," the captain confirmed. "The hobgoblins cost us men before we drove them out. The Sahaugin we've not yet dislodged — ten or fifteen, by our best guess, holed up in what's left of the barracks building itself. We hold the tower, warn what ships we can, and wait." He paused, weighing how much more to say. "We watched your corsair go down in the bay. Overrun. We believe there were no survivors among the two hundred who sailed with her — though the detachment escorting Paul Rivera made it ashore, so far as we can tell."
+"Both, in different corners," the captain confirmed. "The hobgoblins cost us men before we drove them out. The sahaugin we've not yet dislodged — ten or fifteen, by our best guess, holed up in what's left of the barracks building itself. We hold the tower, warn what ships we can, and wait." He paused, weighing how much more to say. "We watched your corsair go down in the bay. Overrun. We believe there were no survivors among the two hundred who sailed with her — though the detachment escorting Paul Rivera made it ashore, so far as we can tell."
 
 Gouge's eyes moved over the compound, searching. "Where's the elf?"
 
@@ -2494,7 +2056,7 @@ Gouge's eyes moved over the compound, searching. "Where's the elf?"
 
 He led them down into the heart of the barracks, toward what had clearly been made into a command office, and there, waiting for them, sat young Paul Rivera — no sign of Jude beside him. In person he cut a strange figure: a silver mask fixed over his face, tight leather clothing that clung close despite the warm night, gloves worn even indoors. The four of them filed into the room and paused at the threshold, uncertain, for a moment, quite what they were looking at.
 
-# Chapter Twenty-Eight — The Prince in the Mask
+# Chapter Eighteen — The Prince in the Mask
 
 "My Prince," the sergeant said, ushering them in, "four men reporting to you."
 
@@ -2516,7 +2078,7 @@ Gouge stepped forward. "That would be me."
 
 "Good to meet you."
 
-"We came in unseen," Tyrus offered. "Through the wilderness rather than the coast — saw sharks in the water, and Sahaugin riding among them, which was reason enough to keep well clear of the shore."
+"We came in unseen," Tyrus offered. "Through the wilderness rather than the coast — saw sharks in the water, and sahaugin riding among them, which was reason enough to keep well clear of the shore."
 
 "Merrick," the ranger said, stepping forward in turn. "Sent by Lord Jamis."
 
@@ -2548,7 +2110,7 @@ A beat of silence answered him — someone, plainly, moving where they oughtn't.
 
 "Does anyone actually know where it is?" Gouge asked.
 
-"No one's confirmed it," Paul admitted. "It's rumor, nothing more — though it has to sit somewhere along the coast facing the Sahaugin-infested waters, which is its own trouble."
+"No one's confirmed it," Paul admitted. "It's rumor, nothing more — though it has to sit somewhere along the coast facing the sahaugin-infested waters, which is its own trouble."
 
 "Is there any way to call for help, if we take that route and need it?"
 
@@ -2570,13 +2132,13 @@ The captain, still standing near the door, answered for them. "There's a south d
 
 "You could," the captain confirmed.
 
-"Then here's the shape of it," Gouge said. "We send the diversion out the front, slip out ourselves, and from there it's the wall or the cave. I lean toward the wall, myself — it takes the Sahaugin clean out of the equation, and I'm not inclined to trust that we won't run straight into them in those tunnels regardless."
+"Then here's the shape of it," Gouge said. "We send the diversion out the front, slip out ourselves, and from there it's the wall or the cave. I lean toward the wall, myself — it takes the sahaugin clean out of the equation, and I'm not inclined to trust that we won't run straight into them in those tunnels regardless."
 
 "They'll have lookouts posted along the wall too, likely in some numbers," Paul warned.
 
 "If we can reach the base of it unseen, that's the first real test," Gouge said. "From there, Merrick and I can go hunting the hidden entrance instead, if climbing proves too costly."
 
-"I should be able to tell if there are Sahaugin near," Merrick offered. "I know this coastline as well as anyone living. I led us in earlier, scouting the whole way — if I spot trouble, I can drop fog to cover us and keep moving unseen."
+"I should be able to tell if there are sahaugin near," Merrick offered. "I know this coastline as well as anyone living. I led us in earlier, scouting the whole way — if I spot trouble, I can drop fog to cover us and keep moving unseen."
 
 "How many times could you manage that?" Paul asked.
 
@@ -2614,7 +2176,7 @@ The question sent him briefly into his own memory of old lore, and the answer ca
 
 "Same as elven sight, or do they see further?"
 
-The answer came back the same, roughly — sixty feet either way. "Not especially far," Paul mused. "If we keep well up from the shoreline, the Sahaugin can't follow far inland regardless — they can bear it thirty minutes or so if truly pressed, but they hate every moment of it."
+The answer came back the same, roughly — sixty feet either way. "Not especially far," Paul mused. "If we keep well up from the shoreline, the sahaugin can't follow far inland regardless — they can bear it thirty minutes or so if truly pressed, but they hate every moment of it."
 
 "They hate it enough that they're unlikely to stand guard far from the water," Gouge said. "Hobgoblins might hold that ground instead, though."
 
@@ -2668,7 +2230,7 @@ The captain answered for himself. "I know the interior well enough. Merrick's wa
 
 "I'd favor the coastal approach," Paul said. "Not hugging the shore itself, but generally that direction — searching for the tunnel mouth as we go."
 
-"Levitating over the wall serves well enough," Gouge said, "and hobgoblins certainly can't follow us into the air, which counts for something either way. Still, I favor the coastal route myself — the most direct path, to my mind. I've no real notion how those tunnels connect to the interior, and I'd rather not discover they dead-end into a room full of hungry Sahaugin."
+"Levitating over the wall serves well enough," Gouge said, "and hobgoblins certainly can't follow us into the air, which counts for something either way. Still, I favor the coastal route myself — the most direct path, to my mind. I've no real notion how those tunnels connect to the interior, and I'd rather not discover they dead-end into a room full of hungry sahaugin."
 
 "That's a fair worry," Paul allowed.
 
@@ -2684,7 +2246,7 @@ The captain answered for himself. "I know the interior well enough. Merrick's wa
 
 And so, with the shape of the choice still unsettled, the six of them went to find Jude.
 
-# Chapter Twenty-Nine — No Time to Finish
+# Chapter Nineteen — No Time to Finish
 
 They found him exactly where the captain had guessed — deep in trance, folded into stillness in a quiet corner of the barracks, chasing the last of his spent strength back into himself hour by patient hour.
 
@@ -2740,7 +2302,7 @@ Gouge studied Jude a moment. "I'm not surprised I caught you mid-trance — I'd 
 
 "I suspect it," Gouge said. "He may have broken the warding himself."
 
-"Because of the Sahaugin?" Jude asked. "Or something else entirely?"
+"Because of the sahaugin?" Jude asked. "Or something else entirely?"
 
 "No proof of it either way — only suspicion, and instructions of my own on the matter."
 
@@ -2754,7 +2316,7 @@ Gouge studied Jude a moment. "I'm not surprised I caught you mid-trance — I'd 
 
 "So — can he be taken alive?" Paul asked.
 
-"We'll have to manage it," Gouge said. "If he's turned, that's a disaster whichever way it falls, and we need him breathing regardless — someone has to know how to mend what's broken, and set the warding right again. First step is clearing the Sahaugin from this island entirely."
+"We'll have to manage it," Gouge said. "If he's turned, that's a disaster whichever way it falls, and we need him breathing regardless — someone has to know how to mend what's broken, and set the warding right again. First step is clearing the sahaugin from this island entirely."
 
 "Why would they even come here?" Jude asked. "That protection's held for centuries."
 
@@ -2776,7 +2338,7 @@ There was a brief, tired pause after that — a moment spent comparing how much 
 
 And with that, he went to round up the rest of his company.
 
-# Chapter Thirty — The Little Scout
+# Chapter Twenty — The Little Scout
 
 The two companies met properly a short while later, close to midnight, gathering in a quiet corner of the barracks compound to settle the last of their plan before moving.
 
@@ -2852,7 +2414,7 @@ At Paul's request, the barracks commander had several of the hobgoblin dead brou
 
 "Then let's move," Gouge said. "The six of us, out through the north exit, up the coast from there."
 
-# Chapter Thirty-One — Over the Wall
+# Chapter Twenty-One — Over the Wall
 
 They slipped out through the north exit in the deep hours between the second and third of Wealsun, six shapes moving into darkness that gave back nothing in return.
 
@@ -2994,7 +2556,7 @@ They walked the full hundred fifty feet of that corridor, past twenty armed and 
 
 ## PART SIX: INTO THE HELM
 
-# Chapter Thirty-Two — The Council Room
+# Chapter Twenty-Two — The Council Room
 
 The towers marking the inner sanctum rose ahead of them now, two guards posted before its final door — one of them in a breastplate like their own borrowed gear, marked with a red badge of office that set him apart from the rest.
 
@@ -3042,13 +2604,13 @@ And there, seated at its head, was Lord Fairwind himself.
 
 "Of course," the Toli said. "You'll be well compensated. Once the pressure on Jeon has served its purpose, everything returns to how it was. We'll return every barrel of the — pest control, shall we call it — and you may go about your business undisturbed. Until then, it stays with us."
 
-Paul came back to himself slowly, the trance releasing him by degrees, turning the words over even as they still echoed in his mind. The compound. The yellow substance he'd stumbled across weeks before, back in Monmurg — could it be one and the same? He had no proof, no barrel in hand to point to, only the shape of an old memory surfacing: letters between his mother and father, half-understood as a boy, describing something that killed the Sahaugin outright, poisoned the very water against them, the same weapon used a hundred fifty years past in the old wars, bought at cost from the Duke of Berghof because no one in the sea principalities had ever learned to make it themselves. His father had tried, and failed.
+Paul came back to himself slowly, the trance releasing him by degrees, turning the words over even as they still echoed in his mind. The compound. The yellow substance he'd stumbled across weeks before, back in Monmurg — could it be one and the same? He had no proof, no barrel in hand to point to, only the shape of an old memory surfacing: letters between his mother and father, half-understood as a boy, describing something that killed the sahaugin outright, poisoned the very water against them, the same weapon used a hundred fifty years past in the old wars, bought at cost from the Duke of Berghof because no one in the sea principalities had ever learned to make it themselves. His father had tried, and failed.
 
 The truth of it, he understood now, was a secret buried deep enough that most of Monmurg believed the island's protection came from some ancient enchantment rather than a sack of poison sprinkled into the tide. Whether to let that belief stand or shatter it was a question that settled over him with sudden, uncomfortable weight.
 
 He decided quickly enough. Whatever the compound's true nature, that was a secret worth keeping close — his uncle would want it kept close, given how thin a thread it hung by, tied as it was to a single foreign supplier. But Fairwind's dealings with the Toli were another matter entirely, and those he meant to report in full. The man was sitting not thirty feet away, trading in his own city's defense like a merchant haggling over spoiled grain.
 
-# Chapter Thirty-Three — Blood in the Sanctum
+# Chapter Twenty-Three — Blood in the Sanctum
 
 "We've found him," Paul said, coming fully back to himself, voice pitched low with something between triumph and dread. "Fairwind. He's in there, talking with the Toli right now."
 
@@ -3108,7 +2670,7 @@ It was Tyrus who found the side room a moment later — a table, and beside it, 
 
 "Good thing he's gagged," Tyrus observed dryly, and went to see the last of the fight properly finished.
 
-# Chapter Thirty-Four — The Prisoner's Bargain
+# Chapter Twenty-Four — The Prisoner's Bargain
 
 They dragged him out and set him before them, Paul keeping his bow trained loosely on the bound man as a precaution more than an active threat.
 
@@ -3146,7 +2708,7 @@ Merrick turned to the practical matter of securing the chamber — no one else s
 
 "I'll regret it?" Gouge said. "No threats from you — you don't know the first thing about me. We've enough Toli trash to deal with already without adding yours to the pile."
 
-Paul turned back to Fairwind, pressing while the man was still off balance. "Speak quickly. How do we drive the Sahaugin from these waters?"
+Paul turned back to Fairwind, pressing while the man was still off balance. "Speak quickly. How do we drive the sahaugin from these waters?"
 
 "That's a state secret," Fairwind said. "I cannot tell you."
 
@@ -3176,7 +2738,7 @@ Paul turned back to Fairwind, pressing while the man was still off balance. "Spe
 
 "Keep talking," Paul pressed. "Honesty now will help your case at trial, whatever else happens."
 
-"The hobgoblins aren't even the true danger," Fairwind said. "The Sahaugin can be driven off — will be, in fact — unless what's stored below finishes being packed and shipped clear of this island first."
+"The hobgoblins aren't even the true danger," Fairwind said. "The sahaugin can be driven off — will be, in fact — unless what's stored below finishes being packed and shipped clear of this island first."
 
 "You're not grasping how urgent this is," Paul said.
 
@@ -3184,13 +2746,13 @@ Paul turned back to Fairwind, pressing while the man was still off balance. "Spe
 
 "That's the wrong move entirely, thank you," Paul said.
 
-Fairwind pressed on, something almost pleading beneath the careful formality now. "Understand — the barrels hold a powder, poisonous to the Sahaugin, an alchemical reaction rather than any spell, sprinkled into the water around this island. That's how the sea principalities have held them off for a hundred fifty years. The world believes it's an enchantment — a deliberate lie, meant to keep the true secret hidden. The Toli have learned it regardless, and they're taking our supply as we speak."
+Fairwind pressed on, something almost pleading beneath the careful formality now. "Understand — the barrels hold a powder, poisonous to the sahaugin, an alchemical reaction rather than any spell, sprinkled into the water around this island. That's how the sea principalities have held them off for a hundred fifty years. The world believes it's an enchantment — a deliberate lie, meant to keep the true secret hidden. The Toli have learned it regardless, and they're taking our supply as we speak."
 
-"Do the Toli suffer from the Sahaugin themselves?" Paul asked.
+"Do the Toli suffer from the sahaugin themselves?" Paul asked.
 
 "I couldn't say what drives them in this."
 
-"We've long suspected Toli involvement in the blockade against Monmurg," Paul said. "And now there's a ship out there hauling off everything that keeps this island standing." He turned to the others. "Fairwind's case is for the princes to settle, later, properly. What's ours to handle now is the Sahaugin, and reclaiming this island."
+"We've long suspected Toli involvement in the blockade against Monmurg," Paul said. "And now there's a ship out there hauling off everything that keeps this island standing." He turned to the others. "Fairwind's case is for the princes to settle, later, properly. What's ours to handle now is the sahaugin, and reclaiming this island."
 
 "Where are the hobgoblins even coming from?" Merrick asked. "Who's directing them?"
 
@@ -3204,7 +2766,7 @@ They searched the wounded and the fallen alike while the argument settled — a 
 
 "Agreed," Merrick said. "We should make for the signal tower — it can be seen from the city, and they'll send reinforcement the moment it's lit."
 
-"And we'll warn them of the Sahaugin," Paul said. He turned back to Fairwind. "Is there any way to restore the island's protection, so we're not bleeding troops in that bay for nothing?"
+"And we'll warn them of the sahaugin," Paul said. He turned back to Fairwind. "Is there any way to restore the island's protection, so we're not bleeding troops in that bay for nothing?"
 
 "One barrel," Fairwind said, "will hold them off ten months."
 
@@ -3320,7 +2882,7 @@ Gouge questioned him plainly once they'd rejoined the others. "Between us — ho
 
 "We'd like to recapture what's being stolen," Paul said. "We've seen the barrels ourselves."
 
-"Wouldn't that be the surest way to hold this island against the Sahaugin, at minimum?" Gouge pressed.
+"Wouldn't that be the surest way to hold this island against the sahaugin, at minimum?" Gouge pressed.
 
 "I think it's the only way Monmurg survives this at all, frankly," Fairwind admitted.
 
@@ -3346,7 +2908,7 @@ Gouge questioned him plainly once they'd rejoined the others. "Between us — ho
 
 "How large is the ferry that runs between it and shore?"
 
-"A smaller ship moves between the two," Fairwind said. "That's the one presently in the cove. We're trying to get it back into open water, to help repel the Sahaugin properly."
+"A smaller ship moves between the two," Fairwind said. "That's the one presently in the cove. We're trying to get it back into open water, to help repel the sahaugin properly."
 
 "We'll take that one, then," Gouge said. "And smuggle you back to Monmurg with us. Or negotiate something else, if it comes to it."
 
@@ -3356,7 +2918,7 @@ Gouge questioned him plainly once they'd rejoined the others. "Between us — ho
 
 "Correct," Fairwind said. "I'll exercise my right to silence on the rest, then."
 
-"You've crippled Jeon's defenses by taking those barrels," Gouge pressed, "which let the Sahaugin overrun this place outright. At minimum, you've two hundred dead Monmurgian Marines in that bay to answer for."
+"You've crippled Jeon's defenses by taking those barrels," Gouge pressed, "which let the sahaugin overrun this place outright. At minimum, you've two hundred dead Monmurgian Marines in that bay to answer for."
 
 "I respect your uncle a great deal, Paul," Fairwind said. "He's an honest man. But I don't think he fully grasps what's occurring among the principalities, and that's the whole of my disagreement with him."
 
@@ -3366,7 +2928,7 @@ Gouge questioned him plainly once they'd rejoined the others. "Between us — ho
 
 "Why's that? How would you stop us?"
 
-"I wouldn't need to," Fairwind said. "I'd simply let the Sahaugin handle it."
+"I wouldn't need to," Fairwind said. "I'd simply let the sahaugin handle it."
 
 "You just said we'd leave only if you allowed it."
 
@@ -3382,7 +2944,7 @@ Gouge questioned him plainly once they'd rejoined the others. "Between us — ho
 
 "I don't know how long it holds."
 
-"While you and the rest of the princes squabble over your petty grievances," Paul said, turning back to Fairwind, frustration finally breaking through, "the people of Monmurg suffer for it. Nothing improves until the Sahaugin are repelled, order's restored, and this blockade ends. Let's go below, deal with this properly, and get that substance into the water."
+"While you and the rest of the princes squabble over your petty grievances," Paul said, turning back to Fairwind, frustration finally breaking through, "the people of Monmurg suffer for it. Nothing improves until the sahaugin are repelled, order's restored, and this blockade ends. Let's go below, deal with this properly, and get that substance into the water."
 
 "It's being moved out even as we speak," Fairwind said.
 
@@ -3424,13 +2986,13 @@ He rose, and the party fell in around him.
 
 "Come along, then, friend," Gouge said, keeping a firm grip on the man's shoulder, something dark beneath the mock warmth. "Best of friends, you and I."
 
-"There are hobgoblins along the upper shafts," Fairwind told them as they moved, "though not on the passage we're taking. There are Sahaugin in the water caves near it as well — if we carry barrels through there, the substance should kill or drive off anything we pass."
+"There are hobgoblins along the upper shafts," Fairwind told them as they moved, "though not on the passage we're taking. There are sahaugin in the water caves near it as well — if we carry barrels through there, the substance should kill or drive off anything we pass."
 
 "That's how we survive the crossing, then," Gouge said.
 
 "You'll need to get near them regardless," Fairwind warned. "All the remaining barrels are staged close to the water caves now."
 
-"I have no doubt you could negotiate with Jeon as something near an equal, in time," Fairwind added, as they reached the stairwell. "But you don't negotiate that way with me — not while you hold Jamis's agent and one of my own hostages both. Negotiate with Jeon himself, and I expect he'll deal with you fairly, given what you're bringing back to him. But to get off this island alive, past the Sahaugin, you'll need at minimum enough barrels to secure the Helm and reach that smaller ship — and take it outright."
+"I have no doubt you could negotiate with Jeon as something near an equal, in time," Fairwind added, as they reached the stairwell. "But you don't negotiate that way with me — not while you hold Jamis's agent and one of my own hostages both. Negotiate with Jeon himself, and I expect he'll deal with you fairly, given what you're bringing back to him. But to get off this island alive, past the sahaugin, you'll need at minimum enough barrels to secure the Helm and reach that smaller ship — and take it outright."
 
 "One barrel secures the Helm a good while, you said."
 
@@ -3466,7 +3028,7 @@ They fell into marching order — Gouge and Tyrus flanking Fairwind, Paul close 
 
 And they began their descent, a spiral staircase turning down into the dark beneath the Helm.
 
-# Chapter Thirty-Five — What Folsom Learned
+# Chapter Twenty-Five — What Folsom Learned
 
 Folsom found himself walking near enough to Fairwind, in the shuffle of the descent, to risk a quiet word. "Can we whisper?" he asked. "In case anyone's near."
 
@@ -3534,7 +3096,7 @@ Folsom found himself walking near enough to Fairwind, in the shuffle of the desc
 
 "No," Fairwind said. "Thank you. For reversing your witness against me, if it comes to that."
 
-# Chapter Thirty-Six — Into the Caverns
+# Chapter Twenty-Six — Into the Caverns
 
 The stairs gave way at last to a rough-hewn passage, and from somewhere in the dark ahead came the sound of whispering — scattered, indistinct, impossible to place among the echoing stone. They pressed on regardless, three hundred yards down a narrow ledge cut along the wall of what could only be an underground river, the tunnel curving and descending as it went, the water below audible but unseen.
 
@@ -3582,11 +3144,11 @@ Fairwind, unable to answer past the gag, only stared back.
 
 They pressed on in careful, deliberate silence, Gouge creeping ahead alone once more despite every attempt to rein him in — "Gouge does Gouge," as Tyrus put it, with the weary resignation of a man who'd already given up trying. Merrick, unwilling to risk the dark passage himself, reached Tyrus instead by a whispered thread of magic carried straight into his mind.
 
-*Normally I'd have a joke ready for this,* the message ran, in Folsom's voice, carried the same way Folsom always got a man's attention across a crowded room. *Not this time. There's a forty-foot shark directly beneath us — one of the Sahaugin's own, by the look of it. We're all of us standing near water it could reach in a heartbeat. Move faster if you can, or at the very least, don't fall in.*
+*Normally I'd have a joke ready for this,* the message ran, in Folsom's voice, carried the same way Folsom always got a man's attention across a crowded room. *Not this time. There's a forty-foot shark directly beneath us — one of the sahaugin's own, by the look of it. We're all of us standing near water it could reach in a heartbeat. Move faster if you can, or at the very least, don't fall in.*
 
 "Don't have to tell me twice," Tyrus murmured, and pressed forward with rather more care than before.
 
-# Chapter Thirty-Seven — Voices in the Dark
+# Chapter Twenty-Seven — Voices in the Dark
 
 Gouge crept the platform's length alone, one hand trailing the wall, testing each board with painstaking care despite the noise carrying from behind him — hushed, urgent whispers that echoed further through the caverns than he'd have liked. He reached the edge of the torchlight's reach and held there, in the last true shadow before the light would betray him outright, and listened.
 
@@ -3626,7 +3188,7 @@ Jude's answer came without hesitation — his wand rising, a burst of pure force
 
 For a long, ringing moment, nothing else moved. Then the caverns erupted into motion on every side, and the fight that had been building since the moment they'd descended those stairs finally broke wide open.
 
-# Chapter Thirty-Eight — The Chasm Fight
+# Chapter Twenty-Eight — The Chasm Fight
 
 Tyrus surged forward first, closing thirty feet at a dead run, a guard rising ahead of him with shield already raised. "We'll kill him if you don't give us passage!" Tyrus shouted, more for effect than truth now that Fairwind lay senseless on the boards, and held his ground rather than press the advantage blindly.
 
@@ -3678,9 +3240,9 @@ Toli. Not Fairwind's arm at all.
 
 "Then he might still be alive," Paul said, something almost like relief in it, though relief was hardly the right word for what still lay ahead of them.
 
-# Chapter Thirty-Nine — What the Water Gave Back
+# Chapter Twenty-Nine — What the Water Gave Back
 
-They searched what remained of the water they could reach, Paul lowering himself on a length of rope while the others watched from above, the arm's faint residual glow giving them just enough light to make out shapes in the black current — sharks circling back into view, and among them, unmistakably, the pale shifting shape of a Sahaugin.
+They searched what remained of the water they could reach, Paul lowering himself on a length of rope while the others watched from above, the arm's faint residual glow giving them just enough light to make out shapes in the black current — sharks circling back into view, and among them, unmistakably, the pale shifting shape of a sahaugin.
 
 "We need to keep moving," Tyrus said, watching the water darken further with movement. "We've got to reach those barrels."
 
@@ -3694,57 +3256,57 @@ No ship rode at the docks below, but tents stood there, and beside them, a stack
 
 "The rest of you, down to the landing," Tyrus said.
 
-Merrick weighed the ballista's range against his own spells and found himself well outside it either way, and chose to hold the higher ground instead, watching the passage behind them for anything still following from the direction of the chasm — Fairwind, the Sahaugin, whatever else the night still had in store.
+Merrick weighed the ballista's range against his own spells and found himself well outside it either way, and chose to hold the higher ground instead, watching the passage behind them for anything still following from the direction of the chasm — Fairwind, the sahaugin, whatever else the night still had in store.
 
 "I'll stay up with him," Folsom decided, close enough within sixty feet to keep his voice a weapon in its own right if the moment called for it.
 
 Jude chose to hold the line as well, and the remaining three — Tyrus, Gouge, and Paul — started down the long wooden walkway toward the barrels waiting below, the dawn still an hour off and the cave lit only by scattered, guttering torches.
 
-# Chapter Forty — The Poison Sea
+# Chapter Thirty — The Poison Sea
 
-Sunrise was still an hour distant when the four who'd gone down reached the beach proper, and the water answered their arrival almost at once — pale shapes breaking the surface near the barrels, three Sahaugin rising from the shallows in a rush.
+Sunrise was still an hour distant when the four who'd gone down reached the beach proper, and the water answered their arrival almost at once — pale shapes breaking the surface near the barrels, three sahaugin rising from the shallows in a rush.
 
 "Right by the barrels," Gouge said, grim.
 
 The ballista spoke first, Tyrus's aim true enough to skewer one creature clean through and stop the bolt lodged in a second body behind it — a devastating opening blow that dropped the first outright and left the second reeling. Jude, watching from the platform above, put an arrow into a third before the fighting on the beach had properly begun.
 
-Folsom's voice found its mark next, a cutting verse aimed at the nearest Sahaugin that left it staggering, disadvantaged and rattled, easy prey for the crossbow bolt Gouge put through it a moment later.
+Folsom's voice found its mark next, a cutting verse aimed at the nearest sahaugin that left it staggering, disadvantaged and rattled, easy prey for the crossbow bolt Gouge put through it a moment later.
 
-Paul weighed the distance for a fireball and held off, waiting for a better cluster to present itself, while Merrick's arrow found its mark on the creature nearest Tyrus with a force that nearly finished it outright. Gouge closed on a wounded Sahaugin and ended it with cutlass and dagger together, a blade across the throat and a second through the eye, and turned to find another already closing on him in its place.
+Paul weighed the distance for a fireball and held off, waiting for a better cluster to present itself, while Merrick's arrow found its mark on the creature nearest Tyrus with a force that nearly finished it outright. Gouge closed on a wounded sahaugin and ended it with cutlass and dagger together, a blade across the throat and a second through the eye, and turned to find another already closing on him in its place.
 
 "I want a barrel," Gouge said, disengaging despite the opening it cost him, taking a solid hit for the trouble but reaching the stack regardless. Paul dropped his own sword and shield to haul a second barrel free, staggering with the weight of it toward the waterline.
 
-The Sahaugin pressed their advantage while the two men struggled toward the water, sensing blood and closing in, until Folsom's rapier and Jude's follow-up strike from behind finished the nearest one cleanly.
+The sahaugin pressed their advantage while the two men struggled toward the water, sensing blood and closing in, until Folsom's rapier and Jude's follow-up strike from behind finished the nearest one cleanly.
 
 "Nice — way to go, bard," Gouge called, even as he fought to keep his footing under the weight of the barrel and the wounds already gathering across his arms.
 
-Jude, weighing his position at eighty feet and finding it enough, shaped his last fireball with the same careful precision he'd used before, sparing the two men wrestling with the barrels while the blast caught the three remaining Sahaugin square. Two died outright, incinerated where they stood; the third, catching only the edge of it, collapsed into the shallows regardless, badly burned and finished off a moment later by Merrick's arrow.
+Jude, weighing his position at eighty feet and finding it enough, shaped his last fireball with the same careful precision he'd used before, sparing the two men wrestling with the barrels while the blast caught the three remaining sahaugin square. Two died outright, incinerated where they stood; the third, catching only the edge of it, collapsed into the shallows regardless, badly burned and finished off a moment later by Merrick's arrow.
 
 Gouge reached the water at last and pried the barrel open with his bare hands, no weapon free for the work, and the lid gave way to reveal a pale yellow powder that carried the faint, unmistakable stink of sulfur.
 
 "Gods," he muttered, flinging the contents wide into the shallows around him, "we could've set this whole cave alight without meaning to, this entire time." He heaved the rest of the barrel out into deeper water for good measure, dousing himself in the process — his own skin, where the powder had touched it, shifting slowly toward a sickly, greenish yellow.
 
-The last wounded Sahaugin lunged at him with spear and claw both and missed on every count, and a moment later let out a strange, wet cough, blood and water bubbling from its gills before it collapsed face-first into the poisoned shallows and did not move again.
+The last wounded sahaugin lunged at him with spear and claw both and missed on every count, and a moment later let out a strange, wet cough, blood and water bubbling from its gills before it collapsed face-first into the poisoned shallows and did not move again.
 
 "I should wash this off," Gouge said, eyeing his own discolored skin.
 
-Paul finished the last standing Sahaugin with a dagger driven home while it was still reeling from the powder's effect, and then there was nothing left to fight — only the four of them standing on the beach, watching the water for further movement.
+Paul finished the last standing sahaugin with a dagger driven home while it was still reeling from the powder's effect, and then there was nothing left to fight — only the four of them standing on the beach, watching the water for further movement.
 
-It came, in its own way, ten seconds later. A bloated shape surfaced first, then another, then dozens more scattered across the open water of the grotto — Sahaugin corpses by the score, forty or fifty of them at least, and among them the massive carcass of the great shark itself, floating belly-up in the tide.
+It came, in its own way, ten seconds later. A bloated shape surfaced first, then another, then dozens more scattered across the open water of the grotto — sahaugin corpses by the score, forty or fifty of them at least, and among them the massive carcass of the great shark itself, floating belly-up in the tide.
 
 "That's the same one from before?" Gouge asked, studying its size.
 
-"Looks to be," came the answer. Between the sharks and the shark-folk both, near a dozen more corpses than the Sahaugin themselves littered the water — a number that would have overwhelmed them entirely, had it all come at once rather than in the scattered handful that had actually attacked.
+"Looks to be," came the answer. Between the sharks and the shark-folk both, near a dozen more corpses than the sahaugin themselves littered the water — a number that would have overwhelmed them entirely, had it all come at once rather than in the scattered handful that had actually attacked.
 
 "Any sign of Fairwind, among all that?" Paul asked, scanning the drifting bodies.
 
-No sign of him surfaced. Whatever had become of Lord Fairwind, the poisoned water gave no answer, and the grotto settled slowly back into silence around them — the barrels secured, the Sahaugin driven from these waters for what might yet prove to be a very long while, and the fate of the man who had once ruled this island still, for now, an open question.
+No sign of him surfaced. Whatever had become of Lord Fairwind, the poisoned water gave no answer, and the grotto settled slowly back into silence around them — the barrels secured, the sahaugin driven from these waters for what might yet prove to be a very long while, and the fate of the man who had once ruled this island still, for now, an open question.
 
 ---
 
 ## PART SEVEN: ESCAPE FROM HELM ISLAND
 
-# Chapter Forty-One — The Empty Racks
+# Chapter Thirty-One — The Empty Racks
 
 Morning of the third of Wealsun found Jude retracing his own steps up from the grotto, moving slow and careful along the ledge, watching the stone floor for anything the water might have left behind. No dripping trail marked the passage back the way he'd come — no sign that Fairwind, if he'd survived that fall, had hauled himself out anywhere along this stretch.
 
@@ -3768,7 +3330,7 @@ Beyond the racks, a second tunnel opened onto a second barred door — this one 
 
 He studied them as long as the grate allowed him to, but there was nothing more to learn from the shape of them alone — only the confirmation that someone had come this way, and gone. He turned back at last, retracing the full length of the passage, and made his way toward the others to report what he'd found, and hadn't.
 
-# Chapter Forty-Two — What Fire and Iron Decide
+# Chapter Thirty-Two — What Fire and Iron Decide
 
 The party had gathered on the docks by then, the fight behind them and the grotto's dead settling slowly beneath the surface, and the talk had already turned from recovery to reckoning. Paul counted the barrels twice to be certain — twenty-five, stacked and waiting — while Gouge went hunting through his own gear for a flask of red-eye and Tyrus turned his attention to the tents pitched near the water's edge.
 
@@ -3788,13 +3350,13 @@ They weighed the ground itself — how far a man could climb and still keep the 
 
 "I think we can hold this ground from up top," Tyrus said. "Without Fairwind to chase, we could spend the time searching properly instead — thirty minutes, maybe, to sweep what's left of this place."
 
-He turned the larger question over aloud, working through it as he spoke. Without Fairwind, they could still strip what remained of the stockpile, destroy what they couldn't carry, and work to free his locked-away troops — a hundred and fifty men, by his own account, shut in unarmed rather than truly imprisoned. Kill the interior guards standing over them, and the island itself might be held — twenty-five barrels ought to buy fifty days against the Sahaugin returning, longer if rationed properly, long enough certainly to summon reinforcement from Monmurg.
+He turned the larger question over aloud, working through it as he spoke. Without Fairwind, they could still strip what remained of the stockpile, destroy what they couldn't carry, and work to free his locked-away troops — a hundred and fifty men, by his own account, shut in unarmed rather than truly imprisoned. Kill the interior guards standing over them, and the island itself might be held — twenty-five barrels ought to buy fifty days against the sahaugin returning, longer if rationed properly, long enough certainly to summon reinforcement from Monmurg.
 
 "The whole island?" Paul said, doubtful. "We've barely cleared this stretch of it."
 
 "Fairwind said himself one barrel does the job for the better part of a season," Tyrus reminded him. "We likely overdid it dumping what we did into this one cove. Spread thin and rationed, twenty-five could hold the whole approach for two months."
 
-The question of readiness settled over them next — who had strength left, who needed rest, how many spells still sat in reserve. Jude had little enough remaining, a single working of any real weight and whatever cantrips still answered him. Merrick was bruised but standing, worse off than he let on; Folsom claimed himself fit enough; Tyrus shrugged off his own wounds as no great matter.
+The question of readiness settled over them next — who had strength left, who needed rest, how many spells still sat in reserve. Jude had little enough remaining, a single working of any real weight and whatever cantrips still answered him. Merrick sat at nine hit points by his own count, bruised but standing; Folsom claimed himself fit enough; Tyrus shrugged off his own wounds as no great matter.
 
 "If Cain Toli's still out there with the Sea Ghost," Tyrus said, "we won't manage much of anything until we know the numbers we're actually facing. Call it three hundred men, all told, between the outer garrison and whatever's held within the keep."
 
@@ -3814,9 +3376,9 @@ Paul turned the whole account over once more, weighing what his homunculus had o
 
 "He walks away either way," Tyrus said. "The Toli agents in there with him are already dead. Sitting here debating it buys us nothing."
 
-The plans multiplied faster than any of them could properly weigh — hide the barrels and wait out the Sahaugin's return, or press on to find Fairwind's locked troops and turn them, or seize the resupply skiff when it came and simply leave. Each option carried its own price. To hide was to gamble that six or ten days would be enough before the Sahaugin found their way back in force — though the tally of hours told a gentler story than that: it had been scarcely a day since they'd first set foot on this island, the second of Wealsun to the third, and Jeon's reinforcement might already be moving by midday.
+The plans multiplied faster than any of them could properly weigh — hide the barrels and wait out the sahaugin's return, or press on to find Fairwind's locked troops and turn them, or seize the resupply skiff when it came and simply leave. Each option carried its own price. To hide was to gamble that six or ten days would be enough before the sahaugin found their way back in force — though the tally of hours told a gentler story than that: it had been scarcely a day since they'd first set foot on this island, the second of Wealsun to the third, and Jeon's reinforcement might already be moving by midday.
 
-"What if we took the signal tower instead," Paul said, "and warned Monmurg directly — Sahaugin in these waters, watch the strait?"
+"What if we took the signal tower instead," Paul said, "and warned Monmurg directly — sahaugin in these waters, watch the strait?"
 
 That, at least, drew general agreement, though it left the matter of the barrels themselves — split the party to guard them, or risk the whole stockpile unwatched while the rest pushed toward the tower. Merrick, weighing both plans, judged the vantage point they already held as strong enough to serve for both purposes — a clear line on anything approaching by water, and cover over the rear passage besides.
 
@@ -3846,7 +3408,7 @@ They settled, in the end, on the short rest — an hour, no more, with Folsom's 
 
 He cast invisibility over himself and slipped away from the group without further ceremony, bound for wherever Fairwind might have gone — the outer garrison, if he'd made the beach; the inner troops, if he'd somehow slipped back inside; or nowhere at all, if the water had already claimed him.
 
-# Chapter Forty-Three — What the Shark Gave Up
+# Chapter Thirty-Three — What the Shark Gave Up
 
 While Jude searched, Merrick turned his attention to the carcass floating in the grotto — the great forty-foot shark, belly-up now, a ballista bolt still lodged fast in its hide with a length of rope trailing from it into the water. He worked the rope hand over hand, hauling the massive body in against its own dead weight until it rode close enough against the ledge to climb aboard.
 
@@ -3862,7 +3424,7 @@ Down at the beach, meanwhile, Gouge had already turned his attention to what rem
 
 The tide itself, he reasoned, would do most of the work — the currents ran strong through this stretch of water, in and out with the hours, and a raft riding that outgoing pull needed only paddle and a scrap of sail to make the five-hour crossing.
 
-# Chapter Forty-Four — Watch the Waves
+# Chapter Thirty-Four — Watch the Waves
 
 Jude returned a little before eight that morning, dropping his invisibility as he crossed back to where Gouge stood waiting.
 
@@ -3892,7 +3454,7 @@ They found Merrick down among the tents, sail rigged from canvas that had lately
 
 "That's the whole of what we're doing," Gouge said.
 
-They gave the work two hours in all — Merrick lashing the sail, Gouge and Folsom tearing free what lumber the docks would spare, Tyrus lending what strength he had between stretches of trance. Twenty-five barrels sat counted on the sand; only four would make the crossing, the raft judged too slight to carry more without risking the whole venture. Twenty-one would stay behind, enough — barely — to hold this stretch of shoreline against the Sahaugin's return until reinforcement arrived to make the count matter less.
+They gave the work two hours in all — Merrick lashing the sail, Gouge and Folsom tearing free what lumber the docks would spare, Tyrus lending what strength he had between stretches of trance. Twenty-five barrels sat counted on the sand; only four would make the crossing, the raft judged too slight to carry more without risking the whole venture. Twenty-one would stay behind, enough — barely — to hold this stretch of shoreline against the sahaugin's return until reinforcement arrived to make the count matter less.
 
 Before they launched, Folsom climbed to the inner sanctum, the dead hobgoblin and the dead Toli still lying undisturbed where they'd fallen, and worked the signal lantern at the window with the practiced hand of a man who'd learned the art properly. *On our way. Watch the waves.* Then Gouge's name, spelled out letter by letter across the strait toward a city he could not see but trusted was watching all the same.
 
@@ -3906,7 +3468,7 @@ The crossing ran a full hour before the island fell properly behind them, the ra
 
 "Finally," Jude said, something in his shoulders easing for the first time since the fighting had ended.
 
-Half an hour more brought the first corsair alongside, and willing hands hauled the six of them — and the barrels, and the grim, roped proof of a dead hobgoblin — up onto her deck. Merrick gave the account to her captain in broad strokes: the Sahaugin, the fighting, the island reclaimed in part and still contested in the rest. No word passed to the ordinary crew of what the yellow powder truly was, or why it mattered so much more than its weight in gold — that account, all of them agreed without needing to say so aloud, belonged to Lord Jamis alone.
+Half an hour more brought the first corsair alongside, and willing hands hauled the six of them — and the barrels, and the grim, roped proof of a dead hobgoblin — up onto her deck. Merrick gave the account to her captain in broad strokes: the sahaugin, the fighting, the island reclaimed in part and still contested in the rest. No word passed to the ordinary crew of what the yellow powder truly was, or why it mattered so much more than its weight in gold — that account, all of them agreed without needing to say so aloud, belonged to Lord Jamis alone.
 
 "Back to Monmurg," Gouge told the captain, when the question of course came. "Send the other two on to the island — the cove we cleared is secure, but the Helm itself still needs retaking, and our people at the barracks need reinforcing."
 
@@ -3916,7 +3478,7 @@ The captain gave the order, and two corsairs peeled away toward Helm Island, ful
 
 ## PART EIGHT: DEBRIEFING IN MONMURG
 
-# Chapter Forty-Five — What Gouge Told Jamis
+# Chapter Thirty-Five — What Gouge Told Jamis
 
 Evening found the corsair docked, and the party scattered to separate summonses before they'd so much as washed the salt from their skin. Paul and Jude were led up toward the Royal Palace and Lord Jamis's own offices; Gouge and Merrick were taken instead to the Harbor District, to the chambers where Jamis conducted the quieter half of his business. Jamis wished to speak with each of them apart, and Gouge went first.
 
@@ -3962,7 +3524,7 @@ Gouge set his glass down and gave the fuller account — the landing near the so
 
 "That's the whole of it," Gouge admitted. "No one else witnessed the conversation directly — only Paul, through that creature's eyes. Fairwind tried to play it off once we reached him — tied up, claiming he'd been forced into it. We believe he'd bound himself, to make it look that way, rather than being taken by force."
 
-He laid out the rest — the passage down through the smuggling caves, the barrels of granular substance, not spell nor enchanted fog but a manufactured compound, sprinkled into the water to keep the Sahaugin at bay. The Toli hauling it away by the shipload. Fairwind's admission of his own private stash, kept back at his own keep, even as the rest of the island's stores were stripped bare. The dead Toli prisoner, killed in the scramble and dumped into shark-crowded water; the confirmation, later, of an arm floating free. Fairwind's own fall from the ledge, thrown loose in the chaos, gone without a trace once the search was done.
+He laid out the rest — the passage down through the smuggling caves, the barrels of granular substance, not spell nor enchanted fog but a manufactured compound, sprinkled into the water to keep the sahaugin at bay. The Toli hauling it away by the shipload. Fairwind's admission of his own private stash, kept back at his own keep, even as the rest of the island's stores were stripped bare. The dead Toli prisoner, killed in the scramble and dumped into shark-crowded water; the confirmation, later, of an arm floating free. Fairwind's own fall from the ledge, thrown loose in the chaos, gone without a trace once the search was done.
 
 "So Fairwind directly attacked Paul Rivera?" Jamis asked, something sharpening in his voice at that.
 
@@ -3992,7 +3554,7 @@ Gouge finished his glass. "To summarize my own part — I protected Paul, and ob
 
 "He mentioned a personal stash there," Gouge confirmed, "and seemed content to let the Toli take the rest. Suggests he's looking chiefly to his own island's interests just now."
 
-Jamis rose and paced a slow turn behind his desk before he spoke again, his voice settling into the cadence of a man laying old history bare. "A hundred and fifty years ago, the sea principalities formed as a unified body because of an alliance between the Duke of Berghof and the pirates of the outer islands. The greatest scourge of the Azure Sea in those days was a vast hobgoblin kingdom, its stronghold just north of our own coast — raiding everything from here to the Dragon Isles, to Redshore, to Monmurg itself. The trade we enjoy today would have been unthinkable under their dominion; they were the true rulers of these seas then.
+Jamis rose and paced a slow turn behind his desk before he spoke again, his voice settling into the cadence of a man laying old history bare. "A hundred and fifty years ago, the sea principalities formed as a unified body because of an alliance between the Duke of Berghof and the pirates of the outer islands. The greatest scourge of the Azure Sea in those days was a vast hobgoblin kingdom, its stronghold just north of our own coast — raiding everything from here to the Dragon Isles, to Red Shore, to Monmurg itself. The trade we enjoy today would have been unthinkable under their dominion; they were the true rulers of these seas then.
 
 "There's a book Merrick's carrying, which I read on the crossing home, covering how that hobgoblin kingdom devastated the undersea ecosystems too, as part of how all this came about — Admiral Flotsam wrote it some fifty years past, as a warning, around the time the Duke of Berghof first stopped giving us the yellow substance."
 
@@ -4000,7 +3562,7 @@ Jamis rose and paced a slow turn behind his desk before he spoke again, his voic
 
 "Claimed it was no longer necessary. We held a vast reserve on Helm Island then, and the outer islands their own substantial stores besides. There was a fortress, once, in the middle of the bay to the north, that held the greatest concentration of the substance anywhere — the staging ground for our war against the hobgoblin kingdom. Ships sailed out regularly and dumped barrels of the stuff into hobgoblin waters. It didn't take long. Hundreds of thousands of hobgoblins died a hundred and fifty years ago, and that slaughter is what let our nation prosper afterward.
 
-"Keoland benefited indirectly from our labor. But later, once we'd become a unified nation, conflict arose between us, and they turned our own historical tactics into political ammunition against us — because the powder isn't lethal only to the Sahaugin and the hobgoblins. It strips clean everything in the affected waters: fish, wildlife, the very seabed. The elves and the other peoples of the Ulek states saw our methods as far too destructive, and we pulled back from large-scale use, maintaining only limited salting around Monmurg and a handful of strategic points, enough to keep the Sahaugin from returning.
+"Keoland benefited indirectly from our labor. But later, once we'd become a unified nation, conflict arose between us, and they turned our own historical tactics into political ammunition against us — because the powder isn't lethal only to the sahaugin and the hobgoblins. It strips clean everything in the affected waters: fish, wildlife, the very seabed. The elves and the other peoples of the Ulek states saw our methods as far too destructive, and we pulled back from large-scale use, maintaining only limited salting around Monmurg and a handful of strategic points, enough to keep the sahaugin from returning.
 
 "Within the last decade, though, so much of the substance has grown unavailable to us that we've had to scale back even that limited use — which has forced us to reconsider our coastal defenses entirely. This is precisely what we've been negotiating with the Duke of Berghof about, though he's shown no real interest in resuming the supply.
 
@@ -4032,7 +3594,7 @@ Jamis rose and paced a slow turn behind his desk before he spoke again, his voic
 
 "I tell you because the artifact must be recovered, if it can be — we need an opening to try. But Cain Toli, I believe, is our chief enemy in this. If he commands turtle dragons, that explains a great deal — when our corsairs engage Keoland's warships, storms often form at a distance, the classic sign of dragon activity nearby, and shortly after, a few of our ships simply vanish.
 
-"Ordinarily the dragons don't trouble us directly — for years we've paid an annual tribute to keep them from interfering with our fleets passing through their waters. Greedy creatures, but gold buys their cooperation easily enough, and they've no particular taste for men, whom they find rather unappetizing — hobgoblins and Sahaugin suit them far better, more like sardines to them, comparatively. But I believe Cain Toli is directing them against us specifically now, or at least that's what I've pieced together from conversations with Lord Phranck and others familiar with such matters.
+"Ordinarily the dragons don't trouble us directly — for years we've paid an annual tribute to keep them from interfering with our fleets passing through their waters. Greedy creatures, but gold buys their cooperation easily enough, and they've no particular taste for men, whom they find rather unappetizing — hobgoblins and sahaugin suit them far better, more like sardines to them, comparatively. But I believe Cain Toli is directing them against us specifically now, or at least that's what I've pieced together from conversations with Lord Phranck and others familiar with such matters.
 
 "I think Fairwind something of a witless fool in all this — he doesn't grasp the true depth of the game being played, or how dangerous it truly is. But his meddling cannot simply be ignored."
 
@@ -4042,13 +3604,13 @@ Jamis rose and paced a slow turn behind his desk before he spoke again, his voic
 
 Gouge set his empty glass aside and rose. "Yes."
 
-# Chapter Forty-Six — What Merrick Told Jamis
+# Chapter Thirty-Six — What Merrick Told Jamis
 
 Merrick came in after him, an empty glass already waiting on the table before the chair he was given — Jamis picked it up himself, set it aside, before Merrick had even settled.
 
 "Ah, Merrick," Jamis said. "Excuse the mess. So — what happened over there?"
 
-"A great deal to report," Merrick said, and found himself momentarily at a loss for where to begin. "Overwhelming, honestly. The Sahaugin have returned in force — we watched them overrun an entire ship from the tower. Once we made port on the south side, we found sharks in the water, and tracks I didn't recognize on the shore, which left me uneasy from the start. When we moved to take the south tower, hobgoblins ambushed us — we lost men left and right, but held it in the end, with Gouge, Folsom, and Tyrus's help.
+"A great deal to report," Merrick said, and found himself momentarily at a loss for where to begin. "Overwhelming, honestly. The sahaugin have returned in force — we watched them overrun an entire ship from the tower. Once we made port on the south side, we found sharks in the water, and tracks I didn't recognize on the shore, which left me uneasy from the start. When we moved to take the south tower, hobgoblins ambushed us — we lost men left and right, but held it in the end, with Gouge, Folsom, and Tyrus's help.
 
 "After that we pushed for the Helm itself, made it there safely, found Jude and Paul Rivera along the way. From that point I made it my charge not to let Paul out of my sight, as you'd asked, and to keep Gouge in line and following orders." He recounted the rest in careful order — the sneak through the hobgoblins in the keep, the search for survivors in the barracks, the fight, and at last Fairwind himself, found tied up, accused by Paul of dealing with the Toli.
 
@@ -4068,7 +3630,7 @@ Merrick came in after him, an empty glass already waiting on the table before th
 
 "But it was Jude who killed him."
 
-"I don't know that throwing him in was what killed him, exactly, or if the shark below did the rest of the work. No idea whether the second prisoner got away either." Merrick pressed on to the barrels — the powder that killed the Sahaugin outright the moment it touched the water, the four he'd brought back himself, one already opened for use along the crossing, and the twenty-one still waiting on the coast. "We found around twenty-five in total. I could only load four — had to build a raft from what materials the coastline offered, to get us back as quickly as possible. We were badly outnumbered, completely overwhelmed. I judged it best, per your orders, to see Paul to safety and return as fast as we could — staying longer would have left us sitting for whatever came next, more Sahaugin, more hobgoblins, or another Toli ship."
+"I don't know that throwing him in was what killed him, exactly, or if the shark below did the rest of the work. No idea whether the second prisoner got away either." Merrick pressed on to the barrels — the powder that killed the sahaugin outright the moment it touched the water, the four he'd brought back himself, one already opened for use along the crossing, and the twenty-one still waiting on the coast. "We found around twenty-five in total. I could only load four — had to build a raft from what materials the coastline offered, to get us back as quickly as possible. We were badly outnumbered, completely overwhelmed. I judged it best, per your orders, to see Paul to safety and return as fast as we could — staying longer would have left us sitting for whatever came next, more sahaugin, more hobgoblins, or another Toli ship."
 
 "Commendable work," Jamis said, something like genuine warmth in it. "Everything I'd expect of you, and more. I don't think Fairwind's involvement should be spoken of just yet — I need to speak with Paul myself before making any accusation, and the matter with Prince Jeon will be delicate. He never believed Fairwind capable of this. Perhaps Paul can convince him otherwise. But if I were you, I'd avoid mentioning Fairwind's part in this for now, especially not to his men."
 
@@ -4092,7 +3654,7 @@ Jamis considered him a moment. "You actually know Fairwind, don't you — met hi
 
 "He was an admiral. Of course he did."
 
-Merrick turned that over a moment. "I know it may not be my place, but if this is the only thing that's kept the Sahaugin at bay this long, wouldn't Monmurg keep a reserve here as well, in case things truly went wrong? The number of Sahaugin we saw was extremely overwhelming — once we sprinkled it in, dozens surfaced at once."
+Merrick turned that over a moment. "I know it may not be my place, but if this is the only thing that's kept the sahaugin at bay this long, wouldn't Monmurg keep a reserve here as well, in case things truly went wrong? The number of sahaugin we saw was extremely overwhelming — once we sprinkled it in, dozens surfaced at once."
 
 "We did keep storage here, in fact a good deal," Jamis said, "but it isn't being replenished. We receive no new shipments, and we've run through most of what we had. In truth, we were actively shipping barrels from Helm Island to here when this all occurred."
 
@@ -4184,21 +3746,21 @@ Merrick turned that over a moment. "I know it may not be my place, but if this i
 
 "Understanding the relationships, and what they mean, while they don't know mine — that gives me an advantage," Merrick said.
 
-"Absolutely." Jamis turned the conversation at last toward what lay ahead. "You won't be part of the group going back to retake the Helm. Your cousin Owen is back from Redshore — smuggled some goods into the city, turned a profit on it, cider and other goods for the barracks among them. Go find him, down in the Harbor District, and ask what he's seen. I believe Redshore is where the traders from your part of the sea are being funneled by the Duke of Gradsul."
+"Absolutely." Jamis turned the conversation at last toward what lay ahead. "You won't be part of the group going back to retake the Helm. Your cousin Owen is back from Red Shore — smuggled some goods into the city, turned a profit on it, cider and other goods for the barracks among them. Go find him, down in the Harbor District, and ask what he's seen. I believe Red Shore is where the traders from your part of the sea are being funneled by the Duke of Gradsul."
 
-"Understood." Merrick hesitated once more. "I do have one favor to ask — any chance I might get a small amount of the powder for my own use, if I'm out and about and run into Sahaugin? Just enough to pull myself out of a bad spot."
+"Understood." Merrick hesitated once more. "I do have one favor to ask — any chance I might get a small amount of the powder for my own use, if I'm out and about and run into sahaugin? Just enough to pull myself out of a bad spot."
 
 "I'll consider it," Jamis said. "We can't spare much, but I'll see what I can do."
 
 Merrick thanked him and rose to go, turning over in his own mind, as he crossed toward the door, the shape of his cousin Owen Black — a decent man, once Navy, drawn always to profit, smuggling goods into Keoland before the blockade and now smuggling food the other way, out of Rechor and into a starving Monmurg. Whether his loyalty ran deeper than his purse, Merrick couldn't yet say for certain — but Jamis, at least, seemed unconcerned. Screw Gradsul, the man had said, plainly enough, and Merrick found he couldn't disagree.
 
-# Chapter Forty-Seven — Cider at the Barracks
+# Chapter Thirty-Seven — Cider at the Barracks
 
 While Gouge and Merrick sat with Jamis, Tyrus and Folsom found themselves left to their own devices, and made straight for the bar.
 
 The Marine barracks in the Harbor District were livelier than either of them had seen in weeks by the time they reached it — men gathered outside with cups in hand, more cheerful than the season had any right to allow.
 
-"These are all my men," Tyrus said, studying the crowd with something warm settling into his face. "Half my own unit's still out on the island, but these are still my people — men I know."
+"These are all my guys," Tyrus said, studying the crowd with something warm settling into his face. "Half my own unit's still out on the island, but these are still my people — men I know."
 
 "A lot of them died, though," Folsom said, quieter.
 
@@ -4206,7 +3768,7 @@ The Marine barracks in the Harbor District were livelier than either of them had
 
 "Agreed."
 
-Tyrus clapped a hand on the shoulder of the nearest man, who turned with a mug already raised. "Folsom!" the Marine called out, delighted. "What's the occasion — Tyrus! Owen Black came back today, from Redshore — smuggled food back for the city. Brought a couple of barrels of cider too, good stuff, not watered down like everything's been these past weeks. You can actually get properly drunk on this."
+Tyrus clapped a hand on the shoulder of the nearest man, who turned with a mug already raised. "Folsom!" the Marine called out, delighted. "What's the occasion — Tyrus! Owen Black came back today, from Red Shore — smuggled food back for the city. Brought a couple of barrels of cider too, good stuff, not watered down like everything's been these past weeks. You can actually get properly drunk on this."
 
 "I love it," Tyrus said.
 
@@ -4220,7 +3782,7 @@ They found him at the counter, holding court in the middle of some tall tale, a 
 
 "Owen!" Tyrus called.
 
-Owen turned, drink in hand, eyes sweeping the two of them. "Well, look at you — how are you, lad, looking good. Who's this giant beside you?" He punched Tyrus lightly on the arm. "I understand you're responsible for all this."
+Owen turned, drink in hand, eyes sweeping the two of them. "Oh, awesome! How are you, lad — looking good. Who's this giant beside you?" He punched Tyrus lightly on the arm. "I understand you're responsible for all this."
 
 "I am responsible for it," Tyrus said, grinning.
 
@@ -4232,7 +3794,7 @@ Owen turned, drink in hand, eyes sweeping the two of them. "Well, look at you �
 
 "Where have you been?" Tyrus asked.
 
-"A little here, a little there — not a good idea to ask me that directly." He softened it with a grin. "Not a big secret, though — Redshore's where all the ships are headed now."
+"A little here, a little there — not a good idea to ask me that directly." He softened it with a grin. "Not a big secret, though — Red Shore's where all the ships are headed now."
 
 "The one blockaded by the Duke of Gradsul?"
 
@@ -4258,7 +3820,7 @@ Neither had. Owen leaned in, warming to the telling. "It's a whaling town — do
 
 "Who knows — brooding, off somewhere, probably hiding in a corner."
 
-"Honestly, I was looking for him myself — he knows these waters as well as anyone, maybe better than I do. Only other man besides me who can slip the Redshore patrols and make the trades there."
+"Honestly, I was looking for him myself — he knows these waters as well as anyone, maybe better than I do. Only other man besides me who can slip the Red Shore patrols and make the trades there."
 
 "You'll be in town a few days?"
 
@@ -4284,17 +3846,17 @@ Neither had. Owen leaned in, warming to the telling. "It's a whaling town — do
 
 "Hard to say with rumors. But I actually know the Scarlet Rat. Met him myself." Owen's grin turned wry. "He's a fraud, is what he is. Between the three of us — about two months back, I was in Saltmarsh, smuggling weapons in and out. Had dealings with a certain Cain Toli on a job he was running, scouting to make sure no patrols were about. There was a sailor under him then, a gangly Toli lad, barely more than a cabin boy. Lo and behold, a couple weeks later, I run into that same rat right here in Monmurg, not three doors down from where we're sitting — and he attacks me. Recognized my face.
 
-"Turns out he's tied to a wizard called Lord Phranck, connected to a noble of Keoland — some local appointee in Saltmarsh, a military commander they call the 'power' of Baywin. I'd had dealings with Baywin myself before." He raised his splinted arm. "See this? He's the one who broke it. Captured me, questioned me in the Appleyard shell-keep."
+"Turns out he's tied to a wizard called Lord Phranck, connected to a noble of Keoland — some local appointee in Saltmarsh, a military commander they call the 'power' of Baywen. I'd had dealings with Baywen myself before." He raised his splinted arm. "See this? He's the one who broke it. Captured me, questioned me in the Appleyard shell-keep."
 
 "You're not pulling my leg?"
 
-"That's the strange part of it — there were bugbears down there too, captives, and a couple other prisoners, some of Toli's crew or connected to him. We broke out together, got the better of one of Baywin's guard dogs — some crazed dwarf out of the mountains — and got clear. Found a skiff and made for open water."
+"That's the strange part of it — there were bugbears down there too, captives, and a couple other prisoners, some of Toli's crew or connected to him. We broke out together, got the better of one of Baywen's guard dogs — some crazed dwarf out of the mountains — and got clear. Found a skiff and made for open water."
 
 "Lucky turn."
 
-"It was. Ran the coast down to Saltmarsh, then on to Seton — picked up a couple old friends who helped me back to Monmurg, and I found a new ship. Had to make coin fast to pay it off, and Redshore's the place for that right now, since that's where the trade's all sitting, going nowhere. Nobody buying, nobody able to unload — if you've a ship and the will to go get what you need, you can find nearly anything there."
+"It was. Ran the coast down to Saltmarsh, then on to Seton — picked up a couple old friends who helped me back to Monmurg, and I found a new ship. Had to make coin fast to pay it off, and Red Shore's the place for that right now, since that's where the trade's all sitting, going nowhere. Nobody buying, nobody able to unload — if you've a ship and the will to go get what you need, you can find nearly anything there."
 
-Tyrus studied the map in his own mind's eye a moment. "So Saltmarsh sits up here, Redshore there?"
+Tyrus studied the map in his own mind's eye a moment. "So Saltmarsh sits up here, Red Shore there?"
 
 "Right about there — that's why everyone's funneling through, thanks to the blockade."
 
@@ -4322,11 +3884,11 @@ Owen let that sit a moment before pressing on with his own questions — how man
 
 "None."
 
-They talked the politics of it a while longer — whether the Admiralty already knew, whether one good naval victory would break the whole blockade, whether it was princely self-interest rather than incompetence keeping the fleet in dock. "Winning one battle would do wonders," Owen said. "Why our corsairs haven't gone out and torn the Keoland navy apart, I have no idea. There aren't even that many warships at Redshore — three, maybe, plus two at Seton and one in Saltmarsh. I've seen them myself."
+They talked the politics of it a while longer — whether the Admiralty already knew, whether one good naval victory would break the whole blockade, whether it was princely self-interest rather than incompetence keeping the fleet in dock. "Winning one battle would do wonders," Owen said. "Why our corsairs haven't gone out and torn the Keoland navy apart, I have no idea. There aren't even that many warships at Red Shore — three, maybe, plus two at Seton and one in Saltmarsh. I've seen them myself."
 
 "We could take the whole armada with a coordinated strike."
 
-"Easily. Burn Redshore to the ground with the right force — wouldn't take more than a fraction of our fleet, and that city would be decimated. Plenty of captains stationed there don't even want to be. Why it hasn't happened, I couldn't say."
+"Easily. Burn Red Shore to the ground with the right force — wouldn't take more than a fraction of our fleet, and that city would be decimated. Plenty of captains stationed there don't even want to be. Why it hasn't happened, I couldn't say."
 
 "Some princely politics behind it, likely."
 
@@ -4412,7 +3974,7 @@ Tyrus lingered a moment longer, awkward in the sudden quiet. "I'll come down in 
 
 Owen raised his glass in thanks, and Tyrus followed the others out.
 
-# Chapter Forty-Eight — The Gift in the Alley
+# Chapter Thirty-Eight — The Gift in the Alley
 
 Gouge walked Folsom into the nearest alley and sat him down against the wall, the noise of the barracks fading behind them.
 
@@ -4450,7 +4012,7 @@ Gouge drew the two of them aside without further preamble and produced, from som
 
 "But it comes with a price, if you take it. If we're together, in a fight, and things are happening, and you're about to play your tunes or do whatever you mean to do to help somebody — I want you to look at me first, before you decide. I'm fair, and you can trust that, whether you believe me on it or not. But when you're going to throw something out to help another man, look my way. If I give you a nod like this" — he tipped his chin — "that means I don't need it, and it's all on you where it goes. But if I look at you like this" — his eyes went hard, deliberate — "then whatever you're doing, you'd better be helping me. Understood?"
 
-"Agreed, and gladly," Folsom said.
+"More than okay with that," Folsom said.
 
 "I owe you one, then. Or a few."
 
@@ -4458,7 +4020,7 @@ Gouge drew the two of them aside without further preamble and produced, from som
 
 "Forges it is, then," Gouge said, and something like a grin broke across his face at last. "All right. Good kid."
 
-# Chapter Forty-Nine — What Merrick Found at the Bar
+# Chapter Thirty-Nine — What Merrick Found at the Bar
 
 Merrick had come into the barracks just in time to catch the tail end of the disaster, and stood a long moment in genuine shock at what he'd walked into.
 
@@ -4490,23 +4052,23 @@ Tyrus lingered with Owen a while longer, nursing his own cup. "That was quite a 
 
 "Good to see you in one piece too. How's it been?"
 
-"Good — busy. Just got back from Redshore." Owen leaned in, warming again to the subject. "You wouldn't believe it — fifty merchant ships there, and they can't unload a one of them, no docks fit for the purpose."
+"Good — busy. Just got back from Red Shore." Owen leaned in, warming again to the subject. "You wouldn't believe it — fifty merchant ships there, and they can't unload a one of them, no docks fit for the purpose."
 
 "Sounds like it — good for your profits, though."
 
-"To my profit, absolutely." Owen studied him a moment, something shifting in his tone. "Talk to me about the Sahaugin in the bay — did some of them attack you out there?"
+"To my profit, absolutely." Owen studied him a moment, something shifting in his tone. "Talk to me about the sahaugin in the bay — did some of them attack you out there?"
 
 "Have you seen them all the way out there yourself?" Tyrus asked.
 
-"Five miles from the city, one mile out from Redshore — they hit us there. Some of my men had run into them before too, which is strange; we hadn't seen them in years. They're coming back."
+"Five miles from the city, one mile out from Red Shore — they hit us there. Some of my men had run into them before too, which is strange; we hadn't seen them in years. They're coming back."
 
-"Something's going on, that's certain," Tyrus said. "I've seen them on the coast more lately too, up near Redshore. Any of your men hurt?"
+"Something's going on, that's certain," Tyrus said. "I've seen them on the coast more lately too, up near Red Shore. Any of your men hurt?"
 
 "One or two died. Bad encounter." Owen shrugged it off, though something in his eyes stayed troubled a moment longer than the gesture suggested. "You know I'm almost as good a pilot as you are — managed to avoid the patrols on the way in."
 
 "Your navigation's probably the best there is."
 
-"Patrols have been increasing lately, from what I can tell. I think the only other person who can make it through them to Redshore besides me is you — we both know it."
+"Patrols have been increasing lately, from what I can tell. I think the only other person who can make it through them to Red Shore besides me is you — we both know it."
 
 "What would you say to going into business," Tyrus asked, "a private fleet, something outside the Marines? The city needs you."
 
@@ -4518,11 +4080,11 @@ Tyrus lingered with Owen a while longer, nursing his own cup. "That was quite a 
 
 "You'd hire Gouge?"
 
-"He'd be very useful out there — I'd been thinking of it myself. Know him by reputation, certainly. In fact, about a week ago I picked up a compatriot of his — an elf — at Redshore, and dropped him at a small fishing town on the north coast. Tell him to get in touch with me. If we hire on a few of these mercenaries, we could do well for ourselves. Dangerous work, but—"
+"He'd be very useful out there — I'd been thinking of it myself. Know him by reputation, certainly. In fact, about a week ago I picked up a compatriot of his — an elf — at Red Shore, and dropped him at a small fishing town on the north coast. Tell him to get in touch with me. If we hire on a few of these mercenaries, we could do well for ourselves. Dangerous work, but—"
 
 "What are you smuggling nowadays?"
 
-"Food's the most important thing right now, as you'd expect — and then there's the Sahaugin to worry over too, if they catch the scent of what you're carrying. It's dangerous."
+"Food's the most important thing right now, as you'd expect — and then there's the sahaugin to worry over too, if they catch the scent of what you're carrying. It's dangerous."
 
 "Very dangerous."
 
@@ -4534,7 +4096,7 @@ Tyrus lingered with Owen a while longer, nursing his own cup. "That was quite a 
 
 "That sounds good," Tyrus said. "Thank you."
 
-# Chapter Fifty — The Confession at Ferd's
+# Chapter Forty — The Confession at Ferd's
 
 Merrick and Tyrus found Gouge and Folsom sitting together a while later, Folsom looking a shade sheepish, as they returned to compare notes.
 
@@ -4590,9 +4152,9 @@ Merrick, arriving in time to catch the tail of it, spoke up. "I did mention to O
 
 "What in the world, Owen?"
 
-"He's all right," Merrick said. "Owen wants to give us a chance. My cousin, Owen."
+"He's cool," Merrick said. "Owen wants to give us a chance. My cousin, Owen."
 
-"Fair enough."
+"Okay."
 
 "Did he ask you about the job?"
 
@@ -4608,7 +4170,7 @@ Merrick, arriving in time to catch the tail of it, spoke up. "I did mention to O
 
 "What's his position in all this?"
 
-"He's been smuggling for Monmurg's benefit these last few years — real motivation's coin, sure, but done in a way that helps our people. Food, mostly, right now, Redshore to Monmurg."
+"He's been smuggling for Monmurg's benefit these last few years — real motivation's coin, sure, but done in a way that helps our people. Food, mostly, right now, Red Shore to Monmurg."
 
 Gouge traced the route in his own head. "And that's where we already were."
 
@@ -4654,7 +4216,7 @@ Gouge's eyes sharpened. "By the wizard? The Scarlet Rat?"
 
 "I'm not doing this alone, that's for certain."
 
-"Understandable. Might be worth talking to Jamis about it directly — he could let you take a crew, run this as reconnaissance. Getting eyes on Redshore's valuable on its own; he's used people this way before, agents posing as smugglers, that sort of arrangement."
+"Understandable. Might be worth talking to Jamis about it directly — he could let you take a crew, run this as reconnaissance. Getting eyes on Red Shore's valuable on its own; he's used people this way before, agents posing as smugglers, that sort of arrangement."
 
 "You could probably work it so Tyrus takes leave," Merrick offered, "brings Folsom along for a few days — might not be such a bad idea."
 
@@ -4766,7 +4328,7 @@ Gouge's eyes sharpened. "By the wizard? The Scarlet Rat?"
 
 "I don't think Paul's in on anything."
 
-"Jamis could be playable too, in all this," Gouge said. "He sent me to talk to Owen discreetly, to learn more of Redshore."
+"Jamis could be playable too, in all this," Gouge said. "He sent me to talk to Owen discreetly, to learn more of Red Shore."
 
 "Sounds like Owen's heading back there anyway."
 
@@ -4848,7 +4410,7 @@ Some months later, when the tale of that night had made its rounds through the t
 
 There was a storm brewing, and it was not the Duke of Gradsul's doing alone — the jealousy and infighting of the sea princes fed the confusion, and the country's troubles came not only from its enemies, but from those it called friends. In time, the Marines who'd once wanted him thrown out of the barracks began to wish they could sit and talk with him, to learn what else he knew. And so began Folsom's career — and his infamy — as a bard whose name would carry rather further than that single rough night suggested it might.
 
-# Chapter Fifty-One — The Prince's Charge
+# Chapter Forty-One — The Prince's Charge
 
 Paul, meanwhile, had been led up a private stairway past several guards, into the palace that was as much his own home as it was Jeon's seat of power, and brought to his uncle's office. Jeon stood there already, bent over a map of the outer islands, Songmor Bay marked to the north, Jerly Bay to the south, and something drawn and troubled in the set of his shoulders that Paul had rarely seen in him before.
 
@@ -4860,7 +4422,7 @@ Paul sat. "I heard there was some trouble on Helm Island."
 
 "Three hundred Marines on that ship," Paul said, the weight of it settling into his voice as he said it aloud for the first time. "All gone. Maybe a hundred made it off."
 
-"And it was the Sahaugin?"
+"And it was the sahaugin?"
 
 "Yes — and hobgoblins had taken the island besides."
 
@@ -4870,7 +4432,7 @@ Paul drew a breath. "Fairwind is a traitor."
 
 Jeon's eyes came up sharply from the map. "How do you know this?"
 
-He was alone with his uncle, Paul realized as he glanced about the room — no Jamis present, no witness beyond the two of them, which told him plainly enough that Jeon wanted his account first, unshaded by anyone else's version of events. Paul laid it out in full: the landing at the southern beacon, the ship overrun by Sahaugin behind them even as they fought ashore, the barracks and the Marines still holding there who knew nothing of what had become of their lord. The plan to scale the wall while a diversion drew every eye elsewhere. The inner sanctum, and what he'd seen and heard there through his creature's borrowed senses.
+He was alone with his uncle, Paul realized as he glanced about the room — no Jamis present, no witness beyond the two of them, which told him plainly enough that Jeon wanted his account first, unshaded by anyone else's version of events. Paul laid it out in full: the landing at the southern beacon, the ship overrun by sahaugin behind them even as they fought ashore, the barracks and the Marines still holding there who knew nothing of what had become of their lord. The plan to scale the wall while a diversion drew every eye elsewhere. The inner sanctum, and what he'd seen and heard there through his creature's borrowed senses.
 
 "You said Fairwind was a traitor," Jeon said again, when Paul had laid the ground of it.
 
@@ -4894,11 +4456,11 @@ Jeon's face went very still. "The Toli — there were Toli on the Helm, at that 
 
 "Go on, then. You witnessed Lord Fairwind speaking with them, walking the same room, making deals. What were they discussing?"
 
-"Removing the powder from the Helm," Paul said. "The substance that keeps the Sahaugin away. The Toli said something like — 'We noticed you took most of it for yourself.' I think Fairwind was splitting off a share for himself, that was his angle. He'd already removed most of it from the island."
+"Removing the powder from the Helm," Paul said. "The substance that keeps the sahaugin away. The Toli said something like — 'We noticed you took most of it for yourself.' I think Fairwind was splitting off a share for himself, that was his angle. He'd already removed most of it from the island."
 
-"And that's how the Sahaugin were able to swarm it."
+"And that's how the sahaugin were able to swarm it."
 
-"Right. They said he had four barrels of the stuff. Once we'd taken him, I placed him under arrest — he made a great fuss, claimed innocence throughout. We took one Toli alive as well." Paul recounted the rest — the secret passage down through the cave system, the fight on the ledge, the dead Toli thrown into the water, Fairwind's own fall — pushed, or falling, in the same chaos that had nearly taken Paul with him. "Don't know what happened to him. Could be dead. Could be alive. We fought our way down, killed the hobgoblins there, built a raft, sailed clear. Took four barrels with us, enough to keep the Sahaugin off for now."
+"Right. They said he had four barrels of the stuff. Once we'd taken him, I placed him under arrest — he made a great fuss, claimed innocence throughout. We took one Toli alive as well." Paul recounted the rest — the secret passage down through the cave system, the fight on the ledge, the dead Toli thrown into the water, Fairwind's own fall — pushed, or falling, in the same chaos that had nearly taken Paul with him. "Don't know what happened to him. Could be dead. Could be alive. We fought our way down, killed the hobgoblins there, built a raft, sailed clear. Took four barrels with us, enough to keep the sahaugin off for now."
 
 "How many barrels were there, originally?"
 
@@ -4988,9 +4550,9 @@ Paul turned the question over, feeling the weight of what it would mean. "This w
 
 "So we're just going to let Fairwind get away with it?"
 
-"I did not say that," Jeon said. "The first thing I'd like you and Jude to do is find where he's stored his stockpile, and then we strike. He can play his games; we'll play ours. But there's a clock running on us regardless — it's only a matter of time before our own supply runs dry, and Monmurg's more exposed to the Sahaugin than any other principality's holding."
+"I did not say that," Jeon said. "The first thing I'd like you and Jude to do is find where he's stored his stockpile, and then we strike. He can play his games; we'll play ours. But there's a clock running on us regardless — it's only a matter of time before our own supply runs dry, and Monmurg's more exposed to the sahaugin than any other principality's holding."
 
-"That makes sense," Paul said. "If the Sahaugin could destroy this city, it'd only be a matter of time before everything collapses." He paused, turning something over. "How long does one barrel last, once it's in the water?"
+"That makes sense," Paul said. "If the sahaugin could destroy this city, it'd only be a matter of time before everything collapses." He paused, turning something over. "How long does one barrel last, once it's in the water?"
 
 "Not even a week, from what I understand," Jeon said. "The salting ships go out every couple of days with a fresh barrel, though a small one covers a wide range, miles across — the entire Monmurgian Strait, from a single barrel at a time, dumped up near the channel and let the current carry it back this way. We've done it this way for a hundred and fifty years."
 
@@ -5042,7 +4604,7 @@ Paul turned the question over, feeling the weight of what it would mean. "This w
 
 Paul rose, was led back out the way he'd come, and found himself, once alone in his own rooms at last, glad simply to be there — peeling off clothes still damp from the shark-infested chasm, singed at the edges from the tower that had gone up in flame behind him, and glad, above all else, to be alive to feel the weight of everything his uncle had just asked of him.
 
-# Chapter Fifty-Two — What Jamis Already Knew
+# Chapter Forty-Two — What Jamis Already Knew
 
 Jude, meanwhile, had been led by a different route — not up toward the palace, but down a back stairway he'd never walked before, into one of Jamis's private offices in the Harbor District. He noted the path carefully as he went, aware it was likely the man's own private route between residence and office, and aware too, from the care taken to keep him unseen, that Jamis did not wish this visit known.
 
@@ -5092,7 +4654,7 @@ Jude gave his account in careful order — the homunculus returning agitated, th
 
 "That's fine," Jamis said. "You wouldn't know that part — that was specific to Paul's account."
 
-"But I did hear him admit to siphoning the barrels, and he wasn't surprised the Toli were there. Feigning composure, or genuinely unbothered — either way, they were there. It sounds like Fairwind's out for his own benefit — believes that siding with the Toli against Jeon gains him leverage, more power, more control. A political play, purely."
+"But I did hear him admit to siphoning the barrels, and he wasn't surprised the Toli were there. Playing it cool, or genuinely unbothered — either way, they were there. It sounds like Fairwind's out for his own benefit — believes that siding with the Toli against Jeon gains him leverage, more power, more control. A political play, purely."
 
 "I think it was too," Jamis said, "and that's part of why I was trying to bring him back to you — figuring you might still negotiate with him, or send him to his own people, whatever made sense."
 
@@ -5114,7 +4676,7 @@ Jude gave his account in careful order — the homunculus returning agitated, th
 
 "So they know not only of the barrels," Jamis said slowly, "but of the inner sanctum's layout too."
 
-"Fairwind said he didn't want to see his men killed — made sure they were disarmed and locked away elsewhere before we arrived. I meant to stay behind with Paul, but Gouge and Merrick judged it wiser to pull back and call for help. That's why they signaled the corsairs Jeon had already sent." Jude turned the rest of it over. "I'm not certain whether the hobgoblins came in under cover of the fog alongside the Sahaugin — there were Sahaugin there too, which I assume is exactly what the barrels were meant to prevent. We lost the whole complement of two hundred Marines who'd come ashore with us — I saved twenty who were with me directly, retreated into the garrison beside Fairwind's own men.
+"Fairwind said he didn't want to see his men killed — made sure they were disarmed and locked away elsewhere before we arrived. I meant to stay behind with Paul, but Gouge and Merrick judged it wiser to pull back and call for help. That's why they signaled the corsairs Jeon had already sent." Jude turned the rest of it over. "I'm not certain whether the hobgoblins came in under cover of the fog alongside the sahaugin — there were sahaugin there too, which I assume is exactly what the barrels were meant to prevent. We lost the whole complement of two hundred Marines who'd come ashore with us — I saved twenty who were with me directly, retreated into the garrison beside Fairwind's own men.
 
 "To my knowledge, his outer garrison wasn't aware of his duplicity — I never spoke with anyone from the inner sanctum, but it didn't sound as though there'd been a massacre of his own troops. My feeling is he was trying to maintain a ruse — his theft of the barrels going unnoticed, the blame falling on the Toli instead."
 
@@ -5148,11 +4710,11 @@ Jamis considered it a long moment, then something crossed his face that suggeste
 
 "Exactly — and he believes the Toli ultimately want the sea principalities united as one nation, that their negotiations with Jeon are purely over the slave trade — the Duke of Berghof, the power of Westkeep, the interior principalities all bound up in it. Fairwind thinks Jeon's objection to that trade is the whole of the Toli's interest. It isn't — and unfortunately, I don't believe Jeon himself fully grasps what they're truly doing either. I have information that the Scarlet Brotherhood isn't only infiltrating the sea principalities — they're infiltrating Keoland too, and the current conflict between the two nations is being stoked, to their own benefit."
 
-"Remember when I spoke with that baron from Redshore?" Jude said. "He seemed surprised when I told him Jeon opposed slavery — as though he'd been led to believe otherwise."
+"Remember when I spoke with that baron from Red Shore?" Jude said. "He seemed surprised when I told him Jeon opposed slavery — as though he'd been led to believe otherwise."
 
 "That belief comes straight from the Duke of Gradsul," Jamis said. "He's always claimed the sea principalities morally corrupt for the slave trade — which existed in Berghof long before we ever came into being, back to the fall of the Suel Empire itself. We had nothing to do with its origin, though yes, slaves are traded in our own marketplaces, and Jeon would end the practice if he could. It's something that predates our nation entirely."
 
-# Chapter Fifty-Three — The Tower and the Storm to Come
+# Chapter Forty-Three — The Tower and the Storm to Come
 
 "What might also help me, going forward," Jude said, turning the wine glass slowly in his hand, "is knowing whether you can give me a kill-on-sight list. Would have been helpful to know one existed before I acted on my own account, bringing Fairwind in as I did."
 
@@ -5160,7 +4722,7 @@ Jamis considered it a long moment, then something crossed his face that suggeste
 
 "I agree with that." Jude turned to the city's more immediate troubles. "How does Monmurg stand, with the embargo on food? Are we suffering mass desertions? Holding together at all?"
 
-"Our stores are going down greatly," Jamis admitted. "We get some food from smugglers running to Redshore — you've seen this yourself, and brought me word of it. My own spies have confirmed what you reported. It's interesting, someone from Redshore approaching you directly — I may have more to say on that in the future. There may be an opening there; I may send you as an envoy to speak with him again.
+"Our stores are going down greatly," Jamis admitted. "We get some food from smugglers running to Red Shore — you've seen this yourself, and brought me word of it. My own spies have confirmed what you reported. It's interesting, someone from Red Shore approaching you directly — I may have more to say on that in the future. There may be an opening there; I may send you as an envoy to speak with him again.
 
 "But I believe Fairwind and Jeon aren't the only ones being played by the Toli. I have a feeling the sea principalities, and Keoland itself, are being played by other, more dangerous forces still. Do you know what's happening in Keoland right now? A civil war may be imminent there."
 
@@ -5176,7 +4738,7 @@ Jamis considered it a long moment, then something crossed his face that suggeste
 
 "When I say 'the sea princes,' I mean Jeon specifically, right now — we're on the verge of civil war with the Toli ourselves, depending on where everyone falls. It's already begun, if I'm honest with you. When you speak with Jeon, let him know — Fairwind made a comment, taking the island back from the hobgoblins being a necessity for Monmurg, and Jeon answered that he thought Monmurg would fall without the Helm. So he understands the gravity of it, at least, exactly — and I think, again, he's playing a very dangerous game, for reasons beyond me. He's always been jealous of Monmurg's prosperity, and outspoken that the negotiations over slavery with the Toli and Berghof are unnecessary, idealistic, an attempt to end something older than our own country. Minor things, in the end. Why he's gone to such lengths now is beyond me. Very dangerous — and something I'd like you to try to ascertain, if you can.
 
-"There's a second matter too. The salting ships did their work before the Helm was overrun — why didn't it take effect? Was some magic cast to keep the substance from working as it should? Could someone have been replacing the barrels as they were taken, with something ineffective? I need to know. If someone swapped the barrels for a substitute, that's even more treasonous — more evidence of what's been done. Or is the substance simply growing less effective on its own, the Sahaugin adapting, some counter-agent overcoming it? I want to know, and I think you're the one to find out."
+"There's a second matter too. The salting ships did their work before the Helm was overrun — why didn't it take effect? Was some magic cast to keep the substance from working as it should? Could someone have been replacing the barrels as they were taken, with something ineffective? I need to know. If someone swapped the barrels for a substitute, that's even more treasonous — more evidence of what's been done. Or is the substance simply growing less effective on its own, the sahaugin adapting, some counter-agent overcoming it? I want to know, and I think you're the one to find out."
 
 "Is the tower equipped with anything," Jude asked, "or is it simply housing?"
 
@@ -5218,17 +4780,17 @@ Jamis studied him a long moment before continuing. "So — yes, you're fully cle
 
 "Phranck's part of that organization — my own agents confirm it — and he was here trying to learn what the Toli had actually taken. The agents who attacked him, unbeknownst to them, were up against Gouge and Karmirg, my own men acting as his guards. They were defeated before they could finish him, and Phranck tore something free of their minds in the aftermath: the Toli have taken possession of a very powerful, ancient artifact — one I believe grants control over turtle dragons. Our ships vanishing at sea trace back to this, and it's the reason we haven't been able to fight the Keoland fleet effectively."
 
-"Can we still maneuver to Redshore, or to Jerly Bay, without being molested by them? Is it only open-sea shipping that's at risk?"
+"Can we still maneuver to Red Shore, or to Jerly Bay, without being molested by them? Is it only open-sea shipping that's at risk?"
 
-"The Dragon Isles sit close to both Redshore and Monmurg, so anything north of here carries the risk of Cain Toli and his dragons. Jerly Bay's untouched, but only because the Toli control it themselves — their own thoroughfare to the jungle, unaffected in the least."
+"The Dragon Isles sit close to both Red Shore and Monmurg, so anything north of here carries the risk of Cain Toli and his dragons. Jerly Bay's untouched, but only because the Toli control it themselves — their own thoroughfare to the jungle, unaffected in the least."
 
 "Do you believe the Toli capable of a direct assault on Monmurg?"
 
 "Absolutely not. Our defenses are impenetrable to their armies — there's no way even Keoland's forces, significant as they are, could take this place by storm."
 
-"With the Sahaugin's help, if we lack the material to hold them off?"
+"With the sahaugin's help, if we lack the material to hold them off?"
 
-"There's no true alliance there," Jamis said. "The Sahaugin simply go where they can feed — sharks being chummed, more than anything, adding to the chaos rather than serving any real plan. The Toli mean to disrupt us, nothing more, though you can be sure they've no wish to see the Sahaugin win outright either — and yes, they do have the means to produce the yellow substance themselves, unlike us.
+"There's no true alliance there," Jamis said. "The sahaugin simply go where they can feed — sharks being chummed, more than anything, adding to the chaos rather than serving any real plan. The Toli mean to disrupt us, nothing more, though you can be sure they've no wish to see the sahaugin win outright either — and yes, they do have the means to produce the yellow substance themselves, unlike us.
 
 "So: research the substance, discover whether it's been diminished or thwarted, and why. Try to learn where Fairwind stored his own barrels, if you can. Help Paul in all of this, since that's the charge Jeon means to give him — and take his measure, see what rudiments of the arcane arts he might already grasp."
 
@@ -5250,13 +4812,13 @@ Jude sat with that a moment. "The hell. That's... quite a thing to carry."
 
 "Suspect everyone," Jude said.
 
-"Exactly. That ship would never have been lost to the Sahaugin, if I'd had my way with it — there'd have been a barrel of our own aboard. Jeon's eyes are opening, slowly, but for us to survive, they need to open a great deal faster than they are. Don't let on to Paul about any of this."
+"Exactly. That ship would never have been lost to the sahaugin, if I'd had my way with it — there'd have been a barrel of our own aboard. Jeon's eyes are opening, slowly, but for us to survive, they need to open a great deal faster than they are. Don't let on to Paul about any of this."
 
 "Of course." Jude turned one more matter over before rising to go. "I have in mind — Paul commanded the contingent of twenty Marines, the only ones to survive that ship. Could you give me their names? If they're reassigned back to Monmurg, or held at the Helm — in the sense of the network you mentioned — they'd know both myself and Paul, and carry some sense of solidarity from having survived together."
 
 "I can give you the name of their commander," Jamis said, "and he can speak to the men — though I'd have Paul speak to them himself."
 
-"If you want him to develop in that work, yes — absolutely. Helping men who survived the Sahaugin attack is solid ground to build on. And there's money for bribes, if it comes to that."
+"If you want him to develop in that work, yes — absolutely. Helping men who survived the sahaugin attack is solid ground to build on. And there's money for bribes, if it comes to that."
 
 "That's probably the only thing we have in abundance right now."
 
@@ -5280,7 +4842,7 @@ An attendant slipped in a moment later to inform Jamis that Gouge had arrived an
 
 ## PART NINE: THE FOURTH DAY
 
-# Chapter Fifty-Four — What Paul Wanted
+# Chapter Forty-Four — What Paul Wanted
 
 Some days after the return from Helm Island, Jude and Paul found a quiet hour to sit together and turn over everything each of them had learned, and everything still left undone.
 
@@ -5344,7 +4906,7 @@ Jude weighed the shape of the man they were hunting. "Is he the sort who'd keep 
 
 Jude gave a short, unbothered laugh. "Fine — give me a level or two, I'll catch up. You've got a real propensity for it, at any rate, and the curiosity to match, which matters more."
 
-They turned, more soberly, to the question of timing — fifty days, perhaps three months at the outside, before the last of the powder ran dry, longer still if the twenty-five barrels left behind on Helm Island held secure. Whether they'd be called back to help clear the last of the hobgoblins, or left to their research here in the city; whether the gills Jude had cut from the dead Sahaugin might yet hold some trace of a counter-agent, some clue as to why the powder had failed when it should have held.
+They turned, more soberly, to the question of timing — fifty days, perhaps three months at the outside, before the last of the powder ran dry, longer still if the twenty-five barrels left behind on Helm Island held secure. Whether they'd be called back to help clear the last of the hobgoblins, or left to their research here in the city; whether the gills Jude had cut from the dead sahaugin might yet hold some trace of a counter-agent, some clue as to why the powder had failed when it should have held.
 
 "There's an alchemist," Paul offered, "just off the square in the foreign district. I've been trying to build a rapport with him — good reason to visit now, between the gills and whatever else we might need."
 
@@ -5368,7 +4930,7 @@ Jude turned the thought over and found it sound. "And the thief from the guild �
 
 "Out the other side, more or less. We're even, in a way."
 
-# Chapter Fifty-Five — The First Cantrip
+# Chapter Forty-Five — The First Cantrip
 
 The following afternoon, in a quiet corner of Lord Jamis's residence, the two of them sat down properly to begin.
 
@@ -5444,17 +5006,17 @@ They spent the rest of the afternoon and well into evening on the practical work
 
 "Stop taking it personally. Keep some objectivity." Jude studied him a moment, something almost fond beneath the dryness. "Remember that part of you that wanted to kill every Toli on the dock at Jerly Bay? Learn to hold that same fire steady, and you'll get there."
 
-# Chapter Fifty-Six — The Wager
+# Chapter Forty-Six — The Wager
 
 They kept talking as they climbed the stairs back toward their own rooms, neither quite ready to let the evening end.
 
-"Let's not call it a day yet," Jude said. "You're tapped out on the arcane arts, fair enough. Why don't you teach me something of your own trade instead? I'll follow your lead — you can knock me about if I fumble it — and we'll slip into Ferd's without anyone the wiser."
+"Let's not call it a day yet," Jude said. "You're tapped out on the arcane arts, fair enough. Why don't you teach me something of your own trade instead? I'll follow your lead — you can knock me about if I fumble it — and we'll slip into Ferdin's without anyone the wiser."
 
 "You want to sneak into your own bar?"
 
 "I want to know who's been drinking there since I chased off some disreputable company. Call it instructional."
 
-Paul turned the idea over, weighing the practicalities of stealth with two men rather than one, and found himself, in the end, disinclined toward Ferd's specifically. "Why not stealth in on the alchemist's shop instead? See who else visits him, who might be watching the place."
+Paul turned the idea over, weighing the practicalities of stealth with two men rather than one, and found himself, in the end, disinclined toward Ferdin's specifically. "Why not stealth in on the alchemist's shop instead? See who else visits him, who might be watching the place."
 
 "No," Jude said, flat.
 
@@ -5474,15 +5036,15 @@ They went back and forth a while longer, circling the same argument from differe
 
 The dice didn't favor either of them especially that night, and the contest dissolved as much in laughter as in any clear victor, but the lesson beneath it held all the same — a wizard-assassin, rare and fearsomely effective when the two crafts truly married, and Paul, whatever grief he gave his teacher over the bruises and the burnt robes, found himself genuinely eager to see how far the combination might carry him.
 
-# Chapter Fifty-Seven — What Paul Knew of the Toli
+# Chapter Forty-Seven — What Paul Knew of the Toli
 
 Alone in his own rooms that night, turning the day over before sleep finally claimed him, Paul found himself circling back to a gap in his own education — not of magic, but of the wider politics his uncle moved through daily, and which he himself understood only in broad, half-formed strokes.
 
-He knew Monmurg for what it was: a city-state among several, Fairwind and Flotsam and Jetsam each their own island holding, and Toli a city-state in its own right, ruled by Prince Sconforth and set somewhat apart from the others by the old Suel blood that ran through its royal line, though counted an equal among the five principalities all the same — Toli, Fairwind, Flotsam, Jetsam, and Monmurg. Beyond those five sat two powers who held no vote in council, yet wielded influence enough to shape everything around them regardless: the Duke of Berghof, whose lands supplied the yellow powder that had for a century and a half kept the Sahaugin from these shores, and the power of Westkeep, who held the northern reach along the Hool River.
+He knew Monmurg for what it was: a city-state among several, Fairwind and Flotsam and Jetsam each their own island holding, and Toli a city-state in its own right, ruled by Prince Sconforth and set somewhat apart from the others by the old Suel blood that ran through its royal line, though counted an equal among the five principalities all the same — Toli, Fairwind, Flotsam, Jetsam, and Monmurg. Beyond those five sat two powers who held no vote in council, yet wielded influence enough to shape everything around them regardless: the Duke of Berghof, whose lands supplied the yellow powder that had for a century and a half kept the sahaugin from these shores, and the power of Westkeep, who held the northern reach along the Hool River.
 
 It was a shape of the world Paul had always known in outline, the way a man knows the walls of a house he's lived in his whole life without ever counting the stones — but turning it over now, with Fairwind's betrayal fresh in his mind and Zafar Azane's name lodged somewhere he couldn't quite dislodge it, the outline felt suddenly a good deal less solid than it had a week before.
 
-# Chapter Fifty-Eight — Copper and Sulfur
+# Chapter Forty-Eight — Copper and Sulfur
 
 The next evening, the two of them left the palace together as the sun went down, passing through gate after gate before the guards sealed them for the night, and walked the thirty minutes down into the foreign district, where the smell of onion soup and unwashed wool and the sea itself rose up to meet them.
 
@@ -5526,7 +5088,7 @@ The room beyond was a clutter of curiosities in every direction — jars and via
 
 "We brought you a sample," Jude reminded him. "From Helm Island — the barrels."
 
-"I remember. Copper and sulfur, combined in a manner I have never before seen." He gestured toward a small dish of pale, yellowish powder sitting on the bench, the very substance that had emptied a grotto of Sahaugin and sharks alike not a week before. "Copper alone — nothing to me. Sulfur alone — nothing to me. To a man, an elf — no harm at all. To the gills of a fish, though—"
+"I remember. Copper and sulfur, combined in a manner I have never before seen." He gestured toward a small dish of pale, yellowish powder sitting on the bench, the very substance that had emptied a grotto of sahaugin and sharks alike not a week before. "Copper alone — nothing to me. Sulfur alone — nothing to me. To a man, an elf — no harm at all. To the gills of a fish, though—"
 
 "Show us," Jude said.
 
@@ -5550,7 +5112,7 @@ The old man's face sharpened with sudden interest. "It tells me a great deal. Th
 
 Paul, listening, turned the whole conversation over in his own mind before finally asking the question plainly. "Why does this matter so much — why go to such lengths to remake it?"
 
-"To hold back the Sahaugin," Jude said. "That's the whole of it. The sea principalities have leaned on this for a hundred and fifty years, and the stores are nearly spent."
+"To hold back the sahaugin," Jude said. "That's the whole of it. The sea principalities have leaned on this for a hundred and fifty years, and the stores are nearly spent."
 
 "And it's explosive too," Jude added, turning back to the alchemist. "You know that?"
 

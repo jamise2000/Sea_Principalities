@@ -1,7 +1,7 @@
 # Cast for Marines_shelter_in_guard_tower_2nd_Wealsun
 # Expected voices: 5
 SPEAKER_00: Tyrus (confirmed — organizes the wall-climb battle plan, matches cleaned transcript's "I'll hammer on this and make as much noise as possible")
-SPEAKER_01: Merrick (confirmed — "I haven't seen the Sahaugin in years... was it killed my dad?", matches his established backstory; also identifies "That's definitely Sahaugin")
+SPEAKER_01: Merrick (confirmed — "I haven't seen the sahaugin in years... was it killed my dad?", matches his established backstory; also identifies "That's definitely sahaugin")
 SPEAKER_02: Gouge (confirmed — performs a backstab/sneak attack: "Do you want to use your backstab? Yes.")
 SPEAKER_03: DM (dominant narrator, opens the scene: "Second Wealsun, probably around, eh, after 430...")
 SPEAKER_04: Folsom (confirmed — practicing his instrument while anxious; responds as "the Bard" when asked about charming the hobgoblin prisoner)

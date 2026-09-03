@@ -113,7 +113,7 @@
 [SPEAKER_04]: You are.
 [SPEAKER_04]: Continue, please, Lord Fairwind.
 [SPEAKER_04]: It will speak best in your case, should there be a trial.
-[SPEAKER_00]: The Sahaugin are not of concern as of right now.
+[SPEAKER_00]: The sahaugin are not of concern as of right now.
 [SPEAKER_00]: As I said, they can be repelled.
 [SPEAKER_00]: And they will.
 [SPEAKER_01]: Not if the things that have been stored underneath are being packed away.

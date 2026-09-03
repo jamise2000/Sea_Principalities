@@ -227,7 +227,7 @@
 [SPEAKER_03]: How will you do it?
 [SPEAKER_04]: Unless you let us?
 [SPEAKER_05]: I will not prevent you.
-[SPEAKER_05]: I will merely let the Sahaugin take care of you.
+[SPEAKER_05]: I will merely let the sahaugin take care of you.
 [SPEAKER_03]: You just said that you won't get off unless you let us.
 [SPEAKER_02]: Unless the stores have been completely looted.
 [SPEAKER_03]: Do you need for me to guide you to the remaining source of the substance?

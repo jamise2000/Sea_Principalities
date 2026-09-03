@@ -1,0 +1,108 @@
+# Chapter Eight — Copper and Sulfur
+
+The next evening, the two of them left the palace together as the sun went down, passing through gate after gate before the guards sealed them for the night, and walked the thirty minutes down into the foreign district, where the smell of onion soup and unwashed wool and the sea itself rose up to meet them.
+
+"Smells like home," Paul said, and meant it more than he expected to.
+
+They wound through the district's tangle of narrow roads, past the same corners where Paul had once been set upon by a desperate cutpurse, until the buildings gave way to a small stone courtyard and a single sturdy door standing apart from the rickety driftwood structures around it. Jude knocked, twice, before the bolt finally scraped back and a stooped old man peered out at them through a pair of strange, heavy-lensed spectacles.
+
+"I'm the mage," Jude said. "Bought that sample off you not long ago."
+
+"I remember you," the old alchemist said, and turned his clouded eyes toward Paul. "This is your friend?"
+
+"My student," Jude said. "I'm Jude. Introduce yourself."
+
+"Paul."
+
+"Paul...?"
+
+"Paul Revero."
+
+Something shifted behind the old man's spectacles, some calculation running quick and quiet. "Revero. What does Prince Jeon want with me?"
+
+"It's not like that," Jude said quickly. "He's my student, nothing more."
+
+"Ah. Hence." The alchemist studied Paul a moment longer, something almost gentle in the scrutiny. "You do not use the name Azane, then?"
+
+Paul went very still. "I go by Revero."
+
+"Is that a given name?" The old man didn't press further, only let the question hang a moment before waving them both through the heavy door, sliding the bolt home behind them. "Come in. Be respectful. Touch nothing."
+
+The room beyond was a clutter of curiosities in every direction — jars and vials and strange instruments crowding every shelf, the whole space smelling of sulfur and old parchment and something else Paul couldn't quite name. The alchemist himself moved through it with the ease of long familiarity, hunched and slow but sure of every step.
+
+"How is your uncle?" he asked, not turning around. "Your father — your grandfather? It has been some while since he last visited me."
+
+"Has it?" Paul said, carefully.
+
+"Yes." The old man let the matter drop as quickly as he'd raised it, and turned instead to the business at hand. "You wish to know."
+
+"Tell him what we spoke of," Jude said. "What we found."
+
+"Copper and sulfur," the alchemist said, already moving toward a cluttered workbench. "The elements, combined in a way you'll understand once you see it. Come."
+
+"We brought you a sample," Jude reminded him. "From Helm Island — the barrels."
+
+"I remember. Copper and sulfur, combined in a manner I have never before seen." He gestured toward a small dish of pale, yellowish powder sitting on the bench, the very substance that had emptied a grotto of sahaugin and sharks alike not a week before. "Copper alone — nothing to me. Sulfur alone — nothing to me. Diluted through water, a man or an elf may swim in it and take no harm. To the gills of a fish, though—"
+
+"Show us," Jude said.
+
+The old man crossed to a small bowl where a single goldfish circled in slow, contented loops, and took the barest pinch of the powder between two fingers. "This is a thousand times more than would be needed. One part in a thousand of even this pinch would kill the creature outright." He let it fall.
+
+The fish thrashed once, twice, and rolled belly-up near the surface, gasping.
+
+"That is what you saw on the island," the alchemist said, watching it with clinical detachment. "The dose that means nothing to us in the water is death itself to them — it moves straight in through the gills, into the blood."
+
+"It's not only the fish, though," Paul said quietly. "The raw powder — breathe even a little of it, dry, and it kills a man just as surely. I've reason to be certain of that." He did not say where the certainty came from; he only heard it again as he spoke, his mother's voice sharp over three red-marked barrels a lifetime ago: "Breathing in even a minute amount of that will kill you, Paul."
+
+The alchemist inclined his head, unsurprised. "Just so. In the water, spread thin, it is nothing to us — which is the whole genius of the thing. Dry, and breathed, it is death to any lung. Keep it in the barrel, and keep the barrel closed."
+
+"You said there were elements you couldn't identify," Jude pressed.
+
+"Trace elements, yes — and more than that, the manner of their combining, which I cannot determine. I do not know how to make this myself. The raw materials are cheap enough, mind — copper carries some value, but sulfur can be bought in any market stall. If the method were known, it could be made by the ton."
+
+"If I told you this substance came originally from the Duke of Berghof's own territories," Jude said, "would that tell you anything?"
+
+The old man's face sharpened with sudden interest. "It tells me a great deal. This sample is perhaps twenty years old — the last time Prince Jeon's people were able to acquire any at all. Made, or discovered, in the mountains along the Duke's southwestern border. The Fhoraxians made this."
+
+"I don't know that name," Jude admitted.
+
+"Few do." The alchemist studied the powder a moment longer, something like old regret crossing his weathered face. "I do not know how it is made. Grayson was pursuing the same question, before the end — did he leave formulae? I have some notes of my own I believe may bear on it."
+
+Paul, listening, turned the whole conversation over in his own mind before finally asking the question plainly. "Why does this matter so much — why go to such lengths to remake it?"
+
+"To hold back the sahaugin" Jude said. "That's the whole of it. The sea principalities have leaned on this for a hundred and fifty years, and the stores are nearly spent."
+
+"And it's explosive too," Jude added, turning back to the alchemist. "You know that?"
+
+"Not ordinarily — only under pressure, or once it's aged some while in seawater. The reaction with brine gives off heat enough to catch, under the right conditions. Otherwise it sits inert as sand."
+
+"Do you have the formulae you mentioned?" Jude asked. "Written down somewhere?"
+
+"Not here. In a book, at my other workroom."
+
+"Bring them to me," Jude said, and the old man studied him a long moment before answering.
+
+"This is an interesting problem, and I would like to help you solve it. But understand what you're asking of me. If this knowledge were to reach the wrong ears, that protection your student enjoys" — he nodded toward Paul — "would not extend to me. I keep a great many secrets, for a great many people. This one would mean my death, and quickly, if it ever got out that I'd shared it."
+
+"There are worse fates," Jude said.
+
+"That is, in fact, the kindest one available in this line of work," the old man said, something wry beneath the grimness of it. He turned, considering. "Step outside a moment, if you would. You need not be present for the rest of this."
+
+Jude stepped out into the courtyard, leaving Paul alone with the old man a moment, and found him waiting there when the door creaked open again some minutes later.
+
+"If I stay here with him a while," Jude said, low, "can you find your own way back into the palace?"
+
+"I'll send the homunculus ahead to check the route," Paul offered, then reconsidered the creature's limited range and settled instead on going himself, by a way he knew that didn't require the front gates at all.
+
+"Go, then," Jude said. "I'll stay, keep an eye on the old man, make sure nothing happens to him before you're back with whatever proof he needs to see. An hour, no more?"
+
+"An hour," Paul agreed, and paused at the mouth of the courtyard, glancing back. "If I come back and find flashes of light coming out of that shop, and things burning—"
+
+"I've been worried about exactly that myself," Jude admitted.
+
+"Then come quickly, and deal with whoever's responsible."
+
+"It will be done," Jude said, and meant it.
+
+Paul turned and made his way back up through the darkened streets of the foreign district, the smell of onion soup and salt water trailing behind him, the old alchemist's question still turning over and over in his mind — *you do not use the name Azane?* — a thread he hadn't meant to pull, and couldn't now put down. Somewhere above him, past the gates and the guards and the long climb back to the palace, his uncle and Lord Jamis were weighing wars and blockades and the fates of princes, and somewhere behind him, in a cluttered little shop that smelled of sulfur and old secrets, an old man was searching for a way to give the sea principalities back the one thing that had always stood between them and the dark water — while Jude waited at his side, watchful, unreadable as ever, one more piece in a game that had grown, in the span of a handful of days, very much larger than either of them had first understood it to be.
+                                           

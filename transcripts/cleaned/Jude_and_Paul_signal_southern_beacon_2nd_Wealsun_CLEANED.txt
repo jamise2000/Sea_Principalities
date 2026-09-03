@@ -1,4 +1,4 @@
-[Speaker Key: DM = Dungeon Master (narration, relaying the signaled communication) | JUDE = Jude's player | PAUL = Paul Rivera's player. NOTE: this segment is mostly DM narration describing an exchange of signal-mirror messages with the Southern Guard Tower; the few player lines are brief clarifying questions dropped into that narration, and are attributed by best contextual guess.]
+[Speaker Key: DM = Dungeon Master (narration, relaying the signaled communication) | JUDE = Jude's player | PAUL = Paul Revero's player. NOTE: this segment is mostly DM narration describing an exchange of signal-mirror messages with the Southern Guard Tower; the few player lines are brief clarifying questions dropped into that narration, and are attributed by best contextual guess.]
 
 DM: Evening of the 2nd of Wealsun. Jude and Paul have gotten the garrison's sergeant to signal the Southern Guard Tower. The dialogue starts once you send word — you get Gouge's name back, and then the signals start going back and forth. The sea principalities use something very similar to Morse code for this, relayed with mirrors.
 
@@ -6,31 +6,31 @@ DM: Here's what comes through. The group of Marines that landed on the southern 
 
 JUDE: Wait — the ship was actually destroyed?
 
-DM: Yes. They didn't see it happen directly, but the ship was overwhelmed and they believe it went down. They're also worried about Paul Rivera specifically, given he's a prince — they want to confirm he's alive. They did see him marching down the docks.
+DM: Yes. They didn't see it happen directly, but the ship was overwhelmed and they believe it went down. They're also worried about Paul Revero specifically, given he's a prince — they want to confirm he's alive. They did see him marching down the docks.
 
 PAUL: Did they see us make it to the beach?
 
 DM: They saw what happened with your group up to a point — they didn't actually see you make it into the barracks, but they were hoping that was the case. Now that you're signaling from the barracks itself, they know the barracks weren't overrun. They'd actually been considering sending scouts to check on that area themselves. Now that they know you're there and the barracks are in the principalities' hands, you give them the numbers — roughly a hundred friendlies plus the twenty Marines off the ship.
 
-DM: In return, you learn there are a hundred fifty Marines still on the base — on the island. So counting everyone: their hundred fifty, plus your twenty, plus the thirty at the Southern Tower — call it two hundred, after losses from the ship and the Sahaugin attack.
+DM: In return, you learn there are a hundred fifty Marines still on the base — on the island. So counting everyone: their hundred fifty, plus your twenty, plus the thirty at the Southern Tower — call it two hundred, after losses from the ship and the sahaugin attack.
 
-JUDE: We're also going to be dealing with the Sahaugin on top of the hobgoblins.
+JUDE: We're also going to be dealing with the sahaugin on top of the hobgoblins.
 
-PAUL: Sahaugin are a whole different problem. Right now we just need to worry about the hobgoblins — the Sahaugin can't come up onto land here.
+PAUL: Sahaugin are a whole different problem. Right now we just need to worry about the hobgoblins — the sahaugin can't come up onto land here.
 
-DM: The sergeant in command of the southern group tells you they're going to hold the tower, because it lets them warn off any ships coming from Monmurg so they aren't ambushed by Sahaugin the way the last one was.
+DM: The sergeant in command of the southern group tells you they're going to hold the tower, because it lets them warn off any ships coming from Monmurg so they aren't ambushed by sahaugin the way the last one was.
 
 PAUL: Could that tower send a message all the way back to Monmurg — isn't that what it was originally built for?
 
 DM: They can't, not anymore. All they have left are short-range signal arrows they can fire flares from — they'll use those to send warnings if they can, but the brazier they'd normally use for a proper signal fire was taken by the hobgoblins. So they have no way to actually reach Monmurg directly. That's normally where a signal like that would originate — we have to assume the other towers could theoretically do it too, but that's the one meant for it.
 
-JUDE: What are their expectations if the Sahaugin hit them directly? That seems like it'd overwhelm a position like that.
+JUDE: What are their expectations if the sahaugin hit them directly? That seems like it'd overwhelm a position like that.
 
-DM: They do have some fortifications, but they're asking for reinforcement all the same. Right now, though, once they're clear of the beach itself, they're not too worried about the Sahaugin.
+DM: They do have some fortifications, but they're asking for reinforcement all the same. Right now, though, once they're clear of the beach itself, they're not too worried about the sahaugin.
 
 PAUL: Is that consistent with what we already know about them?
 
-DM: I think we've touched on this before — Sahaugin can come up onto land, but they hate it, and they strongly prefer the beach itself. They can survive out of water for up to about four hours, but they're not going to push inland to attack a barracks or a fortified position like that. So if you're in a tower or fortification up on the cliffs, that's a serious disadvantage for them to try to overcome.
+DM: I think we've touched on this before — sahaugin can come up onto land, but they hate it, and they strongly prefer the beach itself. They can survive out of water for up to about four hours, but they're not going to push inland to attack a barracks or a fortified position like that. So if you're in a tower or fortification up on the cliffs, that's a serious disadvantage for them to try to overcome.
 
 JUDE: Does the commander at the barracks have any sense of when reinforcements might reach them?
 

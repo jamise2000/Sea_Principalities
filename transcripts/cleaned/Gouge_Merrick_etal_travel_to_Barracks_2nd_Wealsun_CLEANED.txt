@@ -4,7 +4,7 @@ DM: Second of Wealsun, after sundown — the party rests and communicates with t
 
 MERRICK: That's been coming from Jude, correct?
 
-DM: Yes — back and forth. What you learn is that Jude and Paul Rivera are at the garrison, which is still controlled by the sea principalities — a hundred fifty men there, basically waiting for you if you want to come deal with the situation. There's some urgency, since the island is surrounded by Sahaugin and can't get reinforcements until they're driven off. Jude says he has a plan for that.
+DM: Yes — back and forth. What you learn is that Jude and Paul Revero are at the garrison, which is still controlled by the sea principalities — a hundred fifty men there, basically waiting for you if you want to come deal with the situation. There's some urgency, since the island is surrounded by sahaugin and can't get reinforcements until they're driven off. Jude says he has a plan for that.
 
 GOUGE: He's pretty smart.
 
@@ -12,7 +12,7 @@ DM: His plan: you and Merrick go out ahead, bringing a small group with you — 
 
 TYRUS: So the captain holds back here with the rest of the men?
 
-DM: Right — making sure you're not flanked from behind by anyone still in the area. He's also going to signal any approaching ships to stay away, given the Sahaugin presence, and you'll have what you need to signal back to him in turn.
+DM: Right — making sure you're not flanked from behind by anyone still in the area. He's also going to signal any approaching ships to stay away, given the sahaugin presence, and you'll have what you need to signal back to him in turn.
 
 MERRICK: [to Folsom] Do we have what we need to signal back to him?
 
@@ -98,13 +98,13 @@ MERRICK: On them, behind us, to cover their retreat — they're the ones taking 
 
 DM: You drop the fog right where they need it. Your five trailing men fall back to the tower as ordered, while the three of you — Merrick, Gouge, and Tyrus — push on and reach the bridge, now alone.
 
-MERRICK: We're at the edge of the bridge. I want to look down — check for sharks or Sahaugin in the water.
+MERRICK: We're at the edge of the bridge. I want to look down — check for sharks or sahaugin in the water.
 
 DM: Roll perception.
 
 MERRICK: [rolling] Twenty-six total.
 
-DM: You see sharks, and a Sahaugin riding one of them out in the bay, off to one side.
+DM: You see sharks, and a sahaugin riding one of them out in the bay, off to one side.
 
 MERRICK: We need to cross down the center of the bridge, not near the edges — and we shouldn't cross as a tight group. Spread out, go in pairs, gather on the other side.
 
@@ -180,18 +180,18 @@ DM (as Captain Sten): Merrick! Good to see you. Tyrus — you know this man, one
 
 GOUGE: How's the garrison holding up to the south?
 
-DM (as Sten): We've got a small group holding it — about twenty men stationed at the lighthouse. There's nobody actually in the lighthouse itself; we hold it, but it's unmanned at the moment. Our ship was able to secure that position. The barracks here, though — that's a different story. The hobgoblins there are dead, but the place is now full of Sahaugin.
+DM (as Sten): We've got a small group holding it — about twenty men stationed at the lighthouse. There's nobody actually in the lighthouse itself; we hold it, but it's unmanned at the moment. Our ship was able to secure that position. The barracks here, though — that's a different story. The hobgoblins there are dead, but the place is now full of sahaugin.
 
-GOUGE: Wait — hobgoblins, or Sahaugin?
+GOUGE: Wait — hobgoblins, or sahaugin?
 
-DM (as Sten): Both, in different areas — hobgoblins killed several of our men before we cleared them, but Sahaugin have taken over parts of the barracks itself. We don't know exact numbers — at least ten or fifteen. We hold the tower, signal any approaching ships that the area's unsafe. The lighthouse and the actual barracks structure remain contested.
+DM (as Sten): Both, in different areas — hobgoblins killed several of our men before we cleared them, but sahaugin have taken over parts of the barracks itself. We don't know exact numbers — at least ten or fifteen. We hold the tower, signal any approaching ships that the area's unsafe. The lighthouse and the actual barracks structure remain contested.
 
-We saw your ship get overrun by Sahaugin as it came in — lost nearly everyone. The unit escorting Paul Rivera made it ashore safely, from what we can tell, but the rest of the contingent on the ship — somewhere around two hundred men — we believe there were no survivors.
+We saw your ship get overrun by sahaugin as it came in — lost nearly everyone. The unit escorting Paul Revero made it ashore safely, from what we can tell, but the rest of the contingent on the ship — somewhere around two hundred men — we believe there were no survivors.
 
 GOUGE: [looking around] Where's the elf?
 
 DM: You look — he's not here.
 
-DM (as Sten): [shaking his head] Gouge, I take it — you must be him, given the reputation. Folsom, good to meet you too. Paul Rivera and his companion wish to speak with you — come with me.
+DM (as Sten): [shaking his head] Gouge, I take it — you must be him, given the reputation. Folsom, good to meet you too. Paul Revero and his companion wish to speak with you — come with me.
 
-DM: He leads you down into the barracks, to what looks like the command office. Inside, sitting there, is young Paul Rivera — no sign of Jude. Paul looks strange in person: a silver mask covering his face, tight-fitting leather clothing, gloves on despite the warm weather — altogether bizarre. The four of you file into the room and pause.
+DM: He leads you down into the barracks, to what looks like the command office. Inside, sitting there, is young Paul Revero — no sign of Jude. Paul looks strange in person: a silver mask covering his face, tight-fitting leather clothing, gloves on despite the warm weather — altogether bizarre. The four of you file into the room and pause.

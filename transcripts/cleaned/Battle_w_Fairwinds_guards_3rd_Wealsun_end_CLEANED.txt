@@ -1,6 +1,6 @@
 [Speaker Key: DM = Dungeon Master (narration, rules calls, voicing enemy guards) | GOUGE, TYRUS, FOLSOM, PAUL, MERRICK, JUDE = respective players. NOTE: This is a fast-moving combat scene with heavy dice-roll cross-talk; numeric rolls and rule clarifications are summarized rather than transcribed verbatim where they don't carry narrative content.]
 
-DM: A battle has been raging in a sea chasm between Gouge, Tyrus, Folsom, Paul Rivera, Merrick, and Lord Fairwind's guards. This is the continuation of that fight. Can you see what's happening down there — roll perception?
+DM: A battle has been raging in a sea chasm between Gouge, Tyrus, Folsom, Paul Revero, Merrick, and Lord Fairwind's guards. This is the continuation of that fight. Can you see what's happening down there — roll perception?
 
 GOUGE: [rolling] One.
 
@@ -322,7 +322,7 @@ DM: No, you hear nothing.
 
 MERRICK: I'll keep moving up, then.
 
-DM: You move up next to Paul Rivera.
+DM: You move up next to Paul Revero.
 
 PAUL: Don't push me.
 

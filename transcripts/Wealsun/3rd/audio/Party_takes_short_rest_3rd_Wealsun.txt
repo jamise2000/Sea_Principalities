@@ -1,4 +1,4 @@
-[SPEAKER_00]: Okay, morning of the third of Wealsun after the battle with Sahaugin, after Tyrus threw the solution into the Smuggaloos Caves of Helm Island, the party sits on the docks, basically recovering from what they're doing.
+[SPEAKER_00]: Okay, morning of the third of Wealsun after the battle with sahaugin, after Tyrus threw the solution into the Smuggaloos Caves of Helm Island, the party sits on the docks, basically recovering from what they're doing.
 [SPEAKER_00]: Do you want to see where you're at?
 [SPEAKER_00]: Okay.
 [SPEAKER_00]: Do you guys want to have a conversation?
@@ -174,9 +174,9 @@
 [SPEAKER_00]: Like Fairwind said in the conversation, these are all princes.
 [SPEAKER_00]: They're all kind of co-equal in the nation.
 [SPEAKER_00]: And it's not like they don't have conflict between them.
-[SPEAKER_00]: But this is screwed up, because this is Sahaugin doing their thing.
+[SPEAKER_00]: But this is screwed up, because this is sahaugin doing their thing.
 [SPEAKER_00]: Yeah, and he's trying to screw over Monmurg.
-[SPEAKER_00]: And the reason this nation exists was because of the Toli, the Outer Islands, and the Duke of Birkhoff all coming together and beating the Sahaugin 150 years ago.
+[SPEAKER_00]: And the reason this nation exists was because of the Toli, the Outer Islands, and the Duke of Birkhoff all coming together and beating the sahaugin 150 years ago.
 [SPEAKER_00]: Right?
 [SPEAKER_00]: So...
 [SPEAKER_00]: This is an eternal conflict, right?
@@ -458,15 +458,15 @@
 [SPEAKER_02]: He can say whatever happened, he can make anything up, and he is okay.
 [SPEAKER_02]: He can lie.
 [SPEAKER_02]: I'm pretty sure, well, him and I are, I think, are equivalent.
-[SPEAKER_04]: He could just say that Sahaugin killed the ship.
+[SPEAKER_04]: He could just say that sahaugin killed the ship.
 [SPEAKER_00]: So let me ask you this question, if that is true.
 [SPEAKER_00]: Is it a good idea to fight through his hobgoblins, or the totally hobgoblins, and then go to contact his men, right?
 [SPEAKER_00]: Or is a better idea just to hide?
 [SPEAKER_02]: I don't think hiding's too good of an option.
 [SPEAKER_02]: I think finding his troops might be the best of the worst case scenario because I doubt all of his troops knew, and ultimately at the end his troops aren't going to fail when they're willing to Jamis.
 [SPEAKER_04]: This island isn't big enough to hide.
-[SPEAKER_04]: Look, we could snake some barrels, and how many days does that buy us to save us from the Sahaugin?
-[SPEAKER_04]: And if the Sahaugin come back after like, what, six days?
+[SPEAKER_04]: Look, we could snake some barrels, and how many days does that buy us to save us from the sahaugin?
+[SPEAKER_04]: And if the sahaugin come back after like, what, six days?
 [SPEAKER_02]: Ultimately though, wait, it's the second day we've been here, right?
 [SPEAKER_00]: I guess, second day.
 [SPEAKER_02]: Roughly?
@@ -527,8 +527,8 @@
 [SPEAKER_05]: And we're at an advantage point.
 [SPEAKER_04]: That's true.
 [SPEAKER_04]: That's true.
-[SPEAKER_04]: And they don't have Sahaugin helping them.
-[SPEAKER_04]: And they maybe don't even know that we've taken them because there's no Sahaugin to warn them because we fucked up all the Sahaugin.
+[SPEAKER_04]: And they don't have sahaugin helping them.
+[SPEAKER_04]: And they maybe don't even know that we've taken them because there's no sahaugin to warn them because we fucked up all the sahaugin.
 [SPEAKER_01]: And we have the giant crossbow.
 [SPEAKER_04]: Yes, yes.
 [SPEAKER_04]: We can like, we can totally, well, like you said, if there's only four to six guys even wounded, if we could rest and it takes four hours or whatever, great.

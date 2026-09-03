@@ -1,4 +1,4 @@
-[Speaker Key: DM = Dungeon Master (narration, rules calls) | JUDE = Jude's player | GOUGE = Gouge's player | MERRICK = Merrick's player | TYRUS = Tyrus's player | FOLSOM = Folsom's player | PAUL = Paul Rivera's player]
+[Speaker Key: DM = Dungeon Master (narration, rules calls) | JUDE = Jude's player | GOUGE = Gouge's player | MERRICK = Merrick's player | TYRUS = Tyrus's player | FOLSOM = Folsom's player | PAUL = Paul Revero's player]
 
 DM: Good morning. Morning of the third of Wealsun, approaching eight o'clock.
 
@@ -48,7 +48,7 @@ DM: Right, it rotates. But remember, he admitted he's been skimming barrels for 
 
 GOUGE: So if the Toli came specifically during the fog to take barrels, they're actually a bit late to this — since he says he's been doing this for months already, maybe longer.
 
-JUDE: With the Sahaugin dead in this area, there's no reason not to signal Monmurg now — we can do that from the inner sanctum, if we've secured enough of the island to risk it.
+JUDE: With the sahaugin dead in this area, there's no reason not to signal Monmurg now — we can do that from the inner sanctum, if we've secured enough of the island to risk it.
 
 DM: You don't fully know how secure things are, but you do know there are a lot of dead bodies around. How far is the shark from where you're standing right now?
 
@@ -90,7 +90,7 @@ DM: About a five-hour trip.
 
 JUDE: Five hours — but maybe we'd run into a merchant ship along the way that could help?
 
-DM: With the blockade in effect, unlikely — but you might run into a Monmurgian patrol instead. If you signal from the inner sanctum that you're on your way, they could meet you partway. And if you've got a barrel or two of the substance with you, you could distribute it as needed to keep the strait clear of Sahaugin — that's really your main concern at this point, since you've only dumped a barrel's worth into this immediate area so far.
+DM: With the blockade in effect, unlikely — but you might run into a Monmurgian patrol instead. If you signal from the inner sanctum that you're on your way, they could meet you partway. And if you've got a barrel or two of the substance with you, you could distribute it as needed to keep the strait clear of sahaugin — that's really your main concern at this point, since you've only dumped a barrel's worth into this immediate area so far.
 
 GOUGE: I need to talk to Jude — how long does he need to rest?
 
@@ -304,11 +304,11 @@ DM: Okay, you scoop some into a pouch.
 
 GOUGE: [examining the hobgoblin corpse they towed along] I want to check it for any magical properties — maybe something useful from its bones.
 
-DM: You'd probably get more use out of Sahaugin gills for a potion of water breathing, honestly.
+DM: You'd probably get more use out of sahaugin gills for a potion of water breathing, honestly.
 
 GOUGE: Either way, I show the corsair crew the hobgoblin body as proof when they pull alongside.
 
-DM: So, the six of you are taken aboard. Merrick — or whoever's narrating — explains the Sahaugin attack.
+DM: So, the six of you are taken aboard. Merrick — or whoever's narrating — explains the sahaugin attack.
 
 GOUGE: Do you want to mention the powder at all?
 

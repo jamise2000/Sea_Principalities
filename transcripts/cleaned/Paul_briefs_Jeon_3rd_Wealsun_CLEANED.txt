@@ -1,6 +1,6 @@
-[Speaker Key: DM = Dungeon Master (narration, voicing Prince Jeon) | PAUL = Paul Rivera's player]
+[Speaker Key: DM = Dungeon Master (narration, voicing Prince Jeon) | PAUL = Paul Revero's player]
 
-DM: Third of Wealsun, in the evening, as Paul Rivera returns to Monmurg on the corsair from the adventure on Helm Island. So, the group returns and docks at the Royal Docks — not normally where these ships dock, but for whatever reason you were given permission, most likely because you were aboard. After docking, an attendant tells you and Jude that you're both wanted for a debrief — Jude with Lord Jamis, and you with Prince Jeon. Lord Jamis doesn't have the authority to debrief you, which is part of why it's split that way — Jeon wants to hear what you observed directly from you. You're led up the private stairway, past several guards, into the palace — your home too — and to Jeon's office. When you enter, he's already there, looking concerned, studying a map of the outer islands, Songmor Bay to the north, Jerly Bay to the south.
+DM: Third of Wealsun, in the evening, as Paul Revero returns to Monmurg on the corsair from the adventure on Helm Island. So, the group returns and docks at the Royal Docks — not normally where these ships dock, but for whatever reason you were given permission, most likely because you were aboard. After docking, an attendant tells you and Jude that you're both wanted for a debrief — Jude with Lord Jamis, and you with Prince Jeon. Lord Jamis doesn't have the authority to debrief you, which is part of why it's split that way — Jeon wants to hear what you observed directly from you. You're led up the private stairway, past several guards, into the palace — your home too — and to Jeon's office. When you enter, he's already there, looking concerned, studying a map of the outer islands, Songmor Bay to the north, Jerly Bay to the south.
 
 DM (as Jeon): Paul — sit down, please.
 
@@ -10,7 +10,7 @@ DM (as Jeon): I've gotten reports that the ship we sent you on was overwhelmed.
 
 PAUL: There were three hundred Marines on that ship — all gone. Maybe a hundred made it off.
 
-DM (as Jeon): And it was the Sahaugin?
+DM (as Jeon): And it was the sahaugin?
 
 PAUL: Yeah, and there were also hobgoblins that had taken over the island.
 
@@ -30,7 +30,7 @@ PAUL: I explained to him: we sailed to the island, ready in case it had been tak
 
 DM: Which one?
 
-PAUL: The southern beacon. We then docked our ship in the harbor — me, Jude, and twenty other Marines got onto the dock, started scouting ahead, and suddenly came under fire from the towers above. We had to storm them. Jude and I thought about turning back, but we looked behind us and saw Sahaugin tearing into the ship, swarming it — everyone left on it was gone. I'm pretty sure it sank in the harbor and everyone aboard died. We stormed inside and got to the barracks. We met up with some Marines stationed on Helm Island who were resisting there — they knew nothing about what had happened to Fairwind.
+PAUL: The southern beacon. We then docked our ship in the harbor — me, Jude, and twenty other Marines got onto the dock, started scouting ahead, and suddenly came under fire from the towers above. We had to storm them. Jude and I thought about turning back, but we looked behind us and saw sahaugin tearing into the ship, swarming it — everyone left on it was gone. I'm pretty sure it sank in the harbor and everyone aboard died. We stormed inside and got to the barracks. We met up with some Marines stationed on Helm Island who were resisting there — they knew nothing about what had happened to Fairwind.
 
 DM (as Jeon): Those were Fairwind's men?
 
@@ -62,11 +62,11 @@ PAUL: I saw them, and we captured one.
 
 DM (as Jeon): Interesting — go on. So you actually witnessed Lord Fairwind talking with them, walking around the same room, making deals. What were they discussing?
 
-PAUL: Removing the powder from the Helm — the substance that keeps the Sahaugin away. And the Toli said something like, "We noticed you took most of it for yourself." I think Fairwind was trying to split off some for himself — that was his angle. He'd removed most of the powder from Helm Island.
+PAUL: Removing the powder from the Helm — the substance that keeps the sahaugin away. And the Toli said something like, "We noticed you took most of it for yourself." I think Fairwind was trying to split off some for himself — that was his angle. He'd removed most of the powder from Helm Island.
 
-DM (as Jeon): And that's how the Sahaugin were able to swarm the island.
+DM (as Jeon): And that's how the sahaugin were able to swarm the island.
 
-PAUL: Right. They said he had four barrels of the stuff. So after we captured Fairwind, I put him under arrest — he made a big fuss about it, tried to claim innocence. We took one Toli alive. We moved down into a secret cave system, previously unknown, along the back coastline behind the keep. We were heading down some stairs along the side of the cave when we got spotted — we killed the Toli prisoner and dumped him over the side into the water, since he was dead weight. Fairwind, while trying to get to the front, pushed me — or got pushed — over the side. I fell into the water; I got pulled back up, but he ended up over the side and escaped. Don't know what happened to him — could be dead, could be alive. We fought our way down, killed the hobgoblins, built a raft, and sailed out of there. We managed to take four barrels with us, enough to keep the Sahaugin off.
+PAUL: Right. They said he had four barrels of the stuff. So after we captured Fairwind, I put him under arrest — he made a big fuss about it, tried to claim innocence. We took one Toli alive. We moved down into a secret cave system, previously unknown, along the back coastline behind the keep. We were heading down some stairs along the side of the cave when we got spotted — we killed the Toli prisoner and dumped him over the side into the water, since he was dead weight. Fairwind, while trying to get to the front, pushed me — or got pushed — over the side. I fell into the water; I got pulled back up, but he ended up over the side and escaped. Don't know what happened to him — could be dead, could be alive. We fought our way down, killed the hobgoblins, built a raft, and sailed out of there. We managed to take four barrels with us, enough to keep the sahaugin off.
 
 DM (as Jeon): How many barrels were there originally?
 
@@ -106,7 +106,7 @@ PAUL: Pretty sure, yeah — there was danger.
 
 DM (as Jeon): They told us not to send any more ships until things were clear. I assume that's why — we got that signal just after you landed, so I assume your ship being attacked is what warned us off, but from what I'm hearing it's all right for us to proceed now.
 
-PAUL: The Sahaugin had — one of the barrels was with us, about—
+PAUL: The sahaugin had — one of the barrels was with us, about—
 
 DM (as Jeon): Like you said, you don't know what happened to those Marines in the barracks. There are probably still hobgoblins on the island.
 
@@ -200,9 +200,9 @@ DM (as Jeon): True — but we're at war with Gradsul right now. Showing him our 
 
 PAUL: So we're just going to let Fairwind get away with it?
 
-DM (as Jeon): I did not say that. I think the first thing I'd like you and Jude to do is figure out where Fairwind has stored his stockpile, and then we strike. He can play his games — we'll play ours. But we do have a ticking clock here — it's only a matter of time before our supply runs out, and in truth, Monmurg is the most exposed to the Sahaugin threat of any of the principalities' holdings.
+DM (as Jeon): I did not say that. I think the first thing I'd like you and Jude to do is figure out where Fairwind has stored his stockpile, and then we strike. He can play his games — we'll play ours. But we do have a ticking clock here — it's only a matter of time before our supply runs out, and in truth, Monmurg is the most exposed to the sahaugin threat of any of the principalities' holdings.
 
-PAUL: That makes sense — if the Sahaugin could destroy this city, it would only be a matter of time before everything collapses.
+PAUL: That makes sense — if the sahaugin could destroy this city, it would only be a matter of time before everything collapses.
 
 DM (as Jeon): How long does one barrel, once dumped in the water, last?
 

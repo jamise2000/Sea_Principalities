@@ -1,6 +1,6 @@
-[Speaker Key: DM = Dungeon Master (narration, rules calls, voicing nothing — Sahaugin don't speak Common) | TYRUS, GOUGE, PAUL, FOLSOM, MERRICK, JUDE = respective players. NOTE: This is a dense combat encounter against a Sahaugin ambush at the docks. Given the sheer volume of individual attack rolls and damage numbers, this reconstruction preserves the tactical decisions and banter while summarizing repetitive dice-roll exchanges rather than transcribing every single number called out.]
+[Speaker Key: DM = Dungeon Master (narration, rules calls, voicing nothing — sahaugin don't speak Common) | TYRUS, GOUGE, PAUL, FOLSOM, MERRICK, JUDE = respective players. NOTE: This is a dense combat encounter against a sahaugin ambush at the docks. Given the sheer volume of individual attack rolls and damage numbers, this reconstruction preserves the tactical decisions and banter while summarizing repetitive dice-roll exchanges rather than transcribing every single number called out.]
 
-DM: Okay, so morning light is starting to filter into the cave — sunrise is still about an hour off, so it's around 5 a.m. The four party members start running down the platform toward the beach — Tyrus in front, Gouge beside him, Paul Rivera behind, Folsom bringing up the rear. Jude's on the ballista.
+DM: Okay, so morning light is starting to filter into the cave — sunrise is still about an hour off, so it's around 5 a.m. The four party members start running down the platform toward the beach — Tyrus in front, Gouge beside him, Paul Revero behind, Folsom bringing up the rear. Jude's on the ballista.
 
 JUDE: I'm keeping an eye out to see if Fairwind's swimming around anywhere out here.
 
@@ -22,17 +22,17 @@ DM: I think what Tyrus means is, manning the ballista alone is less effective th
 
 TYRUS: Perfect, we get it loaded and ready.
 
-DM: So you're running down to the docks, and as you arrive, Sahaugin start emerging from the water.
+DM: So you're running down to the docks, and as you arrive, sahaugin start emerging from the water.
 
 GOUGE: Right by the barrels!
 
-DM: I'm thinking three Sahaugin total, right about there.
+DM: I'm thinking three sahaugin total, right about there.
 
 DM: All right, let's begin combat — both of you on overwatch with ranged weapons, ready to fire.
 
 JUDE: I'll target one of the five I can see.
 
-DM: [resolving Jude's shot] That hits — nine points of damage on one of the Sahaugin. Wounded, not down.
+DM: [resolving Jude's shot] That hits — nine points of damage on one of the sahaugin. Wounded, not down.
 
 TYRUS: I'll line up the ballista shot to catch three of them in a row.
 
@@ -40,11 +40,11 @@ DM: [resolving] That's a hit — the ballista does six d10 worth of damage, more
 
 TYRUS: Not bad for a first shot.
 
-DM: Initiative order locks in — Folsom, Gouge, Paul, Merrick, Jude, then the Sahaugin.
+DM: Initiative order locks in — Folsom, Gouge, Paul, Merrick, Jude, then the sahaugin.
 
 FOLSOM: I'll use Vicious Mockery on the one near me.
 
-DM: [rolling the Sahaugin's save] He fails — minor damage, but more importantly, disadvantage on his next attack.
+DM: [rolling the sahaugin's save] He fails — minor damage, but more importantly, disadvantage on his next attack.
 
 FOLSOM: [taunting] You silly fish.
 
@@ -108,7 +108,7 @@ DM: You run up and haul the barrel into your arms — heavy, but manageable. You
 
 PAUL: Toward the water, yes.
 
-DM: One of the Sahaugin attacks Gouge with advantage, sensing blood in the water.
+DM: One of the sahaugin attacks Gouge with advantage, sensing blood in the water.
 
 GOUGE: [taking the hit, using Uncanny Dodge to halve the damage] I'll dodge what I can.
 
@@ -116,13 +116,13 @@ DM: Right — Uncanny Dodge halves incoming damage from a single attack, doesn't
 
 PAUL: [pressing on toward the water with the barrel]
 
-DM: [resolving several more exchanges] Gouge, you're now in a proper slugging match with this Sahaugin.
+DM: [resolving several more exchanges] Gouge, you're now in a proper slugging match with this sahaugin.
 
 GOUGE: Pull him toward the water — I want this fight to end up where the rest of the barrels can be cracked open nearby.
 
 DM: Folsom, Jude — who's going first?
 
-FOLSOM: I'll go — I move in and stab the Sahaugin with my rapier.
+FOLSOM: I'll go — I move in and stab the sahaugin with my rapier.
 
 DM: [resolving] That hits — solid damage, but he's not down yet.
 
@@ -138,7 +138,7 @@ DM: You absolutely can — you're a diviner, so you can sculpt the area to spare
 
 JUDE: Then I'm doing that — last third-level slot, but worth it. I'm in range.
 
-DM: [resolving] All three remaining Sahaugin have to make a dexterity save against your spell DC.
+DM: [resolving] All three remaining sahaugin have to make a dexterity save against your spell DC.
 
 JUDE: [rolling damage] Twenty-nine points of fire damage total.
 
@@ -150,7 +150,7 @@ DM: Third one is also caught directly in it — practically vaporized, collapsin
 
 JUDE: [grimacing] I don't need a bonus action for that — just a thumbs up to the carnage.
 
-DM: Folsom, you're elsewhere on the field; there's still one Sahaugin standing near Gouge, and one further down the beach.
+DM: Folsom, you're elsewhere on the field; there's still one sahaugin standing near Gouge, and one further down the beach.
 
 MERRICK: I'll target the wounded one — he's weaponless and shieldless at this point, no other targets near him for me to worry about with my Horde Breaker ability.
 
@@ -172,7 +172,7 @@ DM: It goes — and remember, this stuff is also explosive under the wrong condi
 
 GOUGE: Fair point — I did mention that a while back, about the barrels being dangerous near fire.
 
-DM: The remaining wounded Sahaugin attacks you with advantage, spear and claw both — [resolving] the spear misses, the claw misses too.
+DM: The remaining wounded sahaugin attacks you with advantage, spear and claw both — [resolving] the spear misses, the claw misses too.
 
 GOUGE: Lucky.
 
@@ -186,17 +186,17 @@ GOUGE: I should probably wash this off.
 
 DM: Probably wise.
 
-DM: Paul, you're up — there's still one Sahaugin lurking, looking sick from the spreading powder in the water.
+DM: Paul, you're up — there's still one sahaugin lurking, looking sick from the spreading powder in the water.
 
 PAUL: I'll sneak attack him while he's distracted.
 
 DM: [resolving] Hit — you stick your dagger into his gut, and he collapses.
 
-DM: All right, you're all standing on the beach now, watching the water for any more movement. About ten seconds pass — nothing at first, then a bloated body surfaces. Then another. Then dozens, popping up out in the cave's open water — Sahaugin corpses, by the look of them. Then a massive shark carcass surfaces too, forty feet long.
+DM: All right, you're all standing on the beach now, watching the water for any more movement. About ten seconds pass — nothing at first, then a bloated body surfaces. Then another. Then dozens, popping up out in the cave's open water — sahaugin corpses, by the look of them. Then a massive shark carcass surfaces too, forty feet long.
 
 GOUGE: That's the same one from before?
 
-DM: Looks to be — somewhere between forty and fifty Sahaugin bodies and at least a dozen sharks end up floating there. If that whole group had attacked at once, you'd have been overwhelmed.
+DM: Looks to be — somewhere between forty and fifty sahaugin bodies and at least a dozen sharks end up floating there. If that whole group had attacked at once, you'd have been overwhelmed.
 
 PAUL: Any sign of Lord Fairwind's body among them?
 

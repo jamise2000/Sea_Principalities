@@ -1,4 +1,4 @@
-[Speaker Key: DM = Dungeon Master (narration, voicing Lord Fairwind) | PAUL = Paul Rivera's player | MERRICK = Merrick's player | GOUGE = Gouge's player | TYRUS = Tyrus's player | JUDE = Jude's player. NOTE: this segment of the recording is heavily fragmented and overlapping; the reconstruction below follows the clear narrative beats (securing Fairwind, his attempted bargaining, the reveal of the powder's true nature, and the decision to push to the lower catacombs) rather than a strict line-by-line transcript, since many individual lines could not be confidently attributed in the source audio.]
+[Speaker Key: DM = Dungeon Master (narration, voicing Lord Fairwind) | PAUL = Paul Revero's player | MERRICK = Merrick's player | GOUGE = Gouge's player | TYRUS = Tyrus's player | JUDE = Jude's player. NOTE: this segment of the recording is heavily fragmented and overlapping; the reconstruction below follows the clear narrative beats (securing Fairwind, his attempted bargaining, the reveal of the powder's true nature, and the decision to push to the lower catacombs) rather than a strict line-by-line transcript, since many individual lines could not be confidently attributed in the source audio.]
 
 DM: Get him over here. Third of Wealsun, early morning, as the party takes the inner sanctum after the battle.
 
@@ -18,7 +18,7 @@ PAUL: [turning to Merrick] You haven't been in here before, right? We need to fi
 
 MERRICK: Got it. There are really two options here: we try to get out of here and bring both prisoners with us, which I don't think we should do — too risky, hauling two captives through a contested area. Or, the other option is to head for the signal tower.
 
-DM (as Fairwind): Is that Paul Rivera? Hey there, Fairwind — you were below my station, young man.
+DM (as Fairwind): Is that Paul Revero? Hey there, Fairwind — you were below my station, young man.
 
 PAUL: Fairwind, you're under arrest by order of Jeon. I'm here as his representative. You've committed treason.
 
@@ -48,11 +48,11 @@ DM: You scan the inner walls — they're enclosed, sealed off in sections.
 
 MERRICK: I'll walk the perimeter, check for other doors, windows, anything like that.
 
-PAUL: [to Fairwind] Speak quickly — how do we drive off the Sahaugin?
+PAUL: [to Fairwind] Speak quickly — how do we drive off the sahaugin?
 
 DM (as Fairwind): That's a state secret — I cannot tell you.
 
-PAUL: The Sahaugin must be repelled — they've already destroyed a ship full of Marines sent here. I'd consider defending your honor in this, but only if we can repel them and reclaim the island.
+PAUL: The sahaugin must be repelled — they've already destroyed a ship full of Marines sent here. I'd consider defending your honor in this, but only if we can repel them and reclaim the island.
 
 DM (as Fairwind): I don't know how to simply make them go away, but the old protection can be reinstated.
 
@@ -78,7 +78,7 @@ DM (as Fairwind): I serve under Lord Jamis and Prince Jeon, same as you—
 
 PAUL: Continue — speaking honestly now will help your case, whatever happens at trial.
 
-DM (as Fairwind): The hobgoblins aren't even the main concern right now — as I said, the Sahaugin can be repelled, and they will be, unless what's stored below in the caverns gets fully packed away and shipped off.
+DM (as Fairwind): The hobgoblins aren't even the main concern right now — as I said, the sahaugin can be repelled, and they will be, unless what's stored below in the caverns gets fully packed away and shipped off.
 
 PAUL: You're clearly not listening to how urgent this is.
 
@@ -86,15 +86,15 @@ JUDE: [aside] Got any more of those fireballs handy? Wait — that ship would go
 
 PAUL: That's the wrong move right now, thank you.
 
-DM (as Fairwind): What needs to be understood is: stored below in the caverns are barrels of a powder, poisonous to the Sahaugin. It's a chemical reaction, not a spell — something you sprinkle in the water around the island. This is how the sea principalities have kept the Sahaugin at bay for over a hundred fifty years. People believe it's a spell, but that's a deliberate lie — a cover so people don't learn the real secret. The Toli have figured it out, though, and they're taking our supply of it right now.
+DM (as Fairwind): What needs to be understood is: stored below in the caverns are barrels of a powder, poisonous to the sahaugin. It's a chemical reaction, not a spell — something you sprinkle in the water around the island. This is how the sea principalities have kept the sahaugin at bay for over a hundred fifty years. People believe it's a spell, but that's a deliberate lie — a cover so people don't learn the real secret. The Toli have figured it out, though, and they're taking our supply of it right now.
 
-PAUL: So the Toli — do they have their own problems with the Sahaugin?
+PAUL: So the Toli — do they have their own problems with the sahaugin?
 
 DM (as Fairwind): I have no idea what the Toli's true motivation is.
 
 PAUL: Fine, whatever — we've long suspected the Toli of being involved with parts of the blockade against Monmurg, beyond just the obvious. But one of their ships is out there right now taking everything.
 
-PAUL: Fairwind's case can be sorted out by the princes later — that's beyond what we can resolve right now. What's within our grasp is dealing with the Sahaugin and reclaiming this island. We have to secure it.
+PAUL: Fairwind's case can be sorted out by the princes later — that's beyond what we can resolve right now. What's within our grasp is dealing with the sahaugin and reclaiming this island. We have to secure it.
 
 MERRICK: Where are the hobgoblins coming from?
 
@@ -116,9 +116,9 @@ PAUL: All that matters right now is protecting Monmurg, and to do that, we have 
 
 MERRICK: Absolutely. I think we should head to the signal tower — it can be seen from Monmurg, and they'll send reinforcements once they see it lit.
 
-PAUL: And we'll warn them about the Sahaugin. Is there any way to reinstate the island's protection so we're not stuck fighting the Sahaugin in the bay and losing troops we can't afford to lose?
+PAUL: And we'll warn them about the sahaugin. Is there any way to reinstate the island's protection so we're not stuck fighting the sahaugin in the bay and losing troops we can't afford to lose?
 
-DM (as Fairwind): One barrel will keep the Sahaugin away for about ten months.
+DM (as Fairwind): One barrel will keep the sahaugin away for about ten months.
 
 PAUL: Then let's move quickly to secure the remaining barrels below — and bring him and the other prisoner with us.
 
@@ -192,7 +192,7 @@ JUDE: Okay, good — I know exactly what I'm dealing with then. The problem is, 
 
 PAUL: I get that.
 
-JUDE: This is between me, him, and Jeon, ultimately — but let's get the powder secured regardless. Even if the princes end up trusting his version more than mine in the long run, it doesn't matter right now — we need to secure the supply and get the Sahaugin out of these waters.
+JUDE: This is between me, him, and Jeon, ultimately — but let's get the powder secured regardless. Even if the princes end up trusting his version more than mine in the long run, it doesn't matter right now — we need to secure the supply and get the sahaugin out of these waters.
 
 PAUL: Agreed.
 

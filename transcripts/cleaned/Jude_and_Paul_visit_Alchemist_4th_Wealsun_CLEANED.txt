@@ -1,6 +1,6 @@
-[Speaker Key: DM = Dungeon Master (narration, voicing the Alchemist) | JUDE = Jude's player | PAUL = Paul Rivera's player]
+[Speaker Key: DM = Dungeon Master (narration, voicing the Alchemist) | JUDE = Jude's player | PAUL = Paul Revero's player]
 
-DM: Fourth of Wealsun. Jude and Paul Rivera leave the Royal Palace in the evening, walking down the hill toward the foreign district — about a thirty-minute walk. They pass through two gates, one out of the palace grounds, just before they close behind them as the sun goes down. They walk through the common district into the foreign district, and the smell hits them — both of you know this place. In fact, this is the same path Paul took when he was attacked.
+DM: Fourth of Wealsun. Jude and Paul Revero leave the Royal Palace in the evening, walking down the hill toward the foreign district — about a thirty-minute walk. They pass through two gates, one out of the palace grounds, just before they close behind them as the sun goes down. They walk through the common district into the foreign district, and the smell hits them — both of you know this place. In fact, this is the same path Paul took when he was attacked.
 
 PAUL: Smells like home.
 
@@ -44,11 +44,11 @@ PAUL: Paul.
 
 DM (as the Alchemist): Paul...?
 
-PAUL: Paul Rivera.
+PAUL: Paul Revero.
 
-DM (as the Alchemist): Oh, shit — I mean — Paul Rivera. What does Prince Jeon want with me?
+DM (as the Alchemist): Oh, shit — I mean — Paul Revero. What does Prince Jeon want with me?
 
-JUDE: No, no, don't think of it like that — Paul Rivera is my student.
+JUDE: No, no, don't think of it like that — Paul Revero is my student.
 
 DM (as the Alchemist): It's not like that?
 
@@ -64,7 +64,7 @@ JUDE: The recipe — I believe you have the recipe. I was wondering what you've 
 
 DM (as the Alchemist): I have information for you.
 
-JUDE: What do you know? [to Paul] And he's interested in Paul Rivera too — tell him.
+JUDE: What do you know? [to Paul] And he's interested in Paul Revero too — tell him.
 
 PAUL: I don't think that's what he's asking.
 
@@ -76,9 +76,9 @@ DM (as the Alchemist): Come in. Be respectful — don't touch anything.
 
 DM: You walk into a room cluttered with curiosities everywhere. He shuts the door behind you. This guy is obviously human, but very old, hunched over, wearing a robe, with strange monocles — what you'd call glasses. You've seen them in the royal courts, but these aren't the kind those people wear — they have some kind of effect, maybe an extra lens.
 
-DM (as the Alchemist): Paul — sorry, I should not call you by your first name, but I do not know your family name, sir. "Rivera" is not your family's actual name, is it? I know a little of your family's history.
+DM (as the Alchemist): Paul — sorry, I should not call you by your first name, but I do not know your family name, sir. "Revero" is not your family's actual name, is it? I know a little of your family's history.
 
-PAUL: I go by Rivera.
+PAUL: I go by Revero.
 
 DM (as the Alchemist): Is that a given name? You don't use the name Azane?
 
@@ -98,7 +98,7 @@ JUDE: We gave him a sample, remember, of the material taken from — was it Helm
 
 DM: Helm — yes, on Helm Island, during that adventure with all that material.
 
-JUDE: Remember the Sahaugin, and those creatures, and what specifically protects Helm Island — it's that material. We took some, and I asked him to analyze it.
+JUDE: Remember the sahaugin, and those creatures, and what specifically protects Helm Island — it's that material. We took some, and I asked him to analyze it.
 
 DM (as the Alchemist): Copper and sulfur — combined in a way that's very strange, very new to me.
 
@@ -152,11 +152,11 @@ DM (as the Alchemist): No. That's what Jeon was saying too. I thought I had some
 
 PAUL: [to Jude] So, why is this so important that we make or reproduce it? [to DM, breaking briefly] You're asking the DM, right?
 
-JUDE: No, I'm asking him. Well, you know what — it's to keep the Sahaugin back.
+JUDE: No, I'm asking him. Well, you know what — it's to keep the sahaugin back.
 
-PAUL: The Sahaugin get killed by it?
+PAUL: The sahaugin get killed by it?
 
-JUDE: Yeah, and so the sea principalities use it to make sure the Sahaugin stay away.
+JUDE: Yeah, and so the sea principalities use it to make sure the sahaugin stay away.
 
 PAUL: And it's such a finite amount that they have to sprinkle it carefully.
 
@@ -192,11 +192,11 @@ DM (as the Alchemist): This is an interesting problem — I would like to help. 
 
 JUDE: Not all of them — sorry.
 
-DM (as the Alchemist): No, that makes sense — that's the reason the Sahaugin haven't bothered the sea principalities. Ah — this is the magical "shield" I'd always wondered about. This answers so many questions.
+DM (as the Alchemist): No, that makes sense — that's the reason the sahaugin haven't bothered the sea principalities. Ah — this is the magical "shield" I'd always wondered about. This answers so many questions.
 
 JUDE: I mean — are we allowed to know this?
 
-DM (as the Alchemist): Am I not allowed to tell you? No — but through you, yes. Do you understand? I understand that if Paul Rivera is here, he is protected — is that correct?
+DM (as the Alchemist): Am I not allowed to tell you? No — but through you, yes. Do you understand? I understand that if Paul Revero is here, he is protected — is that correct?
 
 JUDE: Yes.
 
@@ -280,6 +280,6 @@ PAUL: All right — you go ahead and stay here with him; I know how to get back.
 
 JUDE: Yeah, okay.
 
-DM: Paul Rivera heads back to the palace.
+DM: Paul Revero heads back to the palace.
 
 JUDE: All right — I can step out here, then.

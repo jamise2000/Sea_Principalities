@@ -71,8 +71,8 @@
 [SPEAKER_01]: What did you call them?
 [SPEAKER_02]: The shark people?
 [SPEAKER_02]: Sahaugin?
-[SPEAKER_02]: The Sahaugin.
-[SPEAKER_02]: So, because we're up against the Sahaugin, we'll send one troop here, or, well, maybe a squad of five.
+[SPEAKER_02]: The sahaugin.
+[SPEAKER_02]: So, because we're up against the sahaugin, we'll send one troop here, or, well, maybe a squad of five.
 [SPEAKER_02]: Five guys.
 [SPEAKER_01]: The garrison come in and goes, who is this man?
 [SPEAKER_01]: He's an advisor of mine.

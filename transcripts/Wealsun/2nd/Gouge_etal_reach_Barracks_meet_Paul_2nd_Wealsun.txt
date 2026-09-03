@@ -40,7 +40,7 @@
 [SPEAKER_01]: I'm sure you know the situation here.
 [SPEAKER_01]: No, we don't.
 [SPEAKER_01]: No, okay.
-[SPEAKER_01]: Well, the Sahaugin have
+[SPEAKER_01]: Well, the sahaugin have
 [SPEAKER_01]: Surrounded us, there's not much else to go around, and we have reasonably that there is at least 300 to 250 hobgoblins around on this island alone.
 [SPEAKER_01]: And we have devised a plan we can clean, enjoy, and what was the captain's name?
 [SPEAKER_04]: The captain?
@@ -156,7 +156,7 @@
 [SPEAKER_01]: If we can get to the wall undetected, that's the first step.
 [SPEAKER_05]: And from there, Merrick and I can...
 [SPEAKER_00A]: See if we can find the entrance going that direction.
-[SPEAKER_00A]: You should be able to tell whether or not you've got Sahaugin out there.
+[SPEAKER_00A]: You should be able to tell whether or not you've got sahaugin out there.
 [SPEAKER_02B]: I'm very familiar with the coastline, so the way we came in is I kind of led the pack searching out first, making sure everything was okay.
 [SPEAKER_02B]: We can go out the back, look for, and I'm familiar with these coastlines really well.
 [SPEAKER_02B]: Go out the back and if I see sahaugin, I can cast some fog to distract either so they can't see us and we can go back or keep moving forward.
@@ -201,7 +201,7 @@
 [SPEAKER_03]: Yeah, I want to wait here.
 [SPEAKER_02B]: I don't know.
 [SPEAKER_02B]: Anybody know?
-[SPEAKER_04]: Can Sahaugin see it late?
+[SPEAKER_04]: Can sahaugin see it late?
 [SPEAKER_04]: Do a Arcana.
 [SPEAKER_04]: Actually, it's not.
 [SPEAKER_04]: It's an Arcana check.

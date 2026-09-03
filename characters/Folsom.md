@@ -1,6 +1,6 @@
 # Folsom
 
-A towering Marine bard from Monmurg — shipwright's son turned navy songsmith, all voice and good cheer and terrible timing. He can charm a hobgoblin or a lord with a word, and empty a barroom with a song, sometimes in the same night.
+A towering Marine bard from Monmurg — shipwright's son turned navy songsmith, all voice and good cheer and terrible timing. He can charm a hobgoblin or a lord with a word, empty a barroom with a song, and — through the same bardic gift — cure wounds, mending his companions' hurts in the thick of a fight.
 
 ## Physical Description
 

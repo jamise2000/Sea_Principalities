@@ -1,4 +1,4 @@
-# Paul Rivera
+# Paul Revero
 
 The masked nephew of Prince Jeon of Monmurg — a self-taught mage raised behind palace walls, sent out into the world to represent his uncle and to learn the arcane arts at Jude's hand. Quiet, lethal, and hungry to prove he is worth more than the family that hides him believes.
 
@@ -6,7 +6,7 @@ The masked nephew of Prince Jeon of Monmurg — a self-taught mage raised behind
 
 Paul is human, though a stranger might not be sure at first, because his face is never bare. He wears a mask at all times — a piece uncommon enough that Jude mistakes it for a monk's craft and cannot stop asking after it. Paul deflects every time: he is not affiliated with the monks, he simply bought it, secondhand, and it is "comfortable." No one in the party has seen him without it. Beneath it he is disfigured, horribly burned as a young child when one of his father's large magical experiments went wrong — not disease, but fire. The mask is not vanity; it is the face he has decided the world will get.
 
-He is young and built in his uncle Jeon's mold — a strapping Oeridian, not bulky, carrying the frame of a man who hasn't yet fully filled out but could. He does not dress or move like a soldier despite wearing the Marine uniform when the mission calls for it. He favors a longbow, and he is quick and accurate with it — in a chance street ambush he put an arrow clean through a mugger's neck before the man could close. He has no darkvision, a small thing he is careful to work around.
+He is young and built in his uncle Jeon's mold — a strapping Oeridian, not bulky, carrying the frame of a man who hasn't yet fully filled out but could. He does not dress or move like a soldier despite wearing the Marine uniform when the mission calls for it. He favors a light crossbow, keeping his distance and picking his shots — in a chance street ambush he put a bolt clean through a mugger's throat before the man could close — and falls back on a short sword when something reaches melee range. He has no darkvision, a small thing he is careful to work around.
 
 ## History
 
@@ -14,7 +14,7 @@ Paul is the nephew of Prince Jeon of Monmurg, through his mother's line, which m
 
 His mother is the shaping force of his life and long dead — she died when he was young, but by the time he was ten she had given him a rigorous, genuine education, a curriculum sharper than most royal tutors or the academies of Keoland could offer, and an appetite for knowledge to go with it. His father, whose identity few people know, was a wizard; it was that man's experiment that scarred Paul, and Paul's paternal grandmother was herself brilliant and magical. Arcane talent, and its dangers, are his inheritance from both sides.
 
-Left to his own devices, Paul taught himself real magic. He built a homunculus with his own hands — a small clay lizard, black and quick, that glides from surface to surface and through which he can see, hear, and even smell at a distance. Creating one unaided is a rare and difficult feat, and it startles Jude when he learns Paul managed it alone.
+Left to his own devices, Paul taught himself real magic. He built a homunculus with his own hands — a small clay lizard, black and quick, no bigger than a large rat and easily palmed or slipped into a coat pocket, that glides from surface to surface and through which he can see, hear, and even smell at a distance. (Size is canon at roughly a large rat — small enough to hide on his person; keep it this scale, not larger, in any scene it appears.) Creating one unaided is a rare and difficult feat, and it startles Jude when he learns Paul managed it alone.
 
 At the story's opening he is drawn into the crisis by a clumsy robbery: two thugs jump him in the foreign trade district, he kills one and takes the other alive in his dungeon. Partnered with Jude under Jamis's arrangement, he sails to Helm Island as Prince Jeon's personal representative. There, scouting ahead with his homunculus, he becomes the sole direct witness to Lord Fairwind's treason — overhearing Fairwind bargain with Toli agents over the siphoned anti-sahaugin powder. He captures a Toli, survives a fall into the sea caves as Fairwind escapes over the side, and rafts out with four salvaged barrels. He reports the betrayal privately to Prince Jeon, and at Jeon's insistence becomes Jude's pupil in the arcane arts, taking his first real steps as a wizard.
 

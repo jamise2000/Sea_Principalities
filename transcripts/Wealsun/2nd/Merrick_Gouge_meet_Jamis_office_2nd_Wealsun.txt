@@ -99,7 +99,7 @@
 [SPEAKER_00]: Now, you don't go into the council room with Lord Fairwind and talk to him.
 [SPEAKER_00]: He's way too high for that.
 [SPEAKER_00]: But you haven't seen anything like...
-[SPEAKER_00]: You know, Sahaugin tracks on the beach or anything like that.
+[SPEAKER_00]: You know, sahaugin tracks on the beach or anything like that.
 [SPEAKER_02]: No rumors amongst the crews and the people.
 [SPEAKER_00]: Well, the rumors among the crews are very, very interesting to you in that they are basically like, why aren't we going out there and kicking the shit out of the Keogh Navy?
 [SPEAKER_00]: You know, we could easily destroy these guys if we wanted to.

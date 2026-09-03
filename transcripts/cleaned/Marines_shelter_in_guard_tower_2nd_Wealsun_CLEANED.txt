@@ -1,4 +1,4 @@
-[Speaker Key: DM = Dungeon Master (narration, rules calls, voicing the sergeant and a wounded hobgoblin prisoner) | TYRUS, GOUGE, FOLSOM, MERRICK = respective players. NOTE: This is an extended, chaotic siege sequence — the squad takes a guard tower, signals a corsair offshore using improvised chemistry, then watches helplessly as Paul Rivera's landing party gets overwhelmed by a Sahaugin assault near the docks. Given the density of overlapping, fragmented dialogue, this reconstruction focuses on clear tactical decisions and narrative beats.]
+[Speaker Key: DM = Dungeon Master (narration, rules calls, voicing the sergeant and a wounded hobgoblin prisoner) | TYRUS, GOUGE, FOLSOM, MERRICK = respective players. NOTE: This is an extended, chaotic siege sequence — the squad takes a guard tower, signals a corsair offshore using improvised chemistry, then watches helplessly as Paul Revero's landing party gets overwhelmed by a sahaugin assault near the docks. Given the density of overlapping, fragmented dialogue, this reconstruction focuses on clear tactical decisions and narrative beats.]
 
 DM: Late afternoon on the second of Wealsun, a bit after 4:30. The hobgoblins fire bolts down into the yard, killing three of the Marines before anyone can retrieve the bodies — three dead, seventeen left in your squad of twenty. None of your archers are wounded, though several others are. The archers take positions on the second floor, ready to fire on anyone emerging, but staying hidden themselves. It's become something of a stalemate — neither side able to leave the cover of their respective buildings.
 
@@ -86,9 +86,9 @@ FOLSOM: [rolling] Sixteen total.
 
 DM: You find some phosphorus in your kit — combined with metal filings, you could create a distinctly colored flame, useful as a clear signal rather than just an ordinary fire arrow.
 
-FOLSOM: I'll scrape some metal off one of the hobgoblin swords for filings.
+FOLSOM: I've got a twist of copper filings in my kit already — that'll give it color.
 
-DM: [resolving the improvised signal-making] You mix phosphorus with the scraped nickel filings, wrap it around a bolt tip, soak a cloth in some of Gouge's "red eye" liquor for good measure, and light it.
+DM: [resolving the improvised signal-making] You mix phosphorus with the scraped copper filings, wrap it around a bolt tip, soak a cloth in some of Gouge's "red eye" liquor for good measure, and light it.
 
 GOUGE: [firing] Up and out toward the ship — not down into the water.
 
@@ -104,7 +104,7 @@ DM: But the ship continues into dock anyway.
 
 TYRUS: That's not what we wanted.
 
-DM: You watch as a squad of Marines is allowed to disembark — and from the glint of sunlight off a mask, you're fairly sure Paul Rivera is among them, marching up from the docks.
+DM: You watch as a squad of Marines is allowed to disembark — and from the glint of sunlight off a mask, you're fairly sure Paul Revero is among them, marching up from the docks.
 
 GOUGE: That's fantastic — and also terrible, since we're supposed to be protecting that guy.
 
@@ -128,11 +128,11 @@ TYRUS: [using Lay on Hands on himself] Back to full.
 
 DM (as sergeant): You can't realistically march out there with archers still active in that other building.
 
-TYRUS: That would be my recommendation regardless, Sergeant — unless you've got a better plan. Our orders are to take the barracks. If Paul Rivera dies out there, is our mission considered complete?
+TYRUS: That would be my recommendation regardless, Sergeant — unless you've got a better plan. Our orders are to take the barracks. If Paul Revero dies out there, is our mission considered complete?
 
 DM (as sergeant): You tell me. I don't see what we can realistically do about it from here — we're nearly a mile from the docks. Even running flat out, it'd take twenty minutes to reach them, and he's got two hundred Marines with him already.
 
-DM: The captain's made his decision — rest while you can; there's nothing more to be done immediately. You watch as the detachment marches down the pier toward the quays — and suddenly, soldiers atop the quay walls open fire on Paul Rivera's unit. You watch the exchange of fire unfold from a distance, completely unable to intervene.
+DM: The captain's made his decision — rest while you can; there's nothing more to be done immediately. You watch as the detachment marches down the pier toward the quays — and suddenly, soldiers atop the quay walls open fire on Paul Revero's unit. You watch the exchange of fire unfold from a distance, completely unable to intervene.
 
 GOUGE: Where exactly are they, relative to us?
 
@@ -146,13 +146,13 @@ GOUGE: Keep watching. Is there any way we can get our archers into position, use
 
 DM: As you watch the battle unfold, strange man-shaped fish creatures begin crawling out of the ocean onto the docks and the ship itself — hundreds of them, swarming aboard.
 
-MERRICK: [recognizing them with dawning horror] That's definitely Sahaugin.
+MERRICK: [recognizing them with dawning horror] That's definitely sahaugin.
 
 DM: Attacking the ship in the bay of the Helm — something that hasn't happened in centuries.
 
 MERRICK: I can't believe it.
 
-DM: You're talking hundreds of them — four to six hundred, easily, swarming the vessel. A burst of fire erupts in response, and the first squad of Marines manages to reach the top of the quay before disappearing from view — your own people, the ones with Paul Rivera. The boat itself, though, becomes completely overwhelmed by the Sahaugin, like ants overrunning prey.
+DM: You're talking hundreds of them — four to six hundred, easily, swarming the vessel. A burst of fire erupts in response, and the first squad of Marines manages to reach the top of the quay before disappearing from view — your own people, the ones with Paul Revero. The boat itself, though, becomes completely overwhelmed by the sahaugin, like ants overrunning prey.
 
 TYRUS: [in disbelief] What the hell is going on with these things — can they even fight on land, move around up here?
 
@@ -170,7 +170,7 @@ GOUGE: We're getting overrun out there. We have to help them somehow.
 
 TYRUS: If it comes down to it — Paul needs to stay protected for political reasons above almost anything else; if it's us or him, obviously we prioritize the mission, but right now our top priority is keeping him alive. The masked elf with him can handle himself, mostly, but if he needs help too, we give it. [to Merrick] Spill whatever you know about this place — now's the time.
 
-MERRICK: I know about the political need to protect Paul, but there's also something magical going on here we were specifically sent to investigate — something's been wrong on this island, and we didn't want to alarm everyone else with it before now. A mysterious fog took over the area a few days ago — nothing like it in all my years as a ranger out here. So it's not just the Sahaugin — someone's been working magic against us too, and unless we can regroup with a solid combined force—
+MERRICK: I know about the political need to protect Paul, but there's also something magical going on here we were specifically sent to investigate — something's been wrong on this island, and we didn't want to alarm everyone else with it before now. A mysterious fog took over the area a few days ago — nothing like it in all my years as a ranger out here. So it's not just the sahaugin — someone's been working magic against us too, and unless we can regroup with a solid combined force—
 
 DM (as sergeant, skeptical): Are the men drunk?
 
@@ -178,7 +178,7 @@ GOUGE: Not yet — but I will be, given the day we're having.
 
 DM (as sergeant): You're talking nonsense.
 
-MERRICK: I haven't seen Sahaugin do this in years — my own father was supposedly killed by hobgoblins, and now this.
+MERRICK: I haven't seen sahaugin do this in years — my own father was supposedly killed by hobgoblins, and now this.
 
 TYRUS: [pacing anxiously] We need fewer fish-people problems and more solid ground under us, frankly.
 
@@ -192,13 +192,13 @@ DM: You bring the sergeant up to speed, watching the boat below get completely o
 
 DM (as sergeant): What do you actually know?
 
-TYRUS: Paul Rivera needs protection for political reasons — we're not running supplies, we're on reconnaissance. We believe he was on that ship, got off with a squad of two hundred Marines, then engaged near the quay — heavy magical fire involved, an elf caster with him. We think he's now somewhere on land, possibly pushing toward the barracks or the Helm itself, though we can't be certain which direction.
+TYRUS: Paul Revero needs protection for political reasons — we're not running supplies, we're on reconnaissance. We believe he was on that ship, got off with a squad of two hundred Marines, then engaged near the quay — heavy magical fire involved, an elf caster with him. We think he's now somewhere on land, possibly pushing toward the barracks or the Helm itself, though we can't be certain which direction.
 
 DM (as sergeant): We've lost both our own ships at this point — we're not going anywhere by sea.
 
 TYRUS: Do you know any safe route from here to there?
 
-DM (as sergeant): The bridge is the safest path, especially with the tide in — the water beneath fills up and discourages the Sahaugin from straying that far from open water; even with the tide out, they'd avoid going up that high regardless, since they hate land travel under any circumstances. We'd want to stick to that bridge route.
+DM (as sergeant): The bridge is the safest path, especially with the tide in — the water beneath fills up and discourages the sahaugin from straying that far from open water; even with the tide out, they'd avoid going up that high regardless, since they hate land travel under any circumstances. We'd want to stick to that bridge route.
 
 The problem is, the garrison currently holding the road that leads to the bridge has a clear line of fire on anyone approaching directly.
 
@@ -216,7 +216,7 @@ FOLSOM: What if we hold here until nightfall instead? It's pushing five now, sun
 
 TYRUS: I could make that trip — stealthy enough to follow without being seen, and it buys me time to heal up properly in the meantime, as long as the rest of you can hold this position against anything else coming up that side.
 
-GOUGE: I don't think those Sahaugin will come up this far, given what we just learned — but we've still got that other approach to watch.
+GOUGE: I don't think those sahaugin will come up this far, given what we just learned — but we've still got that other approach to watch.
 
 TYRUS: I think that's the best plan available to us right now.
 
@@ -248,9 +248,9 @@ DM (as hobgoblin): That tracks with what you're seeing.
 
 TYRUS: What's their actual purpose here, though — why send hobgoblins to this island specifically?
 
-DM: That remains the open question — you've got a prisoner for further interrogation, and a island still largely unaccounted for in terms of remaining hostile numbers, on top of whatever the Sahaugin are doing.
+DM: That remains the open question — you've got a prisoner for further interrogation, and a island still largely unaccounted for in terms of remaining hostile numbers, on top of whatever the sahaugin are doing.
 
-TYRUS: As long as we stay on high ground, we should be relatively safe from the Sahaugin specifically — they'd only come up here if genuinely forced to, with no other route of retreat.
+TYRUS: As long as we stay on high ground, we should be relatively safe from the sahaugin specifically — they'd only come up here if genuinely forced to, with no other route of retreat.
 
 DM: [confirming the gear] You recognize the craftsmanship as distinctly your own nation's style, just recolored — practically identical scale mail, slightly different stylistically, but clearly the same forges.
 

@@ -1,10 +1,10 @@
-[Speaker Key: DM = Dungeon Master (narration, voicing the garrison sergeant/commander) | PAUL = Paul Rivera's player | JUDE = Jude's player]
+[Speaker Key: DM = Dungeon Master (narration, voicing the garrison sergeant/commander) | PAUL = Paul Revero's player | JUDE = Jude's player]
 
 DM: 5:30 p.m. on the second of Wealsun, as Paul and Jude are taken to the barracks by the garrison commander, while the other men are tended to. So you go into this area — to be clear, our twenty men, of whom we lost none to death, at least get bandaged up.
 
 PAUL: They're going to give us a tour, right?
 
-DM: Yeah, right, take a tour. Okay — Paul, you come into the office area, and the sergeant says: "This is Paul Rivera, nephew of Lord Jeon. He's here to speak with Lord Fairwind regarding why we've had no signal from the island since the storm."
+DM: Yeah, right, take a tour. Okay — Paul, you come into the office area, and the sergeant says: "This is Paul Revero, nephew of Lord Jeon. He's here to speak with Lord Fairwind regarding why we've had no signal from the island since the storm."
 
 PAUL: [responding in character] The signal was sent, but it wasn't properly coded. What's happened?
 
@@ -24,7 +24,7 @@ DM (as garrison commander): Is that what they're called?
 
 PAUL: That's what they're called.
 
-DM (as garrison commander): But also, they're coordinating — the Sahaugin have been attacking the ships. In fact, two ships that were in the bay have been sunk.
+DM (as garrison commander): But also, they're coordinating — the sahaugin have been attacking the ships. In fact, two ships that were in the bay have been sunk.
 
 PAUL: Do you have any contact with the eastern lighthouse, or whichever the other one is?
 
@@ -64,9 +64,9 @@ DM (as garrison commander): Who is this man?
 
 PAUL: He's an advisor of mine.
 
-DM (as garrison commander): Let me say some things to you — with the Sahaugin able to attack the island, any movement toward the lighthouses will be very dangerous. They move through the water easily and are swarming around the island — you've seen what they've done in the bay. The truth is, it's strange to me that they'd attack Helm Island — historically they've never come here, not since they were defeated hundreds of years ago. They've left this island alone. It's strange that their activity would shift now —
+DM (as garrison commander): Let me say some things to you — with the sahaugin able to attack the island, any movement toward the lighthouses will be very dangerous. They move through the water easily and are swarming around the island — you've seen what they've done in the bay. The truth is, it's strange to me that they'd attack Helm Island — historically they've never come here, not since they were defeated hundreds of years ago. They've left this island alone. It's strange that their activity would shift now —
 
-JUDE: Unless, given the current climate — the embargo, the isolation — this would be the next logical step, if the island's magical protection against the Sahaugin has weakened. Something's changed.
+JUDE: Unless, given the current climate — the embargo, the isolation — this would be the next logical step, if the island's magical protection against the sahaugin has weakened. Something's changed.
 
 DM (as garrison commander): Yes, you're right.
 
@@ -74,9 +74,9 @@ PAUL: But we can't just sit around doing nothing because of that — we have to 
 
 JUDE: I'm saying whatever we do has to be very careful. We can stay here in the barracks and defend it — these red-faced men won't be able to take it from us. But if we go outside, we'll be slaughtered if we head to the beaches.
 
-PAUL: Are the Sahaugin more of a threat, or the red-faced men?
+PAUL: Are the sahaugin more of a threat, or the red-faced men?
 
-DM (as garrison commander): The Sahaugin are much more dangerous — there are far more of them. The red-faced men came off the boat, and from what we've seen, there aren't more than about a hundred of them on the island.
+DM (as garrison commander): The sahaugin are much more dangerous — there are far more of them. The red-faced men came off the boat, and from what we've seen, there aren't more than about a hundred of them on the island.
 
 JUDE: Okay, theoretically — I've seen one of the lighthouses. Could I cast a fireball, like I did on that one tower, and theoretically incinerate everyone inside?
 
@@ -102,7 +102,7 @@ JUDE: So if they had people at the base, and I hit the base, the upper floors wo
 
 DM: Right.
 
-DM (as garrison commander): For now, we need to heal up and rest. Do you have any way to signal? You have no troops controlling any of the other towers — all of them have been taken over by the enemy, and I don't think it's the red-faced men, the hobgoblins, who did it — it's the Sahaugin who took them, or the hobgoblins came off that boat I mentioned that came into the bay during the attack.
+DM (as garrison commander): For now, we need to heal up and rest. Do you have any way to signal? You have no troops controlling any of the other towers — all of them have been taken over by the enemy, and I don't think it's the red-faced men, the hobgoblins, who did it — it's the sahaugin who took them, or the hobgoblins came off that boat I mentioned that came into the bay during the attack.
 
 PAUL: Okay — where are the other two towers? Do they have any way to signal at all from the barracks?
 
@@ -130,7 +130,7 @@ DM (as garrison commander): Good plan — that's all I've got, not much else to 
 
 PAUL: Yes.
 
-DM (as garrison commander): We'll get you food. We're safe here for now — the Sahaugin won't climb the walls, and the hobgoblins aren't numerous enough to take this place from us.
+DM (as garrison commander): We'll get you food. We're safe here for now — the sahaugin won't climb the walls, and the hobgoblins aren't numerous enough to take this place from us.
 
 JUDE: I'm an elven mage — I just need four hours to meditate and regain my spells.
 

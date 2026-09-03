@@ -1257,3 +1257,18 @@ night, risking a wreck on the island chain
 known as The Scimitars. The saying has come
 to mean taking an ill-advised risk for no
 discernable gain.
+
+---
+
+## Note — The Amedio Jungle (geography and the slave trade)
+
+The **Amedio Jungle** lies **southeast of the Sea Principalities**, across the Azure Sea. It is the source of the region's slave trade: Toli raiders (and other Sea Prince expeditions) sail there for gold, ivory, and — above all — captives taken from the jungle tribes, the bulk of Toli wealth. Prince Jeon of Monmurg has campaigned for years to end that trade throughout the Principalities, which is precisely the leverage the Duke of Berghof and the Toli use against him — throttling the anti-sahaugin powder and pressing him toward ruin (see `characters/Jeon.md`, `characters/Jamis.md`, `characters/Fairwind.md`; Ch. 43).
+
+**Spelling:** it is the **Amedio** Jungle throughout (as in Ch. 4 and the setting references above) — not "Mediko."
+
+## The title of Plar (reference note)
+
+A **Plar** is a noble title of this world for a ruler set over a foreign — and usually conquered — people, governing them on behalf of the power that appointed him rather than ruling his own folk by hereditary right. A Plar's domain is a **Plardom**. Known Plars:
+
+- The **Plar of Hokar** and the **Plar of Westkeep** — the two Plars who sit in council alongside the five Sea Princes of the Hold (the Plar of Westkeep also holds command of the nation's standing army). Both are Plardoms *within the Principalities*.
+- The **Plar of Salinmoor**, **Lord Gloin Baywin** — on the Keoland side of the water, the Duke of Gradsul's appointed overlord of the border province of Salinmoor. This is the Keolandish commander the smuggler Owen Black calls "the power of Baywin" (see `Guide_to_Salinmoor.md`, `characters/Owen_Black.md`).

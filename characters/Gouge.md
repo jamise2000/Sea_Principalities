@@ -4,9 +4,9 @@ Lord Jamis's knife-man — a Monmurg-born assassin and informant risen from pick
 
 ## Physical Description
 
-The sources say less about Gouge's face than about the effect he has on a room, and that is the truer measure of him. His reputation arrives before he does: the moment he steps into the Helm barracks, the garrison captain marks him on sight — "you must be him, given the reputation" — and Paul Rivera, who has never met the man, asks for "the Gouge I've heard about." He is a killer by build and bearing, described plainly as a man made to kill: he can slit a throat and return the knife to your hand before you feel it gone.
+The sources say less about Gouge's face than about the effect he has on a room, and that is the truer measure of him. His reputation arrives before he does: the moment he steps into the Helm barracks, the garrison captain marks him on sight — "you must be him, given the reputation" — and Paul Revero, who has never met the man, asks for "the Gouge I've heard about." He is a killer by build and bearing, described plainly as a man made to kill: he can slit a throat and return the knife to your hand before you feel it gone.
 
-He is a native Monmurgian, hardened first by the foreign district's streets and then by years at sea as a privateer, and he carries himself with the unhurried economy of someone who has never needed to prove anything twice. A veteran of the "weather crossbowmen," he fights with both blade and crossbow and is equally at ease with either. On the Helm mission he wears the Marine uniform like the rest, but no one mistakes him for standard-issue — the disguise is a tool, not a costume.
+He is a native Monmurgian, hardened first by the foreign district's streets and then by years at sea as a privateer, and he carries himself with the unhurried economy of someone who has never needed to prove anything twice. A veteran of the "weather crossbowmen," he fights with both blade and crossbow and is equally at ease with either — his blade a cutlass, a pirate's scimitar, paired with a dagger in close work. On the Helm mission he wears the Marine uniform like the rest, but no one mistakes him for standard-issue — the disguise is a tool, not a costume.
 
 ## History
 

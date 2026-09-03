@@ -1,4 +1,4 @@
-[Speaker Key: DM = Dungeon Master (narration) | JUDE = Jude's player (interrupted mid-meditation) | PAUL = Paul Rivera's player | GOUGE = Gouge's player, arriving with his own scout (a Ranger companion, unnamed here). NOTE: the source recording is heavily garbled in places, especially toward the end where the group checks how many of Jude's spell slots he recovered before being interrupted; that stretch has been summarized rather than transcribed line-for-line, and a short off-topic joke about a woman in the barracks has been trimmed as it carries no narrative content.]
+[Speaker Key: DM = Dungeon Master (narration) | JUDE = Jude's player (interrupted mid-meditation) | PAUL = Paul Revero's player | GOUGE = Gouge's player, arriving with his own scout (a Ranger companion, unnamed here). NOTE: the source recording is heavily garbled in places, especially toward the end where the group checks how many of Jude's spell slots he recovered before being interrupted; that stretch has been summarized rather than transcribed line-for-line, and a short off-topic joke about a woman in the barracks has been trimmed as it carries no narrative content.]
 
 DM: Second of Wealsun, 11:30 p.m. Jude, deep in meditation trying to recover spell slots, is interrupted by the arrival of Paul and Gouge.
 
@@ -54,7 +54,7 @@ PAUL: You think Fairwind's compromised?
 
 GOUGE: I suspect it. He may have broken the protective spell himself.
 
-JUDE: Because of the Sahaugin? Or something else?
+JUDE: Because of the sahaugin? Or something else?
 
 GOUGE: No hard evidence — but the suspicion runs high. I have my own instructions on this.
 
@@ -68,7 +68,7 @@ GOUGE: I was sent to bring him in, not kill him — that's the difference. If it
 
 PAUL: So — can we take him alive?
 
-GOUGE: We're going to have to. If he's turned, that's a political disaster either way, and we need him as a prisoner — someone who can tell us how to undo whatever's broken, and re-establish the wards. First step's getting the Sahaugin away from the island.
+GOUGE: We're going to have to. If he's turned, that's a political disaster either way, and we need him as a prisoner — someone who can tell us how to undo whatever's broken, and re-establish the wards. First step's getting the sahaugin away from the island.
 
 JUDE: Why are they even here? That protection's held for centuries.
 

@@ -1,6 +1,6 @@
-[Speaker Key: DM = Dungeon Master (narration, occasional rules calls) | JUDE = Jude's player | PAUL = Paul Rivera's player]
+[Speaker Key: DM = Dungeon Master (narration, occasional rules calls) | JUDE = Jude's player | PAUL = Paul Revero's player]
 
-DM: Sometime after the 3rd of Wealsun, Jude and Paul Rivera get a chance to connect and discuss what happened on Helm Island, and what they've learned since returning.
+DM: Sometime after the 3rd of Wealsun, Jude and Paul Revero get a chance to connect and discuss what happened on Helm Island, and what they've learned since returning.
 
 JUDE: I'm not sure we should have killed Lord Fairwind — though maybe it's moot now. I don't know if Jeon and Fairwind could have worked things out otherwise.
 
@@ -158,11 +158,11 @@ JUDE: Another wizard's apparently been brought in to help with relief efforts. S
 
 PAUL: Fine by me, if we haven't been requested.
 
-JUDE: Do you remember when I was cutting gills off that Sahaugin earlier?
+JUDE: Do you remember when I was cutting gills off that sahaugin earlier?
 
 PAUL: Yeah.
 
-JUDE: I originally thought I could use them for a potion of water-breathing, but on the sail back I realized the gills might actually hold residue from the chemical itself — worth examining, since the substance clearly killed that Sahaugin, and a forty-foot shark, and eight or ten more right there in that cove. Potency's not in question.
+JUDE: I originally thought I could use them for a potion of water-breathing, but on the sail back I realized the gills might actually hold residue from the chemical itself — worth examining, since the substance clearly killed that sahaugin, and a forty-foot shark, and eight or ten more right there in that cove. Potency's not in question.
 
 PAUL: One barrel apparently covers the entire stretch around Monmurg, too — good spread.
 
@@ -200,13 +200,13 @@ PAUL: Right, nothing about that specifically here, just between us. But before I
 
 JUDE: Will do. Because here's the thing — Fairwind could blame the Toli for everything, which was Jamis's suspicion. Meaning he's still primarily serving his own interests, just under cover of working with them. He wants more power, that's my read.
 
-PAUL: So, getting back to the real question — Jamis wants to know: after the Helm was properly seeded with the powder, why was the Sea Ghost able to get in and let the Sahaugin do their thing? Was it because Fairwind seeded it improperly, was a counter-agent used, or did the Sahaugin somehow overcome it on their own?
+PAUL: So, getting back to the real question — Jamis wants to know: after the Helm was properly seeded with the powder, why was the Sea Ghost able to get in and let the sahaugin do their thing? Was it because Fairwind seeded it improperly, was a counter-agent used, or did the sahaugin somehow overcome it on their own?
 
-JUDE: The Sahaugin overcoming it themselves doesn't track — they died en masse when it was reapplied. The only odd detail is, in the day or two before we left, the light signals from the Helm weren't matching the right codes.
+JUDE: The sahaugin overcoming it themselves doesn't track — they died en masse when it was reapplied. The only odd detail is, in the day or two before we left, the light signals from the Helm weren't matching the right codes.
 
-PAUL: This powder only stays effective a day or two — did the Sahaugin just wait it out?
+PAUL: This powder only stays effective a day or two — did the sahaugin just wait it out?
 
-JUDE: No — the Sahaugin actually came in under cover of that unnatural fog, seizing the citadel itself. By taking the citadel, they likely interfered with the powder application directly, which also explains the mismatched signal codes.
+JUDE: No — the sahaugin actually came in under cover of that unnatural fog, seizing the citadel itself. By taking the citadel, they likely interfered with the powder application directly, which also explains the mismatched signal codes.
 
 PAUL: Interestingly, if Fairwind was working that closely with the Toli, why would the signal codes be wrong at all — wouldn't he know the proper countersign?
 
@@ -370,7 +370,7 @@ JUDE: Bastard children are a great starting point, honestly.
 
 PAUL: [surprised] What — what do you even say to them?
 
-JUDE: [pointed] Paul Rivera is a bastard himself, in case that point's been missed.
+JUDE: [pointed] Paul Revero is a bastard himself, in case that point's been missed.
 
 PAUL: [taken aback, but listening]
 
@@ -412,7 +412,7 @@ JUDE: The heads of the royal apartments and keep — they've usually settled com
 
 DM: [aside] What Jude's describing, essentially, is helping Paul build his own shadow network of loyal subordinates — beneath the castellans and captains, not replacing them outright, but cultivating the lieutenants and sergeants beneath them.
 
-JUDE: Look for the underappreciated ones — the intelligent lieutenant who provides genuinely valuable input in meetings but gets slightly dismissed by his own captain. Or the sergeant who does excellent work but doesn't flatter his superiors, so he's taken for granted rather than promoted. You're a prince's family member, and Jeon himself has no heir yet — he's still relatively young, unmarried — so realistically, you could end up in a position of real power someday. People like that may quietly start thinking: maybe Paul Rivera is the one who eventually elevates me, whether to head of the dungeons, or chief merchant of the trade district, or wherever their talents lie.
+JUDE: Look for the underappreciated ones — the intelligent lieutenant who provides genuinely valuable input in meetings but gets slightly dismissed by his own captain. Or the sergeant who does excellent work but doesn't flatter his superiors, so he's taken for granted rather than promoted. You're a prince's family member, and Jeon himself has no heir yet — he's still relatively young, unmarried — so realistically, you could end up in a position of real power someday. People like that may quietly start thinking: maybe Paul Revero is the one who eventually elevates me, whether to head of the dungeons, or chief merchant of the trade district, or wherever their talents lie.
 
 What I'm saying is: build your own infrastructure. Find the unappreciated, competent people — not the ones already openly resentful, but the quietly capable ones who are smart enough to keep their frustration hidden.
 

@@ -1,4 +1,4 @@
-[Speaker Key: DM = Dungeon Master (narration, rules calls) | JUDE = Jude's player | PAUL = Paul Rivera's player. NOTE: This is an extremely dense combat encounter against multiple Sahaugin near the docks, with heavy back-to-back dice-roll exchanges. The reconstruction below preserves tactical decisions, banter, and key narrative beats; repetitive numeric exchanges are summarized rather than transcribed individually.]
+[Speaker Key: DM = Dungeon Master (narration, rules calls) | JUDE = Jude's player | PAUL = Paul Revero's player. NOTE: This is an extremely dense combat encounter against multiple sahaugin near the docks, with heavy back-to-back dice-roll exchanges. The reconstruction below preserves tactical decisions, banter, and key narrative beats; repetitive numeric exchanges are summarized rather than transcribed individually.]
 
 DM: Second of Wealsun — Jude and Paul rush back toward the docks as they see their ship under attack.
 
@@ -28,7 +28,7 @@ DM: Deeper down the dock, you see more of them climbing out of the water, righti
 
 JUDE: Great.
 
-DM: Initiative — Jude twenty-five, the Sahaugin various, Paul fourteen.
+DM: Initiative — Jude twenty-five, the sahaugin various, Paul fourteen.
 
 DM: Jude, you're up first.
 
@@ -42,7 +42,7 @@ DM: At least three, with more crawling onto the docks on either side.
 
 JUDE: Not worth it.
 
-DM: You realize — the only reason your men were able to push over the wall earlier was because you blew away the front line of hobgoblins for them. This ambush has them caught between hobgoblins shooting down from above and Sahaugin climbing out of the water like a bamboo trap snapping shut.
+DM: You realize — the only reason your men were able to push over the wall earlier was because you blew away the front line of hobgoblins for them. This ambush has them caught between hobgoblins shooting down from above and sahaugin climbing out of the water like a bamboo trap snapping shut.
 
 JUDE: Let me check Lightning Bolt instead — can I fork it to catch more than one of these things near me?
 
@@ -78,15 +78,15 @@ PAUL: I'll ready my crossbow — if anyone closes to melee range, I shoot.
 
 DM: Okay, you pull back, crossbow ready. One of these creatures charges you with a spear.
 
-PAUL: Wait — is this one of the sea creatures that came out of the water? I've seen Sahaugin before.
+PAUL: Wait — is this one of the sea creatures that came out of the water? I've seen sahaugin before.
 
-DM: Yes — you recognize it as a Sahaugin: a shark-man, able to breathe air for a time and telepathically command sharks to do its bidding.
+DM: Yes — you recognize it as a sahaugin: a shark-man, able to breathe air for a time and telepathically command sharks to do its bidding.
 
 PAUL: Is there a limit to how long it can stay on land?
 
 DM: Roll a check — Nature, or Arcana, whichever applies. With your intelligence bonus—
 
-PAUL: [rolling] I recall reading that Sahaugin can stay above water for extended periods, but not indefinitely — they need to return to the sea eventually. They won't be raiding deep into the city, but they're capable of reaching a fair distance inland on an island like this. They're at a disadvantage away from the coast, though, especially if you can draw the fight onto the beach itself.
+PAUL: [rolling] I recall reading that sahaugin can stay above water for extended periods, but not indefinitely — they need to return to the sea eventually. They won't be raiding deep into the city, but they're capable of reaching a fair distance inland on an island like this. They're at a disadvantage away from the coast, though, especially if you can draw the fight onto the beach itself.
 
 DM: True — though technically the whole island counts as "near the coast."
 
@@ -110,7 +110,7 @@ DM: [resolving] That's a solid hit too — combined, you've put real damage into
 
 JUDE: [muttering] What if it's got some kind of resistance going on?
 
-DM: For reference going forward — instead of exact hit point totals, think in terms of "lightly wounded," "well wounded," or "near death" to describe enemies, since that's typically how this gets tracked at the table. Right now, this Sahaugin would read as well wounded — bleeding, clearly hurt, but not near death yet.
+DM: For reference going forward — instead of exact hit point totals, think in terms of "lightly wounded," "well wounded," or "near death" to describe enemies, since that's typically how this gets tracked at the table. Right now, this sahaugin would read as well wounded — bleeding, clearly hurt, but not near death yet.
 
 JUDE: This isn't great.
 
@@ -186,7 +186,7 @@ DM: Right — sculpt spells. You choose a number of creatures equal to one plus 
 
 JUDE: Perfect — I'll sculpt it around myself and Paul.
 
-DM: Okay, so you drop the fireball right on top of the cluster of Sahaugin, sparing yourselves.
+DM: Okay, so you drop the fireball right on top of the cluster of sahaugin, sparing yourselves.
 
 DM: [rolling damage] Total comes out to thirty-one points of fire damage across the group.
 
@@ -196,7 +196,7 @@ DM: [resolving saves] Two fail outright — they're engulfed and die instantly. 
 
 JUDE: [grimly satisfied] I've got three hit points left and I'm not about to explain to Lord Jamis how I let all these things overrun us.
 
-DM: [resolving final saves] Two of the five Sahaugin die outright in the flames; the others are scorched but still moving, barely.
+DM: [resolving final saves] Two of the five sahaugin die outright in the flames; the others are scorched but still moving, barely.
 
 JUDE: I want to reposition — can I draw their attention away from Paul?
 
@@ -212,7 +212,7 @@ DM: You can dash the rest of the way if you want — the sergeant's unit is abou
 
 PAUL: I'll dash toward them.
 
-DM: Do you want to take a shot at the remaining Sahaugin on your way, or just focus on disengaging cleanly?
+DM: Do you want to take a shot at the remaining sahaugin on your way, or just focus on disengaging cleanly?
 
 PAUL: I need to get off this line first — I haven't taken more damage yet, and I want to keep it that way.
 
@@ -220,7 +220,7 @@ DM: Understood — you reposition off the direct line of attack.
 
 PAUL: [shouting] I'm getting the hell out of here — not fleeing, just repositioning tactically.
 
-DM: [resolving the remaining Sahaugin's turns] One closes in but can't quite reach you after your repositioning.
+DM: [resolving the remaining sahaugin's turns] One closes in but can't quite reach you after your repositioning.
 
 DM: Jude, your turn — want to shoot while falling back, or hold position?
 
@@ -232,7 +232,7 @@ JUDE: Can I call out to the sergeant for support?
 
 DM: Sure — you shout for him.
 
-DM: One of the remaining Sahaugin dashes toward Jude's position but can't quite close the gap after dashing.
+DM: One of the remaining sahaugin dashes toward Jude's position but can't quite close the gap after dashing.
 
 DM: Do you want to take the shot now that he's in range?
 
@@ -260,7 +260,7 @@ DM: [resolving] That's enough — twenty-five points, he falls.
 
 JUDE: I'm backing up thirty feet after that.
 
-DM: Are there more Sahaugin still incoming?
+DM: Are there more sahaugin still incoming?
 
 JUDE: Definitely want to assume so.
 

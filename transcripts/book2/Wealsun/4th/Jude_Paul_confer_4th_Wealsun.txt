@@ -77,9 +77,9 @@
 [SPEAKER_02]: I'm wondering if we need to help Monmurg's troops defeat the hobgoblins directly, or if I should stay here and focus on alchemical research with you.
 [SPEAKER_01]: Another wizard's apparently been brought in to help with relief efforts. So I think Jeon's got that covered without us specifically — might not even need us there anymore.
 [SPEAKER_02]: Fine by me, if we haven't been requested.
-[SPEAKER_01]: Do you remember when I was cutting gills off that Sahaugin earlier?
+[SPEAKER_01]: Do you remember when I was cutting gills off that sahaugin earlier?
 [SPEAKER_02]: Yeah.
-[SPEAKER_01]: I originally thought I could use them for a potion of water-breathing, but on the sail back I realized the gills might actually hold residue from the chemical itself — worth examining, since the substance clearly killed that Sahaugin, and a forty-foot shark, and eight or ten more right there in that cove. Potency's not in question.
+[SPEAKER_01]: I originally thought I could use them for a potion of water-breathing, but on the sail back I realized the gills might actually hold residue from the chemical itself — worth examining, since the substance clearly killed that sahaugin, and a forty-foot shark, and eight or ten more right there in that cove. Potency's not in question.
 [SPEAKER_02]: One barrel apparently covers the entire stretch around Monmurg, too — good spread.
 [SPEAKER_01]: Right — but what Lord Jamis actually asked me to determine is whether there was a counter-agent used against it. If we examine the gills, we might find traces — did the powder cause swelling, did it congeal strangely, or is there residue from something that countered a previous application? Remember, they said it needs reapplication every two days around the Helm.
 [SPEAKER_02]: Do you know the alchemist shop just off the square in the foreign district?
@@ -98,10 +98,10 @@
 [SPEAKER_01]: Remember how Jamis said not to tell anyone certain things—
 [SPEAKER_02]: Right, nothing about that specifically here, just between us. But before I forget, remind me if I get close to oversharing.
 [SPEAKER_01]: Will do. Because here's the thing — Fairwind could blame the Toli for everything, which was Jamis's suspicion. Meaning he's still primarily serving his own interests, just under cover of working with them. He wants more power, that's my read.
-[SPEAKER_02]: So, getting back to the real question — Jamis wants to know: after the Helm was properly seeded with the powder, why was the Sea Ghost able to get in and let the Sahaugin do their thing? Was it because Fairwind seeded it improperly, was a counter-agent used, or did the Sahaugin somehow overcome it on their own?
-[SPEAKER_01]: The Sahaugin overcoming it themselves doesn't track — they died en masse when it was reapplied. The only odd detail is, in the day or two before we left, the light signals from the Helm weren't matching the right codes.
-[SPEAKER_02]: This powder only stays effective a day or two — did the Sahaugin just wait it out?
-[SPEAKER_01]: No — the Sahaugin actually came in under cover of that unnatural fog, seizing the citadel itself. By taking the citadel, they likely interfered with the powder application directly, which also explains the mismatched signal codes.
+[SPEAKER_02]: So, getting back to the real question — Jamis wants to know: after the Helm was properly seeded with the powder, why was the Sea Ghost able to get in and let the sahaugin do their thing? Was it because Fairwind seeded it improperly, was a counter-agent used, or did the sahaugin somehow overcome it on their own?
+[SPEAKER_01]: The sahaugin overcoming it themselves doesn't track — they died en masse when it was reapplied. The only odd detail is, in the day or two before we left, the light signals from the Helm weren't matching the right codes.
+[SPEAKER_02]: This powder only stays effective a day or two — did the sahaugin just wait it out?
+[SPEAKER_01]: No — the sahaugin actually came in under cover of that unnatural fog, seizing the citadel itself. By taking the citadel, they likely interfered with the powder application directly, which also explains the mismatched signal codes.
 [SPEAKER_02]: Interestingly, if Fairwind was working that closely with the Toli, why would the signal codes be wrong at all — wouldn't he know the proper countersign?
 [SPEAKER_00]: Roll an intelligence check, both of you.
 [SPEAKER_01]: [rolling] Thirteen plus five.

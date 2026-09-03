@@ -136,9 +136,9 @@ GOUGE: [confirming, checking spelling] "K-U-D-E"? "U." "K." "S-A-M-E"?
 
 DM: The signaling continues, and the gist of the exchange establishes: the barracks is held by the Monmurgian Navy — a hundred fifty Marines safe there. However, the Helm itself has been taken.
 
-GOUGE: [asking about it] Is Paul Rivera at the barracks?
+GOUGE: [asking about it] Is Paul Revero at the barracks?
 
-DM: Paul Rivera is at the barracks, and the message ends with: come as soon as possible.
+DM: Paul Revero is at the barracks, and the message ends with: come as soon as possible.
 
 GOUGE: I don't want to bring the whole party — they've got a hundred fifty, we've got thirty.
 
@@ -184,7 +184,7 @@ GOUGE: I think the sergeant needs to hold it.
 
 DM (as sergeant): Yes, we'll need some kind of arrangement — we'll cover you and make sure the hobgoblins don't flank you from behind, if you can move through the dark unseen.
 
-GOUGE: Done — hopefully the path stays clear. Stick close to the beaches, though, and stay alert — there's Sahaugin activity out there, and they're very active at night. Be careful crossing the bridge.
+GOUGE: Done — hopefully the path stays clear. Stick close to the beaches, though, and stay alert — there's sahaugin activity out there, and they're very active at night. Be careful crossing the bridge.
 
 GOUGE: None of us have darkvision, unfortunately — depends entirely on the moonlight.
 
@@ -216,7 +216,7 @@ DM: [working out the math of how many troops remain] There were originally twent
 
 DM (as sergeant): We should also let the sergeant know — if any other ships come by that aren't reinforcements, he'll need to wave them off, given this is clearly a full-scale incursion now.
 
-GOUGE: Right, right — there are too many Sahaugin out there. They'll get overrun if they're not careful; we got lucky. With all those sharks I saw pulling up in the water, I'm assuming those were Sahaugin lurking beneath.
+GOUGE: Right, right — there are too many sahaugin out there. They'll get overrun if they're not careful; we got lucky. With all those sharks I saw pulling up in the water, I'm assuming those were sahaugin lurking beneath.
 
 DM: Sahaugin communicate with sharks telepathically — the sharks are essentially their slaves, so they can summon swarms of them to attack. The waters around here aren't safe even for larger vessels to approach closely; anything that gets too near risks being swarmed, so you'd want to clear the area as fast as possible.
 

@@ -1,6 +1,6 @@
-[Speaker Key: DM = Dungeon Master (narration, rules calls) | PAUL = Paul Rivera's player | GOUGE = Gouge's player | TYRUS = Tyrus's player | JUDE = Jude's player | MERRICK = Merrick's player | FOLSOM = Folsom's player. NOTE: This is an extended party strategy debate following the battle with the Sahaugin, with rapid, overlapping cross-talk. Many lines are reconstructed by best inference from context and are not always attributable to a specific named character with full certainty.]
+[Speaker Key: DM = Dungeon Master (narration, rules calls) | PAUL = Paul Revero's player | GOUGE = Gouge's player | TYRUS = Tyrus's player | JUDE = Jude's player | MERRICK = Merrick's player | FOLSOM = Folsom's player. NOTE: This is an extended party strategy debate following the battle with the sahaugin, with rapid, overlapping cross-talk. Many lines are reconstructed by best inference from context and are not always attributable to a specific named character with full certainty.]
 
-DM: Okay, morning of the third of Wealsun, after the battle with the Sahaugin, after Tyrus threw the solution into the smugglers' caves of Helm Island, the party sits on the docks, recovering. Do you want to check your status? Do you want to talk strategy?
+DM: Okay, morning of the third of Wealsun, after the battle with the sahaugin, after Tyrus threw the solution into the smugglers' caves of Helm Island, the party sits on the docks, recovering. Do you want to check your status? Do you want to talk strategy?
 
 PAUL: Can you really heal? I'm pretty banged up, but I'm okay — I need to rest.
 
@@ -48,7 +48,7 @@ TYRUS: I think we can hold this from here.
 
 JUDE: Without Fairwind, we could spend some time searching, maybe thirty minutes.
 
-TYRUS: If we don't have Fairwind, we could take all the barrels, destroy what we can, work our way out, and still try to find and release Fairwind's locked-up troops — he told us roughly where they were held, just unarmed. We'd have to kill the interior guards, but we could still take the island, and hold it with twenty-five barrels against the Sahaugin, since the Toli aren't ready to storm it yet.
+TYRUS: If we don't have Fairwind, we could take all the barrels, destroy what we can, work our way out, and still try to find and release Fairwind's locked-up troops — he told us roughly where they were held, just unarmed. We'd have to kill the interior guards, but we could still take the island, and hold it with twenty-five barrels against the sahaugin, since the Toli aren't ready to storm it yet.
 
 JUDE: I want to go back to that idea — we could secure this island and hold it for fifty days, easy.
 
@@ -100,7 +100,7 @@ DM: [aside] So you're coming up with the specifics here, since, of course, you c
 
 PAUL: So Fairwind was setting it up to blame someone else, while still being part of it.
 
-TYRUS: Definitely. And if both the Toli and Fairwind are involved, there's basically a coalition against Monmurg forming. Like Fairwind said in that conversation — these are all princes, co-equal in this nation, and there's always some friction between them. But this crosses a line, because it's letting the Sahaugin run loose to screw over Monmurg specifically. The whole reason this nation exists is because the Toli, the outer islands, and the Duke of Berghof all united to defeat the Sahaugin a hundred fifty years ago.
+TYRUS: Definitely. And if both the Toli and Fairwind are involved, there's basically a coalition against Monmurg forming. Like Fairwind said in that conversation — these are all princes, co-equal in this nation, and there's always some friction between them. But this crosses a line, because it's letting the sahaugin run loose to screw over Monmurg specifically. The whole reason this nation exists is because the Toli, the outer islands, and the Duke of Berghof all united to defeat the sahaugin a hundred fifty years ago.
 
 PAUL: So this is an old, ongoing conflict.
 
@@ -182,7 +182,7 @@ DM: You already did — that took about thirty minutes.
 
 TYRUS: Another thirty and we're committed either way — we've got to go in, we've spent thirty minutes just talking while the barrels got moved.
 
-PAUL: We're going — unless someone disagrees? Then post someone awake by the ballista who isn't napping. Since all the Sahaugin in this immediate area are dead, can we go back to where we lost Fairwind and check for secret passages or exits we might have missed?
+PAUL: We're going — unless someone disagrees? Then post someone awake by the ballista who isn't napping. Since all the sahaugin in this immediate area are dead, can we go back to where we lost Fairwind and check for secret passages or exits we might have missed?
 
 TYRUS: Sure, but that takes time too. I'm saying, take command of his men now, before the hobgoblins regroup.
 
@@ -224,13 +224,13 @@ TYRUS: His hands aren't clean just because he says he'll talk to Jeon — he's e
 
 PAUL: What are we going to do about the hobgoblins, then? His own troops might not even know the full picture.
 
-TYRUS: Again, why would he move the barrels away at all if this wasn't premeditated? It's clearly a play. What I'm saying is, the gig's up for him now — so how does he handle that? He has to silence every witness. We are his number one problem right now, and we don't have a boat to get off this island. Without us around to contradict him, he can say whatever he wants happened — that the Sahaugin destroyed the ship, for instance.
+TYRUS: Again, why would he move the barrels away at all if this wasn't premeditated? It's clearly a play. What I'm saying is, the gig's up for him now — so how does he handle that? He has to silence every witness. We are his number one problem right now, and we don't have a boat to get off this island. Without us around to contradict him, he can say whatever he wants happened — that the sahaugin destroyed the ship, for instance.
 
 PAUL: So let me ask everyone this — assuming all that's true, is it better to fight through his hobgoblins or Toli-aligned forces to reach his men directly, or is it smarter to just hide?
 
 MERRICK: I don't think hiding is a great option. I think finding his troops might be the best of the worst-case options, since I doubt all of his men knew what was going on, and ultimately they'll side with whoever's actually armed and in front of them.
 
-TYRUS: This island's big enough to hide on, too — we could stash some barrels. How many days would that buy us against the Sahaugin returning?
+TYRUS: This island's big enough to hide on, too — we could stash some barrels. How many days would that buy us against the sahaugin returning?
 
 JUDE: Maybe six to ten days before they're back in force.
 
@@ -258,7 +258,7 @@ TYRUS: That's better than nothing — they'd just see a dark cloud instead of us
 
 JUDE: I could, if needed — same trick, dark cloud trailing in our wake.
 
-TYRUS: So if we do that, barricade the narrow hallway, or burn that bridge down behind us — but that all depends on the boat actually coming in, us loading the barrels, and getting out clean. With twenty-five barrels, they'll definitely come looking, but we'd have the advantage, since they won't have Sahaugin help anymore — we wiped those out — and they might not even know we've taken the barrels yet, since there's no Sahaugin left to warn them. And we've still got the ballista.
+TYRUS: So if we do that, barricade the narrow hallway, or burn that bridge down behind us — but that all depends on the boat actually coming in, us loading the barrels, and getting out clean. With twenty-five barrels, they'll definitely come looking, but we'd have the advantage, since they won't have sahaugin help anymore — we wiped those out — and they might not even know we've taken the barrels yet, since there's no sahaugin left to warn them. And we've still got the ballista.
 
 TYRUS: If it's only four to six crew, even wounded, we could handle that — if we rest even just an hour, that should be enough.
 
@@ -360,7 +360,7 @@ FOLSOM: At level five, I think it does — let me check the rules.
 
 DM: You need to finish a long rest for full Bardic Inspiration recovery, typically — but your Song of Rest still applies to others taking the short rest.
 
-FOLSOM: I'll play my flute while everyone else rests, then.
+FOLSOM: I'll play my fife while everyone else rests, then.
 
 DM: Right, that enhances their short-rest healing by an extra d6.
 
@@ -372,7 +372,7 @@ FOLSOM: That's not that much, bro.
 
 MERRICK: I know, but every bit helps.
 
-FOLSOM: Fair enough — you'll get back whatever your hit dice roll, plus the extra d6 from the flute, so you should be back near full.
+FOLSOM: Fair enough — you'll get back whatever your hit dice roll, plus the extra d6 from the fife, so you should be back near full.
 
 JUDE: [to Folsom] Do you have any spells left to use?
 
