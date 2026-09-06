@@ -4,7 +4,7 @@ Up in the guard tower there was nothing to be done about any of it but carry wor
 
 The sergeant took the news with the flat calm of a man who had already run out of good options. “You’re wounded,” he said to Tyrus, unconvinced by any protest to the contrary.
 
-“I’m fit to move, sergeant.” Tyrus laid his own hands over the worst of his wounds, murmuring the words that had never failed him yet, and felt the ache close over into nothing more than memory. “Good as new.”
+“I’m fit to move, sergeant.” Tyrus laid his own hands over the worst of his wounds, murmured a low prayer over them, and felt the ache close over into nothing more than memory. “Good as new.”
 
 “You can’t march out there with archers still active in that other building,” the sergeant said.
 

@@ -2,13 +2,13 @@
 
 They took a brief rest where they could find it — a bench, a corner of the commander’s own quarters — and by nine that evening, restored enough to think clearly, Paul and Jude found a quiet moment alone. They had turned all of it over already, in pieces, across the length of the day; what was left now was not to argue it afresh but to lay the pieces in a row and settle them.
 
-“Same question we keep circling,” Jude said, pacing a short line across the floorboards, restless in the low lamplight. “All in with the commander and the garrison behind us — a hundred twenty men, near enough — or hold what we have and wait on Monmurg.”
+“Same question we keep circling,” Jude said, pacing a short line across the floorboards, restless in the low lamplight. “Throw in with the commander and the garrison behind us — a hundred twenty men, near enough — or hold what we have and wait on Monmurg.”
 
 “We’ve no way out either way, short of another ship,” Paul said, settling into the chair across from him with the deliberate calm of a man determined not to match the elf’s agitation. “Two days before Jeon sends one. Three, at the outside.”
 
 “A long two days, with hobgoblins loose on this rock.” Jude stopped his pacing. “The commander has food and water for weeks — we could fall back here and hold, if it came to that. But holding isn’t winning, and I don’t know that Gouge’s thirty keep the southern tower if the enemy decides to lean on it. Sit still, and we spend those men a night at a time.”
 
-“Then we don’t sit still.” Paul said it as the settled thing it had already become between them. “We go all in. Lord Jamis was plain — the Helm has to be secured. We hold the barracks, but the barracks were never the island. Without the keep, we’ve taken nothing.”
+“Then we don’t sit still.” Paul said it as the settled thing it had already become between them. “We commit. Lord Jamis was plain — the Helm has to be secured. We hold the barracks, but the barracks were never the island. Without the keep, we’ve taken nothing.”
 
 That much they had agreed on hours ago. It was the how of it that had kept turning.
 

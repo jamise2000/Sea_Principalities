@@ -1014,7 +1014,7 @@ potion, which may explain why the cult has so
 many members despite the suppression by the
 lords of the Hold.
 
-## The Outer Islands, Fairwind, Floatsam and Jetsam
+## The Outer Islands, Fairwind, Flotsom and Jetsom
 
 These three large islands, along with a
 number of smaller islands, lay off the east
@@ -1039,7 +1039,7 @@ stormy season.
 Each of the Outer Islands are ruled by a
 prince who is chosen to represent the island.
 Unlike the Prince of Monmurg or the Prince of
-Toli, the Princes of Jetsom, Flotsam and
+Toli, the Princes of Jetsom, Flotsom and
 Fairwind do not gain their offices through
 their bloodlines, instead they are elected by
 the commodores of each island. However,
@@ -1135,12 +1135,12 @@ forward naval bases and have decent natural
 harbors, however, neither the Sea Princes or
 Keoland have ever attempted to claim them.
 It is said that these islands are used by giant
-dragon turtles as nesting grounds and that
+turtle dragons as nesting grounds and that
 any ship going too close to them will invite
 attack. Because of this ships usually give
 these islands a wide berth. It is rumored that
 Prince Jeon II gives a yearly tribute of
-treasure to the eldest dragon turtle,
+treasure to the eldest turtle dragon,
 Oceanum Perfide, to keep it from attacking
 shipping going to and from Monmurg.
 

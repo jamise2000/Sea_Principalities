@@ -1,4 +1,4 @@
-# Chapter Forty-Six — The Gift in the Alley
+# Chapter Forty-Five — The Gift in the Alley
 
 Gouge walked Folsom into the nearest alley and set him down against the wall, the noise of the barracks fading behind them. He was none too steady himself. Thirty-six hours of fighting, killing, and now drinking, with no sleep in any of it, had caught up with him all at once, and it showed in his feet and his tongue alike.
 

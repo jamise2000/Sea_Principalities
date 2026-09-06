@@ -1,4 +1,4 @@
-# Chapter Forty-Eight — Confession in the Foreign District
+# Chapter Forty-Seven — Confession in the Foreign District
 
 Merrick and Tyrus caught up with Gouge and Folsom in the street — Folsom a shade sheepish still — and the four of them set off together, Gouge leading, away from the barracks and the lamplit order of the Harbor District toward a bar he said was worth the walk.
 
@@ -8,9 +8,9 @@ Merrick and Tyrus caught up with Gouge and Folsom in the street — Folsom a sha
 
 “Before any of that,” Gouge said, “understand I was mostly brought along to keep this one’s mouth shut, I am finding.” A jerk of his head at Folsom.
 
-“I walked through a door—”
+“It’s like I walked through a door today,” Folsom said, and for once there was no performance in it. “I thought I knew the shape of the world — princes and Plars in their halls doing their honest best, and men like us bleeding for it and glad to. Then I watched good Marines drown in that bay while a lord traded the island away for a fatter share of coin, cool as haggling over fish. Something’s opened in me that won’t close again. The song was only me trying to say what I’d seen—”
 
-“You were spilling the most horrendous nonsense I’ve ever heard. Great voice, though, I’ll grant you — knowing when to close it, less so.” His tone went flat. “Helm Island — what we saw, what we learned — you stay silent on the whole of it. There were no barrels. No lords turned traitor. As far as anyone else living knows, I couldn’t tell you whether you got off the boat.”
+“You were spilling the most horrendous nonsense I’ve ever heard,” Gouge cut in. “Great voice, though, I’ll grant you — knowing when to close it, less so.” His tone went flat. “Helm Island — what we saw, what we learned — you stay silent on the whole of it. There were no barrels. No lords turned traitor. As far as anyone else living knows, I couldn’t tell you whether you got off the boat.”
 
 “You should know better by now,” Merrick put in, no warmer than Gouge had been.
 
@@ -42,13 +42,15 @@ Folsom took a moment, and when he spoke the performer’s lightness had gone out
 
 “No.” Folsom kept it low, under the street noise. “You know Lady Jamis. Her brother, he told me, is Zafar Azane — who serves the Duke of Gradsul, and runs the Duke’s Office of Forbidden Magic.”
 
-Tyrus walked a few paces in silence. “The Duke of Gradsul. The man blockading us. Our oldest enemy — Lucian the Fourth died at the Siege of Westkeep coming at us, and every time that bloodline seats a king in Keoland, Keoland marches on the principalities.” He stopped in the middle of the greasy street. “And Lord Jamis’s own wife’s brother runs that man’s forbidden-magic office.”
+Tyrus walked a few paces in silence. “The Duke of Gradsul. The man blockading us. Our oldest enemy — Tavish the Third died at the Siege of Westkeep coming at us, and every time that bloodline seats a king in Keoland, Keoland marches on the principalities.” He stopped in the middle of the greasy street. “And Lord Jamis’s own wife’s brother runs that man’s forbidden-magic office.”
 
 “That’s what he told me,” Folsom said.
 
 “That’s… not good,” Tyrus said. “The suspicion’s shifted, then — off Paul and Jeon, onto Jamis.”
 
 “None of us knows what’s true,” Merrick said — and it plainly cost him, Jamis’s own man that he was. “But if Jamis asks any one of us a thing, we say nothing of this. Not a word.”
+
+What he did not say aloud was the part that gnawed worst: this was the very thing Jamis had charged him to bring back. *Find out what passed between them*, the spymaster had told him, not two hours gone — *quietly, and whatever it was, I want it.* Merrick had it now. And the truth of it disturbed him more than he let any of them see, for every thread of it pointed back at Jamis himself — and Merrick had just resolved to keep from his own master the one report that master had sent him to fetch.
 
 “Careful how you tread.” Gouge’s voice had gone hard, defensive all at once. “Jamis is the man who’s kept me fed and out of a noose these years. My loyalty runs to him, and I’ll not have him painted a traitor on a charmed man’s word. Suspect the rest of it all you please — but name Jamis, and you’re on thin ice with me.”
 
@@ -90,4 +92,4 @@ And then, for one night, they let the whole of it go. Ferd kept the cups coming,
 
 Some months on, when the tale of that night had gone round the taverns and barracks more than once, it was Folsom’s disastrous “The Brewing Storm” that men remembered longest — not the fighting, not the barrels, but the song, and how a room of patriotic Marines had bristled to hear their own princes named the authors of the city’s ruin. Yet as the weeks turned, and rumor of Fairwind’s treachery spread, and the Sea Ghost was sighted again, and the Toli’s hand in it grew harder to deny, those same Marines came round: the bard had seen the shape of the thing before any of them. In time the men who’d wanted Folsom thrown into the street wished instead that they could sit him down and ask what else he knew. And so began his career — and his infamy — as a bard whose name would carry a good deal further than that one rough night had promised.
 
-For the storm he had sung of was only gathering. It was not the Duke of Gradsul’s doing alone — the jealousy and infighting of the sea princes fed it, and the peril of the Hold came not only from its enemies but from those it called friends. Fairwind’s body had never washed ashore. The Sea Ghost still ran the strait under no flag any man among them knew. Out past Redshore the sahaugin were massing toward some purpose none had yet put a name to, and the Toli were whetting the same knives twice; and in a quiet office in Monmurg a spymaster turned the four men’s accounts over in his hands and drew conclusions he kept to himself. They did not know it yet, drinking in Ferd’s while the lamps burned down — but that rough night at the barracks would come to seem, in the years after, the smallest of the things that began that evening. The journey was only starting. Before its end they would stand against the final enemy — and the storm, when at last it broke, would be worse than any song could hold.
+For the storm he had sung of was only gathering. It was not the Duke of Gradsul’s doing alone — the jealousy and infighting of the sea princes fed it, and the peril of the Hold came not only from its enemies but from those it called friends. Fairwind’s body had never washed ashore. The Sea Ghost still ran the strait under no flag any man among them knew. Out past Redshore the sahaugin were massing toward some purpose none had yet put a name to, and the Toli were whetting the same knives twice; and in a quiet office in Monmurg a spymaster turned the four men’s accounts over in his hands and drew conclusions he kept to himself. They did not know it yet, drinking in Ferd’s while the lamps burned down — but that rough night at the barracks would come to seem, in the months after, the smallest of the things that began that evening. The journey was only starting. Before its end they would stand against the final enemy — and the storm, when at last it broke, would be worse than any song could hold.

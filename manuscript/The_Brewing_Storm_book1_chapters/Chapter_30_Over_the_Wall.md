@@ -96,7 +96,7 @@ A long, fortified hall answered him, columned, twenty-five feet across, arrow sl
 
 “I’ll take the rear,” Paul said.
 
-They fell into rough marching order and started down the hall at a brisk, purposeful clip, boots striking stone in a rhythm meant to say *sent for, in a hurry, nothing to remark on.* Halfway down, one of the hobgoblins turned and studied them a beat too long.
+They fell into rough marching order and started down the hall at a brisk, purposeful clip, boots striking stone in the steady rhythm of men sent for and running late, nothing about them worth a second glance. Halfway down, one of the hobgoblins turned and studied them a beat too long.
 
 Tyrus waved him off without breaking stride, pointing back toward the gate as though ordering the man back to his post — and his sheer size did the rest of the work, the hobgoblin muttering something low in his own tongue before turning back to the wall.
 

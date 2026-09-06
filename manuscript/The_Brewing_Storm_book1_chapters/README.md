@@ -2,7 +2,7 @@
 
 1. [Chapter One — The Envoy from Idee](Chapter_01_The_Envoy_from_Idee.md)
 2. [Chapter Two — Owen Black’s Passage](Chapter_02_Owen_Blacks_Passage.md)
-3. [Chapter Three — The War of Spies](Chapter_03_The_War_of_Spies.md)
+3. [Chapter Three — The Better Vintage](Chapter_03_The_Better_Vintage.md)
 4. [Chapter Four — Ferd’s](Chapter_04_Ferds.md)
 5. [Chapter Five — The Ghost in the Halls](Chapter_05_The_Ghost_in_the_Halls.md)
 6. [Chapter Six — The Room Behind the Wall](Chapter_06_The_Room_Behind_the_Wall.md)
@@ -42,12 +42,11 @@
 40. [Chapter Forty — The Empty Racks](Chapter_40_The_Empty_Racks.md)
 41. [Chapter Forty-One — What the Shark Gave Up](Chapter_41_What_the_Shark_Gave_Up.md)
 42. [Chapter Forty-Two — Watch the Waves](Chapter_42_Watch_the_Waves.md)
-43. [Chapter Forty-Three — What Gouge Told Jamis](Chapter_43_What_Gouge_Told_Jamis.md)
-44. [Chapter Forty-Four — What Merrick Told Jamis](Chapter_44_What_Merrick_Told_Jamis.md)
-45. [Chapter Forty-Five — Cider at the Barracks](Chapter_45_Cider_at_the_Barracks.md)
-46. [Chapter Forty-Six — The Gift in the Alley](Chapter_46_The_Gift_in_the_Alley.md)
-47. [Chapter Forty-Seven — What Merrick Found at the Bar](Chapter_47_What_Merrick_Found_at_the_Bar.md)
-48. [Chapter Forty-Eight — Confession in the Foreign District](Chapter_48_Confession_in_the_Foreign_District.md)
+43. [Chapter Forty-Three — What Gouge and Merrick Told Jamis](Chapter_43_What_Gouge_and_Merrick_Told_Jamis.md)
+44. [Chapter Forty-Four — Cider at the Barracks](Chapter_44_Cider_at_the_Barracks.md)
+45. [Chapter Forty-Five — The Gift in the Alley](Chapter_45_The_Gift_in_the_Alley.md)
+46. [Chapter Forty-Six — What Merrick Found at the Bar](Chapter_46_What_Merrick_Found_at_the_Bar.md)
+47. [Chapter Forty-Seven — Confession in the Foreign District](Chapter_47_Confession_in_the_Foreign_District.md)
 
 ---
 

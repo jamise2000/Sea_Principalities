@@ -62,7 +62,7 @@ The alchemist inclined his head, unsurprised. "Just so. In the water, spread thi
 
 "If I told you this substance came originally from the Duke of Berghof's own territories," Jude said, "would that tell you anything?"
 
-The old man's face sharpened with sudden interest. "It tells me a great deal. This sample is perhaps twenty years old — the last time Prince Jeon's people were able to acquire any at all. Made, or discovered, in the mountains along the Duke's southwestern border. The Fhoraxians made this."
+The old man's face sharpened with sudden interest. "It tells me a great deal. This sample is perhaps twenty years old — the last time Prince Jeon's people were able to acquire any at all. Made, or discovered, in the mountains along the Duke's southwestern border. The Feiraxians made this."
 
 "I don't know that name," Jude admitted.
 

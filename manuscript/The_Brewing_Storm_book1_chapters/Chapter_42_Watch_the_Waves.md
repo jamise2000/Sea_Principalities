@@ -32,11 +32,11 @@ They found Merrick down among the tents, sail rigged from canvas that had lately
 
 “That’s the whole of what we’re doing,” Gouge said.
 
-They gave the work two hours in all — Merrick lashing the sail, Gouge and Folsom tearing free what lumber the docks would spare, Tyrus lending what strength he had between naps, still mending. Twenty-five barrels sat counted on the sand; only four would make the crossing, the raft judged too slight to carry more without risking the whole venture. Twenty-one would stay behind, enough — barely — to hold this stretch of shoreline against the sahaugin’s return until reinforcement arrived to make the count matter less.
+They gave the work two hours in all — Merrick lashing the sail, Gouge and Folsom tearing free what lumber the docks would spare, Tyrus lending what strength he had between naps, still recovering from his exposure to the powder. Twenty-five barrels sat counted on the sand; only four would make the crossing, the raft judged too slight to carry more without risking the whole venture. Twenty-one would stay behind, enough — barely — to hold this stretch of shoreline against the sahaugin’s return until reinforcement arrived to make the count matter less.
 
 Before they launched, Folsom climbed to the inner sanctum, the dead hobgoblin and the dead Toli still lying undisturbed where they’d fallen, and worked the signal lantern at the window with the practiced hand of a man who’d learned the art properly — “On our way. Watch the waves,” and then Gouge’s name, spelled out letter by letter across the strait toward a city he could not see but trusted was watching all the same.
 
-They loaded the raft at last — Tyrus carried down bodily and settled to finish his rest aboard it, Gouge taking a rope-lashed hobgoblin corpse in tow as proof of what had happened here, Merrick working the crude sail while the outgoing tide caught the hull and drew it clear of the cave mouth.
+They loaded the raft at last — Tyrus carried down bodily and settled to finish his rest aboard it, Gouge taking a rope-lashed hobgoblin corpse in tow as proof of what had happened here, Jude crouched over one of the dead sahaugin to cut the gills from it and stow them away for later study, Merrick working the crude sail while the outgoing tide caught the hull and drew it clear of the cave mouth.
 
 “Keep sprinkling the powder as we go,” Gouge said, cracking one of the four barrels loose and working handfuls of the pale yellow dust into the wake behind them at intervals. “Worth more than gold to us right now.”
 

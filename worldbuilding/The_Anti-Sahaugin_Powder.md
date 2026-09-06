@@ -20,7 +20,7 @@ Plain **copper and sulfur**, combined in a way no one now living knows how to re
 
 ## Origin and history
 
-- Made or discovered by the **Fhoraxians**, a little-known people of the mountains along the **Duke of Berghof's southwestern border**. The Hold bought it **at cost from the Duke of Berghof** (Ch. 33, Book 2 Ch. 8).
+- Made or discovered by the **Feiraxians**, a little-known people of the mountains along the **Duke of Berghof's southwestern border**. The Hold bought it **at cost from the Duke of Berghof** (Ch. 33, Book 2 Ch. 8).
 - It was the weapon that **turned the wars against the sahaugin roughly a hundred and fifty years ago**, and it has held the shark-folk off ever since (Ch. 33; `Helm_Island.md`).
 - The wider world — most of Monmurg included — believes the island's protection is an **"ancient enchantment."** That is a **deliberate cover story**, maintained to hide both the true (mundane, reproducible-in-principle) nature of the defense and its single greatest weakness: the supply.
 - The **supply is nearly spent.** The Hold has not been able to acquire more in a long while; a sample recovered on the Helm is about **twenty years old — the last lot Jeon's people managed to obtain** (Book 2 Ch. 8). The method has been lost; the raw materials are cheap (sulfur sells at any market stall), so anyone who *cracked the manner of combining* could make it by the ton — which is exactly why the secret is worth killing over.

@@ -7,6 +7,27 @@
 
 ---
 
+## Editorial Review — Second Pass (after the full four-lens review of Ch. 1–47)
+
+**Status: manuscript CLEAN; proof regenerated.** Following the chapter-by-chapter editorial review, the automated proofread scan was re-run over the current 47-chapter Book One and returned **zero** defects: no residual straight quotes, no ASCII/spaced ellipses, curly opening/closing marks balanced, no unbalanced paragraphs, no doubled words, no double spaces, no "could/should/would of," no space-before-punctuation. Every variant-prone name resolves to a single spelling.
+
+*Note on numbering:* since the first proofread, the former Ch. 29 was merged into Ch. 28 and the former Ch. 38–39 merged into one, so Book One is now **47 chapters**. The first-pass items above reference the older numbering (e.g., the old "Ch. 45 Cider" is now **Ch. 44**; old "Ch. 48 Confession" is now **Ch. 47**). All first-pass items (1–4) remain applied.
+
+**Consistency corrections made and verified during the review:**
+
+- **Island names** standardized to **Flotsom** / **Jetsom** (stray "Flotsam"/"Floatsam"/"Jetsam" fixed in `Fairwind.md`, `The_Sea_Principalities.md`, `The_Rise_of_the_Sea_Principalities.md`, `manuscript_divergences.md`).
+- **Creature name** standardized to **turtle dragon** (the hyphenated "dragon-turtle" in Ch. 43 and spaced "dragon turtle" in Ch. 3, `Jeon.md`, `The_Sea_Principalities.md` all corrected). "Dragon Isles" (place) left intact.
+- **Powder-makers** renamed **Fhoraxians → Feiraxians** across `The_Anti-Sahaugin_Powder.md`, `magic_system.md`, and Book 2 Ch. 8.
+- **Ch. 44:** "the power of Baywin" → **Gloin Baywin, Plar of Salinmoor** (resolves old query **B** below); "three hundred lost comrades" → "two hundred" (matches the ~200 corsair losses from a 250-Marine force).
+- **Ch. 47:** the Keoland king slain at the **Siege of Westkeep** corrected from "Lucian the Fourth" → **Tavish III** (per `The_Sea_Principalities.md`).
+- **Marine count** reconciled book-wide: **250 embarked**, ~**200 aboard and lost** with the corsair, ~50 ashore.
+
+**Ledgers updated in the same passes:** new `worldbuilding/The_Sahaugin.md` (four-hour-ashore rule); `Merrick.md` (ranger spellcasting — "magic of reading the world"; Nado's death-by-sahaugin rumor); `Folsom.md` (green song-stone; medium height); `Gouge.md` / Ch. 12 (Assassin's Guild razing reconciled — Jude present, Jamis's order); `magic_system.md` (homunculus is Paul's alone, Magic Missile now cast on-page, Tenser's Floating Disk, Folsom's song-stone); `Owen_Black.md` (Owen/Gouge history direction corrected); `Guide_to_Salinmoor.md` (Appleyard, Turtle/Lizard Island).
+
+**Query status:** old query **B (Baywin)** is now **RESOLVED**. Old query **A (Sacnon vs. Sconforth, the Toli prince's name — cross-book)** remains **OPEN**, to be settled when Book Two is reviewed.
+
+---
+
 ### 1. Typography — straight quotes → typographic (curly) quotes  *(global)*
 
 The manuscript uses straight quotes and apostrophes throughout: **3,890** straight double-quotes (`"`) and **2,329** straight apostrophes (`'`), with zero curly quotes anywhere. A printed book uses typographic quotation marks (" " ' '). This is a single global conversion, applied carefully so that leading apostrophes in elisions read as ' (e.g., *'Course*, *'em*, *'tis*), not '.

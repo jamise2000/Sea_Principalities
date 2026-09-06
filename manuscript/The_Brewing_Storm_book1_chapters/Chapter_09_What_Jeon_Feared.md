@@ -6,7 +6,7 @@ Jeon’s guards made him wait, as they always did, and Paul spent the wait rehea
 
 “I’ve learned something important about my mother. And my father.”
 
-That brought his uncle’s head up fast enough that Paul almost regretted the bluntness of it. “That was quick,” Jeon said, something guarded already entering his voice.
+That brought his uncle’s head up fast enough that Paul almost regretted the bluntness of it. “That was bold,” Jeon said, something guarded already entering his voice.
 
 Paul told it as plainly as he’d told Lady Jamis — the letters, the name, the son of Lord Jamis and Lady Jamis both — and watched his uncle’s face do something complicated across the length of the telling: a scowl at first, tightening as Paul spoke, and then, gradually, as Jeon actually took up the letters and began reading them himself, something that looked almost like relief.
 
@@ -24,7 +24,7 @@ Paul absorbed that in silence, turning over twenty-three years of a coldness he 
 
 “There’s a man named Zafar mentioned in the letters,” he said finally. “I’ve spoken with Lady Jamis. I asked if I might meet him.”
 
-“Zafar Azane,” Jeon said. “I know him well. Why do you wish to meet him?”
+“Zafar Azane,” Jeon said. “I know him as well as any man could, which is to say not at all. Why do you wish to meet him?”
 
 “To learn what happened to my father.”
 
@@ -34,7 +34,7 @@ Jeon set the letters down and studied him for a long moment, weighing something 
 
 “You know what you are asking for. You do not know what you would be walking into.” Jeon’s voice sharpened, urgency replacing the earlier softness. “Zafar Azane is among the most powerful wizards in the Flanaess, and I could not tell you with confidence whose side he truly serves. I will not hand the Duke of Gradsul a hostage with your blood in his veins, however careful you believe yourself to be.” He held up a hand before Paul could argue further. “I will write to him myself. Ask for an audience on the Sea Principalities’ behalf, and let Lady Jamis arrange what she can through her own channels. If Zafar wishes to speak with you, he will find a way that does not require you to set foot in Gradsul. That is the most I will permit.”
 
-It was not everything Paul had hoped for, but it was considerably more than the flat refusals he had spent a lifetime collecting from this office, and he recognized the difference well enough to accept it without further argument. Jeon asked, almost as an afterthought, whether he might keep the letters — “for affection’s sake,” he said, and Paul, reading something in his uncle’s face that didn’t match the reason given, declined, and watched Jeon accept the refusal with a stiffness that told Paul his instinct had been correct: his uncle meant to use them for something Paul hadn’t been told, very possibly a conversation with Lord Jamis that Paul had no wish to be a bystander to before he understood the ground better himself.
+It was not everything Paul had hoped for, but it was considerably more than the flat refusals he had spent a lifetime collecting from this office, and he recognized the difference well enough to accept it without further argument. Jeon asked, almost as an afterthought, whether he might keep the letters — “for affection’s sake,” he said. But Paul read something in his uncle’s face that didn’t match the reason given, and declined. Jeon accepted the refusal with a stiffness that told Paul his instinct had been correct: his uncle meant to use them for something Paul hadn’t been told, very possibly a conversation with Lord Jamis that Paul had no wish to be a bystander to before he understood the ground better himself.
 
 “One more thing, before you go,” Jeon said, as Paul rose to leave. “I have a task for you, if you’ll take it. I have reason to believe agents of Port Toli are moving through the foreign district — Suel, and dangerous, likely bound to Prince Sacnon himself. I do not want you engaging them. I want you to find them. Watch who they meet, who they speak to. I have reason to suspect someone in our own employ is working with them, and I would very much like to know who.” He paused, weighing his nephew with an expression Paul hadn’t seen from him before — something closer to actual trust than anything twenty-three years of dinners and councils had ever offered. “Keep your distance. You’ve proven tonight you can move through this city without being seen. I would like to see what that’s worth, put to proper use.”
 

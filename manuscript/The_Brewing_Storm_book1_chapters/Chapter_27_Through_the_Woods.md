@@ -6,7 +6,7 @@ At the Southern Guard Tower, the hour of waiting had worn thin. Merrick had spen
 
 “That hand on the far end of the light,” Merrick said, a question plain beneath it. “Who is it we’ve been talking to, all this while? Back and forth, lantern to lantern, a whole conversation carried on light alone — and no garrison sergeant signals like that.”
 
-“Jude,” Gouge said, and something close to respect moved under the flat of his voice. “I’d know his hand anywhere — the code he set, the old name he leaned on so we’d take it for friends and not a trap. He’s pretty sharp with a signal lamp, that one: says a great deal in very little, and nothing a hobgoblin could puzzle out.” He let it rest there, and turned to the crossing they had worked out between them — a small party going ahead on foot, two swordsmen and two bowmen, while the tower’s own sergeant held the rest back, to guard against anything still lurking behind them and to warn off any ship that came sailing blind into the strait.
+“Jude,” Gouge said, and something close to respect moved under the flat of his voice. “I’d know his hand anywhere — the code he set, the old name he leaned on so we’d take it for friends and not a trap. He’s pretty sharp with a signal lamp, that one: says a great deal in very little, and nothing a hobgoblin could puzzle out.” He let it rest there, and turned to the crossing they had worked out between them — a small party of six going ahead on foot, swordsmen and bowmen both, while the tower’s own sergeant held the rest back, to guard against anything still lurking behind them and to warn off any ship that came sailing blind into the strait.
 
 By ten they had said what needed saying and turned to the question of when to slip away. With the moon obscured, sooner, Merrick judged, was always better than later, and the plan settled quickly enough: the tower’s archers would loose a volley toward the barracks grounds to draw any watching eyes, while the party slipped out the back under cover of the noise.
 
@@ -26,9 +26,9 @@ The first bolt hissed past a heartbeat later, then two more — all wide, but cl
 
 “Fall back,” Tyrus called to his own men, already turning.
 
-“I can drop a fog bank over them,” Merrick offered. “Cost me, but it’ll hide the retreat.”
+“There’s fog coming in off the water,” Merrick said, reading the night the way another man might read a page. “Give it a moment. Stand in the right of it, and it’ll hide the retreat.”
 
-“Do it,” Tyrus said, and Merrick let the spell go, a grey curtain rolling low across the ground exactly where the trailing men needed it most. The two crossbowmen fell back toward the tower under its cover, while Merrick, Gouge, Tyrus, and Folsom pressed on, four now where six had started, and reached the bridge without further incident.
+“Then we use it,” Tyrus said. Merrick had already marked how it would come — a low grey bank rolling in off the sea — and he moved them to meet it, so that it settled across the ground exactly where the trailing men needed it most. The two crossbowmen fell back toward the tower under its cover, while Merrick, Gouge, Tyrus, and Folsom pressed on, four now where six had started, and reached the bridge without further incident.
 
 At the rail, Merrick leaned out and looked down into the black water below — sharks cutting pale wakes beneath the surface, and further off, unmistakable even at this distance, a sahaugin riding one of them like a man might ride a hound.
 
