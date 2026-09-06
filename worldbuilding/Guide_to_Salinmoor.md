@@ -132,4 +132,11 @@ Keep these distinct:
 
 - **Earl of Redshore — the Lorchester family.** The old native line, once Viscounts of all Salinmoor, since pared back to the island city of Redshore, but still the province's richest family on the strength of the whale trade. (Book 1, Ch. 1; `characters/Earl_of_Redshore.md`.)
 - **Viscount of Burle — the Secundforth family.** Appointed to the seat of the province after the collapse of Keoland's southern empire; seated inland at Burle, holding the formal authority the Lorchesters once had. Canonical spelling: **Secundforth** (with a *d*).
-- **Plar of Salinmoor — Lord Gloin Baywin.** Keoland's appointed overlord of the province. A *Plar* is a ruler set over a foreign/conquered people (see `The_Sea_Principalities.md`); Baywin is the Keolandish commander the smuggler Owen Black knows as "the power of Baywin" (`characters/Owen_Black.md`).
+- **Plar of Salinmoor — Lord Gloin Baywin.** Keoland's appointed overlord of the province. A *Plar* is a ruler set over a foreign/conquered people (see `The_Sea_Principalities.md`); Baywin is the Keolandish commander who broke the smuggler Owen Black's arm and questioned him in the Appleyard shell-keep (Ch. 44; `characters/Owen_Black.md`). **Canonical spelling: Baywin** (with an *a*), not "Beywin."
+
+## Minor settlements
+
+Beyond the five principal towns, the province holds many lesser villages and outposts. Two established so far:
+
+- **Appleyard.** A small **farming town** in the marsh-fringe country **west of Saltmarsh**, with a fortified "shell-keep." It is where the Plar, Lord Gloin Baywin, held and questioned the smuggler Owen Black and broke his arm (Ch. 44). Owen, loosely, calls it "a marsh town."
+- **Turtle Island (also called Lizard Island).** A small island off the Salinmoor coast, near Appleyard. Hobgoblins were seen massing and regrouping there in the story present, for reasons not yet clear — Owen Black sailed through and marked it himself (Ch. 44).

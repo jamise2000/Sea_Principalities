@@ -6,7 +6,7 @@ The second day of Wealsun dawned grey and salt-scented over Monmurg, the light s
 
 Keoland’s navy sat across the trade lanes like a closed fist. The Duke of Gradsul, cunning where Monmurg’s admirals had once been proud, had turned the merchant ships toward Redshore instead — a whaling town with neither the berths nor the warehouses to swallow what Monmurg’s docks were built for. And somewhere out past the mouth of the Hool River, a pirate calling himself the Scarlet Rat — the same the Redshore quays had cursed as Captain Crimson — had put Port Torvin to the torch, taking with it the last dependable trickle of food that might have seen the city through the summer.
 
-It was into this uncertainty that Paul Revero woke, in a chamber of the Royal Palace that had never quite felt like home, the morning after he had bent clay and old magic into the likeness of a small clay familiar no bigger than a large rat. He had slept poorly — he always did, the nights after discovering something new — but there was work to be done today, and he intended to begin it before breakfast had properly settled. Prince Jeon, his mother’s brother and the nearest thing Paul had to a father since her death, had set him to a task some days before: find the Toli agents moving through Monmurg, the enemy’s eyes and ears working against the city from within its own streets.
+It was into this uncertainty that Paul Revero woke, in a chamber of the Royal Palace that had never quite felt like home, the morning after he had bent clay and old magic into the likeness of a small clay familiar no bigger than a large rat. He had slept poorly — he always did, the nights after discovering something new — but there was work to be done today, and he intended to begin it before breakfast had properly settled. Prince Jeon, his mother’s brother and the nearest thing Paul had to a father since her death, had set him to a task the day before: find the Toli agents moving through Monmurg, the enemy’s eyes and ears working against the city from within its own streets.
 
 There was, at least, a beginning already made. The night before, walking the foreign trade district in his dark, close-fitting mask, Paul had been set upon by two would-be robbers — men so poorly prepared for the attempt that he’d put a crossbow bolt through one’s throat before the second could fit another stone to his sling. The second man had fled into the dark; the first Paul had staunched as best he could, bandaging the wound with more determination than skill, and left for the patrol to carry back to the family dungeon rather than let him bleed out in the gutter. A prisoner, Paul had reasoned, groggy with satisfaction, was worth a great deal more than a corpse.
 
@@ -34,7 +34,7 @@ The elf inclined his head, once. “Yes.”
 
 “A wizard in Lord Jamis’s employ,” Jeon continued. “Reportedly quite knowledgeable in arcane matters.”
 
-Jude studied Paul — the dark cloak, the studded leather beneath it, and the strange mask he half-recognized. It took him a moment to place it: the same style worn by monks of a temple of the Scarlet Brotherhood that he and Karmirg had raided once, in another life, the one where he’d been turned into a snake for his trouble. He filed the thought away and simply nodded at Paul, offering nothing more.
+Jude studied Paul — the dark cloak, the studded leather beneath it, and the mask he half-recognized. It took him a moment to place it: the same style worn by monks of a temple of the Scarlet Brotherhood that he and Karmirg had raided once, in another life, the one where he’d been turned into a snake for his trouble. He filed the thought away and simply nodded at Paul, offering nothing more.
 
 Jeon cleared his throat gently, drawing the room’s attention back to the matter at hand. “Paul is one of my relatives — my nephew. I wish to include him in what we’ve been discussing. Lord Jamis tells me you’ve begun investigating possible Toli agents here in the city.”
 
@@ -42,11 +42,11 @@ Jeon cleared his throat gently, drawing the room’s attention back to the matte
 
 “I understand. Lord Jamis — would you walk us through what’s transpired this past month?”
 
-Jamis gave Paul a strange, searching look before he began — as though weighing how much of this the younger man was ready to hear. Then he answered.
+Jamis gave Paul a long, searching look before he began — as though weighing how much of this the younger man was ready to hear. Then he answered.
 
 “About a month ago, we had a visit from a wizard out of Keoland,” he said. “I’ve spoken to you of this before, Jude. Lord Phranck — an evoker, from the Magical Academy at Gradsul, the same school my son Grayson attended, before he died there. Phranck came to Monmurg, apparently to make contact with me directly. He wanted to know my intentions toward the Duke of Gradsul. To this day I couldn’t tell you his true purpose — whether he came to warn us, or to use us. He gave me information, and the name of a spy he’d embedded here. I still don’t fully understand what game he was playing.”
 
-There it was, said plainly to the whole room: *my son Grayson*. Paul had sat with Lady Jamis only days ago and named her his grandmother to her face. Hearing Jamis set the name down so evenly — as a fact of Gradsul and nothing more — landed harder than the man could have meant it to. Behind the cool metal of the mask something crossed Paul’s face, and he was glad, not for the first time, that no one alive could read what he kept behind it. He let none of it reach his voice.
+There it was, said plainly to the whole room: *my son Grayson*. Paul had sat with Lady Jamis only a day ago and named her his grandmother to her face. Hearing Jamis set the name down so evenly — as a fact of Gradsul and nothing more — landed harder than the man could have meant it to. Here was his own father, given as a school and a death — Grayson, whose letters Paul had read by lamplight until the ink went soft, whose blood he had carried into this room in front of the very man who had sired that son and did not know what sat across from him. His grandfather, three feet away, discussing a stranger. His father, twenty-three years in the ground. And Paul between them, unclaimed, holding all of it behind a face that gave nothing back. Behind the cool metal something crossed Paul’s face. The mask kept it, as it always did, and none of it reached his voice.
 
 “Was this before the blockade?” Paul asked.
 
@@ -70,7 +70,7 @@ He paused, weighing his next words. “Phranck has reached me by magic several t
 
 Paul blinked. “Say that again?”
 
-“An Inquisitor. A secret order out of Gradsul that hunts down those who practice proscribed magic — necromancy first among their concerns. It’s rarely troubled us here; we’ve little cause to define such things ourselves. But Keoland is exacting about it. Word is he’s investigating something in Salinmoor, near Saltmarsh — some illness spreading through that border country.”
+“An Inquisitor — a secret order out of Gradsul that hunts proscribed magic, necromancy above all. Word is he’s investigating some illness spreading through Salinmoor, near Saltmarsh — that border country.”
 
 “The black sickness?” Paul asked. “I’d heard something was moving through that swamp.”
 
@@ -90,7 +90,7 @@ Paul blinked. “Say that again?”
 
 Beside Paul, Jude had said nothing this entire time, standing with a stillness that seemed almost unnatural, arms folded, the elf’s stoic face never showing an expression. Paul found himself glancing sideways more than once, unsettled by the silence — the killer’s stillness, he thought, next to his own restless need to ask, to know, to press.
 
-“So — in light of everything draining our resources,” Jude said at last, breaking his silence, “and her having given you nothing useful in weeks — where does that leave us?”
+“So — in light of everything draining our resources,” Jude said at last, breaking his silence, “where does that leave us?”
 
 “At least two weeks of nothing,” Jamis admitted.
 
@@ -104,7 +104,7 @@ Jamis’s mouth twitched into something almost like sympathy. “He reaches out 
 
 Paul absorbed all of it in a long, silent moment, counting the threads in his head — Kalisi, Atare, the vendor of the mask he now wore, the Toli themselves — while Jude remained a study in patience beside him, unmoving, unreadable as ever.
 
-“Forgive the questions,” Paul said finally. “You mentioned several avenues. Bringing in Kalisi seems straightforward enough. And Atare — do we know if he’s fled?”
+“Forgive the questions,” Paul said finally. “You mentioned several avenues. Atare — do we know if he’s fled?”
 
 “Taken, weeks past. I did it myself. He had little to tell beyond what I’d already suspected, though he confirmed he’d been working for the Toli. I had Gouge and Karmirg deliver him to Port Torvin, where Phranck told me a contact would take custody.”
 
@@ -116,7 +116,7 @@ Paul turned that over. “Do we think Phranck and the Rat are one and the same?�
 
 “No,” Jamis said. “The Rat serves the Toli, Lord Phranck, or himself; perhaps all three — it’s possible Phranck curried favor with me under one banner and did unspeakable things under another. I still cannot say where Phranck truly stands in all of it.”
 
-“Then what would you have us prioritize?” Jude asked, glancing between his two patrons. “Kalisi seems the quickest thread to pull. The hunt for spies within the city itself will take longer. Do you want us ranging beyond Monmurg as well?”
+“Then what would you have us prioritize?” Jude asked, glancing between his two patrons. “Finding Kalisi, or the slower hunt for spies within the city — and do you want us ranging beyond Monmurg as well?”
 
 “It is my wish that Paul lead this,” Jeon said simply.
 
@@ -130,7 +130,7 @@ Jude took that as his cue. His flat gaze moved to Paul. “Have you crossed blad
 
 “Not personally, no.”
 
-“Gouge and Karmirg killed four of them,” Jamis said. “It was no small fight — magic and steel both. I don’t wish to see you drawn directly into that kind of danger, Paul.”
+“Gouge and Karmirg killed the four who came for Phranck,” Jamis said. “It was no small fight — magic and steel both. I don’t wish to see you drawn directly into that kind of danger, Paul.”
 
 Paul glanced toward Jamis, trying to place whose caution this truly was. It was Jamis’s own, he realized, not merely a relayed wish of Jeon’s.
 
@@ -146,7 +146,7 @@ Neither Jeon nor Jamis would ever say as much aloud — the one out of love, the
 
 “Of course,” Paul said. “Thank you, uncle.”
 
-The two lords left for their meeting with the admiralty, leaving Jude a moment to study his new companion properly — a mask of small interlocking metal rings, fitted close to the skull, cut through with intricate geometric patterns that seemed, in the shifting light, to almost move on their own.
+The two lords left for their meeting with the admiralty, leaving Jude a moment to study his new companion properly — the mask most of all, that close-fitted lattice of etched metal rings whose make he had already placed the moment he walked in, and liked no better on a second look.
 
 A servant appeared at the door before Paul could decide where to take their conversation. “Please, this way,” the man said, leading them to a small private study.
 

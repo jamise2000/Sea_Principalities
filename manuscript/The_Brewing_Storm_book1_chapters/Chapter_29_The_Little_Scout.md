@@ -38,8 +38,10 @@ He glanced at Tyrus, and at the sheer size of him, and let it go unspoken; some 
 
 Ten minutes, he was told — carefully, across some seven hundred and fifty feet of open ground.
 
-“And send word to the South Beacon before any of it begins,” Gouge added, “so they don’t take the racket for an attack on themselves and spend men we haven’t got to spare.”
+“And send word to the Southern Guard Tower before any of it begins,” Gouge added, “so they don’t take the racket for an attack on themselves and spend men we haven’t got to spare.”
 
 “I’ll do it now,” Folsom said, and sent it on the shuttered lantern — the message going out across the black water that whatever they saw near the Helm this night, they were to hold, and wait for a second signal before they stirred.
+
+That the same could not be done for Monmurg went unspoken a moment, until Paul said it plainly. The great brazier that might have thrown word the whole way to the city had been hauled off the Helm with everything else worth carrying, and neither the garrison’s lamps nor the tower’s few short-range flares would carry past the strait. Whatever they made of this night, no relief would come of it — no one in Monmurg so much as knew the Helm had fallen. They would take it back with the men already on this rock, or not at all. Every head in the room understood it, and no one pretended otherwise.
 
 “Then that’s the whole of it,” Gouge said. “The six of us, out through the north exit, and up the coast from there.”

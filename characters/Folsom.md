@@ -1,12 +1,16 @@
 # Folsom
 
-A towering Marine bard from Monmurg — shipwright's son turned navy songsmith, all voice and good cheer and terrible timing. He can charm a hobgoblin or a lord with a word, empty a barroom with a song, and — through the same bardic gift — cure wounds, mending his companions' hurts in the thick of a fight.
+A Marine bard from Monmurg — shipwright's son turned navy songsmith, all voice and good cheer and terrible timing. He can charm a hobgoblin or a lord with a word, empty a barroom with a song, and — through the same bardic gift — cure wounds, mending his companions' hurts in the thick of a fight.
 
 ## Physical Description
 
-Folsom's gift is not size but presence. He is of decent build — reasonably strong and hardy, with a sailor's weathered sturdiness rather than a bruiser's bulk — but what people notice is his charisma. He is strikingly handsome, and he knows it, carrying himself with an easy, magnetic charm that made him popular in the ranks and turns heads wherever he performs. Beneath the good looks runs a mischievous, contrarian streak — never quite a troublemaker, but a man who plainly enjoys needling the powerful and saying the thing everyone else is thinking and won't.
+Folsom's gift is not size but presence. He is of medium height and decent build — reasonably strong and hardy, with a sailor's weathered sturdiness rather than a bruiser's bulk — but what people notice is his charisma. He is strikingly handsome, and he knows it, carrying himself with an easy, magnetic charm that made him popular in the ranks and turns heads wherever he performs. Beneath the good looks runs a mischievous, contrarian streak — never quite a troublemaker, but a man who plainly enjoys needling the powerful and saying the thing everyone else is thinking and won't.
 
 He wears the Marine uniform, but his gear is an eclectic assortment that plainly isn't standard issue, and he carries a longbow — an unusual weapon for a man of the sea principalities, and enough on its own to mark him as something other than an ordinary soldier. First impressions of him tend to mislead, as he says himself; the oddness wears off once people get to know him.
+
+## Gear & Items
+
+- **The green song-stone.** A small green stone set at the collar of a worn old cloak, given to Folsom by Gouge in a Harbor-District alley after the barracks scene (Ch. 45). Gouge, who admits he "doesn't use it right" himself, calls it "proper magic" that will make Folsom's songs "a little better" — treat it as a bardic focus amplifying his musical/bardic effects (heartening tunes, healing). It comes with a condition Gouge set on the gift: in a fight, before Folsom "spends" it, he must look to Gouge first — a **nod** means spend it where he pleases; a **flat, deliberate stare** means send whatever he has Gouge's way. (It is *not* related to Paul's homunculus Heartstone/Mindstone, which are also green but a different craft; see `worldbuilding/magic_system.md`.)
 
 ## History
 

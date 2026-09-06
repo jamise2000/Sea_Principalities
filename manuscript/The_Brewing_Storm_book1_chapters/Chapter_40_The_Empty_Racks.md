@@ -6,6 +6,8 @@ He reached the stair and considered the lower levels, the barracks, the armory, 
 
 He unbarred it and stepped through into the familiar hush of the council chamber — the dead hobgoblin still slumped where he’d fallen, the dead Toli beside him, neither disturbed. The stone around both bodies lay dry, untouched since they’d sealed the room. Whatever had happened to Fairwind, he hadn’t come back through here.
 
+It struck him that this was the first hour in days he had passed entirely unseen — not behind a hired sword or a schooled face, not performing competence for a patron who paid in favors, only alone inside a spell that let the world forget him. He had long told himself he preferred it so; alone now in the dead men’s quiet, he could admit the preference was the old wound wearing a better coat. A thing born other learns early that to be seen is to be handled, and learns to call the hiding a choice. He let it stand a breath, then put it away where he kept such things, and went back to reading the floor for water.
+
 Jude eased the outer door open next and looked out on the passage beyond — hobgoblins still posted along it, the same troops they’d slipped past on the way in. He drew the door shut again without a sound, invisible as he was, and barred it once more behind him rather than risk contact.
 
 He turned instead to the two rooms he hadn’t yet searched — a library of sorts on one side, records and almanacs and old trade charts, nothing that spoke to sorcery or secrets; a council room on the other, the map-table where they’d first overheard Fairwind’s voice. Nothing else led anywhere. This inner sanctum sat sealed off from the rest of the keep entirely, built more like a lord’s private tower than any proper fortress wing.

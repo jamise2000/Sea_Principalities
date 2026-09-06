@@ -62,7 +62,7 @@ Fairwind took the menace without a flinch. “There are hobgoblins in the upper 
 
 “Your men,” Gouge said. “Not locked away, you claimed.”
 
-“On the lower level, bolted in from without, hobgoblins on the passage — no key needed, and none in my hands. Caged, for all that.” He said it without shame. “The ones you walked past on your way in were mine — moved to the barracks, disarmed.”
+“On the lower level, bolted in from without, hobgoblins on the passage — no key needed, and none in my hands. Caged, for all that.” He said it without shame. “The whole of the keep garrison, penned in the dark under our feet — a hundred and fifty men who never saw the blow coming.”
 
 It was gone three by Gouge’s reckoning, and the far lighthouse had never been truly held, only feinted at. Whatever they meant to do, they would do it in the little dark that was left.
 

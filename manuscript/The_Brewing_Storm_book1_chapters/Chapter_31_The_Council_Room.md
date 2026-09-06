@@ -36,7 +36,7 @@ The second door, when they reached it, gave beneath the key with a low groan, op
 
 “My little scout can do it,” Paul said, drawing the small clay lizard from beneath his cloak and setting it low near the crack beneath the door, where it crept forward with visible reluctance before slipping through.
 
-He sent it on along the shadowed edge of the wall, and fell into a listening trance, watching through its borrowed eyes as it crept toward the sound of voices — down a passage, a turn, another turn, following the sound to what could only be a council chamber, a great table before it carved in the likeness of the three outer isles — Flotsom, Jetsom, and Fairwind — the kind of room where admirals gathered to plot the movement of ships and men.
+He sent it on along the shadowed edge of the wall, and fell into a listening trance, watching through its borrowed eyes as it crept toward the sound of voices — down a passage, a turn, another turn, following the sound to what could only be a council chamber. A great table stood at its center, carved in the likeness of the three outer isles — Flotsom, Jetsom, and Fairwind — the kind of room where admirals gathered to plot the movement of ships and men.
 
 And there, seated at its head, was Lord Fairwind himself.
 

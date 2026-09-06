@@ -1,18 +1,22 @@
-# Chapter Forty-Five — Cider at the Barracks
+# Chapter Forty-Four — Cider at the Barracks
 
 While Gouge and Merrick sat with Jamis, Tyrus and Folsom found themselves left to their own devices, and made straight for the barracks.
 
 The Marine barracks in the Harbor District were livelier than either of them had seen in weeks by the time they reached it — men gathered outside with cups in hand, more cheerful than the season had any right to allow.
 
-“These are all my men,” Tyrus said, studying the crowd with something warm settling into his face. “Half my own unit’s still out on the island, but these are still my people — men I know.”
+“These are all my men,” Tyrus said, studying the crowd with something warm settling into his face. “Or what’s left of them — most of my own unit went down with the ship in the bay; only the squad ashore came through. But these here are still my people, men I know.”
 
 “A lot of them died, though,” Folsom said, quieter.
 
-“Not mine, specifically — but plenty of Marines did. Still people I know. Let’s grab a drink before we hit the real bar properly.”
+“Aye — mine worst of all. Too many I knew, this past day.” The warmth held, but it cost him something now. “Still, there’s people I know standing here yet. Let’s grab a drink before we hit the real bar properly.”
 
 “Agreed.”
 
-Tyrus clapped a hand on the shoulder of the nearest man, who turned with a mug already raised. “Folsom!” the Marine called out, delighted. “What’s the occasion — Tyrus! Owen Black came back today, from Redshore — smuggled food back for the city. Brought a couple of barrels of cider too, good stuff, not watered down like everything’s been these past weeks. You can actually get properly drunk on this.”
+Tyrus clapped a hand on the shoulder of the nearest man, who turned with a mug already raised. “Folsom!” the Marine called out, delighted.
+
+“What’s the occasion?” Tyrus asked.
+
+“Tyrus!” the man said, marking him only now, for all the hand already on his shoulder. “Owen Black came back today, from Redshore — smuggled food back for the city. Brought a couple of barrels of cider too, good stuff, not watered down like everything’s been these past weeks. You can actually get properly drunk on this.”
 
 “I would love that,” Tyrus said.
 
@@ -40,7 +44,7 @@ Redshore, mostly. That was where the trade all sat now, he told them, and told t
 
 “Fair, fair. Respect that.” And he was off again, to the next cup and the next knot of men, and back.
 
-The arm, when Tyrus asked after it, set off the wildest telling of the night — Saltmarsh, two months gone, a job scouting for a certain Cain Toli; a gangly Toli cabin-boy under him then, who turned up weeks later three doors from where they stood and set on Owen in the street. “The same Scarlet Rat the whole city’s frightened of now — and a fraud, is what he is.” A wizard the boy answered to, one Lord Phranck, tangled up with a Keoland noble, a soldier they called the power of Baywin — “and that’s the one broke my arm, mind, questioned me down in the Appleyard shell-keep.” Bugbears in the cells, he swore, and a mad dwarf for a gaoler, and a breakout with half of Toli’s own crew, and a stolen skiff, and a run down the coast by way of Seaton and home. Tyrus took it the way he’d told Folsom to — enjoying the half that was true, and not putting coin on which half it was.
+The arm, when Tyrus asked after it, set off the wildest telling of the night — Saltmarsh, two months gone, a job scouting for a certain Cain Toli; a gangly Toli cabin-boy under him then, who turned up weeks later on Owen’s own smuggling pier, two miles south of Saltmarsh, and set on him there. “The same Scarlet Rat the whole city’s frightened of now — and a fraud, is what he is.” A wizard the boy answered to, one Lord Phranck, tangled up with a Keoland noble, a soldier they called Gloin Baywin, the Plar of Salinmoor — “and that’s the one broke my arm, mind, questioned me down in the Appleyard shell-keep.” Bugbears in the cells, he swore, and a mad dwarf for a gaoler, and a breakout with half of Toli’s own crew, and a stolen skiff, and a run down the coast by way of Seaton and home. Tyrus took it the way he’d told Folsom to — enjoying the half that was true, and not putting coin on which half it was.
 
 Other things surfaced in the wash of it, and stuck. Hobgoblins massing off Salinmoor, near a little island the sailors called Turtle Island — Lizard Island, some named it — hard by a marsh town called Appleyard; Owen had sailed through and seen them regrouping himself, and could not say why. Sharks in the bay that very morning, come in with him, though not near enough to overwhelm a well-blooded crew. And Redshore all but undefended, for all it mattered — “three warships, maybe, and two at Seaton, one in Saltmarsh; I’ve counted them myself” — captains stationed there who plainly wished they weren’t. “One good strike and the whole blockade’s ash. Why our princes won’t send the fleet out and do it—” he spread his hands, sloshing the cup — “well. Whatever lines their pockets matters more than how they look, is my guess. All of them. Every last prince.”
 
@@ -60,53 +64,67 @@ The room roared its approval, cups raised. Folsom grinned down at them, riding t
 
 Cheers rose again, and Owen lifted his cup in acknowledgment.
 
-“But I do, in fact, have a song for you all,” Folsom went on, “about our recent adventure.” He drew himself up, weighing which of several songs he’d composed on the crossing home might best suit a room full of off-duty men still raw from three hundred lost comrades — and he found the choice all but made in him already. The last days had worked on the young Marine more than he’d let show — the men dying in the Helm’s bay while they watched helpless from the tower; Fairwind’s soft, certain voice in the dark, naming traitors among the great; the flat brutality of Gouge and Jude, who killed the way other men breathed; the uncanny reach of Paul’s little clay creature; and over all of it the sense that every noble of the Hold was moving pieces in some game the ordinary men only bled for. No gentle tune would hold the half of that. And so, in the end, he chose not the safer song but the sharper.
+“But I do, in fact, have a song for you all,” Folsom went on, “about our recent adventure.” He drew himself up, weighing which of several songs he’d composed on the crossing home might best suit a room full of off-duty men still raw from two hundred lost comrades — and he found the choice all but made in him already. The last days had worked on the young Marine more than he’d let show — the men dying in the Helm’s bay while they watched helpless from the tower; Fairwind’s soft, certain voice in the dark, naming traitors among the great; the flat brutality of Gouge and Jude, who killed the way other men breathed; the uncanny reach of Paul’s little clay creature; and over all of it the sense that every noble of the Hold was moving pieces in some game the ordinary men only bled for. No gentle tune would hold the half of that. And so, in the end, he chose not the safer song but the sharper.
 
 He called it “The Brewing Storm,” and began.
 
+> **Verse 1**  
 > Oh, Monmurg, you’re a jewel on display,  
-> but your leaders have led you astray.  
-> Princes and powers in their gilded halls  
-> can’t see the writing on your walls.  
-> They could grasp the news, if they’d only try,  
-> but it’s your own leaders who are truly blind.
+> But your leaders have led you astray.  
+> Princes and Plars, in their gilded halls,  
+> Can’t see the writing on your walls.  
+> The Duke of Gradsul’s noose will bind,  
+> But it’s your own leaders who are truly blind.
 
-> Oh, princes of the sea, what have you done?  
+> **Chorus**  
+> Oh, Princes of the Sea, what have you done?  
 > Your squabbles and schemes have blocked out the sun.  
 > While you bicker and fight, the city’s in plight,  
-> and the Duke of Gradsul laughs while you fight.
+> And the Duke of Gradsul laughs while you fight.
 
+> **Verse 2**  
 > The navy’s strong, or so they say,  
-> but storms and whispers have led you astray.  
-> The enemy’s fleet, the weaker and slow,  
-> has somehow managed to steal the show.  
-> Is it magic, or treachery — who can tell?  
+> But storms and whispers have led you astray.  
+> The enemy’s fleet, though weaker and slow,  
+> Has somehow managed to steal the show.  
+> Is it magic or treachery, who can tell?  
 > But incompetence might be the cause as well.
 
-> For Torvin in ashes, the food’s running low,  
-> you sit in your castles, putting on a show.  
-> The Prince of Port Toli, with his ships delayed,  
-> plays his own game while the city’s betrayed.  
-> Internal strife, a festering sore,  
-> while Monmurg starves, you all plan for more.  
-> The traders are stuck, the markets are bare,  
-> and the people of Monmurg are in despair.  
-> The Duke of Berghof, with his meager supply,  
-> leaves you to wonder — is this goodbye?  
-> Your allies are distant, your enemies near,  
-> and you do nothing but stroke your own fear.
-
-> Oh, princes of the sea, what have you done?  
+> **Chorus**  
+> Oh, Princes of the Sea, what have you done?  
 > Your squabbles and schemes have blocked out the sun.  
 > While you bicker and fight, the city’s in plight,  
-> and the Duke of Gradsul laughs while you fight too.
+> And the Duke of Gradsul laughs at your blight.
 
-> So here’s to the leaders, the princes and powers,  
-> who’ve turned Monmurg’s fortune to scars.  
+> **Bridge**  
+> Port Torvin’s in ashes, the food’s running low,  
+> Yet you sit in your castles, putting on a show.  
+> The Prince of Port Toli, with his ships bayed,  
+> Plays his own game while the city’s betrayed.  
+> Internal strife, a festering sore,  
+> While Monmurg starves, all plan for more.
+
+> **Verse 3**  
+> The traders are stuck, the markets are bare,  
+> And the people of Monmurg are in despair.  
+> The Prince of Berghof, with his meager supply,  
+> Leaves you to wonder, “Is this goodbye?”  
+> Your allies are distant, your enemies near,  
+> Yet you do nothing but stoke the fear.
+
+> **Chorus**  
+> Oh, Princes of the Sea, what have you done?  
+> Your squabbles and schemes have blocked out the sun.  
+> While you bicker and fight, the city’s in plight,  
+> And the Duke of Gradsul laughs while you fight.
+
+> **Outro**  
+> So here’s to the leaders, the Princes and Plars,  
+> Who’ve turned Monmurg’s fortune into scars.  
 > While you play your games, the city’s in pain,  
-> and the Duke of Gradsul wins again.  
-> Monmurg, your fate’s in their hands,  
-> but it’s their own folly that tightens the bands.
+> And the Duke of Gradsul wins again.  
+> Oh, Monmurg, your fate’s in their hands,  
+> But it’s their own folly that tightens the bands.
 
 The words themselves were sharp and well-turned, the product of real craft laid down over long hours of the crossing home — but the delivery came out rough despite it, his voice cracking once on the high note of the second verse, and the room, once his final line faded, did not roar back the way it had for his introduction.
 

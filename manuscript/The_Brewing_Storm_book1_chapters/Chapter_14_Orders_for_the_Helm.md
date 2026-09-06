@@ -24,7 +24,7 @@ Jude considered that, head tilting in the way Paul was already learning to read.
 
 “No harm.” Jude’s voice hardened by a degree. “It leads us to the Brotherhood, Paul. And they sit well above your Toli rats — greedy opportunists, the Toli, the whole breed of them. For all we know the Toli run errands for the Brotherhood and never learn whose hand feeds them.”
 
-“And where do you come by that?” Paul asked, an edge rising to meet his. “Because you say it?”
+“And where do you come by that?” Paul asked, an edge rising to meet Jude’s. “Because you say it?”
 
 “Because I’ve spent a lifetime doing the work set in front of me, and learning its shape.” Jude did not raise his voice, which somehow made it worse. “You’ll do this. What is it you object to — that we take the vendor, lean on him, threaten him if we must?”
 
@@ -80,7 +80,7 @@ Jude grimaced. “I hate the water. To where?”
 
 “So someone may hold the fortress,” Jude said slowly, “and wears the garrison’s face over it — under cover of that fog. Would that be the front of a larger invasion?”
 
-“Who seizes a fortress meaning to stop there?” Jamis said. “Commodore Fairwind commands the Helm — a seasoned man, five-and-forty or thereabouts, no greybeard but no green recruit either. It may be nothing worse than a weary officer giving a wrong order. But we must know.”
+“Who seizes a fortress meaning to stop there?” Jamis said. “Lord Fairwind commands the Helm — a seasoned man, five-and-forty or thereabouts, no greybeard but no green recruit either. It may be nothing worse than a weary officer giving a wrong order. But we must know.”
 
 “And how are we put ashore?” Jude asked.
 

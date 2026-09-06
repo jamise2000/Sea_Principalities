@@ -16,13 +16,13 @@ Somewhere far below, something surfaced — a tail slapping the water, a sound o
 
 “Something’s down there,” Merrick murmured, straining to listen. He held the rear, close enough to the water below to catch what the others could not; ahead of him Jude kept the gagged Toli in hand, the prisoner stumbling along at the wizard’s side.
 
-“There’s something we need to talk about,” he told the others quietly, drawing them back within earshot. “There’s something big in the water — I heard a tail slap against the surface.”
+“There’s something we need to talk about,” he told Jude and Folsom quietly, drawing them close within earshot. “There’s something big in the water — I heard a tail slap against the surface.”
 
-“How did you hear it and we didn’t?” Tyrus asked.
+“How did you hear it and we didn’t?” Folsom asked.
 
 “Ranger’s ear, that’s all. Doesn’t matter — it’s maybe thirty feet below us now, and we’ve been descending toward it the whole while.” He studied the dark water as best he could, drawing on everything he knew of the sea, and made out at last a shape moving beneath the surface — something built along the lines of a shark, but far larger than any shark had a right to be, patrolling a slow loop through a channel wide enough, here, to swallow it whole.
 
-“How big?” Tyrus asked.
+“How big?” Jude asked.
 
 “Forty feet, near enough.”
 
@@ -30,13 +30,13 @@ Somewhere far below, something surfaced — a tail slapping the water, a sound o
 
 “And it’s not noticed us,” Merrick said. “Just patrolling.”
 
-Gouge, still shaking off the fall, cut through the murmuring, low and hard, and put it to Tyrus. “There’s men on ahead — I got close enough to be sure of that much, no more. We keep moving regardless. If it comes to a fight, whoever reaches a barrel first cracks it and gets the powder into the water — sprinkle it, dump it, whatever it takes. It’s either going to work, or we’re all finished, Fairwind included. In that case, I’d suggest pushing him in first.”
+Gouge, still shaking off the fall, cut through the murmuring, low and hard, and put it to the others. “There’s men on ahead — I got close enough to be sure of that much, no more. We keep moving regardless. If it comes to a fight, whoever reaches a barrel first cracks it and gets the powder into the water — sprinkle it, dump it, whatever it takes. It’s either going to work, or we’re all finished, Fairwind included. In that case, I’d suggest pushing him in first.”
 
-“Understandable,” Tyrus said, and turned to Fairwind, bound and helpless behind them. “Any magic dust in your pockets, by chance?”
+“Understandable,” Jude said, and turned to Fairwind, bound and helpless behind them. “Any magic dust in your pockets, by chance?”
 
 “In my pockets? No,” Fairwind said, dry. “It’s in the barrels you’re all so eager to reach — which is rather the whole of the point, is it not?”
 
-“Long as the creature stays in the water and doesn’t come crawling out on legs,” Tyrus said, “I’m not overly worried.”
+“Long as the creature stays in the water and doesn’t come crawling out on legs,” Folsom said, “I’m not overly worried.”
 
 “It’s a shark, not one of the shark-folk,” Merrick said. “A beast, not a soldier — it hasn’t the legs to come up onto the boards after us, nor the wit to try. It stays in the water.” He said it with a seaman’s certainty, though the truth was he had only ever heard such things spoken of by old fishermen — beasts forty feet long, able to cut a man clean in two — and had never once laid eyes on one until tonight.
 

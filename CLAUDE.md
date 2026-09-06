@@ -5,7 +5,7 @@ All final story chapters are written in Markdown format within the `manuscript/`
 
 ## Workspace Directory Structure
 * `manuscript/` - Contains the latest draft of the Claude generated story. The manuscript is split into two books:
-  * `manuscript/The_Brewing_Storm_book1_chapters/` - **Book One, *The Brewing Storm*** — Chapters 1–48 (PART ZERO through PART SEVEN). Has its own `README.md` table of contents.
+  * `manuscript/The_Brewing_Storm_book1_chapters/` - **Book One, *The Brewing Storm*** — Chapters 1–47 (PART ZERO through PART SEVEN). Has its own `README.md` table of contents.
   * `manuscript/The_Scarlet_Thread_book2_chapters/` - **Book Two, *The Scarlet Thread*** — Chapters 1–8, keeping their original titles (formerly Book One's Ch. 49–56). Parts renumbered for the volume (PART ONE, PART TWO). Has its own `README.md`, a `00_Title_Page.md`, and `CONTINUITY.md` (an index of the shared canon Book Two depends on).
 * `worldbuilding/` - Core lore, magic systems, maps, and timeline logs. **Shared by both books** (single source of truth at the project root).
 * `characters/` - Individual character profiles, motivations, and fatal flaws. **Shared by both books.**

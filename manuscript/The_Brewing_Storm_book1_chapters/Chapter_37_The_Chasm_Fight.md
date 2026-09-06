@@ -6,7 +6,7 @@ Merrick, firing from the deep shadow at the back where no enemy eye could find h
 
 Folsom fought to keep the prisoner pinned — the dagger at his throat more to hold him than from any wish to use it — but it was Paul who undid it. Trying to slip past on the narrow ledge to reach the fighting ahead, he drew even with Fairwind, and the lord’s boot hooked his leg and swept it out from under him.
 
-Paul went over before anyone could catch him, down toward the black water and the pale shape of the Toli’s corpse already floating in it.
+Paul went over before anyone could catch him, down toward the black water and the pale shape of the Toli’s corpse already floating in it. The cold closed over him, and in the moment before the dark did, a thought came with no fear in it — only a flat resentment that he would drown here unproven, a mask and a rumor and a clever boy who had almost, this once, been of use. Then the current had him, and there was room for nothing but the fight to keep his head.
 
 That was all it took. Folsom’s eyes went after Paul for half a heartbeat — and in that half-heartbeat Fairwind snapped his head up under the bard’s jaw, a short, stunning crack that knocked Folsom’s grip loose and his wits sideways, and tore free of him.
 

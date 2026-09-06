@@ -6,6 +6,8 @@ The study was small and close, lined with books neither of them would read that 
 
 “On my mother’s side,” Paul said.
 
+On his father’s side, had he chosen to say it, he might have named Lord Jamis himself — who had sat across from him in council not an hour past, and did not know what he was to Paul. But that was knowledge less than a week old, dug out of a dead man’s letters and a grandmother he had claimed to her face only days ago, and it still sat oddly in him: a whole half of his blood surfacing after twenty-three years, a father to grieve whom he had never once met. He kept it off his tongue, as he kept most things now, behind the blank of the mask.
+
 Jude tilted his head, considering the way Paul moved, the youth still evident beneath a frame that hadn’t yet filled out the way Jeon’s had. “Then Lord Jamis must be something like a godfather to you.”
 
 Paul made a small, noncommittal gesture — not quite agreement, not quite denial.
@@ -18,7 +20,7 @@ Paul made a small, noncommittal gesture — not quite agreement, not quite denia
 
 “Why does it matter so to you where I came by it?” Paul asked.
 
-“So where, then?”
+“Does it matter to you if I know?” Jude asked. “So where, then?”
 
 “I bought it,” Paul said.
 
@@ -32,7 +34,7 @@ And there it was. Jude turned the shrug over behind his stoic calm and found, to
 
 “The feeling does run both ways; I hope you’re keeping me alive too,” Paul said, dry enough that it might have been a joke.
 
-“I’ve only been in Monmurg a week myself, little more,” Jude admitted, and for the first time some of the guarded stillness eased from his posture. “One of the places Lord Phranck called on was a mad old alchemist in the foreign district — a cluttered curio shop off one of the squares. I went in under the cover of commissioning a still and came away with little else; whatever Phranck wanted from him, he wasn’t giving it to a stranger. It’s the only lead I have worth chasing, all the same — because I was followed there.”
+“I’ve only been in Monmurg a week myself, little more,” Jude admitted, and for the first time some of the guardedness eased from his posture. “One of the places Lord Phranck called on was a mad old alchemist in the foreign district — a cluttered curio shop off one of the squares. I went in under the cover of commissioning a still and came away with little else; whatever Phranck wanted from him, he wasn’t giving it to a stranger. It’s the only lead I have worth chasing, all the same — because I was followed there.”
 
 “That’s the foreign district for you,” Paul said, dry. “Half the men on those streets are being followed by someone, and the other half are doing the following. I shouldn’t feel too special about it, if I were you.”
 
@@ -104,7 +106,7 @@ Jude went still in a different way this time — genuine surprise breaking throu
 
 “It understands me well enough,” Paul said, and did not elaborate further, choosing instead to simply watch as the little creature stirred to life at his silent will.
 
-When the wine arrived — the finest Jude had tasted in weeks, a small mercy in a city running short of everything — Paul set the homunculus loose upon the table. It crept across the polished wood, then leapt for the wall and half-glided, half-scrambled its way along it, before slipping under the door and out into the corridor beyond, moving with a stealth Paul had not fully trusted until he saw it proven.
+When the wine arrived — the finest Jude had tasted in weeks — bettered only by what Lord Jamis had pressed on him from his own cellar — a small mercy in a city running short of everything — Paul set the homunculus loose upon the table. It crept across the polished wood, then leapt for the wall and half-glided, half-scrambled its way along it, before slipping under the door and out into the corridor beyond, moving with a stealth Paul had not fully trusted until he saw it proven.
 
 “You’ve managed all this on your own,” Jude observed, something almost approving in it.
 
@@ -114,7 +116,7 @@ They gave the prisoner a quarter hour to stew before descending themselves — l
 
 They left the study together and made their way toward a small, seldom-visited wing of the palace, where a narrow spiral stair wound down into the stone beneath — turn after turn of worn steps carrying them out of the warmth and lamplight of the upper halls and into the cooler, close, mineral air of the dungeons below, further from the world of princes and councils with every descent, and nearer the one where matters like this were more usually settled.
 
-The guards down below barely glanced up as the two of them approached, the dungeon strangely oversized for how sparingly Jeon seemed to use it — whether from mercy or from a simple preference for killing his enemies outright, Paul had never been entirely sure. In the single occupied cell, a young man sat curled in the corner, muttering under his breath, dirty-haired and hollow-eyed with the particular exhaustion of a life spent hungry in the foreign district.
+The guards down below barely glanced up as the two of them approached, the dungeon oddly oversized for how sparingly Jeon seemed to use it — whether from mercy or from a simple preference for killing his enemies outright, Paul had never been entirely sure. In the single occupied cell, a young man sat curled in the corner, muttering under his breath, dirty-haired and hollow-eyed with the particular exhaustion of a life spent hungry in the foreign district.
 
 The jailer, milder in manner than his trade suggested, met them at the bars. “Would you like him brought out, or would you rather question him through the bars?”
 
@@ -144,7 +146,7 @@ Jude cleared his throat and let his voice carry the weight he’d learned to sum
 
 “No,” the prisoner managed.
 
-“Of course you haven’t.” Jude took a sip from the bowl himself, then grimaced at the taste. “God, that’s foul — you deserve better water than this, at least.” He had a wedge of cheese in his free hand, and the prisoner’s eyes went to it and clung — the raw, fixed hunger of a man who had not eaten in days. Jude followed the look and turned the piece over between his fingers. “Not this piece — this is the rind. You’ll want a fresh cut.”
+“Of course you haven’t.” Jude took a sip from the bowl himself, then grimaced at the taste. “Gods, that’s foul — you deserve better water than this, at least.” He had a wedge of cheese in his free hand, and the prisoner’s eyes went to it and clung — the raw, fixed hunger of a man who had not eaten in days. Jude followed the look and turned the piece over between his fingers. “Not this piece — this is the rind. You’ll want a fresh cut.”
 
 The prisoner’s gaze slid past Jude to the silent figure in the corner, and it was to Paul that he made his plea, quick and low. “I had no notion of who you were, sir. I saw a rich merchant heading for the Grand Market. That’s all it was.” Paul gave him nothing back — no word, no motion, only the blank ringed metal of the mask and a stillness behind it that might have held mercy or murder in equal measure. The prisoner found no purchase there, and his eyes dropped away.
 
@@ -232,7 +234,7 @@ Jude studied the young man’s face for any telling flicker — a swallow, a fli
 
 “Desperation, then. That tracks well enough.”
 
-“In better times, sir,” Gregory admitted — and here his eyes went again to the silent, masked figure in the corner, for it was Paul he had marked, and Paul he answered to now — “we’d never have gone after a man like you. Certainly not with just the two of us; we’d have hired someone to lure you properly into an alley, if we’d had coin enough for it.” Paul gave him nothing back, as ever — only the blank ringed metal of the mask and a stillness that neither forgave the attempt nor promised to punish it.
+“In better times, sir,” Gregory admitted — and here his eyes went again to the silent, masked figure in the corner, for it was Paul he had marked, and Paul he answered to now — “we’d never have gone after a man like you. Certainly not with just the two of us; we’d have hired someone to lure you properly into an alley, if we’d had coin enough for it.” Paul gave him nothing back, as ever — only the blank metal of the mask, giving neither anger nor absolution.
 
 “What do you make of Janus? Fair hand at his work, given the circumstances — or does he make strange calls?”
 
@@ -268,7 +270,7 @@ Jude’s brow rose. “A family tradition, then?”
 
 “How many have been seen?”
 
-“Four, sir. Asking after certain people, meeting contacts, spending coin like it was water — odd behavior, the whole of it.” He drew himself up a little, some thin thread of pride surfacing through the fear. “I’ve had eyes on this trade since I was near ten years old — seventeen now — and I know odd when I see it. Then, near five days past, all four of them went out of Monmurg at once, together, and none’s been seen since.”
+“Hard to say for certain, sir — four, perhaps as many as six. Asking after certain people, meeting contacts, spending coin like it was water — odd behavior, the whole of it.” He drew himself up a little, some thin thread of pride surfacing through the fear. “I’ve had eyes on this trade since I was near ten years old — seventeen now — and I know odd when I see it. Then, near five days past, the whole lot of them went out of Monmurg at once, together, and none’s been seen since.”
 
 “How can you be so certain?”
 
@@ -300,7 +302,7 @@ Jude considered the crowded — or these days, half-empty — stalls of the Gran
 
 “Wait,” Paul said, working it through. “I wasn’t wearing it?”
 
-“We marked you before that, sir, coming out of the royal district — and there was something strange about your face even then, waxen and too smooth, with no proper expression to it. We saw you leave the stall, sir, then lost you a while in the crowd — and when we found you again, you were wearing the very mask you’d just bought.”
+“We marked you before that, sir, coming out of the royal district — and there was something off about your face even then, waxen and too smooth, with no proper expression to it. We saw you leave the stall, sir, then lost you a while in the crowd — and when we found you again, you were wearing the very mask you’d just bought.”
 
 “What is that mask, truly,” Paul asked, “to you? Speak plainly — I’ll have the truth, or I’ll have the hand.”
 
@@ -308,7 +310,7 @@ Jude considered the crowded — or these days, half-empty — stalls of the Gran
 
 “So when you say you’d not have targeted me,” Paul pressed, “you took me, from the mask alone, for one of these foreign spies?”
 
-“No, sir, let me set it plain. We saw you come from the royal district, but dressed common — like any merchant. Strange, for where you’d come from. No mask yet, then — plain clothes, a coin purse jingling loud enough to draw any eye in the district. That’s what marked you for us. We followed. There was something wrong about your face, though — human enough, but it moved strangely. Too smooth. Too perfect, if that makes sense.”
+“No, sir, let me set it plain. We saw you come from the royal district, but dressed common — like any merchant. Odd, for where you’d come from. No mask yet, then — plain clothes, a coin purse jingling loud enough to draw any eye in the district. That’s what marked you for us. We followed. There was something wrong about your face, though — human enough, but it didn’t move right. Too smooth. Too perfect, if that makes sense.”
 
 “You weren’t wearing the red monk’s mask yet,” Gregory continued. “We watched you buy it, off a vendor in the market — as if you didn’t quite know what you were purchasing.”
 
@@ -320,13 +322,13 @@ Jude considered the crowded — or these days, half-empty — stalls of the Gran
 
 “No matter,” Jude said, taking the thread back. “We’re more interested in the coin trail regardless. Where do we find him — your friend who ran? Where does he drink, where does he sleep?”
 
-Jude flicked a hand at the jailer — poker away, the good wine brought, not the swill already poured — and the small kindness loosened the young man’s tongue.
+Jude flicked a hand at the jailer — poker away, the good wine brought, not the foul water already offered — and the small kindness loosened the young man’s tongue.
 
 “I like the sound of that, sir,” Gregory said, as Jude poured a glass of wine. “The Homely Wench, sir, in the foreign district,” he went on, some hope creeping in now. “Down toward the docks, not up by the market wall. That’s where you’ll find the friend who ran out on me last night — Jobs, he goes by — he’s about the place as often as not.”
 
 Jude inclined his head, content to let him run on. “And the vendor,” he said, “the one who sold the mask — where does his stall sit?”
 
-Gregory considered, plainly reaching for the little he had. “Looked to be from the east, sir. Some southern country — Spindrift Isles, maybe. I couldn’t tell you much beyond that, in truth.”
+Gregory considered, plainly reaching for the little he had. “Looked to come from the south-east, sir — the Spindrift Isles, maybe. I couldn’t tell you much beyond that, in truth.”
 
 “I’d like to trust you,” Jude said, weighing the whole account. “More than that — I’d like to use you, often, for information. I think you understand the value in that. Let’s say you remain here a while longer, while we verify what you’ve given us — beginning with these assassins who supposedly left five days past.”
 
@@ -410,7 +412,7 @@ Paul glanced at Jude. “Do we know anything more of the thieves’ guild, from 
 
 The question drew something up in Jude he did not often let surface. “There was an assassins’ guild in this city once,” he said, slower now. “Not so many years back — a proper one, blades for hire and worse. It’s gone. Broken.”
 
-He let a breath pass, and the memory came with it, unwelcome and vivid: a night, a narrow stair, three of them climbing it in the dark on Lord Jamis’s own quiet order — himself, and Gouge, and Karmirg — sent to see the thing ended. Room by room through the guild’s own headquarters they had gone, and by the time the dawn came up there was no one left inside to see it. Not one of the assassins walked out alive.
+He let a breath pass, and the memory came with it, unwelcome and vivid: a night, a narrow stair, three of them climbing it in the dark on Lord Jamis’s own quiet order — himself, and Gouge, and Karmirg — sent to see the thing ended. It had suited Gouge well enough; the guild’s ruin cleared his own turf as much as it served the spymaster, and he had needed no persuading to the work. Room by room through the guild’s own headquarters they had gone, and by the time the dawn came up there was no one left inside to see it. Not one of the assassins walked out alive.
 
 It was not the dying that had stayed with him. He had felt no horror at the deaths, nor at his own hand in them; the men had earned their ending, and he had made his peace with such work long before that night. What stayed with him was the manner of it — the way each of the three of them had gone about the slaughter, and what he had seen of himself in the seeing. Gouge had killed the way a hard man drinks, close and wet and unhurried, taking a plain animal satisfaction in the work. And Karmirg’s orc blood had shown plainest of all, a red joy in the breaking of bodies that no half of his human side had ever quite civilized.
 
