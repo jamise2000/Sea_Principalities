@@ -26,6 +26,8 @@
 
 **Query status:** old query **B (Baywin)** is now **RESOLVED**. Old query **A (Sacnon vs. Sconforth, the Toli prince's name — cross-book)** remains **OPEN**, to be settled when Book Two is reviewed.
 
+**Proof regenerated & final verification (this pass):** 47 chapters, **299 pages**, trim confirmed **432 × 648 pts** (6×9), **0 LaTeX errors**. Author byline set to **James A. Edwards** (recorded in `About_the_author.md`; the manuscript title page previously carried none). Text: curly quotes balance exactly (**1,885** open / 1,885 close), **0** residual straight quotes, **0** ASCII/spaced ellipses, **0** unbalanced paragraphs. Title page, TOC, part dividers, chapter openers, running heads, and the Ch. 44 verse (song set with bold section labels) all render correctly. Proof at `proofs/The_Brewing_Storm_Book1_page_proofs.pdf`.
+
 ---
 
 ### 1. Typography — straight quotes → typographic (curly) quotes  *(global)*
