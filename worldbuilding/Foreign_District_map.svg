@@ -1,0 +1,189 @@
+<svg viewBox="0 0 1060 820" xmlns="http://www.w3.org/2000/svg" font-family="'Palatino Linotype','Book Antiqua',Georgia,serif">
+  <defs>
+    <pattern id="warren" width="26" height="22" patternUnits="userSpaceOnUse" patternTransform="rotate(8)">
+      <rect width="26" height="22" fill="#e3d0a6"/>
+      <rect x="1" y="1" width="9" height="7" fill="#d3ba86" stroke="#6f5636" stroke-width="0.6"/>
+      <rect x="13" y="3" width="8" height="6" fill="#cdb079" stroke="#6f5636" stroke-width="0.6"/>
+      <rect x="5" y="12" width="10" height="7" fill="#d8c08c" stroke="#6f5636" stroke-width="0.6"/>
+      <rect x="17" y="13" width="6" height="6" fill="#cdb079" stroke="#6f5636" stroke-width="0.6"/>
+    </pattern>
+    <radialGradient id="seaG" cx="90%" cy="50%" r="90%">
+      <stop offset="0%" stop-color="#8fb3bf"/>
+      <stop offset="100%" stop-color="#adc9d1"/>
+    </radialGradient>
+  </defs>
+
+  <!-- parchment -->
+  <rect x="0" y="0" width="1060" height="820" fill="#efe3c8"/>
+  <rect x="8" y="8" width="1044" height="804" fill="none" stroke="#7a5e37" stroke-width="2"/>
+  <rect x="14" y="14" width="1032" height="792" fill="none" stroke="#7a5e37" stroke-width="0.8"/>
+
+  <!-- ===== THE SEA (east) ===== -->
+  <path d="M 872 14 C 856 120, 900 220, 872 320 C 848 410, 902 500, 876 600 C 856 690, 900 760, 884 806 L 1046 806 L 1046 14 Z" fill="url(#seaG)" stroke="#6f97a3" stroke-width="1.2"/>
+  <g stroke="#6f97a3" stroke-width="1.1" fill="none" opacity="0.7">
+    <path d="M 915 90 q 14 -8 28 0 t 28 0"/>
+    <path d="M 950 170 q 14 -8 28 0 t 28 0"/>
+    <path d="M 915 250 q 14 -8 28 0 t 28 0"/>
+    <path d="M 955 340 q 14 -8 28 0 t 28 0"/>
+    <path d="M 915 430 q 14 -8 28 0 t 28 0"/>
+    <path d="M 955 520 q 14 -8 28 0 t 28 0"/>
+    <path d="M 915 610 q 14 -8 28 0 t 28 0"/>
+    <path d="M 950 700 q 14 -8 28 0 t 28 0"/>
+  </g>
+  <text x="985" y="415" fill="#3d5b64" font-size="26" font-style="italic" text-anchor="middle" transform="rotate(90 985 415)" letter-spacing="6">THE AZURE SEA</text>
+
+  <!-- ===== NEIGHBORING DISTRICTS (north) ===== -->
+  <!-- Palace District (beyond the north-west gate) -->
+  <rect x="30" y="26" width="300" height="86" fill="#e7dcc1" stroke="#7a5e37" stroke-width="1" stroke-dasharray="5 4"/>
+  <text x="180" y="60" fill="#5b4a30" font-size="15" text-anchor="middle" letter-spacing="2">TO THE PALACE</text>
+  <text x="180" y="80" fill="#5b4a30" font-size="15" text-anchor="middle" letter-spacing="2">DISTRICT</text>
+  <text x="180" y="100" fill="#7a5e37" font-size="13" text-anchor="middle">↓ via the Northern Guard House</text>
+
+  <!-- Harbor District -->
+  <rect x="120" y="26" width="0" height="0"/>
+  <rect x="352" y="26" width="230" height="86" fill="#e7dcc1" stroke="#7a5e37" stroke-width="1" stroke-dasharray="5 4"/>
+  <text x="467" y="66" fill="#5b4a30" font-size="15" text-anchor="middle" letter-spacing="2">HARBOR</text>
+  <text x="467" y="86" fill="#5b4a30" font-size="15" text-anchor="middle" letter-spacing="2">DISTRICT</text>
+
+  <!-- Grand Market -->
+  <rect x="602" y="26" width="252" height="86" fill="#e7dcc1" stroke="#7a5e37" stroke-width="1" stroke-dasharray="5 4"/>
+  <text x="728" y="66" fill="#5b4a30" font-size="15" text-anchor="middle" letter-spacing="2">THE GRAND</text>
+  <text x="728" y="86" fill="#5b4a30" font-size="15" text-anchor="middle" letter-spacing="2">MARKET</text>
+
+  <!-- ===== FOREIGN DISTRICT WALL ===== -->
+  <!-- interior fill (slightly warmer, denser) -->
+  <path d="M 96 132 L 838 132 C 820 260, 862 420, 836 560 C 820 650, 852 720, 840 726 L 96 726 Z" fill="#eaddbe"/>
+  <!-- the wall itself (heavy), north + west + south; east is the shore -->
+  <path d="M 838 132 L 96 132 L 96 726 L 840 726" fill="none" stroke="#7a5e37" stroke-width="7"/>
+  <!-- crenellation ticks along the wall -->
+  <g stroke="#7a5e37" stroke-width="2">
+    <path d="M120 132 v-9 M170 132 v-9 M220 132 v-9 M270 132 v-9 M320 132 v-9 M370 132 v-9 M420 132 v-9 M470 132 v-9 M520 132 v-9 M570 132 v-9 M620 132 v-9 M670 132 v-9 M720 132 v-9 M770 132 v-9 M820 132 v-9"/>
+    <path d="M96 170 h-9 M96 220 h-9 M96 270 h-9 M96 320 h-9 M96 370 h-9 M96 420 h-9 M96 470 h-9 M96 520 h-9 M96 570 h-9 M96 620 h-9 M96 670 h-9"/>
+    <path d="M150 726 v9 M210 726 v9 M270 726 v9 M330 726 v9 M390 726 v9 M450 726 v9 M510 726 v9 M570 726 v9 M630 726 v9 M690 726 v9 M750 726 v9 M810 726 v9"/>
+  </g>
+
+  <!-- gates -->
+  <!-- Northern Guard House gate (to Palace) -->
+  <rect x="150" y="123" width="46" height="18" fill="#efe3c8" stroke="#7a5e37" stroke-width="2"/>
+  <rect x="150" y="118" width="12" height="14" fill="#c9b183" stroke="#5c4a30" stroke-width="1.4"/>
+  <rect x="184" y="118" width="12" height="14" fill="#c9b183" stroke="#5c4a30" stroke-width="1.4"/>
+  <text x="205" y="118" fill="#453a28" font-size="12.5" font-weight="bold">1  Northern Guard House</text>
+  <!-- Harbor gate -->
+  <rect x="360" y="125" width="40" height="14" fill="#efe3c8" stroke="#7a5e37" stroke-width="2"/>
+  <!-- Market gate -->
+  <rect x="690" y="125" width="40" height="14" fill="#efe3c8" stroke="#7a5e37" stroke-width="2"/>
+
+  <!-- ===== STREETS ===== -->
+  <!-- Beggar's Row: wide north thoroughfare from Harbor gate to Market gate -->
+  <path d="M 150 178 L 812 178" stroke="#f4ecd6" stroke-width="26" stroke-linecap="round"/>
+  <path d="M 150 178 L 812 178" stroke="#b79a68" stroke-width="0.8" stroke-dasharray="2 6" opacity="0.7"/>
+  <text x="470" y="165" fill="#5b4a30" font-size="14" font-style="italic" text-anchor="middle" letter-spacing="1">Beggar’s Row</text>
+  <!-- connect gates down to Beggar's Row -->
+  <path d="M 380 139 L 380 178 M 710 139 L 710 178 M 173 141 L 173 178" stroke="#f4ecd6" stroke-width="14" stroke-linecap="round"/>
+
+  <!-- Street of the Gods: central north-south, lined with temples -->
+  <path d="M 470 190 C 452 300, 486 380, 470 520" stroke="#f4ecd6" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <path d="M 470 190 C 452 300, 486 380, 470 520" stroke="#b79a68" stroke-width="0.8" fill="none" stroke-dasharray="2 6" opacity="0.7"/>
+  <text x="512" y="300" fill="#5b4a30" font-size="14" font-style="italic" transform="rotate(84 512 300)" text-anchor="middle" letter-spacing="1">Street of the Gods</text>
+  <!-- little temples along it -->
+  <g fill="#d3ba86" stroke="#6f5636" stroke-width="1">
+    <path d="M 430 214 l 12 -12 l 12 12 z"/><rect x="431" y="214" width="22" height="12"/>
+    <path d="M 486 250 a 11 11 0 0 1 22 0 z"/><rect x="486" y="250" width="22" height="12"/>
+    <path d="M 428 300 l 12 -12 l 12 12 z"/><rect x="429" y="300" width="22" height="12"/>
+    <path d="M 486 350 a 11 11 0 0 1 22 0 z"/><rect x="486" y="350" width="22" height="12"/>
+    <path d="M 430 402 l 12 -12 l 12 12 z"/><rect x="431" y="402" width="22" height="12"/>
+    <path d="M 486 452 a 11 11 0 0 1 22 0 z"/><rect x="486" y="452" width="22" height="12"/>
+  </g>
+
+  <!-- winding labyrinthine streets -->
+  <g stroke="#f4ecd6" stroke-width="10" fill="none" stroke-linecap="round">
+    <path d="M 150 250 C 260 240, 320 300, 300 380 C 285 450, 360 470, 470 470"/>
+    <path d="M 300 380 C 240 430, 200 520, 260 560"/>
+    <path d="M 470 470 C 560 470, 620 520, 640 590"/>
+    <path d="M 640 590 C 700 560, 770 560, 812 470"/>
+    <path d="M 470 470 C 470 540, 520 600, 560 660"/>
+    <path d="M 200 300 C 160 360, 150 440, 180 520"/>
+    <path d="M 640 300 C 700 340, 760 360, 800 300"/>
+  </g>
+  <g stroke="#b79a68" stroke-width="0.7" fill="none" stroke-dasharray="2 6" opacity="0.55">
+    <path d="M 150 250 C 260 240, 320 300, 300 380 C 285 450, 360 470, 470 470"/>
+    <path d="M 470 470 C 560 470, 620 520, 640 590"/>
+    <path d="M 640 590 C 700 560, 770 560, 812 470"/>
+  </g>
+
+  <!-- ===== LOCATIONS ===== -->
+
+  <!-- Foreign Quarters (near Grand Market) -->
+  <g stroke="#7a5e37" stroke-width="1.2" fill="#d8c199">
+    <rect x="648" y="210" width="150" height="86"/>
+    <line x1="648" y1="238" x2="798" y2="238"/><line x1="648" y1="266" x2="798" y2="266"/>
+    <line x1="698" y1="210" x2="698" y2="296"/><line x1="748" y1="210" x2="748" y2="296"/>
+  </g>
+  <text x="723" y="255" fill="#453a28" font-size="12.5" font-weight="bold" text-anchor="middle">2  Foreign</text>
+  <text x="723" y="271" fill="#453a28" font-size="12.5" font-weight="bold" text-anchor="middle">Quarters</text>
+
+  <!-- Plaza of Dark Delights (central) -->
+  <polygon points="470,432 512,452 512,498 470,520 428,498 428,452" fill="#e6d3a6" stroke="#7a5e37" stroke-width="1.6"/>
+  <circle cx="470" cy="476" r="12" fill="none" stroke="#7a5e37" stroke-width="1"/>
+  <text x="470" y="480" fill="#453a28" font-size="12.5" font-weight="bold" text-anchor="middle">3</text>
+  <text x="470" y="536" fill="#453a28" font-size="12.5" font-style="italic" text-anchor="middle">Plaza of Dark Delights</text>
+
+  <!-- Alchemist's Shop (west-central, off a small square) -->
+  <rect x="252" y="384" width="52" height="40" fill="#d8c199" stroke="#7a5e37" stroke-width="1.4"/>
+  <path d="M 260 384 l 0 -12 l 10 0 l 0 12" fill="#cdb079" stroke="#6f5636" stroke-width="1"/>
+  <text x="278" y="408" fill="#453a28" font-size="12.5" font-weight="bold" text-anchor="middle">4</text>
+  <text x="220" y="372" fill="#453a28" font-size="12" text-anchor="middle">The Alchemist’s Shop</text>
+
+  <!-- The Warren (poorest, driftwood maze) -->
+  <path d="M 130 556 L 470 556 L 470 706 L 130 706 Z" fill="url(#warren)" stroke="#6f5636" stroke-width="1.4"/>
+  <text x="205" y="695" fill="#4a3a22" font-size="16" font-style="italic" letter-spacing="1">The Warren</text>
+
+  <!-- Thieves' Guild (big stone building in the middle of the Warren) -->
+  <rect x="286" y="596" width="80" height="58" fill="#bfa471" stroke="#4a3a22" stroke-width="2.4"/>
+  <line x1="286" y1="615" x2="366" y2="615" stroke="#4a3a22" stroke-width="1"/>
+  <rect x="318" y="636" width="16" height="18" fill="#4a3a22"/>
+  <text x="326" y="586" fill="#453a28" font-size="12.5" font-weight="bold" text-anchor="middle">5  Thieves’ Guild</text>
+
+  <!-- Ferd's Bar + alleys (rough SE) -->
+  <rect x="596" y="588" width="66" height="46" fill="#d3ba86" stroke="#5c4a30" stroke-width="1.8"/>
+  <line x1="596" y1="606" x2="662" y2="606" stroke="#5c4a30" stroke-width="1"/>
+  <rect x="622" y="616" width="14" height="18" fill="#4a3a22"/>
+  <text x="629" y="580" fill="#453a28" font-size="12.5" font-weight="bold" text-anchor="middle">6  Ferd’s Bar</text>
+  <!-- Blood Alley (marked, beside Ferd's) -->
+  <path d="M 662 600 L 726 596" stroke="#8a2b22" stroke-width="6" stroke-linecap="round"/>
+  <text x="700" y="588" fill="#8a2b22" font-size="11.5" font-weight="bold" text-anchor="middle">7 Blood Alley</text>
+  <!-- Murder Alley (smaller, darker, dead-end blind alley) -->
+  <path d="M 640 634 L 648 672" stroke="#3a2320" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="649" cy="674" r="3.5" fill="#3a2320"/>
+  <text x="690" y="666" fill="#3a2320" font-size="11.5" font-weight="bold" text-anchor="middle">8 Murder Alley</text>
+
+  <!-- Shadow Docks (east shore) -->
+  <g stroke="#5c4a30" stroke-width="4" stroke-linecap="round">
+    <path d="M 834 452 L 892 448"/><path d="M 834 486 L 900 486"/><path d="M 834 520 L 890 526"/>
+  </g>
+  <rect x="800" y="470" width="34" height="34" fill="#c9b183" stroke="#5c4a30" stroke-width="1.6"/>
+  <text x="815" y="440" fill="#3d3020" font-size="12.5" font-weight="bold" text-anchor="middle">9  Shadow Docks</text>
+
+  <!-- ===== TITLE CARTOUCHE ===== -->
+  <g>
+    <rect x="120" y="742" width="470" height="60" rx="4" fill="#e7dcc1" stroke="#7a5e37" stroke-width="1.5"/>
+    <text x="355" y="768" fill="#3a2f22" font-size="21" text-anchor="middle" letter-spacing="3">THE FOREIGN DISTRICT</text>
+    <text x="355" y="790" fill="#6f5636" font-size="13" font-style="italic" text-anchor="middle">the walled quarter of Monmurg · Hold of the Sea Princes</text>
+  </g>
+
+  <!-- ===== COMPASS ===== -->
+  <g transform="translate(986,735)">
+    <circle r="30" fill="#efe3c8" stroke="#7a5e37" stroke-width="1.4"/>
+    <polygon points="0,-26 6,0 0,8 -6,0" fill="#7a5e37"/>
+    <polygon points="0,26 6,0 0,-8 -6,0" fill="#c9b183" stroke="#7a5e37" stroke-width="0.6"/>
+    <text x="0" y="-32" fill="#3a2f22" font-size="13" text-anchor="middle" font-weight="bold">N</text>
+    <text x="0" y="43" fill="#3a2f22" font-size="12" text-anchor="middle">S</text>
+    <text x="40" y="4" fill="#3a2f22" font-size="12" text-anchor="middle">E</text>
+    <text x="-40" y="4" fill="#3a2f22" font-size="12" text-anchor="middle">W</text>
+  </g>
+
+  <!-- note -->
+  <text x="612" y="762" fill="#6f5636" font-size="11.5" font-style="italic">“If it cannot be found in the Foreign District,</text>
+  <text x="612" y="778" fill="#6f5636" font-size="11.5" font-style="italic">then it does not exist.” The wall is patrolled to</text>
+  <text x="612" y="794" fill="#6f5636" font-size="11.5" font-style="italic">keep the district in, not to keep the city out.</text>
+</svg>
