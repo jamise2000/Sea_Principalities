@@ -1,0 +1,484 @@
+1
+00:00:00,563 --> 00:00:04,410
+[SPEAKER_01]: Okay, so you're in a readying mage named Wes.
+
+2
+00:00:05,232 --> 00:00:05,553
+[SPEAKER_01]: Okay.
+
+3
+00:00:06,755 --> 00:00:09,600
+[SPEAKER_01]: You are somebody that has lived in the Sea Principality.
+
+4
+00:00:11,206 --> 00:00:13,988
+[SPEAKER_01]: And you are from the city of Monmurg.
+
+5
+00:00:14,469 --> 00:00:15,389
+[SPEAKER_01]: You're very smart.
+
+6
+00:00:16,430 --> 00:00:21,034
+[SPEAKER_01]: And you've studied in the libraries here quite a bit, okay?
+
+7
+00:00:21,454 --> 00:00:27,739
+[SPEAKER_01]: You're not a noble, but you are from a family that's fairly wealthy, merchants.
+
+8
+00:00:28,059 --> 00:00:31,802
+[SPEAKER_00]: However, you never wanted to go into that side of the business.
+
+9
+00:00:31,842 --> 00:00:32,862
+[SPEAKER_00]: You've always been a sage.
+
+10
+00:00:34,444 --> 00:00:39,968
+[SPEAKER_00]: You have kind of exhausted the libraries that you have access to.
+
+11
+00:00:41,698 --> 00:00:54,060
+[SPEAKER_01]: But you knew of one man in the foreign district of Monmurg who is an exceptional alchemist.
+
+12
+00:00:54,800 --> 00:00:59,441
+[SPEAKER_01]: And he's the one, your mentor, that has taught you how to be a mage.
+
+13
+00:01:00,261 --> 00:01:06,462
+[SPEAKER_01]: He recognized your ability and your interest in magic.
+
+14
+00:01:06,662 --> 00:01:09,563
+[SPEAKER_01]: And even though most Sewell
+
+15
+00:01:10,888 --> 00:01:17,595
+[SPEAKER_01]: Will not take on Iridian apprentices.
+
+16
+00:01:18,396 --> 00:01:21,559
+[SPEAKER_00]: This guy was not biased in any way.
+
+17
+00:01:21,599 --> 00:01:22,219
+[SPEAKER_00]: He's very old.
+
+18
+00:01:22,299 --> 00:01:22,960
+[SPEAKER_00]: He is Seul.
+
+19
+00:01:23,180 --> 00:01:24,181
+[SPEAKER_00]: He's a transmuter.
+
+20
+00:01:24,542 --> 00:01:32,770
+[SPEAKER_00]: Transmuters are a little different than other mages because they are more open to teaching their knowledge to other people.
+
+21
+00:01:34,603 --> 00:01:40,167
+[SPEAKER_01]: So over the last couple of years you've worked with him as his lab assistant and he's given you lots of knowledge.
+
+22
+00:01:40,207 --> 00:01:49,473
+[SPEAKER_01]: He's taught you how to cast spells, given you your spell book, basically made you the wizard you are today, okay?
+
+23
+00:01:52,015 --> 00:01:54,357
+[SPEAKER_01]: His name is Albashon.
+
+24
+00:01:56,968 --> 00:02:03,654
+[SPEAKER_01]: And he has a workshop in the foreign district of Monmurg, which is a great grand city.
+
+25
+00:02:04,094 --> 00:02:05,916
+[SPEAKER_00]: The foreign district is kind of a slum.
+
+26
+00:02:06,376 --> 00:02:08,198
+[SPEAKER_00]: That's where all the foreigners have to stay.
+
+27
+00:02:08,878 --> 00:02:13,863
+[SPEAKER_00]: They can go to the merchant district and sell their wares, but when they're in town they have to stay in the foreign district.
+
+28
+00:02:14,083 --> 00:02:15,004
+[SPEAKER_00]: Kind of like a pawn shop.
+
+29
+00:02:16,865 --> 00:02:21,429
+[SPEAKER_00]: Well, this is kind of where the thieves hang out because they like to take advantage of foreigners.
+
+30
+00:02:21,890 --> 00:02:25,433
+[SPEAKER_00]: So the foreign district is kind of like, it's not a Wild West.
+
+31
+00:02:25,533 --> 00:02:38,304
+[SPEAKER_00]: There are guards that come through, but it's not nearly as secure as the Royal District or the Harbor District or the Scholars District, which you have had access to.
+
+32
+00:02:38,625 --> 00:02:39,586
+[SPEAKER_00]: It's a little bit more
+
+33
+00:02:42,662 --> 00:02:43,122
+[SPEAKER_00]: Crazy.
+
+34
+00:02:43,723 --> 00:02:45,244
+[SPEAKER_00]: Just a little bit more wild.
+
+35
+00:02:45,364 --> 00:02:48,047
+[SPEAKER_00]: It's like the bad part of town is the way you think of it, right?
+
+36
+00:02:48,227 --> 00:02:51,449
+[SPEAKER_00]: And there are parts of the foreign district that are really bad.
+
+37
+00:02:51,690 --> 00:02:52,310
+[SPEAKER_00]: Parts of town.
+
+38
+00:02:52,570 --> 00:02:56,614
+[SPEAKER_00]: Now, his workshop is not a bad part of the foreign district.
+
+39
+00:02:56,654 --> 00:03:05,041
+[SPEAKER_00]: In fact, it's fairly close to the royal district and the scholars district.
+
+40
+00:03:06,860 --> 00:03:11,942
+[SPEAKER_00]: But it's still in the foreign district, so it can be dangerous and you never go out at night.
+
+41
+00:03:12,042 --> 00:03:14,242
+[SPEAKER_02]: Are they still doing exceptionally good?
+
+42
+00:03:14,902 --> 00:03:15,143
+[SPEAKER_02]: Who?
+
+43
+00:03:15,543 --> 00:03:16,383
+[SPEAKER_02]: The place.
+
+44
+00:03:16,983 --> 00:03:17,523
+[SPEAKER_02]: The business?
+
+45
+00:03:17,563 --> 00:03:18,263
+[SPEAKER_02]: Yeah, the business.
+
+46
+00:03:19,044 --> 00:03:20,584
+[SPEAKER_01]: The Alchemist's business?
+
+47
+00:03:21,024 --> 00:03:24,105
+[SPEAKER_00]: He has people that come and talk to him all the time.
+
+48
+00:03:24,725 --> 00:03:34,108
+[SPEAKER_00]: And in fact, when he does, usually you go into the back because you don't want people
+
+49
+00:03:35,625 --> 00:03:36,286
+[SPEAKER_00]: To know you're there.
+
+50
+00:03:37,747 --> 00:03:44,731
+[SPEAKER_00]: I mean, he'll get you to do tasks and stuff like that, but generally when people show up, you make yourself scarce, okay?
+
+51
+00:03:48,174 --> 00:03:54,558
+[SPEAKER_00]: During the day, he will have you go and fetch stuff from the marketplace, reagents, chemicals, stuff like that.
+
+52
+00:03:55,179 --> 00:04:00,843
+[SPEAKER_00]: He lives in Monmurg basically because the grand market, he has access to
+
+53
+00:04:02,712 --> 00:04:05,953
+[SPEAKER_00]: Huge amounts of resources that he uses in his experiments.
+
+54
+00:04:06,693 --> 00:04:11,474
+[SPEAKER_00]: And he has basically used you to help him do his experiments.
+
+55
+00:04:11,554 --> 00:04:17,655
+[SPEAKER_00]: And you've learned quite a bit over the last few years regarding what he does.
+
+56
+00:04:17,975 --> 00:04:19,155
+[SPEAKER_00]: He is an alchemist.
+
+57
+00:04:20,215 --> 00:04:21,215
+[SPEAKER_01]: He makes potions.
+
+58
+00:04:21,775 --> 00:04:23,016
+[SPEAKER_01]: He works on chemicals.
+
+59
+00:04:24,176 --> 00:04:28,677
+[SPEAKER_01]: He reads this tome called the Magnum Opus, which is a
+
+60
+00:04:32,298 --> 00:04:46,349
+[SPEAKER_01]: A scientific book written by a very powerful transmuter a thousand years ago, this guy named Ujor Udias, that teaches you how to distill chemicals and do stuff like that, right?
+
+61
+00:04:46,970 --> 00:04:56,157
+[SPEAKER_01]: You have not read it yourself, it's in ancient Seul, but he's been teaching you how to read ancient Seul, something that most Iridians don't ever get to learn.
+
+62
+00:04:56,778 --> 00:04:59,760
+[SPEAKER_01]: Ancient Seul is the language of magic.
+
+63
+00:05:00,781 --> 00:05:07,169
+[SPEAKER_01]: And the original Seul Empire was the first human empire that developed magic and used it.
+
+64
+00:05:07,750 --> 00:05:12,956
+[SPEAKER_01]: Very few iridians in the world have ever gotten to be powerful wizards.
+
+65
+00:05:13,356 --> 00:05:14,297
+[SPEAKER_01]: Most of them are Seul.
+
+66
+00:05:15,356 --> 00:05:21,081
+[SPEAKER_01]: In the ancient histories of the past, however, there have been some flannish wizards that were very powerful.
+
+67
+00:05:21,741 --> 00:05:26,725
+[SPEAKER_01]: In fact, it was rumored that Vangna himself was a powerful wizard.
+
+68
+00:05:26,946 --> 00:05:31,029
+[SPEAKER_01]: He decided to become a necromancer as his school of magic.
+
+69
+00:05:31,069 --> 00:05:42,999
+[SPEAKER_01]: However, he was a wizard, someone that used learning and knowledge instead of sorcerers' abilities to do things through their charisma and will of power.
+
+70
+00:05:43,936 --> 00:05:44,196
+[SPEAKER_01]: Right.
+
+71
+00:05:44,957 --> 00:05:52,565
+[SPEAKER_00]: Now, as an Iridian, you feel yourself very lucky to be able to have found a mentor that would be willing to teach you.
+
+72
+00:05:54,026 --> 00:05:56,068
+[SPEAKER_00]: Your mentor is Sewell.
+
+73
+00:05:57,329 --> 00:05:59,872
+[SPEAKER_00]: He has access to all of that knowledge.
+
+74
+00:06:02,334 --> 00:06:02,935
+[SPEAKER_02]: Okay.
+
+75
+00:06:10,384 --> 00:06:18,428
+[SPEAKER_01]: And he is consulted a lot by sages from around the world.
+
+76
+00:06:18,888 --> 00:06:25,312
+[SPEAKER_01]: It seems that a lot of people know that he is very knowledgeable and powerful, particularly when it comes to alchemy.
+
+77
+00:06:26,732 --> 00:06:34,456
+[SPEAKER_01]: And you have seen many people come through his door during these times.
+
+78
+00:06:34,616 --> 00:06:37,978
+[SPEAKER_01]: And like I said, normally when this happens, you make yourself scarce.
+
+79
+00:06:38,838 --> 00:06:39,919
+[SPEAKER_01]: Do you have any questions?
+
+80
+00:06:42,188 --> 00:06:46,297
+[SPEAKER_02]: No, not really.
+
+81
+00:06:46,858 --> 00:06:52,369
+[SPEAKER_02]: One question though actually is, when you keep saying Seoul, is that his name or his race?
+
+82
+00:06:53,484 --> 00:06:54,965
+[SPEAKER_02]: Albinath is his name.
+
+83
+00:06:55,546 --> 00:06:57,447
+[SPEAKER_01]: Sewell is his race.
+
+84
+00:06:58,028 --> 00:07:00,950
+[SPEAKER_01]: And let me tell you a little bit about Sewell.
+
+85
+00:07:00,970 --> 00:07:03,793
+[SPEAKER_01]: What's the difference between Sewell and Arrhenius?
+
+86
+00:07:04,673 --> 00:07:07,676
+[SPEAKER_01]: Sewell are usually fair.
+
+87
+00:07:08,617 --> 00:07:10,658
+[SPEAKER_00]: They have white skin, very white skin.
+
+88
+00:07:11,419 --> 00:07:13,801
+[SPEAKER_00]: They have usually red or blonde hair.
+
+89
+00:07:14,702 --> 00:07:15,563
+[SPEAKER_00]: That's the color of their hair.
+
+90
+00:07:15,603 --> 00:07:19,266
+[SPEAKER_00]: Sometimes they have black hair, but usually that's because they're mixed race.
+
+91
+00:07:22,214 --> 00:07:27,759
+[SPEAKER_00]: They are very fine-featured, thin, and tall, primarily.
+
+92
+00:07:28,840 --> 00:07:30,241
+[SPEAKER_00]: Not many of them are
+
+93
+00:07:33,631 --> 00:07:35,872
+[SPEAKER_00]: They're bulky, but they're not weak either.
+
+94
+00:07:36,212 --> 00:07:39,913
+[SPEAKER_00]: In fact, they tend towards being of normal build.
+
+95
+00:07:39,993 --> 00:07:51,697
+[SPEAKER_00]: Even though there can be large Sewell as well, just like any other races, most of them tend to be more refined and delicate, dexterous and so on.
+
+96
+00:07:51,957 --> 00:07:54,018
+[SPEAKER_00]: But I think the thing that really kind of
+
+97
+00:07:57,526 --> 00:08:11,860
+[SPEAKER_01]: What separates them is their fair skin, their white hair, some of them have white hair, their red hair, blue eyes, even though some of them have green, some of them have brown, but blue seems to be predominant among them.
+
+98
+00:08:13,962 --> 00:08:15,744
+[SPEAKER_00]: Aridians are kind of like us.
+
+99
+00:08:17,005 --> 00:08:18,506
+[SPEAKER_00]: Think of them as Germanic.
+
+100
+00:08:21,110 --> 00:08:25,192
+[SPEAKER_00]: They tend to be bigger, burlier than Sualar.
+
+101
+00:08:25,972 --> 00:08:27,853
+[SPEAKER_00]: Their backgrounds are martial.
+
+102
+00:08:28,353 --> 00:08:31,435
+[SPEAKER_00]: In other words, there are more warriors among them than there are wizards.
+
+103
+00:08:32,335 --> 00:08:34,596
+[SPEAKER_00]: They don't really have any sorcerers.
+
+104
+00:08:35,537 --> 00:08:40,859
+[SPEAKER_00]: There are some spellcasters, wizards, however they come about.
+
+105
+00:08:41,219 --> 00:08:45,741
+[SPEAKER_00]: Aradians usually do not like magic casters.
+
+106
+00:08:46,502 --> 00:08:48,663
+[SPEAKER_00]: Especially not in Keoland or
+
+107
+00:08:51,706 --> 00:08:54,209
+[SPEAKER_00]: In the countries to the east.
+
+108
+00:08:55,210 --> 00:08:59,095
+[SPEAKER_00]: However, Monmurg and the Sea Principalities is different.
+
+109
+00:08:59,375 --> 00:09:01,037
+[SPEAKER_00]: They have a more open view of things.
+
+110
+00:09:01,878 --> 00:09:09,508
+[SPEAKER_00]: There are five princes in the Sea Principalities, and one of those princes is a prince from Seul descent.
+
+111
+00:09:09,868 --> 00:09:11,029
+[SPEAKER_00]: The other ones are Iridians.
+
+112
+00:09:11,978 --> 00:09:19,087
+[SPEAKER_00]: The Sewell, the Toli is what they are called, are known to be very good magic users.
+
+113
+00:09:19,648 --> 00:09:25,215
+[SPEAKER_00]: And because Monmurg is such a cosmopolitan place, magic is abounding here.
+
+114
+00:09:26,016 --> 00:09:26,296
+[SPEAKER_00]: Right?
+
+115
+00:09:27,238 --> 00:09:30,201
+[SPEAKER_00]: Anyway, so that's your background.
+
+116
+00:09:30,682 --> 00:09:30,982
+[SPEAKER_00]: Okay.
+
+117
+00:09:32,124 --> 00:09:33,365
+[SPEAKER_00]: Any questions?
+
+118
+00:09:33,405 --> 00:09:33,626
+[SPEAKER_00]: Nope.
+
+119
+00:09:34,187 --> 00:09:34,907
+[SPEAKER_00]: Okay, Leslie.
+
+120
+00:09:36,309 --> 00:09:37,150
+[SPEAKER_00]: Are you ready to start?
+
+121
+00:09:37,871 --> 00:09:38,192
+[SPEAKER_00]: Yes.
+

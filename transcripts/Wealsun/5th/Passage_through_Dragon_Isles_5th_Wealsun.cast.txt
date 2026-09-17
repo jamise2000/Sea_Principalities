@@ -1,0 +1,8 @@
+# Cast for Passage_through_Dragon_Isles_5th_Wealsun
+# Expected voices: 5
+DM
+Folsom
+Tyrus
+Gouge
+Merrick
+Owen (NPC, DM-voiced)

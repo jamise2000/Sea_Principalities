@@ -1,0 +1,8 @@
+# Cast for Departure_from_Monmurg_4th_Wealsun
+# Expected voices: 5
+DM
+Gouge
+Merrick
+Tyrus
+Folsom
+Owen (NPC, DM-voiced)

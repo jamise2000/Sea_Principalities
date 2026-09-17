@@ -1,0 +1,6 @@
+# Cast for Paul_hurries_toward_the_fire_4th_Wealsun
+# Expected voices: 2
+DM
+Paul
+Rodiger (NPC, DM-voiced)
+agents (NPC, DM-voiced)

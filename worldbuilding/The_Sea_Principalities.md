@@ -711,7 +711,7 @@ the first look of the yearly “harvest” and are
 picky about the slaves that they choose to
 purchase, paying gold for those that they
 want but rejecting the rest. The phrase “The
-Feraixian’s Share” refers to the company of
+Fieraxian’s Share” refers to the company of
 slaves the overlords of Hokar purchase at the
 end of the raiding season and has come to
 mean the greater, higher quality, part of any
@@ -1229,7 +1229,7 @@ illegal.
 
 ### The Fieraxian’s Share
 
-The phrase “The Feraixian’s Share” refers to
+The phrase “The Fieraxian’s Share” refers to
 the company of slaves the overlords of Hokar
 purchase at the end of the raiding season in
 the Slaver’s Square of Port Toli. The overlords

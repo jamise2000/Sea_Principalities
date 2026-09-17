@@ -1,0 +1,7 @@
+# Cast for Gouge_Merrick_etal_travel_to_Barracks_2nd_Wealsun
+# Expected voices: 5
+DM
+Merrick
+Gouge
+Tyrus
+Folsom

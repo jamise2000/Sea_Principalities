@@ -14,8 +14,8 @@ All final story chapters are written in Markdown format within the `manuscript/`
 * **Chapter citations across books:** Book One chapters are cited as "Ch. NN"; Book Two chapters are cited as "Book 2 Ch. N" to keep the two numberings distinct.
 
 ## Transcript format and location
-* `transcipts/transcripts.lst` - Contains a list of the transcript file entries and the subdirectories they are located in. Transcripts are listed in order. **The files listed in `transcripts.lst` are the verbatim, authoritative transcripts — the true source of truth.** Any transcript file NOT listed in `transcripts.lst` (for example, anything under `transcripts/cleaned/`) is a duplicate and may be unreliable; always verify against the `transcripts.lst` files.
-* **Split by book:** the root `transcripts/transcripts.lst` now lists **Book One** only (ending at `Wealsun/3rd/Long_term_reaction_to_The_Brewing_Storm`). The **Book Two** transcripts live under `transcripts/book2/` with their own authoritative list, `transcripts/book2/transcripts.lst` (paths relative to `transcripts/book2/`). Each book's `.lst` is the source of truth for that book.
+* `transcripts/*.lst` - Transcript index files, one entry per line: the file path (no extension) followed by a comma and the cast/speaker list (an NPC/DM-voiced speaker may carry a leading `*`). Entries are in play order. **The files listed in the applicable `.lst` are the verbatim, authoritative transcripts — the true source of truth.** Any transcript not listed (for example under `transcripts/cleaned/` or `transcripts/raw/`) is a duplicate and may be unreliable; always verify against the listed files.
+* **Split by book (current layout):** completed books are archived under their own subdirectory; the current/active book lives at the `transcripts/` root. **Book One** transcripts are in `transcripts/book1/`, indexed by **`transcripts/transcripts.book1.lst`** (66 entries; paths point into `book1/`, ending at `Wealsun/3rd/Long_term_reaction_to_The_Brewing_Storm`). The **current/working book (Book Two and onward)** lives under `transcripts/Wealsun/…`, indexed by **`transcripts/transcripts.working.lst`**. Each list is the source of truth for its book.
 * **Transcript composition**: Each transcript is composed of 2 files, the \*.cast.txt file and a \*.txt file.
 * **Cast file**: The \*.cast.txt file contains the expected number of voices and a list of the character names in transcript.
 * **Text file**: The text file contains entries of the actual conversation of the session. Each line starts with an identified spearker, [SPEAKER_##]:, and the text of what was said.
@@ -24,6 +24,13 @@ All final story chapters are written in Markdown format within the `manuscript/`
 * **Speaker identity**: In a unique transcript assume that each speaker is identified as a single voice.
 * **Speaker changes**: The [SPEAKER_##] identifiers do not transfer from transcript to transcript, i.e. a cast member could be identified as [SPEAKER_01] in one transcript but be [SPEAKER_02] in another.
 * **Crosstalk/Out-of-band**: Some entries do not have to do with the game or story. Modern references, use of non-character names and non-game mentions should be ignored for the purposes of the story.
+
+## Transcript cleanup duties
+Before a transcript is drafted into prose it gets two cleanup passes. Author-approved edits to the raw record are allowed here (log any body edit beyond `[out-of-band]` tagging in `transcripts/manuscript_divergences.md`):
+* **Cast mapping file**: For each transcript, create `<transcript_name>_cast_mapping.md` in the **same directory as the transcript**. It maps each diarization speaker tag (`[SPEAKER_##]`) to the cast — a tag is a *voice*, not a fixed character, and one tag can carry the DM narrating, an NPC in-character, and that player's out-of-character asides. Decide the mapping from **direct mentions in the transcript, the characters' descriptions/personalities (`characters/`), and story context** — never assume a tag equals one fixed person.
+* **Mapping file structure**: (1) the **cast** (from the `.lst`/`.cast.txt`); (2) a **speaker → character mapping table** (tag · primary speaker · also carries · evidence); (3) a **"Flagged ambiguities" section below the mapping** for anything uncertain — the author edits this file to correct them; (4) an **out-of-band line list** and any **speaker discontinuities** (e.g., a player reading another character's part).
+* **Out-of-band tagging in the body**: Flag crosstalk/out-of-band lines (dice, rules/edition banter, modern references, real-world interruptions, non-character names) **directly in the transcript** by placing an **`[out-of-band]`** tag *before* the speaker tag on that line — e.g. `[out-of-band] [SPEAKER_01]: I'm gonna go watch some TV`. Be conservative: tag only clear non-story lines.
+* **Canonical names**: the mapping's name choices follow `worldbuilding/Name_Normalization_Key.md`.
 
 
 ## Narrative & Style Constraints

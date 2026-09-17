@@ -1,0 +1,512 @@
+1
+00:00:00,625 --> 00:00:12,853
+[SPEAKER_01]: Okay, so Gouge, you go back to the bar and get an ale from there and then walk outside into an alleyway and sit there drinking your ale in the shadows.
+
+2
+00:00:13,093 --> 00:00:13,334
+[SPEAKER_01]: Yes.
+
+3
+00:00:13,474 --> 00:00:13,694
+[SPEAKER_01]: Right?
+
+4
+00:00:14,514 --> 00:00:15,515
+[SPEAKER_01]: Roll your stealth.
+
+5
+00:00:16,376 --> 00:00:21,019
+[SPEAKER_02]: Okay, cool Terry.
+
+6
+00:00:21,739 --> 00:00:22,640
+[SPEAKER_02]: You want high.
+
+7
+00:00:26,182 --> 00:00:27,503
+[SPEAKER_02]: One plus ten is eleven.
+
+8
+00:00:28,324 --> 00:00:28,684
+[SPEAKER_01]: Okay.
+
+9
+00:00:31,466 --> 00:00:36,730
+[SPEAKER_01]: So you're sitting there, and you probably sit there and drink for maybe two minutes.
+
+10
+00:00:38,071 --> 00:00:49,780
+[SPEAKER_01]: And then you see Folsom rushing down from the market where you had gone first, basically into Red Shore.
+
+11
+00:00:50,100 --> 00:00:52,102
+[SPEAKER_01]: And he's got this worried look on his face.
+
+12
+00:00:52,842 --> 00:00:55,024
+[SPEAKER_01]: And you see him coming towards the bar like,
+
+13
+00:00:56,197 --> 00:01:01,459
+[SPEAKER_01]: Kind of looking in there, trying to see what's going on, and he sees the dead bodies.
+
+14
+00:01:01,979 --> 00:01:02,239
+[SPEAKER_01]: Right?
+
+15
+00:01:02,520 --> 00:01:03,920
+[SPEAKER_01]: What are you going to do?
+
+16
+00:01:03,940 --> 00:01:05,781
+[SPEAKER_01]: I'm going to whistle at them.
+
+17
+00:01:05,801 --> 00:01:07,161
+[SPEAKER_01]: Okay.
+
+18
+00:01:08,282 --> 00:01:22,408
+[SPEAKER_01]: You hear a whistle, and you see like a figure sitting in the alleyway, if you could call it an alleyway, next to this ramshackle bar.
+
+19
+00:01:22,808 --> 00:01:23,688
+[SPEAKER_01]: Do I not know who it is?
+
+20
+00:01:24,889 --> 00:01:25,649
+[SPEAKER_01]: World perception?
+
+21
+00:01:29,380 --> 00:01:29,820
+[SPEAKER_01]: Seventeen.
+
+22
+00:01:30,741 --> 00:01:31,362
+[SPEAKER_01]: Plus three.
+
+23
+00:01:31,722 --> 00:01:32,102
+[SPEAKER_01]: You know.
+
+24
+00:01:33,403 --> 00:01:35,425
+[SPEAKER_01]: The shape of Gouge.
+
+25
+00:01:36,786 --> 00:01:37,226
+[SPEAKER_01]: Tall.
+
+26
+00:01:40,288 --> 00:01:41,609
+[SPEAKER_01]: The way he's lounging.
+
+27
+00:01:42,210 --> 00:01:42,730
+[SPEAKER_01]: The whistle.
+
+28
+00:01:46,373 --> 00:01:47,433
+[SPEAKER_00]: You're pretty relieved.
+
+29
+00:01:47,674 --> 00:01:47,954
+[SPEAKER_00]: Yeah.
+
+30
+00:01:48,034 --> 00:01:50,055
+[SPEAKER_00]: Actually, what do you do?
+
+31
+00:01:50,075 --> 00:01:51,997
+[SPEAKER_00]: I immediately cast Message.
+
+32
+00:01:52,257 --> 00:01:52,577
+[SPEAKER_00]: Okay.
+
+33
+00:01:53,098 --> 00:01:54,078
+[SPEAKER_00]: Since we're far away still.
+
+34
+00:01:56,340 --> 00:01:58,542
+[SPEAKER_00]: And I message to him.
+
+35
+00:02:00,454 --> 00:02:01,175
+[SPEAKER_00]: Are you guys alright?
+
+36
+00:02:04,277 --> 00:02:05,738
+[SPEAKER_02]: I can't speak back through messaging.
+
+37
+00:02:05,998 --> 00:02:06,639
+[SPEAKER_00]: Yes, you can.
+
+38
+00:02:07,019 --> 00:02:08,180
+[SPEAKER_00]: It's just our minds talking.
+
+39
+00:02:08,700 --> 00:02:08,840
+[SPEAKER_02]: Oh.
+
+40
+00:02:11,562 --> 00:02:14,805
+[SPEAKER_02]: A good fight got beat down a bit, but came out on top.
+
+41
+00:02:15,305 --> 00:02:15,886
+[SPEAKER_02]: Everyone's alive?
+
+42
+00:02:16,226 --> 00:02:16,426
+[SPEAKER_02]: Yeah.
+
+43
+00:02:17,527 --> 00:02:18,308
+[SPEAKER_02]: They're back at the ship.
+
+44
+00:02:20,349 --> 00:02:24,032
+[SPEAKER_00]: Uh... Owen sent them.
+
+45
+00:02:26,234 --> 00:02:26,614
+[SPEAKER_00]: Okay.
+
+46
+00:02:28,109 --> 00:02:28,729
+[SPEAKER_00]: Where's Owen?
+
+47
+00:02:30,350 --> 00:02:32,511
+[SPEAKER_00]: He took me to a ship beyond the merchants.
+
+48
+00:02:34,072 --> 00:02:35,813
+[SPEAKER_00]: And he's far away, right?
+
+49
+00:02:35,913 --> 00:02:36,093
+[SPEAKER_00]: Yeah.
+
+50
+00:02:37,834 --> 00:02:39,514
+[SPEAKER_00]: I'm walking towards him.
+
+51
+00:02:39,534 --> 00:02:39,735
+[SPEAKER_00]: Okay.
+
+52
+00:02:40,455 --> 00:02:42,436
+[SPEAKER_00]: I just want to get the information immediately.
+
+53
+00:02:42,636 --> 00:02:42,796
+[SPEAKER_00]: Okay.
+
+54
+00:02:42,816 --> 00:02:44,417
+[SPEAKER_00]: I'm walking towards him.
+
+55
+00:02:45,017 --> 00:02:45,918
+[SPEAKER_00]: How did you get out of there?
+
+56
+00:02:47,438 --> 00:02:52,060
+[SPEAKER_00]: Long story short, I blinded him.
+
+57
+00:02:53,001 --> 00:02:56,923
+[SPEAKER_00]: He had a Toli, a Toli friend who I stabbed.
+
+58
+00:02:59,263 --> 00:03:04,487
+[SPEAKER_00]: They hurt pretty well and I ran off their ship.
+
+59
+00:03:04,527 --> 00:03:05,068
+[SPEAKER_00]: You unharmed?
+
+60
+00:03:05,988 --> 00:03:06,349
+[SPEAKER_00]: I'm great.
+
+61
+00:03:06,789 --> 00:03:08,070
+[SPEAKER_00]: I did not scratch on me.
+
+62
+00:03:08,450 --> 00:03:10,172
+[SPEAKER_00]: They tried to imprison me and take me to...
+
+63
+00:03:14,155 --> 00:03:15,796
+[SPEAKER_00]: They tried to take me to King Toli.
+
+64
+00:03:17,297 --> 00:03:18,178
+[SPEAKER_00]: Take him as his prisoner.
+
+65
+00:03:24,123 --> 00:03:24,463
+[SPEAKER_02]: Okay.
+
+66
+00:03:26,325 --> 00:03:26,725
+[SPEAKER_02]: What now?
+
+67
+00:03:29,436 --> 00:03:30,517
+[SPEAKER_02]: We takin' the ship and leavin'?
+
+68
+00:03:36,261 --> 00:03:36,962
+[SPEAKER_00]: Where would we go?
+
+69
+00:03:39,824 --> 00:03:40,504
+[SPEAKER_00]: Back to Monmurg?
+
+70
+00:03:40,544 --> 00:03:47,550
+[SPEAKER_00]: Back to Monmurg.
+
+71
+00:03:48,350 --> 00:03:48,871
+[SPEAKER_00]: I guess so.
+
+72
+00:03:50,212 --> 00:03:51,533
+[SPEAKER_00]: I ask Gouge.
+
+73
+00:03:52,613 --> 00:03:53,234
+[SPEAKER_00]: They're at the ship?
+
+74
+00:03:53,254 --> 00:03:56,056
+[SPEAKER_00]: Yeah, they're near it, by it.
+
+75
+00:03:56,636 --> 00:03:58,558
+[SPEAKER_00]: Okay.
+
+76
+00:04:00,978 --> 00:04:02,839
+[SPEAKER_00]: Is there a huge crowd of people around me?
+
+77
+00:04:03,640 --> 00:04:06,502
+[SPEAKER_01]: There are people all over the place, right?
+
+78
+00:04:06,682 --> 00:04:08,783
+[SPEAKER_00]: I get up and start walking to the ship.
+
+79
+00:04:08,943 --> 00:04:09,404
+[SPEAKER_01]: I say, wait.
+
+80
+00:04:11,245 --> 00:04:21,011
+[SPEAKER_00]: And then, this is out of question, like, uh, Owen has, does he have a bad reputation here?
+
+81
+00:04:21,051 --> 00:04:21,912
+[SPEAKER_00]: You have no idea.
+
+82
+00:04:21,992 --> 00:04:22,632
+[SPEAKER_00]: I have no idea?
+
+83
+00:04:22,652 --> 00:04:23,052
+[SPEAKER_00]: Yeah.
+
+84
+00:04:23,793 --> 00:04:25,254
+[SPEAKER_01]: Obviously he has allies.
+
+85
+00:04:26,555 --> 00:04:27,135
+[SPEAKER_01]: Contacts.
+
+86
+00:04:28,656 --> 00:04:29,397
+[SPEAKER_00]: I was gonna say...
+
+87
+00:04:31,433 --> 00:04:41,319
+[SPEAKER_00]: Maybe if you back me up, I can yell to these people to beware of Owen, to look out for him so he just ruins his reputation here.
+
+88
+00:04:44,461 --> 00:04:48,543
+[SPEAKER_02]: I'd rather not stir up any type of ruckus, other than what we did.
+
+89
+00:04:51,945 --> 00:04:54,427
+[SPEAKER_02]: I don't know, we should get back to the other guys and figure this out.
+
+90
+00:04:56,868 --> 00:04:59,110
+[SPEAKER_02]: Because if he sent that, I don't know if maybe he sent more.
+
+91
+00:05:00,196 --> 00:05:05,418
+[SPEAKER_02]: Or they let two guys go, which I wasn't happy with, and there might be more coming, so let's get back to that.
+
+92
+00:05:05,618 --> 00:05:05,878
+[SPEAKER_01]: Okay.
+
+93
+00:05:07,578 --> 00:05:08,499
+[SPEAKER_01]: All right.
+
+94
+00:05:08,659 --> 00:05:11,600
+[SPEAKER_01]: So the two of you walk back down the docks towards the boat.
+
+95
+00:05:11,700 --> 00:05:12,400
+[SPEAKER_02]: You're not going to run.
+
+96
+00:05:12,600 --> 00:05:14,641
+[SPEAKER_02]: Nothing like... You just acted normal.
+
+97
+00:05:14,781 --> 00:05:15,021
+[SPEAKER_01]: Yeah.
+
+98
+00:05:15,661 --> 00:05:16,101
+[SPEAKER_01]: All right.
+
+99
+00:05:16,281 --> 00:05:20,322
+[SPEAKER_02]: I tell him my epic heroicism.
+
+100
+00:05:24,144 --> 00:05:25,124
+[SPEAKER_00]: Well, I don't know it.
+
+101
+00:05:25,404 --> 00:05:26,304
+[SPEAKER_00]: Oh, no.
+
+102
+00:05:27,445 --> 00:05:28,385
+[SPEAKER_00]: He brought me into the ship.
+
+103
+00:05:30,582 --> 00:05:33,244
+[SPEAKER_00]: He tried to spare me from me getting buddy-buddy with him.
+
+104
+00:05:35,245 --> 00:05:36,766
+[SPEAKER_00]: And tried to kill you three.
+
+105
+00:05:38,627 --> 00:05:45,952
+[SPEAKER_00]: And they wanted me to, as a prisoner, as an entertainer for, for, for, uh, what's his name, my goodness, Caintoli.
+
+106
+00:05:47,493 --> 00:05:49,754
+[SPEAKER_00]: And, uh, they gave me a bottle of rum.
+
+107
+00:05:50,535 --> 00:05:53,717
+[SPEAKER_00]: A shot of it to take before I put my hands in the binds.
+
+108
+00:05:55,098 --> 00:05:56,038
+[SPEAKER_00]: So I took the glass.
+
+109
+00:05:57,270 --> 00:06:02,374
+[SPEAKER_00]: It's a heroic Owen Black splashed in his eye, blinding him.
+
+110
+00:06:03,415 --> 00:06:07,578
+[SPEAKER_00]: I got my rapier out and stabbed his lowly friend and ran out of the ship.
+
+111
+00:06:09,180 --> 00:06:09,540
+[SPEAKER_02]: Okay.
+
+112
+00:06:10,841 --> 00:06:25,033
+[SPEAKER_00]: So, his friend is very injured, stabbed through his shoulder, plus my sick burn of telling him I hope that stung more than the shot of Rumwood seemed to get him, so he's pretty
+
+113
+00:06:26,373 --> 00:06:27,074
+[SPEAKER_00]: Pretty weak and...
+
+114
+00:06:28,235 --> 00:06:28,575
+[SPEAKER_00]: Okay.
+
+115
+00:06:30,297 --> 00:06:32,439
+[SPEAKER_00]: Um...
+
+116
+00:06:32,459 --> 00:06:33,380
+[SPEAKER_00]: I wanted to... Well...
+
+117
+00:06:34,101 --> 00:06:38,906
+[SPEAKER_00]: I wanted to get Owen as a hostage, but I just... Yeah, I don't know if we can go back.
+
+118
+00:06:39,306 --> 00:06:40,788
+[SPEAKER_02]: I don't know if we can go back and try to get him.
+
+119
+00:06:41,489 --> 00:06:42,810
+[SPEAKER_02]: We need the others for sure.
+
+120
+00:06:42,830 --> 00:06:44,172
+[SPEAKER_02]: I'm um...
+
+121
+00:06:46,117 --> 00:06:53,701
+[SPEAKER_02]: Yeah, because we've all taken a decent amount of damage, so I don't think we should try anything without everyone together.
+
+122
+00:06:54,101 --> 00:06:59,224
+[SPEAKER_02]: So let's put their two heads together and find out, because I don't know what this place is, if they're gonna...
+
+123
+00:07:00,785 --> 00:07:05,808
+[SPEAKER_02]: The phone's under protection now, or if nobody gives a shit and we can go get them.
+
+124
+00:07:07,028 --> 00:07:07,949
+[SPEAKER_01]: All right.
+
+125
+00:07:08,289 --> 00:07:10,290
+[SPEAKER_01]: So the two of you walk back to the boat?
+
+126
+00:07:10,310 --> 00:07:10,530
+[SPEAKER_02]: Mm-hmm.
+
+127
+00:07:11,731 --> 00:07:11,931
+[SPEAKER_02]: All right.
+
+128
+00:07:12,351 --> 00:07:13,572
+[SPEAKER_01]: You get there and reach your friends.
+

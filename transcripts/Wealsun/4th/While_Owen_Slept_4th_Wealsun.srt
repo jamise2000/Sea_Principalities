@@ -1,0 +1,736 @@
+1
+00:00:01,110 --> 00:00:12,576
+[SPEAKER_02]: Evening of the fourth o'clock time, Owen Black returns to the cabins, leaving the four crewmen on the ship.
+
+2
+00:00:13,116 --> 00:00:14,337
+[SPEAKER_00]: Somebody else had a bump with him.
+
+3
+00:00:18,721 --> 00:00:19,181
+[SPEAKER_00]: With Owen?
+
+4
+00:00:19,561 --> 00:00:22,562
+[SPEAKER_00]: Yeah, somebody else had hit the day to now.
+
+5
+00:00:22,582 --> 00:00:27,104
+[SPEAKER_00]: I assume he's in his own quarters.
+
+6
+00:00:27,304 --> 00:00:29,045
+[SPEAKER_02]: What he's saying is somebody else should go to sleep.
+
+7
+00:00:29,305 --> 00:00:31,746
+[SPEAKER_00]: Yeah, there's two quarters there, though.
+
+8
+00:00:31,826 --> 00:00:35,427
+[SPEAKER_00]: There's two rooms, two bunks, two whatever.
+
+9
+00:00:37,107 --> 00:00:41,169
+[SPEAKER_00]: Well, if you guys don't need me, I can get to it, Bart.
+
+10
+00:00:41,449 --> 00:00:43,530
+[SPEAKER_00]: No singing of songs in the middle of the night.
+
+11
+00:00:46,723 --> 00:00:53,167
+[SPEAKER_02]: Okay, so you go into the cabin for eight hours to sleep, leaving the three of you on deck.
+
+12
+00:00:53,427 --> 00:00:53,647
+[SPEAKER_02]: Okay.
+
+13
+00:00:54,247 --> 00:01:00,871
+[SPEAKER_02]: Do you guys want to have a discussion about anything or just go through the night?
+
+14
+00:01:10,637 --> 00:01:11,838
+[SPEAKER_03]: You got a handle on this, right?
+
+15
+00:01:13,018 --> 00:01:13,919
+[SPEAKER_03]: What you need to be doing?
+
+16
+00:01:13,939 --> 00:01:15,820
+[SPEAKER_03]: Of course.
+
+17
+00:01:21,520 --> 00:01:22,541
+[SPEAKER_03]: I don't want to have to think too much.
+
+18
+00:01:25,483 --> 00:01:26,043
+[SPEAKER_01]: Leave that to me.
+
+19
+00:01:27,764 --> 00:01:28,364
+[SPEAKER_03]: That's the goal.
+
+20
+00:01:28,384 --> 00:01:36,049
+[SPEAKER_03]: Yeah.
+
+21
+00:01:39,872 --> 00:01:42,053
+[SPEAKER_03]: Feel free to share your thoughts.
+
+22
+00:01:42,794 --> 00:01:50,139
+[SPEAKER_03]: I'll give my input but obviously you've got your
+
+23
+00:01:52,696 --> 00:02:04,146
+[SPEAKER_01]: I would just like to know anything and everything about what Owen's been up to lately and how he might be tied to the incident we had back at Helm Island.
+
+24
+00:02:04,766 --> 00:02:10,732
+[SPEAKER_00]: Well, I do think it's pretty odd that he escaped the help of a couple of bugbears and then happens to get his ship back.
+
+25
+00:02:11,392 --> 00:02:13,054
+[SPEAKER_00]: Just throwing that out there.
+
+26
+00:02:13,714 --> 00:02:15,476
+[SPEAKER_00]: I'm not saying I don't like the guy.
+
+27
+00:02:15,716 --> 00:02:17,318
+[SPEAKER_00]: Just saying it's pretty an odd deal.
+
+28
+00:02:18,365 --> 00:02:28,494
+[SPEAKER_01]: And his close ties to Kane Tolley, I think it would be in best interest for me to try to get cozy with Kane Tolley and Owen.
+
+29
+00:02:30,416 --> 00:02:31,737
+[SPEAKER_03]: Well, yeah.
+
+30
+00:02:32,238 --> 00:02:36,121
+[SPEAKER_03]: Anyone that's going to earn his trust, I'm the last one on that list.
+
+31
+00:02:39,024 --> 00:02:40,986
+[SPEAKER_03]: I agree.
+
+32
+00:02:41,686 --> 00:02:44,268
+[SPEAKER_03]: I don't think he's too far involved in it, but he might know enough.
+
+33
+00:02:45,136 --> 00:02:49,639
+[SPEAKER_03]: I don't think he's that involved, I think he's just more of an helpful idiot.
+
+34
+00:02:51,180 --> 00:02:52,540
+[SPEAKER_01]: Owen will go where the money is.
+
+35
+00:02:54,461 --> 00:02:55,842
+[SPEAKER_01]: But Owen has ears like us too.
+
+36
+00:02:57,343 --> 00:02:57,523
+[SPEAKER_01]: Yeah.
+
+37
+00:02:57,903 --> 00:03:00,765
+[SPEAKER_01]: So it would be good to pry his mind as much as we could.
+
+38
+00:03:01,726 --> 00:03:09,430
+[SPEAKER_01]: He seems to take a liking to Folsom, so maybe when he's up we can try to see if he can work a name as Bard Charm.
+
+39
+00:03:09,710 --> 00:03:12,232
+[SPEAKER_01]: Maybe hopefully write a song to get Owen a little more excited.
+
+40
+00:03:16,132 --> 00:03:17,253
+[SPEAKER_01]: Keep Owen happy.
+
+41
+00:03:17,533 --> 00:03:19,793
+[SPEAKER_01]: Keep them sharp eyes on that horizon out there.
+
+42
+00:03:20,573 --> 00:03:23,234
+[SPEAKER_01]: Leave the digging to me, but if he says anything, please let me know.
+
+43
+00:03:24,494 --> 00:03:28,895
+[SPEAKER_03]: Yeah, and also let Folsum know.
+
+44
+00:03:30,875 --> 00:03:34,256
+[SPEAKER_03]: He might throw a couple jabs at one of us in the song.
+
+45
+00:03:35,036 --> 00:03:39,417
+[SPEAKER_03]: Might really tie Owen in even better with him.
+
+46
+00:03:40,017 --> 00:03:41,918
+[SPEAKER_00]: Anything to boost Evan's ego, I think, is good.
+
+47
+00:03:43,071 --> 00:03:50,293
+[SPEAKER_00]: But the big thing is that these supplies are going to help the city of Monmurg release some of the tensions.
+
+48
+00:03:50,413 --> 00:03:51,453
+[SPEAKER_00]: That's the important part.
+
+49
+00:03:53,274 --> 00:03:54,154
+[SPEAKER_00]: So it would seem.
+
+50
+00:03:55,634 --> 00:03:57,375
+[SPEAKER_01]: Yeah.
+
+51
+00:03:57,395 --> 00:03:58,175
+[SPEAKER_01]: Where is that?
+
+52
+00:03:59,655 --> 00:04:00,195
+[SPEAKER_01]: You never know.
+
+53
+00:04:00,235 --> 00:04:01,456
+[SPEAKER_01]: Good man.
+
+54
+00:04:01,516 --> 00:04:03,556
+[SPEAKER_01]: All right.
+
+55
+00:04:03,996 --> 00:04:05,237
+[SPEAKER_01]: I'm going to keep my eyes on the sea.
+
+56
+00:04:06,357 --> 00:04:07,917
+[SPEAKER_01]: I'm going to keep sailing forward.
+
+57
+00:04:08,358 --> 00:04:09,578
+[SPEAKER_02]: All right.
+
+58
+00:04:10,850 --> 00:04:18,695
+[SPEAKER_02]: Around midnight, you turn the ship into the space between the islands.
+
+59
+00:04:18,856 --> 00:04:19,376
+[SPEAKER_02]: Into the wind?
+
+60
+00:04:19,996 --> 00:04:20,997
+[SPEAKER_02]: Is the wind still coming north?
+
+61
+00:04:21,297 --> 00:04:22,558
+[SPEAKER_02]: The wind's still going north.
+
+62
+00:04:22,658 --> 00:04:23,339
+[SPEAKER_02]: Okay.
+
+63
+00:04:23,359 --> 00:04:24,760
+[SPEAKER_02]: And you begin to pick up speed.
+
+64
+00:04:24,780 --> 00:04:25,180
+[SPEAKER_02]: Okay?
+
+65
+00:04:25,280 --> 00:04:25,640
+[SPEAKER_02]: Okay.
+
+66
+00:04:26,461 --> 00:04:35,227
+[SPEAKER_02]: Now this gap is probably about, I would say, between three and five miles as you go through it.
+
+67
+00:04:36,919 --> 00:04:40,700
+[SPEAKER_02]: Do you want to stay close to the shoreline or do you want to go just down the middle?
+
+68
+00:04:43,541 --> 00:04:47,161
+[SPEAKER_02]: There are watchtowers and light towers on both sides.
+
+69
+00:04:47,301 --> 00:04:52,843
+[SPEAKER_03]: Obviously you would know better than the rest of us, but is this friendly?
+
+70
+00:04:53,423 --> 00:04:54,503
+[SPEAKER_03]: This is friendly water.
+
+71
+00:04:54,523 --> 00:04:55,663
+[SPEAKER_03]: These are friendly waters.
+
+72
+00:04:55,723 --> 00:04:58,044
+[SPEAKER_03]: This isn't where we've got to be.
+
+73
+00:04:58,124 --> 00:05:01,505
+[SPEAKER_03]: You would know where you would have to be when we come around here.
+
+74
+00:05:01,885 --> 00:05:02,985
+[SPEAKER_03]: We've got to have peeled eyes.
+
+75
+00:05:04,496 --> 00:05:10,680
+[SPEAKER_02]: A Commodore's patrol may try to intercept you.
+
+76
+00:05:10,760 --> 00:05:15,624
+[SPEAKER_02]: They do patrol these waters, but it's very rare, and if you know the signals, they won't mess with you.
+
+77
+00:05:15,664 --> 00:05:25,010
+[SPEAKER_01]: What would I know is more, at this time of day, this area, are ships going to be usually, I'd assume, probably closer to the shoreline versus out in the middle?
+
+78
+00:05:25,210 --> 00:05:25,491
+[SPEAKER_01]: Well...
+
+79
+00:05:27,445 --> 00:05:30,507
+[SPEAKER_02]: Normally the big ships go in the middle.
+
+80
+00:05:30,547 --> 00:05:35,030
+[SPEAKER_01]: I'm going to say go to the middle, but I am going to lean closer to this.
+
+81
+00:05:35,650 --> 00:05:37,331
+[SPEAKER_01]: So I'm not dead in the middle.
+
+82
+00:05:37,491 --> 00:05:39,212
+[SPEAKER_01]: If I need to, I can go to it.
+
+83
+00:05:39,453 --> 00:05:40,513
+[SPEAKER_01]: Hug this as we go around?
+
+84
+00:05:40,873 --> 00:05:44,015
+[SPEAKER_01]: Hug it, but not right upon it.
+
+85
+00:05:44,776 --> 00:05:45,796
+[SPEAKER_01]: We can see it from a distance.
+
+86
+00:05:48,378 --> 00:05:54,142
+[SPEAKER_02]: So the night goes on, and at four in the morning,
+
+87
+00:05:55,327 --> 00:05:57,048
+[SPEAKER_02]: You're kind of coming out of it.
+
+88
+00:05:57,528 --> 00:06:04,790
+[SPEAKER_02]: Do you want to continue or do you want to wake up on black or do you want to wait until morning comes?
+
+89
+00:06:05,810 --> 00:06:06,611
+[SPEAKER_01]: I want to slow down.
+
+90
+00:06:06,631 --> 00:06:08,691
+[SPEAKER_01]: Is the wind still with us?
+
+91
+00:06:08,911 --> 00:06:09,812
+[SPEAKER_01]: Oh yeah.
+
+92
+00:06:09,912 --> 00:06:10,692
+[SPEAKER_01]: Speed's our friend.
+
+93
+00:06:12,032 --> 00:06:14,933
+[SPEAKER_01]: I do want to check the waters.
+
+94
+00:06:14,953 --> 00:06:15,934
+[SPEAKER_01]: I want to check the area again.
+
+95
+00:06:17,112 --> 00:06:20,033
+[SPEAKER_01]: Is there still sahagin a ton floating by us, or is that kind of washed out?
+
+96
+00:06:20,053 --> 00:06:22,335
+[SPEAKER_02]: No, sahagin washed out around here.
+
+97
+00:06:22,455 --> 00:06:26,236
+[SPEAKER_03]: Ah shit, I should have slept a few hours before this.
+
+98
+00:06:26,977 --> 00:06:29,918
+[SPEAKER_03]: Well, I'm pretty much laying on the deck anyway.
+
+99
+00:06:31,259 --> 00:06:32,039
+[SPEAKER_03]: Kind of in and out.
+
+100
+00:06:32,059 --> 00:06:32,880
+[SPEAKER_03]: We're going to here, right?
+
+101
+00:06:33,860 --> 00:06:37,002
+[SPEAKER_01]: Oh yeah, we're going over there.
+
+102
+00:06:38,142 --> 00:06:39,763
+[SPEAKER_01]: You said it's been, how long has Ellen been asleep for?
+
+103
+00:06:40,986 --> 00:06:50,155
+[SPEAKER_02]: Well, he went to bed at sundown around eight o'clock, seven o'clock, so he's been asleep maybe eight hours.
+
+104
+00:06:50,175 --> 00:06:50,975
+[SPEAKER_01]: Okay.
+
+105
+00:06:51,216 --> 00:06:55,219
+[SPEAKER_01]: I'm going to go wake Owen and Folsom up.
+
+106
+00:06:55,600 --> 00:06:55,900
+[SPEAKER_02]: Okay.
+
+107
+00:06:57,582 --> 00:06:58,522
+[SPEAKER_01]: I'm going to try to get rest.
+
+108
+00:07:00,604 --> 00:07:03,587
+[SPEAKER_01]: So I go down and go to wake them up.
+
+109
+00:07:03,847 --> 00:07:04,128
+[SPEAKER_01]: Okay.
+
+110
+00:07:06,387 --> 00:07:06,948
+[SPEAKER_01]: You go down.
+
+111
+00:07:08,329 --> 00:07:11,972
+[SPEAKER_03]: I'll stay up a bit and then leave me when you get enough.
+
+112
+00:07:12,292 --> 00:07:14,034
+[SPEAKER_00]: All right, so I'll head down.
+
+113
+00:07:15,055 --> 00:07:15,835
+[SPEAKER_00]: Okay, so I go to wake.
+
+114
+00:07:16,956 --> 00:07:18,778
+[SPEAKER_00]: I knock on his quarters first.
+
+115
+00:07:18,958 --> 00:07:19,298
+[SPEAKER_02]: Okay.
+
+116
+00:07:20,039 --> 00:07:22,561
+[SPEAKER_03]: I stay up on the deck with...
+
+117
+00:07:23,002 --> 00:07:26,665
+[SPEAKER_03]: I want you up there with me until the other two come up.
+
+118
+00:07:27,586 --> 00:07:30,148
+[SPEAKER_03]: So, shit, for that matter I'll go get them up.
+
+119
+00:07:31,792 --> 00:07:32,892
+[SPEAKER_03]: Hey, you're at the helm.
+
+120
+00:07:33,012 --> 00:07:33,933
+[SPEAKER_03]: I'll go do it.
+
+121
+00:07:34,753 --> 00:07:37,273
+[SPEAKER_01]: You're going to wake Folsom?
+
+122
+00:07:37,993 --> 00:07:38,274
+[SPEAKER_01]: Yeah.
+
+123
+00:07:38,934 --> 00:07:45,735
+[SPEAKER_01]: Please wake Folsom, send him up first, and then I will... We'll have Folsom wake him up, Owen up.
+
+124
+00:07:47,036 --> 00:07:47,436
+[SPEAKER_03]: No, not yet.
+
+125
+00:07:47,496 --> 00:07:48,736
+[SPEAKER_03]: I want to talk to Folsom before.
+
+126
+00:07:48,756 --> 00:07:51,116
+[SPEAKER_03]: Yeah, I'll send Folsom up and then he can come down and wake him up.
+
+127
+00:07:51,437 --> 00:07:53,037
+[SPEAKER_03]: That way he's getting buddy-buddy.
+
+128
+00:07:53,057 --> 00:07:53,377
+[SPEAKER_03]: Yep, yep.
+
+129
+00:07:54,617 --> 00:07:57,698
+[SPEAKER_03]: So I go, Gouge wakes you up at like four in the morning.
+
+130
+00:08:00,710 --> 00:08:01,610
+[SPEAKER_03]: You've had your aid, right?
+
+131
+00:08:02,791 --> 00:08:03,051
+[SPEAKER_03]: Yes.
+
+132
+00:08:05,071 --> 00:08:05,952
+[SPEAKER_03]: Go up and talk to Merrick.
+
+133
+00:08:06,772 --> 00:08:08,352
+[SPEAKER_03]: He's going to have you come back down and get Owen.
+
+134
+00:08:08,632 --> 00:08:10,253
+[SPEAKER_03]: I'm going to op-munk with you.
+
+135
+00:08:10,873 --> 00:08:17,755
+[SPEAKER_03]: Once you're up there with Owen, send Ty down.
+
+136
+00:08:23,563 --> 00:08:24,743
+[SPEAKER_00]: The cabin's right next to each other.
+
+137
+00:08:24,763 --> 00:08:27,604
+[SPEAKER_00]: They're very close to each other.
+
+138
+00:08:28,204 --> 00:08:30,505
+[SPEAKER_00]: I tiptoe up to the deck and climb here.
+
+139
+00:08:30,745 --> 00:08:32,885
+[SPEAKER_02]: Do I see Merrick on the deck, chilling?
+
+140
+00:08:33,706 --> 00:08:36,246
+[SPEAKER_02]: You see Merrick at the wheel, basically.
+
+141
+00:08:36,606 --> 00:08:37,187
+[SPEAKER_02]: Go up next.
+
+142
+00:08:37,847 --> 00:08:38,507
+[SPEAKER_01]: You need it?
+
+143
+00:08:41,088 --> 00:08:41,768
+[SPEAKER_01]: I need to rest.
+
+144
+00:08:42,588 --> 00:08:46,229
+[SPEAKER_01]: I'm going to have Owen take the thing.
+
+145
+00:08:48,211 --> 00:08:49,192
+[SPEAKER_01]: I need you up here with him.
+
+146
+00:08:50,393 --> 00:08:53,315
+[SPEAKER_01]: I need you to work on a song about Owen.
+
+147
+00:08:53,556 --> 00:08:54,416
+[SPEAKER_00]: Funny you mention that.
+
+148
+00:08:55,417 --> 00:08:58,880
+[SPEAKER_00]: As soon as I went to bed, I started writing a song.
+
+149
+00:08:59,661 --> 00:09:00,041
+[SPEAKER_00]: Perfect.
+
+150
+00:09:01,322 --> 00:09:04,925
+[SPEAKER_01]: I need you, Folsom, to work your charm.
+
+151
+00:09:05,246 --> 00:09:06,647
+[SPEAKER_01]: I want you to be his best friend.
+
+152
+00:09:08,268 --> 00:09:09,710
+[SPEAKER_01]: Oh, I can do that.
+
+153
+00:09:13,310 --> 00:09:18,693
+[SPEAKER_01]: Information, buddy-buddy, make this an unforbidable trip for him where he wants to go with you.
+
+154
+00:09:19,834 --> 00:09:20,814
+[SPEAKER_01]: Trips galore.
+
+155
+00:09:20,834 --> 00:09:23,195
+[SPEAKER_01]: It's gonna be heartbreaking when he has to see you go.
+
+156
+00:09:23,696 --> 00:09:26,557
+[SPEAKER_01]: Oh, he's not gonna want to leave my son.
+
+157
+00:09:26,577 --> 00:09:28,918
+[SPEAKER_01]: Okay, I need to rest.
+
+158
+00:09:31,509 --> 00:09:39,052
+[SPEAKER_01]: If you notice anything out here, I know you're probably not the wisest when it comes to this scene, but if you notice anything that would give you a stir, you need to wake me up immediately.
+
+159
+00:09:39,132 --> 00:09:39,952
+[SPEAKER_00]: Okay, yeah.
+
+160
+00:09:39,972 --> 00:09:41,913
+[SPEAKER_00]: Well, I was a part of you, but thank you for a reason.
+
+161
+00:09:41,973 --> 00:09:43,334
+[SPEAKER_00]: If there's a problem, wait, it's all up.
+
+162
+00:09:44,154 --> 00:09:46,015
+[SPEAKER_00]: YouTube growth done?
+
+163
+00:09:46,415 --> 00:09:46,695
+[SPEAKER_00]: I'm out.
+
+164
+00:09:48,616 --> 00:09:50,016
+[SPEAKER_00]: That's a fucking dick.
+
+165
+00:09:50,036 --> 00:09:51,357
+[SPEAKER_02]: Give me about...
+
+166
+00:09:59,419 --> 00:10:02,220
+[SPEAKER_03]: Give me about four hours and then I'll swap with Ty.
+
+167
+00:10:03,341 --> 00:10:04,781
+[SPEAKER_03]: Okay, so I'm standing on deck.
+
+168
+00:10:05,842 --> 00:10:06,302
+[SPEAKER_03]: Yeah, okay.
+
+169
+00:10:06,322 --> 00:10:07,563
+[SPEAKER_03]: Yeah, yeah, yeah, you stand on deck.
+
+170
+00:10:07,723 --> 00:10:07,843
+[SPEAKER_00]: Yeah.
+
+171
+00:10:07,863 --> 00:10:07,983
+[SPEAKER_00]: Okay.
+
+172
+00:10:08,003 --> 00:10:09,323
+[SPEAKER_00]: I need about four because I've just been...
+
+173
+00:10:09,343 --> 00:10:10,064
+[SPEAKER_00]: But he's headed down.
+
+174
+00:10:10,384 --> 00:10:11,424
+[SPEAKER_02]: Rested in and out anyway.
+
+175
+00:10:11,444 --> 00:10:17,167
+[SPEAKER_02]: Okay, so Merrick goes down and you go and wake up, Owen Black.
+
+176
+00:10:18,267 --> 00:10:19,608
+[SPEAKER_00]: Make sure you cuddle in the right.
+
+177
+00:10:19,748 --> 00:10:21,088
+[SPEAKER_02]: Bump there, cutie.
+
+178
+00:10:23,169 --> 00:10:26,691
+[SPEAKER_02]: And he basically comes up to the deck.
+
+179
+00:10:28,310 --> 00:10:30,475
+[SPEAKER_02]: Tyrus is staying up in front of the four hours.
+
+180
+00:10:30,996 --> 00:10:32,800
+[SPEAKER_02]: You go down into the cabin and go to sleep.
+
+181
+00:10:32,981 --> 00:10:33,221
+[SPEAKER_02]: Yeah.
+
+182
+00:10:33,502 --> 00:10:33,823
+[SPEAKER_02]: All right.
+
+183
+00:10:34,204 --> 00:10:38,072
+[SPEAKER_02]: Okay.
+
+184
+00:10:38,774 --> 00:10:45,349
+[SPEAKER_02]: So you and Owen, four in the morning, Tyrus on deck, sailing down the sea.
+

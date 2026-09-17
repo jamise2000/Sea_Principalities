@@ -1,0 +1,5 @@
+# Cast for Owens_suspicians_5th_Wealsun
+# Expected voices: 1
+DM
+
+Owen (NPC, DM-voiced)

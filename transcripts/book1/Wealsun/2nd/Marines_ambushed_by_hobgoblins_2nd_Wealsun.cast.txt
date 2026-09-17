@@ -1,0 +1,7 @@
+# Cast for Marines_ambushed_by_hobgoblins_2nd_Wealsun
+# Expected voices: 5
+DM
+Merrick
+Gouge
+Tyrus
+Folsom

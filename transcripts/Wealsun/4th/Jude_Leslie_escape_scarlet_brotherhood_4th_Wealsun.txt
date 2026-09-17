@@ -1,0 +1,1518 @@
+[SPEAKER_00]: This is the evening of the 4th of Welsun.
+[SPEAKER_00]: You had done all of the errands that your master, Albinath, had gotten you to do today.
+[SPEAKER_00]: Gone to the market, picked up some sulfur, picked up some iron shavings, and brought them back.
+[SPEAKER_00]: That evening, two men had come to the door and knocked on the door and entered.
+[SPEAKER_00]: You made yourself scarce in here.
+[SPEAKER_00]: This is the study, okay?
+[SPEAKER_00]: You overheard your master talking to these people.
+[SPEAKER_00]: One of them had a strange voice.
+[SPEAKER_00]: One of them was a human.
+[SPEAKER_00]: Their discussion...
+[SPEAKER_01]: Wearing a mask.
+[SPEAKER_00]: Wearing a mask.
+[SPEAKER_00]: The other one was an elf wearing a large-brimmed hat.
+[SPEAKER_00]: You stayed in the study basically looking at your spells and studying your spells, okay?
+[SPEAKER_00]: What happened after basically about 30 minutes of conversation, one of the people left.
+[SPEAKER_00]: The elf, however, remained and discussed things with your mentor probably for another 20 minutes.
+[SPEAKER_00]: After that, there was a knock at the door, which is strange at this time of evening.
+[SPEAKER_00]: Usually Albinath closes the store down
+[SPEAKER_00]: But he seemed to be interested in talking to these two fellows.
+[SPEAKER_00]: They had been discussing chemical compounds and other things.
+[SPEAKER_00]: You thought nothing of the knock, but all of a sudden you heard a strange noise from inside the room, in here, and then the sounds of blasts outside the door.
+[SPEAKER_00]: And then somebody started pounding on the door very crazily.
+[SPEAKER_00]: What do you want to do?
+[SPEAKER_00]: Uh, hide.
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: You're in this room right here.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: And they're banging on this door?
+[SPEAKER_02]: No, no, no.
+[SPEAKER_01]: This door.
+[SPEAKER_02]: Oh, they're banging on that door.
+[SPEAKER_00]: Yeah.
+[SPEAKER_02]: Um, do I, and I was just hearing like bangs and explosions and hiding.
+[SPEAKER_00]: You are, two explosions, right?
+[SPEAKER_00]: And then
+[SPEAKER_01]: Do you cast the firewall outside here or in here?
+[SPEAKER_01]: I wasn't trying to burn down a shop, so I think I cast it outside.
+[SPEAKER_01]: Outside the door?
+[SPEAKER_01]: Just basically like that, right?
+[SPEAKER_01]: Right.
+[SPEAKER_01]: Okay.
+[SPEAKER_02]: Is there a second, like, door here that leads out?
+[SPEAKER_02]: Like a back door?
+[SPEAKER_00]: You know that there is a stairwell that leads down to the sewers.
+[SPEAKER_00]: And the sewers are actually where Albinath gets you to go and pour some of the more nasty chemicals that are from failed experiments.
+[SPEAKER_00]: It's kind of bad, but...
+[SPEAKER_02]: I assume if I hear banging and explosions on a door that these guys are probably no good, so I'll go down the stairs.
+[SPEAKER_00]: Okay, so you want to go out into the room.
+[SPEAKER_01]: I think I was dragging him, because wasn't he injured?
+[SPEAKER_01]: He was injured in his face.
+[out-of-band] [SPEAKER_00]: Okay, so are you guys ready?
+[out-of-band] [SPEAKER_00]: Roll a niche.
+[out-of-band] [SPEAKER_00]: Roll a 20-sided die.
+[out-of-band] [SPEAKER_01]: Steve, you roll up.
+[out-of-band] [SPEAKER_01]: Pick your pile, whatever pile you want.
+[out-of-band] [SPEAKER_01]: You want me to roll a niche too?
+[out-of-band] [SPEAKER_01]: Yeah.
+[out-of-band] [SPEAKER_01]: Any pluses?
+[out-of-band] [SPEAKER_00]: You put your dexterity bonus, which is plus three to your initiative.
+[out-of-band] [SPEAKER_01]: So I got plus four, so I got 18.
+[out-of-band] [SPEAKER_00]: Uh, nine.
+[out-of-band] [SPEAKER_00]: Nine.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: Okay, so, Jude, you're first.
+[out-of-band] [SPEAKER_00]: What do you want to do?
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: He's basically clutching his eye, which got stabbed.
+[out-of-band] [SPEAKER_00]: Right.
+[out-of-band] [SPEAKER_01]: So I'm dragging him back to the stairway.
+[out-of-band] [SPEAKER_01]: Do I see this guy, this young kid?
+[out-of-band] [SPEAKER_01]: Well, do you want to say anything to him as you drag him?
+[out-of-band] [SPEAKER_01]: Oh, as I drag him.
+[out-of-band] [SPEAKER_01]: While he had yelled, I had said, do you have a back door?
+[out-of-band] [SPEAKER_01]: And he had said, the stairway down.
+[out-of-band] [SPEAKER_01]: Yeah, so let's role play.
+[out-of-band] [SPEAKER_00]: Okay.
+[SPEAKER_00]: You hear an elf say, Where's the back door?
+[SPEAKER_00]: You hear your master go, there's no back door, but the stairs, they lead to the sewer.
+[SPEAKER_00]: Okay, let's go.
+[SPEAKER_00]: Leslie!
+[SPEAKER_00]: Leslie!
+[out-of-band] [SPEAKER_01]: I look over my shoulder, I'm like- You're dragging- Am I already down the stairs?
+[out-of-band] [SPEAKER_02]: No, you're here.
+[out-of-band] [SPEAKER_02]: Oh, I'm here.
+[out-of-band] [SPEAKER_01]: Yeah, so you drag him, right?
+[out-of-band] [SPEAKER_01]: Yeah, I'm dragging.
+[out-of-band] [SPEAKER_00]: One, two, three, so you can come to here with him.
+[out-of-band] [SPEAKER_00]: You hear him calling out, Leslie!
+[out-of-band] [SPEAKER_02]: Leslie!
+[out-of-band] [SPEAKER_02]: Okay, I come out, kind of.
+[out-of-band] [SPEAKER_00]: So you want to walk out, you go one, two, three, four, five, you can come to here if you want.
+[out-of-band] [SPEAKER_02]: Or what if I just, like, say what?
+[out-of-band] [SPEAKER_02]: Like, just yell what, but you won't know I am.
+[out-of-band] [SPEAKER_01]: Well, there's been some explosions, and there's a sound of desperation in it.
+[out-of-band] [SPEAKER_01]: Okay, fine, I come out.
+[out-of-band] [SPEAKER_02]: Okay, so you come out, and you walk in here.
+[SPEAKER_00]: You turn the corner.
+[SPEAKER_02]: Should I tackle him down the stairs?
+[SPEAKER_00]: And you see your master being carried by this elf, right?
+[SPEAKER_00]: Your master has covered his eyeball, and there's blood streaking down his face.
+[SPEAKER_00]: It looks like where he got stabbed.
+[SPEAKER_00]: Okay?
+[SPEAKER_00]: Come here, help your master.
+[SPEAKER_02]: Help him!
+[SPEAKER_01]: What are you?
+[SPEAKER_01]: Who are you?
+[SPEAKER_01]: We're being attacked.
+[SPEAKER_01]: I need you to take him so that I can kill anybody that comes in through that door.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Leslie, help me!
+[out-of-band] [SPEAKER_00]: Okay, so I can help him.
+[out-of-band] [SPEAKER_00]: So, next round.
+[out-of-band] [SPEAKER_01]: Round two.
+[out-of-band] [SPEAKER_01]: Is Leslie too weak to help him?
+[out-of-band] [SPEAKER_00]: My arms break off.
+[out-of-band] [SPEAKER_00]: So basically Leslie comes over and tries to help his master up off the ground.
+[out-of-band] [SPEAKER_00]: Roll a strength check.
+[out-of-band] [SPEAKER_00]: This is a DC 5 strength check.
+[out-of-band] [SPEAKER_00]: I don't add anything?
+[out-of-band] [SPEAKER_00]: You minus two.
+[out-of-band] [SPEAKER_01]: Roman, you did not name yourself Leslie after the character.
+[out-of-band] [SPEAKER_00]: Seven!
+[out-of-band] [SPEAKER_00]: So Leslie comes down barely, picks him up.
+[out-of-band] [SPEAKER_01]: This guy is squatty.
+[out-of-band] [SPEAKER_00]: You look at him and you're actually amazed.
+[out-of-band] [SPEAKER_00]: Like, this is probably the skinniest little Iradian you've ever seen.
+[out-of-band] [SPEAKER_01]: I'm all like, oh my god.
+[out-of-band] [SPEAKER_00]: He was malnourished.
+[out-of-band] [SPEAKER_00]: Well, you know, actually he's pretty handsome looking.
+[out-of-band] [SPEAKER_00]: He's kind of like a little China doll in a way, but he's obviously not a Karmurg, if you know what I mean.
+[out-of-band] [SPEAKER_00]: So he helps his master up off the ground.
+[out-of-band] [SPEAKER_01]: Down the stairways.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_02]: Okay, I'll be behind you then.
+[out-of-band] [SPEAKER_01]: All right, so.
+[out-of-band] [SPEAKER_01]: No, I'm going to cover the rear.
+[out-of-band] [SPEAKER_01]: If he falls on me, I'm dead.
+[out-of-band] [SPEAKER_01]: Well, you're not dead, but just go slowly.
+[out-of-band] [SPEAKER_01]: You make your strength check, just go slowly.
+[out-of-band] [SPEAKER_01]: He's leaning heavily on you, it's not easy.
+[out-of-band] [SPEAKER_00]: All right, so you start going down the stairs.
+[SPEAKER_00]: Okay, so basically you begin walking down there, and you go 30 feet in this first round, and your master is like, Leslie, do you have your book with you?
+[SPEAKER_02]: Do you what?
+[SPEAKER_00]: Yeah?
+[SPEAKER_00]: Yes?
+[SPEAKER_00]: He goes, good, good, good.
+[SPEAKER_00]: I don't know who's attacking us.
+[SPEAKER_00]: We need the guard.
+[SPEAKER_00]: We need the guard.
+[SPEAKER_00]: Paul Rivero is here.
+[SPEAKER_00]: This man is Paul's compatriot.
+[SPEAKER_00]: What is your name, sir?
+[SPEAKER_00]: Jude.
+[SPEAKER_00]: I've got my wand out.
+[SPEAKER_00]: Oh, I've heard of you.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: You're affiliated with that fellow Gouge.
+[SPEAKER_00]: Oh.
+[SPEAKER_00]: Well, on occasion.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: I know of you.
+[SPEAKER_00]: No doubt Lord Jameis has his fingers in this.
+[SPEAKER_00]: These are dangerous men, Leslie, but you must do as he says.
+[SPEAKER_00]: Okay.
+[SPEAKER_01]: We can discuss the dangerous part later, but... Yeah, you need some explaining to do.
+[SPEAKER_01]: Well, I don't know who these men are either.
+[SPEAKER_01]: We don't know who you are.
+[SPEAKER_00]: We know him.
+[SPEAKER_00]: He can be trusted now.
+[SPEAKER_00]: He's an agent of Lord Jameis.
+[out-of-band] [SPEAKER_01]: Okay.
+[SPEAKER_01]: Okay, has anybody broken in or does it seem like my two fireballs and flaming wall stymied?
+[SPEAKER_00]: Well, you haven't heard anything.
+[SPEAKER_00]: You guys are like 30 feet down.
+[SPEAKER_01]: Okay, we're still going down until we hit the sewer.
+[SPEAKER_01]: Do you know of the nearest way out of the sewer?
+[SPEAKER_01]: I don't want to just end up running around down here for a long time.
+[SPEAKER_01]: We can get caught down here and they can do...
+[SPEAKER_00]: He's never explored the sewer.
+[SPEAKER_00]: Do you know where the nearest...
+[SPEAKER_00]: I know the exit.
+[SPEAKER_00]: He starts trembling.
+[SPEAKER_01]: Poison!
+[SPEAKER_01]: Poison?
+[SPEAKER_01]: Oh shit.
+[SPEAKER_00]: He crumbles to the ground.
+[SPEAKER_00]: It's insidious poison.
+[SPEAKER_00]: Do you have anything upstairs?
+[SPEAKER_00]: He takes his hand off his eye and it's like dripping blackness from where the blood is.
+[SPEAKER_02]: Okay, we'll say something now, before you die.
+[SPEAKER_01]: No, no.
+[SPEAKER_01]: Do you have any potions upstairs?
+[SPEAKER_01]: Leslie, does he have any potions upstairs that would negate poison?
+[SPEAKER_01]: There's nothing that will save me from this.
+[SPEAKER_02]: No.
+[SPEAKER_02]: No.
+[SPEAKER_02]: Then say something.
+[SPEAKER_02]: Say what we need to tell.
+[SPEAKER_00]: Here.
+[SPEAKER_00]: He puts a note in your hand.
+[SPEAKER_00]: You must learn this.
+[SPEAKER_00]: Paul Rivero is looking for this.
+[SPEAKER_00]: I think this is why they attacked me.
+[SPEAKER_00]: He starts trembling, right?
+[out-of-band] [SPEAKER_01]: Ah, shit.
+[out-of-band] [SPEAKER_01]: Is it magical, the poison?
+[out-of-band] [SPEAKER_01]: It is.
+[out-of-band] [SPEAKER_01]: I cast Dispel Magic.
+[out-of-band] [SPEAKER_01]: In Samyar's Gift.
+[out-of-band] [SPEAKER_01]: Samyar's Gift?
+[out-of-band] [SPEAKER_00]: In Samyar's Gift.
+[out-of-band] [SPEAKER_00]: Hopefully it kills me, otherwise it will drive me insane.
+[out-of-band] [SPEAKER_01]: Would Dispel Magic do anything?
+[out-of-band] [SPEAKER_00]: Well, you could try.
+[out-of-band] [SPEAKER_01]: No, I mean, if he says no.
+[out-of-band] [SPEAKER_01]: Does it kill him?
+[out-of-band] [SPEAKER_01]: Or do we have an insane guy that doesn't know a little bit?
+[SPEAKER_01]: Help, Paul Rivero.
+[SPEAKER_00]: The Scarlet Brotherhood does not want him to know what he seeks.
+[SPEAKER_00]: You are a good student.
+[SPEAKER_00]: You can help Paul.
+[SPEAKER_02]: Yes, Master.
+[SPEAKER_00]: Jude.
+[SPEAKER_00]: There's no alchemist better than me, alive, now.
+[SPEAKER_00]: Idiom Nakhond is dead.
+[SPEAKER_00]: I've got message of that.
+[SPEAKER_00]: You might not know his name, but he was the master alchemist.
+[SPEAKER_00]: In Keoland, he could easily have helped Paul Rivero.
+[SPEAKER_00]: He does have a student, though.
+[SPEAKER_00]: I know that Lord Frank knows him.
+[SPEAKER_00]: And then he crumbles over.
+[SPEAKER_00]: Can I check if he has a pulse?
+[SPEAKER_01]: So Edie Mahan's dead, but has a student that can help Paul.
+[SPEAKER_00]: You hear renewed banging on the door.
+[out-of-band] [SPEAKER_00]: You guys are 30 feet down the steps.
+[out-of-band] [SPEAKER_02]: On the stairwell, can we like, you know like how there's a, like the stairs right here, can we like drag his body to the back?
+[out-of-band] [SPEAKER_00]: It circles all the way down.
+[out-of-band] [SPEAKER_00]: You can't see what's going on up there.
+[out-of-band] [SPEAKER_00]: In fact, you're 30 feet down.
+[SPEAKER_01]: I help him just drag the body to the very bottom, and then I search that body.
+[SPEAKER_00]: Okay, so you say, let's go.
+[SPEAKER_01]: I scoop the other arm up so that he's not just carrying him.
+[SPEAKER_01]: We move down to the landing so that I can thoroughly search him down at the landing.
+[out-of-band] [SPEAKER_00]: All right, so the two of you pick up the body.
+[out-of-band] [SPEAKER_00]: And carry it down, down the stairway.
+[out-of-band] [SPEAKER_00]: It goes 60 feet down, curling three times, 20 feet per each curl.
+[out-of-band] [SPEAKER_00]: Yeah, and he's dead.
+[out-of-band] [SPEAKER_01]: I'm practical about this.
+[out-of-band] [SPEAKER_01]: We're just dragging him.
+[out-of-band] [SPEAKER_01]: We've got his head, so his head's not, I'm not dragging him by the feet.
+[out-of-band] [SPEAKER_00]: You don't want to do too much damage to the body.
+[out-of-band] [SPEAKER_01]: I don't want to be, right.
+[out-of-band] [SPEAKER_01]: But I also don't want to, like, try to exhaust myself or break a leg or have him break a leg.
+[out-of-band] [SPEAKER_01]: Something like that.
+[out-of-band] [SPEAKER_00]: Yeah.
+[out-of-band] [SPEAKER_00]: All right, so you get to the bottom of the landing.
+[out-of-band] [SPEAKER_00]: All right?
+[out-of-band] [SPEAKER_00]: And you hear and smell the sewer.
+[out-of-band] [SPEAKER_00]: And this is actually a large area.
+[out-of-band] [SPEAKER_00]: You hear water going by.
+[out-of-band] [SPEAKER_00]: You have information so you can see what's happening.
+[out-of-band] [SPEAKER_00]: Okay?
+[out-of-band] [SPEAKER_00]: It's dark.
+[out-of-band] [SPEAKER_00]: You can't see anything now.
+[out-of-band] [SPEAKER_00]: Okay?
+[out-of-band] [SPEAKER_00]: Can you cast light?
+[out-of-band] [SPEAKER_01]: No.
+[out-of-band] [SPEAKER_01]: Okay.
+[out-of-band] [SPEAKER_01]: Does he have a staff at all in his hand?
+[out-of-band] [SPEAKER_00]: He does not.
+[out-of-band] [SPEAKER_00]: You hear the door above smash down.
+[out-of-band] [SPEAKER_01]: And you hear people talking.
+[out-of-band] [SPEAKER_01]: So you're in the darkness right now.
+[SPEAKER_01]: I rifle pockets, checking for seams real quick along his robe.
+[SPEAKER_01]: Okay, so you go through what he's got.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: He's got his robe and he's got a pouch on him.
+[SPEAKER_00]: I'm gonna strip his robe.
+[SPEAKER_01]: Okay, so you pull it off.
+[SPEAKER_01]: Yeah, strip his robe, shoes, rings, jewelry.
+[SPEAKER_01]: I don't have time to do any assessments.
+[SPEAKER_00]: Doesn't have any rings.
+[SPEAKER_00]: In fact, you probably know why.
+[SPEAKER_00]: As an alchemist, they don't want to keep anything on their hands that can react.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: However, on his neck,
+[SPEAKER_00]: He has a golden medallion that is a circle that has a strange design on it.
+[out-of-band] [SPEAKER_01]: This is gold.
+[out-of-band] [SPEAKER_01]: That's a lot of gold.
+[out-of-band] [SPEAKER_01]: So golden medallion, unknown symbol.
+[out-of-band] [SPEAKER_01]: Is that what I would put?
+[out-of-band] [SPEAKER_01]: Unknown symbol?
+[out-of-band] [SPEAKER_00]: No, you know it.
+[out-of-band] [SPEAKER_00]: It's the symbol of alchemy.
+[out-of-band] [SPEAKER_00]: Oh, okay.
+[out-of-band] [SPEAKER_00]: Which, you know, is the circle with the triangle, with the square, with the circle.
+[out-of-band] [SPEAKER_00]: So this guy obviously was kind of a
+[out-of-band] [SPEAKER_00]: Religious, not when it came to Alchemist.
+[out-of-band] [SPEAKER_00]: Basically, to Alchemists, this is sort of a religion in a way.
+[out-of-band] [SPEAKER_01]: Well, that might also be part of a guild symbol or a market station.
+[out-of-band] [SPEAKER_01]: Okay, did he have shoes?
+[out-of-band] [SPEAKER_01]: Oh yeah, he had shoes.
+[out-of-band] [SPEAKER_01]: So I'm going to take robe, shoes, the golden medallion.
+[out-of-band] [SPEAKER_01]: Is that it?
+[out-of-band] [SPEAKER_01]: Yeah.
+[out-of-band] [SPEAKER_01]: Okay.
+[out-of-band] [SPEAKER_00]: Hang on, can I have my six out of dice?
+[out-of-band] [SPEAKER_00]: Thank you.
+[SPEAKER_00]: You hear somebody yell out, They've gone down!
+[out-of-band] [SPEAKER_01]: Okay.
+[out-of-band] [SPEAKER_01]: I want to check and see, check and make sure his pulse, like, you know, that he's not, we're not leaving a coma guy.
+[out-of-band] [SPEAKER_01]: You feel no pulse.
+[out-of-band] [SPEAKER_01]: Roll a niche.
+[out-of-band] [SPEAKER_00]: 20.
+[out-of-band] [SPEAKER_00]: 20 said die.
+[out-of-band] [SPEAKER_00]: 4, 8.
+[out-of-band] [SPEAKER_00]: What's the adding?
+[out-of-band] [SPEAKER_00]: 3 plus 3 is 6.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: You hear several people running down the stairs.
+[out-of-band] [SPEAKER_00]: You're not sure how far away they are.
+[out-of-band] [SPEAKER_00]: You can't see right now.
+[out-of-band] [SPEAKER_00]: You go first.
+[out-of-band] [SPEAKER_01]: Let's see.
+[out-of-band] [SPEAKER_00]: They're getting close.
+[out-of-band] [SPEAKER_00]: They're probably 20 feet away from you.
+[out-of-band] [SPEAKER_00]: They're running, they're dashing.
+[out-of-band] [SPEAKER_01]: I'm gonna just cast a lightning bolt, because I can fork lightning bolt, right?
+[out-of-band] [SPEAKER_01]: Do I have to be able to see the target?
+[out-of-band] [SPEAKER_00]: You have to see the target.
+[out-of-band] [SPEAKER_00]: Line of sight.
+[out-of-band] [SPEAKER_01]: Okay, then I'm gonna go ahead and prep it, and when I see more than one, not the first one.
+[out-of-band] [SPEAKER_01]: So you want to hold an action.
+[out-of-band] [SPEAKER_01]: I want to hold an action.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_01]: And when I can see more than one come around that corner, and I back up, I make sure he's on the other side, so that they're not gonna be, like, literally right on top of me.
+[out-of-band] [SPEAKER_00]: Okay, so let's draw this, so you guys can see where you're at.
+[out-of-band] [SPEAKER_00]: Oh wait, do I have a pencil?
+[out-of-band] [SPEAKER_01]: I think I got another one.
+[out-of-band] [SPEAKER_00]: I had two.
+[out-of-band] [SPEAKER_00]: Okay, so...
+[out-of-band] [SPEAKER_00]: Here's where the entrance of the stair is.
+[out-of-band] [SPEAKER_00]: Curled back up, right?
+[out-of-band] [SPEAKER_01]: And then there's like a walkway and then there's like a lower... You're on the walkway.
+[SPEAKER_01]: Fifteen feet.
+[SPEAKER_01]: This is where the water runs.
+[SPEAKER_01]: Okay, so it's actually up against the other face.
+[SPEAKER_01]: There's not a walkway over on this side.
+[SPEAKER_00]: No.
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: Now, here's the deal.
+[SPEAKER_00]: This heads off to the...
+[SPEAKER_00]: This goes towards the...
+[SPEAKER_00]: This is the way towards the Scholars District.
+[SPEAKER_00]: That is the way to the Royal District.
+[SPEAKER_00]: This ends right there.
+[SPEAKER_01]: The water is running here.
+[SPEAKER_01]: Like it goes underneath?
+[SPEAKER_01]: Is it going this way?
+[SPEAKER_00]: The water pipes out this way.
+[SPEAKER_00]: So this is kind of like a station where you would come down and obviously dump stuff.
+[SPEAKER_00]: The water comes back this way and starts running that way.
+[SPEAKER_00]: And this continues that direction.
+[SPEAKER_00]: You can't see.
+[out-of-band] [SPEAKER_00]: Where are you going to be?
+[out-of-band] [SPEAKER_01]: Well, so if I go here, unless I want to jump in the water and hold my breath for God knows how long, this dead ends.
+[out-of-band] [SPEAKER_01]: Yes.
+[out-of-band] [SPEAKER_01]: So I'm going that way.
+[out-of-band] [SPEAKER_01]: So what I'm going to do is go my 30 feet back and ready my lightning spell.
+[out-of-band] [SPEAKER_01]: But the trigger for it would be if they all dash out or at least two people dash out.
+[out-of-band] [SPEAKER_00]: Okay, well, let's do this.
+[out-of-band] [SPEAKER_00]: So here you are.
+[out-of-band] [SPEAKER_00]: Here is Leslie.
+[out-of-band] [SPEAKER_00]: Right there.
+[out-of-band] [SPEAKER_00]: You go first.
+[out-of-band] [SPEAKER_00]: Back up.
+[out-of-band] [SPEAKER_01]: Back up.
+[out-of-band] [SPEAKER_01]: I grabbed Leslie with me.
+[out-of-band] [SPEAKER_01]: Back up.
+[out-of-band] [SPEAKER_01]: I have to eat.
+[out-of-band] [SPEAKER_00]: Oh, shit.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: Well, just stay.
+[out-of-band] [SPEAKER_00]: Keep your feet.
+[out-of-band] [SPEAKER_00]: Keep your feet.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: So you go back.
+[out-of-band] [SPEAKER_01]: Because they're making a lot of noise as they run down.
+[out-of-band] [SPEAKER_00]: Oh, yeah.
+[out-of-band] [SPEAKER_01]: Okay.
+[out-of-band] [SPEAKER_00]: You go back 30 feet.
+[out-of-band] [SPEAKER_00]: Yeah.
+[out-of-band] [SPEAKER_00]: Which would be to here.
+[out-of-band] [SPEAKER_00]: With Leslie.
+[out-of-band] [SPEAKER_00]: The body is right there.
+[out-of-band] [SPEAKER_01]: Yeah.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: And you hold your action.
+[out-of-band] [SPEAKER_01]: Yeah.
+[out-of-band] [SPEAKER_00]: I'm going to have lightning bolt.
+[out-of-band] [SPEAKER_00]: You moved.
+[out-of-band] [SPEAKER_00]: You get to do an action.
+[out-of-band] [SPEAKER_00]: What do you want to do?
+[out-of-band] [SPEAKER_02]: Um... Magic missile.
+[out-of-band] [SPEAKER_00]: You want to ready your action with magic missile?
+[out-of-band] [SPEAKER_02]: Yeah.
+[out-of-band] [SPEAKER_00]: Okay, so you ready an action for magic missile.
+[out-of-band] [SPEAKER_02]: But you can't see them.
+[out-of-band] [SPEAKER_02]: If it's jet black in here... Well, when you do your lightning, that'll be light.
+[out-of-band] [SPEAKER_02]: Oh, that's true.
+[out-of-band] [SPEAKER_02]: So I'll just go after you.
+[out-of-band] [SPEAKER_02]: That'll be light.
+[out-of-band] [SPEAKER_01]: Okay.
+[out-of-band] [SPEAKER_01]: And I did actually beat you with an ish.
+[out-of-band] [SPEAKER_01]: Okay.
+[out-of-band] [SPEAKER_00]: All right.
+[out-of-band] [SPEAKER_00]: So you guys stand there and hold your action.
+[out-of-band] [SPEAKER_00]: Okay.
+[SPEAKER_00]: Somebody comes down the stairs and goes, the body, there's a body, and comes to here.
+[SPEAKER_00]: I hold.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: And you wait.
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: Another person comes over here too and says, they don't seem like they notice you.
+[SPEAKER_00]: And comes down and goes, it's the alchemist.
+[SPEAKER_00]: I hold.
+[SPEAKER_00]: The dagger must have gotten him.
+[SPEAKER_00]: You hear a voice from upstairs.
+[SPEAKER_00]: Be aware I smell something.
+[SPEAKER_00]: It's the voice of a female, a woman.
+[SPEAKER_00]: This one looks over at you and goes, there!
+[SPEAKER_00]: All right, so, Jude lets out a lightning bolt, right, and this
+[SPEAKER_00]: A streaking surge of energy shoots from his hand, lighting up the room.
+[SPEAKER_00]: Okay?
+[SPEAKER_00]: You see your master crouching there.
+[SPEAKER_00]: And Jude's lightning forks around his body, but hits these two.
+[out-of-band] [SPEAKER_00]: Okay?
+[out-of-band] [SPEAKER_01]: So Jude, it's eight dissects.
+[out-of-band] [SPEAKER_01]: I was just looking real quick.
+[out-of-band] [SPEAKER_02]: And shall we jump him over there?
+[out-of-band] [SPEAKER_00]: Yes, 8d6.
+[out-of-band] [SPEAKER_01]: Creature, let's see, 100 feet, 5 foot wide, blasts out from you in the direction you choose.
+[out-of-band] [SPEAKER_01]: It'll hit both of them, right?
+[out-of-band] [SPEAKER_01]: Yes.
+[out-of-band] [SPEAKER_01]: It'll hit both by the body.
+[out-of-band] [SPEAKER_01]: And then it's a creature takes 8d6 lightning on a failed save or half as much on a successful one.
+[out-of-band] [SPEAKER_00]: And it's a dex saving throw?
+[out-of-band] [SPEAKER_01]: Yeah, dex saving throw.
+[out-of-band] [SPEAKER_00]: All right.
+[out-of-band] [SPEAKER_00]: Roll the damage.
+[out-of-band] [SPEAKER_01]: 8d6.
+[out-of-band] [SPEAKER_00]: 14, 18, 20.
+[out-of-band] [SPEAKER_00]: 20 points of damage.
+[out-of-band] [SPEAKER_00]: Okay, so, Jude shoots his lightning bolt, and these guys are like, yeah!
+[out-of-band] [SPEAKER_00]: Here's their saving throws.
+[out-of-band] [SPEAKER_00]: What's your DC difficulty?
+[out-of-band] [SPEAKER_00]: It should be on the magic thing on the next page.
+[out-of-band] [SPEAKER_01]: Spell save DC?
+[out-of-band] [SPEAKER_01]: Yeah.
+[out-of-band] [SPEAKER_00]: 16?
+[out-of-band] [SPEAKER_00]: 16.
+[out-of-band] [SPEAKER_00]: So they have to roll a 16 or more.
+[out-of-band] [SPEAKER_00]: It's a dexterity saving throw and they get a plus one.
+[out-of-band] [SPEAKER_00]: So if they roll 15s, they make their save.
+[out-of-band] [SPEAKER_00]: So I'm going to roll both at the same time.
+[out-of-band] [SPEAKER_00]: This blue one is that guy.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: Neither make their saving throw.
+[out-of-band] [SPEAKER_00]: And both take 20 points of damage.
+[out-of-band] [SPEAKER_01]: Now you can split Magic Missile, so you can make it hit two different targets if you want to, but you only get, it's first level, it's three four-sided plus one?
+[out-of-band] [SPEAKER_01]: It's three four-sided plus one.
+[out-of-band] [SPEAKER_01]: Damage each.
+[SPEAKER_00]: So anyway, the Lightning Bolt lights up the Coral War.
+[SPEAKER_00]: And these guys, you've seen these guys before.
+[SPEAKER_00]: There's this weird cult that has been coming into Monmurg over the last couple of years.
+[SPEAKER_00]: They're called the Brotherhood of Insiniar.
+[SPEAKER_00]: They're snake worshippers.
+[SPEAKER_00]: They tattoo themselves with strange symbols of snakes and weird wings.
+[SPEAKER_00]: It's said
+[SPEAKER_00]: That near Westkeep, there's a coven of them.
+[SPEAKER_00]: And that they are so debased, they mate with kobolds.
+[SPEAKER_00]: Codeballs?
+[SPEAKER_00]: Kobolds.
+[SPEAKER_00]: Kobolds?
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: Little homunculi lizard people that are known to be evil and disgusting.
+[SPEAKER_00]: Basically, these people are strange.
+[SPEAKER_00]: They're also rumored to do a very, very strange
+[SPEAKER_00]: They consume it in their rituals.
+[SPEAKER_00]: They are also dangerous people, in fact.
+[SPEAKER_00]: They are all kind of violent and unruly, and Lord Jameis has been doing much to try and root these people out.
+[SPEAKER_00]: Why they're here, you have no idea.
+[SPEAKER_00]: Anyway, the lightning bolt strikes.
+[SPEAKER_00]: And obviously both men are affected, but neither dies.
+[SPEAKER_00]: And they pull out their weapons.
+[out-of-band] [SPEAKER_02]: What do you want to do?
+[out-of-band] [SPEAKER_02]: I do the magic missiles.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: Which one do you want to strike, or do you want to split them among the two?
+[out-of-band] [SPEAKER_00]: Split them among, and they're auto-hit.
+[out-of-band] [SPEAKER_00]: They're auto-hit.
+[out-of-band] [SPEAKER_00]: But you just have to roll damage.
+[out-of-band] [SPEAKER_00]: You have to roll damage.
+[out-of-band] [SPEAKER_00]: Two to one, and one to the other?
+[out-of-band] [SPEAKER_00]: Which one do you want to do two on?
+[out-of-band] [SPEAKER_02]: I thought I should shoot four.
+[out-of-band] [SPEAKER_02]: No, just three.
+[out-of-band] [SPEAKER_02]: Just three.
+[out-of-band] [SPEAKER_02]: What are their weapons?
+[out-of-band] [SPEAKER_00]: Nice.
+[out-of-band] [SPEAKER_00]: They have daggers.
+[out-of-band] [SPEAKER_02]: I'll shoot at this guy.
+[out-of-band] [SPEAKER_02]: Twice?
+[out-of-band] [SPEAKER_00]: Or all of them at that guy.
+[out-of-band] [SPEAKER_01]: You make the decision.
+[out-of-band] [SPEAKER_00]: Sure, I'll do it all at that guy.
+[out-of-band] [SPEAKER_00]: Okay, so you fling all your magic missiles at that one guy trying to take him down.
+[out-of-band] [SPEAKER_01]: So roll damage.
+[out-of-band] [SPEAKER_01]: Now you get a plus three because it's a plus one per dice.
+[out-of-band] [SPEAKER_01]: Three, four, plus three.
+[out-of-band] [SPEAKER_00]: Seven points of damage?
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: Even though your darts and your magical darts hit and he's wounded, basically you open up wounds on his body, but he's not dead yet.
+[out-of-band] [SPEAKER_00]: Okay?
+[out-of-band] [SPEAKER_00]: They're still up.
+[SPEAKER_00]: And it goes black.
+[SPEAKER_00]: You're in the darkness with two creatures that are barely human.
+[SPEAKER_00]: Just thirty feet away.
+[out-of-band] [SPEAKER_00]: Roll an ish.
+[out-of-band] [SPEAKER_00]: This is where we really want to run an ish.
+[out-of-band] [SPEAKER_00]: One.
+[out-of-band] [SPEAKER_00]: One.
+[out-of-band] [SPEAKER_01]: Terrible.
+[out-of-band] [SPEAKER_01]: I got a five.
+[out-of-band] [SPEAKER_00]: Ten.
+[out-of-band] [SPEAKER_00]: Ten plus three is thirteen.
+[out-of-band] [SPEAKER_00]: Five.
+[out-of-band] [SPEAKER_00]: Six.
+[out-of-band] [SPEAKER_00]: So, you go first, then they go, and then Jude will get to go.
+[out-of-band] [SPEAKER_00]: Jude, after casting his lightning bolt,
+[out-of-band] [SPEAKER_00]: Grasp his hand for the magical energies that he's released.
+[out-of-band] [SPEAKER_00]: This happens every once in a while.
+[out-of-band] [SPEAKER_01]: Your hand is a little, it's smoking a little bit.
+[out-of-band] [SPEAKER_02]: What are you going to do?
+[out-of-band] [SPEAKER_02]: I do the protection, the shield.
+[out-of-band] [SPEAKER_00]: You want to cast Bladewort?
+[out-of-band] [SPEAKER_00]: Do you want to move it all?
+[out-of-band] [SPEAKER_00]: Or what do you want to do?
+[out-of-band] [SPEAKER_00]: Probably...
+[out-of-band] [SPEAKER_02]: What does a fine bolt do?
+[out-of-band] [SPEAKER_02]: A fire bolt?
+[out-of-band] [SPEAKER_02]: Oh, fire bolt.
+[out-of-band] [SPEAKER_02]: A fire bolt shoots at a bolt of fire that damages somebody.
+[out-of-band] [SPEAKER_02]: Okay.
+[out-of-band] [SPEAKER_02]: I think, does it count as a turn to do the shield?
+[out-of-band] [SPEAKER_02]: A blade ward takes an action.
+[out-of-band] [SPEAKER_02]: And can I shoot things through the shield?
+[out-of-band] [SPEAKER_00]: Well, a blade ward, once you put it up, you have to do it every turn.
+[out-of-band] [SPEAKER_00]: Oh, okay.
+[out-of-band] [SPEAKER_01]: So I'll just do... Well, you could still blade board yourself hoping that if they make it to us because you just saw your master say poison.
+[out-of-band] [SPEAKER_02]: That's what I'm worried about.
+[out-of-band] [SPEAKER_02]: If I shoot fire, like when it hits the ground, does it like instantly deflame or does it kind of like stay as a little flame?
+[out-of-band] [SPEAKER_02]: It could set things on fire.
+[out-of-band] [SPEAKER_02]: Okay, so where we were just staring at, like, I don't turn around and lose, like, my rotation.
+[out-of-band] [SPEAKER_02]: I kind of, like, shoot it in the distance a little bit, like, aiming for, like, a little right here, assuming that they moved.
+[out-of-band] [SPEAKER_00]: You could, if you wanted to, you could shoot it at your master's body and it would light his robe off.
+[out-of-band] [SPEAKER_00]: True.
+[out-of-band] [SPEAKER_00]: I'll do that.
+[out-of-band] [SPEAKER_00]: Okay, so you want to fire it where your master is, right?
+[out-of-band] [SPEAKER_02]: Yes, in that, like, area.
+[out-of-band] [SPEAKER_00]: Okay, so...
+[out-of-band] [SPEAKER_00]: This is AC-10.
+[out-of-band] [SPEAKER_00]: But you're at disadvantage because it's dark and you can't see.
+[out-of-band] [SPEAKER_00]: So roll two 20-sided dice and pick the lower one.
+[out-of-band] [SPEAKER_00]: And this is it, though.
+[out-of-band] [SPEAKER_00]: Your intelligence gives you a plus four, plus six, so your attack bonus is plus six.
+[out-of-band] [SPEAKER_00]: So you need to roll a four on both dice to hit.
+[out-of-band] [SPEAKER_00]: Two.
+[out-of-band] [SPEAKER_00]: And a one.
+[out-of-band] [SPEAKER_00]: You get the one.
+[out-of-band] [SPEAKER_01]: But it lights it up for me, right?
+[SPEAKER_00]: Well, he shoots the firebolt, right?
+[SPEAKER_00]: And it streaks down the corridor, past the master's body in that direction.
+[SPEAKER_00]: And in the light, you see the two guys running towards you, daggers drawn.
+[out-of-band] [SPEAKER_00]: Do you want to...
+[out-of-band] [SPEAKER_00]: Move?
+[out-of-band] [SPEAKER_00]: You've got a little bit of...
+[out-of-band] [SPEAKER_02]: Shouldn't I jump in the water, maybe?
+[out-of-band] [SPEAKER_00]: Don't ask questions.
+[out-of-band] [SPEAKER_00]: You're gonna do what you want to do.
+[out-of-band] [SPEAKER_00]: These guys are coming towards you.
+[out-of-band] [SPEAKER_02]: Is the water flowing here or there?
+[out-of-band] [SPEAKER_02]: It's going this way.
+[out-of-band] [SPEAKER_02]: Since I'm... Am I right here?
+[out-of-band] [SPEAKER_02]: You're right here.
+[out-of-band] [SPEAKER_02]: But you could easily run and then jump in the water.
+[out-of-band] [SPEAKER_02]: Yeah, I jumped in the water and like...
+[out-of-band] [SPEAKER_02]: Can I go through the little tube or something?
+[out-of-band] [SPEAKER_02]: Well, there's no tube yet.
+[out-of-band] [SPEAKER_02]: Then just go.
+[out-of-band] [SPEAKER_01]: Is there a good enough flow that it'll carry him?
+[out-of-band] [SPEAKER_00]: Is it like a fast flow?
+[out-of-band] [SPEAKER_00]: Uh, yeah.
+[out-of-band] [SPEAKER_00]: This is one of the main lines.
+[SPEAKER_00]: Okay, so you run and go, and you hear a splash.
+[SPEAKER_00]: Okay, so you jump into here.
+[SPEAKER_00]: Okay?
+[out-of-band] [SPEAKER_00]: Jude, these guys are gonna come at you.
+[out-of-band] [SPEAKER_01]: Mm-hmm.
+[out-of-band] [SPEAKER_01]: They get to attack before me, right?
+[out-of-band] [SPEAKER_00]: Yes.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: 1, 2, 3, 4, 5, 6, and 6.
+[out-of-band] [SPEAKER_00]: First guy comes up with a dagger, attacks you.
+[out-of-band] [SPEAKER_00]: What's your AC?
+[out-of-band] [SPEAKER_01]: My AC is 14.
+[out-of-band] [SPEAKER_00]: 14.
+[out-of-band] [SPEAKER_01]: And I can cast... Are you sure it's 14?
+[out-of-band] [SPEAKER_00]: It's 14 because of your traits.
+[out-of-band] [SPEAKER_00]: I think the... No, no, it's 14.
+[out-of-band] [SPEAKER_00]: Dexterity.
+[out-of-band] [SPEAKER_00]: Dexterity.
+[out-of-band] [SPEAKER_00]: That makes sense.
+[out-of-band] [SPEAKER_01]: It's just dexterity.
+[out-of-band] [SPEAKER_00]: So here's his attack.
+[out-of-band] [SPEAKER_01]: And I can decide to cast shield as a reaction.
+[out-of-band] [SPEAKER_00]: You can do a reaction.
+[out-of-band] [SPEAKER_01]: But I get to wait until I find out if he hits.
+[out-of-band] [SPEAKER_01]: Exactly.
+[out-of-band] [SPEAKER_01]: Gotcha.
+[out-of-band] [SPEAKER_00]: You ready?
+[out-of-band] [SPEAKER_00]: Yep.
+[out-of-band] [SPEAKER_00]: Okay, so 14.
+[out-of-band] [SPEAKER_00]: Here's the first guy's attack.
+[out-of-band] [SPEAKER_00]: One.
+[out-of-band] [SPEAKER_00]: And let me do this.
+[out-of-band] [SPEAKER_00]: He slips
+[out-of-band] [SPEAKER_00]: And falls at his face here.
+[out-of-band] [SPEAKER_00]: Okay?
+[out-of-band] [SPEAKER_00]: Like right at my feet?
+[out-of-band] [SPEAKER_00]: Yeah.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: The next guy attacks.
+[out-of-band] [SPEAKER_00]: Four.
+[out-of-band] [SPEAKER_00]: Seven.
+[out-of-band] [SPEAKER_00]: Misses you.
+[out-of-band] [SPEAKER_00]: Okay, your turn.
+[out-of-band] [SPEAKER_01]: If I want to leap into the water myself, the guy that's on the ground I'm probably not going to occur an attack from, but the other guy I would.
+[out-of-band] [SPEAKER_00]: The other guy, yeah, the other guy would get an opportunity to attack.
+[out-of-band] [SPEAKER_01]: If he did hit me, would I be able to also still be try to cast shield as I'm going into the water?
+[out-of-band] [SPEAKER_00]: You have not used your action yet.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: So you would be able to do that.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: Or you could use your action to disengage instead of... Oh, can I do that?
+[out-of-band] [SPEAKER_00]: Yeah, absolutely.
+[out-of-band] [SPEAKER_01]: Okay.
+[out-of-band] [SPEAKER_01]: Because that's a thing.
+[out-of-band] [SPEAKER_01]: I thought that was maybe only rogues with cunning action.
+[out-of-band] [SPEAKER_00]: No.
+[out-of-band] [SPEAKER_00]: Disengage is something you...
+[out-of-band] [SPEAKER_00]: But they can use it with a bonus action.
+[out-of-band] [SPEAKER_01]: Oh, gosh.
+[out-of-band] [SPEAKER_01]: So they can do...
+[out-of-band] [SPEAKER_01]: They can attack you.
+[out-of-band] [SPEAKER_01]: They can attack and then disengage.
+[out-of-band] [SPEAKER_01]: Okay, okay.
+[out-of-band] [SPEAKER_01]: Yeah, then I'll disengage and leap into the water.
+[out-of-band] [SPEAKER_00]: Okay, so you disengage and jump into the water.
+[out-of-band] [SPEAKER_01]: As well.
+[out-of-band] [SPEAKER_01]: And I try to catch up to him.
+[out-of-band] [SPEAKER_01]: I can still see in the dark, but I know he can't.
+[out-of-band] [SPEAKER_00]: He's not gone more than 10 feet.
+[out-of-band] [SPEAKER_00]: Yeah.
+[out-of-band] [SPEAKER_00]: Okay, so you guys are both being swept out.
+[out-of-band] [SPEAKER_01]: Yeah, but like I said, I want to grab him because he's going to be screwed if he's down here by himself.
+[SPEAKER_00]: And the two of you get carried down.
+[SPEAKER_00]: The main pipe.
+[SPEAKER_00]: Now, this is seawater and you know that what this usually happens is they have a contraption over on the royal side of the thing that brings seawater up from the bottom of the ocean and pours it into the sewers at the top, flushing water down.
+[SPEAKER_00]: It's been there for many years and that's basically how the sewage line runs.
+[SPEAKER_00]: Okay, so this, even though this is carrying disgusting stuff from the city, it's not as disgusting as it possibly could be if it was just a feather.
+[SPEAKER_00]: Greyhawk or something.
+[SPEAKER_01]: Exactly, exactly.
+[SPEAKER_00]: This thing is constantly being flushed and there are people there.
+[SPEAKER_01]: Thank God for small little miracles.
+[SPEAKER_00]: Constantly cranking.
+[out-of-band] [SPEAKER_00]: I still keep my mouth shut and squint my eyes.
+[out-of-band] [SPEAKER_00]: Okay, so you start getting carried down the water.
+[out-of-band] [SPEAKER_01]: Yeah, do I anticipate...
+[out-of-band] [SPEAKER_01]: I mean, I don't think I've been...
+[out-of-band] [SPEAKER_01]: I don't know if I've been in the sewers in the past.
+[out-of-band] [SPEAKER_01]: I mean, there's no grates or anything.
+[out-of-band] [SPEAKER_01]: Nothing's gonna chomp us up.
+[out-of-band] [SPEAKER_01]: Is there any, like, huge-ass drop onto nasty rocks?
+[out-of-band] [SPEAKER_01]: Like, do I need to do anything to get out of this before we hit the water or the ocean?
+[out-of-band] [SPEAKER_00]: Well... Can I make an insight roll?
+[out-of-band] [SPEAKER_00]: Yeah, make an insight roll.
+[out-of-band] [SPEAKER_00]: You don't know much about this.
+[out-of-band] [SPEAKER_01]: Maybe if I recover it, we can gouge.
+[out-of-band] [SPEAKER_00]: Four.
+[out-of-band] [SPEAKER_00]: Do you want to do an insight roll?
+[out-of-band] [SPEAKER_00]: Sure.
+[out-of-band] [SPEAKER_00]: Roll a 20-set of die.
+[out-of-band] [SPEAKER_00]: 20.
+[out-of-band] [SPEAKER_00]: Ooh, not 20.
+[out-of-band] [SPEAKER_00]: Okay, so basically you want to say, where does this take us?
+[out-of-band] [SPEAKER_00]: Roleplay.
+[out-of-band] [SPEAKER_01]: Okay, we need to get as much distance as we can from the...
+[out-of-band] [SPEAKER_01]: Does this drop out into the harbor?
+[out-of-band] [SPEAKER_01]: I think so.
+[out-of-band] [SPEAKER_00]: Yes?
+[out-of-band] [SPEAKER_00]: It does.
+[out-of-band] [SPEAKER_00]: But, unfortunately, the exits to all the sewers, they have grates on them, so things can't get in from the ocean.
+[out-of-band] [SPEAKER_01]: Okay, so then we gotta actually get out.
+[out-of-band] [SPEAKER_01]: We gotta find an exit.
+[out-of-band] [SPEAKER_00]: Okay.
+[SPEAKER_00]: You hear somebody yell from behind.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: He's dead!
+[SPEAKER_00]: After them!
+[SPEAKER_00]: Fools!
+[SPEAKER_00]: After them!
+[SPEAKER_00]: You hear the splash of two people jump into the water behind you.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: So basically you guys are getting carried down.
+[out-of-band] [SPEAKER_01]: I want to look for anything I can grab onto to try to get out.
+[out-of-band] [SPEAKER_01]: After, like, you know, we've been carried maybe a hundred feet.
+[out-of-band] [SPEAKER_01]: I don't want to get caught up against the grill and then try to fight my way back.
+[out-of-band] [SPEAKER_01]: We've got to get up on the walk and we've got to find an exit.
+[out-of-band] [SPEAKER_00]: Anyway, you guys are getting carried down to two.
+[out-of-band] [SPEAKER_02]: And these two men jump in the water after you.
+[out-of-band] [SPEAKER_02]: Okay.
+[out-of-band] [SPEAKER_02]: I say we should probably hide and see, and if they might pass us and go deeper down, then we could escape.
+[out-of-band] [SPEAKER_01]: You can't see.
+[out-of-band] [SPEAKER_01]: They can see just as good as I can right now.
+[out-of-band] [SPEAKER_02]: Was there like a barrel or something?
+[out-of-band] [SPEAKER_00]: A barrel?
+[out-of-band] [SPEAKER_00]: No.
+[out-of-band] [SPEAKER_00]: You and Jude are just kind of bobbing up and down as you go down the water.
+[out-of-band] [SPEAKER_02]: Roll a niche.
+[out-of-band] [SPEAKER_02]: Damn, keep rolling.
+[out-of-band] [SPEAKER_02]: Oh, 16.
+[out-of-band] [SPEAKER_02]: 19, you get what, 7?
+[out-of-band] [SPEAKER_00]: Okay, these guys start swimming down towards you.
+[out-of-band] [SPEAKER_00]: You both get to go first.
+[out-of-band] [SPEAKER_01]: Okay.
+[out-of-band] [SPEAKER_00]: Can you swim?
+[out-of-band] [SPEAKER_00]: They're not more than 20 feet away.
+[out-of-band] [SPEAKER_01]: Right.
+[out-of-band] [SPEAKER_01]: How does swim, does that mean that they're in grappling range when they go?
+[out-of-band] [SPEAKER_01]: If they swim.
+[out-of-band] [SPEAKER_00]: So when you swim, you swim half your movement rate, unless you have the skill called swimming.
+[out-of-band] [SPEAKER_00]: Right.
+[out-of-band] [SPEAKER_00]: In which case you can go all your movement rate.
+[out-of-band] [SPEAKER_00]: So if you guys want to swim, you can swim an extra 15 feet.
+[out-of-band] [SPEAKER_01]: And keep the distance, or they could still close it?
+[out-of-band] [SPEAKER_00]: Well, if they're swimming 30 feet because they can swim, they will close it.
+[out-of-band] [SPEAKER_01]: But if you go 15, they won't.
+[out-of-band] [SPEAKER_01]: I guess what I'm trying to decide is if I want to use my wand, magic missile, it's an auto hit.
+[out-of-band] [SPEAKER_01]: I can see, so that shouldn't be a problem.
+[out-of-band] [SPEAKER_01]: But can I do that and still kind of swim?
+[out-of-band] [SPEAKER_01]: I would just be going with a turn.
+[out-of-band] [SPEAKER_00]: You can take your movement and you can use your action.
+[out-of-band] [SPEAKER_00]: If you want to use your action to dash, you can swim 30 feet.
+[out-of-band] [SPEAKER_01]: We gotta take out at least one of these fuckers.
+[out-of-band] [SPEAKER_01]: Okay, I gotta do that.
+[out-of-band] [SPEAKER_01]: I'm gonna cast my magic missile, and it's still, because it's just regular, it's three.
+[out-of-band] [SPEAKER_00]: Can I multi-charge it?
+[out-of-band] [SPEAKER_00]: You can.
+[out-of-band] [SPEAKER_00]: Every other charge adds another magic missile, but it takes an extra charge.
+[out-of-band] [SPEAKER_01]: Right.
+[out-of-band] [SPEAKER_01]: So, and I'm allowed, I think it was ten charges, and if I roll a twenty, if I empty it, then it's...
+[out-of-band] [SPEAKER_02]: Okay.
+[out-of-band] [SPEAKER_02]: I don't want to get stabbed by one of these fuckers.
+[out-of-band] [SPEAKER_01]: I will use...
+[out-of-band] [SPEAKER_01]: It has seven charges, that's what it's got, not ten.
+[out-of-band] [SPEAKER_00]: I will use...
+[out-of-band] [SPEAKER_01]: I'll just use two charges, so I get four.
+[out-of-band] [SPEAKER_01]: So I get 4d6.
+[out-of-band] [SPEAKER_01]: 4d4.
+[out-of-band] [SPEAKER_01]: Oh yeah, 4d4, excuse me.
+[out-of-band] [SPEAKER_00]: Okay, so Jude turns, and actually you get to go first.
+[out-of-band] [SPEAKER_00]: What do you want to do?
+[out-of-band] [SPEAKER_00]: Do you want to swim with the current or what?
+[out-of-band] [SPEAKER_02]: Uh, did you get out?
+[out-of-band] [SPEAKER_02]: No, I didn't get out.
+[out-of-band] [SPEAKER_00]: He's right next to you.
+[out-of-band] [SPEAKER_00]: You can hear him.
+[out-of-band] [SPEAKER_00]: But you hear splashing coming from you from above.
+[out-of-band] [SPEAKER_02]: Okay.
+[out-of-band] [SPEAKER_00]: I'm gonna shoot him.
+[out-of-band] [SPEAKER_02]: How, uh, should I, I'll probably do a firebolt down the river maybe.
+[out-of-band] [SPEAKER_02]: See if like, see how they're different.
+[out-of-band] [SPEAKER_02]: Like, see like how close they are.
+[out-of-band] [SPEAKER_02]: Oh, like back, back that way.
+[out-of-band] [SPEAKER_02]: Yeah, back.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_02]: You want to do that?
+[out-of-band] [SPEAKER_02]: Yeah, and I'm not like trying to aim.
+[out-of-band] [SPEAKER_02]: I'm just trying to get as far as it can go.
+[out-of-band] [SPEAKER_01]: Or you can do it forward.
+[out-of-band] [SPEAKER_02]: Yeah.
+[out-of-band] [SPEAKER_01]: To see.
+[out-of-band] [SPEAKER_01]: I mean, to see.
+[out-of-band] [SPEAKER_00]: Do you want to see down this way, or do you want to shoot it back to see those guys?
+[out-of-band] [SPEAKER_01]: Because remember, your firebolt would give you vision as it at least goes, so that if there was a stairway or something to grab onto, you'd see it.
+[out-of-band] [SPEAKER_02]: I feel like, wouldn't they see us still?
+[out-of-band] [SPEAKER_02]: They can see us.
+[out-of-band] [SPEAKER_02]: I said that to you.
+[out-of-band] [SPEAKER_02]: They can see just as good as I can in the dark.
+[out-of-band] [SPEAKER_02]: Okay, so yeah, shoot ahead because you can see behind.
+[out-of-band] [SPEAKER_00]: Okay, so you fire down that way, right?
+[out-of-band] [SPEAKER_00]: Yeah.
+[out-of-band] [SPEAKER_00]: And what you see is that this hits a wall about here.
+[out-of-band] [SPEAKER_00]: Okay?
+[out-of-band] [SPEAKER_00]: And the water goes under.
+[out-of-band] [SPEAKER_00]: Now, the thing is, is there's no way on either side here for you to get out.
+[out-of-band] [SPEAKER_00]: You're gonna have to go under with the water.
+[out-of-band] [SPEAKER_02]: So I think we should get out, sprint down.
+[out-of-band] [SPEAKER_02]: No, he's saying there's no way to get out.
+[out-of-band] [SPEAKER_01]: So it's too high or too slimy or whatever.
+[out-of-band] [SPEAKER_02]: I mean, you can grab onto the wall if you want to.
+[out-of-band] [SPEAKER_02]: Stay there.
+[out-of-band] [SPEAKER_02]: Do we see anything on the sides?
+[out-of-band] [SPEAKER_02]: You see rocks and stuff like that, but there's no place to get out.
+[out-of-band] [SPEAKER_01]: Like there's no stairway up.
+[out-of-band] [SPEAKER_02]: Okay, so I get out of the river, or water.
+[out-of-band] [SPEAKER_02]: Are you going to try to climb?
+[out-of-band] [SPEAKER_02]: There's a ladder?
+[out-of-band] [SPEAKER_02]: No.
+[out-of-band] [SPEAKER_02]: No, but you can climb onto the wall.
+[out-of-band] [SPEAKER_02]: Well, like, aren't we- It would be like a roll.
+[out-of-band] [SPEAKER_01]: You would have to try to roll climbing.
+[out-of-band] [SPEAKER_02]: It's not a skill.
+[out-of-band] [SPEAKER_02]: Don't we want to defend ourselves?
+[out-of-band] [SPEAKER_02]: Well, that's what I'm doing.
+[out-of-band] [SPEAKER_02]: I got a wand out.
+[out-of-band] [SPEAKER_02]: I'll probably do... What is the blade ward?
+[out-of-band] [SPEAKER_02]: Blade ward gives you resistance to any damage that... And the...
+[out-of-band] [SPEAKER_02]: Per... Perstigitation.
+[out-of-band] [SPEAKER_02]: Prestigitation.
+[out-of-band] [SPEAKER_00]: You can clean your clothes off.
+[out-of-band] [SPEAKER_02]: I'll probably do...
+[out-of-band] [SPEAKER_02]: I don't really know, honestly.
+[out-of-band] [SPEAKER_02]: Do you yell?
+[out-of-band] [SPEAKER_00]: Do you use your action to shoot the fireball down to here, and you saw that it's ending and the water's going down.
+[out-of-band] [SPEAKER_00]: Do you want to yell that to me?
+[out-of-band] [SPEAKER_00]: Yeah, I say, there's an end.
+[out-of-band] [SPEAKER_01]: Okay.
+[out-of-band] [SPEAKER_01]: Shit, so I know that that means that there's a tunnel.
+[out-of-band] [SPEAKER_00]: Do you want to swim this way?
+[out-of-band] [SPEAKER_00]: Do you want to grow onto the wall?
+[out-of-band] [SPEAKER_00]: Do you want to swim against the current?
+[out-of-band] [SPEAKER_00]: What do you want to do?
+[out-of-band] [SPEAKER_02]: I think I climb out of the water onto the concrete.
+[out-of-band] [SPEAKER_01]: You can certainly try.
+[out-of-band] [SPEAKER_00]: Okay, so you grab onto the side of the wall.
+[out-of-band] [SPEAKER_00]: This wall, right?
+[out-of-band] [SPEAKER_00]: To hang on.
+[out-of-band] [SPEAKER_01]: Because you're trying not to get sucked down through the pipe, right?
+[out-of-band] [SPEAKER_02]: Well, it might be our only way out.
+[out-of-band] [SPEAKER_02]: No, I hear you.
+[out-of-band] [SPEAKER_02]: Do you see how big it is, like how thick the gap is?
+[out-of-band] [SPEAKER_02]: What gap?
+[out-of-band] [SPEAKER_01]: That goes under.
+[out-of-band] [SPEAKER_01]: He's wondering if there was a headspace, if he saw like a headspace.
+[out-of-band] [SPEAKER_01]: It seems like it was like that.
+[out-of-band] [SPEAKER_01]: Basically, it's going to be a hold your breath kind of scenario.
+[out-of-band] [SPEAKER_02]: I think we could do that.
+[out-of-band] [SPEAKER_02]: I mean, we got nothing else to do.
+[out-of-band] [SPEAKER_01]: It's your call.
+[out-of-band] [SPEAKER_01]: If you're trying to climb out, or are you just getting ready?
+[out-of-band] [SPEAKER_02]: I'll swim down, forward.
+[out-of-band] [SPEAKER_00]: Okay, so you swim this way?
+[out-of-band] [SPEAKER_02]: We have nothing better to do.
+[out-of-band] [SPEAKER_00]: You go 15 feet this way, and the current carries you 15 feet to here.
+[out-of-band] [SPEAKER_00]: All right?
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: You're bobbing up and down in the water.
+[out-of-band] [SPEAKER_00]: I'm like a shit.
+[out-of-band] [SPEAKER_00]: What do you do?
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: So you turn, and you move 15 feet to here.
+[out-of-band] [SPEAKER_00]: You wanna cast... On which one?
+[out-of-band] [SPEAKER_00]: I'm gonna cast on the one on the right.
+[out-of-band] [SPEAKER_01]: I don't know which one's wounded the most, but I'll just say the one on the right.
+[out-of-band] [SPEAKER_00]: Okay, the one on the right, I'll figure out what the one on the right is.
+[out-of-band] [SPEAKER_01]: Okay.
+[out-of-band] [SPEAKER_01]: So four, five, six, seven plus... Eleven points of damage.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: Your magic missiles streak out, hitting the man four times.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: He's hurt, but he does not go down, and basically you hear him scream in rage, and they are going to be carried 15 feet to here, and then they swim rapidly to here.
+[out-of-band] [SPEAKER_01]: Okay, and I turn and see and start gauging my breath so I can get a good deep breath.
+[out-of-band] [SPEAKER_00]: Do you want to swim your 15 feet?
+[out-of-band] [SPEAKER_00]: Yes.
+[out-of-band] [SPEAKER_00]: Okay, so they're 15 feet behind you right there.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_01]: And I'm engaged in the distance.
+[out-of-band] [SPEAKER_01]: Well, it's gonna be down to your constitution.
+[out-of-band] [SPEAKER_01]: You got a good constitution?
+[out-of-band] [SPEAKER_01]: Oh, um...
+[out-of-band] [SPEAKER_02]: Ten.
+[out-of-band] [SPEAKER_01]: Ten?
+[out-of-band] [SPEAKER_01]: Is that bad?
+[out-of-band] [SPEAKER_01]: Mine's eleven.
+[out-of-band] [SPEAKER_01]: I mean, there's no pluses.
+[out-of-band] [SPEAKER_01]: I don't think you have a minus, do you?
+[out-of-band] [SPEAKER_01]: No.
+[out-of-band] [SPEAKER_01]: Because I would suck your all up, you'd lose a minute.
+[out-of-band] [SPEAKER_02]: I have, like, asthma.
+[out-of-band] [SPEAKER_01]: Ah, shit.
+[out-of-band] [SPEAKER_01]: Okay.
+[out-of-band] [SPEAKER_01]: Asthma.
+[out-of-band] [SPEAKER_01]: All right, Anish.
+[out-of-band] [SPEAKER_01]: All right.
+[out-of-band] [SPEAKER_01]: Seven, eight, nine, ten, eleven.
+[out-of-band] [SPEAKER_01]: Twelve.
+[out-of-band] [SPEAKER_01]: Twelve.
+[out-of-band] [SPEAKER_01]: Plus.
+[out-of-band] [SPEAKER_01]: That's fifteen.
+[out-of-band] [SPEAKER_01]: Okay.
+[out-of-band] [SPEAKER_00]: They get two.
+[out-of-band] [SPEAKER_00]: You go first.
+[out-of-band] [SPEAKER_02]: Keep swimming.
+[out-of-band] [SPEAKER_02]: Do you want to use your action to dash?
+[out-of-band] [SPEAKER_02]: Yes.
+[out-of-band] [SPEAKER_02]: Do I start panting or something?
+[out-of-band] [SPEAKER_02]: Fifteen, fifteen.
+[out-of-band] [SPEAKER_00]: So you're gonna get to here.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: And you're like getting ready to go under.
+[out-of-band] [SPEAKER_00]: Yeah.
+[out-of-band] [SPEAKER_00]: And you reach that and you know you're about to get sucked in.
+[out-of-band] [SPEAKER_00]: But you swim as fast as you can to get to that area.
+[out-of-band] [SPEAKER_00]: Okay?
+[out-of-band] [SPEAKER_01]: Jude, your turn.
+[out-of-band] [SPEAKER_01]: I'm gonna blast one of them again.
+[out-of-band] [SPEAKER_01]: The same guy that I blasted again.
+[out-of-band] [SPEAKER_01]: Two charges, so that would mean I've used four charges.
+[out-of-band] [SPEAKER_01]: Right.
+[out-of-band] [SPEAKER_00]: So you attack again.
+[out-of-band] [SPEAKER_00]: Yeah.
+[out-of-band] [SPEAKER_01]: And then I'll move the 15 feet.
+[out-of-band] [SPEAKER_01]: It would be 30 in total.
+[out-of-band] [SPEAKER_01]: 3, 4, 8, 9, 11, plus 4.
+[out-of-band] [SPEAKER_00]: Uh, 15.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: You blast him.
+[out-of-band] [SPEAKER_00]: And he goes, argh!
+[out-of-band] [SPEAKER_00]: And...
+[out-of-band] [SPEAKER_00]: He begins to float into water.
+[out-of-band] [SPEAKER_00]: So he's unconscious or dead.
+[out-of-band] [SPEAKER_00]: You're not sure which.
+[out-of-band] [SPEAKER_01]: And if he's unconscious, he soon will be dead.
+[out-of-band] [SPEAKER_01]: Right.
+[out-of-band] [SPEAKER_00]: And you want to move 15 feet?
+[out-of-band] [SPEAKER_00]: Yeah, or my max, whatever.
+[out-of-band] [SPEAKER_00]: So you move to here because you took your action.
+[out-of-band] [SPEAKER_00]: This guy's gone.
+[out-of-band] [SPEAKER_00]: His body floating 15 feet to here, so I'll just do that.
+[out-of-band] [SPEAKER_00]: And this guy dashes one, two, three.
+[out-of-band] [SPEAKER_00]: He's going to get to here, and he does not have an action, but he's right next to you.
+[out-of-band] [SPEAKER_00]: He's like, ah!
+[out-of-band] [SPEAKER_00]: It's insanity.
+[out-of-band] [SPEAKER_00]: All right, I gotta look.
+[out-of-band] [SPEAKER_01]: I wanna hug my breath.
+[out-of-band] [SPEAKER_00]: All right.
+[out-of-band] [SPEAKER_00]: Okay, next round.
+[out-of-band] [SPEAKER_00]: Nish?
+[out-of-band] [SPEAKER_00]: Jude, you actually see a figure standing up here.
+[out-of-band] [SPEAKER_00]: Okay, can I...
+[out-of-band] [SPEAKER_00]: The darkness.
+[out-of-band] [SPEAKER_00]: Can I move down?
+[out-of-band] [SPEAKER_00]: Just out of range of your dark...
+[out-of-band] [SPEAKER_00]: It's too dark.
+[out-of-band] [SPEAKER_00]: Oh, okay, gotcha.
+[out-of-band] [SPEAKER_00]: Right, it's like more than 60 feet away.
+[out-of-band] [SPEAKER_00]: Just a silhouette.
+[out-of-band] [SPEAKER_00]: A silhouette with the information.
+[out-of-band] [SPEAKER_02]: Okay.
+[out-of-band] [SPEAKER_01]: But somebody is looking at you.
+[out-of-band] [SPEAKER_01]: Probably the guy upstairs.
+[out-of-band] [SPEAKER_01]: Okay.
+[out-of-band] [SPEAKER_01]: Anish.
+[out-of-band] [SPEAKER_01]: Anish, roll a 20-side roll.
+[out-of-band] [SPEAKER_01]: 8, 9, 10, 11, 12.
+[out-of-band] [SPEAKER_00]: 19.
+[out-of-band] [SPEAKER_00]: 19.
+[out-of-band] [SPEAKER_00]: What's that?
+[out-of-band] [SPEAKER_00]: 12.
+[out-of-band] [SPEAKER_00]: 13.
+[out-of-band] [SPEAKER_00]: What'd you get?
+[out-of-band] [SPEAKER_00]: I got 12.
+[out-of-band] [SPEAKER_00]: Okay, so he goes first.
+[out-of-band] [SPEAKER_00]: You go first.
+[out-of-band] [SPEAKER_02]: What do you do?
+[out-of-band] [SPEAKER_02]: I start to, like, taking, like, bigger and bigger breaths, but I'm waiting to see what is he doing.
+[out-of-band] [SPEAKER_01]: Well, no, you don't get to wait because you're in the current.
+[out-of-band] [SPEAKER_01]: Okay, so I just go.
+[out-of-band] [SPEAKER_01]: No, he can hold on if he wants to.
+[out-of-band] [SPEAKER_02]: You can also swim against the curve.
+[out-of-band] [SPEAKER_02]: Trying to improve my breathing, kind of.
+[out-of-band] [SPEAKER_00]: Okay, so you want to hang out where the pipe is?
+[out-of-band] [SPEAKER_02]: Yeah.
+[out-of-band] [SPEAKER_00]: The water is sucking on you.
+[out-of-band] [SPEAKER_00]: Okay, but you're taking deep breaths as your action.
+[out-of-band] [SPEAKER_00]: You're not swimming.
+[out-of-band] [SPEAKER_00]: Strength tech DC 10, where you get sucked down.
+[out-of-band] [SPEAKER_00]: You get a minus two to your roll, so you have to roll a 12.
+[out-of-band] [SPEAKER_00]: You're breathing, the water sweeps you down.
+[out-of-band] [SPEAKER_02]: Do I get a breath?
+[out-of-band] [SPEAKER_00]: You get a breath, yes, because you took an action to do that, right?
+[out-of-band] [SPEAKER_00]: But you get sucked down into the pipe, moving at 15 feet per second.
+[out-of-band] [SPEAKER_00]: Now the question is, you're going to have to think about this, because you go 15 feet now.
+[out-of-band] [SPEAKER_02]: Do you want to start swimming the direction of the current or what do you want to do?
+[out-of-band] [SPEAKER_02]: Uh, yeah.
+[out-of-band] [SPEAKER_02]: I mean, like, is it like going down or like a tunnel?
+[out-of-band] [SPEAKER_00]: It's got a thing that goes down, but do you want to keep swimming with it so you go where you're getting faster?
+[out-of-band] [SPEAKER_02]: Do I have like even room to swim?
+[out-of-band] [SPEAKER_02]: Oh yeah.
+[out-of-band] [SPEAKER_02]: I guess, yeah.
+[out-of-band] [SPEAKER_02]: Try to make it, like, as much as, like, closest to light as I can.
+[out-of-band] [SPEAKER_00]: Alright, so you used your action, so you can't dash a ton, but you can... 30 feet?
+[out-of-band] [SPEAKER_00]: Uh, you can go 30 feet.
+[out-of-band] [SPEAKER_00]: Well, half of that, 15, I guess.
+[out-of-band] [SPEAKER_01]: Well, he swims 15, but the water takes him down 50.
+[out-of-band] [SPEAKER_00]: So, okay.
+[out-of-band] [SPEAKER_00]: So you go 30 feet that way.
+[out-of-band] [SPEAKER_01]: Alright, him on me.
+[out-of-band] [SPEAKER_00]: Jude attacks you with his knife.
+[out-of-band] [SPEAKER_00]: You ready?
+[out-of-band] [SPEAKER_00]: Mm-hmm.
+[out-of-band] [SPEAKER_00]: 18!
+[out-of-band] [SPEAKER_01]: Shield!
+[out-of-band] [SPEAKER_00]: Are you sure you want to use it?
+[out-of-band] [SPEAKER_00]: Yeah, I'll use the one from Irene.
+[out-of-band] [SPEAKER_00]: Because he could still hit you.
+[out-of-band] [SPEAKER_01]: I know he could still, but I need to try to...
+[out-of-band] [SPEAKER_01]: So he gets an 18, 19, 20, 21, so your AC has to be at least 21.
+[out-of-band] [SPEAKER_01]: Well, wait a minute.
+[out-of-band] [SPEAKER_01]: So it adds five to it.
+[out-of-band] [SPEAKER_01]: Oh, so that would only be 19.
+[out-of-band] [SPEAKER_01]: Yeah.
+[out-of-band] [SPEAKER_02]: Ah, fuck.
+[out-of-band] [SPEAKER_02]: Okay.
+[out-of-band] [SPEAKER_01]: I mean, I guess it doesn't matter.
+[out-of-band] [SPEAKER_01]: Well, that's where it smells like, right?
+[out-of-band] [SPEAKER_01]: Well, yeah.
+[out-of-band] [SPEAKER_01]: I guess what I mean is that if I cast it, he still hits me anyway.
+[out-of-band] [SPEAKER_01]: Yeah.
+[out-of-band] [SPEAKER_00]: Yeah.
+[out-of-band] [SPEAKER_00]: So, no.
+[out-of-band] [SPEAKER_01]: All right.
+[out-of-band] [SPEAKER_00]: He hits you.
+[out-of-band] [SPEAKER_00]: Stabs you with a horribly curved knife.
+[out-of-band] [SPEAKER_01]: All I can hope is that the poison's washed off in the water.
+[out-of-band] [SPEAKER_00]: One, he nicks you.
+[out-of-band] [SPEAKER_00]: That's strong.
+[out-of-band] [SPEAKER_00]: He goes for your eye, but he nicks you.
+[out-of-band] [SPEAKER_00]: It does two points of damage to you.
+[out-of-band] [SPEAKER_00]: That's pretty lucky.
+[out-of-band] [SPEAKER_01]: Okay.
+[out-of-band] [SPEAKER_00]: Oh.
+[out-of-band] [SPEAKER_00]: He's got you again.
+[out-of-band] [SPEAKER_00]: He's got two attacks.
+[out-of-band] [SPEAKER_00]: Oh shit.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: Oh wait, no.
+[out-of-band] [SPEAKER_00]: I know he does.
+[out-of-band] [SPEAKER_00]: He tries to grapple you.
+[out-of-band] [SPEAKER_00]: 16, 17, 18, 19.
+[out-of-band] [SPEAKER_00]: He grabs onto you with his hand.
+[out-of-band] [SPEAKER_01]: Okay, that's fine.
+[out-of-band] [SPEAKER_01]: I actually had an idea that was going to involve grappling myself.
+[out-of-band] [SPEAKER_00]: So what this means is you can't get away from him.
+[out-of-band] [SPEAKER_00]: You can't move away from him until you break the grapple.
+[out-of-band] [SPEAKER_01]: Right.
+[out-of-band] [SPEAKER_01]: But I had this idea.
+[out-of-band] [SPEAKER_01]: I want to try to turn...
+[out-of-band] [SPEAKER_01]: Okay, so before you go on any further, I was actually thinking the current's getting swifter as we go in.
+[out-of-band] [SPEAKER_01]: I was thinking about submerging myself, like taking a deep breath,
+[out-of-band] [SPEAKER_01]: Pushing myself down and trying to kick him so that his head hits the pipe edge or the concrete as I'm getting sucked in.
+[out-of-band] [SPEAKER_01]: So I clear the hole, but I'm going to try to push him up so that he doesn't clear the hole.
+[out-of-band] [SPEAKER_01]: And if he's grabbing me, he doesn't have a hand out to block any headshot.
+[out-of-band] [SPEAKER_01]: You know, if he takes the concrete bricks right in the face.
+[out-of-band] [SPEAKER_01]: But I don't know what I would roll for that.
+[out-of-band] [SPEAKER_00]: Right.
+[out-of-band] [SPEAKER_00]: You guys are still 15 feet away from there.
+[out-of-band] [SPEAKER_00]: Okay?
+[out-of-band] [SPEAKER_00]: You're 30 feet through.
+[out-of-band] [SPEAKER_00]: Okay?
+[out-of-band] [SPEAKER_01]: Even after the current's carried us that 15?
+[out-of-band] [SPEAKER_00]: Yeah.
+[out-of-band] [SPEAKER_01]: And the current has carried you 15.
+[out-of-band] [SPEAKER_01]: But if I don't do anything and he's grappled me, because we're in a current, can I increase us to make that happen this round?
+[out-of-band] [SPEAKER_01]: So in other words, can I do this while he's grabbing onto me?
+[out-of-band] [SPEAKER_01]: You know, like sink myself, like go underneath the water.
+[out-of-band] [SPEAKER_00]: Yeah, you could try.
+[out-of-band] [SPEAKER_00]: You could try and do that.
+[out-of-band] [SPEAKER_01]: And try to like increase like it so that I can get some speed at least so that I can try to shake him off of me by slamming him into me.
+[out-of-band] [SPEAKER_00]: Okay, let me look up rules for suffocating.
+[out-of-band] [SPEAKER_00]: Page 183.
+[out-of-band] [SPEAKER_00]: They've got rules for it.
+[out-of-band] [SPEAKER_00]: A creature can hold its breath for the number of minutes equal to one plus its constitution modifier.
+[out-of-band] [SPEAKER_00]: What's your constitution modifier?
+[out-of-band] [SPEAKER_01]: Plus a zero.
+[out-of-band] [SPEAKER_00]: So you can hold your breath for one minute.
+[out-of-band] [SPEAKER_00]: When a creature runs out of breath or is choking, it can survive for a number of breaths equal to its constitution modifier.
+[out-of-band] [SPEAKER_00]: At the start of the next turn, it drops to zero points and it's dying, and it can't regain hit points or be stabilized until it can breathe again.
+[out-of-band] [SPEAKER_00]: For example, a creature with a constitution of 14 can hold the breath for three minutes.
+[out-of-band] [SPEAKER_00]: You can hold your breath for one.
+[out-of-band] [SPEAKER_00]: Same with me, though.
+[out-of-band] [SPEAKER_00]: Exactly.
+[out-of-band] [SPEAKER_01]: That's not bad, though, for a human.
+[out-of-band] [SPEAKER_01]: One minute.
+[out-of-band] [SPEAKER_01]: I mean, that's not anything to brag about.
+[out-of-band] [SPEAKER_00]: You have been underwater for one round.
+[out-of-band] [SPEAKER_00]: That's six seconds?
+[out-of-band] [SPEAKER_00]: Six seconds.
+[out-of-band] [SPEAKER_00]: Fun, that's actually kind of weird.
+[out-of-band] [SPEAKER_02]: We get ten of those.
+[out-of-band] [SPEAKER_02]: You get ten of those.
+[out-of-band] [SPEAKER_02]: Okay.
+[out-of-band] [SPEAKER_02]: I mean like treat like keep treating it like a slip inside that's going downhill.
+[out-of-band] [SPEAKER_02]: Do you want to swim?
+[out-of-band] [SPEAKER_02]: Yeah, can I like paddle?
+[out-of-band] [SPEAKER_00]: If you want you can use your action to dash so you're going 45 feet.
+[out-of-band] [SPEAKER_02]: Does that make me lose some of my breath time?
+[out-of-band] [SPEAKER_02]: No.
+[out-of-band] [SPEAKER_01]: Basically it's speeding you up.
+[out-of-band] [SPEAKER_01]: You're going with the water to try to get out.
+[out-of-band] [SPEAKER_02]: Okay, yeah I do that.
+[out-of-band] [SPEAKER_01]: Is she trying back?
+[out-of-band] [SPEAKER_00]: No, they're trying back.
+[out-of-band] [SPEAKER_00]: Oh, okay.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: Alright, roll a niche.
+[out-of-band] [SPEAKER_02]: Where are my dice?
+[out-of-band] [SPEAKER_02]: Oh, you have it.
+[out-of-band] [SPEAKER_00]: I have a question.
+[out-of-band] [SPEAKER_00]: Why do we always roll a niche so much?
+[out-of-band] [SPEAKER_00]: Because it determines life or death.
+[out-of-band] [SPEAKER_02]: I always get the good ones when I don't need it.
+[out-of-band] [SPEAKER_02]: I did 14.
+[out-of-band] [SPEAKER_02]: I always get the good ones when you don't need it.
+[out-of-band] [SPEAKER_02]: It's a nat 20.
+[out-of-band] [SPEAKER_02]: Okay, nat 20.
+[out-of-band] [SPEAKER_00]: Alright, you swim ahead as fast as you can, and you go another 45 feet, so you've gone 75 feet.
+[out-of-band] [SPEAKER_00]: And you've been under the water for two rounds.
+[out-of-band] [SPEAKER_00]: That's good.
+[out-of-band] [SPEAKER_00]: You have 10 rounds until you run out of breath, and then you have one round after that until you die.
+[out-of-band] [SPEAKER_00]: I die in the first session.
+[out-of-band] [SPEAKER_01]: Well, it wouldn't be good because I might die too, because we're both at one minute mark, so.
+[out-of-band] [SPEAKER_02]: I just say, I open my mouth.
+[out-of-band] [SPEAKER_02]: The turd comes in.
+[out-of-band] [SPEAKER_02]: It's a gross way to die.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: You do.
+[out-of-band] [SPEAKER_00]: You get to go for it.
+[out-of-band] [SPEAKER_01]: Okay, so what would you say that that is?
+[out-of-band] [SPEAKER_01]: Is that a...
+[out-of-band] [SPEAKER_01]: I don't want like if I'm...
+[out-of-band] [SPEAKER_00]: It's gonna be an athletic check.
+[out-of-band] [SPEAKER_00]: It's an athletic check.
+[out-of-band] [SPEAKER_00]: It's a thing, basically, your athletics to his athletics.
+[out-of-band] [SPEAKER_00]: And if you do it, you'll knock him in the head and you'll get him off you.
+[out-of-band] [SPEAKER_01]: It's basically breaking the grapple.
+[out-of-band] [SPEAKER_01]: Okay, so I have a plus two.
+[out-of-band] [SPEAKER_01]: Okay.
+[out-of-band] [SPEAKER_01]: Seventeen.
+[out-of-band] [SPEAKER_01]: Seventeen.
+[out-of-band] [SPEAKER_01]: This is what he gets.
+[out-of-band] [SPEAKER_00]: 14.
+[out-of-band] [SPEAKER_00]: So you basically kick off from him and break the grapple.
+[out-of-band] [SPEAKER_00]: And you're going to go 15 feet to there while you're doing this.
+[out-of-band] [SPEAKER_00]: Do you want to swim?
+[out-of-band] [SPEAKER_01]: Well, I was hoping to time it so that I could try to bang his head into the tongue.
+[out-of-band] [SPEAKER_01]: Yeah, and then I turn.
+[out-of-band] [SPEAKER_01]: And if I break the grapple, I turn and I start.
+[out-of-band] [SPEAKER_01]: And you swim.
+[out-of-band] [SPEAKER_00]: So you swim to here.
+[out-of-band] [SPEAKER_00]: So you are 15 feet in.
+[out-of-band] [SPEAKER_00]: And you begin your underwater adventures next round.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: Let's see what his dex check is.
+[out-of-band] [SPEAKER_00]: One, he hits his head on the thing, doing one die four, I'll let you roll it, of damage to him.
+[out-of-band] [SPEAKER_00]: Two?
+[out-of-band] [SPEAKER_00]: Two points of damage.
+[out-of-band] [SPEAKER_00]: And he does not get to go after you yet.
+[out-of-band] [SPEAKER_00]: So you're 15 feet in, you're 75 feet in.
+[out-of-band] [SPEAKER_00]: Next round, we don't have to roll an ish.
+[out-of-band] [SPEAKER_00]: You're gonna swim, right?
+[out-of-band] [SPEAKER_00]: I'm gonna swim too.
+[out-of-band] [SPEAKER_00]: You go another round, 45 more feet, so that's 80, 120 feet, you've gone 120 feet.
+[out-of-band] [SPEAKER_00]: And you're three rounds in.
+[out-of-band] [SPEAKER_01]: What are you going to do?
+[out-of-band] [SPEAKER_01]: I swim, max.
+[out-of-band] [SPEAKER_00]: Swim max, that's 45.
+[out-of-band] [SPEAKER_00]: So you have gone 60 feet.
+[out-of-band] [SPEAKER_01]: And this is my second.
+[out-of-band] [SPEAKER_00]: And this is your first round.
+[out-of-band] [SPEAKER_00]: Oh, first round.
+[out-of-band] [SPEAKER_00]: Yeah, so Jude has first.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: You're fully wide.
+[out-of-band] [SPEAKER_01]: You're just blank.
+[out-of-band] [SPEAKER_01]: You're just going.
+[out-of-band] [SPEAKER_01]: Going with the current.
+[out-of-band] [SPEAKER_01]: Right?
+[out-of-band] [SPEAKER_00]: Going with the current.
+[out-of-band] [SPEAKER_00]: That's the only thing that gives you any kind of direction.
+[out-of-band] [SPEAKER_00]: Next round.
+[out-of-band] [SPEAKER_00]: You swim again?
+[out-of-band] [SPEAKER_00]: Can I see your book real quick?
+[out-of-band] [SPEAKER_02]: Can I dash or no?
+[out-of-band] [SPEAKER_00]: You can dash.
+[out-of-band] [SPEAKER_02]: Yeah, I'll dash.
+[out-of-band] [SPEAKER_00]: So you've gone 165 feet.
+[out-of-band] [SPEAKER_00]: Actually, I'll just look it up on my phone real quick.
+[out-of-band] [SPEAKER_02]: How many rounds are we in?
+[out-of-band] [SPEAKER_00]: You've gone four rounds now.
+[out-of-band] [SPEAKER_00]: You've gone 165 feet.
+[out-of-band] [SPEAKER_00]: You go max, which is 45 feet, so you've got 105 feet.
+[out-of-band] [SPEAKER_00]: And two rounds.
+[out-of-band] [SPEAKER_01]: I'm trying to look up if my cantrip light has any verbal component.
+[out-of-band] [SPEAKER_01]: If it doesn't, then I could maybe cast it.
+[out-of-band] [SPEAKER_00]: It would take an action so you wouldn't be able to dash.
+[out-of-band] [SPEAKER_01]: Yeah, I wouldn't be able to dash, but at least I could get a light.
+[out-of-band] [SPEAKER_02]: Let me see.
+[out-of-band] [SPEAKER_01]: Let's see.
+[out-of-band] [SPEAKER_01]: Components.
+[out-of-band] [SPEAKER_01]: It's V, M. That's verbal.
+[out-of-band] [SPEAKER_00]: So I can't really cast?
+[out-of-band] [SPEAKER_00]: No, you can't.
+[out-of-band] [SPEAKER_00]: Yeah, because I got water.
+[out-of-band] [SPEAKER_00]: All right.
+[out-of-band] [SPEAKER_00]: All right.
+[out-of-band] [SPEAKER_00]: Next round, you swim.
+[out-of-band] [SPEAKER_00]: Can I dash?
+[out-of-band] [SPEAKER_00]: Yeah, you can.
+[out-of-band] [SPEAKER_00]: So you've gone 215 feet.
+[out-of-band] [SPEAKER_00]: After five rounds,
+[out-of-band] [SPEAKER_00]: And Jude dashes and goes another 45 feet, so he's gone 150 feet after three rounds.
+[out-of-band] [SPEAKER_00]: Roll an int check.
+[out-of-band] [SPEAKER_02]: What's an int check?
+[out-of-band] [SPEAKER_00]: Your intelligence.
+[out-of-band] [SPEAKER_00]: This is a DC 10 int check.
+[out-of-band] [SPEAKER_00]: Basically add your intelligence modifier plus four to it.
+[out-of-band] [SPEAKER_02]: You want to make it.
+[out-of-band] [SPEAKER_02]: Nineteen?
+[out-of-band] [SPEAKER_02]: Twenty, twenty-one, twenty-two, twenty-three.
+[out-of-band] [SPEAKER_02]: Okay.
+[out-of-band] [SPEAKER_02]: So...
+[SPEAKER_00]: It's dark and you can't see, but you come to the surface and you realize you're out of the
+[SPEAKER_00]: Channel with the thing over it.
+[SPEAKER_00]: And you realize that because when you were swimming, every once in a while you would bump up against the top of the thing and you wouldn't be able to get air or anything.
+[SPEAKER_00]: But when you come up this time, you realize you're at the surface and you break the surface.
+[out-of-band] [SPEAKER_00]: So I take some breaths?
+[out-of-band] [SPEAKER_00]: Yeah, you can definitely take...
+[out-of-band] [SPEAKER_00]: So you reset.
+[out-of-band] [SPEAKER_00]: Is there light or is it still dark?
+[out-of-band] [SPEAKER_00]: It's still dark.
+[out-of-band] [SPEAKER_02]: But do you want to do anything this turn?
+[out-of-band] [SPEAKER_02]: Do you want to try and growl onto the wall?
+[out-of-band] [SPEAKER_02]: I shoot a fireball kind of like in forward to light up the room to see what I can see.
+[out-of-band] [SPEAKER_01]: And then you can also swim against the current, too.
+[out-of-band] [SPEAKER_00]: Well, he wants to bob up.
+[out-of-band] [SPEAKER_00]: So you bob up and then you light the room up with your fire blast, right?
+[out-of-band] [SPEAKER_02]: Yeah.
+[out-of-band] [SPEAKER_00]: Okay, the room lights up and the channel still is going.
+[out-of-band] [SPEAKER_00]: On your left, however, there's a platform.
+[out-of-band] [SPEAKER_02]: Platform?
+[out-of-band] [SPEAKER_02]: Like the one that was over here.
+[out-of-band] [SPEAKER_00]: Like a little one.
+[out-of-band] [SPEAKER_02]: Okay.
+[out-of-band] [SPEAKER_02]: Is it like, uh, I'll get onto it, see if I, can I like see, while the fire, can I like quickly look back and see, like... No.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: You just see the light of the room as the bolt follows down into your...
+[out-of-band] [SPEAKER_02]: It's like one like square little like...
+[out-of-band] [SPEAKER_00]: No, no, no.
+[out-of-band] [SPEAKER_00]: It's a platform like this.
+[out-of-band] [SPEAKER_00]: It's kind of like what this was.
+[out-of-band] [SPEAKER_00]: You were going down the channel, and this thing is over here, and you fired the thing this way, and actually you see a stairway going up right there.
+[out-of-band] [SPEAKER_02]: Oh, a stairway.
+[out-of-band] [SPEAKER_02]: Okay.
+[out-of-band] [SPEAKER_02]: Yeah, I go on there.
+[out-of-band] [SPEAKER_02]: Okay, so you try to swim over to the side.
+[out-of-band] [SPEAKER_02]: I also yell, oh, Jude.
+[out-of-band] [SPEAKER_00]: Now, the problem is...
+[out-of-band] [SPEAKER_02]: Okay, what are you yelling?
+[out-of-band] [SPEAKER_02]: Jude, I found a stairwell on the left.
+[out-of-band] [SPEAKER_00]: Obviously, Jude cannot hear you because he's underwater.
+[out-of-band] [SPEAKER_00]: Okay, so you swim to the side, right?
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: So you're 15 feet down from the entrance of the pipe and you swim over to the side and get there.
+[out-of-band] [SPEAKER_00]: Do you want to try and crawl up onto the edge?
+[out-of-band] [SPEAKER_02]: Yeah, I kind of want to like...
+[out-of-band] [SPEAKER_02]: Because you can see through the dark, I want to kind of like lay my body on the thing and try to hold a hand out to the water.
+[out-of-band] [SPEAKER_02]: Okay, but do you want to get up first?
+[out-of-band] [SPEAKER_02]: Well, yeah, I get on the side.
+[out-of-band] [SPEAKER_00]: Okay, so, roll a strength check.
+[out-of-band] [SPEAKER_00]: DC 10.
+[out-of-band] [SPEAKER_00]: Minus 2.
+[out-of-band] [SPEAKER_00]: Thirteen.
+[out-of-band] [SPEAKER_00]: Thirteen.
+[out-of-band] [SPEAKER_00]: Okay, so you go to the side and grab onto the side and try to pull yourself up, but the water and your robes are dragging on you, so you can't quite get yourself up onto the edge.
+[out-of-band] [SPEAKER_01]: Does he at least stop himself?
+[out-of-band] [SPEAKER_01]: You do stop yourself, though.
+[out-of-band] [SPEAKER_01]: Oh, yeah.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: Jude, do you swim?
+[out-of-band] [SPEAKER_02]: Mm-hmm.
+[out-of-band] [SPEAKER_00]: Another 45 feet?
+[out-of-band] [SPEAKER_00]: Yep.
+[out-of-band] [SPEAKER_00]: So you go 195.
+[out-of-band] [SPEAKER_00]: And you've been in the water for four rounds.
+[out-of-band] [SPEAKER_00]: Next round.
+[out-of-band] [SPEAKER_00]: Rolling ish.
+[out-of-band] [SPEAKER_00]: Four.
+[out-of-band] Nine.
+[out-of-band] [SPEAKER_00]: Nine?
+[out-of-band] [SPEAKER_00]: Do we add anything or not?
+[out-of-band] [SPEAKER_00]: Yeah.
+[out-of-band] [SPEAKER_00]: I'll add your dex.
+[out-of-band] [SPEAKER_01]: So you have a nine and you have a seven.
+[out-of-band] [SPEAKER_01]: Yeah.
+[out-of-band] [SPEAKER_00]: What do you do?
+[out-of-band] [SPEAKER_01]: I'm going max, but I can also, like with my night vision, so if I do clear anything and I see the platform... You go another five feet.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: And then you see the thing break out into...
+[out-of-band] [SPEAKER_00]: An open place, okay?
+[out-of-band] [SPEAKER_00]: Yeah.
+[out-of-band] [SPEAKER_00]: Do you want to bob to the top?
+[out-of-band] [SPEAKER_01]: Yeah, for sure.
+[out-of-band] [SPEAKER_01]: Take a deep breath and go for the platform.
+[SPEAKER_00]: Okay, you see Leslie, maybe 20 feet in front of you, grabbed onto the platform.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Trying to get himself up.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Alright?
+[SPEAKER_01]: I'm gonna try to get on the platform and reach for him.
+[SPEAKER_00]: Okay, so you swim to the platform.
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: You can carry 15 feet down, but you get over to the side.
+[SPEAKER_00]: Do you want to try and pull yourself up?
+[SPEAKER_01]: Uh, yeah.
+[SPEAKER_01]: Does it seem like, though, that I can grab on and give him a hand up first?
+[SPEAKER_01]: Is that gonna be the best?
+[SPEAKER_00]: Cause I don't want him to- If you wanna come up next to him and help him, yeah, you can do that.
+[SPEAKER_01]: Yeah, I'll come up next to him and help him.
+[SPEAKER_01]: Like, I'll arrest my own.
+[SPEAKER_00]: So you come up next to Leslie and what do you say?
+[SPEAKER_00]: I say, GO!
+[SPEAKER_00]: Jude starts helping you up.
+[out-of-band] [SPEAKER_00]: You get to roll your strength check at advantage, so you roll two twenty-sided dies.
+[out-of-band] [SPEAKER_02]: Okay, you get picked the highest.
+[out-of-band] [SPEAKER_02]: And do I still minus a two?
+[out-of-band] [SPEAKER_00]: Yes.
+[out-of-band] [SPEAKER_00]: From the best role.
+[out-of-band] [SPEAKER_00]: Thirteen, eleven.
+[out-of-band] [SPEAKER_00]: No, he's like...
+[out-of-band] [SPEAKER_00]: He's not able to get out.
+[out-of-band] [SPEAKER_01]: Shit.
+[out-of-band] [SPEAKER_01]: Just don't get swept away.
+[out-of-band] [SPEAKER_01]: Okay, so...
+[out-of-band] [SPEAKER_00]: Roll Perception.
+[out-of-band] [SPEAKER_00]: Make him twenty-sided?
+[out-of-band] [SPEAKER_00]: Yeah, twenty-sided.
+[out-of-band] [SPEAKER_00]: Not you.
+[out-of-band] [SPEAKER_00]: Twenty?
+[out-of-band] [SPEAKER_00]: The guy comes out of the water and starts swimming towards you.
+[out-of-band] [SPEAKER_01]: I want to blast him.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: Anish.
+[out-of-band] [SPEAKER_01]: Okay.
+[out-of-band] [SPEAKER_01]: Seven plus four.
+[out-of-band] [SPEAKER_01]: You get a ten.
+[out-of-band] [SPEAKER_01]: He goes first.
+[out-of-band] [SPEAKER_00]: He swims up to you and tries to stab you.
+[out-of-band] [SPEAKER_00]: First attack.
+[out-of-band] [SPEAKER_00]: 14, 15, 16, 17.
+[out-of-band] [SPEAKER_00]: Shield.
+[out-of-band] [SPEAKER_00]: You use shield to protect yourself.
+[out-of-band] [SPEAKER_00]: He stabs at you again.
+[out-of-band] [SPEAKER_00]: You still get the plus five.
+[out-of-band] [SPEAKER_00]: Six misses.
+[out-of-band] [SPEAKER_00]: Jude uses his hand in some strange force to ward off this guy attacking him with the water.
+[out-of-band] [SPEAKER_00]: Just get out of the water now!
+[out-of-band] [SPEAKER_02]: You get to go.
+[out-of-band] [SPEAKER_02]: Okay, I try to get back.
+[out-of-band] [SPEAKER_02]: I still try to get on this.
+[out-of-band] [SPEAKER_00]: Okay, you try to get up.
+[out-of-band] [SPEAKER_00]: You cannot help.
+[out-of-band] [SPEAKER_00]: Well, you can use your action to help him.
+[out-of-band] [SPEAKER_00]: You're probably going to use it to attack.
+[out-of-band] [SPEAKER_00]: I'm going to use it to attack.
+[out-of-band] [SPEAKER_02]: Okay, so roll.
+[out-of-band] [SPEAKER_02]: I get a one.
+[out-of-band] [SPEAKER_02]: I get swept away.
+[out-of-band] [SPEAKER_00]: That's happened.
+[out-of-band] [SPEAKER_02]: Four.
+[out-of-band] [SPEAKER_02]: Four.
+[out-of-band] [SPEAKER_00]: It's not happening.
+[out-of-band] [SPEAKER_00]: You're trying to get up.
+[out-of-band] [SPEAKER_02]: You just can't do it.
+[out-of-band] [SPEAKER_00]: Let me think about this.
+[out-of-band] [SPEAKER_00]: Do you want to use your action for something?
+[out-of-band] [SPEAKER_00]: Oh wait, you use your action to do that.
+[out-of-band] [SPEAKER_00]: Do you want to kick off from the wall and try to get away from these guys or stay where you're at?
+[out-of-band] [SPEAKER_00]: The pipe starts, you know the pipe starts again down here somewhere.
+[out-of-band] [SPEAKER_00]: No, we need to make it here honestly.
+[out-of-band] [SPEAKER_00]: Okay, so you're gonna stay right where you are.
+[out-of-band] [SPEAKER_00]: You hear Jude battling.
+[out-of-band] [SPEAKER_00]: I'm just gonna cast Magic Missile.
+[out-of-band] [SPEAKER_00]: You fired Magic Missile with this guy?
+[out-of-band] [SPEAKER_01]: Yeah, just one with my wand.
+[out-of-band] [SPEAKER_01]: Suck it!
+[out-of-band] [SPEAKER_01]: Three, six, seven, eight, nine, ten.
+[out-of-band] [SPEAKER_00]: Ten points of damage?
+[out-of-band] [SPEAKER_00]: Yeah.
+[out-of-band] [SPEAKER_00]: 10 points of damage?
+[out-of-band] [SPEAKER_00]: Yeah.
+[SPEAKER_00]: Okay, Jude's wand glows, and these four, three bolts hit this guy in the face.
+[SPEAKER_00]: And he's like, ahhh!
+[SPEAKER_00]: And he starts getting swept down.
+[SPEAKER_00]: He gets swept down 15 feet away from you guys.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: You think you temporarily blinded him.
+[out-of-band] [SPEAKER_00]: Okay, perfect.
+[out-of-band] [SPEAKER_00]: You're still hanging onto the wall.
+[out-of-band] [SPEAKER_00]: Yeah.
+[out-of-band] [SPEAKER_00]: Right?
+[out-of-band] [SPEAKER_00]: Next round, do you try and get up?
+[out-of-band] [SPEAKER_00]: Yep.
+[out-of-band] [SPEAKER_00]: Do you want to try and help him?
+[out-of-band] [SPEAKER_00]: Yeah.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: Roll two dice and minus two.
+[out-of-band] [SPEAKER_00]: Twenty!
+[out-of-band] [SPEAKER_00]: With her in the arc, you only get an effort.
+[out-of-band] [SPEAKER_00]: Leslie, with his skinny little arms, pulls himself out of the water.
+[out-of-band] [SPEAKER_02]: I do it like one hand.
+[out-of-band] [SPEAKER_00]: Boom.
+[out-of-band] [SPEAKER_00]: Not quite.
+[out-of-band] [SPEAKER_00]: He throws his leg over the side and then rolls onto the water.
+[out-of-band] [SPEAKER_00]: Okay, he's up there, Jude.
+[out-of-band] [SPEAKER_00]: You use your action to help him.
+[out-of-band] [SPEAKER_01]: Yeah.
+[out-of-band] [SPEAKER_01]: So I'm still in the water, but I'm hanging out.
+[out-of-band] [SPEAKER_00]: Yeah.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: Next round, do you want to try and help Jude out by throwing a hand over there?
+[out-of-band] [SPEAKER_02]: Yeah, I'll try to, like, pull him.
+[out-of-band] [SPEAKER_00]: Okay, so you pulled out a hand, and he tries to help you, so you have to do a strength check.
+[out-of-band] [SPEAKER_01]: Is this going to be negative?
+[out-of-band] [SPEAKER_00]: No, it's not a negative.
+[out-of-band] [SPEAKER_00]: It gives you advantage.
+[out-of-band] [SPEAKER_01]: Okay.
+[out-of-band] [SPEAKER_02]: My minus two strength.
+[out-of-band] [SPEAKER_00]: I have a plus two.
+[out-of-band] [SPEAKER_00]: 17, 18, and you get pulled up.
+[out-of-band] [SPEAKER_01]: Okay.
+[SPEAKER_00]: I turn around and I'm ready to get that guy.
+[SPEAKER_01]: You see the guy get sucked under.
+[SPEAKER_00]: He's like grabbing his face, blinded, and he gets sucked into the pipe.
+[SPEAKER_00]: You doubt that he's gonna live much longer.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: We move for the surface.
+[SPEAKER_01]: There was one more that saw us.
+[SPEAKER_01]: We have to get out of the sewers.
+[SPEAKER_01]: Yeah, so let's run up the stairs and see what's...
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Yeah, we don't wait.
+[out-of-band] [SPEAKER_02]: We're like in the middle of Egypt.
+[SPEAKER_01]: Well no, we're going to be still probably in the foreign quarter, but I'm going to be guessing that we're going to be in the foreign quarter either outside of the castle walls or the fortress walls.
+[SPEAKER_01]: So we're either going to be outside of the foreign quarter or on the outside of the walls, closer to the harbor edge, or we're going to be just on the inside of the foreign quarter to be my guess.
+[SPEAKER_00]: Alright, so, you guys...
+[SPEAKER_00]: Struggle.
+[SPEAKER_00]: You're wet.
+[SPEAKER_00]: You smell bad.
+[SPEAKER_00]: You want to use Preston's attention to clean yourself off?
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: As soon as he does that to me, I'm all like, can you hit me?
+[SPEAKER_00]: He cleans himself off.
+[SPEAKER_01]: Yeah.
+[SPEAKER_00]: You don't have that.
+[SPEAKER_01]: I know.
+[SPEAKER_01]: I was like, can you hit me?
+[SPEAKER_01]: Cleats you off.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: You don't see anybody else personally.
+[SPEAKER_00]: And the two of you climb the stairs up, getting to what seems to be
+[SPEAKER_00]: A little workroom where there's rungs on the wall and a manhole cover at the top.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: I'll go first since he's pretty weak.
+[SPEAKER_00]: So you climb up the iron rungs to the top of the manhole and push it over and stick your hat out and look where you are.
+[SPEAKER_01]: So it's still nighttime because this attack came down in the shop in the nighttime.
+[SPEAKER_01]: I just want to make sure there's nobody standing over me or anything like that.
+[SPEAKER_01]: Am I in the middle of a crowded street?
+[SPEAKER_00]: Oh, you're not in the middle of a crowded street.
+[SPEAKER_00]: And the light of the moon, it's not full, but it's waxing.
+[SPEAKER_00]: So you have some light.
+[SPEAKER_00]: It shows you where you are.
+[SPEAKER_00]: And you've been in this little alleyway many times.
+[SPEAKER_00]: It's called Blood Alley.
+[SPEAKER_00]: Oh, shit.
+[SPEAKER_00]: This is where Gallage and Carmar take guys to go eat the hell out of them.
+[SPEAKER_00]: Is Ferds anywhere nearby?
+[SPEAKER_00]: This is right behind it.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: I've come out, but I'm obviously looking for anybody that's like, you know... Nobody's in the alley right now, which is good, because there are brawls that happen here quite often.
+[SPEAKER_01]: Right, right, right.
+[SPEAKER_01]: And I'll be like, follow me, I know where we are.
+[SPEAKER_01]: Okay, so you guys climb yourself out of the hole.
+[SPEAKER_00]: In the Foreign District, in the moonlight, behind Ferd's Bar, in Blood Alley.

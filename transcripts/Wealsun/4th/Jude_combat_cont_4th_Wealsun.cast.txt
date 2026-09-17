@@ -1,0 +1,5 @@
+# Cast for Jude_combat_cont_4th_Wealsun
+# Expected voices: 2
+DM
+Jude
+Alchemist (NPC, DM-voiced)

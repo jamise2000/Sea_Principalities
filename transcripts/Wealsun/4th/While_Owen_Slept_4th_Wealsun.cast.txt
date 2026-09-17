@@ -1,0 +1,6 @@
+# Cast for While_Owen_Slept_4th_Wealsun
+# Expected voices: 4
+DM
+Gouge
+Merrick
+Folsom

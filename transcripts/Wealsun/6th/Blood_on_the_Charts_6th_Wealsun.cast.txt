@@ -1,0 +1,7 @@
+# Cast for Blood_on_the_Charts_6th_Wealsun
+# Expected voices: 4
+DM
+Gouge
+Merrick
+Tyrus
+Mob_leader (NPC, DM-voiced)
