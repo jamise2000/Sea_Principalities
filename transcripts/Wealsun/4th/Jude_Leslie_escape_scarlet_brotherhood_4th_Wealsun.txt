@@ -1,0 +1,1518 @@
+[SPEAKER_00A]: This is the evening of the 4th of Welsun.
+[SPEAKER_00A]: You had done all of the errands that your master, Albinath, had gotten you to do today.
+[SPEAKER_00A]: Gone to the market, picked up some sulfur, picked up some iron shavings, and brought them back.
+[SPEAKER_00A]: That evening, two men had come to the door and knocked on the door and entered.
+[SPEAKER_00A]: You made yourself scarce in here.
+[SPEAKER_00A]: This is the study, okay?
+[SPEAKER_00A]: You overheard your master talking to these people.
+[SPEAKER_00A]: One of them had a strange voice.
+[SPEAKER_00A]: One of them was a human.
+[SPEAKER_00A]: Their discussion...
+[SPEAKER_01A]: Wearing a mask.
+[SPEAKER_00A]: Wearing a mask.
+[SPEAKER_00A]: The other one was an elf wearing a large-brimmed hat.
+[SPEAKER_00A]: You stayed in the study basically looking at your spells and studying your spells, okay?
+[SPEAKER_00A]: What happened after basically about 30 minutes of conversation, one of the people left.
+[SPEAKER_00A]: The elf, however, remained and discussed things with your mentor probably for another 20 minutes.
+[SPEAKER_00A]: After that, there was a knock at the door, which is strange at this time of evening.
+[SPEAKER_00A]: Usually Albinath closes the store down
+[SPEAKER_00A]: But he seemed to be interested in talking to these two fellows.
+[SPEAKER_00A]: They had been discussing chemical compounds and other things.
+[SPEAKER_00A]: You thought nothing of the knock, but all of a sudden you heard a strange noise from inside the room, in here, and then the sounds of blasts outside the door.
+[SPEAKER_00A]: And then somebody started pounding on the door very crazily.
+[SPEAKER_00A]: What do you want to do?
+[SPEAKER_00A]: Uh, hide.
+[SPEAKER_01A]: Okay.
+[SPEAKER_00A]: You're in this room right here.
+[SPEAKER_03A]: Okay.
+[SPEAKER_03A]: Okay.
+[SPEAKER_03A]: And they're banging on this door?
+[SPEAKER_03A]: No, no, no.
+[SPEAKER_01A]: This door.
+[SPEAKER_03A]: Oh, they're banging on that door.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_03A]: Um, do I, and I was just hearing like bangs and explosions and hiding.
+[SPEAKER_00A]: You are, two explosions, right?
+[SPEAKER_00A]: And then
+[SPEAKER_01A]: Do you cast the firewall outside here or in here?
+[SPEAKER_01A]: I wasn't trying to burn down a shop, so I think I cast it outside.
+[SPEAKER_01A]: Outside the door?
+[SPEAKER_01A]: Just basically like that, right?
+[SPEAKER_01A]: Right.
+[SPEAKER_01A]: Okay.
+[SPEAKER_03A]: Is there a second, like, door here that leads out?
+[SPEAKER_03A]: Like a back door?
+[SPEAKER_00A]: You know that there is a stairwell that leads down to the sewers.
+[SPEAKER_00A]: And the sewers are actually where Albinath gets you to go and pour some of the more nasty chemicals that are from failed experiments.
+[SPEAKER_00A]: It's kind of bad, but...
+[SPEAKER_03A]: I assume if I hear banging and explosions on a door that these guys are probably no good, so I'll go down the stairs.
+[SPEAKER_00A]: Okay, so you want to go out into the room.
+[SPEAKER_01A]: I think I was dragging him, because wasn't he injured?
+[SPEAKER_01A]: He was injured in his face.
+[game mechanics] [SPEAKER_00A]: Okay, so are you guys ready?
+[game mechanics] [SPEAKER_00A]: Roll a niche.
+[game mechanics] [SPEAKER_00A]: Roll a 20-sided die.
+[out-of-band] [SPEAKER_01]: Steve, you roll up.
+[out-of-band] [SPEAKER_01]: Pick your pile, whatever pile you want.
+[game mechanics] [SPEAKER_01A]: You want me to roll a niche too?
+[game mechanics] [SPEAKER_01A]: Yeah.
+[game mechanics] [SPEAKER_01A]: Any pluses?
+[game mechanics] [SPEAKER_00A]: You put your dexterity bonus, which is plus three to your initiative.
+[game mechanics] [SPEAKER_01A]: So I got plus four, so I got 18.
+[game mechanics] [SPEAKER_00A]: Uh, nine.
+[game mechanics] [SPEAKER_00A]: Nine.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Okay, so, Jude, you're first.
+[game mechanics] [SPEAKER_00A]: What do you want to do?
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: He's basically clutching his eye, which got stabbed.
+[game mechanics] [SPEAKER_00A]: Right.
+[game mechanics] [SPEAKER_01A]: So I'm dragging him back to the stairway.
+[game mechanics] [SPEAKER_01A]: Do I see this guy, this young kid?
+[game mechanics] [SPEAKER_01A]: Well, do you want to say anything to him as you drag him?
+[game mechanics] [SPEAKER_01A]: Oh, as I drag him.
+[game mechanics] [SPEAKER_01A]: While he had yelled, I had said, do you have a back door?
+[game mechanics] [SPEAKER_01A]: And he had said, the stairway down.
+[game mechanics] [SPEAKER_01A]: Yeah, so let's role play.
+[game mechanics] [SPEAKER_00A]: Okay.
+[SPEAKER_00A]: You hear an elf say, Where's the back door?
+[SPEAKER_01B]: You hear your master go, there's no back door, but the stairs, they lead to the sewer.
+[SPEAKER_00A]: Okay, let's go.
+[SPEAKER_00A]: Leslie!
+[SPEAKER_00A]: Leslie!
+[game mechanics] [SPEAKER_01A]: I look over my shoulder, I'm like- You're dragging- Am I already down the stairs?
+[game mechanics] [SPEAKER_03A]: No, you're here.
+[game mechanics] [SPEAKER_03A]: Oh, I'm here.
+[game mechanics] [SPEAKER_01A]: Yeah, so you drag him, right?
+[game mechanics] [SPEAKER_01A]: Yeah, I'm dragging.
+[game mechanics] [SPEAKER_00A]: One, two, three, so you can come to here with him.
+[game mechanics] [SPEAKER_00A]: You hear him calling out, Leslie!
+[game mechanics] [SPEAKER_03A]: Leslie!
+[game mechanics] [SPEAKER_03A]: Okay, I come out, kind of.
+[game mechanics] [SPEAKER_00A]: So you want to walk out, you go one, two, three, four, five, you can come to here if you want.
+[game mechanics] [SPEAKER_03A]: Or what if I just, like, say what?
+[game mechanics] [SPEAKER_03A]: Like, just yell what, but you won't know I am.
+[game mechanics] [SPEAKER_01A]: Well, there's been some explosions, and there's a sound of desperation in it.
+[game mechanics] [SPEAKER_01A]: Okay, fine, I come out.
+[game mechanics] [SPEAKER_03A]: Okay, so you come out, and you walk in here.
+[SPEAKER_00A]: You turn the corner.
+[SPEAKER_03A]: Should I tackle him down the stairs?
+[SPEAKER_00A]: And you see your master being carried by this elf, right?
+[SPEAKER_00A]: Your master has covered his eyeball, and there's blood streaking down his face.
+[SPEAKER_00A]: It looks like where he got stabbed.
+[SPEAKER_00A]: Okay?
+[SPEAKER_01B]: Come here, help your master.
+[SPEAKER_03A]: Help him!
+[SPEAKER_01A]: What are you?
+[SPEAKER_01A]: Who are you?
+[SPEAKER_01A]: We're being attacked.
+[SPEAKER_01A]: I need you to take him so that I can kill anybody that comes in through that door.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: Leslie, help me!
+[game mechanics] [SPEAKER_00A]: Okay, so I can help him.
+[game mechanics] [SPEAKER_00A]: So, next round.
+[game mechanics] [SPEAKER_01A]: Round two.
+[game mechanics] [SPEAKER_01A]: Is Leslie too weak to help him?
+[game mechanics] [SPEAKER_00A]: My arms break off.
+[game mechanics] [SPEAKER_00A]: So basically Leslie comes over and tries to help his master up off the ground.
+[game mechanics] [SPEAKER_00A]: Roll a strength check.
+[game mechanics] [SPEAKER_00A]: This is a DC 5 strength check.
+[game mechanics] [SPEAKER_00A]: I don't add anything?
+[out-of-band] [SPEAKER_00]: You minus two.
+[out-of-band] [SPEAKER_01]: Roman, you did not name yourself Leslie after the character.
+[out-of-band] [SPEAKER_00]: Seven!
+[out-of-band] [SPEAKER_00]: So Leslie comes down barely, picks him up.
+[out-of-band] [SPEAKER_01]: This guy is squatty.
+[out-of-band] [SPEAKER_00]: You look at him and you're actually amazed.
+[out-of-band] [SPEAKER_00]: Like, this is probably the skinniest little Iradian you've ever seen.
+[out-of-band] [SPEAKER_01]: I'm all like, oh my god.
+[game mechanics] [SPEAKER_00A]: He was malnourished.
+[game mechanics] [SPEAKER_00A]: Well, you know, actually he's pretty handsome looking.
+[game mechanics] [SPEAKER_00A]: He's kind of like a little China doll in a way, but he's obviously not a Karmurg, if you know what I mean.
+[game mechanics] [SPEAKER_00A]: So he helps his master up off the ground.
+[game mechanics] [SPEAKER_01A]: Down the stairways.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_03A]: Okay, I'll be behind you then.
+[game mechanics] [SPEAKER_01A]: All right, so.
+[game mechanics] [SPEAKER_01A]: No, I'm going to cover the rear.
+[game mechanics] [SPEAKER_01A]: If he falls on me, I'm dead.
+[game mechanics] [SPEAKER_01A]: Well, you're not dead, but just go slowly.
+[game mechanics] [SPEAKER_01A]: You make your strength check, just go slowly.
+[game mechanics] [SPEAKER_01A]: He's leaning heavily on you, it's not easy.
+[game mechanics] [SPEAKER_00A]: All right, so you start going down the stairs.
+[SPEAKER_00A]: Okay, so basically you begin walking down there, and you go 30 feet in this first round, and your master is like, Leslie, do you have your book with you?
+[SPEAKER_03A]: Do you what?
+[SPEAKER_03A]: Yeah?
+[SPEAKER_03A]: Yes?
+[SPEAKER_01B]: He goes, good, good, good.
+[SPEAKER_01B]: I don't know who's attacking us.
+[SPEAKER_01B]: We need the guard.
+[SPEAKER_01B]: We need the guard.
+[SPEAKER_01B]: Paul Rivero is here.
+[SPEAKER_01B]: This man is Paul's compatriot.
+[SPEAKER_01B]: What is your name, sir?
+[SPEAKER_01A]: Jude.
+[SPEAKER_01A]: I've got my wand out.
+[SPEAKER_01B]: Oh, I've heard of you.
+[SPEAKER_01B]: Yes.
+[SPEAKER_01B]: You're affiliated with that fellow Gouge.
+[out-of-band] [SPEAKER_00]: Oh.
+[SPEAKER_01A]: Well, on occasion.
+[out-of-band] [SPEAKER_00]: Yes.
+[SPEAKER_01B]: I know of you.
+[SPEAKER_01B]: No doubt Lord Jameis has his fingers in this.
+[SPEAKER_01B]: These are dangerous men, Leslie, but you must do as he says.
+[SPEAKER_00A]: Okay.
+[SPEAKER_01A]: We can discuss the dangerous part later, but... Yeah, you need some explaining to do.
+[SPEAKER_01A]: Well, I don't know who these men are either.
+[SPEAKER_01A]: We don't know who you are.
+[SPEAKER_01B]: We know him.
+[SPEAKER_01B]: He can be trusted now.
+[SPEAKER_01B]: He's an agent of Lord Jameis.
+[out-of-band] [SPEAKER_01]: Okay.
+[SPEAKER_01A]: Okay, has anybody broken in or does it seem like my two fireballs and flaming wall stymied?
+[SPEAKER_00A]: Well, you haven't heard anything.
+[SPEAKER_00A]: You guys are like 30 feet down.
+[SPEAKER_01A]: Okay, we're still going down until we hit the sewer.
+[SPEAKER_01A]: Do you know of the nearest way out of the sewer?
+[SPEAKER_01A]: I don't want to just end up running around down here for a long time.
+[SPEAKER_01A]: We can get caught down here and they can do...
+[SPEAKER_00A]: He's never explored the sewer.
+[SPEAKER_01A]: Do you know where the nearest...
+[SPEAKER_01B]: I know the exit.
+[SPEAKER_00A]: He starts trembling.
+[SPEAKER_01A]: Poison!
+[SPEAKER_01A]: Poison?
+[SPEAKER_01A]: Oh shit.
+[SPEAKER_00A]: He crumbles to the ground.
+[SPEAKER_01B]: It's insidious poison.
+[SPEAKER_01A]: Do you have anything upstairs?
+[SPEAKER_00A]: He takes his hand off his eye and it's like dripping blackness from where the blood is.
+[SPEAKER_03A]: Okay, we'll say something now, before you die.
+[SPEAKER_01A]: No, no.
+[SPEAKER_01A]: Do you have any potions upstairs?
+[SPEAKER_01A]: Leslie, does he have any potions upstairs that would negate poison?
+[SPEAKER_01B]: There's nothing that will save me from this.
+[SPEAKER_03A]: No.
+[SPEAKER_03A]: No.
+[SPEAKER_03A]: Then say something.
+[SPEAKER_03A]: Say what we need to tell.
+[SPEAKER_01B]: Here.
+[SPEAKER_00A]: He puts a note in your hand.
+[SPEAKER_01B]: You must learn this.
+[SPEAKER_01B]: Paul Rivero is looking for this.
+[SPEAKER_01B]: I think this is why they attacked me.
+[SPEAKER_00A]: He starts trembling, right?
+[out-of-band] [SPEAKER_01]: Ah, shit.
+[out-of-band] [SPEAKER_01]: Is it magical, the poison?
+[out-of-band] [SPEAKER_01]: It is.
+[out-of-band] [SPEAKER_01]: I cast Dispel Magic.
+[out-of-band] [SPEAKER_01]: In Samyar's Gift.
+[out-of-band] [SPEAKER_01]: Samyar's Gift?
+[out-of-band] [SPEAKER_00]: In Samyar's Gift.
+[out-of-band] [SPEAKER_00]: Hopefully it kills me, otherwise it will drive me insane.
+[out-of-band] [SPEAKER_01]: Would Dispel Magic do anything?
+[out-of-band] [SPEAKER_00]: Well, you could try.
+[out-of-band] [SPEAKER_01]: No, I mean, if he says no.
+[out-of-band] [SPEAKER_01]: Does it kill him?
+[out-of-band] [SPEAKER_01]: Or do we have an insane guy that doesn't know a little bit?
+[SPEAKER_01B]: Help, Paul Rivero.
+[SPEAKER_01B]: The Scarlet Brotherhood does not want him to know what he seeks.
+[SPEAKER_01B]: You are a good student.
+[SPEAKER_01B]: You can help Paul.
+[SPEAKER_03A]: Yes, Master.
+[SPEAKER_01B]: Jude.
+[SPEAKER_01B]: There's no alchemist better than me, alive, now.
+[SPEAKER_01B]: Idiom Nakhond is dead.
+[SPEAKER_01B]: I've got message of that.
+[SPEAKER_01B]: You might not know his name, but he was the master alchemist.
+[SPEAKER_01B]: In Keoland, he could easily have helped Paul Rivero.
+[SPEAKER_01B]: He does have a student, though.
+[SPEAKER_01B]: I know that Lord Frank knows him.
+[SPEAKER_00A]: And then he crumbles over.
+[SPEAKER_00A]: Can I check if he has a pulse?
+[SPEAKER_01A]: So Edie Mahan's dead, but has a student that can help Paul.
+[SPEAKER_00A]: You hear renewed banging on the door.
+[game mechanics] [SPEAKER_00A]: You guys are 30 feet down the steps.
+[game mechanics] [SPEAKER_03A]: On the stairwell, can we like, you know like how there's a, like the stairs right here, can we like drag his body to the back?
+[game mechanics] [SPEAKER_00A]: It circles all the way down.
+[game mechanics] [SPEAKER_00A]: You can't see what's going on up there.
+[game mechanics] [SPEAKER_00A]: In fact, you're 30 feet down.
+[SPEAKER_01A]: I help him just drag the body to the very bottom, and then I search that body.
+[SPEAKER_00A]: Okay, so you say, let's go.
+[SPEAKER_01A]: I scoop the other arm up so that he's not just carrying him.
+[SPEAKER_01A]: We move down to the landing so that I can thoroughly search him down at the landing.
+[game mechanics] [SPEAKER_00A]: All right, so the two of you pick up the body.
+[game mechanics] [SPEAKER_00A]: And carry it down, down the stairway.
+[game mechanics] [SPEAKER_00A]: It goes 60 feet down, curling three times, 20 feet per each curl.
+[game mechanics] [SPEAKER_00A]: Yeah, and he's dead.
+[game mechanics] [SPEAKER_01A]: I'm practical about this.
+[game mechanics] [SPEAKER_01A]: We're just dragging him.
+[game mechanics] [SPEAKER_01A]: We've got his head, so his head's not, I'm not dragging him by the feet.
+[game mechanics] [SPEAKER_00A]: You don't want to do too much damage to the body.
+[game mechanics] [SPEAKER_01A]: I don't want to be, right.
+[game mechanics] [SPEAKER_01A]: But I also don't want to, like, try to exhaust myself or break a leg or have him break a leg.
+[game mechanics] [SPEAKER_01A]: Something like that.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: All right, so you get to the bottom of the landing.
+[game mechanics] [SPEAKER_00A]: All right?
+[game mechanics] [SPEAKER_00A]: And you hear and smell the sewer.
+[game mechanics] [SPEAKER_00A]: And this is actually a large area.
+[game mechanics] [SPEAKER_00A]: You hear water going by.
+[game mechanics] [SPEAKER_00A]: You have information so you can see what's happening.
+[game mechanics] [SPEAKER_00A]: Okay?
+[game mechanics] [SPEAKER_00A]: It's dark.
+[game mechanics] [SPEAKER_00A]: You can't see anything now.
+[game mechanics] [SPEAKER_00A]: Okay?
+[game mechanics] [SPEAKER_00A]: Can you cast light?
+[game mechanics] [SPEAKER_01A]: No.
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_01A]: Does he have a staff at all in his hand?
+[game mechanics] [SPEAKER_00A]: He does not.
+[game mechanics] [SPEAKER_00A]: You hear the door above smash down.
+[game mechanics] [SPEAKER_01A]: And you hear people talking.
+[game mechanics] [SPEAKER_01A]: So you're in the darkness right now.
+[SPEAKER_01A]: I rifle pockets, checking for seams real quick along his robe.
+[SPEAKER_01A]: Okay, so you go through what he's got.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: He's got his robe and he's got a pouch on him.
+[SPEAKER_00A]: I'm gonna strip his robe.
+[SPEAKER_01A]: Okay, so you pull it off.
+[SPEAKER_01A]: Yeah, strip his robe, shoes, rings, jewelry.
+[SPEAKER_01A]: I don't have time to do any assessments.
+[SPEAKER_00A]: Doesn't have any rings.
+[SPEAKER_00A]: In fact, you probably know why.
+[SPEAKER_00A]: As an alchemist, they don't want to keep anything on their hands that can react.
+[SPEAKER_00A]: Right.
+[SPEAKER_00A]: However, on his neck,
+[SPEAKER_00A]: He has a golden medallion that is a circle that has a strange design on it.
+[game mechanics] [SPEAKER_01A]: This is gold.
+[game mechanics] [SPEAKER_01A]: That's a lot of gold.
+[game mechanics] [SPEAKER_01A]: So golden medallion, unknown symbol.
+[game mechanics] [SPEAKER_01A]: Is that what I would put?
+[game mechanics] [SPEAKER_01A]: Unknown symbol?
+[game mechanics] [SPEAKER_00A]: No, you know it.
+[game mechanics] [SPEAKER_00A]: It's the symbol of alchemy.
+[game mechanics] [SPEAKER_00A]: Oh, okay.
+[game mechanics] [SPEAKER_00A]: Which, you know, is the circle with the triangle, with the square, with the circle.
+[game mechanics] [SPEAKER_00A]: So this guy obviously was kind of a
+[game mechanics] [SPEAKER_00A]: Religious, not when it came to Alchemist.
+[game mechanics] [SPEAKER_00A]: Basically, to Alchemists, this is sort of a religion in a way.
+[game mechanics] [SPEAKER_01A]: Well, that might also be part of a guild symbol or a market station.
+[game mechanics] [SPEAKER_01A]: Okay, did he have shoes?
+[game mechanics] [SPEAKER_01A]: Oh yeah, he had shoes.
+[game mechanics] [SPEAKER_01A]: So I'm going to take robe, shoes, the golden medallion.
+[game mechanics] [SPEAKER_01A]: Is that it?
+[game mechanics] [SPEAKER_01A]: Yeah.
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_00A]: Hang on, can I have my six out of dice?
+[game mechanics] [SPEAKER_00A]: Thank you.
+[SPEAKER_02B]: You hear somebody yell out, They've gone down!
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_01A]: I want to check and see, check and make sure his pulse, like, you know, that he's not, we're not leaving a coma guy.
+[game mechanics] [SPEAKER_01A]: You feel no pulse.
+[game mechanics] [SPEAKER_01A]: Roll a niche.
+[game mechanics] [SPEAKER_00A]: 20.
+[game mechanics] [SPEAKER_00A]: 20 said die.
+[game mechanics] [SPEAKER_00A]: 4, 8.
+[game mechanics] [SPEAKER_00A]: What's the adding?
+[game mechanics] [SPEAKER_00A]: 3 plus 3 is 6.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: You hear several people running down the stairs.
+[game mechanics] [SPEAKER_00A]: You're not sure how far away they are.
+[game mechanics] [SPEAKER_00A]: You can't see right now.
+[game mechanics] [SPEAKER_00A]: You go first.
+[game mechanics] [SPEAKER_01A]: Let's see.
+[game mechanics] [SPEAKER_00A]: They're getting close.
+[game mechanics] [SPEAKER_00A]: They're probably 20 feet away from you.
+[game mechanics] [SPEAKER_00A]: They're running, they're dashing.
+[game mechanics] [SPEAKER_01A]: I'm gonna just cast a lightning bolt, because I can fork lightning bolt, right?
+[game mechanics] [SPEAKER_01A]: Do I have to be able to see the target?
+[game mechanics] [SPEAKER_00A]: You have to see the target.
+[game mechanics] [SPEAKER_00A]: Line of sight.
+[game mechanics] [SPEAKER_01A]: Okay, then I'm gonna go ahead and prep it, and when I see more than one, not the first one.
+[game mechanics] [SPEAKER_01A]: So you want to hold an action.
+[game mechanics] [SPEAKER_01A]: I want to hold an action.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_01A]: And when I can see more than one come around that corner, and I back up, I make sure he's on the other side, so that they're not gonna be, like, literally right on top of me.
+[game mechanics] [SPEAKER_00A]: Okay, so let's draw this, so you guys can see where you're at.
+[game mechanics] [SPEAKER_00A]: Oh wait, do I have a pencil?
+[game mechanics] [SPEAKER_01A]: I think I got another one.
+[game mechanics] [SPEAKER_00A]: I had two.
+[game mechanics] [SPEAKER_00A]: Okay, so...
+[game mechanics] [SPEAKER_00A]: Here's where the entrance of the stair is.
+[game mechanics] [SPEAKER_00A]: Curled back up, right?
+[game mechanics] [SPEAKER_01A]: And then there's like a walkway and then there's like a lower... You're on the walkway.
+[SPEAKER_01A]: Fifteen feet.
+[SPEAKER_01A]: This is where the water runs.
+[SPEAKER_01A]: Okay, so it's actually up against the other face.
+[SPEAKER_01A]: There's not a walkway over on this side.
+[SPEAKER_00A]: No.
+[SPEAKER_01A]: Okay.
+[SPEAKER_00A]: Now, here's the deal.
+[SPEAKER_00A]: This heads off to the...
+[SPEAKER_00A]: This goes towards the...
+[SPEAKER_00A]: This is the way towards the Scholars District.
+[SPEAKER_00A]: That is the way to the Royal District.
+[SPEAKER_00A]: This ends right there.
+[SPEAKER_01A]: The water is running here.
+[SPEAKER_01A]: Like it goes underneath?
+[SPEAKER_01A]: Is it going this way?
+[SPEAKER_00A]: The water pipes out this way.
+[SPEAKER_00A]: So this is kind of like a station where you would come down and obviously dump stuff.
+[SPEAKER_00A]: The water comes back this way and starts running that way.
+[SPEAKER_00A]: And this continues that direction.
+[SPEAKER_00A]: You can't see.
+[game mechanics] [SPEAKER_00A]: Where are you going to be?
+[game mechanics] [SPEAKER_01A]: Well, so if I go here, unless I want to jump in the water and hold my breath for God knows how long, this dead ends.
+[game mechanics] [SPEAKER_01A]: Yes.
+[game mechanics] [SPEAKER_01A]: So I'm going that way.
+[game mechanics] [SPEAKER_01A]: So what I'm going to do is go my 30 feet back and ready my lightning spell.
+[game mechanics] [SPEAKER_01A]: But the trigger for it would be if they all dash out or at least two people dash out.
+[game mechanics] [SPEAKER_00A]: Okay, well, let's do this.
+[game mechanics] [SPEAKER_00A]: So here you are.
+[game mechanics] [SPEAKER_00A]: Here is Leslie.
+[game mechanics] [SPEAKER_00A]: Right there.
+[game mechanics] [SPEAKER_00A]: You go first.
+[game mechanics] [SPEAKER_00A]: Back up.
+[game mechanics] [SPEAKER_01A]: Back up.
+[game mechanics] [SPEAKER_01A]: I grabbed Leslie with me.
+[game mechanics] [SPEAKER_01A]: Back up.
+[game mechanics] [SPEAKER_01A]: I have to eat.
+[game mechanics] [SPEAKER_00A]: Oh, shit.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Well, just stay.
+[game mechanics] [SPEAKER_00A]: Keep your feet.
+[game mechanics] [SPEAKER_00A]: Keep your feet.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: So you go back.
+[game mechanics] [SPEAKER_01A]: Because they're making a lot of noise as they run down.
+[game mechanics] [SPEAKER_00A]: Oh, yeah.
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_00A]: You go back 30 feet.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Which would be to here.
+[game mechanics] [SPEAKER_00A]: With Leslie.
+[game mechanics] [SPEAKER_00A]: The body is right there.
+[game mechanics] [SPEAKER_01A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: And you hold your action.
+[game mechanics] [SPEAKER_01A]: Yeah.
+[game mechanics] [SPEAKER_00A]: I'm going to have lightning bolt.
+[game mechanics] [SPEAKER_00A]: You moved.
+[game mechanics] [SPEAKER_00A]: You get to do an action.
+[game mechanics] [SPEAKER_00A]: What do you want to do?
+[game mechanics] [SPEAKER_03A]: Um... Magic missile.
+[game mechanics] [SPEAKER_00A]: You want to ready your action with magic missile?
+[game mechanics] [SPEAKER_03A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Okay, so you ready an action for magic missile.
+[game mechanics] [SPEAKER_03A]: But you can't see them.
+[game mechanics] [SPEAKER_03A]: If it's jet black in here... Well, when you do your lightning, that'll be light.
+[game mechanics] [SPEAKER_03A]: Oh, that's true.
+[game mechanics] [SPEAKER_03A]: So I'll just go after you.
+[game mechanics] [SPEAKER_03A]: That'll be light.
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_01A]: And I did actually beat you with an ish.
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_00A]: All right.
+[game mechanics] [SPEAKER_00A]: So you guys stand there and hold your action.
+[game mechanics] [SPEAKER_00A]: Okay.
+[SPEAKER_02B]: Somebody comes down the stairs and goes, the body, there's a body, and comes to here.
+[SPEAKER_01A]: I hold.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: And you wait.
+[SPEAKER_01A]: Yeah.
+[SPEAKER_00A]: Another person comes over here too and says, they don't seem like they notice you.
+[SPEAKER_02B]: And comes down and goes, it's the alchemist.
+[SPEAKER_01A]: I hold.
+[SPEAKER_02B]: The dagger must have gotten him.
+[SPEAKER_00A]: You hear a voice from upstairs.
+[SPEAKER_02B]: Be aware I smell something.
+[SPEAKER_00A]: It's the voice of a female, a woman.
+[SPEAKER_02B]: This one looks over at you and goes, there!
+[SPEAKER_00A]: All right, so, Jude lets out a lightning bolt, right, and this
+[SPEAKER_00A]: A streaking surge of energy shoots from his hand, lighting up the room.
+[SPEAKER_00A]: Okay?
+[SPEAKER_00A]: You see your master crouching there.
+[SPEAKER_00A]: And Jude's lightning forks around his body, but hits these two.
+[game mechanics] [SPEAKER_00A]: Okay?
+[game mechanics] [SPEAKER_01A]: So Jude, it's eight dissects.
+[game mechanics] [SPEAKER_01A]: I was just looking real quick.
+[game mechanics] [SPEAKER_03A]: And shall we jump him over there?
+[game mechanics] [SPEAKER_00A]: Yes, 8d6.
+[game mechanics] [SPEAKER_01A]: Creature, let's see, 100 feet, 5 foot wide, blasts out from you in the direction you choose.
+[game mechanics] [SPEAKER_01A]: It'll hit both of them, right?
+[game mechanics] [SPEAKER_01A]: Yes.
+[game mechanics] [SPEAKER_01A]: It'll hit both by the body.
+[game mechanics] [SPEAKER_01A]: And then it's a creature takes 8d6 lightning on a failed save or half as much on a successful one.
+[game mechanics] [SPEAKER_00A]: And it's a dex saving throw?
+[game mechanics] [SPEAKER_01A]: Yeah, dex saving throw.
+[game mechanics] [SPEAKER_00A]: All right.
+[game mechanics] [SPEAKER_00A]: Roll the damage.
+[game mechanics] [SPEAKER_01A]: 8d6.
+[game mechanics] [SPEAKER_00A]: 14, 18, 20.
+[game mechanics] [SPEAKER_00A]: 20 points of damage.
+[game mechanics] [SPEAKER_00A]: Okay, so, Jude shoots his lightning bolt, and these guys are like, yeah!
+[game mechanics] [SPEAKER_00A]: Here's their saving throws.
+[game mechanics] [SPEAKER_00A]: What's your DC difficulty?
+[game mechanics] [SPEAKER_00A]: It should be on the magic thing on the next page.
+[game mechanics] [SPEAKER_01A]: Spell save DC?
+[game mechanics] [SPEAKER_01A]: Yeah.
+[game mechanics] [SPEAKER_00A]: 16?
+[game mechanics] [SPEAKER_00A]: 16.
+[game mechanics] [SPEAKER_00A]: So they have to roll a 16 or more.
+[game mechanics] [SPEAKER_00A]: It's a dexterity saving throw and they get a plus one.
+[game mechanics] [SPEAKER_00A]: So if they roll 15s, they make their save.
+[game mechanics] [SPEAKER_00A]: So I'm going to roll both at the same time.
+[game mechanics] [SPEAKER_00A]: This blue one is that guy.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Neither make their saving throw.
+[game mechanics] [SPEAKER_00A]: And both take 20 points of damage.
+[game mechanics] [SPEAKER_01A]: Now you can split Magic Missile, so you can make it hit two different targets if you want to, but you only get, it's first level, it's three four-sided plus one?
+[game mechanics] [SPEAKER_01A]: It's three four-sided plus one.
+[game mechanics] [SPEAKER_01A]: Damage each.
+[SPEAKER_00A]: So anyway, the Lightning Bolt lights up the Coral War.
+[SPEAKER_00A]: And these guys, you've seen these guys before.
+[SPEAKER_00A]: There's this weird cult that has been coming into Monmurg over the last couple of years.
+[SPEAKER_00A]: They're called the Brotherhood of Insiniar.
+[SPEAKER_00A]: They're snake worshippers.
+[SPEAKER_00A]: They tattoo themselves with strange symbols of snakes and weird wings.
+[SPEAKER_00A]: It's said
+[SPEAKER_00A]: That near Westkeep, there's a coven of them.
+[SPEAKER_00A]: And that they are so debased, they mate with kobolds.
+[SPEAKER_00A]: Codeballs?
+[SPEAKER_00A]: Kobolds.
+[SPEAKER_00A]: Kobolds?
+[SPEAKER_00A]: Yes.
+[SPEAKER_00A]: Little homunculi lizard people that are known to be evil and disgusting.
+[SPEAKER_00A]: Basically, these people are strange.
+[SPEAKER_00A]: They're also rumored to do a very, very strange
+[SPEAKER_00A]: They consume it in their rituals.
+[SPEAKER_00A]: They are also dangerous people, in fact.
+[SPEAKER_00A]: They are all kind of violent and unruly, and Lord Jameis has been doing much to try and root these people out.
+[SPEAKER_00A]: Why they're here, you have no idea.
+[SPEAKER_00A]: Anyway, the lightning bolt strikes.
+[SPEAKER_00A]: And obviously both men are affected, but neither dies.
+[SPEAKER_00A]: And they pull out their weapons.
+[game mechanics] [SPEAKER_03A]: What do you want to do?
+[game mechanics] [SPEAKER_03A]: I do the magic missiles.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Which one do you want to strike, or do you want to split them among the two?
+[game mechanics] [SPEAKER_00A]: Split them among, and they're auto-hit.
+[game mechanics] [SPEAKER_00A]: They're auto-hit.
+[game mechanics] [SPEAKER_00A]: But you just have to roll damage.
+[game mechanics] [SPEAKER_00A]: You have to roll damage.
+[game mechanics] [SPEAKER_00A]: Two to one, and one to the other?
+[game mechanics] [SPEAKER_00A]: Which one do you want to do two on?
+[game mechanics] [SPEAKER_03A]: I thought I should shoot four.
+[game mechanics] [SPEAKER_03A]: No, just three.
+[game mechanics] [SPEAKER_03A]: Just three.
+[game mechanics] [SPEAKER_03A]: What are their weapons?
+[game mechanics] [SPEAKER_00A]: Nice.
+[game mechanics] [SPEAKER_00A]: They have daggers.
+[game mechanics] [SPEAKER_03A]: I'll shoot at this guy.
+[game mechanics] [SPEAKER_03A]: Twice?
+[game mechanics] [SPEAKER_00A]: Or all of them at that guy.
+[game mechanics] [SPEAKER_01A]: You make the decision.
+[game mechanics] [SPEAKER_00A]: Sure, I'll do it all at that guy.
+[game mechanics] [SPEAKER_00A]: Okay, so you fling all your magic missiles at that one guy trying to take him down.
+[game mechanics] [SPEAKER_01A]: So roll damage.
+[game mechanics] [SPEAKER_01A]: Now you get a plus three because it's a plus one per dice.
+[game mechanics] [SPEAKER_01A]: Three, four, plus three.
+[game mechanics] [SPEAKER_00A]: Seven points of damage?
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Even though your darts and your magical darts hit and he's wounded, basically you open up wounds on his body, but he's not dead yet.
+[game mechanics] [SPEAKER_00A]: Okay?
+[game mechanics] [SPEAKER_00A]: They're still up.
+[SPEAKER_00A]: And it goes black.
+[SPEAKER_00A]: You're in the darkness with two creatures that are barely human.
+[SPEAKER_00A]: Just thirty feet away.
+[game mechanics] [SPEAKER_00A]: Roll an ish.
+[game mechanics] [SPEAKER_00A]: This is where we really want to run an ish.
+[game mechanics] [SPEAKER_00A]: One.
+[game mechanics] [SPEAKER_00A]: One.
+[game mechanics] [SPEAKER_01A]: Terrible.
+[game mechanics] [SPEAKER_01A]: I got a five.
+[game mechanics] [SPEAKER_00A]: Ten.
+[game mechanics] [SPEAKER_00A]: Ten plus three is thirteen.
+[game mechanics] [SPEAKER_00A]: Five.
+[game mechanics] [SPEAKER_00A]: Six.
+[game mechanics] [SPEAKER_00A]: So, you go first, then they go, and then Jude will get to go.
+[game mechanics] [SPEAKER_00A]: Jude, after casting his lightning bolt,
+[game mechanics] [SPEAKER_00A]: Grasp his hand for the magical energies that he's released.
+[game mechanics] [SPEAKER_00A]: This happens every once in a while.
+[game mechanics] [SPEAKER_01A]: Your hand is a little, it's smoking a little bit.
+[game mechanics] [SPEAKER_03A]: What are you going to do?
+[game mechanics] [SPEAKER_03A]: I do the protection, the shield.
+[game mechanics] [SPEAKER_00A]: You want to cast Bladewort?
+[game mechanics] [SPEAKER_00A]: Do you want to move it all?
+[game mechanics] [SPEAKER_00A]: Or what do you want to do?
+[game mechanics] [SPEAKER_00A]: Probably...
+[game mechanics] [SPEAKER_03A]: What does a fine bolt do?
+[game mechanics] [SPEAKER_03A]: A fire bolt?
+[game mechanics] [SPEAKER_03A]: Oh, fire bolt.
+[game mechanics] [SPEAKER_03A]: A fire bolt shoots at a bolt of fire that damages somebody.
+[game mechanics] [SPEAKER_03A]: Okay.
+[game mechanics] [SPEAKER_03A]: I think, does it count as a turn to do the shield?
+[game mechanics] [SPEAKER_03A]: A blade ward takes an action.
+[game mechanics] [SPEAKER_03A]: And can I shoot things through the shield?
+[game mechanics] [SPEAKER_00A]: Well, a blade ward, once you put it up, you have to do it every turn.
+[game mechanics] [SPEAKER_00A]: Oh, okay.
+[game mechanics] [SPEAKER_01A]: So I'll just do... Well, you could still blade board yourself hoping that if they make it to us because you just saw your master say poison.
+[game mechanics] [SPEAKER_03A]: That's what I'm worried about.
+[game mechanics] [SPEAKER_03A]: If I shoot fire, like when it hits the ground, does it like instantly deflame or does it kind of like stay as a little flame?
+[game mechanics] [SPEAKER_03A]: It could set things on fire.
+[game mechanics] [SPEAKER_03A]: Okay, so where we were just staring at, like, I don't turn around and lose, like, my rotation.
+[game mechanics] [SPEAKER_03A]: I kind of, like, shoot it in the distance a little bit, like, aiming for, like, a little right here, assuming that they moved.
+[game mechanics] [SPEAKER_00A]: You could, if you wanted to, you could shoot it at your master's body and it would light his robe off.
+[game mechanics] [SPEAKER_00A]: True.
+[game mechanics] [SPEAKER_00A]: I'll do that.
+[game mechanics] [SPEAKER_00A]: Okay, so you want to fire it where your master is, right?
+[game mechanics] [SPEAKER_03A]: Yes, in that, like, area.
+[game mechanics] [SPEAKER_00A]: Okay, so...
+[game mechanics] [SPEAKER_00A]: This is AC-10.
+[game mechanics] [SPEAKER_00A]: But you're at disadvantage because it's dark and you can't see.
+[game mechanics] [SPEAKER_00A]: So roll two 20-sided dice and pick the lower one.
+[game mechanics] [SPEAKER_00A]: And this is it, though.
+[game mechanics] [SPEAKER_00A]: Your intelligence gives you a plus four, plus six, so your attack bonus is plus six.
+[game mechanics] [SPEAKER_00A]: So you need to roll a four on both dice to hit.
+[game mechanics] [SPEAKER_00A]: Two.
+[game mechanics] [SPEAKER_00A]: And a one.
+[game mechanics] [SPEAKER_00A]: You get the one.
+[game mechanics] [SPEAKER_01A]: But it lights it up for me, right?
+[SPEAKER_00A]: Well, he shoots the firebolt, right?
+[SPEAKER_00A]: And it streaks down the corridor, past the master's body in that direction.
+[SPEAKER_00A]: And in the light, you see the two guys running towards you, daggers drawn.
+[game mechanics] [SPEAKER_00A]: Do you want to...
+[game mechanics] [SPEAKER_00A]: Move?
+[game mechanics] [SPEAKER_00A]: You've got a little bit of...
+[game mechanics] [SPEAKER_03A]: Shouldn't I jump in the water, maybe?
+[game mechanics] [SPEAKER_00A]: Don't ask questions.
+[game mechanics] [SPEAKER_00A]: You're gonna do what you want to do.
+[game mechanics] [SPEAKER_00A]: These guys are coming towards you.
+[game mechanics] [SPEAKER_03A]: Is the water flowing here or there?
+[game mechanics] [SPEAKER_03A]: It's going this way.
+[game mechanics] [SPEAKER_03A]: Since I'm... Am I right here?
+[game mechanics] [SPEAKER_03A]: You're right here.
+[game mechanics] [SPEAKER_03A]: But you could easily run and then jump in the water.
+[game mechanics] [SPEAKER_03A]: Yeah, I jumped in the water and like...
+[game mechanics] [SPEAKER_03A]: Can I go through the little tube or something?
+[game mechanics] [SPEAKER_03A]: Well, there's no tube yet.
+[game mechanics] [SPEAKER_03A]: Then just go.
+[game mechanics] [SPEAKER_01A]: Is there a good enough flow that it'll carry him?
+[game mechanics] [SPEAKER_00A]: Is it like a fast flow?
+[game mechanics] [SPEAKER_00A]: Uh, yeah.
+[game mechanics] [SPEAKER_00A]: This is one of the main lines.
+[SPEAKER_00A]: Okay, so you run and go, and you hear a splash.
+[SPEAKER_00A]: Okay, so you jump into here.
+[SPEAKER_00A]: Okay?
+[game mechanics] [SPEAKER_00A]: Jude, these guys are gonna come at you.
+[game mechanics] [SPEAKER_01A]: Mm-hmm.
+[game mechanics] [SPEAKER_01A]: They get to attack before me, right?
+[game mechanics] [SPEAKER_00A]: Yes.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: 1, 2, 3, 4, 5, 6, and 6.
+[game mechanics] [SPEAKER_00A]: First guy comes up with a dagger, attacks you.
+[game mechanics] [SPEAKER_00A]: What's your AC?
+[game mechanics] [SPEAKER_01A]: My AC is 14.
+[game mechanics] [SPEAKER_00A]: 14.
+[game mechanics] [SPEAKER_01A]: And I can cast... Are you sure it's 14?
+[game mechanics] [SPEAKER_00A]: It's 14 because of your traits.
+[game mechanics] [SPEAKER_00A]: I think the... No, no, it's 14.
+[game mechanics] [SPEAKER_00A]: Dexterity.
+[game mechanics] [SPEAKER_00A]: Dexterity.
+[game mechanics] [SPEAKER_00A]: That makes sense.
+[game mechanics] [SPEAKER_01A]: It's just dexterity.
+[game mechanics] [SPEAKER_00A]: So here's his attack.
+[game mechanics] [SPEAKER_01A]: And I can decide to cast shield as a reaction.
+[game mechanics] [SPEAKER_00A]: You can do a reaction.
+[game mechanics] [SPEAKER_01A]: But I get to wait until I find out if he hits.
+[game mechanics] [SPEAKER_01A]: Exactly.
+[game mechanics] [SPEAKER_01A]: Gotcha.
+[game mechanics] [SPEAKER_00A]: You ready?
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: Okay, so 14.
+[game mechanics] [SPEAKER_00A]: Here's the first guy's attack.
+[game mechanics] [SPEAKER_00A]: One.
+[game mechanics] [SPEAKER_00A]: And let me do this.
+[game mechanics] [SPEAKER_00A]: He slips
+[game mechanics] [SPEAKER_00A]: And falls at his face here.
+[game mechanics] [SPEAKER_00A]: Okay?
+[game mechanics] [SPEAKER_00A]: Like right at my feet?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: The next guy attacks.
+[game mechanics] [SPEAKER_00A]: Four.
+[game mechanics] [SPEAKER_00A]: Seven.
+[game mechanics] [SPEAKER_00A]: Misses you.
+[game mechanics] [SPEAKER_00A]: Okay, your turn.
+[game mechanics] [SPEAKER_01A]: If I want to leap into the water myself, the guy that's on the ground I'm probably not going to occur an attack from, but the other guy I would.
+[game mechanics] [SPEAKER_00A]: The other guy, yeah, the other guy would get an opportunity to attack.
+[game mechanics] [SPEAKER_01A]: If he did hit me, would I be able to also still be try to cast shield as I'm going into the water?
+[game mechanics] [SPEAKER_00A]: You have not used your action yet.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: So you would be able to do that.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Or you could use your action to disengage instead of... Oh, can I do that?
+[game mechanics] [SPEAKER_00A]: Yeah, absolutely.
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_01A]: Because that's a thing.
+[game mechanics] [SPEAKER_01A]: I thought that was maybe only rogues with cunning action.
+[game mechanics] [SPEAKER_00A]: No.
+[game mechanics] [SPEAKER_00A]: Disengage is something you...
+[game mechanics] [SPEAKER_00A]: But they can use it with a bonus action.
+[game mechanics] [SPEAKER_01A]: Oh, gosh.
+[game mechanics] [SPEAKER_01A]: So they can do...
+[game mechanics] [SPEAKER_01A]: They can attack you.
+[game mechanics] [SPEAKER_01A]: They can attack and then disengage.
+[game mechanics] [SPEAKER_01A]: Okay, okay.
+[game mechanics] [SPEAKER_01A]: Yeah, then I'll disengage and leap into the water.
+[game mechanics] [SPEAKER_00A]: Okay, so you disengage and jump into the water.
+[game mechanics] [SPEAKER_01A]: As well.
+[game mechanics] [SPEAKER_01A]: And I try to catch up to him.
+[game mechanics] [SPEAKER_01A]: I can still see in the dark, but I know he can't.
+[game mechanics] [SPEAKER_00A]: He's not gone more than 10 feet.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Okay, so you guys are both being swept out.
+[game mechanics] [SPEAKER_01A]: Yeah, but like I said, I want to grab him because he's going to be screwed if he's down here by himself.
+[SPEAKER_00A]: And the two of you get carried down.
+[SPEAKER_00A]: The main pipe.
+[SPEAKER_00A]: Now, this is seawater and you know that what this usually happens is they have a contraption over on the royal side of the thing that brings seawater up from the bottom of the ocean and pours it into the sewers at the top, flushing water down.
+[SPEAKER_00A]: It's been there for many years and that's basically how the sewage line runs.
+[SPEAKER_00A]: Okay, so this, even though this is carrying disgusting stuff from the city, it's not as disgusting as it possibly could be if it was just a feather.
+[SPEAKER_00A]: Greyhawk or something.
+[SPEAKER_01A]: Exactly, exactly.
+[SPEAKER_00A]: This thing is constantly being flushed and there are people there.
+[SPEAKER_01A]: Thank God for small little miracles.
+[SPEAKER_00A]: Constantly cranking.
+[game mechanics] [SPEAKER_00A]: I still keep my mouth shut and squint my eyes.
+[game mechanics] [SPEAKER_00A]: Okay, so you start getting carried down the water.
+[game mechanics] [SPEAKER_01A]: Yeah, do I anticipate...
+[game mechanics] [SPEAKER_01A]: I mean, I don't think I've been...
+[game mechanics] [SPEAKER_01A]: I don't know if I've been in the sewers in the past.
+[game mechanics] [SPEAKER_01A]: I mean, there's no grates or anything.
+[game mechanics] [SPEAKER_01A]: Nothing's gonna chomp us up.
+[game mechanics] [SPEAKER_01A]: Is there any, like, huge-ass drop onto nasty rocks?
+[game mechanics] [SPEAKER_01A]: Like, do I need to do anything to get out of this before we hit the water or the ocean?
+[game mechanics] [SPEAKER_00A]: Well... Can I make an insight roll?
+[game mechanics] [SPEAKER_00A]: Yeah, make an insight roll.
+[game mechanics] [SPEAKER_00A]: You don't know much about this.
+[game mechanics] [SPEAKER_01A]: Maybe if I recover it, we can gouge.
+[game mechanics] [SPEAKER_00A]: Four.
+[game mechanics] [SPEAKER_00A]: Do you want to do an insight roll?
+[game mechanics] [SPEAKER_00A]: Sure.
+[game mechanics] [SPEAKER_00A]: Roll a 20-set of die.
+[game mechanics] [SPEAKER_00A]: 20.
+[game mechanics] [SPEAKER_00A]: Ooh, not 20.
+[game mechanics] [SPEAKER_00A]: Okay, so basically you want to say, where does this take us?
+[game mechanics] [SPEAKER_00A]: Roleplay.
+[game mechanics] [SPEAKER_01A]: Okay, we need to get as much distance as we can from the...
+[game mechanics] [SPEAKER_01A]: Does this drop out into the harbor?
+[game mechanics] [SPEAKER_01A]: I think so.
+[game mechanics] [SPEAKER_00A]: Yes?
+[game mechanics] [SPEAKER_00A]: It does.
+[game mechanics] [SPEAKER_00A]: But, unfortunately, the exits to all the sewers, they have grates on them, so things can't get in from the ocean.
+[game mechanics] [SPEAKER_01A]: Okay, so then we gotta actually get out.
+[game mechanics] [SPEAKER_01A]: We gotta find an exit.
+[game mechanics] [SPEAKER_00A]: Okay.
+[SPEAKER_00A]: You hear somebody yell from behind.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_02B]: He's dead!
+[SPEAKER_02B]: After them!
+[SPEAKER_02B]: Fools!
+[SPEAKER_02B]: After them!
+[SPEAKER_00A]: You hear the splash of two people jump into the water behind you.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: So basically you guys are getting carried down.
+[game mechanics] [SPEAKER_01A]: I want to look for anything I can grab onto to try to get out.
+[game mechanics] [SPEAKER_01A]: After, like, you know, we've been carried maybe a hundred feet.
+[game mechanics] [SPEAKER_01A]: I don't want to get caught up against the grill and then try to fight my way back.
+[game mechanics] [SPEAKER_01A]: We've got to get up on the walk and we've got to find an exit.
+[game mechanics] [SPEAKER_00A]: Anyway, you guys are getting carried down to two.
+[game mechanics] [SPEAKER_03A]: And these two men jump in the water after you.
+[game mechanics] [SPEAKER_03A]: Okay.
+[game mechanics] [SPEAKER_03A]: I say we should probably hide and see, and if they might pass us and go deeper down, then we could escape.
+[game mechanics] [SPEAKER_01A]: You can't see.
+[game mechanics] [SPEAKER_01A]: They can see just as good as I can right now.
+[game mechanics] [SPEAKER_03A]: Was there like a barrel or something?
+[game mechanics] [SPEAKER_00A]: A barrel?
+[game mechanics] [SPEAKER_00A]: No.
+[game mechanics] [SPEAKER_00A]: You and Jude are just kind of bobbing up and down as you go down the water.
+[game mechanics] [SPEAKER_03A]: Roll a niche.
+[game mechanics] [SPEAKER_03A]: Damn, keep rolling.
+[game mechanics] [SPEAKER_03A]: Oh, 16.
+[game mechanics] [SPEAKER_03A]: 19, you get what, 7?
+[game mechanics] [SPEAKER_00A]: Okay, these guys start swimming down towards you.
+[game mechanics] [SPEAKER_00A]: You both get to go first.
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_00A]: Can you swim?
+[game mechanics] [SPEAKER_00A]: They're not more than 20 feet away.
+[game mechanics] [SPEAKER_01A]: Right.
+[game mechanics] [SPEAKER_01A]: How does swim, does that mean that they're in grappling range when they go?
+[game mechanics] [SPEAKER_01A]: If they swim.
+[game mechanics] [SPEAKER_00A]: So when you swim, you swim half your movement rate, unless you have the skill called swimming.
+[game mechanics] [SPEAKER_00A]: Right.
+[game mechanics] [SPEAKER_00A]: In which case you can go all your movement rate.
+[game mechanics] [SPEAKER_00A]: So if you guys want to swim, you can swim an extra 15 feet.
+[game mechanics] [SPEAKER_01A]: And keep the distance, or they could still close it?
+[game mechanics] [SPEAKER_00A]: Well, if they're swimming 30 feet because they can swim, they will close it.
+[game mechanics] [SPEAKER_01A]: But if you go 15, they won't.
+[game mechanics] [SPEAKER_01A]: I guess what I'm trying to decide is if I want to use my wand, magic missile, it's an auto hit.
+[game mechanics] [SPEAKER_01A]: I can see, so that shouldn't be a problem.
+[game mechanics] [SPEAKER_01A]: But can I do that and still kind of swim?
+[game mechanics] [SPEAKER_01A]: I would just be going with a turn.
+[game mechanics] [SPEAKER_00A]: You can take your movement and you can use your action.
+[game mechanics] [SPEAKER_00A]: If you want to use your action to dash, you can swim 30 feet.
+[game mechanics] [SPEAKER_01A]: We gotta take out at least one of these fuckers.
+[game mechanics] [SPEAKER_01A]: Okay, I gotta do that.
+[game mechanics] [SPEAKER_01A]: I'm gonna cast my magic missile, and it's still, because it's just regular, it's three.
+[game mechanics] [SPEAKER_00A]: Can I multi-charge it?
+[game mechanics] [SPEAKER_00A]: You can.
+[game mechanics] [SPEAKER_00A]: Every other charge adds another magic missile, but it takes an extra charge.
+[game mechanics] [SPEAKER_01A]: Right.
+[game mechanics] [SPEAKER_01A]: So, and I'm allowed, I think it was ten charges, and if I roll a twenty, if I empty it, then it's...
+[game mechanics] [SPEAKER_03A]: Okay.
+[game mechanics] [SPEAKER_03A]: I don't want to get stabbed by one of these fuckers.
+[game mechanics] [SPEAKER_01A]: I will use...
+[game mechanics] [SPEAKER_01A]: It has seven charges, that's what it's got, not ten.
+[game mechanics] [SPEAKER_00A]: I will use...
+[game mechanics] [SPEAKER_01A]: I'll just use two charges, so I get four.
+[game mechanics] [SPEAKER_01A]: So I get 4d6.
+[game mechanics] [SPEAKER_01A]: 4d4.
+[game mechanics] [SPEAKER_01A]: Oh yeah, 4d4, excuse me.
+[game mechanics] [SPEAKER_00A]: Okay, so Jude turns, and actually you get to go first.
+[game mechanics] [SPEAKER_00A]: What do you want to do?
+[game mechanics] [SPEAKER_00A]: Do you want to swim with the current or what?
+[game mechanics] [SPEAKER_03A]: Uh, did you get out?
+[game mechanics] [SPEAKER_03A]: No, I didn't get out.
+[game mechanics] [SPEAKER_00A]: He's right next to you.
+[game mechanics] [SPEAKER_00A]: You can hear him.
+[game mechanics] [SPEAKER_00A]: But you hear splashing coming from you from above.
+[game mechanics] [SPEAKER_03A]: Okay.
+[game mechanics] [SPEAKER_00A]: I'm gonna shoot him.
+[game mechanics] [SPEAKER_03A]: How, uh, should I, I'll probably do a firebolt down the river maybe.
+[game mechanics] [SPEAKER_03A]: See if like, see how they're different.
+[game mechanics] [SPEAKER_03A]: Like, see like how close they are.
+[game mechanics] [SPEAKER_03A]: Oh, like back, back that way.
+[game mechanics] [SPEAKER_03A]: Yeah, back.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_03A]: You want to do that?
+[game mechanics] [SPEAKER_03A]: Yeah, and I'm not like trying to aim.
+[game mechanics] [SPEAKER_03A]: I'm just trying to get as far as it can go.
+[game mechanics] [SPEAKER_01A]: Or you can do it forward.
+[game mechanics] [SPEAKER_03A]: Yeah.
+[game mechanics] [SPEAKER_01A]: To see.
+[game mechanics] [SPEAKER_01A]: I mean, to see.
+[game mechanics] [SPEAKER_00A]: Do you want to see down this way, or do you want to shoot it back to see those guys?
+[game mechanics] [SPEAKER_01A]: Because remember, your firebolt would give you vision as it at least goes, so that if there was a stairway or something to grab onto, you'd see it.
+[game mechanics] [SPEAKER_03A]: I feel like, wouldn't they see us still?
+[game mechanics] [SPEAKER_03A]: They can see us.
+[game mechanics] [SPEAKER_03A]: I said that to you.
+[game mechanics] [SPEAKER_03A]: They can see just as good as I can in the dark.
+[game mechanics] [SPEAKER_03A]: Okay, so yeah, shoot ahead because you can see behind.
+[game mechanics] [SPEAKER_00A]: Okay, so you fire down that way, right?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: And what you see is that this hits a wall about here.
+[game mechanics] [SPEAKER_00A]: Okay?
+[game mechanics] [SPEAKER_00A]: And the water goes under.
+[game mechanics] [SPEAKER_00A]: Now, the thing is, is there's no way on either side here for you to get out.
+[game mechanics] [SPEAKER_00A]: You're gonna have to go under with the water.
+[game mechanics] [SPEAKER_03A]: So I think we should get out, sprint down.
+[game mechanics] [SPEAKER_03A]: No, he's saying there's no way to get out.
+[game mechanics] [SPEAKER_01A]: So it's too high or too slimy or whatever.
+[game mechanics] [SPEAKER_03A]: I mean, you can grab onto the wall if you want to.
+[game mechanics] [SPEAKER_03A]: Stay there.
+[game mechanics] [SPEAKER_03A]: Do we see anything on the sides?
+[game mechanics] [SPEAKER_03A]: You see rocks and stuff like that, but there's no place to get out.
+[game mechanics] [SPEAKER_01A]: Like there's no stairway up.
+[game mechanics] [SPEAKER_03A]: Okay, so I get out of the river, or water.
+[game mechanics] [SPEAKER_03A]: Are you going to try to climb?
+[game mechanics] [SPEAKER_03A]: There's a ladder?
+[game mechanics] [SPEAKER_03A]: No.
+[game mechanics] [SPEAKER_03A]: No, but you can climb onto the wall.
+[game mechanics] [SPEAKER_03A]: Well, like, aren't we- It would be like a roll.
+[game mechanics] [SPEAKER_01A]: You would have to try to roll climbing.
+[game mechanics] [SPEAKER_03A]: It's not a skill.
+[game mechanics] [SPEAKER_03A]: Don't we want to defend ourselves?
+[game mechanics] [SPEAKER_03A]: Well, that's what I'm doing.
+[game mechanics] [SPEAKER_03A]: I got a wand out.
+[game mechanics] [SPEAKER_03A]: I'll probably do... What is the blade ward?
+[game mechanics] [SPEAKER_03A]: Blade ward gives you resistance to any damage that... And the...
+[game mechanics] [SPEAKER_03A]: Per... Perstigitation.
+[game mechanics] [SPEAKER_03A]: Prestigitation.
+[game mechanics] [SPEAKER_00A]: You can clean your clothes off.
+[game mechanics] [SPEAKER_03A]: I'll probably do...
+[game mechanics] [SPEAKER_03A]: I don't really know, honestly.
+[game mechanics] [SPEAKER_03A]: Do you yell?
+[game mechanics] [SPEAKER_00A]: Do you use your action to shoot the fireball down to here, and you saw that it's ending and the water's going down.
+[game mechanics] [SPEAKER_00A]: Do you want to yell that to me?
+[game mechanics] [SPEAKER_00A]: Yeah, I say, there's an end.
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_01A]: Shit, so I know that that means that there's a tunnel.
+[game mechanics] [SPEAKER_00A]: Do you want to swim this way?
+[game mechanics] [SPEAKER_00A]: Do you want to grow onto the wall?
+[game mechanics] [SPEAKER_00A]: Do you want to swim against the current?
+[game mechanics] [SPEAKER_00A]: What do you want to do?
+[game mechanics] [SPEAKER_03A]: I think I climb out of the water onto the concrete.
+[game mechanics] [SPEAKER_01A]: You can certainly try.
+[game mechanics] [SPEAKER_00A]: Okay, so you grab onto the side of the wall.
+[game mechanics] [SPEAKER_00A]: This wall, right?
+[game mechanics] [SPEAKER_00A]: To hang on.
+[game mechanics] [SPEAKER_01A]: Because you're trying not to get sucked down through the pipe, right?
+[game mechanics] [SPEAKER_03A]: Well, it might be our only way out.
+[game mechanics] [SPEAKER_03A]: No, I hear you.
+[game mechanics] [SPEAKER_03A]: Do you see how big it is, like how thick the gap is?
+[game mechanics] [SPEAKER_03A]: What gap?
+[game mechanics] [SPEAKER_01A]: That goes under.
+[game mechanics] [SPEAKER_01A]: He's wondering if there was a headspace, if he saw like a headspace.
+[game mechanics] [SPEAKER_01A]: It seems like it was like that.
+[game mechanics] [SPEAKER_01A]: Basically, it's going to be a hold your breath kind of scenario.
+[game mechanics] [SPEAKER_03A]: I think we could do that.
+[game mechanics] [SPEAKER_03A]: I mean, we got nothing else to do.
+[game mechanics] [SPEAKER_01A]: It's your call.
+[game mechanics] [SPEAKER_01A]: If you're trying to climb out, or are you just getting ready?
+[game mechanics] [SPEAKER_03A]: I'll swim down, forward.
+[game mechanics] [SPEAKER_00A]: Okay, so you swim this way?
+[game mechanics] [SPEAKER_03A]: We have nothing better to do.
+[game mechanics] [SPEAKER_00A]: You go 15 feet this way, and the current carries you 15 feet to here.
+[game mechanics] [SPEAKER_00A]: All right?
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: You're bobbing up and down in the water.
+[game mechanics] [SPEAKER_00A]: I'm like a shit.
+[game mechanics] [SPEAKER_00A]: What do you do?
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: So you turn, and you move 15 feet to here.
+[game mechanics] [SPEAKER_00A]: You wanna cast... On which one?
+[game mechanics] [SPEAKER_00A]: I'm gonna cast on the one on the right.
+[game mechanics] [SPEAKER_01A]: I don't know which one's wounded the most, but I'll just say the one on the right.
+[game mechanics] [SPEAKER_00A]: Okay, the one on the right, I'll figure out what the one on the right is.
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_01A]: So four, five, six, seven plus... Eleven points of damage.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Your magic missiles streak out, hitting the man four times.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: He's hurt, but he does not go down, and basically you hear him scream in rage, and they are going to be carried 15 feet to here, and then they swim rapidly to here.
+[game mechanics] [SPEAKER_01A]: Okay, and I turn and see and start gauging my breath so I can get a good deep breath.
+[game mechanics] [SPEAKER_00A]: Do you want to swim your 15 feet?
+[game mechanics] [SPEAKER_00A]: Yes.
+[game mechanics] [SPEAKER_00A]: Okay, so they're 15 feet behind you right there.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_01A]: And I'm engaged in the distance.
+[game mechanics] [SPEAKER_01A]: Well, it's gonna be down to your constitution.
+[game mechanics] [SPEAKER_01A]: You got a good constitution?
+[game mechanics] [SPEAKER_01A]: Oh, um...
+[game mechanics] [SPEAKER_03A]: Ten.
+[game mechanics] [SPEAKER_01A]: Ten?
+[game mechanics] [SPEAKER_01A]: Is that bad?
+[game mechanics] [SPEAKER_01A]: Mine's eleven.
+[game mechanics] [SPEAKER_01A]: I mean, there's no pluses.
+[game mechanics] [SPEAKER_01A]: I don't think you have a minus, do you?
+[game mechanics] [SPEAKER_01A]: No.
+[game mechanics] [SPEAKER_01A]: Because I would suck your all up, you'd lose a minute.
+[game mechanics] [SPEAKER_03A]: I have, like, asthma.
+[game mechanics] [SPEAKER_01A]: Ah, shit.
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_01A]: Asthma.
+[game mechanics] [SPEAKER_01A]: All right, Anish.
+[game mechanics] [SPEAKER_01A]: All right.
+[game mechanics] [SPEAKER_01A]: Seven, eight, nine, ten, eleven.
+[game mechanics] [SPEAKER_01A]: Twelve.
+[game mechanics] [SPEAKER_01A]: Twelve.
+[game mechanics] [SPEAKER_01A]: Plus.
+[game mechanics] [SPEAKER_01A]: That's fifteen.
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_00A]: They get two.
+[game mechanics] [SPEAKER_00A]: You go first.
+[game mechanics] [SPEAKER_03A]: Keep swimming.
+[game mechanics] [SPEAKER_03A]: Do you want to use your action to dash?
+[game mechanics] [SPEAKER_03A]: Yes.
+[game mechanics] [SPEAKER_03A]: Do I start panting or something?
+[game mechanics] [SPEAKER_03A]: Fifteen, fifteen.
+[game mechanics] [SPEAKER_00A]: So you're gonna get to here.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: And you're like getting ready to go under.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: And you reach that and you know you're about to get sucked in.
+[game mechanics] [SPEAKER_00A]: But you swim as fast as you can to get to that area.
+[game mechanics] [SPEAKER_00A]: Okay?
+[game mechanics] [SPEAKER_01A]: Jude, your turn.
+[game mechanics] [SPEAKER_01A]: I'm gonna blast one of them again.
+[game mechanics] [SPEAKER_01A]: The same guy that I blasted again.
+[game mechanics] [SPEAKER_01A]: Two charges, so that would mean I've used four charges.
+[game mechanics] [SPEAKER_01A]: Right.
+[game mechanics] [SPEAKER_00A]: So you attack again.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_01A]: And then I'll move the 15 feet.
+[game mechanics] [SPEAKER_01A]: It would be 30 in total.
+[game mechanics] [SPEAKER_01A]: 3, 4, 8, 9, 11, plus 4.
+[game mechanics] [SPEAKER_00A]: Uh, 15.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: You blast him.
+[game mechanics] [SPEAKER_00A]: And he goes, argh!
+[game mechanics] [SPEAKER_00A]: And...
+[game mechanics] [SPEAKER_00A]: He begins to float into water.
+[game mechanics] [SPEAKER_00A]: So he's unconscious or dead.
+[game mechanics] [SPEAKER_00A]: You're not sure which.
+[game mechanics] [SPEAKER_01A]: And if he's unconscious, he soon will be dead.
+[game mechanics] [SPEAKER_01A]: Right.
+[game mechanics] [SPEAKER_00A]: And you want to move 15 feet?
+[game mechanics] [SPEAKER_00A]: Yeah, or my max, whatever.
+[game mechanics] [SPEAKER_00A]: So you move to here because you took your action.
+[game mechanics] [SPEAKER_00A]: This guy's gone.
+[game mechanics] [SPEAKER_00A]: His body floating 15 feet to here, so I'll just do that.
+[game mechanics] [SPEAKER_00A]: And this guy dashes one, two, three.
+[game mechanics] [SPEAKER_00A]: He's going to get to here, and he does not have an action, but he's right next to you.
+[game mechanics] [SPEAKER_00A]: He's like, ah!
+[game mechanics] [SPEAKER_00A]: It's insanity.
+[game mechanics] [SPEAKER_00A]: All right, I gotta look.
+[game mechanics] [SPEAKER_01A]: I wanna hug my breath.
+[game mechanics] [SPEAKER_00A]: All right.
+[game mechanics] [SPEAKER_00A]: Okay, next round.
+[game mechanics] [SPEAKER_00A]: Nish?
+[game mechanics] [SPEAKER_00A]: Jude, you actually see a figure standing up here.
+[game mechanics] [SPEAKER_00A]: Okay, can I...
+[game mechanics] [SPEAKER_00A]: The darkness.
+[game mechanics] [SPEAKER_00A]: Can I move down?
+[game mechanics] [SPEAKER_00A]: Just out of range of your dark...
+[game mechanics] [SPEAKER_00A]: It's too dark.
+[game mechanics] [SPEAKER_00A]: Oh, okay, gotcha.
+[game mechanics] [SPEAKER_00A]: Right, it's like more than 60 feet away.
+[game mechanics] [SPEAKER_00A]: Just a silhouette.
+[game mechanics] [SPEAKER_00A]: A silhouette with the information.
+[game mechanics] [SPEAKER_03A]: Okay.
+[game mechanics] [SPEAKER_01A]: But somebody is looking at you.
+[game mechanics] [SPEAKER_01A]: Probably the guy upstairs.
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_01A]: Anish.
+[game mechanics] [SPEAKER_01A]: Anish, roll a 20-side roll.
+[game mechanics] [SPEAKER_01A]: 8, 9, 10, 11, 12.
+[game mechanics] [SPEAKER_00A]: 19.
+[game mechanics] [SPEAKER_00A]: 19.
+[game mechanics] [SPEAKER_00A]: What's that?
+[game mechanics] [SPEAKER_00A]: 12.
+[game mechanics] [SPEAKER_00A]: 13.
+[game mechanics] [SPEAKER_00A]: What'd you get?
+[game mechanics] [SPEAKER_00A]: I got 12.
+[game mechanics] [SPEAKER_00A]: Okay, so he goes first.
+[game mechanics] [SPEAKER_00A]: You go first.
+[game mechanics] [SPEAKER_03A]: What do you do?
+[game mechanics] [SPEAKER_03A]: I start to, like, taking, like, bigger and bigger breaths, but I'm waiting to see what is he doing.
+[game mechanics] [SPEAKER_01A]: Well, no, you don't get to wait because you're in the current.
+[game mechanics] [SPEAKER_01A]: Okay, so I just go.
+[game mechanics] [SPEAKER_01A]: No, he can hold on if he wants to.
+[game mechanics] [SPEAKER_03A]: You can also swim against the curve.
+[game mechanics] [SPEAKER_03A]: Trying to improve my breathing, kind of.
+[game mechanics] [SPEAKER_00A]: Okay, so you want to hang out where the pipe is?
+[game mechanics] [SPEAKER_03A]: Yeah.
+[game mechanics] [SPEAKER_00A]: The water is sucking on you.
+[game mechanics] [SPEAKER_00A]: Okay, but you're taking deep breaths as your action.
+[game mechanics] [SPEAKER_00A]: You're not swimming.
+[game mechanics] [SPEAKER_00A]: Strength tech DC 10, where you get sucked down.
+[game mechanics] [SPEAKER_00A]: You get a minus two to your roll, so you have to roll a 12.
+[game mechanics] [SPEAKER_00A]: You're breathing, the water sweeps you down.
+[game mechanics] [SPEAKER_03A]: Do I get a breath?
+[game mechanics] [SPEAKER_00A]: You get a breath, yes, because you took an action to do that, right?
+[game mechanics] [SPEAKER_00A]: But you get sucked down into the pipe, moving at 15 feet per second.
+[game mechanics] [SPEAKER_00A]: Now the question is, you're going to have to think about this, because you go 15 feet now.
+[game mechanics] [SPEAKER_03A]: Do you want to start swimming the direction of the current or what do you want to do?
+[game mechanics] [SPEAKER_03A]: Uh, yeah.
+[game mechanics] [SPEAKER_03A]: I mean, like, is it like going down or like a tunnel?
+[game mechanics] [SPEAKER_00A]: It's got a thing that goes down, but do you want to keep swimming with it so you go where you're getting faster?
+[game mechanics] [SPEAKER_03A]: Do I have like even room to swim?
+[game mechanics] [SPEAKER_03A]: Oh yeah.
+[game mechanics] [SPEAKER_03A]: I guess, yeah.
+[game mechanics] [SPEAKER_03A]: Try to make it, like, as much as, like, closest to light as I can.
+[game mechanics] [SPEAKER_00A]: Alright, so you used your action, so you can't dash a ton, but you can... 30 feet?
+[game mechanics] [SPEAKER_00A]: Uh, you can go 30 feet.
+[game mechanics] [SPEAKER_00A]: Well, half of that, 15, I guess.
+[game mechanics] [SPEAKER_01A]: Well, he swims 15, but the water takes him down 50.
+[game mechanics] [SPEAKER_00A]: So, okay.
+[game mechanics] [SPEAKER_00A]: So you go 30 feet that way.
+[game mechanics] [SPEAKER_01A]: Alright, him on me.
+[game mechanics] [SPEAKER_00A]: Jude attacks you with his knife.
+[game mechanics] [SPEAKER_00A]: You ready?
+[game mechanics] [SPEAKER_00A]: Mm-hmm.
+[game mechanics] [SPEAKER_00A]: 18!
+[game mechanics] [SPEAKER_01A]: Shield!
+[game mechanics] [SPEAKER_00A]: Are you sure you want to use it?
+[game mechanics] [SPEAKER_00A]: Yeah, I'll use the one from Irene.
+[game mechanics] [SPEAKER_00A]: Because he could still hit you.
+[game mechanics] [SPEAKER_01A]: I know he could still, but I need to try to...
+[game mechanics] [SPEAKER_01A]: So he gets an 18, 19, 20, 21, so your AC has to be at least 21.
+[game mechanics] [SPEAKER_01A]: Well, wait a minute.
+[game mechanics] [SPEAKER_01A]: So it adds five to it.
+[game mechanics] [SPEAKER_01A]: Oh, so that would only be 19.
+[game mechanics] [SPEAKER_01A]: Yeah.
+[game mechanics] [SPEAKER_03A]: Ah, fuck.
+[game mechanics] [SPEAKER_03A]: Okay.
+[game mechanics] [SPEAKER_01A]: I mean, I guess it doesn't matter.
+[game mechanics] [SPEAKER_01A]: Well, that's where it smells like, right?
+[game mechanics] [SPEAKER_01A]: Well, yeah.
+[game mechanics] [SPEAKER_01A]: I guess what I mean is that if I cast it, he still hits me anyway.
+[game mechanics] [SPEAKER_01A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: So, no.
+[game mechanics] [SPEAKER_01A]: All right.
+[game mechanics] [SPEAKER_00A]: He hits you.
+[game mechanics] [SPEAKER_00A]: Stabs you with a horribly curved knife.
+[game mechanics] [SPEAKER_01A]: All I can hope is that the poison's washed off in the water.
+[game mechanics] [SPEAKER_00A]: One, he nicks you.
+[game mechanics] [SPEAKER_00A]: That's strong.
+[game mechanics] [SPEAKER_00A]: He goes for your eye, but he nicks you.
+[game mechanics] [SPEAKER_00A]: It does two points of damage to you.
+[game mechanics] [SPEAKER_00A]: That's pretty lucky.
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_00A]: Oh.
+[game mechanics] [SPEAKER_00A]: He's got you again.
+[game mechanics] [SPEAKER_00A]: He's got two attacks.
+[game mechanics] [SPEAKER_00A]: Oh shit.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Oh wait, no.
+[game mechanics] [SPEAKER_00A]: I know he does.
+[game mechanics] [SPEAKER_00A]: He tries to grapple you.
+[game mechanics] [SPEAKER_00A]: 16, 17, 18, 19.
+[game mechanics] [SPEAKER_00A]: He grabs onto you with his hand.
+[game mechanics] [SPEAKER_01A]: Okay, that's fine.
+[game mechanics] [SPEAKER_01A]: I actually had an idea that was going to involve grappling myself.
+[game mechanics] [SPEAKER_00A]: So what this means is you can't get away from him.
+[game mechanics] [SPEAKER_00A]: You can't move away from him until you break the grapple.
+[game mechanics] [SPEAKER_01A]: Right.
+[game mechanics] [SPEAKER_01A]: But I had this idea.
+[game mechanics] [SPEAKER_01A]: I want to try to turn...
+[game mechanics] [SPEAKER_01A]: Okay, so before you go on any further, I was actually thinking the current's getting swifter as we go in.
+[game mechanics] [SPEAKER_01A]: I was thinking about submerging myself, like taking a deep breath,
+[game mechanics] [SPEAKER_01A]: Pushing myself down and trying to kick him so that his head hits the pipe edge or the concrete as I'm getting sucked in.
+[game mechanics] [SPEAKER_01A]: So I clear the hole, but I'm going to try to push him up so that he doesn't clear the hole.
+[game mechanics] [SPEAKER_01A]: And if he's grabbing me, he doesn't have a hand out to block any headshot.
+[game mechanics] [SPEAKER_01A]: You know, if he takes the concrete bricks right in the face.
+[game mechanics] [SPEAKER_01A]: But I don't know what I would roll for that.
+[game mechanics] [SPEAKER_00A]: Right.
+[game mechanics] [SPEAKER_00A]: You guys are still 15 feet away from there.
+[game mechanics] [SPEAKER_00A]: Okay?
+[game mechanics] [SPEAKER_00A]: You're 30 feet through.
+[game mechanics] [SPEAKER_00A]: Okay?
+[game mechanics] [SPEAKER_01A]: Even after the current's carried us that 15?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_01A]: And the current has carried you 15.
+[game mechanics] [SPEAKER_01A]: But if I don't do anything and he's grappled me, because we're in a current, can I increase us to make that happen this round?
+[game mechanics] [SPEAKER_01A]: So in other words, can I do this while he's grabbing onto me?
+[game mechanics] [SPEAKER_01A]: You know, like sink myself, like go underneath the water.
+[game mechanics] [SPEAKER_00A]: Yeah, you could try.
+[game mechanics] [SPEAKER_00A]: You could try and do that.
+[game mechanics] [SPEAKER_01A]: And try to like increase like it so that I can get some speed at least so that I can try to shake him off of me by slamming him into me.
+[game mechanics] [SPEAKER_00A]: Okay, let me look up rules for suffocating.
+[game mechanics] [SPEAKER_00A]: Page 183.
+[game mechanics] [SPEAKER_00A]: They've got rules for it.
+[game mechanics] [SPEAKER_00A]: A creature can hold its breath for the number of minutes equal to one plus its constitution modifier.
+[game mechanics] [SPEAKER_00A]: What's your constitution modifier?
+[game mechanics] [SPEAKER_01A]: Plus a zero.
+[game mechanics] [SPEAKER_00A]: So you can hold your breath for one minute.
+[game mechanics] [SPEAKER_00A]: When a creature runs out of breath or is choking, it can survive for a number of breaths equal to its constitution modifier.
+[game mechanics] [SPEAKER_00A]: At the start of the next turn, it drops to zero points and it's dying, and it can't regain hit points or be stabilized until it can breathe again.
+[game mechanics] [SPEAKER_00A]: For example, a creature with a constitution of 14 can hold the breath for three minutes.
+[game mechanics] [SPEAKER_00A]: You can hold your breath for one.
+[game mechanics] [SPEAKER_00A]: Same with me, though.
+[game mechanics] [SPEAKER_00A]: Exactly.
+[game mechanics] [SPEAKER_01A]: That's not bad, though, for a human.
+[game mechanics] [SPEAKER_01A]: One minute.
+[game mechanics] [SPEAKER_01A]: I mean, that's not anything to brag about.
+[game mechanics] [SPEAKER_00A]: You have been underwater for one round.
+[game mechanics] [SPEAKER_00A]: That's six seconds?
+[game mechanics] [SPEAKER_00A]: Six seconds.
+[game mechanics] [SPEAKER_00A]: Fun, that's actually kind of weird.
+[game mechanics] [SPEAKER_03A]: We get ten of those.
+[game mechanics] [SPEAKER_03A]: You get ten of those.
+[game mechanics] [SPEAKER_03A]: Okay.
+[game mechanics] [SPEAKER_03A]: I mean like treat like keep treating it like a slip inside that's going downhill.
+[game mechanics] [SPEAKER_03A]: Do you want to swim?
+[game mechanics] [SPEAKER_03A]: Yeah, can I like paddle?
+[game mechanics] [SPEAKER_00A]: If you want you can use your action to dash so you're going 45 feet.
+[game mechanics] [SPEAKER_03A]: Does that make me lose some of my breath time?
+[game mechanics] [SPEAKER_03A]: No.
+[game mechanics] [SPEAKER_01A]: Basically it's speeding you up.
+[game mechanics] [SPEAKER_01A]: You're going with the water to try to get out.
+[game mechanics] [SPEAKER_03A]: Okay, yeah I do that.
+[game mechanics] [SPEAKER_01A]: Is she trying back?
+[game mechanics] [SPEAKER_00A]: No, they're trying back.
+[game mechanics] [SPEAKER_00A]: Oh, okay.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Alright, roll a niche.
+[game mechanics] [SPEAKER_03A]: Where are my dice?
+[game mechanics] [SPEAKER_03A]: Oh, you have it.
+[game mechanics] [SPEAKER_00A]: I have a question.
+[game mechanics] [SPEAKER_00A]: Why do we always roll a niche so much?
+[game mechanics] [SPEAKER_00A]: Because it determines life or death.
+[game mechanics] [SPEAKER_03A]: I always get the good ones when I don't need it.
+[game mechanics] [SPEAKER_03A]: I did 14.
+[game mechanics] [SPEAKER_03A]: I always get the good ones when you don't need it.
+[game mechanics] [SPEAKER_03A]: It's a nat 20.
+[game mechanics] [SPEAKER_03A]: Okay, nat 20.
+[game mechanics] [SPEAKER_00A]: Alright, you swim ahead as fast as you can, and you go another 45 feet, so you've gone 75 feet.
+[game mechanics] [SPEAKER_00A]: And you've been under the water for two rounds.
+[game mechanics] [SPEAKER_00A]: That's good.
+[game mechanics] [SPEAKER_00A]: You have 10 rounds until you run out of breath, and then you have one round after that until you die.
+[game mechanics] [SPEAKER_00A]: I die in the first session.
+[game mechanics] [SPEAKER_01A]: Well, it wouldn't be good because I might die too, because we're both at one minute mark, so.
+[game mechanics] [SPEAKER_03A]: I just say, I open my mouth.
+[game mechanics] [SPEAKER_03A]: The turd comes in.
+[game mechanics] [SPEAKER_03A]: It's a gross way to die.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: You do.
+[game mechanics] [SPEAKER_00A]: You get to go for it.
+[game mechanics] [SPEAKER_01A]: Okay, so what would you say that that is?
+[game mechanics] [SPEAKER_01A]: Is that a...
+[game mechanics] [SPEAKER_01A]: I don't want like if I'm...
+[game mechanics] [SPEAKER_00A]: It's gonna be an athletic check.
+[game mechanics] [SPEAKER_00A]: It's an athletic check.
+[game mechanics] [SPEAKER_00A]: It's a thing, basically, your athletics to his athletics.
+[game mechanics] [SPEAKER_00A]: And if you do it, you'll knock him in the head and you'll get him off you.
+[game mechanics] [SPEAKER_01A]: It's basically breaking the grapple.
+[game mechanics] [SPEAKER_01A]: Okay, so I have a plus two.
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_01A]: Seventeen.
+[game mechanics] [SPEAKER_01A]: Seventeen.
+[game mechanics] [SPEAKER_01A]: This is what he gets.
+[game mechanics] [SPEAKER_00A]: 14.
+[game mechanics] [SPEAKER_00A]: So you basically kick off from him and break the grapple.
+[game mechanics] [SPEAKER_00A]: And you're going to go 15 feet to there while you're doing this.
+[game mechanics] [SPEAKER_00A]: Do you want to swim?
+[game mechanics] [SPEAKER_01A]: Well, I was hoping to time it so that I could try to bang his head into the tongue.
+[game mechanics] [SPEAKER_01A]: Yeah, and then I turn.
+[game mechanics] [SPEAKER_01A]: And if I break the grapple, I turn and I start.
+[game mechanics] [SPEAKER_01A]: And you swim.
+[game mechanics] [SPEAKER_00A]: So you swim to here.
+[game mechanics] [SPEAKER_00A]: So you are 15 feet in.
+[game mechanics] [SPEAKER_00A]: And you begin your underwater adventures next round.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Let's see what his dex check is.
+[game mechanics] [SPEAKER_00A]: One, he hits his head on the thing, doing one die four, I'll let you roll it, of damage to him.
+[game mechanics] [SPEAKER_00A]: Two?
+[game mechanics] [SPEAKER_00A]: Two points of damage.
+[game mechanics] [SPEAKER_00A]: And he does not get to go after you yet.
+[game mechanics] [SPEAKER_00A]: So you're 15 feet in, you're 75 feet in.
+[game mechanics] [SPEAKER_00A]: Next round, we don't have to roll an ish.
+[game mechanics] [SPEAKER_00A]: You're gonna swim, right?
+[game mechanics] [SPEAKER_00A]: I'm gonna swim too.
+[game mechanics] [SPEAKER_00A]: You go another round, 45 more feet, so that's 80, 120 feet, you've gone 120 feet.
+[game mechanics] [SPEAKER_00A]: And you're three rounds in.
+[game mechanics] [SPEAKER_01A]: What are you going to do?
+[game mechanics] [SPEAKER_01A]: I swim, max.
+[game mechanics] [SPEAKER_00A]: Swim max, that's 45.
+[game mechanics] [SPEAKER_00A]: So you have gone 60 feet.
+[game mechanics] [SPEAKER_01A]: And this is my second.
+[game mechanics] [SPEAKER_00A]: And this is your first round.
+[game mechanics] [SPEAKER_00A]: Oh, first round.
+[game mechanics] [SPEAKER_00A]: Yeah, so Jude has first.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: You're fully wide.
+[game mechanics] [SPEAKER_01A]: You're just blank.
+[game mechanics] [SPEAKER_01A]: You're just going.
+[game mechanics] [SPEAKER_01A]: Going with the current.
+[game mechanics] [SPEAKER_01A]: Right?
+[game mechanics] [SPEAKER_00A]: Going with the current.
+[game mechanics] [SPEAKER_00A]: That's the only thing that gives you any kind of direction.
+[game mechanics] [SPEAKER_00A]: Next round.
+[game mechanics] [SPEAKER_00A]: You swim again?
+[game mechanics] [SPEAKER_00A]: Can I see your book real quick?
+[game mechanics] [SPEAKER_03A]: Can I dash or no?
+[game mechanics] [SPEAKER_00A]: You can dash.
+[game mechanics] [SPEAKER_03A]: Yeah, I'll dash.
+[game mechanics] [SPEAKER_00A]: So you've gone 165 feet.
+[game mechanics] [SPEAKER_00A]: Actually, I'll just look it up on my phone real quick.
+[game mechanics] [SPEAKER_03A]: How many rounds are we in?
+[game mechanics] [SPEAKER_00A]: You've gone four rounds now.
+[game mechanics] [SPEAKER_00A]: You've gone 165 feet.
+[game mechanics] [SPEAKER_00A]: You go max, which is 45 feet, so you've got 105 feet.
+[game mechanics] [SPEAKER_00A]: And two rounds.
+[game mechanics] [SPEAKER_01A]: I'm trying to look up if my cantrip light has any verbal component.
+[game mechanics] [SPEAKER_01A]: If it doesn't, then I could maybe cast it.
+[game mechanics] [SPEAKER_00A]: It would take an action so you wouldn't be able to dash.
+[game mechanics] [SPEAKER_01A]: Yeah, I wouldn't be able to dash, but at least I could get a light.
+[game mechanics] [SPEAKER_03A]: Let me see.
+[game mechanics] [SPEAKER_01A]: Let's see.
+[game mechanics] [SPEAKER_01A]: Components.
+[game mechanics] [SPEAKER_01A]: It's V, M. That's verbal.
+[game mechanics] [SPEAKER_00A]: So I can't really cast?
+[game mechanics] [SPEAKER_00A]: No, you can't.
+[game mechanics] [SPEAKER_00A]: Yeah, because I got water.
+[game mechanics] [SPEAKER_00A]: All right.
+[game mechanics] [SPEAKER_00A]: All right.
+[game mechanics] [SPEAKER_00A]: Next round, you swim.
+[game mechanics] [SPEAKER_00A]: Can I dash?
+[game mechanics] [SPEAKER_00A]: Yeah, you can.
+[game mechanics] [SPEAKER_00A]: So you've gone 215 feet.
+[game mechanics] [SPEAKER_00A]: After five rounds,
+[game mechanics] [SPEAKER_00A]: And Jude dashes and goes another 45 feet, so he's gone 150 feet after three rounds.
+[game mechanics] [SPEAKER_00A]: Roll an int check.
+[game mechanics] [SPEAKER_03A]: What's an int check?
+[game mechanics] [SPEAKER_00A]: Your intelligence.
+[game mechanics] [SPEAKER_00A]: This is a DC 10 int check.
+[game mechanics] [SPEAKER_00A]: Basically add your intelligence modifier plus four to it.
+[game mechanics] [SPEAKER_03A]: You want to make it.
+[game mechanics] [SPEAKER_03A]: Nineteen?
+[game mechanics] [SPEAKER_03A]: Twenty, twenty-one, twenty-two, twenty-three.
+[game mechanics] [SPEAKER_03A]: Okay.
+[game mechanics] [SPEAKER_03A]: So...
+[SPEAKER_00A]: It's dark and you can't see, but you come to the surface and you realize you're out of the
+[SPEAKER_00A]: Channel with the thing over it.
+[SPEAKER_00A]: And you realize that because when you were swimming, every once in a while you would bump up against the top of the thing and you wouldn't be able to get air or anything.
+[SPEAKER_00A]: But when you come up this time, you realize you're at the surface and you break the surface.
+[game mechanics] [SPEAKER_00A]: So I take some breaths?
+[game mechanics] [SPEAKER_00A]: Yeah, you can definitely take...
+[game mechanics] [SPEAKER_00A]: So you reset.
+[game mechanics] [SPEAKER_00A]: Is there light or is it still dark?
+[game mechanics] [SPEAKER_00A]: It's still dark.
+[game mechanics] [SPEAKER_03A]: But do you want to do anything this turn?
+[game mechanics] [SPEAKER_03A]: Do you want to try and growl onto the wall?
+[game mechanics] [SPEAKER_03A]: I shoot a fireball kind of like in forward to light up the room to see what I can see.
+[game mechanics] [SPEAKER_01A]: And then you can also swim against the current, too.
+[game mechanics] [SPEAKER_00A]: Well, he wants to bob up.
+[game mechanics] [SPEAKER_00A]: So you bob up and then you light the room up with your fire blast, right?
+[game mechanics] [SPEAKER_03A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Okay, the room lights up and the channel still is going.
+[game mechanics] [SPEAKER_00A]: On your left, however, there's a platform.
+[game mechanics] [SPEAKER_03A]: Platform?
+[game mechanics] [SPEAKER_03A]: Like the one that was over here.
+[game mechanics] [SPEAKER_00A]: Like a little one.
+[game mechanics] [SPEAKER_03A]: Okay.
+[game mechanics] [SPEAKER_03A]: Is it like, uh, I'll get onto it, see if I, can I like see, while the fire, can I like quickly look back and see, like... No.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: You just see the light of the room as the bolt follows down into your...
+[game mechanics] [SPEAKER_03A]: It's like one like square little like...
+[game mechanics] [SPEAKER_00A]: No, no, no.
+[game mechanics] [SPEAKER_00A]: It's a platform like this.
+[game mechanics] [SPEAKER_00A]: It's kind of like what this was.
+[game mechanics] [SPEAKER_00A]: You were going down the channel, and this thing is over here, and you fired the thing this way, and actually you see a stairway going up right there.
+[game mechanics] [SPEAKER_03A]: Oh, a stairway.
+[game mechanics] [SPEAKER_03A]: Okay.
+[game mechanics] [SPEAKER_03A]: Yeah, I go on there.
+[game mechanics] [SPEAKER_03A]: Okay, so you try to swim over to the side.
+[game mechanics] [SPEAKER_03A]: I also yell, oh, Jude.
+[game mechanics] [SPEAKER_00A]: Now, the problem is...
+[game mechanics] [SPEAKER_03A]: Okay, what are you yelling?
+[game mechanics] [SPEAKER_03A]: Jude, I found a stairwell on the left.
+[game mechanics] [SPEAKER_00A]: Obviously, Jude cannot hear you because he's underwater.
+[game mechanics] [SPEAKER_00A]: Okay, so you swim to the side, right?
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: So you're 15 feet down from the entrance of the pipe and you swim over to the side and get there.
+[game mechanics] [SPEAKER_00A]: Do you want to try and crawl up onto the edge?
+[game mechanics] [SPEAKER_03A]: Yeah, I kind of want to like...
+[game mechanics] [SPEAKER_03A]: Because you can see through the dark, I want to kind of like lay my body on the thing and try to hold a hand out to the water.
+[game mechanics] [SPEAKER_03A]: Okay, but do you want to get up first?
+[game mechanics] [SPEAKER_03A]: Well, yeah, I get on the side.
+[game mechanics] [SPEAKER_00A]: Okay, so, roll a strength check.
+[game mechanics] [SPEAKER_00A]: DC 10.
+[game mechanics] [SPEAKER_00A]: Minus 2.
+[game mechanics] [SPEAKER_00A]: Thirteen.
+[game mechanics] [SPEAKER_00A]: Thirteen.
+[game mechanics] [SPEAKER_00A]: Okay, so you go to the side and grab onto the side and try to pull yourself up, but the water and your robes are dragging on you, so you can't quite get yourself up onto the edge.
+[game mechanics] [SPEAKER_01A]: Does he at least stop himself?
+[game mechanics] [SPEAKER_01A]: You do stop yourself, though.
+[game mechanics] [SPEAKER_01A]: Oh, yeah.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Jude, do you swim?
+[game mechanics] [SPEAKER_03A]: Mm-hmm.
+[game mechanics] [SPEAKER_00A]: Another 45 feet?
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: So you go 195.
+[game mechanics] [SPEAKER_00A]: And you've been in the water for four rounds.
+[game mechanics] [SPEAKER_00A]: Next round.
+[game mechanics] [SPEAKER_00A]: Rolling ish.
+[game mechanics] [SPEAKER_00A]: Four.
+[out-of-band] Nine.
+[game mechanics] [SPEAKER_00A]: Nine?
+[game mechanics] [SPEAKER_00A]: Do we add anything or not?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: I'll add your dex.
+[game mechanics] [SPEAKER_01A]: So you have a nine and you have a seven.
+[game mechanics] [SPEAKER_01A]: Yeah.
+[game mechanics] [SPEAKER_00A]: What do you do?
+[game mechanics] [SPEAKER_01A]: I'm going max, but I can also, like with my night vision, so if I do clear anything and I see the platform... You go another five feet.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: And then you see the thing break out into...
+[game mechanics] [SPEAKER_00A]: An open place, okay?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Do you want to bob to the top?
+[game mechanics] [SPEAKER_01A]: Yeah, for sure.
+[game mechanics] [SPEAKER_01A]: Take a deep breath and go for the platform.
+[SPEAKER_00A]: Okay, you see Leslie, maybe 20 feet in front of you, grabbed onto the platform.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Trying to get himself up.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Alright?
+[SPEAKER_01A]: I'm gonna try to get on the platform and reach for him.
+[SPEAKER_00A]: Okay, so you swim to the platform.
+[SPEAKER_01A]: Yeah.
+[SPEAKER_00A]: You can carry 15 feet down, but you get over to the side.
+[SPEAKER_00A]: Do you want to try and pull yourself up?
+[SPEAKER_01A]: Uh, yeah.
+[SPEAKER_01A]: Does it seem like, though, that I can grab on and give him a hand up first?
+[SPEAKER_01A]: Is that gonna be the best?
+[SPEAKER_00A]: Cause I don't want him to- If you wanna come up next to him and help him, yeah, you can do that.
+[SPEAKER_01A]: Yeah, I'll come up next to him and help him.
+[SPEAKER_01A]: Like, I'll arrest my own.
+[SPEAKER_00A]: So you come up next to Leslie and what do you say?
+[SPEAKER_00A]: I say, GO!
+[SPEAKER_00A]: Jude starts helping you up.
+[game mechanics] [SPEAKER_00A]: You get to roll your strength check at advantage, so you roll two twenty-sided dies.
+[game mechanics] [SPEAKER_03A]: Okay, you get picked the highest.
+[game mechanics] [SPEAKER_03A]: And do I still minus a two?
+[game mechanics] [SPEAKER_00A]: Yes.
+[game mechanics] [SPEAKER_00A]: From the best role.
+[game mechanics] [SPEAKER_00A]: Thirteen, eleven.
+[game mechanics] [SPEAKER_00A]: No, he's like...
+[game mechanics] [SPEAKER_00A]: He's not able to get out.
+[game mechanics] [SPEAKER_01A]: Shit.
+[game mechanics] [SPEAKER_01A]: Just don't get swept away.
+[game mechanics] [SPEAKER_01A]: Okay, so...
+[game mechanics] [SPEAKER_00A]: Roll Perception.
+[game mechanics] [SPEAKER_00A]: Make him twenty-sided?
+[game mechanics] [SPEAKER_00A]: Yeah, twenty-sided.
+[game mechanics] [SPEAKER_00A]: Not you.
+[game mechanics] [SPEAKER_00A]: Twenty?
+[game mechanics] [SPEAKER_00A]: The guy comes out of the water and starts swimming towards you.
+[game mechanics] [SPEAKER_01A]: I want to blast him.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Anish.
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_01A]: Seven plus four.
+[game mechanics] [SPEAKER_01A]: You get a ten.
+[game mechanics] [SPEAKER_01A]: He goes first.
+[game mechanics] [SPEAKER_00A]: He swims up to you and tries to stab you.
+[game mechanics] [SPEAKER_00A]: First attack.
+[game mechanics] [SPEAKER_00A]: 14, 15, 16, 17.
+[game mechanics] [SPEAKER_00A]: Shield.
+[game mechanics] [SPEAKER_00A]: You use shield to protect yourself.
+[game mechanics] [SPEAKER_00A]: He stabs at you again.
+[game mechanics] [SPEAKER_00A]: You still get the plus five.
+[game mechanics] [SPEAKER_00A]: Six misses.
+[game mechanics] [SPEAKER_00A]: Jude uses his hand in some strange force to ward off this guy attacking him with the water.
+[game mechanics] [SPEAKER_00A]: Just get out of the water now!
+[game mechanics] [SPEAKER_03A]: You get to go.
+[game mechanics] [SPEAKER_03A]: Okay, I try to get back.
+[game mechanics] [SPEAKER_03A]: I still try to get on this.
+[game mechanics] [SPEAKER_00A]: Okay, you try to get up.
+[game mechanics] [SPEAKER_00A]: You cannot help.
+[game mechanics] [SPEAKER_00A]: Well, you can use your action to help him.
+[game mechanics] [SPEAKER_00A]: You're probably going to use it to attack.
+[game mechanics] [SPEAKER_00A]: I'm going to use it to attack.
+[game mechanics] [SPEAKER_03A]: Okay, so roll.
+[game mechanics] [SPEAKER_03A]: I get a one.
+[game mechanics] [SPEAKER_03A]: I get swept away.
+[game mechanics] [SPEAKER_00A]: That's happened.
+[game mechanics] [SPEAKER_03A]: Four.
+[game mechanics] [SPEAKER_03A]: Four.
+[game mechanics] [SPEAKER_00A]: It's not happening.
+[game mechanics] [SPEAKER_00A]: You're trying to get up.
+[game mechanics] [SPEAKER_03A]: You just can't do it.
+[game mechanics] [SPEAKER_00A]: Let me think about this.
+[game mechanics] [SPEAKER_00A]: Do you want to use your action for something?
+[game mechanics] [SPEAKER_00A]: Oh wait, you use your action to do that.
+[game mechanics] [SPEAKER_00A]: Do you want to kick off from the wall and try to get away from these guys or stay where you're at?
+[game mechanics] [SPEAKER_00A]: The pipe starts, you know the pipe starts again down here somewhere.
+[game mechanics] [SPEAKER_00A]: No, we need to make it here honestly.
+[game mechanics] [SPEAKER_00A]: Okay, so you're gonna stay right where you are.
+[game mechanics] [SPEAKER_00A]: You hear Jude battling.
+[game mechanics] [SPEAKER_00A]: I'm just gonna cast Magic Missile.
+[game mechanics] [SPEAKER_00A]: You fired Magic Missile with this guy?
+[game mechanics] [SPEAKER_01A]: Yeah, just one with my wand.
+[game mechanics] [SPEAKER_01A]: Suck it!
+[game mechanics] [SPEAKER_01A]: Three, six, seven, eight, nine, ten.
+[game mechanics] [SPEAKER_00A]: Ten points of damage?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: 10 points of damage?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: Okay, Jude's wand glows, and these four, three bolts hit this guy in the face.
+[SPEAKER_00A]: And he's like, ahhh!
+[SPEAKER_00A]: And he starts getting swept down.
+[SPEAKER_00A]: He gets swept down 15 feet away from you guys.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: You think you temporarily blinded him.
+[game mechanics] [SPEAKER_00A]: Okay, perfect.
+[game mechanics] [SPEAKER_00A]: You're still hanging onto the wall.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Right?
+[game mechanics] [SPEAKER_00A]: Next round, do you try and get up?
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: Do you want to try and help him?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Roll two dice and minus two.
+[game mechanics] [SPEAKER_00A]: Twenty!
+[game mechanics] [SPEAKER_00A]: With her in the arc, you only get an effort.
+[game mechanics] [SPEAKER_00A]: Leslie, with his skinny little arms, pulls himself out of the water.
+[game mechanics] [SPEAKER_03A]: I do it like one hand.
+[game mechanics] [SPEAKER_00A]: Boom.
+[game mechanics] [SPEAKER_00A]: Not quite.
+[game mechanics] [SPEAKER_00A]: He throws his leg over the side and then rolls onto the water.
+[game mechanics] [SPEAKER_00A]: Okay, he's up there, Jude.
+[game mechanics] [SPEAKER_00A]: You use your action to help him.
+[game mechanics] [SPEAKER_01A]: Yeah.
+[game mechanics] [SPEAKER_01A]: So I'm still in the water, but I'm hanging out.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Next round, do you want to try and help Jude out by throwing a hand over there?
+[game mechanics] [SPEAKER_03A]: Yeah, I'll try to, like, pull him.
+[game mechanics] [SPEAKER_00A]: Okay, so you pulled out a hand, and he tries to help you, so you have to do a strength check.
+[game mechanics] [SPEAKER_01A]: Is this going to be negative?
+[game mechanics] [SPEAKER_00A]: No, it's not a negative.
+[game mechanics] [SPEAKER_00A]: It gives you advantage.
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_03A]: My minus two strength.
+[game mechanics] [SPEAKER_00A]: I have a plus two.
+[game mechanics] [SPEAKER_00A]: 17, 18, and you get pulled up.
+[game mechanics] [SPEAKER_01A]: Okay.
+[SPEAKER_00A]: I turn around and I'm ready to get that guy.
+[SPEAKER_01A]: You see the guy get sucked under.
+[SPEAKER_00A]: He's like grabbing his face, blinded, and he gets sucked into the pipe.
+[SPEAKER_00A]: You doubt that he's gonna live much longer.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: We move for the surface.
+[SPEAKER_01A]: There was one more that saw us.
+[SPEAKER_01A]: We have to get out of the sewers.
+[SPEAKER_01A]: Yeah, so let's run up the stairs and see what's...
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: Yeah, we don't wait.
+[out-of-band] [SPEAKER_02]: We're like in the middle of Egypt.
+[SPEAKER_01A]: Well no, we're going to be still probably in the foreign quarter, but I'm going to be guessing that we're going to be in the foreign quarter either outside of the castle walls or the fortress walls.
+[SPEAKER_01A]: So we're either going to be outside of the foreign quarter or on the outside of the walls, closer to the harbor edge, or we're going to be just on the inside of the foreign quarter to be my guess.
+[SPEAKER_00A]: Alright, so, you guys...
+[SPEAKER_00A]: Struggle.
+[SPEAKER_00A]: You're wet.
+[SPEAKER_00A]: You smell bad.
+[SPEAKER_00A]: You want to use Preston's attention to clean yourself off?
+[SPEAKER_01A]: Yes.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: As soon as he does that to me, I'm all like, can you hit me?
+[SPEAKER_00A]: He cleans himself off.
+[SPEAKER_01A]: Yeah.
+[SPEAKER_00A]: You don't have that.
+[SPEAKER_01A]: I know.
+[SPEAKER_01A]: I was like, can you hit me?
+[SPEAKER_01A]: Cleats you off.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: You don't see anybody else personally.
+[SPEAKER_00A]: And the two of you climb the stairs up, getting to what seems to be
+[SPEAKER_00A]: A little workroom where there's rungs on the wall and a manhole cover at the top.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: I'll go first since he's pretty weak.
+[SPEAKER_00A]: So you climb up the iron rungs to the top of the manhole and push it over and stick your hat out and look where you are.
+[SPEAKER_01A]: So it's still nighttime because this attack came down in the shop in the nighttime.
+[SPEAKER_01A]: I just want to make sure there's nobody standing over me or anything like that.
+[SPEAKER_01A]: Am I in the middle of a crowded street?
+[SPEAKER_00A]: Oh, you're not in the middle of a crowded street.
+[SPEAKER_00A]: And the light of the moon, it's not full, but it's waxing.
+[SPEAKER_00A]: So you have some light.
+[SPEAKER_00A]: It shows you where you are.
+[SPEAKER_00A]: And you've been in this little alleyway many times.
+[SPEAKER_00A]: It's called Blood Alley.
+[SPEAKER_00A]: Oh, shit.
+[SPEAKER_00A]: This is where Gallage and Carmar take guys to go eat the hell out of them.
+[SPEAKER_00A]: Is Ferds anywhere nearby?
+[SPEAKER_00A]: This is right behind it.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: I've come out, but I'm obviously looking for anybody that's like, you know... Nobody's in the alley right now, which is good, because there are brawls that happen here quite often.
+[SPEAKER_01A]: Right, right, right.
+[SPEAKER_01A]: And I'll be like, follow me, I know where we are.
+[SPEAKER_01A]: Okay, so you guys climb yourself out of the hole.
+[SPEAKER_00A]: In the Foreign District, in the moonlight, behind Ferd's Bar, in Blood Alley.

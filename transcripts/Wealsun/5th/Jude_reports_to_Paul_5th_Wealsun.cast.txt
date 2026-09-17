@@ -1,0 +1,7 @@
+# Cast for Jude_reports_to_Paul_5th_Wealsun
+# Expected voices: 4
+DM
+Paul
+Jude
+Leslie
+Guard (NPC, DM-voiced)

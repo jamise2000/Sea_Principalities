@@ -212,3 +212,333 @@ To ease the front-loaded faction load in PART ZERO–ONE, two threads that paid 
 **Kept as a deliberate seed:** the **black sickness** and the **Sons of Olan** (the necromantic cult behind it) remain in Ch. 3 and Ch. 11, trimmed to a concise mention. Per the author, the black sickness pays off in later Book Two chapters, so it must not be cut.
 
 The Ch. 11 council recap was also lightly compressed (the definitional aside on what an Inquisitor is) to reduce restatement of Ch. 3. These are adaptation trims, not contradictions of the transcript.
+
+## Book 2 Ch. 8 — the alchemist's name is Albashon (transcript's "Varen"/"Viren" corrected)
+
+- **Transcript says:** the master alchemist of the Foreign District is named **"Varen"** (`transcripts.lst`: `Wealsun/4th/Jude_in_Alchemy_shop_4th_Wealsun`, line 1; and a garbled "Viren," line 32).
+- **Manuscript / ledgers establish instead:** his name is **Albashon** — the name he is given in `Wealsun/4th/Leslies_introduction_4th_Wealsun` ("His name is Albashon"), and the form used across `characters/Minor_characters.md`, `characters/Leslie.md`, and `worldbuilding/The_Anti-Sahaugin_Powder.md`.
+- **Action taken (author ruling: "make it consistent across the worldbuilding files and the transcripts"):** the two name tokens in `Jude_in_Alchemy_shop` (lines 1 and 32) were changed from **Varen/Viren to Albashon**. Line 32 remains a garbled sentence in the raw record ("you hand Albashon to Gils" — intended sense: Jude hands the sahuagin gills to the alchemist); only the name token was normalized.
+- **Note:** this is the second verbatim transcript body edited for a name (after `Owen_shows_his_face`); all other transcript bodies remain the raw record.
+
+## Powder canon (author rulings) — figures to reconcile in the manuscript
+
+Author rulings on the anti-sahaugin powder (recorded in `worldbuilding/The_Anti-Sahaugin_Powder.md`, `magic_system.md`, `The_Orb_of_the_Dragon_Turtle.md`, `The_Dragon_Isles.md`). Two of them **supersede numbers currently in the chapters** — flagged here so a later pass brings the prose into line rather than treating the ledger as the error:
+
+- **Supply cutoff is ~40 years ago, not 20.** Book 2 Ch. 8 (and its earlier ledger wording) has the recovered sample "about twenty years old." Canon is now **~40 years** since the supply was cut off (a fact "not common knowledge"). Reconcile Ch. 8.
+- **~25 barrels is the whole remaining supply in Monmurg's hands = 21 on the island + 4 rafted home.** Book 2 Ch. 2 reads "twenty-five … on the island / four rafted home." Canon: only **21** were on the island; with the **4** rafted home that makes **25 total** remaining to the Prince of Monmurg. Reconcile Ch. 2's wording (island figure is 21; 25 is the standing total).
+- **No manuscript change needed** for these (already consistent or new): the compound **is copper sulfate** but is never named so — Albashon calls it **vitriolum** (blue vitriol) / "copper and sulfur, combined in a way few know," and his "sulfur and iron" = **iron sulfate** (green vitriol); it was **invented and mass-produced by the Duke of Berghof** (the Fieraxian attribution is a mistaken assumption); eradication dates **CY 427–430**; **Pocra Sententia** is a primary powder staging ground and Cain's fortress; and **the dragon scheme is part of the powder scheme** (isolate Monmurg + seal the stores → defenseless against the sahaugin).
+
+## Book 2 Ch. 8 — the transmuter is Zafar Azane (transcript's "Zafar Zane" corrected)
+
+- **Transcript says:** in the alchemist scene, Albashon names the great Keoland transmuter "**Zafar Zane**" (`Wealsun/4th/Jude_in_Alchemy_shop`, line 274).
+- **Canon:** his name is **Zafar Azane** (`worldbuilding/magic_system.md`, `characters/Jamis.md`, Name Normalization Key). Normalized in that line at the author's instruction. (The Book One transcript `Wealsun/3rd/Party_considers_options` line 872 still reads "Zafar Zane"; leave for the Book One cleanup pass.)
+
+## Book 2 Ch. 7-era — Jamis names the great Suel houses (added dialogue)
+
+- **Author addition (speaker-review pass):** in `Wealsun/3rd/Judes_conversation_w_Jamis`, Jamis's answer about who Keoland's civil war is "between" was extended from "Well, the Dukes." to **"Well, the Dukes, and the great Suel Houses of that nation."** — tying the succession conflict to the great Suel houses (see `Name_Normalization_Key.md`, "The great Suel houses"). Content change to the raw transcript, made deliberately.
+
+
+## Jude_and_Paul_visit_Alchemist (3rd/4th Wealsun) — author ASR/dialogue corrections
+- **L36** (Albashon): "I remember you as your friend." → **"I remember you. Who is your friend?"**
+- **L170** (Albashon): "It's inert to us." → **"It's inert to us in this concentration and form."**
+- **L195** (Albashon): "This was made by the Phyraxians." → **"This was made by the Duke and possibly the Fieraxians themselves."** (ASR "Phyraxians" → **Fieraxians**)
+- **L282** (Albashon): "This is the life of Transvienter." → **"This is the life of a transmuter."** ("Transvienter" was ASR for the profession **transmuter**, NOT a name/alias.)
+- **L293** (Albashon): "I don't know him." → **"I don't know him well."**
+
+
+## Jude_in_Alchemy_shop (4th Wealsun) — author dialogue correction
+- **L117** (Albashon): "Oh, well, in Keoland necromancy is not forbidden." → **"Oh, well, in Keoland necromancy is forbidden but not here."**
+
+
+## Paul_goes_to_fetch_formula (4th Wealsun) — author corrections
+- **L111** (DM): "…Joanne Moraine's died." → **"…Jeon's marines died."** ("Joanne Moraine" was ASR for **Jeon's marines** — the Monmurg fleet took casualties.)
+- **L116 — SPLIT:** DM "…the Marines that brought you back…" | **Paul** "Aren't they technically still fighting there?"
+
+
+## Paul_hurries_toward_the_fire (4th Wealsun) — author correction
+- **L260** (DM): "…begin moving this way into the war." → **"…into the warren."** (ASR "war" → **Warren**)
+
+## Paul_examines_Alchemists_body (4th Wealsun)
+- L85 "We have the cards." → "We have the carts." (ASR)
+- L98 "If I were a Jew, what would I do?" → "If I were Jude, what would I do?" (ASR)
+- L1 header "At 2 p.m." is wrong — scene is night (follows the nighttime fire/raid); correct to evening/night.
+
+## Departure_from_Monmurg (4th Wealsun)
+- L1 "Fourth of Well, Son" → "Fourth of Wealsun" (ASR).
+- L21 "the Sloof's deck plant" → "the sloop's deck plan" (ASR).
+- L116 "that fling floating" → "that thing floating" (ASR).
+- L146 "sahagin" / L156 "Azur sea" → "sahuagin" / "Azure Sea".
+- L223 "Finest, Toli, rung" → "finest Toli rum" (ASR).
+- L225–226 "Black is your heart / is my last name" → "Black **as** your heart, boy! / Black **as** my last name!" (author).
+- L270/288/333/356 "Kane Toli / King Toli / Kane Tully" → "Cain Toli".
+- L281/301 "Selinmore / Selenmore" → "Selinmore".
+- L297–301/354 "Laplar / Lord Balin / the plaw" → **the Plar** of Salinmoor, Lord Gloin Baywin (author confirms "Laplar" = "the Plar").
+- L311 "Sac Nontoli" → "Sacnon Toli".
+- L341 "the arrows go on" → "the hours go on" (ASR).
+- L367/373 "Owen Blackwell" / "the Blackwell family" → Folsom misspeaks; canon is "Owen Black" with no Blackwell family — flag Owen's L373 assent.
+- L394 "Flossum" → "Flotsam".
+
+## While_Owen_Slept (4th Wealsun)
+- L9 "Bart" / L134 "op-munk" — ASR garbles (drop/repair in prose).
+- L46 "Evan's ego" / L102 "how long has Ellen been asleep" → "Owen".
+- L28 "Kane Tolley" → "Cain Toli".
+- L95–96 "sahagin" → "sahuagin".
+- L159–161 heavily garbled ASR (possible OOC) — review/trim.
+
+## Passage_through_Dragon_Isles (5th Wealsun)
+- L1/L603 "Whalesun" → "Wealsun".
+- L66 "I don't mean to cry" → "I don't mean to pry" (ASR).
+- L466 "a supply as large as the Hound did" → "…as large as the Helm did" (ASR).
+- Cain Toli garbles throughout ("Kane Tolley / Caintoli / Cain Tole / Kane totally / King Toli / Keitoly") → "Cain Toli".
+- L857 "a lynch called Aserach" → "a lich called Acerak" (= Ujor Udias; the Orb of the Dragon Turtle).
+- L858 "Exit told Cain Tolley" → "Ixid" (necromancer of the Sons of Olan).
+- L118 "Sacknon Toli" → "Sacnon Toli"; L83 "Selenmore" → "Selinmore".
+- L69-72/L81 "Hull Marshes / Hula Martian" → "Hull Marshes"; L118/L454 "Berghoff/Berkhoff" → "Berghof".
+- L95/L675 "sahagin" → "sahuagin"; L157 "Azur Sea" → "Azure Sea".
+- "Seaghost / seagulls / sea ghost" → the "Sea Ghost" (Cain Toli's cutter).
+- NOTE (canon reveal): the artifact = the Orb of the Dragon Turtle; it CONTROLS the turtle dragons, and Cain Toli is using it to pull them off the Dragon Isles — the on-page answer to why the isles fell silent.
+
+## Owens_suspicians (5th Wealsun)
+- "Kane and Toli / Kane Tolley / Cain Tolley" → "Cain Toli".
+- L8 "Jameis" → "Jamis"; L8 "Prince Gian" → "Prince Jeon" (ASR).
+- L27/29/30 "Goug" → "Gouge".
+- L9/10/17 "NATO / Captain Nato" → "Captain Nado" (Merrick's father).
+- L38 "pouring himself a dream of it" → "a dram of it" (ASR).
+- L43 "a shot of the Black Realm" → "the black rum" (ASR).
+
+## Making_Redshore (6th Wealsun)
+- L64 "the Dig of Grasel" → "the Duke of Gratzel" (ASR).
+- L86/L158 "Keogs / Keog marines" → "Keoland / Keoish".
+- L113 "prince of Burghoff" → "Berghof".
+- L127 "charter room" → the "Chart Room" (the Redshore bar; Owen says "chart room" at L153).
+- Song (L100-116) is Folsom's satire "O Monmurg" — retain as his performed lyrics.
+
+## Folsom_tells_Merrick_what_he_has_learned (6th Wealsun)
+- L2 "sixth of Whale Sun" → "Wealsun".
+- Acerak garbles ("Azzagon / Agath / Azrek / Asarak / Aserach") → "Acerak".
+- "Keintoli / Cane Tolis / Can Toli" → "Cain Toli".
+- L74-81 "Gion / Gian" → "Jeon" (Prince Jeon).
+- L162 "Salimor" → "Salinmoor".
+- CANON: History check gives Acerak = lich of Salinmoor ~600 yrs ago, warred with House of Gratzel; Sons of Olan named for Lord Olan, a vampire Acerak created (reconcile with Name Key "Count Olan's master").
+
+## Discussions_in_the_Chart_Room (6th Wealsun)
+- "Prince John / Gian / Gion / Jean" → "Prince Jeon".
+- L104 "Cain Tolley" → "Cain Toli".
+- L152 "Hell Island" → "Helm Island".
+- L165 "Calceres" → "Corsairs" (ship type).
+- L178 "he is Sewell" → "he is Suel" (the mob leader is a Suel man; NOT a name).
+- L68 "Gian would never do this to his sister" → "Jeon would never do this to the Sea Principalities" (author).
+
+## Blood_on_the_Charts (6th Wealsun)
+- Combat log — ~90% mechanics; only the in-story beats (see cast_mapping) go into prose.
+- The mob leader = the Toli/Suel muscle from the Chart Room ambush; he yields "I was only paid for this" (L1434).
+- L159 "Medellas" = Modelos (real-world beer, out-of-band).
+
+## Owen_shows_his_face (6th Wealsun)
+- Torus (NPC, Cain Toli's Suel handler) is distinct from Tyrus (PC). "a soul"(69)/"Asul"(156)/"Toli reaches down"(121) → Torus.
+- L50/74 "Portoli" → "Port Toli".
+- L76/112/116 "Kane/Cain/Keoland totally" → "Cain Toli".
+- L87 "the stone" → "the Orb" (Orb of the Dragon Turtle).
+- L89 "the Lich Azorak" → "Acerak".
+- L102 "Folsom goes, I mean not Folsom, Owen Black says…" — speaker is Owen (DM self-correction).
+- L181 "Owen Blackwell" → "Owen Black".
+- PLOT: Owen's betrayal — he sells Folsom to Cain Toli (via Torus); Folsom blinds Owen with the rum and escapes.
+
+## Owen_and_Torus_plan (6th Wealsun)
+- DM interlude (Owen + Torus, DM-voiced); Torus's closing interior monologue kept as DM narration.
+- L11/15 "Kane-Toli's island" → "Cain Toli".
+- L58 "Jameis" → "Jamis"; "Red Shore" → "Redshore".
+- L55 "Redshore's minute arms" → "armsmen / minute-men".
+- CANON: "the gift of Insamiar" (the special draught / poison Owen used) is an addictive drug tied to the Followers of Insamiar — NOT yet in Name_Normalization_Key.md; recommend adding.
+
+## Merrick_Tyrus_and_Gouge_look_for_Folsom (6th Wealsun)
+- "principality / Principalities coins" → "Sea-Principality gold"; L48 "gold points" → "gold coins".
+- L70/126 "Tim Tufts / three Tufts" → DM slang for the hired toughs.
+- "Toli rats" → Torus's Toli hirelings; L203 "sacked outside" → "stacked outside".
+- Tyrus (PC) throughout; the NPC Torus does not appear here.
+
+## Gouge_waits_in_the_dark (6th Wealsun)
+- L63/105 "King Toli / Caintoli" → "Cain Toli".
+- L57 "a Toli, a Toli friend" → Torus.
+- L112 "Rumwood" → the black rum (Toli/Port-Toli rum).
+- L123 "the phone's under protection" → "he's / Folsom's under protection" (ASR).
+- L5 "Terry" = real player name (out-of-band), not a character.
+
+## The Party Waits for Owen's Return (6th Wealsun)
+Speaker-tag character-lock applied (crew registry: DM 00A, Gouge 04A, Merrick 05A, Tyrus 06A, Folsom 07A; no NPC speaks). Class-feature disambiguation: Tyrus=Lay on Hands (190–191), Gouge=Second Wind (fighter, 212–215), Merrick=coastline Expertise (rogue, 171–174), Folsom=first-hand capture account.
+
+ASR / name fixes:
+- "King Tolley" / "Cain Tolley" / "Cain" (47–60) → **Cain Toli**. The DM explicitly corrects at 57–60: there is no King Tolley.
+- "a crater that black we're on" (105) → "a **crate of that black [rum]**" (cf. 195 "that crate of black rum").
+- "Himx comes back" (115) → "**He** comes back."
+- "An N to stay in" (165) → "an **inn** to stay in."
+- "this whole aisle went" (172) → "this whole **isle**."
+- "Shadows, me, said, I'll stay up watching" (204) → "[In the] shadows… I said, I'll stay up watching."
+
+Canon / continuity:
+- Owen's betrayal is now confirmed on-page to the whole party; they name **the artifact** (the Orb) as what Owen/Torus were pressing Folsom about, and that **Tyrus slept through** the earlier reveal (cf. *While Owen Slept*), so he doesn't yet know about it (71 "what artifact?", 73 "you were sleeping").
+- Party decision: **stay** (not flee by sea — slow ship, turtle-dragons at the Dragon Isles), hole up on the **hill above the dock**, light the ship's lanterns as bait/signal, set a two-and-two watch. Sets up the return-to-Redshore watch storyline.
+- **"gift of Insamiar"** entry for `Name_Normalization_Key.md` still pending (recommended from *Owen and Torus Plan*).
+
+## Jude and Leslie Take Shelter (4th Wealsun)
+Speaker-tag character-lock applied (Jude/Paul registry: DM 00A, Jude 01A, Leslie 03A; NPC Ferd = 01B). Very bleed-heavy file — DM and Ferd share raw02; Jude's raw01 carries heavy DM/Ferd bleed. Separated three ways by content.
+
+ASR / name fixes:
+- "walk in deferreds" (68) → "walk in [to] **Ferd's**" (the tavern name garbled).
+- "Black Owen" (243) → **Owen Black** (Ferd corrects in-scene at 244).
+- "Janice" (157) → the thieves'-guild master (name garbled; author to confirm canonical spelling).
+- "the Duke of the Parkhouse" (216) → likely **Duke of Berghof / Plar of Hokar**.
+- "Medio Jungle" (71) → **Amedio**; "Hul Marshes" (71) → **Hool Marshes**.
+
+Canon / continuity:
+- Sets the Paul/Jude thread on the evening of the 4th of Wealsun: Jude and Leslie escape the sewers into Blood Alley (Foreign District) and hole up at Ferd's, a mercenary tavern where Jude keeps a room.
+- Plot threads surfaced (delivered largely as OOC recall, tagged [game mechanics] so nothing is lost): Jude's rogue contact **Gregory** (tasked 2nd Wealsun, due to report 7th) is investigating guild-master **Janice** (8 months in post) for Toli/Scarlet-Brotherhood ties; Gouge's crew and **Owen Black** were in the Harbor District the night a Marine bard sang a politically reckless song.
+- **Cain Toli is not common knowledge** in-world (DM ruling, 189) — Jude declines to start a Toli rumor.
+- The tavern's cheap whiskey is a **nerve-deadening poison**; Leslie the alchemist identifies it and refuses.
+- **OOC name-slip (297):** the masked man Jude references is **Paul**; keep him "the masked man" in Jude's in-scene dialogue.
+
+Split candidate (not applied, flagged): 336 "Jude says, I need a trance." (DM frame + Jude quote on one line).
+
+### Jude and Leslie Take Shelter — author review round 1 (corrections)
+Re-tags: 66, 86, 88, 98 → Leslie (03A); 113 → Ferd (01B); 114, 251 → Jude (01A).
+Body edit: 276 → "I got plenty of brain cells, but I want more, not less." (Leslie).
+Ferd-garble body edits (author ruling that ASR "her/hers/deferred" = Ferd): 43 & 44 "hers" → "Ferd's"; 68 "walk in deferreds" → "walk in to Ferd's"; 69 "I nod deferred" → "I nod to Ferd"; 79 "walk up to her" → "walk up to Ferd". Line 124 "her" left unchanged (a real female — the masked attacker). Added "her/hers/deferred → Ferd/Ferd's" to Name_Normalization_Key guidance for this speaker.
+
+## Leslie Ponders His Future (4th Wealsun)
+Speaker-tag character-lock applied (DM 00A, Leslie 03A). ENTIRELY out-of-character: Leslie's player and the DM plan his character build. No in-scene roleplay — 67 lines tagged [game mechanics], 4 lines [out-of-band].
+
+Notes:
+- "Ryan" (7) = the DM's real name (OOC); not a character.
+- Character direction (reference only): Leslie is a level-2 transmuter aiming for the Inventor + Alchemist feats (levels 4 and 8); wants to bring an industrial revolution — a factory/brand, hiring inventors. Starts with 10 gold from his late master Albashon, whose shop of knowledge/materials he intends to explore (sets up the next scene).
+- [out-of-band] 64-67 = real-world pencil interruption.
+- Place names (OOC): Greyhawk City, Gratzel, "Iola Drah" (ASR; author to confirm), Monmurg.
+
+## Paul Waits for Jude (5th Wealsun)
+Speaker-tag character-lock applied (DM 00A, Paul 02A; NPCs: palace guard 01B, servant 02B — numbered by appearance). Two diarizer voices; DM voices both NPCs. 6 lines [game mechanics], 4 [out-of-band].
+
+Canon / continuity:
+- The six non-responsive captives are drug-addled and "dreaming" (16-22, 61-63); one mutters "the dragon, the dragon" (74). Strongly reads as the Insamiar drug-rite (the black-dragon "Blessing"/"gift of Insamiar"; cf. worldbuilding/Insamiar_the_Black.md) — ties the Scarlet-Brotherhood raiders to that cult/drug. Flagged for author.
+- Paul jails the suspects (two dangerous SB members in the most secure cells, five armed guards); releases the six drugged ones ("catch and release"); keeps the two for later; reads a book on torture to prepare. Jude arrives at the front gate at the end (sets up Jude_reports_to_Paul / the interrogation scenes).
+
+Normalizations / flags:
+- "methed out" (60) → "drugged / drugged senseless" in prose (Paul's modern phrasing).
+- [out-of-band] 110-113 = modern-reference jokes about the torture book ("A Noob's Guide," "Torture for dummies"); the book itself is a real in-story item.
+- Split candidates left merged (flagged in cast mapping): 26, 44. Embedded prisoner mutter at 74 kept in DM narration.
+
+## Jude and Leslie Return to the Lab (5th Wealsun)
+Speaker-tag character-lock applied (DM 00A, Jude 01A, Leslie 03A; NPCs: shop-cordon sergeant 01B, north-gate guard 02B — by appearance). Three voices, bleed-heavy. 5 lines [game mechanics], 0 out-of-band.
+
+ASR / name fixes:
+- "Paul Ribeiro" / "Paul Rivero" / "Paul Rivera" (115-124, 149, 185) → **Paul Revero**.
+- "1 p.m. in the morning" (8, also 50, 62, 107) → **1 a.m.**
+- "the Palix District" (89) / "Upper City" (94) → the palace/Upper-City guard (author to confirm "Palix" district name).
+- "red-eye black rum" (49) → red-eye / black rum (Ferd's stock).
+
+Canon / continuity:
+- ~1 a.m., 5th Wealsun: Jude wakes Leslie and they go to check the burned alchemist shop. Jude fears he torched it with fire spells during the raid; Leslie recalls his master bleeding black ooze from his eyes (assassin's poison).
+- Shop is cordoned by five Upper-City guardsmen; a sergeant refuses passage and won't help reach Paul Revero ("a prince of the city"). Jude opts to fetch Paul from the palace rather than risk the Warrens.
+- At the north gate (~1:30 a.m.) a guard recognizes Jude as "the wizard" (who trains Paul) — sets up Jude reuniting with Paul (Jude_reports_to_Paul).
+- Worldbuilding: the "Row of the Gods" — rented foreign temples + hawkers + a red-light strip in the Foreign District. (The "pharaoh"/"Vestal Virgins" lines are real-world analogies for flavor, not literal.)
+
+Flags: guard frame+quote lines 113, 124 kept on the NPC tag (split candidates); 189 "Let him see me" garbled (attributed to gate guard); 82-83 possible solicitor NPC (kept as Jude); 110 "Jude, we're just walking past" attributed to Leslie (vocative).
+
+### Jude and Leslie Return to the Lab — author review round 1 (corrections)
+- 115 re-tagged Jude (01A) → guard (01B); body "Order Paul Ribeiro." → "Order of Paul Revero." (sergeant citing whose order closed the area).
+- Body edits: 8 "1 p.m. in the morning" → "1 am in the morning"; 89 "Palix District" → "Palace District"; 91 "You walked over some kind of an anthill." → "Kicked over some kind of an anthill."
+- Remaining Paul-name garbles (116 "Ribeiro", 124 "Rivero", 149/185 "Rivera") left as raw record; normalize to Paul Revero in prose.
+
+## Jude Reports to Paul (5th Wealsun)
+Speaker-tag character-lock applied (DM 00A, Jude 01A, Paul 02A, Leslie 03A; NPC servant 01B). EXCEPTIONALLY bleed-heavy — Paul (raw01) and Jude (raw02) trade tags constantly; separated by content. 11 lines [game mechanics], 8 [out-of-band]. PC ID anchors: Paul recounts going to HIS palace for HIS books + holds the prisoners (raw01); Jude reports the raid/master's death + wants to interrogate (raw02).
+
+Canon / continuity (important):
+- The GIFT OF INSAMIAR is named on-page (84-88): the poison that killed Albashon (black fluid from the eyes), distinct from his physical wound. Matches the author ruling (poison; dragon-origin a rumor). Cross-ref worldbuilding/Insamiar_the_Black.md.
+- The dying master's "I know what Paul needs" = the ANTI-SAHAUGIN POWDER (98-104), tied to Paul's face; Jude can't recreate it from memory — raises stakes on recovering the burned shop's contents (magicked firebox). Cross-ref worldbuilding/The_Anti-Sahaugin_Powder.md.
+- A female Scarlet-Brotherhood captive is held in Paul's dungeon (likely the masked raid attacker) — interrogation target for the next scenes. Party heads down to the dungeons at the end.
+
+ASR / name fixes:
+- "Paul Rivero" / "Paul Rivera" (5,7,25,245) -> Paul Revero.
+- "Prince Jean's" (2) -> Prince Jeon's.
+- "the fifth of the well sun" (1) -> the 5th of Wealsun.
+- "Scarlet of the Brotherhood" / "Skrull Brotherhood" (61,138,160) -> Scarlet Brotherhood.
+- "Absalon's Methods of Torture" (7) = the torture manual (confirm canonical spelling).
+
+Flags: severe Paul/Jude bleed (needs full author scan); Leslie's babble sometimes on other tags (63-66, 196-200, 245-248); Rodiger confusion (173-178); mixed lines left merged (78, 206). [out-of-band] 249-255 = Canada/Keoland real-world riff; 281 = "pizza".
+
+### Jude Reports to Paul — author review round 1 (corrections; file now 283 lines)
+- Re-tags to Paul (02A): 32, 63, 64, and old-74 "I believe I did" (now line 75).
+- Re-tag to Leslie (03A): 69 "Uh, blame Jude for that."
+- Split at 73: "Well, I mean... Oh, I did grab the body, yes." -> 73 "Well, I mean..." (Jude 01A) + 74 "Oh, I did grab the body, yes." (Paul 02A). Later lines shift +1.
+- Body edits: 52 "my boy" -> "my guardsmen" (Paul is with his guardsmen, sees the fireball, knows it's Jude); 56 "It's an alchemy show." -> "It's a fireworks show."; 234 (old 233) -> Leslie 03A: "No, red is your favorite color, you just don't know it yet."; 248 (old 247) -> "Right. Like it matters you are a prince."
+
+## Jude and Paul Interrogate Prisoners (5th Wealsun)
+Speaker-tag character-lock applied (DM 00A, Jude 01A, Paul 02A, Leslie 03A; NPCs: jailer/guard 01B, female prisoner 02B). Bleed-heavy on PC tags. 4 lines [game mechanics], 4 [out-of-band].
+
+Canon / continuity:
+- THE TRANSFORMED = YUAN-TI (7-22): the captured Scarlet-Brotherhood agents are people transmuted into snake-people (fangs, slit eyes, scales) by eastern transmuters to serve as slaves; Albashon had described them. Significant reveal about the Brotherhood's agents. (No dedicated Yuan-ti worldbuilding file yet — recommend one.)
+- FANG-VENOM (94, 189-197): Jude milks a pale-green toxin from the prisoners' fangs as a working poison sample, tied to the alchemist's murder / the Gift of Insamiar thread. Author to confirm whether this snake-venom IS the Gift of Insamiar or a related toxin.
+- Female prisoner curses in Ancient Suel ("You've failed, you foolish elf") - Suel/Brotherhood link.
+
+ASR / name fixes:
+- "Paul Ribeiro" (1) -> Paul Revero; "Walesun" (1) -> Wealsun.
+- "the Yontai" (20) -> the Yuan-ti; "Ancient Soul" (65) -> Ancient Suel; "Absalon" (19) -> Albashon; "a nit check" (13) -> int/knowledge check.
+- "Dr. Mangala" (122) = real-world ref (~Dr. Mengele); recast or cut for prose.
+
+Flags: does the male prisoner speak? Line 70 "The alchemist is dead." attributed to Jude (could be the male prisoner -> would need 03B). Combined frame+quote lines 56/65/129 kept on NPC tags (split candidates). Garbled table cross-talk 174-179 (178 "Dude, wake up" = OOB). [out-of-band] 91/93 = "Pokemon catcher" (the man-catcher pole is a real item).
+
+### Jude and Paul Interrogate Prisoners — author review round 1 (corrections)
+- 110 "Who can lift a 50-ton block?" re-tagged Leslie (03A) -> Jude (01A).
+- Body edits: 44 "tries to sit in her face" -> "tries to study her face"; 69 "I look at the mail" -> "I look at the male".
+- Confirmed no change: 77 Jude asking Paul; 121 "Workers." = Leslie.
+
+## Jude and Paul Interrogation (cont.) (5th Wealsun)
+Speaker-tag character-lock applied. NOTE different diarizer layout than the prior file: raw00=Leslie(03A), raw01=DM(00A)+male prisoner(01B), raw02=Paul(02A), raw03=Jude(01A). Very bleed-heavy; prisoner separated from DM by content. 21 lines [game mechanics], 1 [out-of-band].
+
+Canon / continuity (major):
+- Insamiar = ancient black dragon; the Yuan-ti snake-cult (Scarlet Brotherhood) worships it and takes snake-form VOLUNTARILY to "hear the dragon." Ties Brotherhood -> Insamiar. (Recommend a Yuan-ti worldbuilding file; cross-link Insamiar_the_Black.md.)
+- The Gift of Insamiar = "a liquid from the dragon's self," causing insanity / "complete clarity" / "passage into consciousness." On-page CULT assertion of dragon-origin (author ruling: treat as in-world claim/rumor). Fang-venom + "Samovar/Insamiar Plague" ("Black Plague in the marshlands") are this thread. "the Negrado" (160) = the nigredo (alchemical blackening).
+- Motive for Albashon's murder: he was developing a COUNTER to the Gift (to abrogate its effects / ease the afflicted before the war); Brotherhood killed him to stop it, and to stop Paul recreating the anti-sahaugin powder ("the powder Cain Toli took from the Helm"). Cross-ref The_Anti-Sahaugin_Powder.md.
+- JUDE-CORRUPTION foreshadowing: the prisoner marks Jude (an elf, "colder eyes than the others") as susceptible to the Gift / hearing the dragon's call; "in time he will fall and succumb." Thread to watch.
+
+ASR / name fixes:
+- Samyar/Insigniar/Nsemiar/Samiar/Samovar/"Gift of Insanity" -> Insamiar / Gift of Insamiar / Insamiar Plague.
+- "the Negrado" (160) -> the nigredo. "Sewell"/"Sewell Brotherhood" -> Scarlet Brotherhood / Suel (by context).
+- "Kane Toli" (377) -> Cain Toli; "Paul Ribeiro" (4,368) -> Paul Revero; "the Helm" -> Helm Island; "white/yellow powder" -> anti-sahaugin powder; "fifth of Whale's son" (1) -> 5th of Wealsun.
+- "Dave" (69, OOB) and "Tom" (216) = real player names; drop in prose.
+
+Flags: prisoner/DM split on raw01 needs verification (esp. 225-232, 254-263, 286-291, 349-387); base PC mapping (raw02=Paul, raw03=Jude); 273-280 "I am the book" riff left on Paul (possible OOB); guard's lone reply (32) folded into DM narration; female prisoner does not speak here.
+
+### Jude and Paul Interrogation (cont.) — author review round 1 (corrections)
+- 69 NOT out-of-band: Paul (02A) "Come on, Jude" (reasoning with Jude). "Dave" = misheard "Jude". File now has zero out-of-band lines.
+- 216 "a fork, Tom?" -> "a forked tongue." ("Tom" = misheard "tongue", not a real name). Both earlier "real player name" flags were garbles.
+- Re-tags: 136 -> Paul (02A, repeating "Insamiar"); 161 ("What's that?") -> Leslie (03A, alchemy); 273-280 ("I am the book...") -> Leslie (03A); 298 ("A cheap slave") -> Leslie (03A); 243 ("Then he lets on") -> DM (00A) narration.
+- Body edits: 131 -> "It is Insamiar's call."; 135 -> "Insamiar."; 136 -> "Insamiar."; 240 -> "...a very cold crowd."; 318 -> "The guard brings you a spoon."
+
+## Jude and Paul Confer (5th Wealsun)
+Speaker-tag character-lock applied. Diarizer layout: raw00=DM(00A), raw01=Leslie(03A), raw02=Paul(02A), raw03=Jude(01A). No NPCs. Bleed-heavy comedic negotiation. 0 game mechanics, 8 [out-of-band].
+
+Canon / continuity:
+- Albashon's hidden "knowledge box": a stone secret compartment UNDER HIS BED holding gold/silver and his notes/recipes - incl. material on the Gift/Insamiar "black plague" and the anti-sahaugin powder. Party's next objective: return to the burnt shop to open it.
+- Leslie treated as Albashon's heir/inheritor; his mass-production/inventor ambition ("Leslie the Great," CEO, factory) folded into the deal for the powder's manufacture (Paul offers lab/tower/funding/proprietorship, backed by royal family).
+- Monmurg = richest city in the Flanaess; Paul's uncle = richest man in it (211-212).
+- "Toothless" = party nickname for the de-fanged male Yuan-ti prisoner.
+
+ASR / name fixes:
+- "5th of Whale Sun" (1) -> 5th of Wealsun; "the Flaness" -> the Flanaess; "sahuagin" -> sahaugin.
+
+Flags: bleed-heavy; firebox exchange 8-21 tangled (10->Leslie, 11-17->Jude, 18-20->Paul); DM tag carries Paul/Leslie bleed (40-44->Paul, 23->Leslie); Paul lines on Jude tag (18-20, 207-209, 84). [out-of-band] 50-53 (OOC "brainwash this kid... hypotheticals") and 249-252 ("third Gatorade" table banter).
+
+## Jude, Paul and Leslie Collect the Alchemy Tomes (5th Wealsun)
+Speaker-tag character-lock applied. Diarizer layout: raw00=DM(00A), raw01=Leslie(03A), raw02=Jude(01A), raw03=Paul(02A). NPC: guard 01B. Bleed-heavy. 18 lines [game mechanics], 1 [out-of-band].
+
+Canon / continuity (important):
+- PAUL'S ORIGIN stated on-page (275-276): "a disfigured bastard son of the dead sister of Prince Jeon - still wealthy." Confirms Paul = disfigured, illegitimate nephew of Prince Jeon.
+- PAUL'S SECRET LAB: a concealed door in his closet -> cliff-side tunnels/guard-rooms with arrow slits over the bay (old pirate-era fortification, "long forgotten") -> a hidden apartment + laboratory. New location; worldbuilding note recommended.
+- Albashon's research = ~3 books, ~8 scrolls, potions in a stone box opened only by a secret master-apprentice cipher/word ONLY LESLIE knows. Lord Jamis tasked Paul with finding the anti-sahaugin powder recipe; giving the research to Lord Jamis floated and REJECTED.
+- Jude recaps the shop attack (105-129): knock ~15-20 min after Paul left, master stabbed in the face + poisoned ("that black dragon, Sam[iar]"=Insamiar), Jude dragged him, found the hidden assistant (Leslie), cast wall of fire, escaped via sewers; master died of the poison not the wound.
+
+ASR / name fixes:
+- "Prince John" (275) -> Prince Jeon; "Lord Jameis" (230,234) -> Lord Jamis.
+- "tensor's floating desk/disc" -> Tenser's Floating Disc; "the cantrips light" -> the Light cantrip.
+- "Avenue of the Gods" (84) -> Row/Avenue of the Gods; "that black dragon, Sam, whatever" (122) -> Insamiar; "the Burbell" (88) uncertain (author to confirm); "sahuagin" -> sahaugin.
+
+Flags: bleed-heavy; Paul lines on DM tag (280,283,289,322,391-392) reassigned to Paul; Leslie bodyguard/CEO (359-361) + fake-fire riff (385-386) reassigned to Leslie; 8-11 female-caster (10-11 could be Jude); 31 guard "what about feeding, sir?" (01B); 32/35-36 -> Jude (could be Paul); 234 mixed Jude/Paul. [out-of-band] 338 = DM "I'm going to have so much fun writing this."

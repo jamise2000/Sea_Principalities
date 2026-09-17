@@ -1,0 +1,7 @@
+# Cast for Marines_shelter_in_guard_tower_2nd_Wealsun
+# Expected voices: 5
+DM
+Merrick
+Gouge
+Tyrus
+Folsom

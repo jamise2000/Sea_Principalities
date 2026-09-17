@@ -1,0 +1,5800 @@
+1
+00:00:01,266 --> 00:00:01,786
+[SPEAKER_00]: Battle and bar.
+
+2
+00:00:01,806 --> 00:00:02,527
+[SPEAKER_00]: Obviously no shields.
+
+3
+00:00:03,588 --> 00:00:04,449
+[SPEAKER_01]: Alright, roll my nash.
+
+4
+00:00:06,771 --> 00:00:08,933
+[SPEAKER_01]: Damn, I just had to go... Who?
+
+5
+00:00:08,993 --> 00:00:09,333
+[SPEAKER_01]: I'm excited.
+
+6
+00:00:09,693 --> 00:00:09,793
+[SPEAKER_01]: Oh.
+
+7
+00:00:10,454 --> 00:00:11,154
+[SPEAKER_00]: Gouge.
+
+8
+00:00:11,234 --> 00:00:16,039
+[SPEAKER_00]: Okay, I'm sorry, I'm back on... What is it?
+
+9
+00:00:16,199 --> 00:00:16,639
+[SPEAKER_00]: Tyrus.
+
+10
+00:00:16,739 --> 00:00:17,380
+[SPEAKER_00]: Second edition?
+
+11
+00:00:19,081 --> 00:00:20,562
+[SPEAKER_00]: Second edition.
+
+12
+00:00:20,602 --> 00:00:21,063
+[SPEAKER_00]: Initiative?
+
+13
+00:00:21,884 --> 00:00:22,124
+Yes.
+
+14
+00:00:23,090 --> 00:00:25,551
+[SPEAKER_00]: I rolled a 9, plus my dexterity, right?
+
+15
+00:00:25,571 --> 00:00:26,291
+[SPEAKER_03]: Dexterity bonus.
+
+16
+00:00:26,331 --> 00:00:27,572
+[SPEAKER_03]: Go more to the middle.
+
+17
+00:00:27,992 --> 00:00:29,873
+[SPEAKER_03]: Straight up, straight up right there.
+
+18
+00:00:29,893 --> 00:00:31,393
+[SPEAKER_03]: Yeah, so it's plus 2.
+
+19
+00:00:31,453 --> 00:00:31,594
+[SPEAKER_03]: 11.
+
+20
+00:00:31,614 --> 00:00:32,034
+[SPEAKER_03]: Merrick?
+
+21
+00:00:32,294 --> 00:00:32,834
+[SPEAKER_00]: You have a plus 3.
+
+22
+00:00:32,854 --> 00:00:33,494
+[SPEAKER_00]: It's no longer a six-sided.
+
+23
+00:00:53,770 --> 00:00:54,310
+[SPEAKER_01]: Seven.
+
+24
+00:00:54,550 --> 00:00:57,271
+[SPEAKER_01]: Seven plus three is ten.
+
+25
+00:00:57,451 --> 00:00:57,671
+[SPEAKER_00]: Yep.
+
+26
+00:00:58,391 --> 00:00:59,571
+[SPEAKER_00]: The men get...
+
+27
+00:01:00,651 --> 00:01:01,211
+[SPEAKER_00]: There's eight of them.
+
+28
+00:01:02,051 --> 00:01:02,672
+[SPEAKER_01]: Eighteen.
+
+29
+00:01:02,732 --> 00:01:03,252
+[SPEAKER_01]: Wonderful.
+
+30
+00:01:05,232 --> 00:01:05,532
+[SPEAKER_01]: Twenty.
+
+31
+00:01:06,292 --> 00:01:07,012
+[SPEAKER_01]: And he gets...
+
+32
+00:01:09,173 --> 00:01:10,073
+[SPEAKER_01]: I'll just put guy.
+
+33
+00:01:12,573 --> 00:01:12,833
+[SPEAKER_01]: Two.
+
+34
+00:01:12,953 --> 00:01:13,293
+[SPEAKER_01]: Two.
+
+35
+00:01:14,214 --> 00:01:15,094
+[SPEAKER_01]: So, four.
+
+36
+00:01:16,394 --> 00:01:16,734
+[SPEAKER_02]: All right.
+
+37
+00:01:17,234 --> 00:01:18,034
+[SPEAKER_01]: So they go first.
+
+38
+00:01:20,195 --> 00:01:22,395
+[SPEAKER_01]: This guy runs to here and attacks him.
+
+39
+00:01:23,504 --> 00:01:27,186
+[SPEAKER_01]: Tyrus, and actually these guys are gonna run up here.
+
+40
+00:01:30,307 --> 00:01:32,628
+[SPEAKER_00]: Oh, actually apparently I did not drop my...
+
+41
+00:01:32,928 --> 00:01:35,610
+[SPEAKER_00]: I'm gonna be fighting with my alien.
+
+42
+00:01:37,350 --> 00:01:38,631
+[SPEAKER_00]: Tyrus, guy tries to grapple you.
+
+43
+00:01:38,671 --> 00:01:41,172
+[SPEAKER_01]: What's your AC?
+
+44
+00:01:53,185 --> 00:01:55,546
+[SPEAKER_03]: AC is 16 without my shield on.
+
+45
+00:01:55,726 --> 00:01:56,827
+[SPEAKER_03]: AC is 16.
+
+46
+00:01:56,887 --> 00:01:57,667
+[SPEAKER_03]: Here's his attack.
+
+47
+00:01:58,928 --> 00:01:59,448
+[SPEAKER_01]: Four.
+
+48
+00:01:59,528 --> 00:02:00,168
+[SPEAKER_01]: Does not do it.
+
+49
+00:02:00,208 --> 00:02:03,950
+[SPEAKER_01]: This guy tries to grab onto you.
+
+50
+00:02:03,970 --> 00:02:04,030
+[SPEAKER_00]: 17.
+
+51
+00:02:04,991 --> 00:02:07,312
+[SPEAKER_00]: Gets his hands on your shoulders from behind.
+
+52
+00:02:09,093 --> 00:02:14,755
+[SPEAKER_01]: This guy attacks you with advantage because you're grappled with a club.
+
+53
+00:02:15,056 --> 00:02:15,756
+[SPEAKER_01]: Here's the attack.
+
+54
+00:02:17,117 --> 00:02:17,417
+[SPEAKER_01]: Four.
+
+55
+00:02:19,307 --> 00:02:23,249
+[SPEAKER_01]: Ten, four, it's fourteen, it goes off your shoulder.
+
+56
+00:02:24,009 --> 00:02:25,189
+[SPEAKER_01]: Does not affect you.
+
+57
+00:02:25,750 --> 00:02:26,130
+[SPEAKER_01]: Gouge.
+
+58
+00:02:31,032 --> 00:02:35,133
+[SPEAKER_01]: Here, here, right there, and here.
+
+59
+00:02:36,274 --> 00:02:38,055
+[SPEAKER_01]: This guy tries to grapple you, what's your essay?
+
+60
+00:02:38,815 --> 00:02:40,896
+[SPEAKER_01]: Sixteen, but I think that's probably with shield.
+
+61
+00:02:43,051 --> 00:02:46,313
+[SPEAKER_01]: Your leather armor... What's your leather armor?
+
+62
+00:02:46,414 --> 00:02:47,334
+[SPEAKER_01]: Plus four leather armor?
+
+63
+00:02:47,615 --> 00:02:48,075
+[SPEAKER_01]: Hide armor?
+
+64
+00:02:48,696 --> 00:02:53,140
+[SPEAKER_01]: So it's 12 plus your X-30 is 19 right now.
+
+65
+00:02:53,200 --> 00:03:00,146
+[SPEAKER_01]: No, it's 16 because it's plus four with the shield, you're 18.
+
+66
+00:03:00,166 --> 00:03:01,827
+[SPEAKER_01]: 12 plus four is 16.
+
+67
+00:03:02,428 --> 00:03:03,369
+[SPEAKER_01]: So here's the grapple.
+
+68
+00:03:04,822 --> 00:03:06,803
+[SPEAKER_01]: 18, grabs onto you.
+
+69
+00:03:07,484 --> 00:03:09,565
+[SPEAKER_01]: This guy tries to hit you with a club.
+
+70
+00:03:10,506 --> 00:03:11,426
+[SPEAKER_01]: Two, miss.
+
+71
+00:03:11,546 --> 00:03:12,947
+[SPEAKER_01]: This guy tries to hit you with a club.
+
+72
+00:03:13,568 --> 00:03:14,428
+[SPEAKER_01]: Four, miss.
+
+73
+00:03:25,555 --> 00:03:26,235
+[SPEAKER_02]: The armor class?
+
+74
+00:03:26,335 --> 00:03:26,695
+[SPEAKER_01]: Mm-hmm.
+
+75
+00:03:27,476 --> 00:03:28,236
+[SPEAKER_02]: Uh, seventeen.
+
+76
+00:03:28,856 --> 00:03:29,256
+[SPEAKER_02]: Seventeen.
+
+77
+00:03:30,057 --> 00:03:31,137
+[SPEAKER_02]: I think it says fifteen in parentheses.
+
+78
+00:03:31,197 --> 00:03:31,577
+[SPEAKER_01]: Seven.
+
+79
+00:03:31,877 --> 00:03:32,338
+[SPEAKER_02]: So it's fifteen.
+
+80
+00:03:32,358 --> 00:03:33,198
+[SPEAKER_02]: Grapple misses.
+
+81
+00:03:33,378 --> 00:03:34,158
+[SPEAKER_02]: Happy with the shield.
+
+82
+00:03:34,779 --> 00:03:35,739
+[SPEAKER_02]: Oh, so fifteen.
+
+83
+00:03:36,679 --> 00:03:37,860
+[SPEAKER_02]: Is fifteen without a shield?
+
+84
+00:03:38,220 --> 00:03:38,460
+[SPEAKER_02]: Yes.
+
+85
+00:03:38,480 --> 00:03:38,700
+[SPEAKER_02]: Yeah.
+
+86
+00:03:38,760 --> 00:03:39,501
+[SPEAKER_02]: Okay, so fifteen.
+
+87
+00:03:39,701 --> 00:03:40,701
+[SPEAKER_02]: Or do I have my shield out?
+
+88
+00:03:40,961 --> 00:03:41,761
+[SPEAKER_01]: You don't have it out yet.
+
+89
+00:03:41,781 --> 00:03:42,001
+[SPEAKER_01]: Okay.
+
+90
+00:03:42,262 --> 00:03:42,642
+[SPEAKER_02]: Okay.
+
+91
+00:03:42,802 --> 00:03:43,902
+[SPEAKER_01]: This guy tries to attack you.
+
+92
+00:03:45,263 --> 00:03:45,503
+[SPEAKER_01]: Eight.
+
+93
+00:03:46,223 --> 00:03:46,583
+[SPEAKER_01]: Miss.
+
+94
+00:03:46,723 --> 00:03:48,184
+[SPEAKER_01]: This guy tries to grapple you.
+
+95
+00:03:48,904 --> 00:03:49,464
+[SPEAKER_01]: Sixteen.
+
+96
+00:03:49,624 --> 00:03:50,585
+[SPEAKER_01]: Gets his hands on you.
+
+97
+00:03:50,605 --> 00:03:50,885
+[SPEAKER_01]: Okay.
+
+98
+00:03:51,925 --> 00:03:52,926
+[SPEAKER_01]: These two guys...
+
+99
+00:03:55,255 --> 00:03:58,216
+[SPEAKER_01]: Come to here, and here, and hold actions.
+
+100
+00:04:00,656 --> 00:04:01,636
+[SPEAKER_01]: Um, Guy?
+
+101
+00:04:01,656 --> 00:04:04,697
+[SPEAKER_01]: Guy is four, he's last.
+
+102
+00:04:05,477 --> 00:04:06,377
+[SPEAKER_00]: Tyrus, you're next.
+
+103
+00:04:07,658 --> 00:04:08,038
+[SPEAKER_00]: Alright.
+
+104
+00:04:10,078 --> 00:04:12,439
+[SPEAKER_00]: So, uh... Can you attack with the grapple on?
+
+105
+00:04:12,919 --> 00:04:13,739
+[SPEAKER_00]: Or with hands on?
+
+106
+00:04:13,759 --> 00:04:17,060
+[SPEAKER_01]: Oh yeah, the thing you cannot do is you cannot move.
+
+107
+00:04:17,200 --> 00:04:19,560
+[SPEAKER_00]: Okay, but you can attack your opponent.
+
+108
+00:04:19,620 --> 00:04:20,841
+[SPEAKER_01]: You can attack your opponent.
+
+109
+00:04:23,861 --> 00:04:25,822
+[SPEAKER_03]: So the guy that hit me...
+
+110
+00:04:26,883 --> 00:04:28,384
+[SPEAKER_03]: Grappled you.
+
+111
+00:04:28,404 --> 00:04:31,747
+[SPEAKER_03]: The guy who hit me with the... Club.
+
+112
+00:04:31,887 --> 00:04:32,668
+[SPEAKER_03]: Let's see.
+
+113
+00:04:43,665 --> 00:04:46,106
+[SPEAKER_03]: So you've got to help me remember what I can do with my actions.
+
+114
+00:04:46,146 --> 00:04:55,269
+[SPEAKER_01]: Can I pull... A bonus action can be used to... Actually, during turn, you can always just pull out a weapon.
+
+115
+00:04:56,449 --> 00:05:05,392
+[SPEAKER_01]: A bonus action, with an action, you can attack, and you get one attack per action that you use.
+
+116
+00:05:05,412 --> 00:05:08,033
+[SPEAKER_01]: Do you have bonus actions that you can do?
+
+117
+00:05:08,153 --> 00:05:10,754
+[SPEAKER_01]: I think that you can do things like cast Smites.
+
+118
+00:05:11,054 --> 00:05:13,976
+[SPEAKER_03]: Yeah, I can cast spells with bonus actions.
+
+119
+00:05:14,076 --> 00:05:17,158
+[SPEAKER_03]: Most of them.
+
+120
+00:05:17,719 --> 00:05:19,900
+[SPEAKER_03]: But can I try to break free with a bonus action?
+
+121
+00:05:20,381 --> 00:05:20,561
+[SPEAKER_01]: No.
+
+122
+00:05:20,961 --> 00:05:22,322
+[SPEAKER_03]: Okay, so that has to be an action.
+
+123
+00:05:22,342 --> 00:05:24,664
+[SPEAKER_01]: That has to be action to break free from a grapple.
+
+124
+00:05:24,684 --> 00:05:27,105
+[SPEAKER_01]: It's going to be an athletics check to athletics check.
+
+125
+00:05:27,125 --> 00:05:28,726
+[SPEAKER_01]: But you can attack while you're grappled.
+
+126
+00:05:28,746 --> 00:05:29,447
+[SPEAKER_01]: You just can't move.
+
+127
+00:05:29,807 --> 00:05:30,268
+[SPEAKER_03]: Right, okay.
+
+128
+00:05:30,768 --> 00:05:32,309
+[SPEAKER_03]: So, as my...
+
+129
+00:05:40,162 --> 00:05:41,123
+[SPEAKER_03]: Bonus action.
+
+130
+00:05:43,465 --> 00:05:53,233
+[SPEAKER_03]: I believe that the Champion Challenge is a bonus action.
+
+131
+00:05:55,335 --> 00:05:55,915
+[SPEAKER_03]: Let's see.
+
+132
+00:05:56,075 --> 00:06:00,619
+[SPEAKER_03]: Champion Challenge.
+
+133
+00:06:05,452 --> 00:06:06,112
+[SPEAKER_03]: Those are my spells.
+
+134
+00:06:06,873 --> 00:06:11,555
+[SPEAKER_03]: I believe I can use that as a bonus action.
+
+135
+00:06:11,675 --> 00:06:17,478
+[SPEAKER_03]: As a bonus action, you can ensue a challenge that compels other creatures to do battle with you.
+
+136
+00:06:17,538 --> 00:06:24,701
+[SPEAKER_03]: Each creature of your choice that can see you within 30 feet of you must make a wisdom saving throw.
+
+137
+00:06:24,721 --> 00:06:26,462
+[SPEAKER_03]: On a fail, the creature can
+
+138
+00:06:27,422 --> 00:06:30,303
+[SPEAKER_03]: Can't willingly move more than 30 feet away from you.
+
+139
+00:06:30,463 --> 00:06:34,223
+[SPEAKER_03]: This effect ends on the creature if you're capable.
+
+140
+00:06:34,243 --> 00:06:40,344
+[SPEAKER_01]: So with my bonus action... You could do that, or with your bonus action, what's your other skill?
+
+141
+00:06:40,444 --> 00:06:41,164
+[SPEAKER_03]: Turn the tide.
+
+142
+00:06:42,365 --> 00:06:47,045
+[SPEAKER_03]: I can bolster, injure creatures with my channel of energy.
+
+143
+00:06:47,685 --> 00:06:49,306
+[SPEAKER_03]: Or I could do like a smite thing.
+
+144
+00:06:49,706 --> 00:06:50,746
+[SPEAKER_03]: You cast a smite.
+
+145
+00:06:51,026 --> 00:06:51,986
+[SPEAKER_03]: I cast a smite.
+
+146
+00:06:52,166 --> 00:06:53,306
+[SPEAKER_01]: Also, you have a feat.
+
+147
+00:06:53,406 --> 00:06:54,367
+[SPEAKER_01]: What's the feat called?
+
+148
+00:06:54,607 --> 00:06:56,227
+[SPEAKER_01]: It's on the second page, the next page.
+
+149
+00:06:59,371 --> 00:07:01,471
+[SPEAKER_03]: I have Turn the Tide and Champion Challenge.
+
+150
+00:07:02,031 --> 00:07:04,232
+[SPEAKER_01]: Unless... We also have another feat.
+
+151
+00:07:07,073 --> 00:07:07,813
+[SPEAKER_03]: Oh, Squad Leader.
+
+152
+00:07:08,133 --> 00:07:10,654
+[SPEAKER_02]: That's a reaction.
+
+153
+00:07:10,754 --> 00:07:11,454
+[SPEAKER_02]: It's a reaction.
+
+154
+00:07:11,594 --> 00:07:12,554
+[SPEAKER_03]: Okay, that's a reaction.
+
+155
+00:07:12,574 --> 00:07:13,534
+[SPEAKER_03]: Squad Leader's a reaction.
+
+156
+00:07:16,015 --> 00:07:16,815
+[SPEAKER_03]: So I can do that.
+
+157
+00:07:18,616 --> 00:07:19,896
+[SPEAKER_01]: Hey, Gerrick, do you have another one here?
+
+158
+00:07:19,916 --> 00:07:20,016
+[SPEAKER_01]: Yeah.
+
+159
+00:07:20,056 --> 00:07:25,538
+[SPEAKER_03]: Command a warning whenever a non-hospital... From that little fridge, there should be Coors Lights and Medellas.
+
+160
+00:07:25,558 --> 00:07:26,058
+[SPEAKER_03]: ...or roll.
+
+161
+00:07:27,466 --> 00:07:29,827
+[SPEAKER_03]: The creature can add one to four to its roll.
+
+162
+00:07:29,847 --> 00:07:36,151
+[SPEAKER_03]: All right, so I can use a reaction to say...
+
+163
+00:07:41,273 --> 00:07:42,674
+[SPEAKER_03]: So I can use that reaction.
+
+164
+00:07:43,114 --> 00:07:45,856
+[SPEAKER_03]: Oh, that also gives me a plus one to correct me, which actually helps me hit.
+
+165
+00:07:46,796 --> 00:07:53,599
+[SPEAKER_03]: So I can use that reaction and say, kick ass, boys.
+
+166
+00:07:54,020 --> 00:07:54,660
+[SPEAKER_03]: And that would mean...
+
+167
+00:07:57,850 --> 00:08:10,259
+[SPEAKER_03]: That would mean, I could say it to one person, you can utter a special command for warning whenever a non-hospital group, or it could be these two, is within this, can see me from 30 feet, makes an attack roll or a saving throw.
+
+168
+00:08:10,879 --> 00:08:16,083
+[SPEAKER_03]: The creature can add one to four to their roll, provided it could hear and understand.
+
+169
+00:08:20,026 --> 00:08:24,209
+[SPEAKER_01]: So you can say that, but right now, what you should do is your bonus action in action.
+
+170
+00:08:24,229 --> 00:08:25,230
+[SPEAKER_03]: Okay, so...
+
+171
+00:08:27,168 --> 00:08:29,109
+[SPEAKER_03]: But that would be, that's a reaction now.
+
+172
+00:08:30,550 --> 00:08:33,091
+[SPEAKER_01]: Yeah, you could say that for, like, we gouge attacks.
+
+173
+00:08:33,131 --> 00:08:34,152
+[SPEAKER_01]: You could use a reaction.
+
+174
+00:08:34,212 --> 00:08:35,093
+[SPEAKER_01]: I gotcha.
+
+175
+00:08:35,113 --> 00:08:35,693
+[SPEAKER_03]: That's okay.
+
+176
+00:08:36,193 --> 00:08:43,237
+[SPEAKER_03]: So, as my bonus action right now, I'm going to do the Champion's Challenge to the guy.
+
+177
+00:08:43,257 --> 00:08:43,698
+[SPEAKER_03]: This guy.
+
+178
+00:08:43,718 --> 00:08:44,878
+[SPEAKER_03]: To the guy.
+
+179
+00:08:45,419 --> 00:08:46,299
+[SPEAKER_03]: Yeah, guy.
+
+180
+00:08:46,339 --> 00:08:48,300
+[SPEAKER_03]: You can first be a much guy.
+
+181
+00:08:49,641 --> 00:08:51,062
+[SPEAKER_03]: And, um... What do you say?
+
+182
+00:08:52,990 --> 00:08:53,631
+[SPEAKER_03]: Take me in.
+
+183
+00:08:55,532 --> 00:09:03,535
+[SPEAKER_03]: Too much of a pussy to fight me yourself, huh?
+
+184
+00:09:03,835 --> 00:09:05,356
+[SPEAKER_03]: That should make him focus on me.
+
+185
+00:09:05,796 --> 00:09:18,622
+[SPEAKER_01]: So he has to roll a Wisdom Saving Throw against your... Each creature of the choice that you can see within 30 feet must make a Wisdom Throw.
+
+186
+00:09:18,742 --> 00:09:20,283
+[SPEAKER_03]: Each creature, actually, I can say to anybody.
+
+187
+00:09:21,884 --> 00:09:23,225
+[SPEAKER_03]: I'll take you all on, you pussy.
+
+188
+00:09:24,106 --> 00:09:24,686
+[SPEAKER_03]: That's what I would say.
+
+189
+00:09:24,706 --> 00:09:26,168
+[SPEAKER_00]: I'll take you all on, you pussy.
+
+190
+00:09:26,188 --> 00:09:32,673
+[SPEAKER_03]: So each one of them has to make a saving throw on a failed save or they can't willingly move more than 30 feet away from me.
+
+191
+00:09:32,973 --> 00:09:33,274
+[SPEAKER_03]: Okay.
+
+192
+00:09:33,894 --> 00:09:36,516
+[SPEAKER_03]: It means they can't flee or anything like that.
+
+193
+00:09:37,657 --> 00:09:41,180
+[SPEAKER_03]: And this affects ends on creatures, so they want to attack me.
+
+194
+00:09:42,228 --> 00:09:43,629
+[SPEAKER_03]: More than, basically, than anybody else.
+
+195
+00:09:43,669 --> 00:09:44,190
+[SPEAKER_01]: Anybody else.
+
+196
+00:09:44,250 --> 00:09:46,351
+[SPEAKER_01]: And if they attack anybody else, they do so at what?
+
+197
+00:09:46,371 --> 00:09:47,012
+[SPEAKER_01]: Disadvantage?
+
+198
+00:09:47,052 --> 00:09:53,297
+[SPEAKER_03]: It just says the creature is more than, it just doesn't say they have a disadvantage, it just says they want to.
+
+199
+00:09:53,737 --> 00:09:54,297
+[SPEAKER_03]: Okay.
+
+200
+00:09:54,357 --> 00:09:59,641
+[SPEAKER_03]: They're tentative to attack me if they can, like, go deeper into the book.
+
+201
+00:10:03,052 --> 00:10:04,072
+[SPEAKER_03]: No, I think I know what it means.
+
+202
+00:10:04,092 --> 00:10:06,154
+[SPEAKER_01]: If they're going to attack you, they will.
+
+203
+00:10:06,294 --> 00:10:08,355
+[SPEAKER_01]: So I'm going to roll saving throws for these guys.
+
+204
+00:10:08,575 --> 00:10:11,357
+[SPEAKER_01]: Here's this guy's saving throw.
+
+205
+00:10:11,377 --> 00:10:13,498
+[SPEAKER_00]: What's your spell DC?
+
+206
+00:10:14,618 --> 00:10:15,619
+[SPEAKER_01]: Spell DC?
+
+207
+00:10:15,999 --> 00:10:17,100
+[SPEAKER_01]: It's your charisma thing.
+
+208
+00:10:18,120 --> 00:10:20,001
+[SPEAKER_01]: Under spells, what do you got?
+
+209
+00:10:20,342 --> 00:10:21,602
+[SPEAKER_03]: Oh, hang on.
+
+210
+00:10:21,622 --> 00:10:22,443
+[SPEAKER_03]: I'm looking at the wrong one.
+
+211
+00:10:22,483 --> 00:10:24,524
+[SPEAKER_03]: Right there at the top.
+
+212
+00:10:24,544 --> 00:10:26,345
+[SPEAKER_03]: Right here at the top?
+
+213
+00:10:26,425 --> 00:10:26,845
+[SPEAKER_03]: No, no, no.
+
+214
+00:10:26,925 --> 00:10:27,946
+[SPEAKER_03]: Top of the other page.
+
+215
+00:10:28,106 --> 00:10:29,207
+[SPEAKER_03]: The page where your spells are.
+
+216
+00:10:30,254 --> 00:10:33,337
+[SPEAKER_03]: Spell save 14, plus 6.
+
+217
+00:10:33,477 --> 00:10:35,159
+[SPEAKER_03]: Spell attack, well that's my attack on this.
+
+218
+00:10:35,700 --> 00:10:38,843
+[SPEAKER_03]: So save, spell save is 14.
+
+219
+00:10:38,863 --> 00:10:42,126
+[SPEAKER_01]: It has to be a wisdom saving throw that they make, right?
+
+220
+00:10:42,186 --> 00:10:42,447
+[SPEAKER_01]: Correct.
+
+221
+00:10:42,467 --> 00:10:42,987
+[SPEAKER_01]: That's what it says?
+
+222
+00:10:43,007 --> 00:10:43,087
+[SPEAKER_01]: Yep.
+
+223
+00:10:43,287 --> 00:10:43,888
+[SPEAKER_01]: Here's this guy.
+
+224
+00:10:45,750 --> 00:10:48,072
+[SPEAKER_01]: 18, he makes it, so he's not affected.
+
+225
+00:10:48,933 --> 00:10:52,036
+[SPEAKER_01]: This guy makes it, this guy.
+
+226
+00:10:52,056 --> 00:10:53,258
+[SPEAKER_01]: I'm going to just mark the guys that
+
+227
+00:10:54,537 --> 00:10:55,037
+[SPEAKER_01]: Don't make it.
+
+228
+00:10:55,377 --> 00:10:55,798
+[SPEAKER_01]: Makes it.
+
+229
+00:10:56,938 --> 00:10:58,318
+[SPEAKER_01]: This guy.
+
+230
+00:10:58,418 --> 00:10:58,699
+[SPEAKER_01]: No.
+
+231
+00:10:58,979 --> 00:11:01,520
+[SPEAKER_01]: He does not.
+
+232
+00:11:01,680 --> 00:11:02,120
+[SPEAKER_01]: This guy.
+
+233
+00:11:03,440 --> 00:11:03,881
+[SPEAKER_01]: He does.
+
+234
+00:11:03,901 --> 00:11:04,541
+[SPEAKER_01]: This guy.
+
+235
+00:11:05,781 --> 00:11:06,442
+[SPEAKER_01]: He does not.
+
+236
+00:11:07,902 --> 00:11:08,382
+[SPEAKER_01]: This guy.
+
+237
+00:11:10,123 --> 00:11:10,703
+[SPEAKER_01]: He does.
+
+238
+00:11:12,624 --> 00:11:13,144
+[SPEAKER_01]: This guy.
+
+239
+00:11:13,164 --> 00:11:14,885
+[SPEAKER_01]: Does not.
+
+240
+00:11:14,985 --> 00:11:15,485
+[SPEAKER_01]: This guy.
+
+241
+00:11:17,046 --> 00:11:17,606
+[SPEAKER_01]: Does not.
+
+242
+00:11:18,986 --> 00:11:19,486
+[SPEAKER_01]: This guy.
+
+243
+00:11:24,450 --> 00:11:29,334
+[SPEAKER_01]: This guy does not, and then this guy does not.
+
+244
+00:11:29,874 --> 00:11:38,420
+[SPEAKER_03]: All right, so that hopefully will pull their attention to me and allow you guys to have a lot more of a deal.
+
+245
+00:11:38,641 --> 00:11:42,944
+[SPEAKER_03]: So then, now my action is going to be to swing on the guy who hit me.
+
+246
+00:11:43,164 --> 00:11:43,604
+[SPEAKER_03]: This guy?
+
+247
+00:11:43,684 --> 00:11:43,884
+[SPEAKER_03]: Yeah.
+
+248
+00:11:43,904 --> 00:11:44,565
+[SPEAKER_03]: You're going to punch him?
+
+249
+00:11:44,585 --> 00:11:45,185
+[SPEAKER_03]: I'm going to punch him.
+
+250
+00:11:45,486 --> 00:11:46,026
+[SPEAKER_01]: Okay, roll.
+
+251
+00:11:47,927 --> 00:11:48,108
+[SPEAKER_03]: One.
+
+252
+00:11:49,008 --> 00:11:51,130
+[SPEAKER_01]: Okay, roll a dexterity check.
+
+253
+00:11:52,651 --> 00:11:53,051
+[SPEAKER_01]: Four.
+
+254
+00:11:53,352 --> 00:11:53,692
+[SPEAKER_01]: Okay.
+
+255
+00:11:56,234 --> 00:12:02,578
+[SPEAKER_01]: Tyrus punches around, loses his footing, and falls prone right there.
+
+256
+00:12:03,619 --> 00:12:04,179
+[SPEAKER_01]: Okay?
+
+257
+00:12:04,439 --> 00:12:07,241
+[SPEAKER_01]: After he goes, I'm gonna take all you bitches on.
+
+258
+00:12:10,423 --> 00:12:13,045
+[SPEAKER_02]: Whips and then falls plain right there.
+
+259
+00:12:13,825 --> 00:12:14,986
+[SPEAKER_01]: That's his turn.
+
+260
+00:12:15,006 --> 00:12:15,947
+[SPEAKER_01]: Gouge, you're next.
+
+261
+00:12:21,045 --> 00:12:22,266
+[SPEAKER_00]: No, it's Merrick.
+
+262
+00:12:22,746 --> 00:12:23,806
+[SPEAKER_01]: Oh, it is Merrick.
+
+263
+00:12:23,966 --> 00:12:24,447
+[SPEAKER_01]: It is Merrick.
+
+264
+00:12:24,467 --> 00:12:25,387
+[SPEAKER_01]: Merrick, you're next.
+
+265
+00:12:25,927 --> 00:12:27,228
+[SPEAKER_02]: So yeah, I'm grappling on right now.
+
+266
+00:12:27,348 --> 00:12:28,428
+[SPEAKER_02]: Someone's got me.
+
+267
+00:12:30,970 --> 00:12:33,130
+[SPEAKER_02]: So with my action, can I draw my rapier?
+
+268
+00:12:33,831 --> 00:12:35,411
+[SPEAKER_01]: Bonus action, you can pull out your rapier.
+
+269
+00:12:36,472 --> 00:12:45,136
+[SPEAKER_02]: Okay, pull out my rapier and I'm going to try to... Can I try to stab the guy that's got me?
+
+270
+00:12:45,156 --> 00:12:49,978
+[SPEAKER_01]: Yeah, if you want to pull out your blade and then try and do that, you can definitely try to attack him that way.
+
+271
+00:12:51,478 --> 00:12:52,078
+[SPEAKER_02]: Yeah, let's do that.
+
+272
+00:12:53,139 --> 00:12:53,499
+[SPEAKER_01]: Okay.
+
+273
+00:12:53,940 --> 00:12:54,660
+[SPEAKER_02]: Roll your attack.
+
+274
+00:12:56,281 --> 00:12:57,342
+[SPEAKER_01]: Oh, please, buddy.
+
+275
+00:12:59,263 --> 00:12:59,603
+[SPEAKER_02]: Seven.
+
+276
+00:13:00,344 --> 00:13:01,284
+[SPEAKER_02]: Seven plus?
+
+277
+00:13:01,304 --> 00:13:03,085
+[SPEAKER_02]: My rapier is plus six.
+
+278
+00:13:04,466 --> 00:13:06,768
+[SPEAKER_02]: Attack bonus, so... Thirteen?
+
+279
+00:13:07,208 --> 00:13:07,388
+[SPEAKER_01]: Yeah.
+
+280
+00:13:07,828 --> 00:13:08,489
+[SPEAKER_01]: That is a hit.
+
+281
+00:13:10,010 --> 00:13:12,271
+[SPEAKER_01]: Okay, so you pull your sword out like this.
+
+282
+00:13:13,172 --> 00:13:16,794
+[SPEAKER_01]: You're not holding it right, and you jab it into the guy's leg.
+
+283
+00:13:17,094 --> 00:13:17,735
+[SPEAKER_01]: He's behind me.
+
+284
+00:13:17,995 --> 00:13:18,495
+[SPEAKER_01]: Yeah.
+
+285
+00:13:18,535 --> 00:13:19,156
+[SPEAKER_01]: Roll damage.
+
+286
+00:13:20,138 --> 00:13:25,882
+[SPEAKER_02]: 1 die 8 plus... Rapier is 1 die 6 plus 4?
+
+287
+00:13:26,342 --> 00:13:31,366
+[SPEAKER_00]: It's 1 die 6 plus your damage.
+
+288
+00:13:31,386 --> 00:13:31,846
+[SPEAKER_00]: No, no.
+
+289
+00:13:32,146 --> 00:13:33,587
+[SPEAKER_01]: It shouldn't be 1 die 6.
+
+290
+00:13:33,607 --> 00:13:35,369
+[SPEAKER_01]: Let me check that out.
+
+291
+00:13:35,409 --> 00:13:37,450
+[SPEAKER_01]: That might be a mistake.
+
+292
+00:13:37,950 --> 00:13:38,791
+[SPEAKER_01]: I think they're 1 die 8.
+
+293
+00:13:39,271 --> 00:13:40,973
+[SPEAKER_00]: I thought my Cutlass was a 1 die 8.
+
+294
+00:13:41,093 --> 00:13:43,194
+[SPEAKER_01]: No, Cutlass is 1 die 6.
+
+295
+00:13:43,354 --> 00:13:44,195
+[SPEAKER_02]: It's like a big knife.
+
+296
+00:13:48,163 --> 00:13:50,667
+[SPEAKER_02]: My dagger is 1-4.
+
+297
+00:13:51,148 --> 00:13:52,069
+[SPEAKER_01]: That's for sure.
+
+298
+00:13:52,109 --> 00:13:55,354
+[SPEAKER_01]: That's canon, definitely.
+
+299
+00:13:55,615 --> 00:14:01,043
+[SPEAKER_01]: A ring here is... 1-8, piercing.
+
+300
+00:14:01,324 --> 00:14:02,806
+[SPEAKER_01]: It's a finesse weapon, so roll 1-8.
+
+301
+00:14:10,530 --> 00:14:10,830
+[SPEAKER_01]: Six.
+
+302
+00:14:11,170 --> 00:14:12,931
+[SPEAKER_01]: Six plus... Four?
+
+303
+00:14:14,331 --> 00:14:15,271
+[SPEAKER_01]: Ten points of damage.
+
+304
+00:14:16,192 --> 00:14:21,993
+[SPEAKER_01]: Okay, so you stick your blade through his thigh and it comes out the other side.
+
+305
+00:14:24,374 --> 00:14:25,094
+[SPEAKER_01]: What else do you have?
+
+306
+00:14:25,154 --> 00:14:26,294
+[SPEAKER_01]: Do you have anything else to do?
+
+307
+00:14:27,495 --> 00:14:28,835
+[SPEAKER_02]: Bonus action.
+
+308
+00:14:28,855 --> 00:14:32,856
+[SPEAKER_02]: Can I cast a spell for a bonus action or is that an action?
+
+309
+00:14:32,916 --> 00:14:34,197
+[SPEAKER_01]: Some spells take bonus action.
+
+310
+00:14:34,217 --> 00:14:35,557
+[SPEAKER_01]: It can be cast with bonus actions.
+
+311
+00:14:36,697 --> 00:14:37,177
+[SPEAKER_02]: What do you have?
+
+312
+00:14:37,498 --> 00:14:39,019
+[SPEAKER_02]: I have Longstride, can't do that.
+
+313
+00:14:39,159 --> 00:14:40,160
+[SPEAKER_02]: Right, I don't want to do that right now.
+
+314
+00:14:40,721 --> 00:14:42,903
+[SPEAKER_02]: Fogcloud and Hunter's Mark.
+
+315
+00:14:43,403 --> 00:14:45,425
+[SPEAKER_01]: Hunter's Mark, I believe, is a bonus action.
+
+316
+00:14:46,225 --> 00:14:49,989
+[SPEAKER_01]: But that's for... That's for any attacks and also for tracking.
+
+317
+00:14:51,010 --> 00:14:55,594
+[SPEAKER_02]: I have it right here.
+
+318
+00:14:55,854 --> 00:15:01,379
+[SPEAKER_02]: Hunter's Mark, casting one bonus action, range 90 feet, duration up to one hour.
+
+319
+00:15:06,825 --> 00:15:13,727
+[SPEAKER_02]: Okay, I deal an extra 1-6 damage to the target whenever you hit with a weapon attack or you have advantage.
+
+320
+00:15:14,467 --> 00:15:14,987
+[SPEAKER_00]: One target.
+
+321
+00:15:15,187 --> 00:15:16,428
+[SPEAKER_00]: You can mark one person then.
+
+322
+00:15:18,448 --> 00:15:19,528
+[SPEAKER_00]: Okay.
+
+323
+00:15:19,548 --> 00:15:21,329
+[SPEAKER_00]: And you do extra damage to the person.
+
+324
+00:15:21,349 --> 00:15:24,630
+[SPEAKER_01]: Okay, so if you wanted to do that, you should have cast Hunter's Mark first.
+
+325
+00:15:24,650 --> 00:15:24,870
+[SPEAKER_01]: Okay.
+
+326
+00:15:25,250 --> 00:15:26,010
+[SPEAKER_01]: We'll do that next time.
+
+327
+00:15:26,050 --> 00:15:27,751
+[SPEAKER_01]: Which I'll let you do this time.
+
+328
+00:15:28,051 --> 00:15:28,231
+[SPEAKER_01]: Okay.
+
+329
+00:15:28,751 --> 00:15:31,192
+[SPEAKER_01]: And you cast it on that guy, right?
+
+330
+00:15:31,272 --> 00:15:31,492
+[SPEAKER_01]: Sure.
+
+331
+00:15:31,692 --> 00:15:33,792
+[SPEAKER_01]: So you do an extra 1-6 damage to him.
+
+332
+00:15:34,252 --> 00:15:35,993
+[SPEAKER_01]: Oh, you're getting wrecked now, buddy.
+
+333
+00:15:37,471 --> 00:15:38,051
+[SPEAKER_01]: So he's 16.
+
+334
+00:15:38,331 --> 00:15:42,313
+[SPEAKER_02]: I can only cast that once.
+
+335
+00:15:43,273 --> 00:15:44,153
+[SPEAKER_02]: It was just on that guy.
+
+336
+00:15:44,353 --> 00:15:47,454
+[SPEAKER_01]: Well, you use the spell slot, right?
+
+337
+00:15:48,055 --> 00:15:50,836
+[SPEAKER_01]: You can only have 100th mark up at a time.
+
+338
+00:15:51,396 --> 00:15:52,256
+[SPEAKER_01]: It lasts a minute.
+
+339
+00:15:52,536 --> 00:15:56,318
+[SPEAKER_01]: If your guy goes out, you can use a bonus action to switch it to somebody else.
+
+340
+00:15:56,478 --> 00:15:56,678
+[SPEAKER_01]: Yep.
+
+341
+00:15:57,558 --> 00:15:58,778
+[SPEAKER_02]: It says it lasts an hour.
+
+342
+00:15:59,178 --> 00:15:59,959
+[SPEAKER_02]: Oh, yeah.
+
+343
+00:16:00,239 --> 00:16:01,519
+[SPEAKER_02]: So you can just keep switching it.
+
+344
+00:16:01,539 --> 00:16:01,839
+[SPEAKER_02]: Okay, cool.
+
+345
+00:16:02,200 --> 00:16:02,980
+[SPEAKER_03]: As a bonus action.
+
+346
+00:16:03,000 --> 00:16:03,220
+[SPEAKER_02]: Sweet.
+
+347
+00:16:05,015 --> 00:16:06,116
+[SPEAKER_01]: Now it's concentration.
+
+348
+00:16:06,816 --> 00:16:15,241
+[SPEAKER_01]: It doesn't cost any more self-slide, but it's concentration and so if you get knocked out or a lot of damage, you can lose it.
+
+349
+00:16:15,261 --> 00:16:15,641
+[SPEAKER_01]: That's fine.
+
+350
+00:16:16,002 --> 00:16:18,243
+[SPEAKER_01]: Okay, so you've done your thing.
+
+351
+00:16:20,864 --> 00:16:21,144
+[SPEAKER_00]: Now me.
+
+352
+00:16:21,565 --> 00:16:21,965
+[SPEAKER_00]: Now you.
+
+353
+00:16:21,985 --> 00:16:23,486
+[SPEAKER_00]: Let's run over this again.
+
+354
+00:16:25,847 --> 00:16:29,829
+[SPEAKER_00]: Self-perception, sneak attack, can't do any of that from what I'm in.
+
+355
+00:16:29,909 --> 00:16:30,650
+[SPEAKER_00]: Cunning action.
+
+356
+00:16:32,045 --> 00:16:33,428
+[SPEAKER_00]: Assassinate, uncanny dodge.
+
+357
+00:16:33,448 --> 00:16:34,571
+[SPEAKER_00]: I've already got hands on me.
+
+358
+00:16:35,152 --> 00:16:38,520
+[SPEAKER_00]: Expertise, more skill, determination, second one, two-weapon fight.
+
+359
+00:16:38,941 --> 00:16:41,267
+[SPEAKER_03]: I bet you could do sneak attack as long as they weren't...
+
+360
+00:16:44,775 --> 00:16:50,337
+[SPEAKER_01]: No, you can do sneak attack if you're within 5 feet of an ally.
+
+361
+00:16:50,657 --> 00:16:58,280
+[SPEAKER_01]: So if you're standing back-to-back with Tyrus, you can do sneak attack.
+
+362
+00:16:58,500 --> 00:17:01,161
+[SPEAKER_01]: Basically, if he was standing, you could sneak attack that guy.
+
+363
+00:17:02,840 --> 00:17:03,700
+[SPEAKER_00]: Oh, if he was standing.
+
+364
+00:17:03,760 --> 00:17:04,461
+[SPEAKER_01]: If he was standing.
+
+365
+00:17:04,681 --> 00:17:08,463
+[SPEAKER_01]: You can sneak attack that guy, because he's right five feet within...
+
+366
+00:17:08,643 --> 00:17:11,184
+[SPEAKER_00]: He's not attacking me, but I can take him out.
+
+367
+00:17:11,224 --> 00:17:12,605
+[SPEAKER_00]: You can sneak attack him.
+
+368
+00:17:12,925 --> 00:17:13,165
+[SPEAKER_01]: Yes.
+
+369
+00:17:14,205 --> 00:17:16,447
+[SPEAKER_00]: Okay, what about two-weapon fighting?
+
+370
+00:17:17,447 --> 00:17:23,670
+[SPEAKER_01]: Two-weapon fighting means that you can... basically you can attack twice, once with your bonus action.
+
+371
+00:17:24,250 --> 00:17:26,752
+[SPEAKER_00]: So cutlass and axe.
+
+372
+00:17:27,172 --> 00:17:28,512
+[SPEAKER_01]: And axe, yeah.
+
+373
+00:17:28,692 --> 00:17:31,554
+[SPEAKER_01]: As long as it's a light weapon, okay?
+
+374
+00:17:34,252 --> 00:17:42,036
+[SPEAKER_01]: And with two-weapon fighting, what that means is you get to use your strength to add to the damage.
+
+375
+00:17:42,136 --> 00:17:46,458
+[SPEAKER_01]: Normally, when you attack with two weapons, you don't.
+
+376
+00:17:46,959 --> 00:17:47,679
+[SPEAKER_01]: But now you can.
+
+377
+00:17:48,119 --> 00:17:56,604
+[SPEAKER_01]: So you can attack with your action, and then your bonus action, and on both you apply damage normally to both.
+
+378
+00:17:56,864 --> 00:17:58,745
+[SPEAKER_00]: One day four plus six could be up to ten.
+
+379
+00:17:58,845 --> 00:18:00,286
+[SPEAKER_00]: One day six plus five is eleven.
+
+380
+00:18:01,026 --> 00:18:02,087
+[SPEAKER_00]: Actually, probably just both.
+
+381
+00:18:03,288 --> 00:18:08,356
+[SPEAKER_00]: Pull my dagger because it's a better attack bonus by one.
+
+382
+00:18:09,017 --> 00:18:11,380
+[SPEAKER_01]: Alright.
+
+383
+00:18:11,400 --> 00:18:13,463
+[SPEAKER_01]: So you pull out your cutlass and your dagger?
+
+384
+00:18:14,124 --> 00:18:16,127
+[SPEAKER_01]: Yeah.
+
+385
+00:18:16,147 --> 00:18:18,851
+[SPEAKER_01]: And you are going to use your action to attack who?
+
+386
+00:18:22,900 --> 00:18:24,161
+[SPEAKER_01]: I have a sneak attack.
+
+387
+00:18:24,221 --> 00:18:25,081
+[SPEAKER_01]: Have you been grappled?
+
+388
+00:18:26,242 --> 00:18:26,362
+[SPEAKER_00]: Yes.
+
+389
+00:18:26,402 --> 00:18:27,062
+[SPEAKER_00]: You have been grappled.
+
+390
+00:18:27,082 --> 00:18:27,282
+[SPEAKER_00]: Yes.
+
+391
+00:18:27,642 --> 00:18:30,283
+[SPEAKER_00]: So somebody's got their hands on me.
+
+392
+00:18:30,303 --> 00:18:32,004
+[SPEAKER_01]: This guy is on you.
+
+393
+00:18:32,124 --> 00:18:33,524
+[SPEAKER_00]: Okay.
+
+394
+00:18:33,944 --> 00:18:37,006
+[SPEAKER_00]: Would that nullify a sneak attack turning around on that guy?
+
+395
+00:18:38,326 --> 00:18:38,546
+[SPEAKER_00]: No.
+
+396
+00:18:38,986 --> 00:18:39,787
+[SPEAKER_00]: I mean, you could do it.
+
+397
+00:18:40,647 --> 00:18:40,747
+[SPEAKER_00]: Okay.
+
+398
+00:18:40,767 --> 00:18:43,908
+[SPEAKER_00]: Because I can't sneak attack the guys on me.
+
+399
+00:18:44,248 --> 00:18:46,569
+[SPEAKER_01]: No, because they're not within five feet of anybody.
+
+400
+00:18:47,469 --> 00:18:49,690
+[SPEAKER_01]: If Tyrus was standing, you could sneak attack that guy.
+
+401
+00:18:49,710 --> 00:18:49,930
+[SPEAKER_00]: Okay.
+
+402
+00:18:54,277 --> 00:18:58,101
+[SPEAKER_00]: Yeah, I'm gonna go right for that guy with the sneak attack.
+
+403
+00:18:58,642 --> 00:19:07,091
+[SPEAKER_01]: Alright, so you pull your cutlass and dagger out and then you move around with your cutlass to try and slash him.
+
+404
+00:19:07,671 --> 00:19:10,434
+[SPEAKER_01]: Are you gonna use your bonus action to try and stab him?
+
+405
+00:19:11,195 --> 00:19:12,995
+[SPEAKER_01]: You can only do one sneak attack per round.
+
+406
+00:19:13,576 --> 00:19:14,036
+[SPEAKER_00]: Per round.
+
+407
+00:19:14,276 --> 00:19:14,896
+[SPEAKER_00]: Yeah.
+
+408
+00:19:14,996 --> 00:19:16,476
+[SPEAKER_01]: So what's going to be your sneak attack?
+
+409
+00:19:17,537 --> 00:19:19,797
+[SPEAKER_00]: It's going to be my first attack with the Cutlass.
+
+410
+00:19:19,937 --> 00:19:21,317
+[SPEAKER_00]: Okay, on him.
+
+411
+00:19:21,337 --> 00:19:23,278
+[SPEAKER_00]: So what's your plus?
+
+412
+00:19:23,338 --> 00:19:23,858
+[SPEAKER_00]: Plus nine.
+
+413
+00:19:24,158 --> 00:19:24,458
+[SPEAKER_01]: Okay.
+
+414
+00:19:26,499 --> 00:19:27,799
+[SPEAKER_01]: Thirteen plus nine.
+
+415
+00:19:27,899 --> 00:19:28,339
+[SPEAKER_01]: Twenty-two.
+
+416
+00:19:28,479 --> 00:19:29,059
+[SPEAKER_01]: Twenty-two.
+
+417
+00:19:29,179 --> 00:19:29,859
+[SPEAKER_01]: That hits him.
+
+418
+00:19:30,099 --> 00:19:30,500
+[SPEAKER_00]: Okay.
+
+419
+00:19:30,860 --> 00:19:32,820
+[SPEAKER_01]: The damage is going to be...
+
+420
+00:19:33,080 --> 00:19:34,360
+[SPEAKER_01]: There's one die six plus six.
+
+421
+00:19:34,440 --> 00:19:38,401
+[SPEAKER_01]: One die six plus six plus three die six.
+
+422
+00:19:38,521 --> 00:19:40,782
+[SPEAKER_01]: So four die six plus six.
+
+423
+00:19:44,605 --> 00:19:47,066
+[SPEAKER_00]: So that's eight, ten, eleven, seventeen.
+
+424
+00:19:47,346 --> 00:19:50,527
+[SPEAKER_01]: Seventeen points of damage to him.
+
+425
+00:19:54,248 --> 00:19:54,648
+[SPEAKER_01]: Okay.
+
+426
+00:19:55,908 --> 00:19:56,428
+[SPEAKER_01]: Now what?
+
+427
+00:19:57,789 --> 00:19:58,189
+[SPEAKER_01]: Dagger?
+
+428
+00:19:58,849 --> 00:20:00,190
+[SPEAKER_01]: I want to dagger the guy on me.
+
+429
+00:20:00,830 --> 00:20:02,290
+[SPEAKER_01]: Bonus action, you dagger this guy?
+
+430
+00:20:02,510 --> 00:20:02,710
+[SPEAKER_01]: Yeah.
+
+431
+00:20:02,970 --> 00:20:03,210
+[SPEAKER_00]: Okay.
+
+432
+00:20:03,991 --> 00:20:05,631
+[SPEAKER_00]: Which is also plus nine.
+
+433
+00:20:06,771 --> 00:20:07,872
+[SPEAKER_01]: Nineteen plus nine?
+
+434
+00:20:07,892 --> 00:20:08,272
+[SPEAKER_01]: Twenty-eight.
+
+435
+00:20:10,129 --> 00:20:31,005
+[SPEAKER_01]: And remember, you are a fighter, which means you do have second wind, which means that you can add one die ten plus one to your hit points if you use a bonus action, but you can only do that once per shortcut.
+
+436
+00:20:31,165 --> 00:20:31,766
+[SPEAKER_01]: Just remember that.
+
+437
+00:20:31,986 --> 00:20:34,508
+[SPEAKER_01]: Okay, so hit nineteen, that hits him?
+
+438
+00:20:34,768 --> 00:20:35,729
+[SPEAKER_00]: Yep.
+
+439
+00:20:35,849 --> 00:20:37,070
+[SPEAKER_00]: One die four plus six.
+
+440
+00:20:39,101 --> 00:20:40,222
+[SPEAKER_00]: That's your strength bonus too?
+
+441
+00:20:40,802 --> 00:20:41,843
+[SPEAKER_03]: Yeah.
+
+442
+00:20:42,223 --> 00:20:42,924
+[SPEAKER_03]: Dexterity bonus.
+
+443
+00:20:42,944 --> 00:20:48,227
+[SPEAKER_03]: Yeah, but he gets to... Oh yeah, he gets to add his dexterity bonus.
+
+444
+00:20:48,267 --> 00:20:49,408
+[SPEAKER_01]: Because he's got two hits.
+
+445
+00:20:49,468 --> 00:20:51,790
+[SPEAKER_01]: So four, ten points of damage.
+
+446
+00:20:52,830 --> 00:20:53,791
+[SPEAKER_01]: Okay, so...
+
+447
+00:20:56,092 --> 00:20:59,795
+[SPEAKER_01]: Both these guys get horrible wounds from those two dudes.
+
+448
+00:21:01,836 --> 00:21:02,937
+[SPEAKER_01]: And Gouge is done.
+
+449
+00:21:03,357 --> 00:21:03,918
+[SPEAKER_01]: His thing.
+
+450
+00:21:07,609 --> 00:21:19,292
+[SPEAKER_01]: This guy, seeing what you have done, pulls his rapier, walks forward to here, and tries to stab you with his rapier.
+
+451
+00:21:21,492 --> 00:21:21,992
+[SPEAKER_01]: Twenty.
+
+452
+00:21:22,452 --> 00:21:22,632
+[SPEAKER_00]: Eight.
+
+453
+00:21:36,435 --> 00:21:38,617
+[SPEAKER_01]: Nine, ten, eleven points of damage.
+
+454
+00:21:47,725 --> 00:21:49,446
+[SPEAKER_01]: Grappled creature's speed becomes zero.
+
+455
+00:21:49,506 --> 00:21:51,668
+[SPEAKER_01]: It can't benefit from any bonus to its speed.
+
+456
+00:21:52,108 --> 00:21:54,610
+[SPEAKER_01]: The condition ends if the grappler is incapacitated.
+
+457
+00:21:54,650 --> 00:22:00,015
+[SPEAKER_01]: The condition also ends if an effect removes the grappled creature from the reach of the grappler and so on.
+
+458
+00:22:00,495 --> 00:22:03,398
+[SPEAKER_01]: So basically what grappled means is that you cannot move.
+
+459
+00:22:06,365 --> 00:22:07,466
+[SPEAKER_00]: So we've all gone.
+
+460
+00:22:07,747 --> 00:22:08,307
+[SPEAKER_03]: Roll a Nash.
+
+461
+00:22:08,748 --> 00:22:09,649
+[SPEAKER_03]: No initiative round.
+
+462
+00:22:11,190 --> 00:22:11,410
+[SPEAKER_03]: What?
+
+463
+00:22:12,171 --> 00:22:13,693
+[SPEAKER_03]: It might still grapple if I'm on the ground.
+
+464
+00:22:14,573 --> 00:22:14,674
+[SPEAKER_03]: No.
+
+465
+00:22:14,694 --> 00:22:14,854
+[SPEAKER_03]: Okay.
+
+466
+00:22:15,054 --> 00:22:17,296
+[SPEAKER_03]: That's good.
+
+467
+00:22:17,656 --> 00:22:18,557
+[SPEAKER_03]: That's what I wanted to know.
+
+468
+00:22:19,398 --> 00:22:19,839
+[SPEAKER_03]: Initiative.
+
+469
+00:22:21,540 --> 00:22:24,583
+[SPEAKER_03]: Nash, yeah.
+
+470
+00:22:24,623 --> 00:22:24,984
+[SPEAKER_00]: Five.
+
+471
+00:22:28,413 --> 00:22:29,373
+[SPEAKER_00]: All together is five.
+
+472
+00:22:29,794 --> 00:22:30,414
+[SPEAKER_00]: You rolled a one.
+
+473
+00:22:33,475 --> 00:22:35,336
+[SPEAKER_01]: Fifteen plus three, eighteen.
+
+474
+00:22:37,437 --> 00:22:38,117
+[SPEAKER_01]: Twenty-four.
+
+475
+00:22:38,337 --> 00:22:39,037
+[SPEAKER_01]: Twenty-four.
+
+476
+00:22:40,318 --> 00:22:40,958
+[SPEAKER_01]: Twenty-four.
+
+477
+00:22:40,978 --> 00:22:41,778
+[SPEAKER_01]: Beat that big man.
+
+478
+00:22:42,659 --> 00:22:43,199
+[SPEAKER_01]: This guy.
+
+479
+00:22:45,320 --> 00:22:45,920
+[SPEAKER_01]: Nineteen.
+
+480
+00:22:47,320 --> 00:22:48,061
+[SPEAKER_01]: Those are the men.
+
+481
+00:22:48,861 --> 00:22:50,962
+[SPEAKER_01]: Then here's the guy.
+
+482
+00:22:51,382 --> 00:22:52,842
+[SPEAKER_01]: Seventeen, nineteen.
+
+483
+00:22:53,243 --> 00:22:54,063
+[SPEAKER_01]: You want a different die.
+
+484
+00:22:57,347 --> 00:22:59,588
+[SPEAKER_01]: Oh, you're going to let me explain your special dice?
+
+485
+00:23:00,249 --> 00:23:01,369
+[SPEAKER_01]: Your cursed dice?
+
+486
+00:23:01,409 --> 00:23:01,809
+[SPEAKER_00]: Yeah.
+
+487
+00:23:02,370 --> 00:23:05,371
+[SPEAKER_00]: One of the ones from basic set that I got.
+
+488
+00:23:06,152 --> 00:23:06,632
+[SPEAKER_01]: Exactly.
+
+489
+00:23:06,652 --> 00:23:08,633
+[SPEAKER_01]: The weird colored ones look like clay.
+
+490
+00:23:08,713 --> 00:23:09,033
+[SPEAKER_01]: Yeah.
+
+491
+00:23:09,654 --> 00:23:11,275
+[SPEAKER_01]: I put together my clay and my Kermur.
+
+492
+00:23:11,495 --> 00:23:13,696
+[SPEAKER_01]: You got to color them.
+
+493
+00:23:14,716 --> 00:23:15,177
+[SPEAKER_01]: Okay.
+
+494
+00:23:15,517 --> 00:23:15,857
+[SPEAKER_01]: Gouge?
+
+495
+00:23:16,617 --> 00:23:19,819
+[SPEAKER_00]: Yes.
+
+496
+00:23:21,380 --> 00:23:24,622
+[SPEAKER_00]: You've got the damage that's on those guys, right?
+
+497
+00:23:25,202 --> 00:23:26,803
+[SPEAKER_01]: 10 on that guy, 17 on that guy.
+
+498
+00:23:32,422 --> 00:23:33,823
+[SPEAKER_01]: And that's the guy grappling him.
+
+499
+00:23:34,303 --> 00:23:34,624
+[SPEAKER_00]: Yes.
+
+500
+00:23:35,805 --> 00:23:36,506
+[SPEAKER_00]: He got daggered.
+
+501
+00:23:37,186 --> 00:23:37,386
+[SPEAKER_00]: Yes.
+
+502
+00:23:37,587 --> 00:23:37,807
+[SPEAKER_00]: Yes.
+
+503
+00:23:38,588 --> 00:23:43,813
+[SPEAKER_00]: So can I continue to sneak attack that dude that I already hit?
+
+504
+00:23:44,433 --> 00:23:50,039
+[SPEAKER_00]: Now I'm going to turn and sneak attack him with a dagger and try to use my scimitar on him.
+
+505
+00:23:50,219 --> 00:23:50,520
+[SPEAKER_00]: Okay.
+
+506
+00:23:51,120 --> 00:23:51,981
+[SPEAKER_00]: So dagger first.
+
+507
+00:23:52,141 --> 00:23:52,742
+[SPEAKER_00]: Dagger first.
+
+508
+00:23:54,737 --> 00:23:56,638
+[SPEAKER_01]: 11 plus 9 is 20.
+
+509
+00:23:56,738 --> 00:23:57,298
+[SPEAKER_01]: That's a hit.
+
+510
+00:23:57,678 --> 00:23:57,998
+[SPEAKER_01]: Okay.
+
+511
+00:23:59,239 --> 00:24:00,519
+[SPEAKER_01]: So 1 die 4, 3 die 6.
+
+512
+00:24:00,739 --> 00:24:07,982
+[SPEAKER_00]: 1 die 4, 3 die 6, plus 6.
+
+513
+00:24:09,202 --> 00:24:11,783
+[SPEAKER_00]: So we're looking at 10, 14, 20.
+
+514
+00:24:11,943 --> 00:24:12,284
+[SPEAKER_00]: 20.
+
+515
+00:24:13,664 --> 00:24:21,167
+[SPEAKER_01]: So Gouge moves left with his dagger and hits that guy in the throat and he falls to the ground.
+
+516
+00:24:22,495 --> 00:24:23,095
+[SPEAKER_00]: Kaplunk.
+
+517
+00:24:23,976 --> 00:24:31,159
+[SPEAKER_00]: And then scimitar the guy on me.
+
+518
+00:24:31,219 --> 00:24:31,579
+[SPEAKER_01]: 18, 27.
+
+519
+00:24:32,419 --> 00:24:35,360
+[SPEAKER_01]: He takes his scimitar across the guy's throat.
+
+520
+00:24:36,621 --> 00:24:37,061
+[SPEAKER_01]: His cufflinks.
+
+521
+00:24:37,081 --> 00:24:37,381
+[SPEAKER_01]: So that is 12.
+
+522
+00:24:37,401 --> 00:24:38,122
+[SPEAKER_00]: 12 points of damage.
+
+523
+00:24:38,762 --> 00:24:39,382
+[SPEAKER_00]: So 22 off that guy.
+
+524
+00:24:39,402 --> 00:24:40,683
+[SPEAKER_00]: He goes down.
+
+525
+00:24:52,678 --> 00:24:56,821
+[SPEAKER_01]: Gouge, you are now not grappled.
+
+526
+00:24:58,062 --> 00:24:59,804
+[SPEAKER_01]: You're next to these two guys.
+
+527
+00:25:00,284 --> 00:25:02,126
+[SPEAKER_01]: You've used your action and your bonus action.
+
+528
+00:25:02,526 --> 00:25:03,927
+[SPEAKER_01]: If you want to move, you can.
+
+529
+00:25:05,308 --> 00:25:12,194
+[SPEAKER_01]: However, they will get reaction attacks at you.
+
+530
+00:25:18,197 --> 00:25:21,198
+[SPEAKER_01]: I mean, even if you want to just step to here so you're next to him.
+
+531
+00:25:21,218 --> 00:25:26,440
+[SPEAKER_01]: Yeah, I want to try to draw some of them off Merrick if I can, stepping more towards him.
+
+532
+00:25:26,980 --> 00:25:30,701
+[SPEAKER_01]: So, I mean, what that means is if you move to here, you're going to be within five feet.
+
+533
+00:25:31,761 --> 00:25:35,002
+[SPEAKER_01]: Guys are going to be within five feet of you, so you can get a sneak attack.
+
+534
+00:25:35,663 --> 00:25:38,464
+[SPEAKER_01]: Now that means these two guys are going to get reaction attacks.
+
+535
+00:25:38,604 --> 00:25:40,304
+[SPEAKER_01]: This guy attacks you with a club.
+
+536
+00:25:41,805 --> 00:25:41,945
+[SPEAKER_01]: One.
+
+537
+00:25:44,423 --> 00:25:48,806
+[SPEAKER_01]: He does not fall to the ground, but he basically stumbles as he comes after you.
+
+538
+00:25:48,946 --> 00:25:49,787
+[SPEAKER_01]: This guy attacks you.
+
+539
+00:25:51,368 --> 00:25:52,149
+[SPEAKER_01]: Fifteen.
+
+540
+00:25:53,250 --> 00:25:53,830
+[SPEAKER_00]: That hits.
+
+541
+00:25:54,431 --> 00:25:55,331
+[SPEAKER_00]: Because I have a...
+
+542
+00:25:55,892 --> 00:25:56,632
+[SPEAKER_00]: I don't have an opportunity.
+
+543
+00:25:56,652 --> 00:25:58,534
+[SPEAKER_01]: Fifteen plus three, that's eighteen.
+
+544
+00:25:58,874 --> 00:25:59,915
+[SPEAKER_01]: That's your AC.
+
+545
+00:26:00,255 --> 00:26:05,059
+[SPEAKER_01]: He hits you for five, six, seven points of damage with the club.
+
+546
+00:26:08,261 --> 00:26:09,222
+[SPEAKER_01]: Gouge has gone.
+
+547
+00:26:16,799 --> 00:26:19,581
+[SPEAKER_01]: This guy moves to here and attacks Gouge.
+
+548
+00:26:22,583 --> 00:26:23,204
+[SPEAKER_01]: Nineteen.
+
+549
+00:26:23,264 --> 00:26:25,786
+[SPEAKER_01]: I thought he tripped.
+
+550
+00:26:25,866 --> 00:26:27,247
+[SPEAKER_01]: It doesn't matter.
+
+551
+00:26:27,667 --> 00:26:28,428
+[SPEAKER_01]: He made his sticks roll.
+
+552
+00:26:29,429 --> 00:26:30,189
+[SPEAKER_00]: Oh, okay.
+
+553
+00:26:30,209 --> 00:26:32,431
+[SPEAKER_00]: He stumbled, but... Oh, that was just a reaction.
+
+554
+00:26:32,571 --> 00:26:33,091
+[SPEAKER_00]: Exactly.
+
+555
+00:26:36,274 --> 00:26:37,435
+[SPEAKER_01]: Hits you for...
+
+556
+00:26:39,692 --> 00:26:42,033
+[SPEAKER_01]: Two, four more points of damage.
+
+557
+00:26:43,193 --> 00:26:50,875
+[SPEAKER_01]: This guy has been pulled off you, runs over to here, and stomps on Tyrus.
+
+558
+00:26:52,095 --> 00:27:02,038
+[SPEAKER_01]: Twenty and four, he hits you for six, seven, eight points of damage.
+
+559
+00:27:03,567 --> 00:27:07,069
+[SPEAKER_01]: Puff one of your nuts, dude.
+
+560
+00:27:07,109 --> 00:27:08,470
+[SPEAKER_01]: Beat you first!
+
+561
+00:27:08,710 --> 00:27:11,231
+[SPEAKER_01]: This guy attacks you.
+
+562
+00:27:11,471 --> 00:27:13,312
+[SPEAKER_01]: They give advantage because you're on the ground, right?
+
+563
+00:27:13,392 --> 00:27:13,612
+[SPEAKER_01]: Right.
+
+564
+00:27:13,652 --> 00:27:14,393
+[SPEAKER_01]: They're beating you.
+
+565
+00:27:14,953 --> 00:27:15,353
+[SPEAKER_01]: Three.
+
+566
+00:27:16,634 --> 00:27:17,334
+[SPEAKER_01]: Fourteen.
+
+567
+00:27:17,614 --> 00:27:20,736
+[SPEAKER_01]: That does hit.
+
+568
+00:27:20,776 --> 00:27:21,757
+[SPEAKER_01]: Three points of damage.
+
+569
+00:27:22,477 --> 00:27:23,978
+[SPEAKER_01]: This guy attacks you at advantage.
+
+570
+00:27:25,418 --> 00:27:25,859
+[SPEAKER_01]: Three.
+
+571
+00:27:27,520 --> 00:27:28,360
+[SPEAKER_01]: Six misses.
+
+572
+00:27:28,520 --> 00:27:29,461
+[SPEAKER_01]: This guy attacks you.
+
+573
+00:27:30,921 --> 00:27:31,462
+[SPEAKER_01]: Sixteen.
+
+574
+00:27:32,960 --> 00:27:37,021
+[SPEAKER_01]: And a seven, that does hit and does four, five, six points of damage.
+
+575
+00:27:44,704 --> 00:27:46,445
+[SPEAKER_01]: This guy attacks Gouge.
+
+576
+00:27:47,185 --> 00:27:47,585
+[SPEAKER_02]: Eleven...
+
+577
+00:27:56,180 --> 00:27:57,281
+[SPEAKER_00]: Fourteen, what's your AC?
+
+578
+00:27:58,161 --> 00:28:00,283
+[SPEAKER_00]: Sixteen, but that might be with the shield.
+
+579
+00:28:00,303 --> 00:28:00,923
+[SPEAKER_00]: No, no, no.
+
+580
+00:28:01,003 --> 00:28:01,743
+[SPEAKER_01]: It's not.
+
+581
+00:28:01,823 --> 00:28:04,865
+[SPEAKER_01]: It's twelve because you got plus one dragon armor AC.
+
+582
+00:28:05,146 --> 00:28:06,506
+[SPEAKER_00]: Plus four because you're a dexterity.
+
+583
+00:28:06,847 --> 00:28:07,587
+[SPEAKER_00]: So sixteen.
+
+584
+00:28:07,607 --> 00:28:10,289
+[SPEAKER_00]: I don't even know if I have a shield.
+
+585
+00:28:10,309 --> 00:28:11,249
+[SPEAKER_01]: No, you don't use the shield.
+
+586
+00:28:11,289 --> 00:28:11,930
+[SPEAKER_00]: I don't.
+
+587
+00:28:11,950 --> 00:28:20,895
+[SPEAKER_01]: This guy basically...
+
+588
+00:28:20,915 --> 00:28:21,676
+[SPEAKER_01]: He's grappling you.
+
+589
+00:28:21,716 --> 00:28:23,797
+[SPEAKER_01]: He pulls a dagger and tries to stab you.
+
+590
+00:28:25,850 --> 00:28:26,651
+[SPEAKER_01]: Eight misses.
+
+591
+00:28:27,591 --> 00:28:31,014
+[SPEAKER_01]: This guy with the rapier tries to attack you as well.
+
+592
+00:28:31,474 --> 00:28:32,816
+[SPEAKER_01]: You better be stabbing me.
+
+593
+00:28:33,236 --> 00:28:34,057
+[SPEAKER_01]: Six miss.
+
+594
+00:28:36,739 --> 00:28:40,341
+[SPEAKER_01]: So, basically, they have gone.
+
+595
+00:28:41,542 --> 00:28:43,324
+[SPEAKER_01]: It is your turn, Merrick.
+
+596
+00:28:43,744 --> 00:28:45,385
+[SPEAKER_02]: Cool.
+
+597
+00:28:46,366 --> 00:28:48,348
+[SPEAKER_02]: I assume my sword is still not in his leg.
+
+598
+00:28:49,709 --> 00:28:50,750
+[SPEAKER_02]: Do you want to attack him again?
+
+599
+00:28:52,047 --> 00:28:53,148
+[SPEAKER_02]: When you pull it out, twist it.
+
+600
+00:28:53,168 --> 00:28:55,709
+[SPEAKER_02]: See if you can get a little more meat in it.
+
+601
+00:28:56,309 --> 00:28:59,211
+[SPEAKER_02]: I was thinking of this dude who stabbed me.
+
+602
+00:28:59,591 --> 00:29:02,993
+[SPEAKER_01]: Okay, so you're gonna attack the main guy?
+
+603
+00:29:05,034 --> 00:29:06,235
+[SPEAKER_02]: Oh, is that guy?
+
+604
+00:29:06,255 --> 00:29:06,915
+[SPEAKER_01]: Is that guy?
+
+605
+00:29:06,935 --> 00:29:07,516
+[SPEAKER_01]: That's the guy.
+
+606
+00:29:08,616 --> 00:29:10,337
+[SPEAKER_02]: I don't want to kill guy.
+
+607
+00:29:12,098 --> 00:29:13,439
+[SPEAKER_00]: I can't save him from me.
+
+608
+00:29:16,105 --> 00:29:18,486
+[SPEAKER_02]: I'm swinging on him.
+
+609
+00:29:18,626 --> 00:29:19,846
+[SPEAKER_02]: Okay.
+
+610
+00:29:19,906 --> 00:29:20,286
+[SPEAKER_01]: This guy.
+
+611
+00:29:21,106 --> 00:29:21,386
+[SPEAKER_01]: Yeah.
+
+612
+00:29:21,786 --> 00:29:22,046
+[SPEAKER_01]: Okay.
+
+613
+00:29:22,866 --> 00:29:23,567
+[SPEAKER_01]: Is this another guy?
+
+614
+00:29:25,047 --> 00:29:27,768
+[SPEAKER_01]: Um, yes, that is another guy.
+
+615
+00:29:27,928 --> 00:29:28,828
+[SPEAKER_01]: But it's not the guy.
+
+616
+00:29:29,288 --> 00:29:31,808
+[SPEAKER_01]: That guy's the guy.
+
+617
+00:29:33,809 --> 00:29:34,489
+[SPEAKER_00]: Get a bloody one.
+
+618
+00:29:35,829 --> 00:29:37,870
+[SPEAKER_00]: Oh no, here's all the ones Aidy can use.
+
+619
+00:29:40,862 --> 00:29:41,662
+[SPEAKER_00]: This is Guy.
+
+620
+00:29:42,483 --> 00:29:44,764
+[SPEAKER_00]: It's a little too big.
+
+621
+00:29:45,384 --> 00:29:50,407
+[SPEAKER_00]: That'll work.
+
+622
+00:29:50,527 --> 00:29:54,409
+[SPEAKER_00]: I'm going to find a better one.
+
+623
+00:29:54,449 --> 00:29:54,969
+[SPEAKER_02]: He's bigger.
+
+624
+00:29:55,129 --> 00:29:56,409
+[SPEAKER_02]: No, he's the leader.
+
+625
+00:29:56,530 --> 00:29:56,890
+[SPEAKER_02]: Okay.
+
+626
+00:29:57,390 --> 00:29:58,070
+[SPEAKER_02]: I'm swinging on him.
+
+627
+00:30:00,031 --> 00:30:00,611
+[SPEAKER_02]: Sixteen.
+
+628
+00:30:01,032 --> 00:30:02,592
+[SPEAKER_01]: Sixteen against this dude.
+
+629
+00:30:02,893 --> 00:30:03,093
+[SPEAKER_02]: Yes.
+
+630
+00:30:03,133 --> 00:30:03,733
+[SPEAKER_02]: That hits.
+
+631
+00:30:04,773 --> 00:30:06,514
+[SPEAKER_02]: And then one die eight.
+
+632
+00:30:07,135 --> 00:30:07,655
+[SPEAKER_02]: One die eight.
+
+633
+00:30:09,703 --> 00:30:11,864
+[SPEAKER_02]: Six plus four.
+
+634
+00:30:12,524 --> 00:30:13,205
+[SPEAKER_02]: That guy's ten.
+
+635
+00:30:14,005 --> 00:30:15,326
+[SPEAKER_01]: That guy has ten on him.
+
+636
+00:30:15,746 --> 00:30:17,727
+[SPEAKER_02]: Oh, then I get to do another one by six.
+
+637
+00:30:18,407 --> 00:30:20,188
+[SPEAKER_01]: Well, you still have it on that guy.
+
+638
+00:30:20,248 --> 00:30:21,028
+[SPEAKER_01]: Okay, it's fine.
+
+639
+00:30:21,088 --> 00:30:21,928
+[SPEAKER_02]: I'll do that next time.
+
+640
+00:30:22,088 --> 00:30:22,769
+[SPEAKER_02]: I need to learn.
+
+641
+00:30:22,949 --> 00:30:25,170
+[SPEAKER_01]: Okay.
+
+642
+00:30:26,310 --> 00:30:27,011
+[SPEAKER_01]: Merrick's gone.
+
+643
+00:30:27,571 --> 00:30:27,991
+[SPEAKER_01]: Tyrus.
+
+644
+00:30:28,511 --> 00:30:28,951
+[SPEAKER_01]: All right.
+
+645
+00:30:29,472 --> 00:30:29,992
+[SPEAKER_01]: To my feet.
+
+646
+00:30:30,712 --> 00:30:31,512
+[SPEAKER_03]: Half your movement.
+
+647
+00:30:31,653 --> 00:30:32,613
+[SPEAKER_03]: Okay, that's fine.
+
+648
+00:30:32,633 --> 00:30:33,773
+[SPEAKER_03]: I don't need to go anywhere.
+
+649
+00:30:34,794 --> 00:30:35,354
+[SPEAKER_03]: To my feet.
+
+650
+00:30:36,134 --> 00:30:36,955
+[SPEAKER_03]: Got my sword.
+
+651
+00:30:38,793 --> 00:30:39,613
+[SPEAKER_03]: Got my dagger.
+
+652
+00:30:41,034 --> 00:30:45,638
+[SPEAKER_03]: Let's see.
+
+653
+00:30:47,139 --> 00:30:50,842
+[SPEAKER_03]: And I'm swinging on the guy who stomped on me.
+
+654
+00:30:52,944 --> 00:30:55,066
+[SPEAKER_03]: I'm swinging on... Take his fucking foot off.
+
+655
+00:30:55,126 --> 00:30:55,566
+[SPEAKER_01]: That guy?
+
+656
+00:30:55,626 --> 00:30:56,827
+[SPEAKER_03]: Yeah, that's the guy.
+
+657
+00:30:57,188 --> 00:30:58,609
+[SPEAKER_03]: Do you want to use the smite?
+
+658
+00:30:58,949 --> 00:31:04,193
+[SPEAKER_01]: I'm going to use... Do you want to wait to see if you hit and then do divine smite?
+
+659
+00:31:04,213 --> 00:31:04,934
+[SPEAKER_01]: That's what I'm going to do.
+
+660
+00:31:04,954 --> 00:31:05,935
+[SPEAKER_03]: I'm going to wait to see if I hit.
+
+661
+00:31:06,998 --> 00:31:15,105
+[SPEAKER_03]: So the 10 plus... You should have your weapon.
+
+662
+00:31:15,425 --> 00:31:17,967
+[SPEAKER_03]: Yeah, sword is plus 5, so 15.
+
+663
+00:31:18,188 --> 00:31:20,169
+[SPEAKER_03]: That's a hit.
+
+664
+00:31:21,370 --> 00:31:23,032
+[SPEAKER_03]: And damage on that is 1 to 8 plus 5.
+
+665
+00:31:25,335 --> 00:31:27,155
+[SPEAKER_03]: Do you want to do a Divine Spine?
+
+666
+00:31:27,215 --> 00:31:29,096
+[SPEAKER_03]: I'm definitely going to do a Divine Spine.
+
+667
+00:31:29,156 --> 00:31:30,956
+[SPEAKER_03]: You're fucking stomped on my nuts.
+
+668
+00:31:31,136 --> 00:31:34,897
+[SPEAKER_01]: Okay, so that's plus two die eight and you lose a spell slot.
+
+669
+00:31:35,677 --> 00:31:36,777
+[SPEAKER_03]: Plus two die eight.
+
+670
+00:31:37,657 --> 00:31:38,157
+[SPEAKER_03]: Permanently.
+
+671
+00:31:38,297 --> 00:31:38,738
+[SPEAKER_01]: Idiot.
+
+672
+00:31:39,078 --> 00:31:39,858
+[SPEAKER_01]: Forever.
+
+673
+00:31:40,878 --> 00:31:42,038
+[SPEAKER_01]: What the fuck is that one?
+
+674
+00:31:43,158 --> 00:31:44,419
+[SPEAKER_01]: That's even getting bigger.
+
+675
+00:31:44,979 --> 00:31:45,659
+[SPEAKER_01]: Twenty sided.
+
+676
+00:31:45,819 --> 00:31:48,699
+[SPEAKER_03]: Yeah, it's massive.
+
+677
+00:31:48,779 --> 00:31:50,200
+[SPEAKER_03]: Six plus five.
+
+678
+00:31:54,609 --> 00:31:55,630
+[SPEAKER_03]: Is that six total?
+
+679
+00:31:55,890 --> 00:31:58,573
+[SPEAKER_03]: No, six, but I got eleven.
+
+680
+00:31:58,973 --> 00:31:59,373
+[SPEAKER_01]: Eleven?
+
+681
+00:31:59,613 --> 00:32:00,194
+[SPEAKER_01]: Plus five.
+
+682
+00:32:01,015 --> 00:32:01,715
+[SPEAKER_01]: It's sixteen.
+
+683
+00:32:01,955 --> 00:32:02,736
+[SPEAKER_03]: Sixteen, yeah.
+
+684
+00:32:03,517 --> 00:32:03,917
+[SPEAKER_03]: Okay.
+
+685
+00:32:08,041 --> 00:32:12,024
+[SPEAKER_01]: Okay, and do you have anything with your bonus action that you want to do?
+
+686
+00:32:12,104 --> 00:32:19,911
+[SPEAKER_03]: The bonus action that I'm going to do is who got hurt?
+
+687
+00:32:22,126 --> 00:32:22,727
+[SPEAKER_03]: You got hit?
+
+688
+00:32:23,207 --> 00:32:23,967
+[SPEAKER_03]: I got hit.
+
+689
+00:32:24,067 --> 00:32:24,668
+[SPEAKER_03]: And you got hit.
+
+690
+00:32:24,908 --> 00:32:26,809
+[SPEAKER_03]: Well, the guy stabbed me.
+
+691
+00:32:27,090 --> 00:32:28,731
+[SPEAKER_03]: Right, you both got hurt.
+
+692
+00:32:29,131 --> 00:32:30,792
+[SPEAKER_00]: Yeah, I've been hit a couple times.
+
+693
+00:32:32,013 --> 00:32:41,920
+[SPEAKER_03]: So, as a bonus action, I could bolster injured creatures with a divinity, with a channel divinity, each creature of my... You've already used your channel divinity.
+
+694
+00:32:42,781 --> 00:32:43,061
+[SPEAKER_03]: Oh, okay.
+
+695
+00:32:43,081 --> 00:32:43,922
+[SPEAKER_03]: You only have one.
+
+696
+00:32:44,482 --> 00:32:45,023
+[SPEAKER_03]: Oh, okay.
+
+697
+00:32:45,123 --> 00:32:45,963
+[SPEAKER_01]: Okay, good call.
+
+698
+00:32:46,084 --> 00:32:46,344
+[SPEAKER_00]: Okay.
+
+699
+00:32:47,224 --> 00:32:47,885
+[SPEAKER_00]: Then, uh...
+
+700
+00:32:49,649 --> 00:32:53,711
+[SPEAKER_00]: Then he rivals the big guy.
+
+701
+00:32:55,432 --> 00:32:57,753
+[SPEAKER_00]: I put four coins at the side of the door.
+
+702
+00:32:58,913 --> 00:32:59,834
+[SPEAKER_03]: Not quite.
+
+703
+00:32:59,974 --> 00:33:00,974
+[SPEAKER_00]: Not quite.
+
+704
+00:33:02,615 --> 00:33:03,255
+[SPEAKER_03]: Not quite.
+
+705
+00:33:03,275 --> 00:33:06,076
+[SPEAKER_03]: So with my bonus action, I can.
+
+706
+00:33:06,096 --> 00:33:09,118
+[SPEAKER_03]: I'm not going to do anything with that right now.
+
+707
+00:33:11,790 --> 00:33:12,931
+[SPEAKER_03]: We need to do that.
+
+708
+00:33:13,211 --> 00:33:15,833
+[SPEAKER_03]: You only have two, so you get to pick one.
+
+709
+00:33:15,913 --> 00:33:17,434
+[SPEAKER_01]: I speak in their native tongue.
+
+710
+00:33:17,514 --> 00:33:18,435
+[SPEAKER_01]: Is that what he would do?
+
+711
+00:33:18,455 --> 00:33:18,775
+[SPEAKER_01]: Totally.
+
+712
+00:33:40,092 --> 00:33:45,233
+[SPEAKER_01]: When he explained to me how I was sagging the coins for five minutes.
+
+713
+00:33:45,634 --> 00:33:46,974
+[SPEAKER_01]: You're right by the edge of the door.
+
+714
+00:33:46,994 --> 00:33:48,174
+[SPEAKER_01]: You know, like this?
+
+715
+00:33:48,414 --> 00:33:49,755
+[SPEAKER_00]: Yeah.
+
+716
+00:33:50,495 --> 00:33:53,196
+[SPEAKER_01]: But I don't want it too hot, because I don't want it to be a false.
+
+717
+00:33:53,616 --> 00:33:55,856
+[SPEAKER_01]: I should have done.
+
+718
+00:33:56,617 --> 00:34:02,198
+[SPEAKER_00]: I should have said, I leave my room, I open Carburton's door about six inches and re-shut it and go back to bed.
+
+719
+00:34:02,258 --> 00:34:05,039
+[SPEAKER_01]: I was such a good friend to that guy, wasn't I?
+
+720
+00:34:05,619 --> 00:34:07,180
+[SPEAKER_01]: I was a really good friend to that guy.
+
+721
+00:34:07,500 --> 00:34:08,160
+[SPEAKER_01]: Jesus Christ.
+
+722
+00:34:08,983 --> 00:34:15,084
+[SPEAKER_01]: You're very tolerant.
+
+723
+00:34:19,485 --> 00:34:21,225
+[SPEAKER_01]: Do I notice which one's better?
+
+724
+00:34:21,865 --> 00:34:23,786
+[SPEAKER_01]: Which one would make just the right amount of noise?
+
+725
+00:34:23,866 --> 00:34:27,066
+[SPEAKER_02]: It wouldn't alert them, but it will alert me.
+
+726
+00:34:28,086 --> 00:34:28,907
+[SPEAKER_00]: Different currencies.
+
+727
+00:34:29,387 --> 00:34:31,827
+[SPEAKER_00]: I tend to see which one's ringed.
+
+728
+00:34:31,887 --> 00:34:34,348
+[SPEAKER_00]: I tie a thread to the doorknob, the other end of my cock.
+
+729
+00:34:35,048 --> 00:34:36,408
+[SPEAKER_00]: That moves a little cut, I know.
+
+730
+00:34:38,440 --> 00:34:40,781
+[SPEAKER_00]: Open it, close it.
+
+731
+00:34:40,801 --> 00:34:42,801
+[SPEAKER_00]: Shut it, open it, shut it, open it.
+
+732
+00:34:46,542 --> 00:34:49,303
+[SPEAKER_00]: I finished and jumped out of the bed and swore to me.
+
+733
+00:34:50,543 --> 00:34:51,764
+[SPEAKER_00]: I throw it at his eyes.
+
+734
+00:34:51,784 --> 00:34:55,485
+[SPEAKER_00]: Here's the mid.
+
+735
+00:34:55,505 --> 00:34:57,285
+[SPEAKER_00]: Four.
+
+736
+00:34:57,305 --> 00:34:59,646
+[SPEAKER_01]: This is the eye turning.
+
+737
+00:35:00,786 --> 00:35:01,266
+[SPEAKER_01]: Eleven.
+
+738
+00:35:01,306 --> 00:35:01,787
+[SPEAKER_00]: Eleven.
+
+739
+00:35:03,967 --> 00:35:06,108
+[SPEAKER_00]: This guy gets twenty.
+
+740
+00:35:07,470 --> 00:35:07,770
+[SPEAKER_00]: Ten.
+
+741
+00:35:08,030 --> 00:35:09,091
+[SPEAKER_00]: Cockknocker gets 20.
+
+742
+00:35:09,931 --> 00:35:10,692
+[SPEAKER_00]: The turkey.
+
+743
+00:35:10,952 --> 00:35:11,352
+[SPEAKER_00]: Ten.
+
+744
+00:35:12,093 --> 00:35:12,633
+[SPEAKER_00]: Merrick.
+
+745
+00:35:12,993 --> 00:35:13,534
+[SPEAKER_00]: The turkey.
+
+746
+00:35:14,874 --> 00:35:15,175
+[SPEAKER_02]: Two.
+
+747
+00:35:15,435 --> 00:35:16,115
+[SPEAKER_02]: Two plus?
+
+748
+00:35:16,515 --> 00:35:16,795
+[SPEAKER_02]: Three.
+
+749
+00:35:17,536 --> 00:35:18,216
+[SPEAKER_02]: So I got five.
+
+750
+00:35:18,336 --> 00:35:18,697
+[SPEAKER_02]: Five.
+
+751
+00:35:19,177 --> 00:35:19,517
+[SPEAKER_02]: Okay.
+
+752
+00:35:19,677 --> 00:35:20,317
+[SPEAKER_01]: So... Turkey.
+
+753
+00:35:20,898 --> 00:35:21,478
+[SPEAKER_00]: Turkey.
+
+754
+00:35:21,698 --> 00:35:22,539
+[SPEAKER_01]: Turkey.
+
+755
+00:35:22,979 --> 00:35:23,319
+[SPEAKER_00]: Turkey.
+
+756
+00:35:23,359 --> 00:35:23,699
+[SPEAKER_01]: Turkey.
+
+757
+00:35:23,739 --> 00:35:24,020
+[SPEAKER_01]: Turkey.
+
+758
+00:35:24,040 --> 00:35:24,340
+[SPEAKER_01]: Turkey.
+
+759
+00:35:24,380 --> 00:35:24,820
+[SPEAKER_01]: Go first.
+
+760
+00:35:25,300 --> 00:35:26,181
+[SPEAKER_01]: He attacks you again.
+
+761
+00:35:26,201 --> 00:35:27,081
+[SPEAKER_01]: Big guy.
+
+762
+00:35:28,662 --> 00:35:29,203
+[SPEAKER_01]: Eighteen.
+
+763
+00:35:29,223 --> 00:35:29,923
+[SPEAKER_00]: He attacks.
+
+764
+00:35:29,963 --> 00:35:31,304
+[SPEAKER_00]: Crush him.
+
+765
+00:35:32,625 --> 00:35:32,845
+[SPEAKER_00]: Eight.
+
+766
+00:35:33,627 --> 00:35:35,488
+[SPEAKER_01]: 9-10 to you.
+
+767
+00:35:35,768 --> 00:35:37,129
+[SPEAKER_01]: Son of a bitch.
+
+768
+00:35:38,209 --> 00:35:41,211
+[SPEAKER_01]: He's eating my asshole.
+
+769
+00:35:42,992 --> 00:35:47,414
+[SPEAKER_01]: It is now... Gouge?
+
+770
+00:35:47,454 --> 00:35:48,194
+[SPEAKER_01]: Yes.
+
+771
+00:35:48,814 --> 00:35:49,174
+[SPEAKER_01]: Okay.
+
+772
+00:35:49,695 --> 00:35:57,158
+[SPEAKER_01]: Now remember, with a reaction, you can add one die forward to either saving throws or an attack roll to anybody you want to help.
+
+773
+00:35:57,719 --> 00:35:58,279
+[SPEAKER_01]: That's right.
+
+774
+00:35:59,279 --> 00:36:00,360
+[SPEAKER_00]: I don't have anybody on me.
+
+775
+00:36:01,624 --> 00:36:02,565
+[SPEAKER_01]: You have two guys next to you.
+
+776
+00:36:02,605 --> 00:36:05,186
+[SPEAKER_00]: I have no grapple, so I'm free.
+
+777
+00:36:06,127 --> 00:36:09,688
+[SPEAKER_01]: You can attack this guy with sneak attack because he's right next to Merrick.
+
+778
+00:36:10,609 --> 00:36:11,029
+[SPEAKER_01]: Okay.
+
+779
+00:36:12,510 --> 00:36:20,654
+[SPEAKER_00]: I will... Now how... Is there any way I can throw my dagger at the big guy?
+
+780
+00:36:20,814 --> 00:36:23,276
+[SPEAKER_00]: Or is Merrick... Merrick's in the way.
+
+781
+00:36:23,336 --> 00:36:25,677
+[SPEAKER_01]: I mean, you could try it, but...
+
+782
+00:36:26,891 --> 00:36:29,955
+[SPEAKER_00]: So I can actually move this round.
+
+783
+00:36:30,816 --> 00:36:37,362
+[SPEAKER_00]: Is there a... Can I move Merrick out of the way?
+
+784
+00:36:37,422 --> 00:36:41,266
+[SPEAKER_01]: You have cunning actions, so with a bonus action you can actually disengage.
+
+785
+00:36:42,745 --> 00:36:43,385
+[SPEAKER_01]: From that guy.
+
+786
+00:36:43,725 --> 00:36:44,066
+[SPEAKER_00]: Okay.
+
+787
+00:36:44,526 --> 00:36:47,347
+[SPEAKER_01]: And then you can move around these guys if you want to.
+
+788
+00:36:47,507 --> 00:36:47,827
+[SPEAKER_01]: Okay.
+
+789
+00:36:48,067 --> 00:36:48,307
+[SPEAKER_01]: Right?
+
+790
+00:36:49,328 --> 00:36:54,810
+[SPEAKER_01]: Now, also, I want you to understand you have uncanny dodge and you should know what that is.
+
+791
+00:36:55,090 --> 00:36:56,651
+[SPEAKER_01]: It's very important.
+
+792
+00:36:56,671 --> 00:36:56,891
+[SPEAKER_01]: Okay.
+
+793
+00:36:56,951 --> 00:36:57,672
+[SPEAKER_01]: It's a huge one.
+
+794
+00:36:57,992 --> 00:37:00,133
+[SPEAKER_01]: You can use your reaction and take half damage.
+
+795
+00:37:00,693 --> 00:37:01,013
+[SPEAKER_00]: Yes.
+
+796
+00:37:02,694 --> 00:37:03,014
+[SPEAKER_00]: Okay.
+
+797
+00:37:05,015 --> 00:37:05,315
+[SPEAKER_00]: Okay.
+
+798
+00:37:06,075 --> 00:37:07,676
+[SPEAKER_00]: But can I get to the big guy?
+
+799
+00:37:09,261 --> 00:37:11,882
+[SPEAKER_00]: My goal is to disengage the guy from that.
+
+800
+00:37:11,902 --> 00:37:18,165
+[SPEAKER_01]: You can use your bonus action, which means you don't get your second attack, and you can move around it to here.
+
+801
+00:37:18,925 --> 00:37:24,308
+[SPEAKER_00]: But then if you moved again, this guy would get a reaction attack on you, right?
+
+802
+00:37:24,468 --> 00:37:24,768
+[SPEAKER_00]: Okay.
+
+803
+00:37:31,374 --> 00:37:33,515
+[SPEAKER_00]: But there's a guy in between still, right?
+
+804
+00:37:33,735 --> 00:37:35,396
+[SPEAKER_01]: There's a guy right there, but he's been wounded.
+
+805
+00:37:36,797 --> 00:37:41,559
+[SPEAKER_01]: But if that's the case, you could sneak attack this dude.
+
+806
+00:37:42,600 --> 00:37:51,224
+[SPEAKER_01]: So you're going to use your bonus action, coming dodge, to move around to there, and then you're going to attack that guy once, and I'm going to have a reactive attack happen on me.
+
+807
+00:37:52,529 --> 00:37:52,789
+[SPEAKER_00]: Right?
+
+808
+00:37:52,929 --> 00:37:53,550
+[SPEAKER_00]: From this guy?
+
+809
+00:37:54,531 --> 00:37:54,791
+[SPEAKER_01]: No.
+
+810
+00:37:55,452 --> 00:37:59,315
+[SPEAKER_01]: If you kill that guy, you've gone one, two, three, there.
+
+811
+00:37:59,335 --> 00:38:02,018
+[SPEAKER_01]: You can kill that guy and then move right in his place.
+
+812
+00:38:02,398 --> 00:38:07,043
+[SPEAKER_01]: And you've basically moved around that guy, facing him the entire time.
+
+813
+00:38:07,303 --> 00:38:10,906
+[SPEAKER_01]: You used your uncanny dodge to get out of that guy's sight.
+
+814
+00:38:11,707 --> 00:38:14,229
+[SPEAKER_01]: So you want to stick it back to that guy, right?
+
+815
+00:38:14,289 --> 00:38:14,490
+[SPEAKER_01]: Yes.
+
+816
+00:38:14,830 --> 00:38:15,491
+[SPEAKER_01]: With your cutlass.
+
+817
+00:38:15,651 --> 00:38:15,891
+[SPEAKER_00]: Yes.
+
+818
+00:38:16,411 --> 00:38:16,752
+[SPEAKER_00]: Roll it.
+
+819
+00:38:19,761 --> 00:38:20,121
+[SPEAKER_00]: Eleven.
+
+820
+00:38:20,141 --> 00:38:20,481
+[SPEAKER_00]: Three.
+
+821
+00:38:20,902 --> 00:38:21,622
+[SPEAKER_00]: Oh, twelve.
+
+822
+00:38:21,942 --> 00:38:22,422
+[SPEAKER_00]: Twelve.
+
+823
+00:38:22,963 --> 00:38:23,343
+[SPEAKER_01]: Miss.
+
+824
+00:38:23,563 --> 00:38:23,883
+[SPEAKER_00]: Okay.
+
+825
+00:38:24,824 --> 00:38:25,184
+[SPEAKER_00]: Okay.
+
+826
+00:38:25,564 --> 00:38:26,124
+[SPEAKER_00]: But you're there.
+
+827
+00:38:26,445 --> 00:38:26,665
+[SPEAKER_00]: Yep.
+
+828
+00:38:30,227 --> 00:38:30,567
+[SPEAKER_03]: Tyrus?
+
+829
+00:38:31,147 --> 00:38:33,148
+[SPEAKER_03]: My issue's up to eighteen now.
+
+830
+00:38:33,328 --> 00:38:34,389
+[SPEAKER_03]: Because you pulled out your shield.
+
+831
+00:38:34,689 --> 00:38:34,869
+[SPEAKER_01]: Yeah.
+
+832
+00:38:35,209 --> 00:38:36,510
+[SPEAKER_03]: Okay.
+
+833
+00:38:37,210 --> 00:38:40,412
+[SPEAKER_03]: So I'm swinging on the dick beater that...
+
+834
+00:38:41,072 --> 00:38:42,073
+[SPEAKER_03]: Okay.
+
+835
+00:38:42,093 --> 00:38:43,174
+[SPEAKER_03]: Did it attack you?
+
+836
+00:38:43,214 --> 00:38:44,234
+[SPEAKER_03]: Yeah, yeah, that guy.
+
+837
+00:38:44,254 --> 00:38:44,774
+[SPEAKER_03]: Do you want to...
+
+838
+00:38:45,275 --> 00:38:45,495
+[SPEAKER_03]: Okay.
+
+839
+00:38:45,935 --> 00:38:46,455
+[SPEAKER_03]: Eighteen.
+
+840
+00:38:46,655 --> 00:38:47,376
+[SPEAKER_03]: Eighteen, hit.
+
+841
+00:38:48,136 --> 00:38:48,376
+[SPEAKER_03]: And...
+
+842
+00:38:50,670 --> 00:38:52,791
+[SPEAKER_03]: I'm not going to use the Divine Smite.
+
+843
+00:38:52,811 --> 00:38:54,892
+[SPEAKER_01]: Wait, I don't get another reaction on this.
+
+844
+00:38:55,813 --> 00:38:57,313
+[SPEAKER_01]: Wait a second, I have a question for you.
+
+845
+00:38:57,854 --> 00:39:04,257
+[SPEAKER_01]: Did you want to use your reaction to give Gouge an extra one-dive four to see if you could hit that guy?
+
+846
+00:39:04,657 --> 00:39:06,498
+[SPEAKER_03]: Oh yeah, I meant to do that.
+
+847
+00:39:06,518 --> 00:39:09,039
+[SPEAKER_03]: I was waiting for you guys to finish, but yes, I can use the...
+
+848
+00:39:11,241 --> 00:39:14,123
+[SPEAKER_03]: You have to use it before he rolls.
+
+849
+00:39:14,203 --> 00:39:14,744
+[SPEAKER_03]: Right, right.
+
+850
+00:39:14,904 --> 00:39:18,146
+[SPEAKER_03]: And I was waiting for you guys to finish, but that's my channel divinity, right?
+
+851
+00:39:18,746 --> 00:39:20,407
+[SPEAKER_03]: No, that's your squad leader skill.
+
+852
+00:39:20,487 --> 00:39:21,348
+[SPEAKER_03]: That's my squad leader skill.
+
+853
+00:39:21,388 --> 00:39:22,969
+[SPEAKER_03]: You can use that every reaction.
+
+854
+00:39:23,089 --> 00:39:24,490
+[SPEAKER_03]: Oh, I can use it every reaction.
+
+855
+00:39:24,690 --> 00:39:25,331
+[SPEAKER_01]: Every round.
+
+856
+00:39:25,871 --> 00:39:27,272
+[SPEAKER_03]: Oh, okay.
+
+857
+00:39:27,612 --> 00:39:28,172
+[SPEAKER_03]: Okay.
+
+858
+00:39:28,693 --> 00:39:30,114
+[SPEAKER_03]: I didn't know that was every round.
+
+859
+00:39:30,674 --> 00:39:34,115
+[SPEAKER_03]: But yes, yeah, I will have to have done that next time, I guess.
+
+860
+00:39:34,255 --> 00:39:37,016
+[SPEAKER_03]: Okay, so you attack this guy, you rolled an 18, you hit him?
+
+861
+00:39:37,256 --> 00:39:37,436
+[SPEAKER_01]: Yep.
+
+862
+00:39:37,596 --> 00:39:38,797
+[SPEAKER_01]: How much damage do you do?
+
+863
+00:39:38,817 --> 00:39:41,857
+[SPEAKER_03]: It's gonna be 1 to 8 plus 5, so 4 plus 5.
+
+864
+00:39:42,758 --> 00:39:43,298
+[SPEAKER_03]: He falls.
+
+865
+00:39:45,519 --> 00:39:46,339
+[SPEAKER_03]: Gick Beater's down.
+
+866
+00:39:47,512 --> 00:39:48,893
+[SPEAKER_01]: Now I still have a reaction though?
+
+867
+00:39:49,293 --> 00:39:52,634
+[SPEAKER_01]: You have a reaction?
+
+868
+00:39:52,834 --> 00:39:53,635
+[SPEAKER_01]: Merrick hasn't gone.
+
+869
+00:39:53,715 --> 00:39:54,955
+[SPEAKER_01]: And you have a bonus action.
+
+870
+00:39:55,295 --> 00:39:56,476
+[SPEAKER_03]: Right.
+
+871
+00:39:56,496 --> 00:40:02,038
+[SPEAKER_03]: So my reaction, I'm going to use squad leader on... Do it when he makes a roll, a decision.
+
+872
+00:40:02,298 --> 00:40:04,239
+[SPEAKER_03]: Oh, I can do it when he makes the roll.
+
+873
+00:40:04,319 --> 00:40:04,820
+[SPEAKER_01]: Exactly.
+
+874
+00:40:04,980 --> 00:40:06,920
+[SPEAKER_01]: Reactions happen outside of your turn.
+
+875
+00:40:07,461 --> 00:40:07,961
+[SPEAKER_01]: Oh, okay.
+
+876
+00:40:08,939 --> 00:40:12,983
+[SPEAKER_03]: So then I have no other... You have a bonus action?
+
+877
+00:40:13,043 --> 00:40:19,128
+[SPEAKER_03]: I have no other deal to do with my bonus action other than... because those two guys in front of me are still there, right?
+
+878
+00:40:19,308 --> 00:40:19,909
+[SPEAKER_03]: Three guys.
+
+879
+00:40:20,109 --> 00:40:24,513
+[SPEAKER_03]: That one, that one, and then this guy, he disengaged, and then there's that one.
+
+880
+00:40:24,633 --> 00:40:30,738
+[SPEAKER_01]: But you can use the bonus action right now to actually cast a Smite spell to use next round, if you want.
+
+881
+00:40:31,159 --> 00:40:32,079
+[SPEAKER_01]: Or you can just save it.
+
+882
+00:40:32,920 --> 00:40:41,604
+[SPEAKER_03]: Oh yeah, no, I will use my bonus action now to cast the Divine, let's see, which one is it?
+
+883
+00:40:41,924 --> 00:40:43,805
+[SPEAKER_01]: Look at the spells on the next thing.
+
+884
+00:40:45,986 --> 00:40:46,386
+[SPEAKER_03]: Wait, no.
+
+885
+00:40:46,606 --> 00:40:49,268
+[SPEAKER_03]: Yeah, my spells are actually right here.
+
+886
+00:40:49,348 --> 00:40:49,728
+[SPEAKER_03]: Yeah.
+
+887
+00:40:51,981 --> 00:40:53,242
+[SPEAKER_03]: Is there Thunderous Smite?
+
+888
+00:40:53,322 --> 00:40:56,344
+[SPEAKER_03]: Yeah, that's the one I wanted, Thunderous Smite.
+
+889
+00:40:56,504 --> 00:40:58,105
+[SPEAKER_03]: I have Serious Smite and Thunderous Smite.
+
+890
+00:40:58,125 --> 00:40:58,946
+[SPEAKER_03]: I wanted Thunderous Smite.
+
+891
+00:40:59,126 --> 00:41:01,908
+[SPEAKER_01]: Okay, so you charge up Thunderous Smite with a bonus action.
+
+892
+00:41:01,928 --> 00:41:02,088
+[SPEAKER_01]: Yep.
+
+893
+00:41:02,288 --> 00:41:03,409
+[SPEAKER_01]: You lose the spell slots.
+
+894
+00:41:03,489 --> 00:41:04,270
+[SPEAKER_01]: I'll mark the spell slots.
+
+895
+00:41:04,290 --> 00:41:04,790
+[SPEAKER_03]: Two slots.
+
+896
+00:41:05,591 --> 00:41:06,411
+[SPEAKER_03]: I've lost two slots.
+
+897
+00:41:06,491 --> 00:41:07,152
+[SPEAKER_03]: From first level.
+
+898
+00:41:07,352 --> 00:41:07,552
+[SPEAKER_03]: Yep.
+
+899
+00:41:07,952 --> 00:41:08,272
+[SPEAKER_01]: Okay.
+
+900
+00:41:09,393 --> 00:41:10,474
+[SPEAKER_01]: Out of my six.
+
+901
+00:41:12,435 --> 00:41:12,756
+[SPEAKER_01]: Okay.
+
+902
+00:41:13,416 --> 00:41:15,117
+[SPEAKER_01]: They go.
+
+903
+00:41:15,317 --> 00:41:16,238
+[SPEAKER_01]: This guy attacks you?
+
+904
+00:41:17,519 --> 00:41:17,779
+[SPEAKER_02]: Mm-hmm.
+
+905
+00:41:17,819 --> 00:41:18,399
+[SPEAKER_01]: With a club?
+
+906
+00:41:18,700 --> 00:41:19,020
+[SPEAKER_01]: Yep.
+
+907
+00:41:20,820 --> 00:41:24,081
+[SPEAKER_01]: 8 misses, this guy attacks you with a club.
+
+908
+00:41:24,121 --> 00:41:27,522
+[SPEAKER_01]: 6 misses, this guy attacks you with a club.
+
+909
+00:41:27,542 --> 00:41:38,085
+[SPEAKER_01]: 20 hits you in the head for 9, 10, 11 points of damage, smacking you across the head in a bad way.
+
+910
+00:41:39,706 --> 00:41:46,508
+[SPEAKER_01]: This guy moves to 1, 2, 3 here and attacks Gouge.
+
+911
+00:41:49,069 --> 00:41:49,489
+[SPEAKER_01]: Here it is.
+
+912
+00:41:50,830 --> 00:41:51,370
+[SPEAKER_01]: Twenty.
+
+913
+00:41:51,390 --> 00:41:55,473
+[SPEAKER_00]: Uncanny dad, uncanny die.
+
+914
+00:41:55,633 --> 00:41:57,914
+[SPEAKER_01]: Seven, eight, nine points of damage.
+
+915
+00:41:58,654 --> 00:41:59,515
+[SPEAKER_01]: You have a reaction.
+
+916
+00:41:59,535 --> 00:42:00,655
+[SPEAKER_01]: Do you want to take half that?
+
+917
+00:42:06,378 --> 00:42:07,059
+[SPEAKER_01]: Who hit me?
+
+918
+00:42:07,699 --> 00:42:08,239
+[SPEAKER_01]: This guy.
+
+919
+00:42:08,359 --> 00:42:08,559
+[SPEAKER_01]: No.
+
+920
+00:42:08,980 --> 00:42:09,620
+[SPEAKER_01]: So that's nine?
+
+921
+00:42:10,080 --> 00:42:11,241
+[SPEAKER_01]: That's nine points of damage.
+
+922
+00:42:13,682 --> 00:42:14,623
+[SPEAKER_01]: This guy attacks you.
+
+923
+00:42:17,324 --> 00:42:18,145
+[SPEAKER_01]: Eleven miss.
+
+924
+00:42:19,217 --> 00:42:20,978
+[SPEAKER_01]: This guy attacks Merrick.
+
+925
+00:42:22,918 --> 00:42:23,439
+[SPEAKER_01]: Eleven.
+
+926
+00:42:24,119 --> 00:42:24,479
+[SPEAKER_01]: Miss.
+
+927
+00:42:25,139 --> 00:42:26,000
+[SPEAKER_01]: This guy attacks you.
+
+928
+00:42:26,120 --> 00:42:27,480
+[SPEAKER_01]: Oh, he's already attacked, actually.
+
+929
+00:42:28,080 --> 00:42:33,462
+[SPEAKER_01]: This guy moves to here and attacks Merrick.
+
+930
+00:42:35,463 --> 00:42:35,823
+[SPEAKER_01]: Seven.
+
+931
+00:42:35,983 --> 00:42:36,303
+[SPEAKER_01]: Miss.
+
+932
+00:42:36,844 --> 00:42:37,204
+[SPEAKER_01]: Okay.
+
+933
+00:42:38,684 --> 00:42:39,905
+[SPEAKER_01]: How many hit points do you have off you?
+
+934
+00:42:40,385 --> 00:42:40,865
+[SPEAKER_03]: Uh, twenty-two.
+
+935
+00:42:41,325 --> 00:42:41,665
+[SPEAKER_01]: Okay.
+
+936
+00:42:41,705 --> 00:42:42,866
+[SPEAKER_01]: How many hit points do you have off you?
+
+937
+00:42:43,926 --> 00:42:44,726
+[SPEAKER_01]: Oh, how many have off?
+
+938
+00:42:44,966 --> 00:42:45,147
+[SPEAKER_01]: No.
+
+939
+00:42:45,307 --> 00:42:45,987
+[SPEAKER_01]: Does he have off?
+
+940
+00:42:46,007 --> 00:42:46,067
+[SPEAKER_01]: Oh.
+
+941
+00:42:47,693 --> 00:42:49,493
+[SPEAKER_00]: I've got 5, 10, 15, 20.
+
+942
+00:42:49,613 --> 00:42:51,354
+[SPEAKER_00]: 20 of you, okay.
+
+943
+00:42:51,914 --> 00:42:52,834
+[SPEAKER_01]: Have you been wounded yet?
+
+944
+00:42:53,114 --> 00:42:54,074
+[SPEAKER_01]: Yes.
+
+945
+00:42:54,154 --> 00:42:55,735
+[SPEAKER_02]: I'm over half down.
+
+946
+00:42:56,155 --> 00:42:56,455
+[SPEAKER_02]: Okay.
+
+947
+00:42:57,155 --> 00:42:57,655
+[SPEAKER_02]: An inch.
+
+948
+00:43:01,036 --> 00:43:02,096
+[SPEAKER_02]: I didn't get to attack that round.
+
+949
+00:43:02,176 --> 00:43:03,036
+[SPEAKER_01]: Oh wait, no you do.
+
+950
+00:43:03,476 --> 00:43:04,236
+[SPEAKER_01]: You get to go.
+
+951
+00:43:04,437 --> 00:43:04,877
+[SPEAKER_01]: Okay.
+
+952
+00:43:05,577 --> 00:43:06,557
+[SPEAKER_01]: It's like, what?
+
+953
+00:43:06,697 --> 00:43:07,457
+[SPEAKER_01]: No, you don't get it.
+
+954
+00:43:07,477 --> 00:43:08,837
+[SPEAKER_01]: Okay, I'm swinging on.
+
+955
+00:43:09,198 --> 00:43:11,198
+[SPEAKER_01]: Now, this guy has the hunter's mark on him.
+
+956
+00:43:12,257 --> 00:43:12,877
+[SPEAKER_02]: Oh, okay.
+
+957
+00:43:12,957 --> 00:43:14,077
+[SPEAKER_00]: Did that give me a bonus?
+
+958
+00:43:14,618 --> 00:43:14,738
+[SPEAKER_02]: No.
+
+959
+00:43:14,838 --> 00:43:15,358
+[SPEAKER_02]: Or just him?
+
+960
+00:43:15,378 --> 00:43:18,438
+[SPEAKER_02]: Okay, bonus, I'm moving Hunter's Mark to Guy.
+
+961
+00:43:18,598 --> 00:43:22,639
+[SPEAKER_02]: Okay, you use your bonus section to move your Hunter's Mark and then you attack.
+
+962
+00:43:23,619 --> 00:43:23,879
+[SPEAKER_02]: Three.
+
+963
+00:43:24,380 --> 00:43:27,080
+[SPEAKER_02]: Three plus... Was it the attack bonus?
+
+964
+00:43:27,240 --> 00:43:27,540
+[SPEAKER_02]: Yeah.
+
+965
+00:43:28,540 --> 00:43:28,880
+[SPEAKER_02]: Six.
+
+966
+00:43:29,461 --> 00:43:30,041
+[SPEAKER_01]: Now I miss.
+
+967
+00:43:31,601 --> 00:43:34,922
+[SPEAKER_01]: Initiative.
+
+968
+00:43:34,982 --> 00:43:36,162
+[SPEAKER_01]: Do you want to use your reaction?
+
+969
+00:43:37,615 --> 00:43:40,998
+[SPEAKER_03]: Yeah, because right now would be a good time to use it because I'm just going to start a new round.
+
+970
+00:43:41,078 --> 00:43:41,418
+[SPEAKER_03]: Exactly.
+
+971
+00:43:41,438 --> 00:43:42,919
+[SPEAKER_01]: So I'm going to use my reaction on that.
+
+972
+00:43:42,959 --> 00:43:47,502
+[SPEAKER_01]: Okay, so you rolled a nine, roll one die four to see if that makes a difference.
+
+973
+00:43:50,805 --> 00:43:51,005
+[SPEAKER_03]: Two.
+
+974
+00:43:51,345 --> 00:43:51,585
+[SPEAKER_03]: Two.
+
+975
+00:43:51,925 --> 00:43:52,126
+[SPEAKER_03]: No.
+
+976
+00:43:52,466 --> 00:43:52,766
+[SPEAKER_03]: Missed.
+
+977
+00:43:53,126 --> 00:43:53,787
+[SPEAKER_03]: But it was a trial.
+
+978
+00:43:53,867 --> 00:43:55,568
+[SPEAKER_03]: Yeah, but that's the time to use it.
+
+979
+00:43:55,588 --> 00:43:56,589
+[SPEAKER_03]: There's no other actions.
+
+980
+00:43:56,629 --> 00:43:57,570
+[SPEAKER_03]: I get everything back again.
+
+981
+00:43:58,610 --> 00:44:00,071
+[SPEAKER_03]: You get a... Emissioned?
+
+982
+00:44:00,091 --> 00:44:00,272
+[SPEAKER_03]: Yep.
+
+983
+00:44:01,813 --> 00:44:02,173
+[SPEAKER_02]: Fourteen.
+
+984
+00:44:02,353 --> 00:44:03,854
+[SPEAKER_02]: Fourteen plus... Seventeen.
+
+985
+00:44:04,334 --> 00:44:04,775
+[SPEAKER_01]: Seventeen.
+
+986
+00:44:05,642 --> 00:44:07,023
+[SPEAKER_02]: I get a 14.
+
+987
+00:44:07,103 --> 00:44:07,463
+[SPEAKER_01]: 14.
+
+988
+00:44:07,803 --> 00:44:14,347
+[SPEAKER_01]: Gouge.
+
+989
+00:44:14,367 --> 00:44:14,687
+[SPEAKER_01]: 24.
+
+990
+00:44:14,787 --> 00:44:15,108
+[SPEAKER_01]: 24.
+
+991
+00:44:17,409 --> 00:44:19,010
+[SPEAKER_01]: The men, they get 3.
+
+992
+00:44:20,191 --> 00:44:21,912
+[SPEAKER_01]: And the big guy gets a 5.
+
+993
+00:44:22,012 --> 00:44:22,372
+[SPEAKER_01]: 7.
+
+994
+00:44:22,892 --> 00:44:24,693
+[SPEAKER_01]: It's not actually a big.
+
+995
+00:44:24,713 --> 00:44:25,434
+[SPEAKER_01]: Gouge, you're first.
+
+996
+00:44:26,554 --> 00:44:27,075
+[SPEAKER_01]: Okay.
+
+997
+00:44:27,835 --> 00:44:29,016
+[SPEAKER_01]: I still got a guy in my way.
+
+998
+00:44:30,273 --> 00:44:34,735
+[SPEAKER_01]: That guy is still grappled onto him, and he's still in your way.
+
+999
+00:44:35,096 --> 00:44:37,797
+[SPEAKER_01]: So you can attack him.
+
+1000
+00:44:37,817 --> 00:44:41,999
+[SPEAKER_00]: Can I dagger him?
+
+1001
+00:44:42,019 --> 00:44:43,920
+[SPEAKER_01]: Do you want to take attack him?
+
+1002
+00:44:46,022 --> 00:44:52,125
+[SPEAKER_00]: Now if I dagger him and kill him, do I still have a sneak attack with my cutlass on the big guy or I'm too far or what?
+
+1003
+00:44:52,505 --> 00:44:55,747
+[SPEAKER_01]: If you move there, but remember you're using
+
+1004
+00:44:57,195 --> 00:44:59,556
+[SPEAKER_01]: On your offhand, you're a bonus action to use your dagger.
+
+1005
+00:45:00,016 --> 00:45:00,296
+[SPEAKER_00]: Yes.
+
+1006
+00:45:00,776 --> 00:45:03,597
+[SPEAKER_01]: And will you kill him is the question.
+
+1007
+00:45:03,797 --> 00:45:04,338
+[SPEAKER_01]: Yeah.
+
+1008
+00:45:05,378 --> 00:45:08,539
+[SPEAKER_00]: Okay.
+
+1009
+00:45:09,559 --> 00:45:11,260
+[SPEAKER_00]: Yeah, I'll sneak attack the guy on the ground.
+
+1010
+00:45:12,680 --> 00:45:13,841
+[SPEAKER_01]: The guy that's grappling Folsom?
+
+1011
+00:45:14,141 --> 00:45:14,381
+[SPEAKER_01]: Yes.
+
+1012
+00:45:14,561 --> 00:45:19,883
+[SPEAKER_01]: Okay, he's not on the ground, but go ahead and roll your attack.
+
+1013
+00:45:19,983 --> 00:45:21,864
+[SPEAKER_01]: 14 plus 9 is 23.
+
+1014
+00:45:21,924 --> 00:45:22,324
+[SPEAKER_01]: That hits.
+
+1015
+00:45:22,604 --> 00:45:25,185
+[SPEAKER_01]: And you want a sneak attack, so that's 4 die 6.
+
+1016
+00:45:26,514 --> 00:45:27,475
+[SPEAKER_00]: Plus six.
+
+1017
+00:45:28,736 --> 00:45:32,599
+[SPEAKER_00]: So that's eleven, sixteen, twenty-two.
+
+1018
+00:45:33,200 --> 00:45:33,801
+[SPEAKER_00]: He falls.
+
+1019
+00:45:33,821 --> 00:45:36,523
+[SPEAKER_00]: Okay, I almost got the banjo part, Master.
+
+1020
+00:45:36,623 --> 00:45:41,908
+[SPEAKER_01]: Okay, now, if you want to move five feet to there, you can do that.
+
+1021
+00:45:42,709 --> 00:45:50,395
+[SPEAKER_01]: This guy will get a reaction unless you want to use your bonus action to disengage.
+
+1022
+00:45:50,435 --> 00:45:51,717
+[SPEAKER_01]: Will that take away my attack?
+
+1023
+00:45:52,237 --> 00:45:53,118
+[SPEAKER_01]: Nah, yeah, it will.
+
+1024
+00:45:54,275 --> 00:45:57,337
+[SPEAKER_01]: So if you want to just rush it, you can go and throw my dagger.
+
+1025
+00:45:58,718 --> 00:46:02,640
+[SPEAKER_01]: As a bonus action?
+
+1026
+00:46:03,361 --> 00:46:05,582
+[SPEAKER_01]: No, it has to be me on the attack.
+
+1027
+00:46:07,864 --> 00:46:09,184
+[SPEAKER_00]: I'll go straight into that guy.
+
+1028
+00:46:10,665 --> 00:46:11,586
+[SPEAKER_00]: I'll take the reaction.
+
+1029
+00:46:12,066 --> 00:46:12,727
+[SPEAKER_00]: Here's the attack.
+
+1030
+00:46:13,847 --> 00:46:15,588
+[SPEAKER_01]: Thirteen plus three is sixteen.
+
+1031
+00:46:15,608 --> 00:46:16,149
+[SPEAKER_01]: That's a hit.
+
+1032
+00:46:17,029 --> 00:46:19,831
+[SPEAKER_01]: He clubs you across the back for three points of damage.
+
+1033
+00:46:23,378 --> 00:46:24,979
+[SPEAKER_01]: And then you want to attack that guy, right?
+
+1034
+00:46:25,019 --> 00:46:25,219
+[SPEAKER_01]: Yes.
+
+1035
+00:46:25,239 --> 00:46:25,820
+[SPEAKER_01]: With your dagger.
+
+1036
+00:46:25,840 --> 00:46:26,680
+[SPEAKER_01]: That's with my dagger.
+
+1037
+00:46:29,182 --> 00:46:29,402
+[SPEAKER_01]: Two.
+
+1038
+00:46:29,482 --> 00:46:29,843
+[SPEAKER_01]: Eleven.
+
+1039
+00:46:30,083 --> 00:46:30,563
+[SPEAKER_03]: Eleven.
+
+1040
+00:46:30,883 --> 00:46:31,244
+[SPEAKER_01]: Miss.
+
+1041
+00:46:33,125 --> 00:46:34,666
+[SPEAKER_01]: Do you want to use your reaction?
+
+1042
+00:46:34,706 --> 00:46:37,508
+[SPEAKER_01]: I'll use my reaction this time to give him a one to four.
+
+1043
+00:46:37,888 --> 00:46:39,830
+[SPEAKER_01]: Do you want to add one die four to your attack?
+
+1044
+00:46:40,330 --> 00:46:41,031
+[SPEAKER_01]: You got eleven.
+
+1045
+00:46:41,231 --> 00:46:42,732
+[SPEAKER_01]: He's giving you your reaction.
+
+1046
+00:46:43,779 --> 00:46:44,639
+[SPEAKER_01]: Should that be 15?
+
+1047
+00:46:44,759 --> 00:46:45,700
+[SPEAKER_01]: It could be up to 15.
+
+1048
+00:46:45,760 --> 00:46:46,020
+[SPEAKER_01]: Up to 15?
+
+1049
+00:46:46,040 --> 00:46:48,540
+[SPEAKER_00]: Shit, I don't know what the hit is, so let's try it.
+
+1050
+00:46:48,620 --> 00:46:49,640
+[SPEAKER_00]: You rolled an 11?
+
+1051
+00:46:49,881 --> 00:46:50,141
+[SPEAKER_00]: Yeah.
+
+1052
+00:46:50,781 --> 00:46:51,601
+[SPEAKER_00]: Roll a four-sided?
+
+1053
+00:46:51,821 --> 00:46:52,941
+[SPEAKER_00]: Four-sided, yeah.
+
+1054
+00:46:54,162 --> 00:46:55,222
+[SPEAKER_00]: Names are hard to pick up.
+
+1055
+00:46:59,023 --> 00:47:00,363
+[SPEAKER_01]: Two, 13.
+
+1056
+00:47:00,383 --> 00:47:04,244
+[SPEAKER_01]: That's a miss.
+
+1057
+00:47:07,205 --> 00:47:07,565
+[SPEAKER_02]: Merrick.
+
+1058
+00:47:07,925 --> 00:47:08,225
+[SPEAKER_02]: Yep.
+
+1059
+00:47:09,575 --> 00:47:14,098
+[SPEAKER_02]: Still, I'm going to swing on that dude on the main guy.
+
+1060
+00:47:14,278 --> 00:47:14,959
+[SPEAKER_02]: Okay, roll it.
+
+1061
+00:47:17,761 --> 00:47:21,684
+[SPEAKER_02]: Nine plus three, or nine plus six.
+
+1062
+00:47:22,784 --> 00:47:23,605
+[SPEAKER_01]: That's a 15?
+
+1063
+00:47:23,665 --> 00:47:24,325
+[SPEAKER_01]: That is a hit.
+
+1064
+00:47:24,526 --> 00:47:26,787
+[SPEAKER_01]: Ooh, then one die eight.
+
+1065
+00:47:27,087 --> 00:47:28,048
+[SPEAKER_01]: Plus one die six?
+
+1066
+00:47:29,809 --> 00:47:31,330
+[SPEAKER_02]: Yes, one die six.
+
+1067
+00:47:35,387 --> 00:47:36,107
+[SPEAKER_02]: One, two, three.
+
+1068
+00:47:36,408 --> 00:47:38,589
+[SPEAKER_02]: Three plus, where were you?
+
+1069
+00:47:39,409 --> 00:47:43,392
+[SPEAKER_02]: Plus four, so seven.
+
+1070
+00:47:43,432 --> 00:47:44,152
+[SPEAKER_01]: Two points of damage.
+
+1071
+00:47:44,352 --> 00:47:48,815
+[SPEAKER_00]: Okay, so the guy grappling you falls off you as Gouge kills him.
+
+1072
+00:47:49,595 --> 00:47:52,357
+[SPEAKER_01]: And then you stab this guy with your rapier.
+
+1073
+00:47:59,721 --> 00:48:00,802
+[SPEAKER_01]: Tyrus, your turn.
+
+1074
+00:48:01,282 --> 00:48:01,522
+[SPEAKER_01]: Okay.
+
+1075
+00:48:01,542 --> 00:48:02,282
+[SPEAKER_01]: What should you do?
+
+1076
+00:48:02,983 --> 00:48:03,623
+[SPEAKER_03]: Stab the dude.
+
+1077
+00:48:03,983 --> 00:48:04,404
+[SPEAKER_02]: You hit him?
+
+1078
+00:48:04,464 --> 00:48:04,644
+[SPEAKER_02]: Yep.
+
+1079
+00:48:05,960 --> 00:48:11,386
+[SPEAKER_03]: All right, so I'm going to go for that dude, this one here.
+
+1080
+00:48:11,426 --> 00:48:13,008
+[SPEAKER_01]: And you want to use your thunderous smite?
+
+1081
+00:48:13,028 --> 00:48:13,708
+[SPEAKER_01]: Thunderous smite.
+
+1082
+00:48:13,788 --> 00:48:15,310
+[SPEAKER_01]: Okay, so you attack him?
+
+1083
+00:48:15,510 --> 00:48:15,711
+[SPEAKER_01]: Yep.
+
+1084
+00:48:16,932 --> 00:48:17,252
+[SPEAKER_03]: 6 plus 5?
+
+1085
+00:48:17,312 --> 00:48:17,553
+[SPEAKER_03]: 11.
+
+1086
+00:48:17,953 --> 00:48:19,234
+[SPEAKER_03]: That is a miss.
+
+1087
+00:48:20,235 --> 00:48:22,618
+[SPEAKER_03]: Damn it.
+
+1088
+00:48:27,513 --> 00:48:28,734
+[SPEAKER_01]: You have a bonus action.
+
+1089
+00:48:28,774 --> 00:48:29,834
+[SPEAKER_01]: You don't lose your spell.
+
+1090
+00:48:30,215 --> 00:48:30,475
+[SPEAKER_01]: Right.
+
+1091
+00:48:31,075 --> 00:48:32,516
+[SPEAKER_03]: Oh, so do I get my spell slot back?
+
+1092
+00:48:33,156 --> 00:48:34,957
+[SPEAKER_01]: No, it's still charged.
+
+1093
+00:48:35,057 --> 00:48:39,119
+[SPEAKER_01]: It's there until you hit somebody for the last 10 rounds.
+
+1094
+00:48:39,280 --> 00:48:39,560
+[SPEAKER_03]: Okay.
+
+1095
+00:48:40,700 --> 00:48:41,261
+[SPEAKER_03]: Okay, yeah.
+
+1096
+00:48:41,361 --> 00:48:43,142
+[SPEAKER_03]: So now I have a bonus action then.
+
+1097
+00:48:44,242 --> 00:48:48,965
+[SPEAKER_03]: As a bonus action, I can realize this is...
+
+1098
+00:48:50,533 --> 00:48:53,695
+[SPEAKER_00]: It's all happening and we're not even two minutes into what's going on.
+
+1099
+00:48:53,836 --> 00:48:54,116
+[SPEAKER_00]: Yeah.
+
+1100
+00:48:54,136 --> 00:48:57,258
+[SPEAKER_00]: So you're probably not even aware you need to be to talk to somebody.
+
+1101
+00:48:58,079 --> 00:48:59,960
+[SPEAKER_00]: Yeah, no.
+
+1102
+00:49:00,020 --> 00:49:03,803
+[SPEAKER_03]: As a bonus action I can lay on hands, right?
+
+1103
+00:49:03,943 --> 00:49:05,164
+[SPEAKER_01]: No, only an action.
+
+1104
+00:49:05,284 --> 00:49:06,165
+[SPEAKER_01]: Okay.
+
+1105
+00:49:07,906 --> 00:49:09,988
+[SPEAKER_03]: Then I don't have any other bonus actions I can do then.
+
+1106
+00:49:11,048 --> 00:49:14,011
+[SPEAKER_03]: It's all these spells that I have memorized I need an action for.
+
+1107
+00:49:15,359 --> 00:49:20,762
+[SPEAKER_00]: Separately, my assassinate skill, is that only on something planned?
+
+1108
+00:49:21,082 --> 00:49:22,863
+[SPEAKER_00]: It's not during the combat, I would assume.
+
+1109
+00:49:22,884 --> 00:49:23,404
+[SPEAKER_00]: You can't...
+
+1110
+00:49:23,724 --> 00:49:25,865
+[SPEAKER_01]: The assassinate works this way.
+
+1111
+00:49:26,546 --> 00:49:30,468
+[SPEAKER_01]: You get advantage on anyone that has not taken the first round of combat.
+
+1112
+00:49:30,908 --> 00:49:41,094
+[SPEAKER_01]: So, in other words, if you're on initiative and there are people... On the first round of combat, when combat starts, if you win initiative, you can get advantage on the first attack you manage.
+
+1113
+00:49:41,755 --> 00:49:42,175
+[SPEAKER_01]: Also,
+
+1114
+00:49:45,316 --> 00:49:50,199
+[SPEAKER_01]: If you hit somebody with surprise, automatic critical.
+
+1115
+00:49:51,259 --> 00:49:51,980
+[SPEAKER_01]: What's a crit?
+
+1116
+00:49:52,360 --> 00:49:56,342
+[SPEAKER_01]: A crit is double the dice damage.
+
+1117
+00:49:57,542 --> 00:49:58,003
+[SPEAKER_01]: Attacks.
+
+1118
+00:49:59,243 --> 00:50:01,104
+[SPEAKER_01]: Tyrus on you, this guy attacks.
+
+1119
+00:50:02,625 --> 00:50:05,146
+[SPEAKER_01]: Two miss, this guy attacks you.
+
+1120
+00:50:05,166 --> 00:50:06,467
+[SPEAKER_01]: Five miss, this guy attacks you.
+
+1121
+00:50:07,847 --> 00:50:09,749
+[SPEAKER_01]: 14, 15, 16, 17.
+
+1122
+00:50:09,769 --> 00:50:11,770
+[SPEAKER_01]: What's your AC?
+
+1123
+00:50:11,830 --> 00:50:11,991
+[SPEAKER_01]: 18.
+
+1124
+00:50:12,811 --> 00:50:13,992
+[SPEAKER_01]: You're not taken down.
+
+1125
+00:50:14,293 --> 00:50:18,416
+[SPEAKER_01]: This guy attacks Merrick.
+
+1126
+00:50:18,436 --> 00:50:18,916
+[SPEAKER_01]: 5 miss.
+
+1127
+00:50:18,937 --> 00:50:24,801
+[SPEAKER_01]: This guy attacks U-Gouge with his rapier.
+
+1128
+00:50:24,822 --> 00:50:27,063
+[SPEAKER_01]: 11 plus 5 is 16.
+
+1129
+00:50:27,364 --> 00:50:27,804
+[SPEAKER_01]: That's 16.
+
+1130
+00:50:27,904 --> 00:50:28,465
+[SPEAKER_01]: That is a hit.
+
+1131
+00:50:31,705 --> 00:50:35,527
+[SPEAKER_01]: You take one, two, three points of damage.
+
+1132
+00:50:35,867 --> 00:50:38,348
+[SPEAKER_01]: Do you want to do uncandidate damage and take only one?
+
+1133
+00:50:39,188 --> 00:50:39,588
+[SPEAKER_00]: Not yet.
+
+1134
+00:50:39,908 --> 00:50:40,208
+[SPEAKER_00]: Okay.
+
+1135
+00:50:40,228 --> 00:50:40,669
+[SPEAKER_00]: So three?
+
+1136
+00:50:40,849 --> 00:50:41,209
+[SPEAKER_00]: Yeah.
+
+1137
+00:50:41,349 --> 00:50:42,269
+[SPEAKER_00]: Three points of damage.
+
+1138
+00:50:42,389 --> 00:50:50,372
+[SPEAKER_00]: This guy attacks you.
+
+1139
+00:50:50,412 --> 00:50:50,652
+[SPEAKER_00]: Twenty.
+
+1140
+00:50:57,875 --> 00:50:58,275
+[SPEAKER_01]: That's me.
+
+1141
+00:50:58,776 --> 00:50:59,096
+[SPEAKER_00]: Yep.
+
+1142
+00:51:00,097 --> 00:51:00,597
+[SPEAKER_00]: He does.
+
+1143
+00:51:00,818 --> 00:51:01,278
+[SPEAKER_01]: Yep.
+
+1144
+00:51:01,658 --> 00:51:02,899
+[SPEAKER_00]: I'm gonna use mine.
+
+1145
+00:51:03,680 --> 00:51:05,822
+[SPEAKER_01]: Thirteen to fourteen points of damage.
+
+1146
+00:51:05,882 --> 00:51:07,503
+[SPEAKER_01]: I'm gonna take seven.
+
+1147
+00:51:08,524 --> 00:51:10,325
+[SPEAKER_03]: Good thing you saved him.
+
+1148
+00:51:10,406 --> 00:51:13,128
+[SPEAKER_01]: One, two, three, four.
+
+1149
+00:51:13,968 --> 00:51:15,230
+[SPEAKER_01]: This guy attacks Merrick.
+
+1150
+00:51:16,971 --> 00:51:17,551
+[SPEAKER_01]: Twelve.
+
+1151
+00:51:17,712 --> 00:51:18,072
+[SPEAKER_01]: Seven.
+
+1152
+00:51:19,473 --> 00:51:21,315
+[SPEAKER_01]: I think his AC is fifteen, right?
+
+1153
+00:51:21,335 --> 00:51:21,635
+[SPEAKER_01]: Yep.
+
+1154
+00:51:21,855 --> 00:51:22,496
+[SPEAKER_01]: He's not hit.
+
+1155
+00:51:24,137 --> 00:51:24,657
+[SPEAKER_01]: Bada bing.
+
+1156
+00:51:28,493 --> 00:51:29,013
+[SPEAKER_03]: Initiatives?
+
+1157
+00:51:29,674 --> 00:51:29,874
+[SPEAKER_03]: Yep.
+
+1158
+00:51:30,094 --> 00:51:32,856
+[SPEAKER_03]: Don't play as Merrick.
+
+1159
+00:51:33,457 --> 00:51:34,097
+[SPEAKER_01]: You gonna roll for him?
+
+1160
+00:51:34,117 --> 00:51:34,297
+[SPEAKER_01]: Yeah.
+
+1161
+00:51:34,337 --> 00:51:34,998
+[SPEAKER_01]: He's shitting.
+
+1162
+00:51:35,578 --> 00:51:36,039
+[SPEAKER_01]: Twenty-two.
+
+1163
+00:51:37,200 --> 00:51:37,680
+[SPEAKER_01]: Fourteen.
+
+1164
+00:51:38,060 --> 00:51:38,521
+[SPEAKER_01]: Twenty-two?
+
+1165
+00:51:38,541 --> 00:51:38,621
+[SPEAKER_01]: Yep.
+
+1166
+00:51:40,602 --> 00:51:41,082
+[SPEAKER_01]: Eighteen.
+
+1167
+00:51:41,943 --> 00:51:42,844
+[SPEAKER_01]: Eighteen plus three?
+
+1168
+00:51:42,924 --> 00:51:43,784
+[SPEAKER_00]: Plus the initiative.
+
+1169
+00:51:43,804 --> 00:51:44,345
+[SPEAKER_00]: It was eighteen.
+
+1170
+00:51:44,585 --> 00:51:46,186
+[SPEAKER_01]: Oh, it was eighteen altogether?
+
+1171
+00:51:46,246 --> 00:51:47,347
+[SPEAKER_01]: Okay.
+
+1172
+00:51:47,487 --> 00:51:47,787
+[SPEAKER_01]: Men.
+
+1173
+00:51:49,028 --> 00:51:49,829
+[SPEAKER_01]: Fuck you guys!
+
+1174
+00:51:49,909 --> 00:51:50,129
+[SPEAKER_01]: Eight.
+
+1175
+00:51:51,070 --> 00:51:51,550
+[SPEAKER_01]: This guy.
+
+1176
+00:51:51,610 --> 00:51:51,931
+[SPEAKER_01]: Big guy.
+
+1177
+00:51:51,971 --> 00:51:52,231
+[SPEAKER_01]: Low!
+
+1178
+00:51:52,351 --> 00:51:52,671
+[SPEAKER_01]: Low!
+
+1179
+00:51:52,791 --> 00:51:53,131
+[SPEAKER_03]: Low!
+
+1180
+00:51:53,432 --> 00:51:53,712
+[SPEAKER_03]: Two.
+
+1181
+00:51:54,152 --> 00:51:54,332
+[SPEAKER_03]: Low.
+
+1182
+00:51:54,392 --> 00:51:54,713
+[SPEAKER_03]: Four.
+
+1183
+00:51:56,107 --> 00:51:58,469
+[SPEAKER_03]: Okay, Tyrus, you're first.
+
+1184
+00:51:58,729 --> 00:52:01,051
+[SPEAKER_03]: I'm swinging on that same dude that's right there again.
+
+1185
+00:52:01,071 --> 00:52:01,571
+[SPEAKER_03]: That guy?
+
+1186
+00:52:01,611 --> 00:52:04,553
+[SPEAKER_03]: I got my thunder smite already charged.
+
+1187
+00:52:04,653 --> 00:52:06,655
+[SPEAKER_03]: Okay.
+
+1188
+00:52:06,775 --> 00:52:08,957
+[SPEAKER_03]: Five, ten.
+
+1189
+00:52:10,058 --> 00:52:10,658
+[SPEAKER_03]: Ten total?
+
+1190
+00:52:10,698 --> 00:52:10,958
+[SPEAKER_03]: Yep.
+
+1191
+00:52:11,118 --> 00:52:11,439
+[SPEAKER_03]: Miss.
+
+1192
+00:52:12,099 --> 00:52:13,260
+[SPEAKER_03]: Can you give me that juice?
+
+1193
+00:52:13,480 --> 00:52:17,863
+[SPEAKER_03]: I think I need that juice.
+
+1194
+00:52:17,903 --> 00:52:19,204
+[SPEAKER_00]: You can't do it yourself, can you?
+
+1195
+00:52:19,405 --> 00:52:20,385
+[SPEAKER_00]: Are your stones up?
+
+1196
+00:52:20,986 --> 00:52:21,226
+[SPEAKER_00]: Yeah.
+
+1197
+00:52:24,517 --> 00:52:28,178
+[SPEAKER_00]: It is now you, Merrick.
+
+1198
+00:52:29,338 --> 00:52:30,939
+[SPEAKER_00]: He's deadlocked on the big guy.
+
+1199
+00:52:30,959 --> 00:52:32,919
+[SPEAKER_00]: He's deadlocked on the big guy.
+
+1200
+00:52:33,399 --> 00:52:34,499
+[SPEAKER_00]: Did he cast Hunter's Mark?
+
+1201
+00:52:34,759 --> 00:52:34,959
+[SPEAKER_00]: Yes.
+
+1202
+00:52:34,999 --> 00:52:35,800
+[SPEAKER_00]: On him.
+
+1203
+00:52:35,860 --> 00:52:37,280
+[SPEAKER_01]: He moved it for the big guy?
+
+1204
+00:52:37,360 --> 00:52:38,200
+[SPEAKER_01]: Yeah, he did.
+
+1205
+00:52:39,040 --> 00:52:41,341
+[SPEAKER_01]: Extra one die six of damage if you hit the guy.
+
+1206
+00:52:41,381 --> 00:52:42,001
+[SPEAKER_00]: If I hit him, okay.
+
+1207
+00:52:42,061 --> 00:52:43,882
+[SPEAKER_01]: And you get bonus on tracking people.
+
+1208
+00:52:44,062 --> 00:52:45,402
+[SPEAKER_00]: Okay, cool.
+
+1209
+00:52:46,222 --> 00:52:47,202
+[SPEAKER_00]: And I have my dagger out?
+
+1210
+00:52:47,882 --> 00:52:49,623
+[SPEAKER_00]: You have your reappear out.
+
+1211
+00:52:50,043 --> 00:52:53,584
+[SPEAKER_00]: I aim to hit for his leg, if I can.
+
+1212
+00:52:53,904 --> 00:52:54,164
+[SPEAKER_00]: Sure.
+
+1213
+00:52:57,527 --> 00:53:00,429
+[SPEAKER_00]: Eight plus six, so fourteen.
+
+1214
+00:53:00,749 --> 00:53:01,350
+[SPEAKER_01]: Fourteen?
+
+1215
+00:53:01,370 --> 00:53:02,190
+[SPEAKER_00]: That's a mess.
+
+1216
+00:53:02,611 --> 00:53:03,932
+[SPEAKER_01]: Do you want to do a reaction?
+
+1217
+00:53:04,032 --> 00:53:06,834
+[SPEAKER_01]: I will do my deal to give him a one to four.
+
+1218
+00:53:06,934 --> 00:53:09,656
+[SPEAKER_01]: One die four, roll that and add it to your attack bonus.
+
+1219
+00:53:10,037 --> 00:53:11,138
+[SPEAKER_01]: I want to give a four.
+
+1220
+00:53:11,198 --> 00:53:14,741
+[SPEAKER_01]: Let's go this one.
+
+1221
+00:53:14,761 --> 00:53:14,841
+[SPEAKER_01]: One!
+
+1222
+00:53:15,581 --> 00:53:16,062
+[SPEAKER_01]: That hits.
+
+1223
+00:53:16,702 --> 00:53:17,763
+[SPEAKER_01]: Hey!
+
+1224
+00:53:19,284 --> 00:53:19,705
+[SPEAKER_01]: All right.
+
+1225
+00:53:19,825 --> 00:53:22,387
+[SPEAKER_01]: And it's one die eight and one die six damage.
+
+1226
+00:53:23,489 --> 00:53:24,510
+[SPEAKER_02]: One die eight and one die six.
+
+1227
+00:53:25,630 --> 00:53:26,731
+[SPEAKER_01]: The rip here is one die eight.
+
+1228
+00:53:27,571 --> 00:53:29,172
+[SPEAKER_01]: Hunter's Mark adds a die six.
+
+1229
+00:53:29,772 --> 00:53:30,052
+[SPEAKER_02]: Okay.
+
+1230
+00:53:30,973 --> 00:53:32,373
+[SPEAKER_01]: Plus, I think, four.
+
+1231
+00:53:33,334 --> 00:53:36,235
+[SPEAKER_01]: I'm going to go for my dies here.
+
+1232
+00:53:36,295 --> 00:53:37,416
+[SPEAKER_01]: Are you cross-charactering dies?
+
+1233
+00:53:37,456 --> 00:53:38,116
+[SPEAKER_00]: Yep, I am.
+
+1234
+00:53:38,456 --> 00:53:39,437
+[SPEAKER_00]: One die six and one die eight.
+
+1235
+00:53:42,258 --> 00:53:43,619
+[SPEAKER_01]: Four and two, so six.
+
+1236
+00:53:44,059 --> 00:53:46,400
+[SPEAKER_01]: Six plus four is ten.
+
+1237
+00:53:51,590 --> 00:53:54,293
+[SPEAKER_01]: Put him in the shoulder.
+
+1238
+00:53:55,854 --> 00:53:57,015
+[SPEAKER_00]: I'm still taking more than that.
+
+1239
+00:53:58,776 --> 00:53:59,977
+[SPEAKER_01]: First leg hit his shoulder.
+
+1240
+00:54:00,298 --> 00:54:05,842
+[SPEAKER_01]: Okay, and then Tyrus and Gouge is next.
+
+1241
+00:54:06,798 --> 00:54:08,178
+[SPEAKER_00]: Okay, I'm at the big guy, right?
+
+1242
+00:54:08,238 --> 00:54:08,539
+[SPEAKER_00]: Yeah.
+
+1243
+00:54:08,639 --> 00:54:09,579
+[SPEAKER_00]: The guy's on me.
+
+1244
+00:54:09,759 --> 00:54:15,261
+[SPEAKER_00]: Okay, I'm going to try to do the two-handed and sneak attack.
+
+1245
+00:54:15,581 --> 00:54:17,441
+[SPEAKER_01]: Okay, so Cutlass attack, right?
+
+1246
+00:54:17,722 --> 00:54:19,982
+[SPEAKER_00]: Cutlass attack with the sneak attack first.
+
+1247
+00:54:20,102 --> 00:54:20,683
+[SPEAKER_00]: Oh, yeah, yeah, yeah.
+
+1248
+00:54:20,723 --> 00:54:20,863
+[SPEAKER_00]: Okay.
+
+1249
+00:54:21,183 --> 00:54:22,623
+[SPEAKER_00]: Oh, I thought you used a spell.
+
+1250
+00:54:22,723 --> 00:54:23,684
+[SPEAKER_00]: Come on.
+
+1251
+00:54:23,704 --> 00:54:23,984
+[SPEAKER_00]: 20!
+
+1252
+00:54:24,284 --> 00:54:26,184
+[SPEAKER_01]: Whoa, it's crazy.
+
+1253
+00:54:26,204 --> 00:54:27,365
+[SPEAKER_01]: So that is... 29.
+
+1254
+00:54:27,605 --> 00:54:28,905
+[SPEAKER_01]: What's the sneak attack?
+
+1255
+00:54:28,965 --> 00:54:29,105
+[SPEAKER_01]: 8.6.
+
+1256
+00:54:34,797 --> 00:54:35,477
+[SPEAKER_01]: Plus six.
+
+1257
+00:54:35,857 --> 00:54:36,698
+[SPEAKER_01]: Eight die six.
+
+1258
+00:54:37,038 --> 00:54:37,638
+[SPEAKER_01]: Plus six.
+
+1259
+00:54:40,319 --> 00:54:41,199
+[SPEAKER_02]: You took no damage.
+
+1260
+00:54:41,479 --> 00:54:42,380
+[SPEAKER_02]: I rolled initiative.
+
+1261
+00:54:43,300 --> 00:54:44,700
+[SPEAKER_02]: And I hit the guy for ten.
+
+1262
+00:54:44,800 --> 00:54:45,321
+[SPEAKER_00]: Ten.
+
+1263
+00:54:45,341 --> 00:54:50,162
+[SPEAKER_00]: I did one.
+
+1264
+00:54:50,723 --> 00:54:51,323
+[SPEAKER_00]: Yeah, Merrick did.
+
+1265
+00:54:51,443 --> 00:54:51,823
+[SPEAKER_00]: Twenty.
+
+1266
+00:54:52,883 --> 00:54:53,684
+[SPEAKER_00]: Twenty.
+
+1267
+00:54:54,544 --> 00:54:55,644
+[SPEAKER_00]: Six plus six.
+
+1268
+00:54:55,884 --> 00:54:56,565
+[SPEAKER_00]: Thirty-two.
+
+1269
+00:54:58,465 --> 00:55:03,067
+[SPEAKER_01]: Your Cutlass goes across his throat, opening it up, and
+
+1270
+00:55:04,267 --> 00:55:08,929
+[SPEAKER_01]: A crimson wave goes all over Merrick.
+
+1271
+00:55:14,311 --> 00:55:15,431
+[SPEAKER_00]: Just like my girlfriend.
+
+1272
+00:55:15,651 --> 00:55:18,893
+[SPEAKER_00]: That guy falls.
+
+1273
+00:55:19,833 --> 00:55:20,273
+[SPEAKER_01]: What now?
+
+1274
+00:55:20,713 --> 00:55:23,715
+[SPEAKER_01]: You've got Dagger, the guy that fuckin' want me.
+
+1275
+00:55:24,295 --> 00:55:28,657
+[SPEAKER_01]: Okay, so turn with your bonus action and stab on that guy.
+
+1276
+00:55:28,697 --> 00:55:28,997
+[SPEAKER_01]: Yeah.
+
+1277
+00:55:29,217 --> 00:55:29,557
+[SPEAKER_01]: Okay.
+
+1278
+00:55:33,353 --> 00:55:34,053
+[SPEAKER_01]: 17, 26.
+
+1279
+00:55:34,073 --> 00:55:36,055
+[SPEAKER_01]: 26, that's a hit.
+
+1280
+00:55:36,775 --> 00:55:40,058
+[SPEAKER_01]: One die four plus six.
+
+1281
+00:55:43,761 --> 00:55:44,162
+[SPEAKER_01]: Ten.
+
+1282
+00:55:44,802 --> 00:55:46,443
+[SPEAKER_01]: Ten points of damage on that guy.
+
+1283
+00:55:46,664 --> 00:55:47,524
+[SPEAKER_01]: Stab that guy.
+
+1284
+00:55:51,808 --> 00:55:52,328
+[SPEAKER_01]: Okay.
+
+1285
+00:55:53,629 --> 00:55:54,730
+[SPEAKER_01]: This guy falls.
+
+1286
+00:55:56,011 --> 00:55:57,232
+[SPEAKER_01]: That guy gets stabbed.
+
+1287
+00:55:59,074 --> 00:56:00,114
+[SPEAKER_01]: It's the men's turn.
+
+1288
+00:56:01,553 --> 00:56:07,898
+[SPEAKER_01]: This guy disengages from you 1, 2, 3, 4, 5, 6 to there.
+
+1289
+00:56:09,159 --> 00:56:09,800
+[SPEAKER_01]: Morale check.
+
+1290
+00:56:09,920 --> 00:56:12,562
+[SPEAKER_01]: 1, 2, 3, 4, 5, 6 there.
+
+1291
+00:56:14,724 --> 00:56:16,966
+[SPEAKER_01]: 1, 2, 3, 4, 5, 6 there.
+
+1292
+00:56:19,367 --> 00:56:21,229
+[SPEAKER_03]: Now is there a reaction that they're disengaging?
+
+1293
+00:56:21,529 --> 00:56:22,930
+[SPEAKER_03]: Do I get a reaction on any one of those?
+
+1294
+00:56:23,211 --> 00:56:25,632
+[SPEAKER_03]: No, because they are all using their actions.
+
+1295
+00:56:25,693 --> 00:56:26,193
+[SPEAKER_03]: 1, 2, 3, 4, 5, 6.
+
+1296
+00:56:32,566 --> 00:56:34,448
+[SPEAKER_01]: One, two, three, four, five, six.
+
+1297
+00:56:39,852 --> 00:56:43,614
+[SPEAKER_01]: One, two, three, four, five, six.
+
+1298
+00:56:44,575 --> 00:56:50,660
+[SPEAKER_01]: Yeah, so these guys see their guy just gush and they scatter.
+
+1299
+00:56:55,343 --> 00:56:57,825
+[SPEAKER_01]: Three of you are standing here in the middle of this bar.
+
+1300
+00:56:58,386 --> 00:57:00,087
+[SPEAKER_01]: Other patrons are just sitting there with
+
+1301
+00:57:01,637 --> 00:57:05,599
+[SPEAKER_02]: They're all good.
+
+1302
+00:57:05,799 --> 00:57:06,699
+[SPEAKER_00]: Two gold on him.
+
+1303
+00:57:08,080 --> 00:57:09,261
+[SPEAKER_00]: I'll take that, I'll take that.
+
+1304
+00:57:09,281 --> 00:57:10,141
+[SPEAKER_01]: Anish, yes.
+
+1305
+00:57:10,161 --> 00:57:10,441
+[SPEAKER_01]: Twenty-one.
+
+1306
+00:57:10,461 --> 00:57:10,661
+[SPEAKER_01]: Nine.
+
+1307
+00:57:11,522 --> 00:57:11,782
+[SPEAKER_01]: Nine.
+
+1308
+00:57:11,802 --> 00:57:11,902
+[SPEAKER_01]: Six.
+
+1309
+00:57:11,942 --> 00:57:16,624
+[SPEAKER_01]: The men get...
+
+1310
+00:57:30,421 --> 00:57:30,781
+[SPEAKER_01]: Two.
+
+1311
+00:57:32,102 --> 00:57:32,462
+[SPEAKER_01]: So.
+
+1312
+00:57:32,742 --> 00:57:33,343
+[SPEAKER_01]: And he's gone.
+
+1313
+00:57:34,363 --> 00:57:34,904
+[SPEAKER_01]: He's dead.
+
+1314
+00:57:35,024 --> 00:57:36,004
+[SPEAKER_01]: So what do you guys want to do?
+
+1315
+00:57:38,146 --> 00:57:38,346
+[SPEAKER_01]: Oh.
+
+1316
+00:57:40,147 --> 00:57:40,807
+[SPEAKER_00]: Gouge, Merrick.
+
+1317
+00:57:40,967 --> 00:57:44,429
+[SPEAKER_00]: Can I catch the guy with a dash and fucking scimitar him?
+
+1318
+00:57:44,709 --> 00:57:45,470
+[SPEAKER_00]: The guy that hit me?
+
+1319
+00:57:45,970 --> 00:57:47,831
+[SPEAKER_01]: One, two, three, four, five, six.
+
+1320
+00:57:47,991 --> 00:57:48,512
+[SPEAKER_01]: Right to there.
+
+1321
+00:57:48,652 --> 00:57:48,852
+[SPEAKER_01]: Yep.
+
+1322
+00:57:50,053 --> 00:57:51,493
+[SPEAKER_00]: Gouge, Jesus.
+
+1323
+00:57:51,513 --> 00:57:53,034
+[SPEAKER_00]: The guy with a scimitar.
+
+1324
+00:57:53,294 --> 00:57:54,795
+[SPEAKER_02]: Jumping on his neck.
+
+1325
+00:57:56,997 --> 00:57:58,898
+[SPEAKER_01]: Nine plus nine is a hit.
+
+1326
+00:58:03,090 --> 00:58:03,470
+[SPEAKER_01]: Nine.
+
+1327
+00:58:03,890 --> 00:58:04,850
+[SPEAKER_01]: Nine points of damage.
+
+1328
+00:58:04,870 --> 00:58:06,371
+[SPEAKER_01]: So he has 19 off him.
+
+1329
+00:58:06,731 --> 00:58:08,231
+[SPEAKER_01]: You want to attack him with the dagger?
+
+1330
+00:58:08,251 --> 00:58:08,711
+[SPEAKER_00]: Mm-hmm.
+
+1331
+00:58:08,871 --> 00:58:09,051
+[SPEAKER_00]: Okay.
+
+1332
+00:58:09,292 --> 00:58:10,792
+[SPEAKER_01]: Come on, fucker.
+
+1333
+00:58:11,532 --> 00:58:12,172
+[SPEAKER_01]: Seventeen.
+
+1334
+00:58:12,312 --> 00:58:12,832
+[SPEAKER_01]: That's a hit.
+
+1335
+00:58:12,972 --> 00:58:13,513
+[SPEAKER_01]: One die four.
+
+1336
+00:58:18,034 --> 00:58:19,894
+[SPEAKER_01]: One plus six, seven more.
+
+1337
+00:58:20,394 --> 00:58:21,675
+[SPEAKER_01]: Okay, he falls.
+
+1338
+00:58:22,135 --> 00:58:28,476
+[SPEAKER_01]: You basically go on his back and hit him in the leg and then stab him in the shoulder with the knife.
+
+1339
+00:58:28,756 --> 00:58:29,857
+[SPEAKER_01]: I'll go down with him.
+
+1340
+00:58:30,137 --> 00:58:31,377
+[SPEAKER_01]: I'll fucking go right down with him.
+
+1341
+00:58:34,909 --> 00:58:36,390
+[SPEAKER_01]: Moving your knife into it.
+
+1342
+00:58:37,451 --> 00:58:40,154
+[SPEAKER_00]: Okay, Merrick?
+
+1343
+00:58:42,857 --> 00:58:48,943
+[SPEAKER_01]: Can I... You can bonus action, move the hunter's mark to another character.
+
+1344
+00:58:52,406 --> 00:58:54,608
+[SPEAKER_01]: I want to try to stop all of that.
+
+1345
+00:58:56,560 --> 00:58:57,420
+[SPEAKER_01]: Start to drop.
+
+1346
+00:58:57,700 --> 00:58:59,061
+[SPEAKER_01]: You can grapple one.
+
+1347
+00:58:59,081 --> 00:59:01,301
+[SPEAKER_01]: You can jump, you can run to one and grapple one.
+
+1348
+00:59:01,321 --> 00:59:01,621
+[SPEAKER_01]: Where am I?
+
+1349
+00:59:01,741 --> 00:59:02,061
+[SPEAKER_01]: Right here?
+
+1350
+00:59:02,401 --> 00:59:02,601
+[SPEAKER_01]: Yeah.
+
+1351
+00:59:02,621 --> 00:59:03,942
+[SPEAKER_02]: Where's this guy still alive?
+
+1352
+00:59:04,262 --> 00:59:04,762
+[SPEAKER_02]: Yeah, I know.
+
+1353
+00:59:05,382 --> 00:59:07,623
+[SPEAKER_02]: One, two, three, four, five, six.
+
+1354
+00:59:08,063 --> 00:59:09,563
+[SPEAKER_02]: I can get there and then I can grapple him?
+
+1355
+00:59:09,703 --> 00:59:09,983
+[SPEAKER_02]: Yeah.
+
+1356
+00:59:10,103 --> 00:59:10,543
+[SPEAKER_02]: Okay.
+
+1357
+00:59:10,563 --> 00:59:11,244
+[SPEAKER_02]: I'm running there.
+
+1358
+00:59:12,664 --> 00:59:13,284
+[SPEAKER_02]: And you grab him?
+
+1359
+00:59:13,424 --> 00:59:13,904
+[SPEAKER_02]: Grab him.
+
+1360
+00:59:14,124 --> 00:59:15,425
+[SPEAKER_02]: Like, try to get him to the ground.
+
+1361
+00:59:15,565 --> 00:59:15,945
+[SPEAKER_02]: Okay.
+
+1362
+00:59:16,405 --> 00:59:17,125
+[SPEAKER_02]: Roll your attack.
+
+1363
+00:59:21,540 --> 00:59:22,701
+[SPEAKER_02]: Five plus...
+
+1364
+00:59:23,001 --> 00:59:25,723
+[SPEAKER_02]: Attack bonus, because it's just me?
+
+1365
+00:59:25,883 --> 00:59:27,104
+[SPEAKER_02]: It's five plus your strength.
+
+1366
+00:59:27,144 --> 00:59:28,105
+[SPEAKER_01]: Give your juju!
+
+1367
+00:59:28,806 --> 00:59:29,666
+[SPEAKER_01]: Throw your juju!
+
+1368
+00:59:29,706 --> 00:59:30,187
+[SPEAKER_01]: Plus two.
+
+1369
+00:59:30,867 --> 00:59:31,247
+[SPEAKER_01]: Seven.
+
+1370
+00:59:31,768 --> 00:59:33,069
+[SPEAKER_01]: You do not hit.
+
+1371
+00:59:34,570 --> 00:59:34,830
+[SPEAKER_01]: You.
+
+1372
+00:59:35,150 --> 00:59:35,531
+[SPEAKER_03]: Alright.
+
+1373
+00:59:38,473 --> 00:59:39,494
+[SPEAKER_03]: I use command.
+
+1374
+00:59:40,795 --> 00:59:41,115
+[SPEAKER_03]: Okay.
+
+1375
+00:59:41,436 --> 00:59:43,698
+[SPEAKER_03]: I use command on this guy right here.
+
+1376
+00:59:43,718 --> 00:59:44,318
+[SPEAKER_01]: Okay.
+
+1377
+00:59:44,739 --> 00:59:45,739
+[SPEAKER_01]: Do you want to walk forward?
+
+1378
+00:59:46,120 --> 00:59:48,322
+[SPEAKER_01]: Yeah, I'm going to run to there.
+
+1379
+00:59:48,342 --> 00:59:50,123
+[SPEAKER_01]: One, two, three, four, five, six.
+
+1380
+00:59:50,263 --> 00:59:50,724
+[SPEAKER_03]: Command.
+
+1381
+00:59:51,705 --> 00:59:53,446
+[SPEAKER_03]: It's a wisdom check.
+
+1382
+00:59:53,926 --> 00:59:59,731
+[SPEAKER_03]: And I'm going to tell him to drop.
+
+1383
+01:00:00,774 --> 01:00:01,414
+[SPEAKER_03]: To the ground.
+
+1384
+01:00:01,514 --> 01:00:01,854
+[SPEAKER_03]: Stop.
+
+1385
+01:00:02,335 --> 01:00:02,755
+[SPEAKER_01]: Stop!
+
+1386
+01:00:02,875 --> 01:00:03,275
+[SPEAKER_01]: Hold!
+
+1387
+01:00:03,335 --> 01:00:03,635
+[SPEAKER_01]: Yeah, yeah.
+
+1388
+01:00:03,915 --> 01:00:06,276
+[SPEAKER_01]: Okay, here's his... To the ground, bitch!
+
+1389
+01:00:07,076 --> 01:00:08,036
+[SPEAKER_01]: He does not make it.
+
+1390
+01:00:08,517 --> 01:00:09,537
+[SPEAKER_01]: He just, he stops.
+
+1391
+01:00:09,857 --> 01:00:10,457
+[SPEAKER_01]: It's weapon and allot.
+
+1392
+01:00:10,497 --> 01:00:11,958
+[SPEAKER_01]: We'll sit you in surprise.
+
+1393
+01:00:13,438 --> 01:00:14,279
+[SPEAKER_01]: Okay.
+
+1394
+01:00:14,299 --> 01:00:15,739
+[SPEAKER_01]: Do you want to put your sword to his neck?
+
+1395
+01:00:15,939 --> 01:00:16,639
+[SPEAKER_01]: Yeah, yeah, yeah.
+
+1396
+01:00:16,699 --> 01:00:18,700
+[SPEAKER_01]: I'm like, I'm holding his ass in place.
+
+1397
+01:00:18,940 --> 01:00:19,320
+[SPEAKER_01]: Okay.
+
+1398
+01:00:20,981 --> 01:00:22,021
+[SPEAKER_00]: I'm on the ground watching.
+
+1399
+01:00:22,721 --> 01:00:23,002
+[SPEAKER_00]: Alright.
+
+1400
+01:00:23,022 --> 01:00:24,962
+[SPEAKER_00]: This bite may look like, fuckin' do it.
+
+1401
+01:00:25,482 --> 01:00:26,243
+[SPEAKER_03]: Fuckin' do it.
+
+1402
+01:00:26,323 --> 01:00:27,603
+[SPEAKER_00]: Fuckin' do it.
+
+1403
+01:00:27,923 --> 01:00:28,223
+Okay.
+
+1404
+01:00:30,835 --> 01:00:33,456
+[SPEAKER_01]: Next round, Roland Esch.
+
+1405
+01:00:33,916 --> 01:00:34,916
+[SPEAKER_00]: How many, where are the guys?
+
+1406
+01:00:35,857 --> 01:00:37,477
+[SPEAKER_00]: These guys run this way.
+
+1407
+01:00:38,457 --> 01:00:39,278
+[SPEAKER_00]: I'm shopping.
+
+1408
+01:00:39,318 --> 01:00:39,998
+[SPEAKER_00]: Twenty-four!
+
+1409
+01:00:41,498 --> 01:00:43,559
+[SPEAKER_00]: That's the Colt Terrier.
+
+1410
+01:00:43,679 --> 01:00:44,579
+[SPEAKER_00]: Eight.
+
+1411
+01:00:45,200 --> 01:00:45,500
+[SPEAKER_00]: Eleven.
+
+1412
+01:00:45,840 --> 01:00:46,120
+[SPEAKER_00]: Eleven?
+
+1413
+01:00:46,140 --> 01:00:47,180
+[SPEAKER_00]: That's out of my kit I got.
+
+1414
+01:00:47,200 --> 01:00:48,481
+[SPEAKER_00]: Yeah, Colt picked up.
+
+1415
+01:00:48,941 --> 01:00:49,161
+[SPEAKER_01]: Ten.
+
+1416
+01:00:49,201 --> 01:00:49,701
+[SPEAKER_01]: That's right.
+
+1417
+01:00:49,861 --> 01:00:50,141
+[SPEAKER_01]: Ten?
+
+1418
+01:00:51,361 --> 01:00:51,762
+[SPEAKER_01]: The guys.
+
+1419
+01:00:52,822 --> 01:00:53,102
+[SPEAKER_01]: Four.
+
+1420
+01:00:54,042 --> 01:00:54,302
+[SPEAKER_01]: Okay.
+
+1421
+01:00:55,103 --> 01:00:55,923
+[SPEAKER_01]: These guys bold.
+
+1422
+01:00:57,272 --> 01:01:01,894
+[SPEAKER_01]: This guy stays where he is, and you have your sword at him, charged with a thunderous might.
+
+1423
+01:01:02,734 --> 01:01:03,955
+[SPEAKER_01]: He struts to his knees.
+
+1424
+01:01:08,996 --> 01:01:11,257
+[SPEAKER_02]: Quit making kissy faces.
+
+1425
+01:01:12,578 --> 01:01:13,438
+[SPEAKER_02]: Try to grapple it again.
+
+1426
+01:01:13,458 --> 01:01:15,019
+[SPEAKER_02]: Okay, grapple him.
+
+1427
+01:01:17,039 --> 01:01:19,900
+[SPEAKER_02]: Thirteen plus fifteen.
+
+1428
+01:01:20,221 --> 01:01:20,741
+[SPEAKER_02]: You grab it.
+
+1429
+01:01:21,961 --> 01:01:23,802
+[SPEAKER_02]: Okay, do you want to say anything to him?
+
+1430
+01:01:28,713 --> 01:01:32,075
+[SPEAKER_02]: If you want to live, surrender right now.
+
+1431
+01:01:32,335 --> 01:01:32,595
+[SPEAKER_02]: Stop.
+
+1432
+01:01:32,875 --> 01:01:33,055
+[SPEAKER_02]: Yeah.
+
+1433
+01:01:34,416 --> 01:01:39,059
+[SPEAKER_01]: He goes, Yes sir.
+
+1434
+01:01:40,700 --> 01:01:41,900
+[SPEAKER_01]: I was only paid for this.
+
+1435
+01:01:41,920 --> 01:01:44,562
+[SPEAKER_01]: Okay.
+
+1436
+01:01:45,602 --> 01:01:45,842
+[SPEAKER_01]: All right.
+
+1437
+01:01:46,002 --> 01:01:47,603
+[SPEAKER_01]: These guys run away.
+
+1438
+01:01:48,984 --> 01:01:52,646
+[SPEAKER_01]: You guys are left in this crowded bar with
+
+1439
+01:01:54,988 --> 01:02:01,137
+[SPEAKER_01]: I would say about eight dead bodies on the floor, lying on the floor, bleeding out, and the three of you standing there.
+
+1440
+01:02:02,639 --> 01:02:06,864
+[SPEAKER_00]: I'm gonna go check the Crimson Tide.
+
+1441
+01:02:06,884 --> 01:02:09,948
+[SPEAKER_01]: So you come over and walk over there and grab that hand.
+
+1442
+01:02:10,189 --> 01:02:11,350
+[SPEAKER_00]: What are you gonna do with your dudes?
+
+1443
+01:02:14,123 --> 01:02:16,144
+[SPEAKER_03]: I'm gonna say, get up and walk to the bar.
+
+1444
+01:02:16,925 --> 01:02:18,445
+[SPEAKER_03]: Walk in and back towards Gouge.
+
+1445
+01:02:18,625 --> 01:02:19,246
+[SPEAKER_01]: Over to there?
+
+1446
+01:02:19,506 --> 01:02:19,686
+[SPEAKER_01]: Yeah.
+
+1447
+01:02:19,746 --> 01:02:22,928
+[SPEAKER_01]: Okay, he turns and follows you back over to here.
+
+1448
+01:02:23,288 --> 01:02:23,908
+[SPEAKER_01]: I bring my guys.
+
+1449
+01:02:24,028 --> 01:02:25,509
+[SPEAKER_01]: And you bring your guy over to there.
+
+1450
+01:02:26,029 --> 01:02:30,632
+[SPEAKER_01]: Okay, so the three of you basically coalesce in the middle of Gouge.
+

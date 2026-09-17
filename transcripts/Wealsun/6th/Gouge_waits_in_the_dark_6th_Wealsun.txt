@@ -1,0 +1,128 @@
+[SPEAKER_00A]: Okay, so Gouge, you go back to the bar and get an ale from there and then walk outside into an alleyway and sit there drinking your ale in the shadows.
+[SPEAKER_00A]: Yes.
+[SPEAKER_00A]: Right?
+[game mechanics] [SPEAKER_00A]: Roll your stealth.
+[out-of-band] [SPEAKER_02]: Okay, cool Terry.
+[game mechanics] [SPEAKER_04A]: You want high.
+[game mechanics] [SPEAKER_04A]: One plus ten is eleven.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: So you're sitting there, and you probably sit there and drink for maybe two minutes.
+[SPEAKER_00A]: And then you see Folsom rushing down from the market where you had gone first, basically into Red Shore.
+[SPEAKER_00A]: And he's got this worried look on his face.
+[SPEAKER_00A]: And you see him coming towards the bar like,
+[SPEAKER_00A]: Kind of looking in there, trying to see what's going on, and he sees the dead bodies.
+[SPEAKER_00A]: Right?
+[SPEAKER_00A]: What are you going to do?
+[SPEAKER_04A]: I'm going to whistle at them.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: You hear a whistle, and you see like a figure sitting in the alleyway, if you could call it an alleyway, next to this ramshackle bar.
+[game mechanics] [SPEAKER_07A]: Do I not know who it is?
+[game mechanics] [SPEAKER_07A]: World perception?
+[game mechanics] [SPEAKER_07A]: Seventeen.
+[game mechanics] [SPEAKER_07A]: Plus three.
+[game mechanics] [SPEAKER_00A]: You know.
+[SPEAKER_00A]: The shape of Gouge.
+[SPEAKER_00A]: Tall.
+[SPEAKER_00A]: The way he's lounging.
+[SPEAKER_00A]: The whistle.
+[SPEAKER_00A]: You're pretty relieved.
+[SPEAKER_07A]: Yeah.
+[SPEAKER_00A]: Actually, what do you do?
+[SPEAKER_07A]: I immediately cast Message.
+[SPEAKER_07A]: Okay.
+[SPEAKER_07A]: Since we're far away still.
+[SPEAKER_07A]: And I message to him.
+[SPEAKER_07A]: Are you guys alright?
+[game mechanics] [SPEAKER_04A]: I can't speak back through messaging.
+[game mechanics] [SPEAKER_07A]: Yes, you can.
+[game mechanics] [SPEAKER_07A]: It's just our minds talking.
+[SPEAKER_04A]: Oh.
+[SPEAKER_04A]: A good fight got beat down a bit, but came out on top.
+[SPEAKER_07A]: Everyone's alive?
+[SPEAKER_04A]: Yeah.
+[SPEAKER_04A]: They're back at the ship.
+[SPEAKER_07A]: Uh... Owen sent them.
+[SPEAKER_07A]: Okay.
+[SPEAKER_04A]: Where's Owen?
+[SPEAKER_07A]: He took me to a ship beyond the merchants.
+[SPEAKER_07A]: And he's far away, right?
+[SPEAKER_07A]: Yeah.
+[SPEAKER_07A]: I'm walking towards him.
+[SPEAKER_07A]: Okay.
+[SPEAKER_07A]: I just want to get the information immediately.
+[SPEAKER_07A]: Okay.
+[SPEAKER_07A]: I'm walking towards him.
+[SPEAKER_04A]: How did you get out of there?
+[SPEAKER_07A]: Long story short, I blinded him.
+[SPEAKER_07A]: He had a Toli, a Toli friend who I stabbed.
+[SPEAKER_07A]: They hurt pretty well and I ran off their ship.
+[SPEAKER_04A]: You unharmed?
+[SPEAKER_07A]: I'm great.
+[SPEAKER_07A]: I did not scratch on me.
+[SPEAKER_07A]: They tried to imprison me and take me to...
+[SPEAKER_07A]: They tried to take me to King Toli.
+[SPEAKER_07A]: Take him as his prisoner.
+[SPEAKER_04A]: Okay.
+[SPEAKER_04A]: What now?
+[SPEAKER_04A]: We takin' the ship and leavin'?
+[SPEAKER_07A]: Where would we go?
+[SPEAKER_07A]: Back to Monmurg?
+[SPEAKER_07A]: Back to Monmurg.
+[SPEAKER_07A]: I guess so.
+[SPEAKER_07A]: I ask Gouge.
+[SPEAKER_07A]: They're at the ship?
+[SPEAKER_00A]: Yeah, they're near it, by it.
+[SPEAKER_07A]: Okay.
+[SPEAKER_07A]: Is there a huge crowd of people around me?
+[SPEAKER_00A]: There are people all over the place, right?
+[SPEAKER_07A]: I get up and start walking to the ship.
+[SPEAKER_04A]: I say, wait.
+[SPEAKER_07A]: And then, this is out of question, like, uh, Owen has, does he have a bad reputation here?
+[SPEAKER_00A]: You have no idea.
+[SPEAKER_07A]: I have no idea?
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: Obviously he has allies.
+[SPEAKER_00A]: Contacts.
+[SPEAKER_07A]: I was gonna say...
+[SPEAKER_07A]: Maybe if you back me up, I can yell to these people to beware of Owen, to look out for him so he just ruins his reputation here.
+[SPEAKER_04A]: I'd rather not stir up any type of ruckus, other than what we did.
+[SPEAKER_04A]: I don't know, we should get back to the other guys and figure this out.
+[SPEAKER_04A]: Because if he sent that, I don't know if maybe he sent more.
+[SPEAKER_04A]: Or they let two guys go, which I wasn't happy with, and there might be more coming, so let's get back to that.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: All right.
+[SPEAKER_00A]: So the two of you walk back down the docks towards the boat.
+[SPEAKER_04A]: You're not going to run.
+[SPEAKER_04A]: Nothing like... You just acted normal.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: All right.
+[SPEAKER_07A]: I tell him my epic heroicism.
+[SPEAKER_07A]: Well, I don't know it.
+[SPEAKER_07A]: Oh, no.
+[SPEAKER_07A]: He brought me into the ship.
+[SPEAKER_07A]: He tried to spare me from me getting buddy-buddy with him.
+[SPEAKER_07A]: And tried to kill you three.
+[SPEAKER_07A]: And they wanted me to, as a prisoner, as an entertainer for, for, for, uh, what's his name, my goodness, Caintoli.
+[SPEAKER_07A]: And, uh, they gave me a bottle of rum.
+[SPEAKER_07A]: A shot of it to take before I put my hands in the binds.
+[SPEAKER_07A]: So I took the glass.
+[SPEAKER_07A]: It's a heroic Owen Black splashed in his eye, blinding him.
+[SPEAKER_07A]: I got my rapier out and stabbed his lowly friend and ran out of the ship.
+[SPEAKER_04A]: Okay.
+[SPEAKER_07A]: So, his friend is very injured, stabbed through his shoulder, plus my sick burn of telling him I hope that stung more than the shot of Rumwood seemed to get him, so he's pretty
+[SPEAKER_07A]: Pretty weak and...
+[SPEAKER_07A]: Okay.
+[SPEAKER_07A]: Um...
+[SPEAKER_07A]: I wanted to... Well...
+[SPEAKER_07A]: I wanted to get Owen as a hostage, but I just... Yeah, I don't know if we can go back.
+[SPEAKER_04A]: I don't know if we can go back and try to get him.
+[SPEAKER_04A]: We need the others for sure.
+[SPEAKER_04A]: I'm um...
+[SPEAKER_04A]: Yeah, because we've all taken a decent amount of damage, so I don't think we should try anything without everyone together.
+[SPEAKER_04A]: So let's put their two heads together and find out, because I don't know what this place is, if they're gonna...
+[SPEAKER_04A]: The phone's under protection now, or if nobody gives a shit and we can go get them.
+[SPEAKER_00A]: All right.
+[SPEAKER_00A]: So the two of you walk back to the boat?
+[SPEAKER_04A]: Mm-hmm.
+[SPEAKER_04A]: All right.
+[SPEAKER_00A]: You get there and reach your friends.

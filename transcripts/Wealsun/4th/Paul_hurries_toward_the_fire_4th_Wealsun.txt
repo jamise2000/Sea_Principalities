@@ -1,0 +1,520 @@
+[SPEAKER_00A]: Paul Rivero on the night of the Fourth of Whale Sun as he runs towards the Alchemist.
+[SPEAKER_00A]: There have just been several fireballs that have gone off maybe five minutes beforehand.
+[SPEAKER_00A]: Flames are licking at the roofs.
+[SPEAKER_00A]: Okay, so you start running up there.
+[game mechanics] [SPEAKER_00A]: Roll a perception check.
+[game mechanics] [SPEAKER_02A]: Eleven.
+[game mechanics] [SPEAKER_02A]: Eleven total?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: So, the Alchemist building is on fire.
+[SPEAKER_00A]: However, you're relieved to see that even though the building is burning, it's not completely burned up yet.
+[SPEAKER_00A]: However,
+[SPEAKER_00A]: None of the buildings in the Warren yet have really caught fire, which is a good thing.
+[SPEAKER_00A]: Definitely a good thing.
+[SPEAKER_02A]: How much longer do I think on that fire brigade team?
+[SPEAKER_00A]: Let's say it takes them five minutes for him to get a squad, and then it's going to take them maybe another five or six, ten minutes at least.
+[SPEAKER_00A]: However, this is what you see.
+[SPEAKER_00A]: The door has been busted open.
+[SPEAKER_02A]: Like, broken in or out?
+[SPEAKER_00A]: Broken in.
+[SPEAKER_02A]: Okay.
+[SPEAKER_00A]: Alright.
+[SPEAKER_00A]: And there are two figures in the firelight hooded, basically shirtless, carrying cutlasses and daggers in their hand, standing in front of it as the place burns.
+[SPEAKER_00A]: Okay?
+[SPEAKER_02A]: Do they look like a threat?
+[SPEAKER_02A]: Or like...
+[SPEAKER_00A]: It looks like they're waiting for somebody.
+[SPEAKER_00A]: Or they're guarding.
+[SPEAKER_02A]: Whatever.
+[game mechanics] [SPEAKER_02A]: Where's my mission?
+[game mechanics] [SPEAKER_02A]: Oh, four.
+[game mechanics] [SPEAKER_00A]: Four, so that's seven.
+[game mechanics] [SPEAKER_00A]: That's three.
+[game mechanics] [SPEAKER_00A]: That's five.
+[game mechanics] [SPEAKER_00A]: You get to go first.
+[SPEAKER_02A]: Lucky me.
+[SPEAKER_02A]: Um, okay.
+[SPEAKER_02A]: So I'm assuming they both noticed me?
+[SPEAKER_00A]: They have not noticed you yet.
+[SPEAKER_00A]: If you want to, you can dodge into an alley and hide.
+[SPEAKER_02A]: How far in front of me are they?
+[SPEAKER_02A]: And are they looking at me?
+[SPEAKER_00A]: No, they're looking at the building.
+[SPEAKER_00A]: They're probably about 60 feet away.
+[SPEAKER_02A]: 60 feet away?
+[SPEAKER_00A]: Yeah.
+[SPEAKER_02A]: Yeah, let me get into an alley or a shadow or somewhere that I can get closer to him.
+[SPEAKER_00A]: All right, so you duck into an alleyway, moving a little closer to them.
+[SPEAKER_00A]: So you're probably about 50 feet away, and do you want to stealth and hide?
+[SPEAKER_00A]: Yes, stealth.
+[SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: You can use your bonus action to hide.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Because you have what's called cunning action.
+[game mechanics] [SPEAKER_00A]: So roll your stealth.
+[game mechanics] [SPEAKER_02A]: Okay.
+[game mechanics] [SPEAKER_02A]: Fourteen plus six is twenty.
+[game mechanics] [SPEAKER_00A]: Twenty.
+[SPEAKER_00A]: Okay, so you hide, and what do you want to do?
+[SPEAKER_00A]: Wait?
+[SPEAKER_02A]: Closer.
+[SPEAKER_00A]: Okay, but you're gonna stay where you are for right now.
+[SPEAKER_00A]: You're hidden, you still have an action.
+[SPEAKER_00A]: Okay, do you want to hold your action?
+[SPEAKER_02A]: Yeah.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: One of them turns and scans the darkness, and you notice
+[SPEAKER_00A]: That this guy is wearing a mask.
+[SPEAKER_02A]: Is it of my shadow mask?
+[SPEAKER_00A]: It looks like the same kind of make as that.
+[SPEAKER_00A]: And he's got these strange tattoos up and down his chest and arms, right?
+[SPEAKER_00A]: He scans the darkness for you, his friend looking in the doorway.
+[SPEAKER_02A]: But that's... Oh, so they're... What did he call... What did Jude call them?
+[game mechanics] [SPEAKER_00A]: Do an int check.
+[game mechanics] [SPEAKER_02A]: Ten plus four is fourteen.
+[SPEAKER_02A]: The words come to your mind.
+[SPEAKER_02A]: A brotherhood?
+[SPEAKER_02A]: Yeah, brotherhood.
+[SPEAKER_02A]: The masked brotherhood?
+[SPEAKER_02A]: Something.
+[SPEAKER_02A]: Scarlet.
+[SPEAKER_02A]: Yeah, red.
+[SPEAKER_02A]: Scarlet brotherhood.
+[SPEAKER_02A]: The red brotherhood.
+[SPEAKER_00A]: You think to yourself, hmm, so they are real.
+[SPEAKER_00A]: They aren't just some kind of imagination.
+[SPEAKER_02A]: Yeah, they're not.
+[SPEAKER_02A]: He didn't make them up.
+[SPEAKER_02A]: All right, Dan.
+[SPEAKER_02A]: Hmm.
+[SPEAKER_02A]: Do I look like them, just with my attire?
+[SPEAKER_00A]: No.
+[SPEAKER_02A]: Okay.
+[SPEAKER_00A]: So, again, you don't have the tattoos, nothing like that.
+[SPEAKER_00A]: Oh, and they're shirtless too.
+[SPEAKER_00A]: They're shirtless too with weapons, but they're really muscled.
+[SPEAKER_00A]: I mean, these guys are like beefy muscled guys, right?
+[SPEAKER_02A]: Yeah.
+[SPEAKER_00A]: But they have their backs to you.
+[SPEAKER_02A]: And I'm assuming they're a human race.
+[SPEAKER_00A]: You know, they look humanoid.
+[SPEAKER_00A]: I mean, it's like, their bodies look human.
+[SPEAKER_00A]: I mean, they could be half-orc.
+[SPEAKER_00A]: They could be, they're not like the hobgoblins.
+[SPEAKER_00A]: The hobgoblins' skin is red, and you know that.
+[SPEAKER_00A]: They're definitely not Zahagin.
+[SPEAKER_00A]: They are human or half-human of something.
+[SPEAKER_00A]: They could possibly be half-orc is what I'm trying to say.
+[SPEAKER_00A]: Right?
+[SPEAKER_02A]: I doubt they're half-elf.
+[SPEAKER_00A]: They're definitely not half-elf.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_02A]: All right.
+[SPEAKER_02A]: And how far away am I from him?
+[SPEAKER_02A]: You're 40 feet now.
+[SPEAKER_02A]: I could nail one of them.
+[SPEAKER_02A]: And I think I'd get away with it too.
+[SPEAKER_02A]: Do I think I could get away with it?
+[SPEAKER_00A]: Paul Rivera evaluates his skills at the crossbow.
+[SPEAKER_00A]: You?
+[SPEAKER_02A]: He's standing there.
+[SPEAKER_00A]: He's standing there with his back to you.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_00A]: If you take an assassination shot.
+[SPEAKER_00A]: Now, the other one might be harder to deal with.
+[SPEAKER_02A]: The other one would be harder to deal with.
+[SPEAKER_02A]: That one I'd have to either run away or...
+[SPEAKER_00A]: I mean, he'd have to find you.
+[SPEAKER_02A]: He'd have to find me too.
+[SPEAKER_02A]: And you could duck back into the island.
+[SPEAKER_02A]: And they don't see me.
+[SPEAKER_00A]: No, you have the jump on you right now.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_02A]: I'm going to shoot at him with one of my crossbow.
+[SPEAKER_00A]: Alright, crossbow.
+[SPEAKER_00A]: So you take your life crossbow up and aim at the nearest one to you?
+[SPEAKER_02A]: Yeah.
+[SPEAKER_00A]: And you are going to try to go for a kill shot.
+[game mechanics] [SPEAKER_00A]: So here's the deal.
+[game mechanics] [SPEAKER_00A]: Advantage, and if you hit,
+[game mechanics] [SPEAKER_00A]: Automatic critical hit.
+[game mechanics] [SPEAKER_00A]: Oh sweet.
+[game mechanics] [SPEAKER_00A]: Right?
+[game mechanics] [SPEAKER_00A]: Because this is an assassinate.
+[game mechanics] [SPEAKER_02A]: Okay.
+[game mechanics] [SPEAKER_00A]: So two twenties to hit.
+[game mechanics] [SPEAKER_02A]: Okay.
+[game mechanics] [SPEAKER_02A]: What are you trying to look up?
+[game mechanics] [SPEAKER_02A]: Oh yeah.
+[game mechanics] [SPEAKER_00A]: Here we go.
+[game mechanics] [SPEAKER_00A]: And you will get a two die six to your backstab ability.
+[game mechanics] [SPEAKER_02A]: Right.
+[game mechanics] [SPEAKER_00A]: And because you're assassinating what it says, you have advantage on attack rolls against any creature that hasn't taken a turn in combat yet, that's these guys.
+[game mechanics] [SPEAKER_00A]: In addition, any hit you score against a creature that is surprised is a critical hit.
+[game mechanics] [SPEAKER_02A]: Yeah.
+[game mechanics] [SPEAKER_02A]: Okay.
+[game mechanics] [SPEAKER_02A]: So roll two 20s.
+[game mechanics] [SPEAKER_02A]: Five.
+[game mechanics] [SPEAKER_00A]: That's a nat one.
+[game mechanics] [SPEAKER_00A]: Five and one.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: So five plus what?
+[game mechanics] [SPEAKER_02A]: It's gonna be dexterity, so four.
+[game mechanics] [SPEAKER_02A]: So nine.
+[SPEAKER_00A]: Okay, so you shoot your bow and it dry fires.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Pulling yourself back in, but the bolt shoots over there.
+[SPEAKER_00A]: All right.
+[SPEAKER_00A]: And you pull yourself back into the darkness again, right?
+[SPEAKER_02A]: That was a...
+[SPEAKER_00A]: They turn around, right?
+[SPEAKER_00A]: Yeah.
+[SPEAKER_01B]: What was that?
+[SPEAKER_00A]: One of them says to the other one.
+[SPEAKER_00A]: The next one kind of speaks strangely.
+[SPEAKER_00A]: In a way, kind of lispy.
+[SPEAKER_00A]: I don't know, do you smell anything?
+[SPEAKER_00A]: And he starts sniffing the air.
+[SPEAKER_00A]: You can smell through fire?
+[SPEAKER_00A]: Well, and strangely enough, the fire smells metallic.
+[SPEAKER_00A]: There are some chemicals that have come here.
+[SPEAKER_00A]: In fact, this kind of reminds you of the fire that you smelled when you were younger, the one that burned your body.
+[SPEAKER_00A]: Out of the door comes a trade form.
+[SPEAKER_00A]: A woman that is basically wearing what seems to be like a metal shirt, right?
+[SPEAKER_00A]: And she has a knife in her hands.
+[SPEAKER_00A]: And she comes up to her partners and goes, What are you looking at?
+[SPEAKER_02A]: What are you going to do?
+[SPEAKER_02A]: And I can hear them, right?
+[SPEAKER_00A]: Yes.
+[SPEAKER_00A]: You're in the shadows, basically up against a building.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_02A]: How high up is that building's roof?
+[SPEAKER_00A]: Ten feet.
+[SPEAKER_00A]: You can climb on top of it, but, I mean, they're probably gonna see you if you get out of the shadows.
+[SPEAKER_02A]: Well, could I go back down farther in the alley?
+[SPEAKER_02A]: If you want to, but...
+[SPEAKER_02A]: So, I mean, so, if they're here, and the alley's right here, and I'm...
+[SPEAKER_00A]: So, here they are.
+[SPEAKER_02A]: Okay.
+[SPEAKER_00A]: So, here's the front of the alchemist's shop, right?
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: She's just come up here.
+[SPEAKER_00A]: And there's two... And these two guys were, like, standing here watching the building burn.
+[SPEAKER_02A]: Right.
+[SPEAKER_00A]: You're over here...
+[SPEAKER_00A]: Like, pressed up against the thing.
+[SPEAKER_00A]: You took a shot at that guy.
+[SPEAKER_02A]: Missed.
+[SPEAKER_00A]: They turned around, but you're like right there.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: The main road goes this way.
+[SPEAKER_00A]: Right?
+[SPEAKER_02A]: Yeah.
+[SPEAKER_00A]: But if you need to, you can run farther down to there.
+[SPEAKER_02A]: I'm thinking just run down to the other corner of this building and climb up on the roof.
+[SPEAKER_02A]: Okay.
+[game mechanics] [SPEAKER_02A]: So, roll an ish.
+[game mechanics] [SPEAKER_02A]: I got a 10.
+[game mechanics] [SPEAKER_00A]: 10?
+[game mechanics] [SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Do you want to run 30 feet that way?
+[SPEAKER_02A]: Sure.
+[SPEAKER_00A]: Okay, so... Or you can run 30 feet that way.
+[SPEAKER_00A]: You can run 30 feet that way, and then if you want to dash, you can climb up 15 feet.
+[SPEAKER_00A]: Okay, so you run 30 feet this way to here, into the alleyway, and then try to climb up the side of the wall.
+[game mechanics] [SPEAKER_00A]: This is an athletic stretch.
+[game mechanics] [SPEAKER_02A]: Can I do acrobatics?
+[game mechanics] [SPEAKER_02A]: You can do acrobatics.
+[game mechanics] [SPEAKER_02A]: Eight plus six is... Fourteen?
+[game mechanics] [SPEAKER_02A]: Fourteen, yeah.
+[SPEAKER_00A]: Okay, so you climb fifteen feet up the side of the wall and you don't know what they do because they're out of your sight.
+[SPEAKER_00A]: You can't really hear them anymore.
+[SPEAKER_02A]: Okay?
+[SPEAKER_02A]: Mm-hmm.
+[SPEAKER_00A]: Next round, do you want to climb again fifteen feet?
+[SPEAKER_00A]: That'll get you to the top?
+[SPEAKER_02A]: Yes, but with stealth.
+[SPEAKER_00A]: Okay, so you want to stealth.
+[SPEAKER_00A]: You become quiet.
+[game mechanics] [SPEAKER_00A]: Roll your climbing ability.
+[game mechanics] [SPEAKER_02A]: Okay.
+[game mechanics] [SPEAKER_02A]: Eight plus six is fourteen.
+[game mechanics] [SPEAKER_02A]: Fourteen.
+[game mechanics] [SPEAKER_00A]: You climb up to the top and then slip over to the side, see what your stealth is.
+[game mechanics] [SPEAKER_02A]: Fourteen plus six is twenty.
+[game mechanics] [SPEAKER_00A]: Okay.
+[SPEAKER_00A]: You get onto the top of the building here in the shadows and look down.
+[SPEAKER_00A]: All right.
+[SPEAKER_00A]: You see the three of them collected here talking, right?
+[SPEAKER_00A]: And they seem to be pointing back into the building.
+[SPEAKER_00A]: You can't really make out what they're saying.
+[SPEAKER_00A]: The fire is getting worse and the smoke is coming off.
+[SPEAKER_00A]: And actually, let me see something.
+[SPEAKER_00A]: However, none of it has yet spread into the war yet.
+[SPEAKER_00A]: Okay?
+[SPEAKER_00A]: You think the fire brigade is probably...
+[SPEAKER_00A]: They gotta be like five minutes out, right?
+[SPEAKER_00A]: At least five minutes out.
+[SPEAKER_00A]: Yeah, probably five minutes out.
+[SPEAKER_00A]: Really, you can't wait for the video off soon.
+[SPEAKER_00A]: These guys, however, begin moving this way into the warren.
+[SPEAKER_02A]: Into the war?
+[SPEAKER_00A]: Yes.
+[SPEAKER_02A]: Do I have anything... Can I see their faces?
+[SPEAKER_00A]: No, they're wearing those masks.
+[SPEAKER_02A]: They're wearing the masks.
+[SPEAKER_02A]: I'm wondering if there's any spell or anything I could... No, because I don't know any spells.
+[SPEAKER_02A]: But I wanted to know if there was something I could do to almost, not exactly take a picture of them, but almost like...
+[SPEAKER_02A]: Draw them out and give them a perfect description of what they look like, specifically the lady.
+[SPEAKER_00A]: Well, I mean, they're wearing, you're talking about their body types.
+[SPEAKER_00A]: Like I said, the two men are very muscular, have these cutlasses.
+[SPEAKER_00A]: Their skin is, you know,
+[SPEAKER_00A]: They're dark, like they're canned.
+[SPEAKER_00A]: They're not black or anything like that, but they definitely have darker skin.
+[SPEAKER_00A]: The woman is maybe the same kind of color.
+[SPEAKER_00A]: This is a color that would be considered normal for an Iridian, but obviously they are from the southern part of the world.
+[SPEAKER_00A]: Do you want to follow them?
+[SPEAKER_02A]: Yes.
+[SPEAKER_00A]: Do you want to stay where you are?
+[SPEAKER_02A]: I want to follow them.
+[SPEAKER_02A]: Okay.
+[SPEAKER_00A]: You basically are gonna trip across the roofs of the warren, looking to where they are.
+[SPEAKER_00A]: Okay, so, first round.
+[game mechanics] [SPEAKER_00A]: Bolanesh.
+[game mechanics] [SPEAKER_00A]: Uh, 18 plus 4 is 22.
+[game mechanics] [SPEAKER_00A]: 22, okay.
+[game mechanics] [SPEAKER_00A]: So, they go farther into the warren.
+[game mechanics] [SPEAKER_00A]: Roll your stealth.
+[game mechanics] [SPEAKER_00A]: Eleven.
+[game mechanics] [SPEAKER_00A]: Eleven?
+[game mechanics] [SPEAKER_00A]: Okay.
+[SPEAKER_00A]: And even though they look behind them,
+[SPEAKER_00A]: In the alleys, they do not see you because basically what you do is you stick to the rooftops above them, watching them move through the rat-like maze of the warren.
+[SPEAKER_00A]: However, you continue to move from roof to roof.
+[SPEAKER_02A]: Can I hear anything they're saying?
+[SPEAKER_00A]: They aren't really speaking.
+[SPEAKER_00A]: They're just kind of doing things like, come on, this way, right?
+[SPEAKER_00A]: And you follow them for about a minute.
+[SPEAKER_00A]: When they come to a building in the area, they pass by locals, beggars, destitute, seeming not to really care about them.
+[SPEAKER_00A]: It's not like they're being seen, but they move probably about 100 feet back into the area, you staying above them.
+[SPEAKER_00A]: They come to a stone-like building, an old, dilapidated one, though.
+[SPEAKER_00A]: It's like this obviously was a
+[SPEAKER_00A]: Rich man's house before the Warrens consumed it in a foreign district, and go in.
+[SPEAKER_02A]: Just casually?
+[SPEAKER_00A]: They walk in, into it, as if they own it.
+[SPEAKER_00A]: There's no door on this place, however.
+[SPEAKER_00A]: It's a ruin, in a way, with panties built up around it.
+[SPEAKER_00A]: And what's strange to you is that
+[SPEAKER_00A]: There are no other people of the warren around this place.
+[SPEAKER_00A]: Kind of like they've been warned off from it.
+[SPEAKER_02A]: Okay.
+[SPEAKER_02A]: Do I see any guards at all?
+[SPEAKER_02A]: Or even just a fire brigade?
+[SPEAKER_00A]: Well, the fire brigade is going to be at least 120 feet back that way.
+[SPEAKER_02A]: Okay.
+[SPEAKER_00A]: Right.
+[SPEAKER_02A]: Can I get, not into, but onto the building that they just went in?
+[SPEAKER_02A]: Yeah.
+[SPEAKER_00A]: Do you want to try and run and jump over the thing and get on top of it?
+[SPEAKER_02A]: Yeah.
+[SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: So, let me do a long jump.
+[game mechanics] [SPEAKER_00A]: The distance from the roof you're on to the one that you could get on is 10 feet.
+[game mechanics] [SPEAKER_00A]: And let me tell you the rules about long jumps.
+[game mechanics] [SPEAKER_00A]: Where is that?
+[game mechanics] [SPEAKER_00A]: Any...
+[game mechanics] [SPEAKER_00A]: So you can cover a number of feet up to your strength score if you move at least 10 feet on foot immediately for the jump.
+[game mechanics] [SPEAKER_00A]: You have a strength of 14.
+[SPEAKER_00A]: So you jump from the building you're on, 10 feet across to the stone building's roof, basically hitting the top of it and then rolling to keep the noise down.
+[SPEAKER_00A]: So you're on top of the building.
+[SPEAKER_00A]: What do you want to do?
+[SPEAKER_02A]: Is there any windows?
+[SPEAKER_02A]: On the roof?
+[SPEAKER_02A]: Is there any point of easy access or anything I could hang?
+[SPEAKER_02A]: Upside down looking through those windows.
+[SPEAKER_00A]: So you're on a veranda of this building, and there is a second story.
+[SPEAKER_00A]: Okay, then.
+[SPEAKER_00A]: So there is an open window, basically right there, dark, if you want to go to it.
+[SPEAKER_02A]: I'd like to get up to it, yeah.
+[SPEAKER_00A]: Alright, so you sneak over to where that is.
+[SPEAKER_00A]: And what do you want to do?
+[SPEAKER_02A]: Can I look inside?
+[SPEAKER_00A]: Yeah.
+[SPEAKER_02A]: What do I see?
+[SPEAKER_00A]: Alright, you see basically the burnout top.
+[SPEAKER_00A]: of a building.
+[SPEAKER_00A]: So here's the bottom floor, and then there's a top floor that obviously was made of a structure of wood.
+[SPEAKER_00A]: But the wood has long since rotted out or burned out.
+[SPEAKER_00A]: You can't tell.
+[SPEAKER_00A]: So you're basically looking down into the interior of the building.
+[SPEAKER_00A]: And you see forms down in there basically talking to each other quietly.
+[SPEAKER_00A]: The thing that hits you, though, is the smell.
+[SPEAKER_00A]: Just, I mean, there are bad smells in the foreign district, beggars, whatever.
+[SPEAKER_00A]: This is something different.
+[SPEAKER_00A]: This is a mixture of, you know, unbathed human bodies that have been there for days, but there's also something
+[SPEAKER_00A]: In a way, dry and poisonous about it.
+[SPEAKER_00A]: Very, very strange musky odor.
+[SPEAKER_00A]: And the three that you saw previously are there talking, but you see other forms laying on the floor around them.
+[SPEAKER_00A]: On makeshift pillows or beds.
+[SPEAKER_00A]: Not really moaning, but in some ways it seems like they're sleeping.
+[SPEAKER_00A]: Very strange.
+[SPEAKER_00A]: And these three are basically just standing there around, you know, unconcerned about what they're doing there.
+[SPEAKER_00A]: You're like, you've heard of opium dens.
+[SPEAKER_00A]: This is worse.
+[SPEAKER_02A]: Really?
+[SPEAKER_02A]: Like ritual stuff?
+[SPEAKER_00A]: It kind of seems like that.
+[SPEAKER_02A]: Okay.
+[SPEAKER_01B]: You know, you hear the woman say, the old man is dead.
+[SPEAKER_01B]: We have his body.
+[SPEAKER_01B]: But the elf and the boy, they both escaped.
+[SPEAKER_01B]: One of the men says,
+[SPEAKER_01B]: He went back to the district.
+[SPEAKER_01B]: We let him do that.
+[SPEAKER_01B]: You hear the woman say, Not the young noble.
+[SPEAKER_01B]: There was another one with them.
+[SPEAKER_01B]: He joined the elf and they escaped into the sewers.
+[SPEAKER_01B]: The old man, however, died from your dagger blow.
+[SPEAKER_01B]: Their two compatriots followed them.
+[SPEAKER_01B]: I do not know where they've gone.
+[SPEAKER_01B]: Perhaps they'll come back with the elf's head.
+[SPEAKER_02A]: Hmm.
+[SPEAKER_01B]: The other guy goes, Well, with the old man dead, the secret safe, that totally told us that there may be some knowledge that the elf brings.
+[SPEAKER_01B]: You hear the woman say,
+[SPEAKER_01B]: It does seem that we've done our duties.
+[SPEAKER_01B]: We can sleep here tonight.
+[SPEAKER_01B]: Come.
+[SPEAKER_01B]: Let's see if our friends come back.
+[SPEAKER_00A]: And they move off into the interior of the building.
+[SPEAKER_02A]: Okay.
+[SPEAKER_02A]: Alright.
+[SPEAKER_02A]: Maybe I'll solicit people's throat.
+[SPEAKER_02A]: Okay.
+[SPEAKER_02A]: So they're sleeping here tonight is what they said, right?
+[SPEAKER_02A]: Yeah.
+[SPEAKER_02A]: Okay.
+[SPEAKER_00A]: Now, you realize that even though you did fire a bolt at them, they really did not clock you during that period of time.
+[SPEAKER_02A]: The last they said that they saw me was when I left to go for the accident.
+[SPEAKER_00A]: Exactly.
+[SPEAKER_00A]: So maybe they thought the bolt was maybe something falling or flying.
+[SPEAKER_02A]: Or debris or something.
+[SPEAKER_00A]: Something like that.
+[SPEAKER_00A]: And they passed it off.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: So they have no idea.
+[SPEAKER_00A]: That you've tracked them to where they are.
+[SPEAKER_02A]: I could go total swat bust their ass right now.
+[SPEAKER_02A]: Guards, you know, break down the door.
+[SPEAKER_02A]: Or I could go in there and I could try to kill them all.
+[SPEAKER_02A]: Except if I get caught, I don't think I'd get away with the...
+[SPEAKER_02A]: What time of day is it right now?
+[SPEAKER_00A]: Oh, it's coming on 10 o'clock.
+[SPEAKER_00A]: Well, let me think about that.
+[SPEAKER_00A]: 8.30 is when you and Jude were down there when you left.
+[SPEAKER_00A]: Took you 10 minutes to go back.
+[SPEAKER_00A]: Almost 9.
+[SPEAKER_00A]: It's probably 9 o'clock, you know, because you'd spent some time up in your room doing what you needed to do.
+[SPEAKER_02A]: It's weird that they would stay here, though.
+[SPEAKER_02A]: Sorry, what were you going to say?
+[SPEAKER_02A]: Paul Ribeiro waits for a second.
+[SPEAKER_00A]: Well, let me just say something.
+[SPEAKER_00A]: This is the Warren, and few people go in.
+[SPEAKER_00A]: And the truth is that they think they have Jude.
+[SPEAKER_00A]: They have no idea you know what's happened.
+[SPEAKER_00A]: This is their safe house.
+[SPEAKER_00A]: And it's far enough into the Warren that it's doubtful they could be followed by normal people, right?
+[SPEAKER_00A]: Someone would have to clock exactly where they went to be able to say this.
+[SPEAKER_00A]: Now, this might be the stupid part.
+[SPEAKER_00A]: They might not understand that the Warren is a tinderbox, and the fire that's been started could spread to the rest of the Warren later on, but they're not.
+[SPEAKER_00A]: If they're gonna be in a building, well, if the fire burns through the warren, everybody inside is gonna burn, so... Everyone inside of it will burn.
+[SPEAKER_02A]: I still have that vial with me, right?
+[SPEAKER_02A]: Of the...
+[SPEAKER_02A]: The powder?
+[SPEAKER_00A]: Yeah.
+[SPEAKER_02A]: Do you want to set fire to the warren?
+[SPEAKER_02A]: I could.
+[SPEAKER_00A]: You absolutely could.
+[SPEAKER_02A]: Now, there are... What's so important about the warren?
+[SPEAKER_00A]: There are people here.
+[SPEAKER_00A]: And they are, you know... Thieves and beggars.
+[SPEAKER_02A]: Thieves, beggars, and worse.
+[SPEAKER_00A]: Thieves, beggars, and worse.
+[SPEAKER_02A]: Yeah, so I mean...
+[SPEAKER_00A]: They're not all foreign agents or anything like that, even though foreign agents might live among them.
+[SPEAKER_02A]: So is this like a hotel almost?
+[SPEAKER_00A]: No, it's a stone building.
+[SPEAKER_00A]: It used to be somebody's home, like back when the foreign district had less debauchery in it.
+[SPEAKER_02A]: So could I just in theory walk in and pretend I'm going to my room?
+[SPEAKER_00A]: No, this is a...
+[SPEAKER_00A]: It's like a broken building in the middle of a place.
+[SPEAKER_00A]: If you go in there and you are acting like this is your place, there's no way.
+[SPEAKER_02A]: Can I somehow watch and observe what rooms they go into?
+[SPEAKER_00A]: You would have to get down into the building.
+[SPEAKER_00A]: If you wanted to, you could basically move into the window
+[SPEAKER_00A]: And maybe try to go through the rafters and what's left of this building.
+[SPEAKER_00A]: However, you don't know how stable this stuff is.
+[SPEAKER_02A]: I'm a pretty light guy.
+[SPEAKER_02A]: I think.
+[SPEAKER_02A]: Probably only weighed like 130 pounds.
+[SPEAKER_00A]: All right.
+[SPEAKER_02A]: Actually, no, I have some muscle to me.
+[SPEAKER_02A]: Wait, we're not.
+[SPEAKER_00A]: You're probably 175.
+[SPEAKER_00A]: No, you're probably 175.
+[SPEAKER_02A]: I could set the whole place on fire and kill them.
+[SPEAKER_02A]: I could call for guards.
+[SPEAKER_02A]: I could probably get my way to here and probably rally up a SWAT team or whatever and bust down the place.
+[SPEAKER_02A]: And I know they're staying here because they said they're going to stay tonight.
+[SPEAKER_02A]: And Jude and whoever went down to the sewers.
+[SPEAKER_00A]: Or not of your concern.
+[SPEAKER_00A]: Not of my concern.
+[SPEAKER_02A]: Not of immediate concern.
+[SPEAKER_02A]: How long would it take for me to get to there?
+[SPEAKER_02A]: And is it quicker to go from there to there to back?
+[SPEAKER_00A]: Well, I mean, you could go back to where the Alchemist place is probably in two minutes, going the way you came, right?
+[SPEAKER_00A]: And then getting to there
+[SPEAKER_00A]: That would take you about three minutes to get to there.
+[SPEAKER_00A]: So it would be a lot quicker.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Taking the road would be a lot quicker.
+[SPEAKER_00A]: Another thing you could do is if you went back to where the fire was, you could see how it is.
+[SPEAKER_02A]: Maybe, you know, this area is going to burn down anyway.
+[SPEAKER_00A]: You don't know.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_02A]: Yeah, no, let's go back to the alchemist tomorrow.
+[SPEAKER_02A]: I'm going to look at the fire, and then I would like to go back to here to rally up some...
+[SPEAKER_02A]: Troops.
+[SPEAKER_00A]: All right, so you make your way, you jump back across the building quietly to the other side, and then make your way across the rooftops of the Warren to where the Alchemist building was, reaching the first top, first place, I would say probably about six minutes since you got on top of the roof.
+[SPEAKER_00A]: The brigade is there, all right?
+[SPEAKER_00A]: And they've brought a wagon full of water, and they are basically dumping water on parts of the warren that have been caught on fire.
+[SPEAKER_00A]: There are people that are gathering, people of the warren that are coming out and watching, but there are about 20 men here that are armoured up, wearing scale mail.
+[SPEAKER_02A]: With weapons?
+[SPEAKER_00A]: Yeah, these are guards.
+[SPEAKER_02A]: Perfect.
+[SPEAKER_00A]: These are guards.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: But they're putting out the fire, right?
+[SPEAKER_00A]: Yeah.
+[SPEAKER_02A]: Is my boy Rodiger is there?
+[SPEAKER_00A]: All right.
+[SPEAKER_00A]: Telling people what to do.
+[game mechanics] [SPEAKER_00A]: Roll an int check.
+[game mechanics] [SPEAKER_02A]: Six plus four is ten.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: The smell of the fire is strange.
+[SPEAKER_00A]: And you can tell that there are some chemicals that are burning within.
+[SPEAKER_02A]: Do I think it's safe to go in?
+[SPEAKER_00A]: Into the building?
+[SPEAKER_02A]: Yeah.
+[SPEAKER_00A]: Probably not.
+[SPEAKER_02A]: Okay.
+[SPEAKER_00A]: But the one thing you do know is that your men should probably stay away from the flames and not spend a lot of time trying to put out the alchemist's place because you have no idea how water would react.
+[SPEAKER_02A]: Okay, yeah.
+[SPEAKER_00A]: Rodiger?
+[SPEAKER_02A]: Better to control the flames.
+[SPEAKER_02A]: Yeah, Rodiger.
+[SPEAKER_02A]: Hang on.
+[SPEAKER_00A]: Hang on a second.
+[SPEAKER_00A]: So you're going to make your way down or do you want to call to him from the top?
+[SPEAKER_02A]: I'm going to make my way down.
+[SPEAKER_00A]: Okay, so you make your way down out into the alleyway and then walk up to him.

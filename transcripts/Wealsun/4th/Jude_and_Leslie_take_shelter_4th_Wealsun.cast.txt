@@ -1,0 +1,6 @@
+# Cast for Jude_and_Leslie_take_shelter_4th_Wealsun
+# Expected voices: 3
+DM
+Jude
+Leslie
+Ferd (NPC, DM-voiced)

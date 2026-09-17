@@ -1,0 +1,5 @@
+# Cast for Jude_tries_to_convinced_Paul_4th_Wealsun
+# Expected voices: 3
+DM
+Jude
+Paul

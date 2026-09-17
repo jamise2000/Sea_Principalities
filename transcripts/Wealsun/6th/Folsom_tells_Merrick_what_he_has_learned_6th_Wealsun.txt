@@ -1,0 +1,246 @@
+[SPEAKER_00A]: All right, so the night wears on past midnight.
+[SPEAKER_00A]: It's now the sixth of Whale Sun and you guys pass through between the Dragon Isles and he turns the boat towards the shipping lines to go to Red Shore.
+[SPEAKER_07A]: Okay.
+[SPEAKER_07A]: All right?
+[SPEAKER_07A]: Is Merrick on board?
+[SPEAKER_00A]: Oh yeah, Merrick's there.
+[SPEAKER_07A]: I look out to the sea and just tilt my head and use a message.
+[SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_07A]: Would he be the only one to hear it?
+[game mechanics] [SPEAKER_00A]: Yes.
+[game mechanics] [SPEAKER_00A]: Do you want to do it just to him?
+[game mechanics] [SPEAKER_07A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Let's not whisper.
+[game mechanics] [SPEAKER_07A]: Oh, yeah, yeah.
+[SPEAKER_00A]: He uses his magical ability, called message, to send you a message.
+[SPEAKER_07A]: I go, I say, Merrick.
+[game mechanics] [SPEAKER_00A]: You can talk to him.
+[SPEAKER_07A]: I say, Merrick, we can't go to that island.
+[SPEAKER_05A]: Why?
+[game mechanics] [SPEAKER_05A]: Oh, I can't talk to him?
+[game mechanics] [SPEAKER_00A]: You can message back.
+[game mechanics] [SPEAKER_05A]: Oh, I can?
+[game mechanics] [SPEAKER_05A]: Yeah, finally.
+[game mechanics] [SPEAKER_00A]: This is all, like, in your mind.
+[SPEAKER_05A]: Okay.
+[SPEAKER_05A]: Why?
+[SPEAKER_07A]: King Toli is...
+[SPEAKER_07A]: He's using the Turtle Dragons.
+[SPEAKER_07A]: King Toli got a hold of an ancient artifact made by some lich named Azzagon?
+[SPEAKER_07A]: Acerak.
+[SPEAKER_07A]: Acerak.
+[SPEAKER_07A]: He's using it to control the Turtle Dragons to control his island.
+[SPEAKER_07A]: If we get anywhere near there, we're as good as dead.
+[SPEAKER_05A]: If we get near Keintoli's Island.
+[SPEAKER_07A]: Yes, that's why the turtle dragons are away.
+[SPEAKER_07A]: All of them?
+[SPEAKER_07A]: All.
+[SPEAKER_07A]: Okay.
+[SPEAKER_07A]: And then he knows a lot about turtle dragons, right?
+[SPEAKER_05A]: Yeah.
+[SPEAKER_05A]: Oh, yeah.
+[SPEAKER_05A]: Do they have eels?
+[SPEAKER_05A]: Oh, yeah.
+[SPEAKER_05A]: Are they amphibious?
+[SPEAKER_00A]: They're amphibious.
+[SPEAKER_00A]: They can breathe both water and air.
+[SPEAKER_05A]: Okay.
+[SPEAKER_00A]: Yeah, they do.
+[SPEAKER_00A]: Okay.
+[SPEAKER_07A]: All right.
+[SPEAKER_07A]: That's my whole message.
+[SPEAKER_07A]: Okay.
+[SPEAKER_07A]: Okay.
+[out-of-band] [SPEAKER_01]: And then Bob White was up there, too.
+[SPEAKER_05A]: Do I know of anything, like, in the Dragon Houses?
+[SPEAKER_05A]: Because no one's been out of the actual land.
+[SPEAKER_05A]: God knows who, but is it just like...
+[SPEAKER_05A]: Are they just like big rocks where it's just like, no, you can't really go to that?
+[SPEAKER_05A]: Or is it like their own little things?
+[SPEAKER_00A]: Well, I mean, the thing about the islands is that there are reefs all around them that any ship would get wrecked on.
+[SPEAKER_00A]: The turtle dragons can crawl over that and often do.
+[SPEAKER_00A]: But it's rumored that what they do is they go and lay their eggs in caves.
+[SPEAKER_00A]: Undersea caves that come up to other areas in the islands, and that's where the females will lay their eggs and keep their clutch.
+[SPEAKER_00A]: And the males in the seas around them will fight to see who's the strongest they can breed with the females.
+[SPEAKER_00A]: But this is the time that that normally would be happening.
+[SPEAKER_05A]: Owen, can you believe this?
+[SPEAKER_05A]: This is shocking to me.
+[SPEAKER_01B]: I mean, I know the water, but... Perhaps the turtle dragons are moving on, Merrick.
+[SPEAKER_05A]: Doubtful.
+[SPEAKER_05A]: Extremely doubtful.
+[SPEAKER_05A]: This is where they...
+[SPEAKER_05A]: This is hatching season.
+[SPEAKER_05A]: This is mating season.
+[SPEAKER_01B]: It'll keep Gion's purse a little heavier, won't it?
+[SPEAKER_01B]: He won't have to give the yearly bribe to the dragons themselves.
+[SPEAKER_05A]: Yeah, the dragon wouldn't want to move.
+[SPEAKER_05A]: They love the yearly bribe.
+[SPEAKER_05A]: It is strange.
+[SPEAKER_05A]: Do you think Gian would have moved them?
+[SPEAKER_05A]: Worked out a different treaty that no one else knows about?
+[SPEAKER_01B]: Well, I don't even think Gian has enough money to be able to make that happen.
+[SPEAKER_01B]: This is very strange.
+[SPEAKER_01B]: I agree.
+[SPEAKER_05A]: Okay.
+[SPEAKER_05A]: All right, we'll keep sailing.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Don't come.
+[SPEAKER_00A]: Well, wait.
+[SPEAKER_00A]: You want to go over to Gouge?
+[SPEAKER_05A]: Yes.
+[SPEAKER_00A]: Alright.
+[SPEAKER_05A]: Bard has been talking to me in my head.
+[SPEAKER_05A]: As pleasant as you might think that is.
+[SPEAKER_04A]: Better you than me.
+[SPEAKER_05A]: You know how I said we want to go to the island?
+[SPEAKER_05A]: Cane Tolis?
+[SPEAKER_05A]: We're not doing that.
+[SPEAKER_05A]: Absolutely not.
+[SPEAKER_05A]: Okay.
+[SPEAKER_05A]: Apparently
+[SPEAKER_05A]: Can Toli, do you pay him off?
+[SPEAKER_05A]: Or he uses the...
+[SPEAKER_05A]: Okay.
+[SPEAKER_05A]: The dragons are protecting Toli's island.
+[SPEAKER_05A]: All of them.
+[SPEAKER_04A]: If we go, we're toast.
+[SPEAKER_05A]: If we go near that island, we are done.
+[SPEAKER_05A]: Oh, yeah.
+[SPEAKER_04A]: Okay.
+[SPEAKER_05A]: So it appears if he's on the move, and he's got something, the dragon's protecting his island, something very, very strange is going on.
+[SPEAKER_04A]: Because he wouldn't normally be leaving there?
+[SPEAKER_04A]: Because he's completely protected there?
+[SPEAKER_05A]: Or he's having something protected there.
+[SPEAKER_04A]: Do you think he has them underwater protecting him where he's going?
+[SPEAKER_04A]: Possibly.
+[SPEAKER_04A]: Possibly.
+[SPEAKER_04A]: So he must be paying them an exorbitant amount or have some type of control over them?
+[SPEAKER_04A]: It's the latter, I believe.
+[SPEAKER_05A]: Threatening the bard's book of some artifact.
+[SPEAKER_05A]: I don't know what the artifact do.
+[SPEAKER_00A]: It controlled dragons.
+[SPEAKER_05A]: Yeah, it controlled dragons.
+[SPEAKER_04A]: Yeah, I guess we definitely don't want to fuck with him in any way, form, or manner.
+[SPEAKER_05A]: I say we continue on with our quest, but this is extremely eerie news.
+[SPEAKER_04A]: Yeah, something that, something that, did you, I heard something.
+[SPEAKER_04A]: Try not to pay attention.
+[SPEAKER_04A]: Yeah, we definitely do not want to make any waves in that aspect, but that's beyond important news.
+[SPEAKER_04A]: Not sure who that should be shared with either.
+[SPEAKER_04A]: No, even amongst whoever we're reporting to.
+[SPEAKER_04A]: Let's not share that without anyone else knowing what we're doing.
+[SPEAKER_04A]: That goes for me with you as well.
+[SPEAKER_04A]: Folsom?
+[SPEAKER_05A]: Aye.
+[SPEAKER_05A]: Continue what you're doing, but I need to know more about this artifact.
+[SPEAKER_07A]: Am I next to Owen still?
+[SPEAKER_00A]: Well, obviously he wasn't going to go up and say that to him.
+[SPEAKER_00A]: Do you want to go up and say hey?
+[SPEAKER_05A]: I call Folsom over.
+[SPEAKER_00A]: Okay.
+[SPEAKER_05A]: Folsom, good intel.
+[SPEAKER_05A]: You're doing great, but we need to know more about this artifact.
+[SPEAKER_04A]: I just kind of go, Fuck you!
+[SPEAKER_04A]: You don't get any of my red-eye, and I walk away from them.
+[SPEAKER_05A]: Well, what was the name of that Agath?
+[SPEAKER_05A]: Agath?
+[SPEAKER_05A]: Acerak.
+[SPEAKER_05A]: Said he was a necromancer?
+[SPEAKER_05A]: Or a, uh... A lich.
+[SPEAKER_05A]: A lich.
+[SPEAKER_04A]: Can I go over and take a pull of my own?
+[SPEAKER_04A]: Go up by Owen.
+[SPEAKER_05A]: I need to know more about this lich and where he comes from, what that means.
+[SPEAKER_07A]: Is Acerak a well-known thing?
+[SPEAKER_07A]: Do you have history?
+[game mechanics] [SPEAKER_07A]: I have College of Lore expertise in Arcana performance.
+[game mechanics] [SPEAKER_00A]: Do you have history as proficiency?
+[game mechanics] [SPEAKER_07A]: I do, yeah.
+[game mechanics] [SPEAKER_00A]: Roll the dice.
+[game mechanics] [SPEAKER_07A]: Fourteen plus four.
+[game mechanics] [SPEAKER_07A]: Eighteen?
+[game mechanics] [SPEAKER_00A]: Mm-hmm.
+[SPEAKER_00A]: Acerak was actually a lich, supposedly that was in the region of Salimor.
+[SPEAKER_00A]: And lived 600 years ago.
+[SPEAKER_00A]: And in some way he was involved in some kind of war between the House of Gratzel.
+[SPEAKER_00A]: You don't know much about this, but one of the Gratzelian kings destroyed him.
+[SPEAKER_00A]: You don't know if he was destroyed, but he defeated someone that Aserach was supporting.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: You don't know much about Keoland history.
+[SPEAKER_00A]: But I mean, you have heard of this.
+[SPEAKER_07A]: What the hell is going on?
+[out-of-band] [SPEAKER_03]: Oh, I got this on vinyl.
+[out-of-band] [SPEAKER_03]: Um... My voice just sounded funny.
+[out-of-band] [SPEAKER_03]: It was a different tone of voice.
+[out-of-band] [SPEAKER_03]: Informative voice.
+[SPEAKER_07A]: Okay.
+[SPEAKER_07A]: So you've been gone for a very, very long time.
+[SPEAKER_07A]: Maybe the artifact is from then, or made now?
+[SPEAKER_07A]: For the... For, uh...
+[SPEAKER_07A]: For Cain, Toli?
+[SPEAKER_07A]: I'm not sure.
+[SPEAKER_05A]: If anything, the artifact...
+[SPEAKER_05A]: If it was crafted now, that would mean the lich is still alive.
+[SPEAKER_05A]: Yes, and it also makes sense for it to be... You don't recall anything about artifacts being used like this before?
+[SPEAKER_05A]: Should I make a...?
+[SPEAKER_05A]: Any rumors of this?
+[game mechanics] [SPEAKER_00A]: Do an end check.
+[game mechanics] [SPEAKER_07A]: But I just do history, or just intelligence?
+[game mechanics] [SPEAKER_00A]: Uh, history.
+[game mechanics] [SPEAKER_07A]: Okay.
+[game mechanics] [SPEAKER_07A]: That's a one plus four.
+[SPEAKER_00A]: No.
+[SPEAKER_00A]: I mean, if you remember correctly, Azrek was, you know, does what liches do, which is raise the dead and do stuff like that.
+[SPEAKER_00A]: However, there is a connection that you remember.
+[SPEAKER_00A]: The Sons of Olan
+[SPEAKER_00A]: Obviously take their name from this guy named Lord Olan that was alive during that period of time.
+[SPEAKER_00A]: Lord Olan was supposedly a vampire that Asarak created.
+[SPEAKER_00A]: This is all fantasy.
+[SPEAKER_00A]: I mean, this is just, of course, stories to scare adventurers.
+[SPEAKER_04A]: Is your hair crawling on your neck?
+[game mechanics] [SPEAKER_04A]: How long has Ty been asleep?
+[game mechanics] [SPEAKER_00A]: Well... Let me see, what time did you get up to sleep?
+[game mechanics] [SPEAKER_07A]: Far after me.
+[game mechanics] [SPEAKER_07A]: Yeah, I was like, uh, it was, oh yeah.
+[game mechanics] [SPEAKER_04A]: I got up at like 10 or something, I mean 6 in the morning.
+[game mechanics] [SPEAKER_07A]: I think I went to... You guys got four hours sleep and I was working on a full A.
+[SPEAKER_07A]: Has there ever, ever been records of the Turtle sleeping Turtle Island ever?
+[game mechanics] [SPEAKER_00A]: You're up now or not?
+[SPEAKER_00A]: No, I don't know.
+[SPEAKER_00A]: They've been here before the principalities.
+[game mechanics] [SPEAKER_00A]: You went back down?
+[SPEAKER_00A]: I mean, they've been here thousands of years.
+[game mechanics] [SPEAKER_04A]: Yeah, I went up and saw the thing and I went back down.
+[game mechanics] [SPEAKER_04A]: I was like, oh yeah, great, I'd had like two hours and then went back down.
+[SPEAKER_07A]: I'm gonna go down and wake him up.
+[SPEAKER_07A]: Okay.
+[SPEAKER_07A]: I'm still talking to Merrick, and I told him that the artifact, I'm assuming, is my best guess for it to be newer for the fact that if this were made now, I sense why the turtles are gone, and it shows no record of the turtles ever being used.
+[SPEAKER_07A]: Just because we didn't get caught this time doesn't mean make another run like this, though.
+[SPEAKER_05A]: We're going to continue on with this quest that Owen has us on towards Redshore.
+[SPEAKER_05A]: Like I said, I need you to be his right hand man.
+[SPEAKER_07A]: Of course.
+[SPEAKER_07A]: How close are we to Redshore?
+[SPEAKER_05A]: We're in the Dragon Isles right now.
+[SPEAKER_05A]: No one's been here in over 150 years.
+[SPEAKER_07A]: Yeah, how close are we to Red Shore?
+[SPEAKER_01B]: We'll make it by the evening of the 6, Tyrus.
+[SPEAKER_01B]: We're close.
+[SPEAKER_01B]: Maybe another 10 hours.
+[SPEAKER_05A]: Alright.
+[SPEAKER_05A]: Well, Owen, I'm gonna get to work on this boat, clean this boat up.
+[SPEAKER_05A]: No one's ever gonna believe us, cousin.
+[SPEAKER_05A]: Glad I could share this with you.
+[SPEAKER_05A]: It was quite an experience.
+[SPEAKER_05A]: Once we get us out of here,
+[SPEAKER_05A]: Out of the aisles here, do you mind taking the helm for a little bit?
+[SPEAKER_05A]: I'm going to get some more rest.
+[SPEAKER_01B]: Certainly.
+[SPEAKER_04A]: Sweet.
+[SPEAKER_04A]: And stay alone.
+[SPEAKER_07A]: Great.
+[SPEAKER_07A]: All right.
+[SPEAKER_07A]: Put it into the wind.
+[SPEAKER_07A]: Let's go.
+[SPEAKER_07A]: Let's get it there.
+[SPEAKER_00A]: All right.
+[SPEAKER_00A]: So he continues the journey.
+[SPEAKER_00A]: You guys do another 12 hours and head towards the next stage.

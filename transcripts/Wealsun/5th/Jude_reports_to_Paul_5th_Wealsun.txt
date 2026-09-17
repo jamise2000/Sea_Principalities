@@ -1,0 +1,283 @@
+[SPEAKER_00A]: Early morning on the fifth of the well sun, Jude and Leslie are led up into the palace.
+[SPEAKER_00A]: Prince Jean's palace into the west wing of the palace.
+[SPEAKER_00A]: A servant takes you into that study that you and Paul often speak in.
+[SPEAKER_00A]: Basically, the servant says,
+[SPEAKER_01B]: Prince Rivero, here's Jude and a companion of his.
+[SPEAKER_02A]: Thank you.
+[SPEAKER_00A]: Jude, you walk into the room and see Paul Rivero with a book in his hand, one that you know well, Absalon's Methods of Torture.
+[SPEAKER_01A]: Oh.
+[SPEAKER_01A]: What chapter's he in?
+[SPEAKER_00A]: Looks like he started at page 100.
+[SPEAKER_00A]: He's probably somewhere near the thumb screws.
+[game mechanics] [SPEAKER_01A]: Okay, now the real question is, is he reading it for effect, like with us walking in the room, or is he... Do it in check.
+[game mechanics] [SPEAKER_01A]: Okay.
+[SPEAKER_02A]: Come on.
+[SPEAKER_02A]: You know me better.
+[game mechanics] [SPEAKER_01A]: Do it in check.
+[game mechanics] [SPEAKER_01A]: There you go.
+[SPEAKER_01A]: Well, I also know myself.
+[SPEAKER_01A]: I'm like, I would totally do that.
+[game mechanics] [SPEAKER_00A]: Yeah, six.
+[game mechanics] [SPEAKER_01A]: Plus five, eleven.
+[SPEAKER_00A]: Yeah, you would totally do that.
+[SPEAKER_01A]: I would totally do that.
+[SPEAKER_01A]: But it depends on if he's like...
+[SPEAKER_00A]: But Paul Rivera does not seem to be that kind of a guy.
+[SPEAKER_00A]: When he reads a book, it's because he's actually interested in it.
+[SPEAKER_00A]: Because he's got a lot of books to read.
+[SPEAKER_00A]: You've probably read this one three times, and you know that the effect is more important than the knowledge that it has in it.
+[SPEAKER_02A]: Well, the later chapters get much, much better.
+[SPEAKER_01A]: Do they, dude?
+[SPEAKER_01A]: Paul, I'd like to introduce you to Leslie.
+[SPEAKER_02A]: Leslie?
+[SPEAKER_01A]: Paul?
+[SPEAKER_03A]: I am Leslie.
+[SPEAKER_01A]: Leslie is the rather kind of eccentric.
+[SPEAKER_01A]: He's had a rough night.
+[SPEAKER_01A]: Yeah.
+[SPEAKER_02A]: I wonder why.
+[SPEAKER_01A]: The alchemist assistant.
+[SPEAKER_01A]: Hey, we were attacked.
+[SPEAKER_02A]: Oh, really?
+[SPEAKER_02A]: Did you happen to find any of the bodies?
+[SPEAKER_01A]: Oh, I do.
+[SPEAKER_01A]: I got some things for you.
+[SPEAKER_02A]: Okay, well, sounds like you know more about it.
+[SPEAKER_01A]: No, no, no.
+[SPEAKER_02A]: Let me ask you this, Jude.
+[SPEAKER_02A]: Okay, let me just tell you, let me break it down.
+[SPEAKER_02A]: I go walk up to my palace.
+[SPEAKER_02A]: I get my books.
+[SPEAKER_02A]: I remember.
+[SPEAKER_02A]: And I come back, and I'm talking to my guardsmen, right?
+[SPEAKER_02A]: And I can see in the distance, just... And I'm standing there, and you know what?
+[SPEAKER_02A]: It happens again.
+[SPEAKER_02A]: And again.
+[SPEAKER_02A]: It's a fireworks show.
+[SPEAKER_01A]: Right, right.
+[SPEAKER_02A]: So then I'm thinking to myself, oh boy.
+[SPEAKER_02A]: I only left for 30 minutes.
+[SPEAKER_01A]: I was a little shocked too.
+[SPEAKER_02A]: Okay, so then I get there and then you got Scarlet of the Brotherhood walking around.
+[SPEAKER_01A]: Oh, did you get some of them?
+[SPEAKER_02A]: Oh yeah.
+[SPEAKER_02A]: Oh, I got a lot of them.
+[SPEAKER_03A]: Oh, the book.
+[SPEAKER_03A]: Mr. Paul, it was much funner on the inside.
+[SPEAKER_02A]: What was it?
+[SPEAKER_02A]: Because I showed up to that alchemist shop, and not only is that thing burnt down, and then you guys escaped to the sewers it looked like.
+[SPEAKER_03A]: Uh, blame Jude for that.
+[SPEAKER_02A]: I think he knows.
+[SPEAKER_01A]: We were... Did you recover the old man's body?
+[SPEAKER_02A]: He's gone.
+[SPEAKER_01A]: Well, I mean...
+[SPEAKER_02A]: Oh, I did grab the body, yes.
+[SPEAKER_02A]: I believe I did.
+[SPEAKER_01A]: Okay, because he was poisoned.
+[SPEAKER_01A]: You told me the name of it before he died, because I was trying to help him.
+[SPEAKER_01A]: Can I tell him the name?
+[game mechanics] [SPEAKER_01A]: I don't remember, because I didn't read the... Do an int check.
+[game mechanics] [SPEAKER_00A]: Do an int check.
+[game mechanics] [SPEAKER_01A]: Because he also... 16?
+[SPEAKER_01A]: He also told me what Paul needed.
+[SPEAKER_01A]: Remember that?
+[SPEAKER_00A]: He basically said...
+[SPEAKER_00A]: Gift of Insamiar.
+[SPEAKER_01A]: Gift of Insamiar.
+[SPEAKER_01A]: And he wasn't killed from the wound, it was strictly speaking the poison.
+[SPEAKER_01A]: We got him out of there, that's why I used the spells that I used.
+[SPEAKER_01A]: But the Gift of Insamiar
+[SPEAKER_01A]: It caused him to bleed black fluid out of his eyes.
+[SPEAKER_01A]: Well, that's where he got hit, quite honestly, is it took out one of his eyes.
+[SPEAKER_01A]: Or scratched in the face.
+[SPEAKER_00A]: The wound was bad.
+[SPEAKER_00A]: I mean, his eye was poked out.
+[SPEAKER_01A]: That's what I meant, yeah.
+[SPEAKER_01A]: But it was definitely not that killed him.
+[SPEAKER_02A]: Right.
+[SPEAKER_01A]: Well, I'm sure you stopped reading.
+[SPEAKER_01A]: Okay, and then he also had said what Paul needs.
+[SPEAKER_01A]: He said, I know what Paul needs.
+[SPEAKER_01A]: It sounded like it was for his face.
+[SPEAKER_01A]: I've never seen Paul's face, but it sounds like that was what the reference was to.
+[SPEAKER_00A]: He was talking about the powder that he went to talk about.
+[SPEAKER_01A]: Oh, you're talking about the anti-sahuagin powder?
+[SPEAKER_00A]: Yes.
+[SPEAKER_01A]: Oh, okay.
+[SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_01A]: So do I have enough knowledge to recreate that powder just from my previous conversation and that one with him?
+[game mechanics] [SPEAKER_00A]: Not at all.
+[SPEAKER_01A]: Fuck.
+[SPEAKER_01A]: I don't suppose there was anything left of the inside of the shop?
+[SPEAKER_02A]: Real funny.
+[SPEAKER_02A]: I mean...
+[SPEAKER_01A]: I mean, he... Like a couple bottles and... No, no, well, okay, what I mean is how well did you search it?
+[SPEAKER_01A]: Look, he's an alchemist.
+[SPEAKER_01A]: Fire is a hazard.
+[SPEAKER_01A]: Shit blown up.
+[SPEAKER_02A]: Didn't know what to look for and it was kind of unsafe to look there at the time, too.
+[SPEAKER_01A]: Okay, I'd like to go back there before maybe at first light, but before too much time goes by.
+[SPEAKER_01A]: Oh, we'll go back.
+[SPEAKER_01A]: Don't worry.
+[SPEAKER_01A]: I saw that you had guards there because, look, he should have a firebox, something magicked, who we just need to find it.
+[SPEAKER_02A]: These...
+[SPEAKER_02A]: I don't know why you're afraid of these Scarlet Brotherhood or whatever.
+[SPEAKER_02A]: These guys are idiots.
+[SPEAKER_02A]: They've decided to post up right next to the building that they're burning down.
+[SPEAKER_01A]: Well, that's kind of a characteristic of pyromaniacs.
+[SPEAKER_01A]: They kind of like to watch it burn.
+[SPEAKER_02A]: That's very true, but...
+[SPEAKER_02A]: So I'm just letting you know.
+[SPEAKER_02A]: Complete unprofessional.
+[SPEAKER_02A]: But are you sure?
+[SPEAKER_02A]: They're just strolling down the street like a wall.
+[SPEAKER_01A]: Okay, wait, wait, wait, wait.
+[SPEAKER_01A]: I killed two.
+[SPEAKER_01A]: How many bodies... Did you find other bodies besides...
+[SPEAKER_01A]: Well, actually, the two that I got would have washed out in the ocean probably by now.
+[SPEAKER_02A]: I found, I think, about maybe three to five bodies.
+[SPEAKER_02A]: No, just other Scarlet of the Brotherhoods.
+[SPEAKER_02A]: We killed two of them, three of them.
+[SPEAKER_01A]: Okay, so you guys apprehended?
+[SPEAKER_01A]: Do you have something?
+[SPEAKER_02A]: And I have, yes, we have one important of notice and then some other ones.
+[SPEAKER_02A]: Hence the book.
+[SPEAKER_02A]: Yes.
+[SPEAKER_01A]: Very pragmatically.
+[SPEAKER_02A]: Okay, so...
+[SPEAKER_02A]: I wanted to walk in looking like I was...
+[SPEAKER_01A]: I mean, you gotta know.
+[SPEAKER_01A]: No, that's fine.
+[SPEAKER_01A]: Have you had a chance to torture any of them yet?
+[SPEAKER_01A]: Or, you know, question any of them?
+[SPEAKER_02A]: Well, I had these other locals that I brought that I've investigated.
+[SPEAKER_01A]: Locals?
+[SPEAKER_02A]: Yeah, just messed out, loved up, delusional delinquents.
+[SPEAKER_02A]: But, anyways, I just set them back and they couldn't give me any of the knowledge or importance.
+[SPEAKER_02A]: So, that's all I've investigated.
+[SPEAKER_01A]: Oh, you mean just some other, like, bystanders?
+[SPEAKER_02A]: Yeah, bystanders that were in the building that the Scarlet of the Brotherhood were staying in.
+[SPEAKER_01A]: Any of them females?
+[SPEAKER_02A]: Oh, of the Skrull Brotherhood?
+[SPEAKER_02A]: Yes, one of them is a female.
+[SPEAKER_01A]: Did she look particularly dangerous?
+[SPEAKER_02A]: Yep, and we got her.
+[SPEAKER_01A]: You did?
+[SPEAKER_02A]: Mm-hmm.
+[SPEAKER_01A]: I'd really like to talk to her.
+[SPEAKER_02A]: Oh, me too.
+[SPEAKER_01A]: I take it they're in the dungeons?
+[SPEAKER_01A]: Staying with the guys that we already have a good relationship with?
+[SPEAKER_01A]: The guards?
+[SPEAKER_02A]: Uh, my guards hurt.
+[SPEAKER_02A]: Fine.
+[SPEAKER_01A]: You know, the ones that we worked with before?
+[SPEAKER_01A]: With the thief that we had captured, remember?
+[SPEAKER_02A]: Oh, you mean Rodiger.
+[SPEAKER_01A]: Well, I don't mean the thief.
+[SPEAKER_01A]: I meant, are they in that wing of the dungeon?
+[SPEAKER_01A]: No, Rodiger.
+[SPEAKER_01A]: It's best to have a working relationship with the same guards.
+[SPEAKER_00A]: Oh wait, no, you're talking about different...
+[SPEAKER_00A]: The prisoners are in your dungeon, where the main jailer was.
+[SPEAKER_00A]: He also put five guys down there.
+[SPEAKER_02A]: Yeah, I put other people down there.
+[SPEAKER_01A]: Okay, good.
+[SPEAKER_01A]: That's awesome.
+[SPEAKER_01A]: Well, I'm refreshed.
+[SPEAKER_01A]: Leslie, would you like to see...
+[SPEAKER_02A]: Hold on.
+[SPEAKER_02A]: Hold on.
+[SPEAKER_02A]: Who is this guy?
+[SPEAKER_01A]: He's the assistant.
+[SPEAKER_03A]: I just told you, I am Leslie.
+[SPEAKER_03A]: Why do you...
+[SPEAKER_03A]: Okay.
+[SPEAKER_03A]: The man of the myths.
+[SPEAKER_02A]: Why do you look like a shrimp?
+[SPEAKER_03A]: I own the world.
+[SPEAKER_03A]: I know the mindsets.
+[SPEAKER_03A]: I know what will happen.
+[SPEAKER_02A]: Dude, where did you get this guy?
+[SPEAKER_01A]: He's a little traumatized.
+[SPEAKER_01A]: He was in the back room.
+[SPEAKER_01A]: You know the alchemist, he's a little weird too.
+[SPEAKER_03A]: I told you, Jude, I know everything.
+[SPEAKER_01A]: Okay, sure.
+[SPEAKER_01A]: Why don't you come with us and you can see what the other- My mind is too big.
+[SPEAKER_02A]: I hate you, Jude, I hate you.
+[SPEAKER_02A]: I can't just be bringing everyone into my palace.
+[SPEAKER_01A]: Well, technically, I'm in charge.
+[SPEAKER_02A]: You were a stretch, but this?
+[SPEAKER_01A]: I'm in charge of teaching you.
+[SPEAKER_01A]: Can you stop?
+[SPEAKER_01A]: Just be normal.
+[SPEAKER_02A]: Like, clean him up.
+[SPEAKER_02A]: Thank God, he's ruining it.
+[SPEAKER_01A]: No, no, he's rough.
+[SPEAKER_01A]: We both came out of the sewage.
+[SPEAKER_02A]: Yeah, clearly.
+[SPEAKER_01A]: No, we are cleaned up because we cast Prestidigitation and that took care of it.
+[SPEAKER_03A]: We cast Prestidigitation.
+[SPEAKER_03A]: Did you hear yourself?
+[SPEAKER_03A]: I wonder if Jerry the Frog was still okay in that sewage.
+[SPEAKER_01A]: Leslie, you need to be quiet.
+[SPEAKER_01A]: Just be quiet.
+[SPEAKER_01A]: You're not helping yourself.
+[SPEAKER_03A]: I'm being Leslie, though.
+[SPEAKER_03A]: The man of the myths.
+[SPEAKER_02A]: The man of the what?
+[SPEAKER_03A]: What's the man of the- I know what color- I know what's your favorite color.
+[SPEAKER_02A]: What's my favorite color?
+[SPEAKER_03A]: Red.
+[SPEAKER_02A]: No.
+[SPEAKER_03A]: No, red is your favorite color, you just don't know it yet.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: So, Leslie, just stop.
+[SPEAKER_01A]: Just stop.
+[SPEAKER_01A]: Just stop all your head.
+[SPEAKER_01A]: This is Prince, like, he's a young... Whatever.
+[SPEAKER_02A]: Whatever of the city, he's like...
+[SPEAKER_02A]: I could have you beheaded.
+[SPEAKER_01A]: Well, I haven't even, like, seen you with your mask off, bro.
+[SPEAKER_01A]: I don't know.
+[SPEAKER_01A]: No one has!
+[SPEAKER_01A]: Okay, well, you could be anybody.
+[SPEAKER_02A]: I'm Paul Rivero.
+[SPEAKER_03A]: Sure.
+[SPEAKER_03A]: Right. Like it matters you are a prince.
+[SPEAKER_02A]: And that's what I've been called.
+[out-of-band] [SPEAKER_03]: Isn't that some Canadian guy?
+[out-of-band] [SPEAKER_00]: Shhh.
+[out-of-band] [SPEAKER_03]: There's no Canada here in Monmurg.
+[out-of-band] [SPEAKER_00]: Keoland.
+[out-of-band] [SPEAKER_00]: What?
+[out-of-band] [SPEAKER_00]: Keoland.
+[out-of-band] [SPEAKER_00]: Keoland.
+[SPEAKER_01A]: Anyway.
+[SPEAKER_01A]: So, um, yeah, let's go, I mean, like, let's not waste any time.
+[SPEAKER_02A]: These dudes don't need to sleep.
+[SPEAKER_02A]: Yeah, no.
+[SPEAKER_02A]: Oh, don't worry.
+[SPEAKER_01A]: Do you know what you need to know?
+[SPEAKER_01A]: Or do you want me to, like, because I'm great at improv?
+[SPEAKER_02A]: I mean, it was kind of getting interesting, I'll admit, but... Well, bring the book.
+[SPEAKER_01A]: No.
+[SPEAKER_02A]: Why not?
+[SPEAKER_01A]: It's a rookie move.
+[SPEAKER_02A]: Oh.
+[SPEAKER_01A]: It'll make them nervous.
+[SPEAKER_01A]: Trust me.
+[SPEAKER_02A]: Well, then let me get a different book.
+[SPEAKER_02A]: A book that's like... With pictures.
+[SPEAKER_02A]: Yeah, a book with pictures, but also it's like... Well, that one's got pictures.
+[SPEAKER_02A]: That one's got pretty good.
+[SPEAKER_02A]: Let me get one that's torture for experienced torturers.
+[SPEAKER_02A]: Or something like that.
+[SPEAKER_01A]: Okay, can I take that one?
+[SPEAKER_02A]: Yeah, sure.
+[SPEAKER_02A]: Okay.
+[SPEAKER_02A]: Because that one's pretty good.
+[SPEAKER_01A]: Alright.
+[out-of-band] [SPEAKER_02]: Do you want to get some pizza?
+[SPEAKER_00A]: You guys are gonna go down, make your way down to the Dungeons.

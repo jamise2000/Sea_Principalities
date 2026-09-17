@@ -1,4 +1,0 @@
-# Cast for Paul_creates_Homunculus_Prolog
-# Expected voices: 2
-DM
-Paul

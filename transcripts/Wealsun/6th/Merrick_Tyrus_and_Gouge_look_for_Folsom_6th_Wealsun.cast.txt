@@ -1,0 +1,7 @@
+# Cast for Merrick_Tyrus_and_Gouge_look_for_Folsom_6th_Wealsun
+# Expected voices: 4
+DM
+Gouge
+Merrick
+Tyrus
+Bar_owner (NPC, DM-voiced)

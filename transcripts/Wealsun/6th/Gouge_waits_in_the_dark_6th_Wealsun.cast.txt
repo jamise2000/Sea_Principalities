@@ -1,0 +1,5 @@
+# Cast for Gouge_waits_in_the_dark_6th_Wealsun
+# Expected voices: 3
+DM
+Gouge
+Folsom

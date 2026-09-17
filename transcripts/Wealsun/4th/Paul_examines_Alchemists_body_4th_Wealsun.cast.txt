@@ -1,0 +1,6 @@
+# Cast for Paul_examines_Alchemists_body_4th_Wealsun
+# Expected voices: 2
+DM
+Paul
+Rodiger (NPC, DM-voiced)
+sergeant (NPC, DM-voiced)

@@ -1,9 +1,0 @@
-# Cast for Folsom_charms_the_guards_3rd_Wealsun
-# Expected voices: 7
-DM
-Paul
-Merrick
-Gouge
-Tyrus
-Folsom
-Jude

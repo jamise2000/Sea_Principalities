@@ -1,0 +1,1450 @@
+[SPEAKER_00A]: Battle and bar.
+[SPEAKER_00A]: Obviously no shields.
+[game mechanics] [SPEAKER_00A]: Alright, roll my nash.
+[game mechanics] [SPEAKER_00A]: Damn, I just had to go... Who?
+[game mechanics] [SPEAKER_00A]: I'm excited.
+[game mechanics] [SPEAKER_00A]: Oh.
+[game mechanics] [SPEAKER_04A]: Gouge.
+[game mechanics] [SPEAKER_04A]: Okay, I'm sorry, I'm back on... What is it?
+[game mechanics] [SPEAKER_04A]: Tyrus.
+[game mechanics] [SPEAKER_04A]: Second edition?
+[game mechanics] [SPEAKER_04A]: Second edition.
+[game mechanics] [SPEAKER_04A]: Initiative?
+[game mechanics] [SPEAKER_00A]: Yes.
+[game mechanics] [SPEAKER_04A]: I rolled a 9, plus my dexterity, right?
+[game mechanics] [SPEAKER_06A]: Dexterity bonus.
+[game mechanics] [SPEAKER_06A]: Go more to the middle.
+[game mechanics] [SPEAKER_06A]: Straight up, straight up right there.
+[game mechanics] [SPEAKER_06A]: Yeah, so it's plus 2.
+[game mechanics] [SPEAKER_06A]: 11.
+[game mechanics] [SPEAKER_06A]: Merrick?
+[game mechanics] [SPEAKER_04A]: You have a plus 3.
+[game mechanics] [SPEAKER_04A]: It's no longer a six-sided.
+[game mechanics] [SPEAKER_00A]: Seven.
+[game mechanics] [SPEAKER_00A]: Seven plus three is ten.
+[game mechanics] [SPEAKER_04A]: Yep.
+[game mechanics] [SPEAKER_04A]: The men get...
+[game mechanics] [SPEAKER_04A]: There's eight of them.
+[game mechanics] [SPEAKER_00A]: Eighteen.
+[game mechanics] [SPEAKER_00A]: Wonderful.
+[game mechanics] [SPEAKER_00A]: Twenty.
+[game mechanics] [SPEAKER_00A]: And he gets...
+[game mechanics] [SPEAKER_00A]: I'll just put guy.
+[game mechanics] [SPEAKER_00A]: Two.
+[game mechanics] [SPEAKER_00A]: Two.
+[game mechanics] [SPEAKER_00A]: So, four.
+[game mechanics] [SPEAKER_05A]: All right.
+[game mechanics] [SPEAKER_00A]: So they go first.
+[game mechanics] [SPEAKER_00A]: This guy runs to here and attacks him.
+[game mechanics] [SPEAKER_00A]: Tyrus, and actually these guys are gonna run up here.
+[game mechanics] [SPEAKER_04A]: Oh, actually apparently I did not drop my...
+[game mechanics] [SPEAKER_04A]: I'm gonna be fighting with my alien.
+[game mechanics] [SPEAKER_04A]: Tyrus, guy tries to grapple you.
+[game mechanics] [SPEAKER_00A]: What's your AC?
+[game mechanics] [SPEAKER_06A]: AC is 16 without my shield on.
+[game mechanics] [SPEAKER_06A]: AC is 16.
+[game mechanics] [SPEAKER_06A]: Here's his attack.
+[game mechanics] [SPEAKER_00A]: Four.
+[game mechanics] [SPEAKER_00A]: Does not do it.
+[game mechanics] [SPEAKER_00A]: This guy tries to grab onto you.
+[game mechanics] [SPEAKER_04A]: 17.
+[game mechanics] [SPEAKER_04A]: Gets his hands on your shoulders from behind.
+[game mechanics] [SPEAKER_00A]: This guy attacks you with advantage because you're grappled with a club.
+[game mechanics] [SPEAKER_00A]: Here's the attack.
+[game mechanics] [SPEAKER_00A]: Four.
+[game mechanics] [SPEAKER_00A]: Ten, four, it's fourteen, it goes off your shoulder.
+[game mechanics] [SPEAKER_00A]: Does not affect you.
+[game mechanics] [SPEAKER_00A]: Gouge.
+[game mechanics] [SPEAKER_00A]: Here, here, right there, and here.
+[game mechanics] [SPEAKER_00A]: This guy tries to grapple you, what's your essay?
+[game mechanics] [SPEAKER_00A]: Sixteen, but I think that's probably with shield.
+[game mechanics] [SPEAKER_00A]: Your leather armor... What's your leather armor?
+[game mechanics] [SPEAKER_00A]: Plus four leather armor?
+[game mechanics] [SPEAKER_00A]: Hide armor?
+[game mechanics] [SPEAKER_00A]: So it's 12 plus your X-30 is 19 right now.
+[game mechanics] [SPEAKER_00A]: No, it's 16 because it's plus four with the shield, you're 18.
+[game mechanics] [SPEAKER_00A]: 12 plus four is 16.
+[game mechanics] [SPEAKER_00A]: So here's the grapple.
+[game mechanics] [SPEAKER_00A]: 18, grabs onto you.
+[game mechanics] [SPEAKER_00A]: This guy tries to hit you with a club.
+[game mechanics] [SPEAKER_00A]: Two, miss.
+[game mechanics] [SPEAKER_00A]: This guy tries to hit you with a club.
+[game mechanics] [SPEAKER_00A]: Four, miss.
+[game mechanics] [SPEAKER_05A]: The armor class?
+[game mechanics] [SPEAKER_00A]: Mm-hmm.
+[game mechanics] [SPEAKER_05A]: Uh, seventeen.
+[game mechanics] [SPEAKER_05A]: Seventeen.
+[game mechanics] [SPEAKER_05A]: I think it says fifteen in parentheses.
+[game mechanics] [SPEAKER_00A]: Seven.
+[game mechanics] [SPEAKER_05A]: So it's fifteen.
+[game mechanics] [SPEAKER_05A]: Grapple misses.
+[game mechanics] [SPEAKER_05A]: Happy with the shield.
+[game mechanics] [SPEAKER_05A]: Oh, so fifteen.
+[game mechanics] [SPEAKER_05A]: Is fifteen without a shield?
+[game mechanics] [SPEAKER_05A]: Yes.
+[game mechanics] [SPEAKER_05A]: Yeah.
+[game mechanics] [SPEAKER_05A]: Okay, so fifteen.
+[game mechanics] [SPEAKER_05A]: Or do I have my shield out?
+[game mechanics] [SPEAKER_00A]: You don't have it out yet.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_00A]: This guy tries to attack you.
+[game mechanics] [SPEAKER_00A]: Eight.
+[game mechanics] [SPEAKER_00A]: Miss.
+[game mechanics] [SPEAKER_00A]: This guy tries to grapple you.
+[game mechanics] [SPEAKER_00A]: Sixteen.
+[game mechanics] [SPEAKER_00A]: Gets his hands on you.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: These two guys...
+[game mechanics] [SPEAKER_00A]: Come to here, and here, and hold actions.
+[game mechanics] [SPEAKER_00A]: Um, Guy?
+[game mechanics] [SPEAKER_00A]: Guy is four, he's last.
+[game mechanics] [SPEAKER_04A]: Tyrus, you're next.
+[game mechanics] [SPEAKER_04A]: Alright.
+[game mechanics] [SPEAKER_04A]: So, uh... Can you attack with the grapple on?
+[game mechanics] [SPEAKER_04A]: Or with hands on?
+[game mechanics] [SPEAKER_00A]: Oh yeah, the thing you cannot do is you cannot move.
+[game mechanics] [SPEAKER_04A]: Okay, but you can attack your opponent.
+[game mechanics] [SPEAKER_00A]: You can attack your opponent.
+[game mechanics] [SPEAKER_06A]: So the guy that hit me...
+[game mechanics] [SPEAKER_06A]: Grappled you.
+[game mechanics] [SPEAKER_06A]: The guy who hit me with the... Club.
+[game mechanics] [SPEAKER_06A]: Let's see.
+[game mechanics] [SPEAKER_06A]: So you've got to help me remember what I can do with my actions.
+[game mechanics] [SPEAKER_00A]: Can I pull... A bonus action can be used to... Actually, during turn, you can always just pull out a weapon.
+[game mechanics] [SPEAKER_00A]: A bonus action, with an action, you can attack, and you get one attack per action that you use.
+[game mechanics] [SPEAKER_00A]: Do you have bonus actions that you can do?
+[game mechanics] [SPEAKER_00A]: I think that you can do things like cast Smites.
+[game mechanics] [SPEAKER_06A]: Yeah, I can cast spells with bonus actions.
+[game mechanics] [SPEAKER_06A]: Most of them.
+[game mechanics] [SPEAKER_06A]: But can I try to break free with a bonus action?
+[game mechanics] [SPEAKER_00A]: No.
+[game mechanics] [SPEAKER_06A]: Okay, so that has to be an action.
+[game mechanics] [SPEAKER_00A]: That has to be action to break free from a grapple.
+[game mechanics] [SPEAKER_00A]: It's going to be an athletics check to athletics check.
+[game mechanics] [SPEAKER_00A]: But you can attack while you're grappled.
+[game mechanics] [SPEAKER_00A]: You just can't move.
+[game mechanics] [SPEAKER_06A]: Right, okay.
+[game mechanics] [SPEAKER_06A]: So, as my...
+[game mechanics] [SPEAKER_06A]: Bonus action.
+[game mechanics] [SPEAKER_06A]: I believe that the Champion Challenge is a bonus action.
+[game mechanics] [SPEAKER_06A]: Let's see.
+[game mechanics] [SPEAKER_06A]: Champion Challenge.
+[game mechanics] [SPEAKER_06A]: Those are my spells.
+[game mechanics] [SPEAKER_06A]: I believe I can use that as a bonus action.
+[game mechanics] [SPEAKER_06A]: As a bonus action, you can ensue a challenge that compels other creatures to do battle with you.
+[game mechanics] [SPEAKER_06A]: Each creature of your choice that can see you within 30 feet of you must make a wisdom saving throw.
+[game mechanics] [SPEAKER_06A]: On a fail, the creature can
+[game mechanics] [SPEAKER_06A]: Can't willingly move more than 30 feet away from you.
+[game mechanics] [SPEAKER_06A]: This effect ends on the creature if you're capable.
+[game mechanics] [SPEAKER_00A]: So with my bonus action... You could do that, or with your bonus action, what's your other skill?
+[game mechanics] [SPEAKER_06A]: Turn the tide.
+[game mechanics] [SPEAKER_06A]: I can bolster, injure creatures with my channel of energy.
+[game mechanics] [SPEAKER_06A]: Or I could do like a smite thing.
+[game mechanics] [SPEAKER_06A]: You cast a smite.
+[game mechanics] [SPEAKER_06A]: I cast a smite.
+[game mechanics] [SPEAKER_00A]: Also, you have a feat.
+[game mechanics] [SPEAKER_00A]: What's the feat called?
+[game mechanics] [SPEAKER_00A]: It's on the second page, the next page.
+[game mechanics] [SPEAKER_06A]: I have Turn the Tide and Champion Challenge.
+[game mechanics] [SPEAKER_00A]: Unless... We also have another feat.
+[game mechanics] [SPEAKER_06A]: Oh, Squad Leader.
+[game mechanics] [SPEAKER_05A]: That's a reaction.
+[game mechanics] [SPEAKER_05A]: It's a reaction.
+[game mechanics] [SPEAKER_06A]: Okay, that's a reaction.
+[game mechanics] [SPEAKER_06A]: Squad Leader's a reaction.
+[game mechanics] [SPEAKER_06A]: So I can do that.
+[game mechanics] [SPEAKER_00A]: Hey, Gerrick, do you have another one here?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[out-of-band] [SPEAKER_03]: Command a warning whenever a non-hospital... From that little fridge, there should be Coors Lights and Medellas.
+[game mechanics] [SPEAKER_06A]: ...or roll.
+[game mechanics] [SPEAKER_06A]: The creature can add one to four to its roll.
+[game mechanics] [SPEAKER_06A]: All right, so I can use a reaction to say...
+[game mechanics] [SPEAKER_06A]: So I can use that reaction.
+[game mechanics] [SPEAKER_06A]: Oh, that also gives me a plus one to correct me, which actually helps me hit.
+[game mechanics] [SPEAKER_06A]: So I can use that reaction and say, kick ass, boys.
+[game mechanics] [SPEAKER_06A]: And that would mean...
+[game mechanics] [SPEAKER_06A]: That would mean, I could say it to one person, you can utter a special command for warning whenever a non-hospital group, or it could be these two, is within this, can see me from 30 feet, makes an attack roll or a saving throw.
+[game mechanics] [SPEAKER_06A]: The creature can add one to four to their roll, provided it could hear and understand.
+[game mechanics] [SPEAKER_00A]: So you can say that, but right now, what you should do is your bonus action in action.
+[game mechanics] [SPEAKER_06A]: Okay, so...
+[game mechanics] [SPEAKER_06A]: But that would be, that's a reaction now.
+[game mechanics] [SPEAKER_00A]: Yeah, you could say that for, like, we gouge attacks.
+[game mechanics] [SPEAKER_00A]: You could use a reaction.
+[game mechanics] [SPEAKER_00A]: I gotcha.
+[game mechanics] [SPEAKER_06A]: That's okay.
+[game mechanics] [SPEAKER_06A]: So, as my bonus action right now, I'm going to do the Champion's Challenge to the guy.
+[game mechanics] [SPEAKER_06A]: This guy.
+[game mechanics] [SPEAKER_06A]: To the guy.
+[game mechanics] [SPEAKER_06A]: Yeah, guy.
+[game mechanics] [SPEAKER_06A]: You can first be a much guy.
+[game mechanics] [SPEAKER_06A]: And, um... What do you say?
+[SPEAKER_06A]: Take me in.
+[SPEAKER_06A]: Too much of a pussy to fight me yourself, huh?
+[SPEAKER_06A]: That should make him focus on me.
+[game mechanics] [SPEAKER_00A]: So he has to roll a Wisdom Saving Throw against your... Each creature of the choice that you can see within 30 feet must make a Wisdom Throw.
+[game mechanics] [SPEAKER_06A]: Each creature, actually, I can say to anybody.
+[SPEAKER_06A]: I'll take you all on, you pussy.
+[SPEAKER_06A]: That's what I would say.
+[SPEAKER_06A]: I'll take you all on, you pussy.
+[game mechanics] [SPEAKER_06A]: So each one of them has to make a saving throw on a failed save or they can't willingly move more than 30 feet away from me.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_06A]: It means they can't flee or anything like that.
+[game mechanics] [SPEAKER_06A]: And this affects ends on creatures, so they want to attack me.
+[game mechanics] [SPEAKER_06A]: More than, basically, than anybody else.
+[game mechanics] [SPEAKER_00A]: Anybody else.
+[game mechanics] [SPEAKER_00A]: And if they attack anybody else, they do so at what?
+[game mechanics] [SPEAKER_00A]: Disadvantage?
+[game mechanics] [SPEAKER_06A]: It just says the creature is more than, it just doesn't say they have a disadvantage, it just says they want to.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_06A]: They're tentative to attack me if they can, like, go deeper into the book.
+[game mechanics] [SPEAKER_06A]: No, I think I know what it means.
+[game mechanics] [SPEAKER_00A]: If they're going to attack you, they will.
+[game mechanics] [SPEAKER_00A]: So I'm going to roll saving throws for these guys.
+[game mechanics] [SPEAKER_00A]: Here's this guy's saving throw.
+[game mechanics] [SPEAKER_04A]: What's your spell DC?
+[game mechanics] [SPEAKER_00A]: Spell DC?
+[game mechanics] [SPEAKER_00A]: It's your charisma thing.
+[game mechanics] [SPEAKER_00A]: Under spells, what do you got?
+[game mechanics] [SPEAKER_06A]: Oh, hang on.
+[game mechanics] [SPEAKER_06A]: I'm looking at the wrong one.
+[game mechanics] [SPEAKER_06A]: Right there at the top.
+[game mechanics] [SPEAKER_06A]: Right here at the top?
+[game mechanics] [SPEAKER_06A]: No, no, no.
+[game mechanics] [SPEAKER_06A]: Top of the other page.
+[game mechanics] [SPEAKER_06A]: The page where your spells are.
+[game mechanics] [SPEAKER_06A]: Spell save 14, plus 6.
+[game mechanics] [SPEAKER_06A]: Spell attack, well that's my attack on this.
+[game mechanics] [SPEAKER_06A]: So save, spell save is 14.
+[game mechanics] [SPEAKER_00A]: It has to be a wisdom saving throw that they make, right?
+[game mechanics] [SPEAKER_00A]: Correct.
+[game mechanics] [SPEAKER_00A]: That's what it says?
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: Here's this guy.
+[game mechanics] [SPEAKER_00A]: 18, he makes it, so he's not affected.
+[game mechanics] [SPEAKER_00A]: This guy makes it, this guy.
+[game mechanics] [SPEAKER_00A]: I'm going to just mark the guys that
+[game mechanics] [SPEAKER_00A]: Don't make it.
+[game mechanics] [SPEAKER_00A]: Makes it.
+[game mechanics] [SPEAKER_00A]: This guy.
+[game mechanics] [SPEAKER_00A]: No.
+[game mechanics] [SPEAKER_00A]: He does not.
+[game mechanics] [SPEAKER_00A]: This guy.
+[game mechanics] [SPEAKER_00A]: He does.
+[game mechanics] [SPEAKER_00A]: This guy.
+[game mechanics] [SPEAKER_00A]: He does not.
+[game mechanics] [SPEAKER_00A]: This guy.
+[game mechanics] [SPEAKER_00A]: He does.
+[game mechanics] [SPEAKER_00A]: This guy.
+[game mechanics] [SPEAKER_00A]: Does not.
+[game mechanics] [SPEAKER_00A]: This guy.
+[game mechanics] [SPEAKER_00A]: Does not.
+[game mechanics] [SPEAKER_00A]: This guy.
+[game mechanics] [SPEAKER_00A]: This guy does not, and then this guy does not.
+[game mechanics] [SPEAKER_06A]: All right, so that hopefully will pull their attention to me and allow you guys to have a lot more of a deal.
+[game mechanics] [SPEAKER_06A]: So then, now my action is going to be to swing on the guy who hit me.
+[game mechanics] [SPEAKER_06A]: This guy?
+[game mechanics] [SPEAKER_06A]: Yeah.
+[game mechanics] [SPEAKER_06A]: You're going to punch him?
+[game mechanics] [SPEAKER_06A]: I'm going to punch him.
+[game mechanics] [SPEAKER_00A]: Okay, roll.
+[game mechanics] [SPEAKER_06A]: One.
+[game mechanics] [SPEAKER_00A]: Okay, roll a dexterity check.
+[game mechanics] [SPEAKER_00A]: Four.
+[game mechanics] [SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Tyrus punches around, loses his footing, and falls prone right there.
+[SPEAKER_00A]: Okay?
+[SPEAKER_06A]: After he goes, I'm gonna take all you bitches on.
+[game mechanics] [SPEAKER_05A]: Whips and then falls plain right there.
+[game mechanics] [SPEAKER_00A]: That's his turn.
+[game mechanics] [SPEAKER_00A]: Gouge, you're next.
+[game mechanics] [SPEAKER_04A]: No, it's Merrick.
+[game mechanics] [SPEAKER_00A]: Oh, it is Merrick.
+[game mechanics] [SPEAKER_00A]: It is Merrick.
+[game mechanics] [SPEAKER_00A]: Merrick, you're next.
+[game mechanics] [SPEAKER_05A]: So yeah, I'm grappling on right now.
+[game mechanics] [SPEAKER_05A]: Someone's got me.
+[game mechanics] [SPEAKER_05A]: So with my action, can I draw my rapier?
+[game mechanics] [SPEAKER_00A]: Bonus action, you can pull out your rapier.
+[game mechanics] [SPEAKER_05A]: Okay, pull out my rapier and I'm going to try to... Can I try to stab the guy that's got me?
+[game mechanics] [SPEAKER_00A]: Yeah, if you want to pull out your blade and then try and do that, you can definitely try to attack him that way.
+[game mechanics] [SPEAKER_05A]: Yeah, let's do that.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_05A]: Roll your attack.
+[game mechanics] [SPEAKER_00A]: Oh, please, buddy.
+[game mechanics] [SPEAKER_05A]: Seven.
+[game mechanics] [SPEAKER_05A]: Seven plus?
+[game mechanics] [SPEAKER_05A]: My rapier is plus six.
+[game mechanics] [SPEAKER_05A]: Attack bonus, so... Thirteen?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: That is a hit.
+[game mechanics] [SPEAKER_00A]: Okay, so you pull your sword out like this.
+[game mechanics] [SPEAKER_00A]: You're not holding it right, and you jab it into the guy's leg.
+[game mechanics] [SPEAKER_00A]: He's behind me.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Roll damage.
+[game mechanics] [SPEAKER_05A]: 1 die 8 plus... Rapier is 1 die 6 plus 4?
+[game mechanics] [SPEAKER_04A]: It's 1 die 6 plus your damage.
+[game mechanics] [SPEAKER_04A]: No, no.
+[game mechanics] [SPEAKER_00A]: It shouldn't be 1 die 6.
+[game mechanics] [SPEAKER_00A]: Let me check that out.
+[game mechanics] [SPEAKER_00A]: That might be a mistake.
+[game mechanics] [SPEAKER_00A]: I think they're 1 die 8.
+[game mechanics] [SPEAKER_04A]: I thought my Cutlass was a 1 die 8.
+[game mechanics] [SPEAKER_00A]: No, Cutlass is 1 die 6.
+[game mechanics] [SPEAKER_05A]: It's like a big knife.
+[game mechanics] [SPEAKER_05A]: My dagger is 1-4.
+[game mechanics] [SPEAKER_00A]: That's for sure.
+[game mechanics] [SPEAKER_00A]: That's canon, definitely.
+[game mechanics] [SPEAKER_00A]: A ring here is... 1-8, piercing.
+[game mechanics] [SPEAKER_00A]: It's a finesse weapon, so roll 1-8.
+[game mechanics] [SPEAKER_00A]: Six.
+[game mechanics] [SPEAKER_00A]: Six plus... Four?
+[game mechanics] [SPEAKER_00A]: Ten points of damage.
+[game mechanics] [SPEAKER_00A]: Okay, so you stick your blade through his thigh and it comes out the other side.
+[game mechanics] [SPEAKER_00A]: What else do you have?
+[game mechanics] [SPEAKER_00A]: Do you have anything else to do?
+[game mechanics] [SPEAKER_05A]: Bonus action.
+[game mechanics] [SPEAKER_05A]: Can I cast a spell for a bonus action or is that an action?
+[game mechanics] [SPEAKER_00A]: Some spells take bonus action.
+[game mechanics] [SPEAKER_00A]: It can be cast with bonus actions.
+[game mechanics] [SPEAKER_05A]: What do you have?
+[game mechanics] [SPEAKER_05A]: I have Longstride, can't do that.
+[game mechanics] [SPEAKER_05A]: Right, I don't want to do that right now.
+[game mechanics] [SPEAKER_05A]: Fogcloud and Hunter's Mark.
+[game mechanics] [SPEAKER_00A]: Hunter's Mark, I believe, is a bonus action.
+[game mechanics] [SPEAKER_00A]: But that's for... That's for any attacks and also for tracking.
+[game mechanics] [SPEAKER_05A]: I have it right here.
+[game mechanics] [SPEAKER_05A]: Hunter's Mark, casting one bonus action, range 90 feet, duration up to one hour.
+[game mechanics] [SPEAKER_05A]: Okay, I deal an extra 1-6 damage to the target whenever you hit with a weapon attack or you have advantage.
+[game mechanics] [SPEAKER_04A]: One target.
+[game mechanics] [SPEAKER_04A]: You can mark one person then.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: And you do extra damage to the person.
+[game mechanics] [SPEAKER_00A]: Okay, so if you wanted to do that, you should have cast Hunter's Mark first.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: We'll do that next time.
+[game mechanics] [SPEAKER_00A]: Which I'll let you do this time.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: And you cast it on that guy, right?
+[game mechanics] [SPEAKER_00A]: Sure.
+[game mechanics] [SPEAKER_00A]: So you do an extra 1-6 damage to him.
+[game mechanics] [SPEAKER_00A]: Oh, you're getting wrecked now, buddy.
+[game mechanics] [SPEAKER_00A]: So he's 16.
+[game mechanics] [SPEAKER_05A]: I can only cast that once.
+[game mechanics] [SPEAKER_05A]: It was just on that guy.
+[game mechanics] [SPEAKER_00A]: Well, you use the spell slot, right?
+[game mechanics] [SPEAKER_00A]: You can only have 100th mark up at a time.
+[game mechanics] [SPEAKER_00A]: It lasts a minute.
+[game mechanics] [SPEAKER_00A]: If your guy goes out, you can use a bonus action to switch it to somebody else.
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_05A]: It says it lasts an hour.
+[game mechanics] [SPEAKER_05A]: Oh, yeah.
+[game mechanics] [SPEAKER_05A]: So you can just keep switching it.
+[game mechanics] [SPEAKER_05A]: Okay, cool.
+[game mechanics] [SPEAKER_06A]: As a bonus action.
+[game mechanics] [SPEAKER_05A]: Sweet.
+[game mechanics] [SPEAKER_00A]: Now it's concentration.
+[game mechanics] [SPEAKER_00A]: It doesn't cost any more self-slide, but it's concentration and so if you get knocked out or a lot of damage, you can lose it.
+[game mechanics] [SPEAKER_00A]: That's fine.
+[game mechanics] [SPEAKER_00A]: Okay, so you've done your thing.
+[game mechanics] [SPEAKER_04A]: Now me.
+[game mechanics] [SPEAKER_04A]: Now you.
+[game mechanics] [SPEAKER_04A]: Let's run over this again.
+[game mechanics] [SPEAKER_04A]: Self-perception, sneak attack, can't do any of that from what I'm in.
+[game mechanics] [SPEAKER_04A]: Cunning action.
+[game mechanics] [SPEAKER_04A]: Assassinate, uncanny dodge.
+[game mechanics] [SPEAKER_04A]: I've already got hands on me.
+[game mechanics] [SPEAKER_04A]: Expertise, more skill, determination, second one, two-weapon fight.
+[game mechanics] [SPEAKER_06A]: I bet you could do sneak attack as long as they weren't...
+[game mechanics] [SPEAKER_00A]: No, you can do sneak attack if you're within 5 feet of an ally.
+[game mechanics] [SPEAKER_00A]: So if you're standing back-to-back with Tyrus, you can do sneak attack.
+[game mechanics] [SPEAKER_00A]: Basically, if he was standing, you could sneak attack that guy.
+[game mechanics] [SPEAKER_04A]: Oh, if he was standing.
+[game mechanics] [SPEAKER_00A]: If he was standing.
+[game mechanics] [SPEAKER_00A]: You can sneak attack that guy, because he's right five feet within...
+[game mechanics] [SPEAKER_04A]: He's not attacking me, but I can take him out.
+[game mechanics] [SPEAKER_04A]: You can sneak attack him.
+[game mechanics] [SPEAKER_00A]: Yes.
+[game mechanics] [SPEAKER_04A]: Okay, what about two-weapon fighting?
+[game mechanics] [SPEAKER_00A]: Two-weapon fighting means that you can... basically you can attack twice, once with your bonus action.
+[game mechanics] [SPEAKER_04A]: So cutlass and axe.
+[game mechanics] [SPEAKER_00A]: And axe, yeah.
+[game mechanics] [SPEAKER_00A]: As long as it's a light weapon, okay?
+[game mechanics] [SPEAKER_00A]: And with two-weapon fighting, what that means is you get to use your strength to add to the damage.
+[game mechanics] [SPEAKER_00A]: Normally, when you attack with two weapons, you don't.
+[game mechanics] [SPEAKER_00A]: But now you can.
+[game mechanics] [SPEAKER_00A]: So you can attack with your action, and then your bonus action, and on both you apply damage normally to both.
+[game mechanics] [SPEAKER_04A]: One day four plus six could be up to ten.
+[game mechanics] [SPEAKER_04A]: One day six plus five is eleven.
+[game mechanics] [SPEAKER_04A]: Actually, probably just both.
+[game mechanics] [SPEAKER_04A]: Pull my dagger because it's a better attack bonus by one.
+[game mechanics] [SPEAKER_00A]: Alright.
+[game mechanics] [SPEAKER_00A]: So you pull out your cutlass and your dagger?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: And you are going to use your action to attack who?
+[game mechanics] [SPEAKER_00A]: I have a sneak attack.
+[game mechanics] [SPEAKER_00A]: Have you been grappled?
+[game mechanics] [SPEAKER_04A]: Yes.
+[game mechanics] [SPEAKER_04A]: You have been grappled.
+[game mechanics] [SPEAKER_04A]: Yes.
+[game mechanics] [SPEAKER_04A]: So somebody's got their hands on me.
+[game mechanics] [SPEAKER_00A]: This guy is on you.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: Would that nullify a sneak attack turning around on that guy?
+[game mechanics] [SPEAKER_04A]: No.
+[game mechanics] [SPEAKER_04A]: I mean, you could do it.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: Because I can't sneak attack the guys on me.
+[game mechanics] [SPEAKER_00A]: No, because they're not within five feet of anybody.
+[game mechanics] [SPEAKER_00A]: If Tyrus was standing, you could sneak attack that guy.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: Yeah, I'm gonna go right for that guy with the sneak attack.
+[game mechanics] [SPEAKER_00A]: Alright, so you pull your cutlass and dagger out and then you move around with your cutlass to try and slash him.
+[game mechanics] [SPEAKER_00A]: Are you gonna use your bonus action to try and stab him?
+[game mechanics] [SPEAKER_00A]: You can only do one sneak attack per round.
+[game mechanics] [SPEAKER_04A]: Per round.
+[game mechanics] [SPEAKER_04A]: Yeah.
+[game mechanics] [SPEAKER_00A]: So what's going to be your sneak attack?
+[game mechanics] [SPEAKER_04A]: It's going to be my first attack with the Cutlass.
+[game mechanics] [SPEAKER_04A]: Okay, on him.
+[game mechanics] [SPEAKER_04A]: So what's your plus?
+[game mechanics] [SPEAKER_04A]: Plus nine.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Thirteen plus nine.
+[game mechanics] [SPEAKER_00A]: Twenty-two.
+[game mechanics] [SPEAKER_00A]: Twenty-two.
+[game mechanics] [SPEAKER_00A]: That hits him.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_00A]: The damage is going to be...
+[game mechanics] [SPEAKER_00A]: There's one die six plus six.
+[game mechanics] [SPEAKER_00A]: One die six plus six plus three die six.
+[game mechanics] [SPEAKER_00A]: So four die six plus six.
+[game mechanics] [SPEAKER_04A]: So that's eight, ten, eleven, seventeen.
+[game mechanics] [SPEAKER_00A]: Seventeen points of damage to him.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Now what?
+[game mechanics] [SPEAKER_00A]: Dagger?
+[game mechanics] [SPEAKER_00A]: I want to dagger the guy on me.
+[game mechanics] [SPEAKER_00A]: Bonus action, you dagger this guy?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: Which is also plus nine.
+[game mechanics] [SPEAKER_00A]: Nineteen plus nine?
+[game mechanics] [SPEAKER_00A]: Twenty-eight.
+[game mechanics] [SPEAKER_00A]: And remember, you are a fighter, which means you do have second wind, which means that you can add one die ten plus one to your hit points if you use a bonus action, but you can only do that once per shortcut.
+[game mechanics] [SPEAKER_00A]: Just remember that.
+[game mechanics] [SPEAKER_00A]: Okay, so hit nineteen, that hits him?
+[game mechanics] [SPEAKER_04A]: Yep.
+[game mechanics] [SPEAKER_04A]: One die four plus six.
+[game mechanics] [SPEAKER_04A]: That's your strength bonus too?
+[game mechanics] [SPEAKER_06A]: Yeah.
+[game mechanics] [SPEAKER_06A]: Dexterity bonus.
+[game mechanics] [SPEAKER_06A]: Yeah, but he gets to... Oh yeah, he gets to add his dexterity bonus.
+[game mechanics] [SPEAKER_00A]: Because he's got two hits.
+[game mechanics] [SPEAKER_00A]: So four, ten points of damage.
+[game mechanics] [SPEAKER_00A]: Okay, so...
+[game mechanics] [SPEAKER_00A]: Both these guys get horrible wounds from those two dudes.
+[game mechanics] [SPEAKER_00A]: And Gouge is done.
+[game mechanics] [SPEAKER_00A]: His thing.
+[game mechanics] [SPEAKER_00A]: This guy, seeing what you have done, pulls his rapier, walks forward to here, and tries to stab you with his rapier.
+[game mechanics] [SPEAKER_00A]: Twenty.
+[game mechanics] [SPEAKER_04A]: Eight.
+[game mechanics] [SPEAKER_00A]: Nine, ten, eleven points of damage.
+[game mechanics] [SPEAKER_00A]: Grappled creature's speed becomes zero.
+[game mechanics] [SPEAKER_00A]: It can't benefit from any bonus to its speed.
+[game mechanics] [SPEAKER_00A]: The condition ends if the grappler is incapacitated.
+[game mechanics] [SPEAKER_00A]: The condition also ends if an effect removes the grappled creature from the reach of the grappler and so on.
+[game mechanics] [SPEAKER_00A]: So basically what grappled means is that you cannot move.
+[game mechanics] [SPEAKER_04A]: So we've all gone.
+[game mechanics] [SPEAKER_06A]: Roll a Nash.
+[game mechanics] [SPEAKER_06A]: No initiative round.
+[game mechanics] [SPEAKER_06A]: What?
+[game mechanics] [SPEAKER_06A]: It might still grapple if I'm on the ground.
+[game mechanics] [SPEAKER_06A]: No.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_06A]: That's good.
+[game mechanics] [SPEAKER_06A]: That's what I wanted to know.
+[game mechanics] [SPEAKER_06A]: Initiative.
+[game mechanics] [SPEAKER_06A]: Nash, yeah.
+[game mechanics] [SPEAKER_04A]: Five.
+[game mechanics] [SPEAKER_04A]: All together is five.
+[game mechanics] [SPEAKER_04A]: You rolled a one.
+[game mechanics] [SPEAKER_00A]: Fifteen plus three, eighteen.
+[game mechanics] [SPEAKER_00A]: Twenty-four.
+[game mechanics] [SPEAKER_00A]: Twenty-four.
+[game mechanics] [SPEAKER_00A]: Twenty-four.
+[game mechanics] [SPEAKER_00A]: Beat that big man.
+[game mechanics] [SPEAKER_00A]: This guy.
+[game mechanics] [SPEAKER_00A]: Nineteen.
+[game mechanics] [SPEAKER_00A]: Those are the men.
+[game mechanics] [SPEAKER_00A]: Then here's the guy.
+[game mechanics] [SPEAKER_00A]: Seventeen, nineteen.
+[game mechanics] [SPEAKER_00A]: You want a different die.
+[out-of-band] [SPEAKER_01]: Oh, you're going to let me explain your special dice?
+[out-of-band] [SPEAKER_01]: Your cursed dice?
+[out-of-band] [SPEAKER_00]: Yeah.
+[out-of-band] [SPEAKER_00]: One of the ones from basic set that I got.
+[out-of-band] [SPEAKER_01]: Exactly.
+[out-of-band] [SPEAKER_01]: The weird colored ones look like clay.
+[out-of-band] [SPEAKER_01]: Yeah.
+[out-of-band] [SPEAKER_01]: I put together my clay and my Kermur.
+[out-of-band] [SPEAKER_01]: You got to color them.
+[out-of-band] [SPEAKER_01]: Okay.
+[game mechanics] [SPEAKER_00A]: Gouge?
+[game mechanics] [SPEAKER_04A]: Yes.
+[game mechanics] [SPEAKER_04A]: You've got the damage that's on those guys, right?
+[game mechanics] [SPEAKER_00A]: 10 on that guy, 17 on that guy.
+[game mechanics] [SPEAKER_00A]: And that's the guy grappling him.
+[game mechanics] [SPEAKER_04A]: Yes.
+[game mechanics] [SPEAKER_04A]: He got daggered.
+[game mechanics] [SPEAKER_04A]: Yes.
+[game mechanics] [SPEAKER_04A]: Yes.
+[game mechanics] [SPEAKER_04A]: So can I continue to sneak attack that dude that I already hit?
+[game mechanics] [SPEAKER_04A]: Now I'm going to turn and sneak attack him with a dagger and try to use my scimitar on him.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: So dagger first.
+[game mechanics] [SPEAKER_04A]: Dagger first.
+[game mechanics] [SPEAKER_00A]: 11 plus 9 is 20.
+[game mechanics] [SPEAKER_00A]: That's a hit.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: So 1 die 4, 3 die 6.
+[game mechanics] [SPEAKER_04A]: 1 die 4, 3 die 6, plus 6.
+[game mechanics] [SPEAKER_04A]: So we're looking at 10, 14, 20.
+[game mechanics] [SPEAKER_04A]: 20.
+[SPEAKER_00A]: So Gouge moves left with his dagger and hits that guy in the throat and he falls to the ground.
+[SPEAKER_04A]: Kaplunk.
+[SPEAKER_04A]: And then scimitar the guy on me.
+[game mechanics] [SPEAKER_00A]: 18, 27.
+[SPEAKER_00A]: He takes his scimitar across the guy's throat.
+[SPEAKER_00A]: His cufflinks.
+[game mechanics] [SPEAKER_00A]: So that is 12.
+[game mechanics] [SPEAKER_04A]: 12 points of damage.
+[game mechanics] [SPEAKER_04A]: So 22 off that guy.
+[game mechanics] [SPEAKER_04A]: He goes down.
+[game mechanics] [SPEAKER_00A]: Gouge, you are now not grappled.
+[game mechanics] [SPEAKER_00A]: You're next to these two guys.
+[game mechanics] [SPEAKER_00A]: You've used your action and your bonus action.
+[game mechanics] [SPEAKER_00A]: If you want to move, you can.
+[game mechanics] [SPEAKER_00A]: However, they will get reaction attacks at you.
+[game mechanics] [SPEAKER_00A]: I mean, even if you want to just step to here so you're next to him.
+[game mechanics] [SPEAKER_00A]: Yeah, I want to try to draw some of them off Merrick if I can, stepping more towards him.
+[game mechanics] [SPEAKER_00A]: So, I mean, what that means is if you move to here, you're going to be within five feet.
+[game mechanics] [SPEAKER_00A]: Guys are going to be within five feet of you, so you can get a sneak attack.
+[game mechanics] [SPEAKER_00A]: Now that means these two guys are going to get reaction attacks.
+[game mechanics] [SPEAKER_00A]: This guy attacks you with a club.
+[game mechanics] [SPEAKER_00A]: One.
+[game mechanics] [SPEAKER_00A]: He does not fall to the ground, but he basically stumbles as he comes after you.
+[game mechanics] [SPEAKER_00A]: This guy attacks you.
+[game mechanics] [SPEAKER_00A]: Fifteen.
+[game mechanics] [SPEAKER_04A]: That hits.
+[game mechanics] [SPEAKER_04A]: Because I have a...
+[game mechanics] [SPEAKER_04A]: I don't have an opportunity.
+[game mechanics] [SPEAKER_00A]: Fifteen plus three, that's eighteen.
+[game mechanics] [SPEAKER_00A]: That's your AC.
+[game mechanics] [SPEAKER_00A]: He hits you for five, six, seven points of damage with the club.
+[game mechanics] [SPEAKER_00A]: Gouge has gone.
+[game mechanics] [SPEAKER_00A]: This guy moves to here and attacks Gouge.
+[game mechanics] [SPEAKER_00A]: Nineteen.
+[game mechanics] [SPEAKER_00A]: I thought he tripped.
+[game mechanics] [SPEAKER_00A]: It doesn't matter.
+[game mechanics] [SPEAKER_00A]: He made his sticks roll.
+[game mechanics] [SPEAKER_04A]: Oh, okay.
+[game mechanics] [SPEAKER_04A]: He stumbled, but... Oh, that was just a reaction.
+[game mechanics] [SPEAKER_04A]: Exactly.
+[game mechanics] [SPEAKER_00A]: Hits you for...
+[game mechanics] [SPEAKER_00A]: Two, four more points of damage.
+[game mechanics] [SPEAKER_00A]: This guy has been pulled off you, runs over to here, and stomps on Tyrus.
+[game mechanics] [SPEAKER_00A]: Twenty and four, he hits you for six, seven, eight points of damage.
+[SPEAKER_01B]: Puff one of your nuts, dude.
+[SPEAKER_01B]: Beat you first!
+[game mechanics] [SPEAKER_00A]: This guy attacks you.
+[game mechanics] [SPEAKER_00A]: They give advantage because you're on the ground, right?
+[game mechanics] [SPEAKER_00A]: Right.
+[game mechanics] [SPEAKER_00A]: They're beating you.
+[game mechanics] [SPEAKER_00A]: Three.
+[game mechanics] [SPEAKER_00A]: Fourteen.
+[game mechanics] [SPEAKER_00A]: That does hit.
+[game mechanics] [SPEAKER_00A]: Three points of damage.
+[game mechanics] [SPEAKER_00A]: This guy attacks you at advantage.
+[game mechanics] [SPEAKER_00A]: Three.
+[game mechanics] [SPEAKER_00A]: Six misses.
+[game mechanics] [SPEAKER_00A]: This guy attacks you.
+[game mechanics] [SPEAKER_00A]: Sixteen.
+[game mechanics] [SPEAKER_00A]: And a seven, that does hit and does four, five, six points of damage.
+[game mechanics] [SPEAKER_00A]: This guy attacks Gouge.
+[game mechanics] [SPEAKER_05A]: Eleven...
+[game mechanics] [SPEAKER_04A]: Fourteen, what's your AC?
+[game mechanics] [SPEAKER_04A]: Sixteen, but that might be with the shield.
+[game mechanics] [SPEAKER_04A]: No, no, no.
+[game mechanics] [SPEAKER_00A]: It's not.
+[game mechanics] [SPEAKER_00A]: It's twelve because you got plus one dragon armor AC.
+[game mechanics] [SPEAKER_04A]: Plus four because you're a dexterity.
+[game mechanics] [SPEAKER_04A]: So sixteen.
+[game mechanics] [SPEAKER_04A]: I don't even know if I have a shield.
+[game mechanics] [SPEAKER_00A]: No, you don't use the shield.
+[game mechanics] [SPEAKER_04A]: I don't.
+[game mechanics] [SPEAKER_00A]: This guy basically...
+[game mechanics] [SPEAKER_00A]: He's grappling you.
+[game mechanics] [SPEAKER_00A]: He pulls a dagger and tries to stab you.
+[game mechanics] [SPEAKER_00A]: Eight misses.
+[game mechanics] [SPEAKER_00A]: This guy with the rapier tries to attack you as well.
+[game mechanics] [SPEAKER_00A]: You better be stabbing me.
+[game mechanics] [SPEAKER_00A]: Six miss.
+[game mechanics] [SPEAKER_00A]: So, basically, they have gone.
+[game mechanics] [SPEAKER_00A]: It is your turn, Merrick.
+[game mechanics] [SPEAKER_05A]: Cool.
+[game mechanics] [SPEAKER_05A]: I assume my sword is still not in his leg.
+[game mechanics] [SPEAKER_05A]: Do you want to attack him again?
+[game mechanics] [SPEAKER_05A]: When you pull it out, twist it.
+[game mechanics] [SPEAKER_05A]: See if you can get a little more meat in it.
+[game mechanics] [SPEAKER_05A]: I was thinking of this dude who stabbed me.
+[game mechanics] [SPEAKER_00A]: Okay, so you're gonna attack the main guy?
+[game mechanics] [SPEAKER_05A]: Oh, is that guy?
+[game mechanics] [SPEAKER_00A]: Is that guy?
+[game mechanics] [SPEAKER_00A]: That's the guy.
+[game mechanics] [SPEAKER_05A]: I don't want to kill guy.
+[game mechanics] [SPEAKER_04A]: I can't save him from me.
+[game mechanics] [SPEAKER_05A]: I'm swinging on him.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_00A]: This guy.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Is this another guy?
+[game mechanics] [SPEAKER_00A]: Um, yes, that is another guy.
+[game mechanics] [SPEAKER_00A]: But it's not the guy.
+[game mechanics] [SPEAKER_00A]: That guy's the guy.
+[out-of-band] [SPEAKER_00]: Get a bloody one.
+[out-of-band] [SPEAKER_00]: Oh no, here's all the ones Aidy can use.
+[out-of-band] [SPEAKER_00]: This is Guy.
+[out-of-band] [SPEAKER_00]: It's a little too big.
+[out-of-band] [SPEAKER_00]: That'll work.
+[out-of-band] [SPEAKER_00]: I'm going to find a better one.
+[game mechanics] [SPEAKER_05A]: He's bigger.
+[game mechanics] [SPEAKER_05A]: No, he's the leader.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_05A]: I'm swinging on him.
+[game mechanics] [SPEAKER_05A]: Sixteen.
+[game mechanics] [SPEAKER_00A]: Sixteen against this dude.
+[game mechanics] [SPEAKER_05A]: Yes.
+[game mechanics] [SPEAKER_05A]: That hits.
+[game mechanics] [SPEAKER_05A]: And then one die eight.
+[game mechanics] [SPEAKER_05A]: One die eight.
+[game mechanics] [SPEAKER_05A]: Six plus four.
+[game mechanics] [SPEAKER_05A]: That guy's ten.
+[game mechanics] [SPEAKER_00A]: That guy has ten on him.
+[game mechanics] [SPEAKER_05A]: Oh, then I get to do another one by six.
+[game mechanics] [SPEAKER_00A]: Well, you still have it on that guy.
+[game mechanics] [SPEAKER_00A]: Okay, it's fine.
+[game mechanics] [SPEAKER_05A]: I'll do that next time.
+[game mechanics] [SPEAKER_05A]: I need to learn.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Merrick's gone.
+[game mechanics] [SPEAKER_00A]: Tyrus.
+[game mechanics] [SPEAKER_00A]: All right.
+[game mechanics] [SPEAKER_00A]: To my feet.
+[game mechanics] [SPEAKER_06A]: Half your movement.
+[game mechanics] [SPEAKER_06A]: Okay, that's fine.
+[game mechanics] [SPEAKER_06A]: I don't need to go anywhere.
+[game mechanics] [SPEAKER_06A]: To my feet.
+[game mechanics] [SPEAKER_06A]: Got my sword.
+[game mechanics] [SPEAKER_06A]: Got my dagger.
+[game mechanics] [SPEAKER_06A]: Let's see.
+[game mechanics] [SPEAKER_06A]: And I'm swinging on the guy who stomped on me.
+[game mechanics] [SPEAKER_06A]: I'm swinging on... Take his fucking foot off.
+[game mechanics] [SPEAKER_00A]: That guy?
+[game mechanics] [SPEAKER_06A]: Yeah, that's the guy.
+[game mechanics] [SPEAKER_06A]: Do you want to use the smite?
+[game mechanics] [SPEAKER_00A]: I'm going to use... Do you want to wait to see if you hit and then do divine smite?
+[game mechanics] [SPEAKER_00A]: That's what I'm going to do.
+[game mechanics] [SPEAKER_06A]: I'm going to wait to see if I hit.
+[game mechanics] [SPEAKER_06A]: So the 10 plus... You should have your weapon.
+[game mechanics] [SPEAKER_06A]: Yeah, sword is plus 5, so 15.
+[game mechanics] [SPEAKER_06A]: That's a hit.
+[game mechanics] [SPEAKER_06A]: And damage on that is 1 to 8 plus 5.
+[game mechanics] [SPEAKER_06A]: Do you want to do a Divine Spine?
+[game mechanics] [SPEAKER_06A]: I'm definitely going to do a Divine Spine.
+[SPEAKER_06A]: You're fucking stomped on my nuts.
+[game mechanics] [SPEAKER_00A]: Okay, so that's plus two die eight and you lose a spell slot.
+[game mechanics] [SPEAKER_06A]: Plus two die eight.
+[game mechanics] [SPEAKER_06A]: Permanently.
+[game mechanics] [SPEAKER_00A]: Idiot.
+[game mechanics] [SPEAKER_00A]: Forever.
+[game mechanics] [SPEAKER_00A]: What the fuck is that one?
+[game mechanics] [SPEAKER_00A]: That's even getting bigger.
+[game mechanics] [SPEAKER_00A]: Twenty sided.
+[game mechanics] [SPEAKER_06A]: Yeah, it's massive.
+[game mechanics] [SPEAKER_06A]: Six plus five.
+[game mechanics] [SPEAKER_06A]: Is that six total?
+[game mechanics] [SPEAKER_06A]: No, six, but I got eleven.
+[game mechanics] [SPEAKER_00A]: Eleven?
+[game mechanics] [SPEAKER_00A]: Plus five.
+[game mechanics] [SPEAKER_00A]: It's sixteen.
+[game mechanics] [SPEAKER_06A]: Sixteen, yeah.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_00A]: Okay, and do you have anything with your bonus action that you want to do?
+[game mechanics] [SPEAKER_06A]: The bonus action that I'm going to do is who got hurt?
+[game mechanics] [SPEAKER_06A]: You got hit?
+[game mechanics] [SPEAKER_06A]: I got hit.
+[game mechanics] [SPEAKER_06A]: And you got hit.
+[game mechanics] [SPEAKER_06A]: Well, the guy stabbed me.
+[game mechanics] [SPEAKER_06A]: Right, you both got hurt.
+[game mechanics] [SPEAKER_04A]: Yeah, I've been hit a couple times.
+[game mechanics] [SPEAKER_06A]: So, as a bonus action, I could bolster injured creatures with a divinity, with a channel divinity, each creature of my... You've already used your channel divinity.
+[game mechanics] [SPEAKER_06A]: Oh, okay.
+[game mechanics] [SPEAKER_06A]: You only have one.
+[game mechanics] [SPEAKER_06A]: Oh, okay.
+[game mechanics] [SPEAKER_00A]: Okay, good call.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: Then, uh...
+[out-of-band] [SPEAKER_00]: Then he rivals the big guy.
+[out-of-band] [SPEAKER_00]: I put four coins at the side of the door.
+[out-of-band] [SPEAKER_03]: Not quite.
+[out-of-band] [SPEAKER_00]: Not quite.
+[out-of-band] [SPEAKER_03]: Not quite.
+[out-of-band] [SPEAKER_03]: So with my bonus action, I can.
+[out-of-band] [SPEAKER_03]: I'm not going to do anything with that right now.
+[out-of-band] [SPEAKER_03]: We need to do that.
+[out-of-band] [SPEAKER_03]: You only have two, so you get to pick one.
+[out-of-band] [SPEAKER_01]: I speak in their native tongue.
+[out-of-band] [SPEAKER_01]: Is that what he would do?
+[out-of-band] [SPEAKER_01]: Totally.
+[out-of-band] [SPEAKER_01]: When he explained to me how I was sagging the coins for five minutes.
+[out-of-band] [SPEAKER_01]: You're right by the edge of the door.
+[out-of-band] [SPEAKER_01]: You know, like this?
+[out-of-band] [SPEAKER_00]: Yeah.
+[out-of-band] [SPEAKER_01]: But I don't want it too hot, because I don't want it to be a false.
+[out-of-band] [SPEAKER_01]: I should have done.
+[out-of-band] [SPEAKER_00]: I should have said, I leave my room, I open Carburton's door about six inches and re-shut it and go back to bed.
+[out-of-band] [SPEAKER_01]: I was such a good friend to that guy, wasn't I?
+[out-of-band] [SPEAKER_01]: I was a really good friend to that guy.
+[out-of-band] [SPEAKER_01]: Jesus Christ.
+[out-of-band] [SPEAKER_01]: You're very tolerant.
+[out-of-band] [SPEAKER_01]: Do I notice which one's better?
+[out-of-band] [SPEAKER_01]: Which one would make just the right amount of noise?
+[out-of-band] [SPEAKER_02]: It wouldn't alert them, but it will alert me.
+[out-of-band] [SPEAKER_00]: Different currencies.
+[out-of-band] [SPEAKER_00]: I tend to see which one's ringed.
+[out-of-band] [SPEAKER_00]: I tie a thread to the doorknob, the other end of my cock.
+[out-of-band] [SPEAKER_00]: That moves a little cut, I know.
+[out-of-band] [SPEAKER_00]: Open it, close it.
+[out-of-band] [SPEAKER_00]: Shut it, open it, shut it, open it.
+[out-of-band] [SPEAKER_00]: I finished and jumped out of the bed and swore to me.
+[game mechanics] [SPEAKER_04A]: I throw it at his eyes.
+[game mechanics] [SPEAKER_04A]: Here's the mid.
+[game mechanics] [SPEAKER_04A]: Four.
+[game mechanics] [SPEAKER_00A]: This is the eye turning.
+[game mechanics] [SPEAKER_00A]: Eleven.
+[game mechanics] [SPEAKER_04A]: Eleven.
+[game mechanics] [SPEAKER_04A]: This guy gets twenty.
+[game mechanics] [SPEAKER_04A]: Ten.
+[game mechanics] [SPEAKER_04A]: Cockknocker gets 20.
+[game mechanics] [SPEAKER_04A]: The turkey.
+[game mechanics] [SPEAKER_04A]: Ten.
+[game mechanics] [SPEAKER_04A]: Merrick.
+[game mechanics] [SPEAKER_04A]: The turkey.
+[game mechanics] [SPEAKER_05A]: Two.
+[game mechanics] [SPEAKER_05A]: Two plus?
+[game mechanics] [SPEAKER_05A]: Three.
+[game mechanics] [SPEAKER_05A]: So I got five.
+[game mechanics] [SPEAKER_05A]: Five.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_00A]: So... Turkey.
+[game mechanics] [SPEAKER_04A]: Turkey.
+[game mechanics] [SPEAKER_00A]: Turkey.
+[game mechanics] [SPEAKER_04A]: Turkey.
+[game mechanics] [SPEAKER_00A]: Turkey.
+[game mechanics] [SPEAKER_00A]: Turkey.
+[game mechanics] [SPEAKER_00A]: Turkey.
+[game mechanics] [SPEAKER_00A]: Go first.
+[game mechanics] [SPEAKER_00A]: He attacks you again.
+[game mechanics] [SPEAKER_00A]: Big guy.
+[game mechanics] [SPEAKER_00A]: Eighteen.
+[game mechanics] [SPEAKER_04A]: He attacks.
+[game mechanics] [SPEAKER_04A]: Crush him.
+[game mechanics] [SPEAKER_04A]: Eight.
+[game mechanics] [SPEAKER_00A]: 9-10 to you.
+[game mechanics] [SPEAKER_00A]: Son of a bitch.
+[game mechanics] [SPEAKER_00A]: He's eating my asshole.
+[game mechanics] [SPEAKER_00A]: It is now... Gouge?
+[game mechanics] [SPEAKER_00A]: Yes.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Now remember, with a reaction, you can add one die forward to either saving throws or an attack roll to anybody you want to help.
+[game mechanics] [SPEAKER_00A]: That's right.
+[game mechanics] [SPEAKER_04A]: I don't have anybody on me.
+[game mechanics] [SPEAKER_00A]: You have two guys next to you.
+[game mechanics] [SPEAKER_04A]: I have no grapple, so I'm free.
+[game mechanics] [SPEAKER_00A]: You can attack this guy with sneak attack because he's right next to Merrick.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_04A]: I will... Now how... Is there any way I can throw my dagger at the big guy?
+[game mechanics] [SPEAKER_04A]: Or is Merrick... Merrick's in the way.
+[game mechanics] [SPEAKER_00A]: I mean, you could try it, but...
+[game mechanics] [SPEAKER_04A]: So I can actually move this round.
+[game mechanics] [SPEAKER_04A]: Is there a... Can I move Merrick out of the way?
+[game mechanics] [SPEAKER_00A]: You have cunning actions, so with a bonus action you can actually disengage.
+[game mechanics] [SPEAKER_00A]: From that guy.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_00A]: And then you can move around these guys if you want to.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Right?
+[game mechanics] [SPEAKER_00A]: Now, also, I want you to understand you have uncanny dodge and you should know what that is.
+[game mechanics] [SPEAKER_00A]: It's very important.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: It's a huge one.
+[game mechanics] [SPEAKER_00A]: You can use your reaction and take half damage.
+[game mechanics] [SPEAKER_04A]: Yes.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: But can I get to the big guy?
+[game mechanics] [SPEAKER_04A]: My goal is to disengage the guy from that.
+[game mechanics] [SPEAKER_00A]: You can use your bonus action, which means you don't get your second attack, and you can move around it to here.
+[game mechanics] [SPEAKER_04A]: But then if you moved again, this guy would get a reaction attack on you, right?
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: But there's a guy in between still, right?
+[game mechanics] [SPEAKER_00A]: There's a guy right there, but he's been wounded.
+[game mechanics] [SPEAKER_00A]: But if that's the case, you could sneak attack this dude.
+[game mechanics] [SPEAKER_00A]: So you're going to use your bonus action, coming dodge, to move around to there, and then you're going to attack that guy once, and I'm going to have a reactive attack happen on me.
+[game mechanics] [SPEAKER_04A]: Right?
+[game mechanics] [SPEAKER_04A]: From this guy?
+[game mechanics] [SPEAKER_00A]: No.
+[game mechanics] [SPEAKER_00A]: If you kill that guy, you've gone one, two, three, there.
+[game mechanics] [SPEAKER_00A]: You can kill that guy and then move right in his place.
+[game mechanics] [SPEAKER_00A]: And you've basically moved around that guy, facing him the entire time.
+[game mechanics] [SPEAKER_00A]: You used your uncanny dodge to get out of that guy's sight.
+[game mechanics] [SPEAKER_00A]: So you want to stick it back to that guy, right?
+[game mechanics] [SPEAKER_00A]: Yes.
+[game mechanics] [SPEAKER_00A]: With your cutlass.
+[game mechanics] [SPEAKER_04A]: Yes.
+[game mechanics] [SPEAKER_04A]: Roll it.
+[game mechanics] [SPEAKER_04A]: Eleven.
+[game mechanics] [SPEAKER_04A]: Three.
+[game mechanics] [SPEAKER_04A]: Oh, twelve.
+[game mechanics] [SPEAKER_04A]: Twelve.
+[game mechanics] [SPEAKER_00A]: Miss.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: But you're there.
+[game mechanics] [SPEAKER_04A]: Yep.
+[game mechanics] [SPEAKER_06A]: Tyrus?
+[game mechanics] [SPEAKER_06A]: My issue's up to eighteen now.
+[game mechanics] [SPEAKER_06A]: Because you pulled out your shield.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_06A]: So I'm swinging on the dick beater that...
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_06A]: Did it attack you?
+[game mechanics] [SPEAKER_06A]: Yeah, yeah, that guy.
+[game mechanics] [SPEAKER_06A]: Do you want to...
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_06A]: Eighteen.
+[game mechanics] [SPEAKER_06A]: Eighteen, hit.
+[game mechanics] [SPEAKER_06A]: And...
+[game mechanics] [SPEAKER_06A]: I'm not going to use the Divine Smite.
+[game mechanics] [SPEAKER_00A]: Wait, I don't get another reaction on this.
+[game mechanics] [SPEAKER_00A]: Wait a second, I have a question for you.
+[game mechanics] [SPEAKER_00A]: Did you want to use your reaction to give Gouge an extra one-dive four to see if you could hit that guy?
+[game mechanics] [SPEAKER_06A]: Oh yeah, I meant to do that.
+[game mechanics] [SPEAKER_06A]: I was waiting for you guys to finish, but yes, I can use the...
+[game mechanics] [SPEAKER_06A]: You have to use it before he rolls.
+[game mechanics] [SPEAKER_06A]: Right, right.
+[game mechanics] [SPEAKER_06A]: And I was waiting for you guys to finish, but that's my channel divinity, right?
+[game mechanics] [SPEAKER_06A]: No, that's your squad leader skill.
+[game mechanics] [SPEAKER_06A]: That's my squad leader skill.
+[game mechanics] [SPEAKER_06A]: You can use that every reaction.
+[game mechanics] [SPEAKER_06A]: Oh, I can use it every reaction.
+[game mechanics] [SPEAKER_00A]: Every round.
+[game mechanics] [SPEAKER_06A]: Oh, okay.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_06A]: I didn't know that was every round.
+[game mechanics] [SPEAKER_06A]: But yes, yeah, I will have to have done that next time, I guess.
+[game mechanics] [SPEAKER_06A]: Okay, so you attack this guy, you rolled an 18, you hit him?
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: How much damage do you do?
+[game mechanics] [SPEAKER_06A]: It's gonna be 1 to 8 plus 5, so 4 plus 5.
+[game mechanics] [SPEAKER_06A]: He falls.
+[game mechanics] [SPEAKER_06A]: Gick Beater's down.
+[game mechanics] [SPEAKER_00A]: Now I still have a reaction though?
+[game mechanics] [SPEAKER_00A]: You have a reaction?
+[game mechanics] [SPEAKER_00A]: Merrick hasn't gone.
+[game mechanics] [SPEAKER_00A]: And you have a bonus action.
+[game mechanics] [SPEAKER_06A]: Right.
+[game mechanics] [SPEAKER_06A]: So my reaction, I'm going to use squad leader on... Do it when he makes a roll, a decision.
+[game mechanics] [SPEAKER_06A]: Oh, I can do it when he makes the roll.
+[game mechanics] [SPEAKER_00A]: Exactly.
+[game mechanics] [SPEAKER_00A]: Reactions happen outside of your turn.
+[game mechanics] [SPEAKER_00A]: Oh, okay.
+[game mechanics] [SPEAKER_06A]: So then I have no other... You have a bonus action?
+[game mechanics] [SPEAKER_06A]: I have no other deal to do with my bonus action other than... because those two guys in front of me are still there, right?
+[game mechanics] [SPEAKER_06A]: Three guys.
+[game mechanics] [SPEAKER_06A]: That one, that one, and then this guy, he disengaged, and then there's that one.
+[game mechanics] [SPEAKER_00A]: But you can use the bonus action right now to actually cast a Smite spell to use next round, if you want.
+[game mechanics] [SPEAKER_00A]: Or you can just save it.
+[game mechanics] [SPEAKER_06A]: Oh yeah, no, I will use my bonus action now to cast the Divine, let's see, which one is it?
+[game mechanics] [SPEAKER_00A]: Look at the spells on the next thing.
+[game mechanics] [SPEAKER_06A]: Wait, no.
+[game mechanics] [SPEAKER_06A]: Yeah, my spells are actually right here.
+[game mechanics] [SPEAKER_06A]: Yeah.
+[game mechanics] [SPEAKER_06A]: Is there Thunderous Smite?
+[game mechanics] [SPEAKER_06A]: Yeah, that's the one I wanted, Thunderous Smite.
+[game mechanics] [SPEAKER_06A]: I have Serious Smite and Thunderous Smite.
+[game mechanics] [SPEAKER_06A]: I wanted Thunderous Smite.
+[game mechanics] [SPEAKER_00A]: Okay, so you charge up Thunderous Smite with a bonus action.
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: You lose the spell slots.
+[game mechanics] [SPEAKER_00A]: I'll mark the spell slots.
+[game mechanics] [SPEAKER_06A]: Two slots.
+[game mechanics] [SPEAKER_06A]: I've lost two slots.
+[game mechanics] [SPEAKER_06A]: From first level.
+[game mechanics] [SPEAKER_06A]: Yep.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Out of my six.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: They go.
+[game mechanics] [SPEAKER_00A]: This guy attacks you?
+[game mechanics] [SPEAKER_05A]: Mm-hmm.
+[game mechanics] [SPEAKER_00A]: With a club?
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: 8 misses, this guy attacks you with a club.
+[game mechanics] [SPEAKER_00A]: 6 misses, this guy attacks you with a club.
+[game mechanics] [SPEAKER_00A]: 20 hits you in the head for 9, 10, 11 points of damage, smacking you across the head in a bad way.
+[game mechanics] [SPEAKER_00A]: This guy moves to 1, 2, 3 here and attacks Gouge.
+[game mechanics] [SPEAKER_00A]: Here it is.
+[game mechanics] [SPEAKER_00A]: Twenty.
+[game mechanics] [SPEAKER_04A]: Uncanny dad, uncanny die.
+[game mechanics] [SPEAKER_00A]: Seven, eight, nine points of damage.
+[game mechanics] [SPEAKER_00A]: You have a reaction.
+[game mechanics] [SPEAKER_00A]: Do you want to take half that?
+[game mechanics] [SPEAKER_00A]: Who hit me?
+[game mechanics] [SPEAKER_00A]: This guy.
+[game mechanics] [SPEAKER_00A]: No.
+[game mechanics] [SPEAKER_00A]: So that's nine?
+[game mechanics] [SPEAKER_00A]: That's nine points of damage.
+[game mechanics] [SPEAKER_00A]: This guy attacks you.
+[game mechanics] [SPEAKER_00A]: Eleven miss.
+[game mechanics] [SPEAKER_00A]: This guy attacks Merrick.
+[game mechanics] [SPEAKER_00A]: Eleven.
+[game mechanics] [SPEAKER_00A]: Miss.
+[game mechanics] [SPEAKER_00A]: This guy attacks you.
+[game mechanics] [SPEAKER_00A]: Oh, he's already attacked, actually.
+[game mechanics] [SPEAKER_00A]: This guy moves to here and attacks Merrick.
+[game mechanics] [SPEAKER_00A]: Seven.
+[game mechanics] [SPEAKER_00A]: Miss.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: How many hit points do you have off you?
+[game mechanics] [SPEAKER_06A]: Uh, twenty-two.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: How many hit points do you have off you?
+[game mechanics] [SPEAKER_00A]: Oh, how many have off?
+[game mechanics] [SPEAKER_00A]: No.
+[game mechanics] [SPEAKER_00A]: Does he have off?
+[game mechanics] [SPEAKER_00A]: Oh.
+[game mechanics] [SPEAKER_04A]: I've got 5, 10, 15, 20.
+[game mechanics] [SPEAKER_04A]: 20 of you, okay.
+[game mechanics] [SPEAKER_00A]: Have you been wounded yet?
+[game mechanics] [SPEAKER_00A]: Yes.
+[game mechanics] [SPEAKER_05A]: I'm over half down.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_05A]: An inch.
+[game mechanics] [SPEAKER_05A]: I didn't get to attack that round.
+[game mechanics] [SPEAKER_00A]: Oh wait, no you do.
+[game mechanics] [SPEAKER_00A]: You get to go.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: It's like, what?
+[game mechanics] [SPEAKER_00A]: No, you don't get it.
+[game mechanics] [SPEAKER_00A]: Okay, I'm swinging on.
+[game mechanics] [SPEAKER_00A]: Now, this guy has the hunter's mark on him.
+[game mechanics] [SPEAKER_05A]: Oh, okay.
+[game mechanics] [SPEAKER_04A]: Did that give me a bonus?
+[game mechanics] [SPEAKER_05A]: No.
+[game mechanics] [SPEAKER_05A]: Or just him?
+[game mechanics] [SPEAKER_05A]: Okay, bonus, I'm moving Hunter's Mark to Guy.
+[game mechanics] [SPEAKER_05A]: Okay, you use your bonus section to move your Hunter's Mark and then you attack.
+[game mechanics] [SPEAKER_05A]: Three.
+[game mechanics] [SPEAKER_05A]: Three plus... Was it the attack bonus?
+[game mechanics] [SPEAKER_05A]: Yeah.
+[game mechanics] [SPEAKER_05A]: Six.
+[game mechanics] [SPEAKER_00A]: Now I miss.
+[game mechanics] [SPEAKER_00A]: Initiative.
+[game mechanics] [SPEAKER_00A]: Do you want to use your reaction?
+[game mechanics] [SPEAKER_06A]: Yeah, because right now would be a good time to use it because I'm just going to start a new round.
+[game mechanics] [SPEAKER_06A]: Exactly.
+[game mechanics] [SPEAKER_00A]: So I'm going to use my reaction on that.
+[game mechanics] [SPEAKER_00A]: Okay, so you rolled a nine, roll one die four to see if that makes a difference.
+[game mechanics] [SPEAKER_06A]: Two.
+[game mechanics] [SPEAKER_06A]: Two.
+[game mechanics] [SPEAKER_06A]: No.
+[game mechanics] [SPEAKER_06A]: Missed.
+[game mechanics] [SPEAKER_06A]: But it was a trial.
+[game mechanics] [SPEAKER_06A]: Yeah, but that's the time to use it.
+[game mechanics] [SPEAKER_06A]: There's no other actions.
+[game mechanics] [SPEAKER_06A]: I get everything back again.
+[game mechanics] [SPEAKER_06A]: You get a... Emissioned?
+[game mechanics] [SPEAKER_06A]: Yep.
+[game mechanics] [SPEAKER_05A]: Fourteen.
+[game mechanics] [SPEAKER_05A]: Fourteen plus... Seventeen.
+[game mechanics] [SPEAKER_00A]: Seventeen.
+[game mechanics] [SPEAKER_05A]: I get a 14.
+[game mechanics] [SPEAKER_00A]: 14.
+[game mechanics] [SPEAKER_00A]: Gouge.
+[game mechanics] [SPEAKER_00A]: 24.
+[game mechanics] [SPEAKER_00A]: 24.
+[game mechanics] [SPEAKER_00A]: The men, they get 3.
+[game mechanics] [SPEAKER_00A]: And the big guy gets a 5.
+[game mechanics] [SPEAKER_00A]: 7.
+[game mechanics] [SPEAKER_00A]: It's not actually a big.
+[game mechanics] [SPEAKER_00A]: Gouge, you're first.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: I still got a guy in my way.
+[game mechanics] [SPEAKER_00A]: That guy is still grappled onto him, and he's still in your way.
+[game mechanics] [SPEAKER_00A]: So you can attack him.
+[game mechanics] [SPEAKER_04A]: Can I dagger him?
+[game mechanics] [SPEAKER_00A]: Do you want to take attack him?
+[game mechanics] [SPEAKER_04A]: Now if I dagger him and kill him, do I still have a sneak attack with my cutlass on the big guy or I'm too far or what?
+[game mechanics] [SPEAKER_00A]: If you move there, but remember you're using
+[game mechanics] [SPEAKER_00A]: On your offhand, you're a bonus action to use your dagger.
+[game mechanics] [SPEAKER_04A]: Yes.
+[game mechanics] [SPEAKER_00A]: And will you kill him is the question.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: Yeah, I'll sneak attack the guy on the ground.
+[game mechanics] [SPEAKER_00A]: The guy that's grappling Folsom?
+[game mechanics] [SPEAKER_00A]: Yes.
+[game mechanics] [SPEAKER_00A]: Okay, he's not on the ground, but go ahead and roll your attack.
+[game mechanics] [SPEAKER_00A]: 14 plus 9 is 23.
+[game mechanics] [SPEAKER_00A]: That hits.
+[game mechanics] [SPEAKER_00A]: And you want a sneak attack, so that's 4 die 6.
+[game mechanics] [SPEAKER_04A]: Plus six.
+[game mechanics] [SPEAKER_04A]: So that's eleven, sixteen, twenty-two.
+[game mechanics] [SPEAKER_04A]: He falls.
+[out-of-band] [SPEAKER_00]: Okay, I almost got the banjo part, Master.
+[game mechanics] [SPEAKER_00A]: Okay, now, if you want to move five feet to there, you can do that.
+[game mechanics] [SPEAKER_00A]: This guy will get a reaction unless you want to use your bonus action to disengage.
+[game mechanics] [SPEAKER_00A]: Will that take away my attack?
+[game mechanics] [SPEAKER_00A]: Nah, yeah, it will.
+[game mechanics] [SPEAKER_00A]: So if you want to just rush it, you can go and throw my dagger.
+[game mechanics] [SPEAKER_00A]: As a bonus action?
+[game mechanics] [SPEAKER_00A]: No, it has to be me on the attack.
+[game mechanics] [SPEAKER_04A]: I'll go straight into that guy.
+[game mechanics] [SPEAKER_04A]: I'll take the reaction.
+[game mechanics] [SPEAKER_04A]: Here's the attack.
+[game mechanics] [SPEAKER_00A]: Thirteen plus three is sixteen.
+[game mechanics] [SPEAKER_00A]: That's a hit.
+[game mechanics] [SPEAKER_00A]: He clubs you across the back for three points of damage.
+[game mechanics] [SPEAKER_00A]: And then you want to attack that guy, right?
+[game mechanics] [SPEAKER_00A]: Yes.
+[game mechanics] [SPEAKER_00A]: With your dagger.
+[game mechanics] [SPEAKER_00A]: That's with my dagger.
+[game mechanics] [SPEAKER_00A]: Two.
+[game mechanics] [SPEAKER_00A]: Eleven.
+[game mechanics] [SPEAKER_06A]: Eleven.
+[game mechanics] [SPEAKER_00A]: Miss.
+[game mechanics] [SPEAKER_00A]: Do you want to use your reaction?
+[game mechanics] [SPEAKER_00A]: I'll use my reaction this time to give him a one to four.
+[game mechanics] [SPEAKER_00A]: Do you want to add one die four to your attack?
+[game mechanics] [SPEAKER_00A]: You got eleven.
+[game mechanics] [SPEAKER_00A]: He's giving you your reaction.
+[game mechanics] [SPEAKER_00A]: Should that be 15?
+[game mechanics] [SPEAKER_00A]: It could be up to 15.
+[game mechanics] [SPEAKER_00A]: Up to 15?
+[game mechanics] [SPEAKER_04A]: Shit, I don't know what the hit is, so let's try it.
+[game mechanics] [SPEAKER_04A]: You rolled an 11?
+[game mechanics] [SPEAKER_04A]: Yeah.
+[game mechanics] [SPEAKER_04A]: Roll a four-sided?
+[game mechanics] [SPEAKER_04A]: Four-sided, yeah.
+[out-of-band] [SPEAKER_00]: Names are hard to pick up.
+[game mechanics] [SPEAKER_00A]: Two, 13.
+[game mechanics] [SPEAKER_00A]: That's a miss.
+[game mechanics] [SPEAKER_05A]: Merrick.
+[game mechanics] [SPEAKER_05A]: Yep.
+[game mechanics] [SPEAKER_05A]: Still, I'm going to swing on that dude on the main guy.
+[game mechanics] [SPEAKER_05A]: Okay, roll it.
+[game mechanics] [SPEAKER_05A]: Nine plus three, or nine plus six.
+[game mechanics] [SPEAKER_00A]: That's a 15?
+[game mechanics] [SPEAKER_00A]: That is a hit.
+[game mechanics] [SPEAKER_00A]: Ooh, then one die eight.
+[game mechanics] [SPEAKER_00A]: Plus one die six?
+[game mechanics] [SPEAKER_05A]: Yes, one die six.
+[game mechanics] [SPEAKER_05A]: One, two, three.
+[game mechanics] [SPEAKER_05A]: Three plus, where were you?
+[game mechanics] [SPEAKER_05A]: Plus four, so seven.
+[game mechanics] [SPEAKER_00A]: Two points of damage.
+[game mechanics] [SPEAKER_04A]: Okay, so the guy grappling you falls off you as Gouge kills him.
+[game mechanics] [SPEAKER_00A]: And then you stab this guy with your rapier.
+[game mechanics] [SPEAKER_00A]: Tyrus, your turn.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: What should you do?
+[game mechanics] [SPEAKER_06A]: Stab the dude.
+[game mechanics] [SPEAKER_05A]: You hit him?
+[game mechanics] [SPEAKER_05A]: Yep.
+[game mechanics] [SPEAKER_06A]: All right, so I'm going to go for that dude, this one here.
+[game mechanics] [SPEAKER_00A]: And you want to use your thunderous smite?
+[game mechanics] [SPEAKER_00A]: Thunderous smite.
+[game mechanics] [SPEAKER_00A]: Okay, so you attack him?
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_06A]: 6 plus 5?
+[game mechanics] [SPEAKER_06A]: 11.
+[game mechanics] [SPEAKER_06A]: That is a miss.
+[game mechanics] [SPEAKER_06A]: Damn it.
+[game mechanics] [SPEAKER_00A]: You have a bonus action.
+[game mechanics] [SPEAKER_00A]: You don't lose your spell.
+[game mechanics] [SPEAKER_00A]: Right.
+[game mechanics] [SPEAKER_06A]: Oh, so do I get my spell slot back?
+[game mechanics] [SPEAKER_00A]: No, it's still charged.
+[game mechanics] [SPEAKER_00A]: It's there until you hit somebody for the last 10 rounds.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_06A]: Okay, yeah.
+[game mechanics] [SPEAKER_06A]: So now I have a bonus action then.
+[game mechanics] [SPEAKER_06A]: As a bonus action, I can realize this is...
+[out-of-band] [SPEAKER_00]: It's all happening and we're not even two minutes into what's going on.
+[out-of-band] [SPEAKER_00]: Yeah.
+[out-of-band] [SPEAKER_00]: So you're probably not even aware you need to be to talk to somebody.
+[out-of-band] [SPEAKER_00]: Yeah, no.
+[game mechanics] [SPEAKER_06A]: As a bonus action I can lay on hands, right?
+[game mechanics] [SPEAKER_00A]: No, only an action.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_06A]: Then I don't have any other bonus actions I can do then.
+[game mechanics] [SPEAKER_06A]: It's all these spells that I have memorized I need an action for.
+[game mechanics] [SPEAKER_04A]: Separately, my assassinate skill, is that only on something planned?
+[game mechanics] [SPEAKER_04A]: It's not during the combat, I would assume.
+[game mechanics] [SPEAKER_04A]: You can't...
+[game mechanics] [SPEAKER_00A]: The assassinate works this way.
+[game mechanics] [SPEAKER_00A]: You get advantage on anyone that has not taken the first round of combat.
+[game mechanics] [SPEAKER_00A]: So, in other words, if you're on initiative and there are people... On the first round of combat, when combat starts, if you win initiative, you can get advantage on the first attack you manage.
+[game mechanics] [SPEAKER_00A]: Also,
+[game mechanics] [SPEAKER_00A]: If you hit somebody with surprise, automatic critical.
+[game mechanics] [SPEAKER_00A]: What's a crit?
+[game mechanics] [SPEAKER_00A]: A crit is double the dice damage.
+[game mechanics] [SPEAKER_00A]: Attacks.
+[game mechanics] [SPEAKER_00A]: Tyrus on you, this guy attacks.
+[game mechanics] [SPEAKER_00A]: Two miss, this guy attacks you.
+[game mechanics] [SPEAKER_00A]: Five miss, this guy attacks you.
+[game mechanics] [SPEAKER_00A]: 14, 15, 16, 17.
+[game mechanics] [SPEAKER_00A]: What's your AC?
+[game mechanics] [SPEAKER_00A]: 18.
+[game mechanics] [SPEAKER_00A]: You're not taken down.
+[game mechanics] [SPEAKER_00A]: This guy attacks Merrick.
+[game mechanics] [SPEAKER_00A]: 5 miss.
+[game mechanics] [SPEAKER_00A]: This guy attacks U-Gouge with his rapier.
+[game mechanics] [SPEAKER_00A]: 11 plus 5 is 16.
+[game mechanics] [SPEAKER_00A]: That's 16.
+[game mechanics] [SPEAKER_00A]: That is a hit.
+[game mechanics] [SPEAKER_00A]: You take one, two, three points of damage.
+[game mechanics] [SPEAKER_00A]: Do you want to do uncandidate damage and take only one?
+[game mechanics] [SPEAKER_04A]: Not yet.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: So three?
+[game mechanics] [SPEAKER_04A]: Yeah.
+[game mechanics] [SPEAKER_04A]: Three points of damage.
+[game mechanics] [SPEAKER_04A]: This guy attacks you.
+[game mechanics] [SPEAKER_04A]: Twenty.
+[game mechanics] [SPEAKER_00A]: That's me.
+[game mechanics] [SPEAKER_04A]: Yep.
+[game mechanics] [SPEAKER_04A]: He does.
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_04A]: I'm gonna use mine.
+[game mechanics] [SPEAKER_00A]: Thirteen to fourteen points of damage.
+[game mechanics] [SPEAKER_00A]: I'm gonna take seven.
+[out-of-band] [SPEAKER_03]: Good thing you saved him.
+[game mechanics] [SPEAKER_00A]: One, two, three, four.
+[game mechanics] [SPEAKER_00A]: This guy attacks Merrick.
+[game mechanics] [SPEAKER_00A]: Twelve.
+[game mechanics] [SPEAKER_00A]: Seven.
+[game mechanics] [SPEAKER_00A]: I think his AC is fifteen, right?
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: He's not hit.
+[game mechanics] [SPEAKER_00A]: Bada bing.
+[game mechanics] [SPEAKER_06A]: Initiatives?
+[game mechanics] [SPEAKER_06A]: Yep.
+[out-of-band] [SPEAKER_03]: Don't play as Merrick.
+[out-of-band] [SPEAKER_01]: You gonna roll for him?
+[out-of-band] [SPEAKER_01]: Yeah.
+[out-of-band] [SPEAKER_01]: He's shitting.
+[game mechanics] [SPEAKER_00A]: Twenty-two.
+[game mechanics] [SPEAKER_00A]: Fourteen.
+[game mechanics] [SPEAKER_00A]: Twenty-two?
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: Eighteen.
+[game mechanics] [SPEAKER_00A]: Eighteen plus three?
+[game mechanics] [SPEAKER_04A]: Plus the initiative.
+[game mechanics] [SPEAKER_04A]: It was eighteen.
+[game mechanics] [SPEAKER_00A]: Oh, it was eighteen altogether?
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Men.
+[game mechanics] [SPEAKER_00A]: Fuck you guys!
+[game mechanics] [SPEAKER_00A]: Eight.
+[game mechanics] [SPEAKER_00A]: This guy.
+[game mechanics] [SPEAKER_00A]: Big guy.
+[game mechanics] [SPEAKER_00A]: Low!
+[game mechanics] [SPEAKER_00A]: Low!
+[game mechanics] [SPEAKER_06A]: Low!
+[game mechanics] [SPEAKER_06A]: Two.
+[game mechanics] [SPEAKER_06A]: Low.
+[game mechanics] [SPEAKER_06A]: Four.
+[game mechanics] [SPEAKER_06A]: Okay, Tyrus, you're first.
+[game mechanics] [SPEAKER_06A]: I'm swinging on that same dude that's right there again.
+[game mechanics] [SPEAKER_06A]: That guy?
+[game mechanics] [SPEAKER_06A]: I got my thunder smite already charged.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_06A]: Five, ten.
+[game mechanics] [SPEAKER_06A]: Ten total?
+[game mechanics] [SPEAKER_06A]: Yep.
+[game mechanics] [SPEAKER_06A]: Miss.
+[out-of-band] [SPEAKER_03]: Can you give me that juice?
+[out-of-band] [SPEAKER_03]: I think I need that juice.
+[out-of-band] [SPEAKER_00]: You can't do it yourself, can you?
+[out-of-band] [SPEAKER_00]: Are your stones up?
+[out-of-band] [SPEAKER_00]: Yeah.
+[game mechanics] [SPEAKER_04A]: It is now you, Merrick.
+[game mechanics] [SPEAKER_04A]: He's deadlocked on the big guy.
+[game mechanics] [SPEAKER_04A]: He's deadlocked on the big guy.
+[game mechanics] [SPEAKER_04A]: Did he cast Hunter's Mark?
+[game mechanics] [SPEAKER_04A]: Yes.
+[game mechanics] [SPEAKER_04A]: On him.
+[game mechanics] [SPEAKER_00A]: He moved it for the big guy?
+[game mechanics] [SPEAKER_00A]: Yeah, he did.
+[game mechanics] [SPEAKER_00A]: Extra one die six of damage if you hit the guy.
+[game mechanics] [SPEAKER_04A]: If I hit him, okay.
+[game mechanics] [SPEAKER_00A]: And you get bonus on tracking people.
+[game mechanics] [SPEAKER_04A]: Okay, cool.
+[game mechanics] [SPEAKER_04A]: And I have my dagger out?
+[game mechanics] [SPEAKER_04A]: You have your reappear out.
+[game mechanics] [SPEAKER_04A]: I aim to hit for his leg, if I can.
+[game mechanics] [SPEAKER_04A]: Sure.
+[game mechanics] [SPEAKER_04A]: Eight plus six, so fourteen.
+[game mechanics] [SPEAKER_00A]: Fourteen?
+[game mechanics] [SPEAKER_04A]: That's a mess.
+[game mechanics] [SPEAKER_00A]: Do you want to do a reaction?
+[game mechanics] [SPEAKER_00A]: I will do my deal to give him a one to four.
+[game mechanics] [SPEAKER_00A]: One die four, roll that and add it to your attack bonus.
+[game mechanics] [SPEAKER_00A]: I want to give a four.
+[game mechanics] [SPEAKER_00A]: Let's go this one.
+[game mechanics] [SPEAKER_00A]: One!
+[game mechanics] [SPEAKER_00A]: That hits.
+[game mechanics] [SPEAKER_00A]: Hey!
+[game mechanics] [SPEAKER_00A]: All right.
+[game mechanics] [SPEAKER_00A]: And it's one die eight and one die six damage.
+[game mechanics] [SPEAKER_05A]: One die eight and one die six.
+[game mechanics] [SPEAKER_00A]: The rip here is one die eight.
+[game mechanics] [SPEAKER_00A]: Hunter's Mark adds a die six.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_00A]: Plus, I think, four.
+[game mechanics] [SPEAKER_00A]: I'm going to go for my dies here.
+[out-of-band] [SPEAKER_01]: Are you cross-charactering dies?
+[out-of-band] [SPEAKER_00]: Yep, I am.
+[out-of-band] [SPEAKER_00]: One die six and one die eight.
+[game mechanics] [SPEAKER_00A]: Four and two, so six.
+[game mechanics] [SPEAKER_00A]: Six plus four is ten.
+[game mechanics] [SPEAKER_00A]: Put him in the shoulder.
+[game mechanics] [SPEAKER_04A]: I'm still taking more than that.
+[game mechanics] [SPEAKER_00A]: First leg hit his shoulder.
+[game mechanics] [SPEAKER_00A]: Okay, and then Tyrus and Gouge is next.
+[game mechanics] [SPEAKER_04A]: Okay, I'm at the big guy, right?
+[game mechanics] [SPEAKER_04A]: Yeah.
+[game mechanics] [SPEAKER_04A]: The guy's on me.
+[game mechanics] [SPEAKER_04A]: Okay, I'm going to try to do the two-handed and sneak attack.
+[game mechanics] [SPEAKER_00A]: Okay, so Cutlass attack, right?
+[game mechanics] [SPEAKER_04A]: Cutlass attack with the sneak attack first.
+[game mechanics] [SPEAKER_04A]: Oh, yeah, yeah, yeah.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: Oh, I thought you used a spell.
+[game mechanics] [SPEAKER_04A]: Come on.
+[game mechanics] [SPEAKER_04A]: 20!
+[game mechanics] [SPEAKER_00A]: Whoa, it's crazy.
+[game mechanics] [SPEAKER_00A]: So that is... 29.
+[game mechanics] [SPEAKER_00A]: What's the sneak attack?
+[game mechanics] [SPEAKER_00A]: 8.6.
+[game mechanics] [SPEAKER_00A]: Plus six.
+[game mechanics] [SPEAKER_00A]: Eight die six.
+[game mechanics] [SPEAKER_00A]: Plus six.
+[game mechanics] [SPEAKER_05A]: You took no damage.
+[game mechanics] [SPEAKER_05A]: I rolled initiative.
+[game mechanics] [SPEAKER_05A]: And I hit the guy for ten.
+[game mechanics] [SPEAKER_04A]: Ten.
+[game mechanics] [SPEAKER_04A]: I did one.
+[game mechanics] [SPEAKER_04A]: Yeah, Merrick did.
+[game mechanics] [SPEAKER_04A]: Twenty.
+[game mechanics] [SPEAKER_04A]: Twenty.
+[game mechanics] [SPEAKER_04A]: Six plus six.
+[game mechanics] [SPEAKER_04A]: Thirty-two.
+[SPEAKER_00A]: Your Cutlass goes across his throat, opening it up, and
+[SPEAKER_00A]: A crimson wave goes all over Merrick.
+[out-of-band] [SPEAKER_00]: Just like my girlfriend.
+[SPEAKER_00A]: That guy falls.
+[game mechanics] [SPEAKER_00A]: What now?
+[game mechanics] [SPEAKER_00A]: You've got Dagger, the guy that fuckin' want me.
+[game mechanics] [SPEAKER_00A]: Okay, so turn with your bonus action and stab on that guy.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: 17, 26.
+[game mechanics] [SPEAKER_00A]: 26, that's a hit.
+[game mechanics] [SPEAKER_00A]: One die four plus six.
+[game mechanics] [SPEAKER_00A]: Ten.
+[game mechanics] [SPEAKER_00A]: Ten points of damage on that guy.
+[game mechanics] [SPEAKER_00A]: Stab that guy.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: This guy falls.
+[game mechanics] [SPEAKER_00A]: That guy gets stabbed.
+[game mechanics] [SPEAKER_00A]: It's the men's turn.
+[game mechanics] [SPEAKER_00A]: This guy disengages from you 1, 2, 3, 4, 5, 6 to there.
+[game mechanics] [SPEAKER_00A]: Morale check.
+[game mechanics] [SPEAKER_00A]: 1, 2, 3, 4, 5, 6 there.
+[game mechanics] [SPEAKER_00A]: 1, 2, 3, 4, 5, 6 there.
+[game mechanics] [SPEAKER_06A]: Now is there a reaction that they're disengaging?
+[game mechanics] [SPEAKER_06A]: Do I get a reaction on any one of those?
+[game mechanics] [SPEAKER_06A]: No, because they are all using their actions.
+[game mechanics] [SPEAKER_06A]: 1, 2, 3, 4, 5, 6.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five, six.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five, six.
+[SPEAKER_00A]: Yeah, so these guys see their guy just gush and they scatter.
+[SPEAKER_00A]: Three of you are standing here in the middle of this bar.
+[SPEAKER_00A]: Other patrons are just sitting there with
+[game mechanics] [SPEAKER_05A]: They're all good.
+[game mechanics] [SPEAKER_04A]: Two gold on him.
+[game mechanics] [SPEAKER_04A]: I'll take that, I'll take that.
+[game mechanics] [SPEAKER_00A]: Anish, yes.
+[game mechanics] [SPEAKER_00A]: Twenty-one.
+[game mechanics] [SPEAKER_00A]: Nine.
+[game mechanics] [SPEAKER_00A]: Nine.
+[game mechanics] [SPEAKER_00A]: Six.
+[game mechanics] [SPEAKER_00A]: The men get...
+[game mechanics] [SPEAKER_00A]: Two.
+[game mechanics] [SPEAKER_00A]: So.
+[game mechanics] [SPEAKER_00A]: And he's gone.
+[game mechanics] [SPEAKER_00A]: He's dead.
+[game mechanics] [SPEAKER_00A]: So what do you guys want to do?
+[game mechanics] [SPEAKER_00A]: Oh.
+[game mechanics] [SPEAKER_04A]: Gouge, Merrick.
+[game mechanics] [SPEAKER_04A]: Can I catch the guy with a dash and fucking scimitar him?
+[game mechanics] [SPEAKER_04A]: The guy that hit me?
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five, six.
+[game mechanics] [SPEAKER_00A]: Right to there.
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_04A]: Gouge, Jesus.
+[game mechanics] [SPEAKER_04A]: The guy with a scimitar.
+[game mechanics] [SPEAKER_05A]: Jumping on his neck.
+[game mechanics] [SPEAKER_00A]: Nine plus nine is a hit.
+[game mechanics] [SPEAKER_00A]: Nine.
+[game mechanics] [SPEAKER_00A]: Nine points of damage.
+[game mechanics] [SPEAKER_00A]: So he has 19 off him.
+[game mechanics] [SPEAKER_00A]: You want to attack him with the dagger?
+[game mechanics] [SPEAKER_04A]: Mm-hmm.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_00A]: Come on, fucker.
+[game mechanics] [SPEAKER_00A]: Seventeen.
+[game mechanics] [SPEAKER_00A]: That's a hit.
+[game mechanics] [SPEAKER_00A]: One die four.
+[game mechanics] [SPEAKER_00A]: One plus six, seven more.
+[SPEAKER_00A]: Okay, he falls.
+[SPEAKER_00A]: You basically go on his back and hit him in the leg and then stab him in the shoulder with the knife.
+[SPEAKER_04A]: I'll go down with him.
+[SPEAKER_04A]: I'll fucking go right down with him.
+[SPEAKER_00A]: Moving your knife into it.
+[game mechanics] [SPEAKER_04A]: Okay, Merrick?
+[game mechanics] [SPEAKER_00A]: Can I... You can bonus action, move the hunter's mark to another character.
+[game mechanics] [SPEAKER_00A]: I want to try to stop all of that.
+[game mechanics] [SPEAKER_00A]: Start to drop.
+[game mechanics] [SPEAKER_00A]: You can grapple one.
+[game mechanics] [SPEAKER_00A]: You can jump, you can run to one and grapple one.
+[game mechanics] [SPEAKER_00A]: Where am I?
+[game mechanics] [SPEAKER_00A]: Right here?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_05A]: Where's this guy still alive?
+[game mechanics] [SPEAKER_05A]: Yeah, I know.
+[game mechanics] [SPEAKER_05A]: One, two, three, four, five, six.
+[game mechanics] [SPEAKER_05A]: I can get there and then I can grapple him?
+[game mechanics] [SPEAKER_05A]: Yeah.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_05A]: I'm running there.
+[game mechanics] [SPEAKER_05A]: And you grab him?
+[game mechanics] [SPEAKER_05A]: Grab him.
+[game mechanics] [SPEAKER_05A]: Like, try to get him to the ground.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_05A]: Roll your attack.
+[game mechanics] [SPEAKER_05A]: Five plus...
+[game mechanics] [SPEAKER_05A]: Attack bonus, because it's just me?
+[game mechanics] [SPEAKER_05A]: It's five plus your strength.
+[game mechanics] [SPEAKER_00A]: Give your juju!
+[game mechanics] [SPEAKER_00A]: Throw your juju!
+[game mechanics] [SPEAKER_00A]: Plus two.
+[game mechanics] [SPEAKER_00A]: Seven.
+[game mechanics] [SPEAKER_00A]: You do not hit.
+[game mechanics] [SPEAKER_00A]: You.
+[game mechanics] [SPEAKER_06A]: Alright.
+[SPEAKER_06A]: I use command.
+[SPEAKER_06A]: Okay.
+[SPEAKER_06A]: I use command on this guy right here.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Do you want to walk forward?
+[SPEAKER_00A]: Yeah, I'm going to run to there.
+[SPEAKER_00A]: One, two, three, four, five, six.
+[SPEAKER_06A]: Command.
+[game mechanics] [SPEAKER_06A]: It's a wisdom check.
+[SPEAKER_06A]: And I'm going to tell him to drop.
+[SPEAKER_06A]: To the ground.
+[SPEAKER_06A]: Stop.
+[SPEAKER_00A]: Stop!
+[SPEAKER_00A]: Hold!
+[SPEAKER_00A]: Yeah, yeah.
+[SPEAKER_00A]: Okay, here's his... To the ground, bitch!
+[SPEAKER_00A]: He does not make it.
+[SPEAKER_00A]: He just, he stops.
+[SPEAKER_00A]: It's weapon and allot.
+[SPEAKER_00A]: We'll sit you in surprise.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Do you want to put your sword to his neck?
+[SPEAKER_00A]: Yeah, yeah, yeah.
+[SPEAKER_00A]: I'm like, I'm holding his ass in place.
+[SPEAKER_00A]: Okay.
+[SPEAKER_04A]: I'm on the ground watching.
+[SPEAKER_04A]: Alright.
+[SPEAKER_04A]: This bite may look like, fuckin' do it.
+[SPEAKER_06A]: Fuckin' do it.
+[SPEAKER_04A]: Fuckin' do it.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Next round, Roland Esch.
+[game mechanics] [SPEAKER_04A]: How many, where are the guys?
+[game mechanics] [SPEAKER_04A]: These guys run this way.
+[game mechanics] [SPEAKER_04A]: I'm shopping.
+[game mechanics] [SPEAKER_04A]: Twenty-four!
+[out-of-band] [SPEAKER_00]: That's the Colt Terrier.
+[game mechanics] [SPEAKER_04A]: Eight.
+[game mechanics] [SPEAKER_04A]: Eleven.
+[game mechanics] [SPEAKER_04A]: Eleven?
+[out-of-band] [SPEAKER_00]: That's out of my kit I got.
+[out-of-band] [SPEAKER_00]: Yeah, Colt picked up.
+[game mechanics] [SPEAKER_00A]: Ten.
+[game mechanics] [SPEAKER_00A]: That's right.
+[game mechanics] [SPEAKER_00A]: Ten?
+[game mechanics] [SPEAKER_00A]: The guys.
+[game mechanics] [SPEAKER_00A]: Four.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: These guys bold.
+[SPEAKER_00A]: This guy stays where he is, and you have your sword at him, charged with a thunderous might.
+[SPEAKER_00A]: He struts to his knees.
+[SPEAKER_05A]: Quit making kissy faces.
+[SPEAKER_05A]: Try to grapple it again.
+[SPEAKER_05A]: Okay, grapple him.
+[game mechanics] [SPEAKER_05A]: Thirteen plus fifteen.
+[SPEAKER_05A]: You grab it.
+[SPEAKER_05A]: Okay, do you want to say anything to him?
+[SPEAKER_05A]: If you want to live, surrender right now.
+[SPEAKER_05A]: Stop.
+[SPEAKER_05A]: Yeah.
+[SPEAKER_01B]: He goes, Yes sir.
+[SPEAKER_01B]: I was only paid for this.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: All right.
+[SPEAKER_00A]: These guys run away.
+[SPEAKER_00A]: You guys are left in this crowded bar with
+[SPEAKER_00A]: I would say about eight dead bodies on the floor, lying on the floor, bleeding out, and the three of you standing there.
+[SPEAKER_04A]: I'm gonna go check the Crimson Tide.
+[SPEAKER_00A]: So you come over and walk over there and grab that hand.
+[SPEAKER_04A]: What are you gonna do with your dudes?
+[SPEAKER_06A]: I'm gonna say, get up and walk to the bar.
+[SPEAKER_06A]: Walk in and back towards Gouge.
+[SPEAKER_00A]: Over to there?
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: Okay, he turns and follows you back over to here.
+[SPEAKER_00A]: I bring my guys.
+[SPEAKER_00A]: And you bring your guy over to there.
+[SPEAKER_00A]: Okay, so the three of you basically coalesce in the middle of Gouge.

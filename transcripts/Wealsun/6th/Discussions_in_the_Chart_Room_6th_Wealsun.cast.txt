@@ -1,0 +1,6 @@
+# Cast for Discussions_in_the_Chart_Room_6th_Wealsun
+# Expected voices: 4
+DM
+Gouge
+Merrick
+Tyrus

@@ -1,0 +1,5 @@
+# Cast for Council_w_Jeon_Jamis_2nd_Wealsun
+# Expected voices: 3
+DM
+Paul
+Jude

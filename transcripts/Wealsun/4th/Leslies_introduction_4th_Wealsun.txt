@@ -1,0 +1,121 @@
+[SPEAKER_00A]: Okay, so you're in a readying mage named Wes.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: You are somebody that has lived in the Sea Principality.
+[SPEAKER_00A]: And you are from the city of Monmurg.
+[SPEAKER_00A]: You're very smart.
+[SPEAKER_00A]: And you've studied in the libraries here quite a bit, okay?
+[SPEAKER_00A]: You're not a noble, but you are from a family that's fairly wealthy, merchants.
+[SPEAKER_00A]: However, you never wanted to go into that side of the business.
+[SPEAKER_00A]: You've always been a sage.
+[SPEAKER_00A]: You have kind of exhausted the libraries that you have access to.
+[SPEAKER_00A]: But you knew of one man in the foreign district of Monmurg who is an exceptional alchemist.
+[SPEAKER_00A]: And he's the one, your mentor, that has taught you how to be a mage.
+[SPEAKER_00A]: He recognized your ability and your interest in magic.
+[SPEAKER_00A]: And even though most Sewell
+[SPEAKER_00A]: Will not take on Iridian apprentices.
+[SPEAKER_00A]: This guy was not biased in any way.
+[SPEAKER_00A]: He's very old.
+[SPEAKER_00A]: He is Seul.
+[SPEAKER_00A]: He's a transmuter.
+[SPEAKER_00A]: Transmuters are a little different than other mages because they are more open to teaching their knowledge to other people.
+[SPEAKER_00A]: So over the last couple of years you've worked with him as his lab assistant and he's given you lots of knowledge.
+[SPEAKER_00A]: He's taught you how to cast spells, given you your spell book, basically made you the wizard you are today, okay?
+[SPEAKER_00A]: His name is Albashon.
+[SPEAKER_00A]: And he has a workshop in the foreign district of Monmurg, which is a great grand city.
+[SPEAKER_00A]: The foreign district is kind of a slum.
+[SPEAKER_00A]: That's where all the foreigners have to stay.
+[SPEAKER_00A]: They can go to the merchant district and sell their wares, but when they're in town they have to stay in the foreign district.
+[SPEAKER_00A]: Kind of like a pawn shop.
+[SPEAKER_00A]: Well, this is kind of where the thieves hang out because they like to take advantage of foreigners.
+[SPEAKER_00A]: So the foreign district is kind of like, it's not a Wild West.
+[SPEAKER_00A]: There are guards that come through, but it's not nearly as secure as the Royal District or the Harbor District or the Scholars District, which you have had access to.
+[SPEAKER_00A]: It's a little bit more
+[SPEAKER_00A]: Crazy.
+[SPEAKER_00A]: Just a little bit more wild.
+[SPEAKER_00A]: It's like the bad part of town is the way you think of it, right?
+[SPEAKER_00A]: And there are parts of the foreign district that are really bad.
+[SPEAKER_00A]: Parts of town.
+[SPEAKER_00A]: Now, his workshop is not a bad part of the foreign district.
+[SPEAKER_00A]: In fact, it's fairly close to the royal district and the scholars district.
+[SPEAKER_00A]: But it's still in the foreign district, so it can be dangerous and you never go out at night.
+[out-of-band] [SPEAKER_02]: Are they still doing exceptionally good?
+[out-of-band] [SPEAKER_02]: Who?
+[out-of-band] [SPEAKER_02]: The place.
+[out-of-band] [SPEAKER_02]: The business?
+[out-of-band] [SPEAKER_02]: Yeah, the business.
+[out-of-band] [SPEAKER_01]: The Alchemist's business?
+[SPEAKER_00A]: He has people that come and talk to him all the time.
+[SPEAKER_00A]: And in fact, when he does, usually you go into the back because you don't want people
+[SPEAKER_00A]: To know you're there.
+[SPEAKER_00A]: I mean, he'll get you to do tasks and stuff like that, but generally when people show up, you make yourself scarce, okay?
+[SPEAKER_00A]: During the day, he will have you go and fetch stuff from the marketplace, reagents, chemicals, stuff like that.
+[SPEAKER_00A]: He lives in Monmurg basically because the grand market, he has access to
+[SPEAKER_00A]: Huge amounts of resources that he uses in his experiments.
+[SPEAKER_00A]: And he has basically used you to help him do his experiments.
+[SPEAKER_00A]: And you've learned quite a bit over the last few years regarding what he does.
+[SPEAKER_00A]: He is an alchemist.
+[SPEAKER_00A]: He makes potions.
+[SPEAKER_00A]: He works on chemicals.
+[SPEAKER_00A]: He reads this tome called the Magnum Opus, which is a
+[SPEAKER_00A]: A scientific book written by a very powerful transmuter a thousand years ago, this guy named Ujor Udias, that teaches you how to distill chemicals and do stuff like that, right?
+[SPEAKER_00A]: You have not read it yourself, it's in ancient Seul, but he's been teaching you how to read ancient Seul, something that most Iridians don't ever get to learn.
+[SPEAKER_00A]: Ancient Seul is the language of magic.
+[SPEAKER_00A]: And the original Seul Empire was the first human empire that developed magic and used it.
+[SPEAKER_00A]: Very few iridians in the world have ever gotten to be powerful wizards.
+[SPEAKER_00A]: Most of them are Seul.
+[SPEAKER_00A]: In the ancient histories of the past, however, there have been some flannish wizards that were very powerful.
+[SPEAKER_00A]: In fact, it was rumored that Vangna himself was a powerful wizard.
+[SPEAKER_00A]: He decided to become a necromancer as his school of magic.
+[SPEAKER_00A]: However, he was a wizard, someone that used learning and knowledge instead of sorcerers' abilities to do things through their charisma and will of power.
+[SPEAKER_00A]: Right.
+[SPEAKER_00A]: Now, as an Iridian, you feel yourself very lucky to be able to have found a mentor that would be willing to teach you.
+[SPEAKER_00A]: Your mentor is Sewell.
+[SPEAKER_00A]: He has access to all of that knowledge.
+[out-of-band] [SPEAKER_02]: Okay.
+[SPEAKER_00A]: And he is consulted a lot by sages from around the world.
+[SPEAKER_00A]: It seems that a lot of people know that he is very knowledgeable and powerful, particularly when it comes to alchemy.
+[SPEAKER_00A]: And you have seen many people come through his door during these times.
+[SPEAKER_00A]: And like I said, normally when this happens, you make yourself scarce.
+[SPEAKER_00A]: Do you have any questions?
+[out-of-band] [SPEAKER_02]: No, not really.
+[out-of-band] [SPEAKER_02]: One question though actually is, when you keep saying Seoul, is that his name or his race?
+[SPEAKER_00A]: Albinath is his name.
+[SPEAKER_00A]: Sewell is his race.
+[SPEAKER_00A]: And let me tell you a little bit about Sewell.
+[SPEAKER_00A]: What's the difference between Sewell and Arrhenius?
+[SPEAKER_00A]: Sewell are usually fair.
+[SPEAKER_00A]: They have white skin, very white skin.
+[SPEAKER_00A]: They have usually red or blonde hair.
+[SPEAKER_00A]: That's the color of their hair.
+[SPEAKER_00A]: Sometimes they have black hair, but usually that's because they're mixed race.
+[SPEAKER_00A]: They are very fine-featured, thin, and tall, primarily.
+[SPEAKER_00A]: Not many of them are
+[SPEAKER_00A]: They're bulky, but they're not weak either.
+[SPEAKER_00A]: In fact, they tend towards being of normal build.
+[SPEAKER_00A]: Even though there can be large Sewell as well, just like any other races, most of them tend to be more refined and delicate, dexterous and so on.
+[SPEAKER_00A]: But I think the thing that really kind of
+[SPEAKER_00A]: What separates them is their fair skin, their white hair, some of them have white hair, their red hair, blue eyes, even though some of them have green, some of them have brown, but blue seems to be predominant among them.
+[SPEAKER_00A]: Aridians are kind of like us.
+[SPEAKER_00A]: Think of them as Germanic.
+[SPEAKER_00A]: They tend to be bigger, burlier than Sualar.
+[SPEAKER_00A]: Their backgrounds are martial.
+[SPEAKER_00A]: In other words, there are more warriors among them than there are wizards.
+[SPEAKER_00A]: They don't really have any sorcerers.
+[SPEAKER_00A]: There are some spellcasters, wizards, however they come about.
+[SPEAKER_00A]: Aradians usually do not like magic casters.
+[SPEAKER_00A]: Especially not in Keoland or
+[SPEAKER_00A]: In the countries to the east.
+[SPEAKER_00A]: However, Monmurg and the Sea Principalities is different.
+[SPEAKER_00A]: They have a more open view of things.
+[SPEAKER_00A]: There are five princes in the Sea Principalities, and one of those princes is a prince from Seul descent.
+[SPEAKER_00A]: The other ones are Iridians.
+[SPEAKER_00A]: The Sewell, the Toli is what they are called, are known to be very good magic users.
+[SPEAKER_00A]: And because Monmurg is such a cosmopolitan place, magic is abounding here.
+[SPEAKER_00A]: Right?
+[SPEAKER_00A]: Anyway, so that's your background.
+[SPEAKER_00A]: Okay.
+[out-of-band] [SPEAKER_00]: Any questions?
+[out-of-band] [SPEAKER_00]: Nope.
+[out-of-band] [SPEAKER_00]: Okay, Leslie.
+[out-of-band] [SPEAKER_00]: Are you ready to start?
+[out-of-band] [SPEAKER_00]: Yes.

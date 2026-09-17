@@ -1,0 +1,8 @@
+# Cast for Gouge_etal_reach_Barracks_meet_Paul_2nd_Wealsun
+# Expected voices: 6
+DM
+Paul
+Merrick
+Gouge
+Tyrus
+Folsom

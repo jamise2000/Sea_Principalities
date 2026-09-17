@@ -1,4 +1,0 @@
-# Cast for Paul_mothers_death_prolog
-# Expected voices: 2
-DM
-Paul

@@ -1,0 +1,6 @@
+# Cast for Owen_shows_his_face_6th_Wealsun
+# Expected voices: 2
+DM
+Folsom
+Owen (NPC, DM-voiced)
+Torus (NPC, DM-voiced)

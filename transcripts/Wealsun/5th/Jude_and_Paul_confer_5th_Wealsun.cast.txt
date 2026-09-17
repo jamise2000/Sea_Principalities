@@ -1,0 +1,6 @@
+# Cast for Jude_and_Paul_confer_5th_Wealsun
+# Expected voices: 4
+DM
+Jude
+Paul
+Leslie
