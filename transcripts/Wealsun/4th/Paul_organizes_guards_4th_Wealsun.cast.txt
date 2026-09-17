@@ -1,0 +1,6 @@
+# Cast for Paul_organizes_guards_4th_Wealsun
+# Expected voices: 2
+DM
+Paul
+Rodiger (NPC, DM-voiced)
+sergeant (NPC, DM-voiced)

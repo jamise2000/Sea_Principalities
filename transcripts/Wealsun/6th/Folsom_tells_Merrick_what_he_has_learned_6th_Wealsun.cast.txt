@@ -1,0 +1,6 @@
+# Cast for Folsom_tells_Merrick_what_he_has_learned_6th_Wealsun
+# Expected voices: 4
+DM
+Gouge
+Merrick
+Folsom

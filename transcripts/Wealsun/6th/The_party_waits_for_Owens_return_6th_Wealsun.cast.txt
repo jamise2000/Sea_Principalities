@@ -1,0 +1,7 @@
+# Cast for The_party_waits_for_Owens_return_6th_Wealsun
+# Expected voices: 5
+DM
+Gouge
+Merrick
+Tyrus
+Folsom

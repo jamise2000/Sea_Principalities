@@ -1,4 +1,0 @@
-# Cast for Paul_reads_Graysons_letters_Prolog
-# Expected voices: 2
-DM
-Paul

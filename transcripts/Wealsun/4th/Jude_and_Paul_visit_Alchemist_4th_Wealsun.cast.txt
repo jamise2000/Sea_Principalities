@@ -1,0 +1,6 @@
+# Cast for Jude_and_Paul_visit_Alchemist_4th_Wealsun
+# Expected voices: 3
+DM
+Jude
+Paul
+Alchemist (NPC, DM-voiced)

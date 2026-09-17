@@ -1,0 +1,9 @@
+# Cast for Paul_describes_the_Homunculus_2nd_Wealsun
+# Expected voices: 7
+DM
+Paul
+Merrick
+Gouge
+Tyrus
+Folsom
+Jude

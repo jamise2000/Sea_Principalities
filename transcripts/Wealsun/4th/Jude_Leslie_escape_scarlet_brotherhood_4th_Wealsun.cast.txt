@@ -1,0 +1,7 @@
+# Cast for Jude_Leslie_escape_scarlet_brotherhood_4th_Wealsun
+# Expected voices: 3
+DM
+Jude
+Leslie
+Alchemist (NPC, DM-voiced)
+agents (NPC, DM-voiced)

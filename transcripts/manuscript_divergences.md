@@ -212,3 +212,23 @@ To ease the front-loaded faction load in PART ZERO–ONE, two threads that paid 
 **Kept as a deliberate seed:** the **black sickness** and the **Sons of Olan** (the necromantic cult behind it) remain in Ch. 3 and Ch. 11, trimmed to a concise mention. Per the author, the black sickness pays off in later Book Two chapters, so it must not be cut.
 
 The Ch. 11 council recap was also lightly compressed (the definitional aside on what an Inquisitor is) to reduce restatement of Ch. 3. These are adaptation trims, not contradictions of the transcript.
+
+## Book 2 Ch. 8 — the alchemist's name is Albashon (transcript's "Varen"/"Viren" corrected)
+
+- **Transcript says:** the master alchemist of the Foreign District is named **"Varen"** (`transcripts.lst`: `Wealsun/4th/Jude_in_Alchemy_shop_4th_Wealsun`, line 1; and a garbled "Viren," line 32).
+- **Manuscript / ledgers establish instead:** his name is **Albashon** — the name he is given in `Wealsun/4th/Leslies_introduction_4th_Wealsun` ("His name is Albashon"), and the form used across `characters/Minor_characters.md`, `characters/Leslie.md`, and `worldbuilding/The_Anti-Sahaugin_Powder.md`.
+- **Action taken (author ruling: "make it consistent across the worldbuilding files and the transcripts"):** the two name tokens in `Jude_in_Alchemy_shop` (lines 1 and 32) were changed from **Varen/Viren to Albashon**. Line 32 remains a garbled sentence in the raw record ("you hand Albashon to Gils" — intended sense: Jude hands the sahuagin gills to the alchemist); only the name token was normalized.
+- **Note:** this is the second verbatim transcript body edited for a name (after `Owen_shows_his_face`); all other transcript bodies remain the raw record.
+
+## Powder canon (author rulings) — figures to reconcile in the manuscript
+
+Author rulings on the anti-sahaugin powder (recorded in `worldbuilding/The_Anti-Sahaugin_Powder.md`, `magic_system.md`, `The_Orb_of_the_Dragon_Turtle.md`, `The_Dragon_Isles.md`). Two of them **supersede numbers currently in the chapters** — flagged here so a later pass brings the prose into line rather than treating the ledger as the error:
+
+- **Supply cutoff is ~40 years ago, not 20.** Book 2 Ch. 8 (and its earlier ledger wording) has the recovered sample "about twenty years old." Canon is now **~40 years** since the supply was cut off (a fact "not common knowledge"). Reconcile Ch. 8.
+- **~25 barrels is the whole remaining supply in Monmurg's hands = 21 on the island + 4 rafted home.** Book 2 Ch. 2 reads "twenty-five … on the island / four rafted home." Canon: only **21** were on the island; with the **4** rafted home that makes **25 total** remaining to the Prince of Monmurg. Reconcile Ch. 2's wording (island figure is 21; 25 is the standing total).
+- **No manuscript change needed** for these (already consistent or new): the compound **is copper sulfate** but is never named so — Albashon calls it **vitriolum** (blue vitriol) / "copper and sulfur, combined in a way few know," and his "sulfur and iron" = **iron sulfate** (green vitriol); it was **invented and mass-produced by the Duke of Berghof** (the Fieraxian attribution is a mistaken assumption); eradication dates **CY 427–430**; **Pocra Sententia** is a primary powder staging ground and Cain's fortress; and **the dragon scheme is part of the powder scheme** (isolate Monmurg + seal the stores → defenseless against the sahaugin).
+
+## Book 2 Ch. 8 — the transmuter is Zafar Azane (transcript's "Zafar Zane" corrected)
+
+- **Transcript says:** in the alchemist scene, Albashon names the great Keoland transmuter "**Zafar Zane**" (`Wealsun/4th/Jude_in_Alchemy_shop`, line 274).
+- **Canon:** his name is **Zafar Azane** (`worldbuilding/magic_system.md`, `characters/Jamis.md`, Name Normalization Key). Normalized in that line at the author's instruction. (The Book One transcript `Wealsun/3rd/Party_considers_options` line 872 still reads "Zafar Zane"; leave for the Book One cleanup pass.)

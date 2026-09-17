@@ -1,0 +1,7 @@
+# Cast for Marines_get_signal_from_barracks_2nd_Wealsun
+# Expected voices: 5
+DM
+Merrick
+Gouge
+Tyrus
+Folsom
