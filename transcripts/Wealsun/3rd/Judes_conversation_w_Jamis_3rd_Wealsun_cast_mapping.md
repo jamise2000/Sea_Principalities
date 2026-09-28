@@ -5,12 +5,20 @@
 **Cast (index):** Jude.
 **In the room (2 voices):** the **DM** (narrating + voicing **Lord Jamis**) and **Jude**'s player. Continuation of Jude's debrief with Jamis.
 
-## Speaker → character mapping
+## Speaker → character mapping (two tags)
 
-| Tag | Primary speaker | Also carries | How we know |
-|-----|-----------------|--------------|-------------|
-| **SPEAKER_00** | **DM** — narration (line 1) + **Lord Jamis** (most of the exposition) | Several of Jude's questions (tag bleed) | Line 1 is narration ("Jude's conversation with Lord Jameis continued"); the Keoland-politics exposition — the civil war, the dead king, the Office/Toli threat (26–70) — is Jamis. |
-| **SPEAKER_01** | **Jude** (the PC) | Several of Jamis's lines (tag bleed) | Jude's questions and framing: "kill on sight list" (2–4), "How is Monmurg set?" (11–13), "Could it be Fairwind was replacing the barrels?" (57). |
+Two people: **Lord Jamis** (voiced by the DM, who also narrates) and **Jude**. This transcript's raw tags were the most scrambled of the set, so lines were assigned by **content**, not by the diarizer tag:
+
+| Tag | Who |
+|---|---|
+| **SPEAKER_01A** | DM / **Lord Jamis** (narration + Jamis's dialogue) |
+| **SPEAKER_00A** | **Jude** |
+
+Shape of the scene: **Jude** asks (a kill-list, "How is Monmurg set?", "civil war between whom?", "assassinated?") and gives his read of Fairwind's motives; **Jamis** delivers the Keoland/Toli intelligence (the imminent succession, Kimbertos Skotti's death, the Lion Throne) and assigns the tasks (ascertain Fairwind's motive; investigate why the powder failed; take the tower/library; tutor Paul).
+
+- **Author review applied:** line 4 was **split** — Jude keeps "I was acting on my own accord…" (00A) and Jamis takes "At this point, Fairwind is not a kill on sight, Jude" (01A, now line 5); **43–51** (formerly 42–50, the read of Fairwind's motives) are **all Jamis**; and line 29 (formerly 28) now reads "the Dukes, and the great Suel Houses of that nation" (added dialogue, logged in `manuscript_divergences.md`). **Still least-certain:** line **10** ("I don't think any of the princes will survive…") and line **58** ("Could it be Fairwind was replacing the barrels?"). *(Line numbers below shifted +1 after the line-4 split; out-of-band tail is now 77–99.)*
+- **Out-of-band:** 77–99 (the whole tail — store/beer run, "Roman," "Napoleon Zello," the résumé/"superintendent lady"). 76 and 77 carry no speaker tag (diarizer dropout).
+
 
 ## Flagged ambiguities (author: please correct)
 

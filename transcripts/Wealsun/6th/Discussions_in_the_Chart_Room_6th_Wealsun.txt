@@ -1,259 +1,259 @@
-[SPEAKER_01]: All right, so you guys sit around the table, which is a keg top with a spigot right out of it.
-[SPEAKER_01]: That's the way things go here, right?
-[SPEAKER_01]: Now, the three of you have a chance to have a conversation, and I would like you to discuss this.
-[SPEAKER_00]: My big thing is what's holding these three ships?
-[SPEAKER_00]: What's holding these merchants, or what's holding Monmurg from attacking these three ships?
-[SPEAKER_00]: This would be an easy win for Monmurg, which means why is Monmurg not taking advantage of this?
-[SPEAKER_03]: I said in the song, we've heard is the principalities are tied up fighting amongst themselves, supposedly.
-[SPEAKER_00]: But that's not enough.
-[SPEAKER_03]: Right.
-[SPEAKER_03]: As you said, it'd be easy for Monmurg to come in here and take this, why not?
-[SPEAKER_03]: Who's to benefit with gold?
-[SPEAKER_03]: Or I said, who's to keep their head?
-[SPEAKER_03]: And then he said, why would these, these people don't know this is happening, these merchants, why would they sail in here and lose profit?
-[SPEAKER_03]: Obviously they look scared so they were not expecting this to be happening, yet it is.
-[SPEAKER_00]: They didn't sail in here by choice, obviously.
-[SPEAKER_03]: So they're unaware of what's happening because otherwise they wouldn't have come this way.
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: So who's getting rich off of merchants being here?
-[SPEAKER_00]: Who's getting rich off of that?
-[SPEAKER_02]: And what happens to the merchants at the end when they're not, when their goods are gone?
-[SPEAKER_00]: Yeah, but I mean, one of the princes is making money off of this deal, and that's what it is.
-[SPEAKER_00]: Or is this keeping people here, keeping them distracted, or?
-[out-of-band] [SPEAKER_01]: Roll a wisdom check.
-[out-of-band] 18.
-[out-of-band] [SPEAKER_02]: And I have a 19 in wisdom.
-[SPEAKER_03]: Maybe it's not about money.
-[SPEAKER_03]: Yeah, I think this isn't enough money to be...
-[SPEAKER_03]: They're not gonna make enough money on this to put people and starve people out or any of that.
-[SPEAKER_02]: Is it something keeping people here?
-[SPEAKER_02]: Or is it something that they don't want information getting out of here?
-[SPEAKER_02]: No.
-[SPEAKER_02]: I don't think it's information.
-[SPEAKER_02]: No, it's not even that.
-[SPEAKER_01]: It's withholding.
-[SPEAKER_01]: This is the lifeblood of Monmurg.
-[SPEAKER_01]: Right.
-[SPEAKER_01]: This is where all the money gets made.
-[SPEAKER_01]: Well, who benefits by crippling Monmurg?
+[SPEAKER_00A]: All right, so you guys sit around the table, which is a keg top with a spigot right out of it.
+[SPEAKER_00A]: That's the way things go here, right?
+[SPEAKER_00A]: Now, the three of you have a chance to have a conversation, and I would like you to discuss this.
+[SPEAKER_05A]: My big thing is what's holding these three ships?
+[SPEAKER_05A]: What's holding these merchants, or what's holding Monmurg from attacking these three ships?
+[SPEAKER_05A]: This would be an easy win for Monmurg, which means why is Monmurg not taking advantage of this?
+[SPEAKER_06A]: I said in the song, we've heard is the principalities are tied up fighting amongst themselves, supposedly.
+[SPEAKER_05A]: But that's not enough.
+[SPEAKER_06A]: Right.
+[SPEAKER_06A]: As you said, it'd be easy for Monmurg to come in here and take this, why not?
+[SPEAKER_06A]: Who's to benefit with gold?
+[SPEAKER_06A]: Or I said, who's to keep their head?
+[SPEAKER_06A]: And then he said, why would these, these people don't know this is happening, these merchants, why would they sail in here and lose profit?
+[SPEAKER_06A]: Obviously they look scared so they were not expecting this to be happening, yet it is.
+[SPEAKER_05A]: They didn't sail in here by choice, obviously.
+[SPEAKER_06A]: So they're unaware of what's happening because otherwise they wouldn't have come this way.
+[SPEAKER_05A]: Yeah.
+[SPEAKER_05A]: So who's getting rich off of merchants being here?
+[SPEAKER_05A]: Who's getting rich off of that?
+[SPEAKER_04A]: And what happens to the merchants at the end when they're not, when their goods are gone?
+[SPEAKER_05A]: Yeah, but I mean, one of the princes is making money off of this deal, and that's what it is.
+[SPEAKER_05A]: Or is this keeping people here, keeping them distracted, or?
+[game mechanics] [SPEAKER_00A]: Roll a wisdom check.
+[game mechanics] [SPEAKER_04A]: 18.
+[game mechanics] [SPEAKER_04A]: And I have a 19 in wisdom.
+[SPEAKER_06A]: Maybe it's not about money.
+[SPEAKER_06A]: Yeah, I think this isn't enough money to be...
+[SPEAKER_06A]: They're not gonna make enough money on this to put people and starve people out or any of that.
+[SPEAKER_04A]: Is it something keeping people here?
+[SPEAKER_04A]: Or is it something that they don't want information getting out of here?
+[SPEAKER_04A]: No.
+[SPEAKER_04A]: I don't think it's information.
+[SPEAKER_04A]: No, it's not even that.
+[SPEAKER_00A]: It's withholding.
+[SPEAKER_00A]: This is the lifeblood of Monmurg.
+[SPEAKER_00A]: Right.
+[SPEAKER_00A]: This is where all the money gets made.
+[SPEAKER_00A]: Well, who benefits by crippling Monmurg?
 [out-of-band] [SPEAKER_00]: Sorry, this is going to be loud.
-[SPEAKER_03]: Toli?
-[SPEAKER_03]: Are you trying to take Monmurg out completely?
-[SPEAKER_03]: Starve the people out and bring in a new power.
-[SPEAKER_00]: Someone can take over that.
-[SPEAKER_00]: The one prince is in charge of Monmurg?
-[SPEAKER_00]: Prince John.
-[SPEAKER_00]: Prince John, yeah.
-[SPEAKER_00]: Why isn't Prince John doing more about this?
-[SPEAKER_00]: He even knows about this.
-[SPEAKER_00]: He's got to know that they're starving.
-[SPEAKER_00]: The people are starving.
-[SPEAKER_03]: Oh yeah.
-[SPEAKER_03]: That's all obvious.
-[SPEAKER_01]: Of course he knows the people are starving.
-[SPEAKER_01]: I mean, it's obvious.
-[SPEAKER_02]: Yeah.
-[SPEAKER_02]: Who knows about this actually happened here.
-[SPEAKER_02]: How this has not been recorded back in long ago.
-[SPEAKER_00]: It has to be.
-[SPEAKER_00]: This isn't like, we're not the ultra spies here.
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: We sailed into here, we sailed out of here.
-[SPEAKER_00]: He's not the only merchant that's peddling goods.
-[SPEAKER_00]: Why isn't he, what's keeping him from
-[SPEAKER_00]: Doing this, taking this over.
-[SPEAKER_02]: Yeah.
-[SPEAKER_02]: Yeah, and it's not monetary.
-[SPEAKER_02]: Yeah, or if he's in on it.
-[SPEAKER_01]: Gian would never do this to his sister.
-[SPEAKER_00]: Why would he be in on... What would benefit him to be in on it?
-[SPEAKER_00]: Maybe he's not... Maybe it's not his choice.
-[out-of-band] [SPEAKER_00]: Hold a perception check.
-[SPEAKER_03]: Too bad that his nephew's not here to talk to him.
-[SPEAKER_03]: I think he knows more.
-[out-of-band] [SPEAKER_00]: Okay.
-[out-of-band] [SPEAKER_00]: Plus six, so eight.
-[SPEAKER_00]: It's not his choice.
-[SPEAKER_00]: Wasn't... Who's his wife?
-[SPEAKER_01]: John's wife?
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: He's not married.
-[SPEAKER_00]: So it's just him.
-[SPEAKER_00]: So is there something controlling him?
-[SPEAKER_00]: Something controlling him, something, not necessarily controlling him, but some reason why someone has dirt on him or holding something over him.
-[SPEAKER_03]: You created a scandal like Gianna?
-[SPEAKER_00]: No, somebody's got his wife but is not married or somebody has
-[SPEAKER_00]: Something's causing him to be fearful to not do this.
-[SPEAKER_00]: To not interfere with this, yeah.
-[SPEAKER_00]: Right.
-[SPEAKER_02]: Yes.
-[SPEAKER_02]: Interesting.
-[SPEAKER_03]: Well, that's an awful lot of power to stop somebody that has a navy.
-[SPEAKER_00]: That they do.
-[SPEAKER_00]: At their disposal.
-[SPEAKER_00]: This is something that's more powerful than his power.
-[out-of-band] [SPEAKER_00]: Oh shit, I got a 15 ones to move.
-[SPEAKER_02]: I'm straight.
-[SPEAKER_00]: So if something is more powerful than he is right now.
-[SPEAKER_00]: What is more powerful on the sea than Monmurg and Navy?
-[SPEAKER_01]: The dragons.
-[SPEAKER_02]: So where are the dragons?
-[SPEAKER_02]: Well, I know the dragons, because we went to the islands, no one's done that forever.
-[SPEAKER_02]: Right.
-[SPEAKER_02]: Where are they?
-[SPEAKER_02]: They're all at Cain Tolley's Island.
-[SPEAKER_00]: Protecting it.
-[SPEAKER_00]: Protecting it.
-[SPEAKER_03]: Well, if they're protecting it, why... King Toli's island is right there.
-[SPEAKER_03]: They're protecting it from here, and we saw King Toli hauling ass east in the Sea Ghost.
-[SPEAKER_01]: So that's what Owen Black told you, or that's what you learned from Owen Black.
-[SPEAKER_02]: Yeah.
-[SPEAKER_02]: I found that out from Folsom that... Well, I was snapping.
-[SPEAKER_02]: King Toli, all the dragons, the turtle dragons,
-[SPEAKER_02]: Protecting his island.
-[SPEAKER_00]: He has an artifact that controls dragons.
-[SPEAKER_00]: But he should be able to get over to here.
-[SPEAKER_00]: This is where we are.
-[SPEAKER_00]: He should be able to sail from here to there, no problem.
-[SPEAKER_02]: He's going somewhere else.
-[SPEAKER_00]: What he's saying is Gion could go here.
-[SPEAKER_00]: There's no problem to get there.
-[SPEAKER_00]: Why did we go this way?
-[SPEAKER_01]: You went this way because there are patrols here of Keoland, is what Owen Black said.
-[SPEAKER_01]: But Gion's fleet would eat right through this thing.
-[SPEAKER_01]: Now, three-man-of-war, that's not nothing.
-[SPEAKER_02]: But the Monmurgian fleet would crush that.
-[SPEAKER_02]: Unless there's dragons stopping them from coming that way.
-[SPEAKER_00]: Now we're finally getting somewhere.
-[SPEAKER_00]: If the dragons aren't just here...
-[SPEAKER_03]: But wait, we would have heard rumors or stories of Mermurgian ships being taken down by sea dragons.
-[SPEAKER_01]: Well, you've heard rumors of storms and then ships are gone.
-[SPEAKER_03]: That's right.
-[SPEAKER_03]: And are those sea turtle dragons, I'm assuming they're highly intelligent, are they
-[SPEAKER_03]: And they can speak.
-[SPEAKER_03]: Are they spellcasting, too?
-[SPEAKER_03]: Anybody know?
-[out-of-band] [SPEAKER_03]: Do your war.
-[out-of-band] [SPEAKER_02]: Rage, just what we needed.
-[out-of-band] [SPEAKER_02]: 18.
-[out-of-band] [SPEAKER_01]: What is that, uh, insight?
-[out-of-band] [SPEAKER_01]: It's a nature check.
-[out-of-band] [SPEAKER_02]: Plus zero.
-[out-of-band] [SPEAKER_02]: It's 18.
-[out-of-band] [SPEAKER_01]: Oh, wait, not nature.
-[out-of-band] [SPEAKER_01]: It's a...
-[out-of-band] [SPEAKER_00]: There's these.
-[out-of-band] [SPEAKER_00]: Inside is up here, right?
-[out-of-band] [SPEAKER_01]: Well, no, it's nature.
-[out-of-band] [SPEAKER_01]: It's 18.
-[out-of-band] [SPEAKER_01]: That's good.
-[SPEAKER_01]: Large turtle dragons actually can do things like make storms happen and they are huge generators of heat.
-[SPEAKER_01]: They can create fogs.
-[SPEAKER_01]: Kind of like we saw around Hell Island?
-[SPEAKER_01]: Yeah.
-[SPEAKER_02]: Interesting.
-[out-of-band] [SPEAKER_03]: Do a perception check.
-[out-of-band] [SPEAKER_03]: Holy shit.
-[out-of-band] [SPEAKER_03]: Nineteen, because it's plus eight.
-[out-of-band] [SPEAKER_03]: Perception?
-[out-of-band] [SPEAKER_01]: Yeah, plus eight.
-[SPEAKER_00]: How many soldiers are on one of these men of war?
-[SPEAKER_01]: Well, you're in the Monmurgian Navy.
-[SPEAKER_01]: You can have them to 250.
-[SPEAKER_01]: On the Keog ships, it's about 400.
-[SPEAKER_01]: They're bigger and slower.
-[SPEAKER_01]: Calceres go about four and a half miles per hour.
-[SPEAKER_01]: These things go two and a half.
-[SPEAKER_00]: They're just big.
-[SPEAKER_00]: So I'm going to guess that there's... Maybe 1,200 guys here.
-[SPEAKER_01]: All on the ships, though.
-[SPEAKER_01]: Seems like it.
-[SPEAKER_01]: I mean, for the most part.
-[SPEAKER_02]: Yeah.
-[SPEAKER_01]: It doesn't seem like there are many that are coming on board, I'm sure.
-[SPEAKER_01]: Eight guys just kind of walked into the room and are surrounding you, just trying to be casual.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: I think I need another round.
-[SPEAKER_01]: Why don't you stay where you are, some guy says from across the bar.
-[SPEAKER_01]: You look over and he is Sewell.
-[SPEAKER_01]: You're not here.
-[SPEAKER_01]: New to Redshore, I take it.
-[SPEAKER_01]: Are you merchants?
-[SPEAKER_01]: What's your business here?
-[SPEAKER_01]: How are we?
-[SPEAKER_03]: Deckhand.
-Okay.
-[SPEAKER_03]: So you point to Merrick?
-[SPEAKER_03]: I say deckhand.
-[SPEAKER_02]: Gossip?
-[SPEAKER_02]: Drink?
-[SPEAKER_02]: What's the concern of business right now?
-[SPEAKER_01]: What kind of gossip are you interested in?
-[SPEAKER_02]: Why does this interest you so much?
-[SPEAKER_01]: Oh, everything that happens in Red Shore interests me.
-[SPEAKER_01]: I'm sure it does.
-[SPEAKER_01]: This guy has a Toli accent.
-[SPEAKER_02]: Okay.
-[SPEAKER_01]: Right.
-[SPEAKER_02]: I'm sure it does.
-[SPEAKER_03]: Mind if I get him another ale?
-[SPEAKER_03]: Our captain will come back and can clear this up.
-[SPEAKER_01]: Pump it out of the keg right there.
-[SPEAKER_03]: No problem.
-[SPEAKER_01]: I'd like you gentlemen to stay where you are.
-[SPEAKER_01]: As you can see, my associates have you surrounded.
-[SPEAKER_01]: You look around and you realize that as you've been talking,
-[SPEAKER_01]: About eight guys have surrounded you at all of the kegs around your area, and you're a little surprised these guys found you so quickly, right?
-[SPEAKER_01]: As big as Toli rats get.
-[SPEAKER_01]: I mean, you know, no.
-[SPEAKER_02]: That's the thing.
-[SPEAKER_01]: These guys are dirty fighters.
-[SPEAKER_01]: That's what they are.
-[SPEAKER_01]: And they're vicious.
-[SPEAKER_01]: And some have syphilis, so don't let them bite you.
-[SPEAKER_01]: Anyway, they're a rough group.
-[SPEAKER_01]: These are the kind of guys that work the slaver ships when they can, work the pirate ships when they're up on their luck, whatever the case.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: But you see that actually a lot of them just have clubs in their hands down among them.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: And they look like they want to give you guys a good beating.
-[SPEAKER_01]: They're just waiting for the guy to give the word.
-[SPEAKER_01]: Tyrus, why don't you stand up?
-[SPEAKER_00]: Tyrus, don't get your panties in a while.
-[SPEAKER_02]: I gotta piss.
-[SPEAKER_02]: Tyrus, since the last time we've been in a bar fight.
-[SPEAKER_03]: I finished the cup and drop it.
-[SPEAKER_00]: Then I look at the guy.
-[SPEAKER_00]: I get up to take a piss and I start wandering over the main dude to go past him to piss.
-[out-of-band] [SPEAKER_01]: Alright, so here's your barrel.
-[out-of-band] [SPEAKER_01]: There are you guys.
-[out-of-band] [SPEAKER_01]: Barrel.
-[out-of-band] [SPEAKER_01]: Barrel.
-[out-of-band] [SPEAKER_01]: Barrel.
-[out-of-band] [SPEAKER_01]: That's you?
-[out-of-band] [SPEAKER_01]: Tyrus, where's your guy?
-[out-of-band] [SPEAKER_00]: Huh?
-[out-of-band] [SPEAKER_01]: You have a figure?
-[out-of-band] [SPEAKER_00]: I didn't have to get one.
-[out-of-band] [SPEAKER_00]: Very heroic.
-[out-of-band] [SPEAKER_00]: Who's that?
-[out-of-band] [SPEAKER_03]: I don't know, I just picked a paladin looking one.
-[out-of-band] [SPEAKER_00]: There's all kinds over there.
-[out-of-band] [SPEAKER_00]: There's me.
-[out-of-band] [SPEAKER_00]: There's that big guy.
-[out-of-band] [SPEAKER_01]: All right, so you stand.
-[out-of-band] [SPEAKER_03]: I don't have my signature anymore, right?
-[out-of-band] [SPEAKER_03]: I'm using my hand.
-[out-of-band] [SPEAKER_03]: Is that where I'm at with this?
-[out-of-band] [SPEAKER_01]: You have a cut list, don't you?
-[out-of-band] [SPEAKER_03]: Do I?
-[out-of-band] Yeah.
-[out-of-band] [SPEAKER_03]: Okay.
-[out-of-band] [SPEAKER_03]: Okay.
-[SPEAKER_03]: So I stand after I finish that?
-[SPEAKER_03]: Okay, you get up and stand.
-[SPEAKER_03]: All right, pound it and drop it.
-[SPEAKER_03]: This guy goes, get out!
-[SPEAKER_03]: Okay.
-[SPEAKER_03]: And the guys rush in.
+[SPEAKER_06A]: Toli?
+[SPEAKER_06A]: Are you trying to take Monmurg out completely?
+[SPEAKER_06A]: Starve the people out and bring in a new power.
+[SPEAKER_05A]: Someone can take over that.
+[SPEAKER_05A]: The one prince is in charge of Monmurg?
+[SPEAKER_05A]: Prince John.
+[SPEAKER_05A]: Prince John, yeah.
+[SPEAKER_05A]: Why isn't Prince John doing more about this?
+[SPEAKER_05A]: He even knows about this.
+[SPEAKER_05A]: He's got to know that they're starving.
+[SPEAKER_05A]: The people are starving.
+[SPEAKER_06A]: Oh yeah.
+[SPEAKER_06A]: That's all obvious.
+[SPEAKER_00A]: Of course he knows the people are starving.
+[SPEAKER_00A]: I mean, it's obvious.
+[SPEAKER_04A]: Yeah.
+[SPEAKER_04A]: Who knows about this actually happened here.
+[SPEAKER_04A]: How this has not been recorded back in long ago.
+[SPEAKER_05A]: It has to be.
+[SPEAKER_05A]: This isn't like, we're not the ultra spies here.
+[SPEAKER_05A]: Yeah.
+[SPEAKER_05A]: We sailed into here, we sailed out of here.
+[SPEAKER_05A]: He's not the only merchant that's peddling goods.
+[SPEAKER_05A]: Why isn't he, what's keeping him from
+[SPEAKER_05A]: Doing this, taking this over.
+[SPEAKER_04A]: Yeah.
+[SPEAKER_04A]: Yeah, and it's not monetary.
+[SPEAKER_04A]: Yeah, or if he's in on it.
+[SPEAKER_00A]: Jeon would never do this to the Sea Principalities.
+[SPEAKER_05A]: Why would he be in on... What would benefit him to be in on it?
+[SPEAKER_05A]: Maybe he's not... Maybe it's not his choice.
+[game mechanics] [SPEAKER_00A]: Hold a perception check.
+[SPEAKER_06A]: Too bad that his nephew's not here to talk to him.
+[SPEAKER_06A]: I think he knows more.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_05A]: Plus six, so eight.
+[SPEAKER_05A]: It's not his choice.
+[SPEAKER_05A]: Wasn't... Who's his wife?
+[SPEAKER_00A]: John's wife?
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: He's not married.
+[SPEAKER_05A]: So it's just him.
+[SPEAKER_05A]: So is there something controlling him?
+[SPEAKER_05A]: Something controlling him, something, not necessarily controlling him, but some reason why someone has dirt on him or holding something over him.
+[SPEAKER_06A]: You created a scandal like Gianna?
+[SPEAKER_05A]: No, somebody's got his wife but is not married or somebody has
+[SPEAKER_05A]: Something's causing him to be fearful to not do this.
+[SPEAKER_05A]: To not interfere with this, yeah.
+[SPEAKER_05A]: Right.
+[SPEAKER_04A]: Yes.
+[SPEAKER_04A]: Interesting.
+[SPEAKER_06A]: Well, that's an awful lot of power to stop somebody that has a navy.
+[SPEAKER_05A]: That they do.
+[SPEAKER_05A]: At their disposal.
+[SPEAKER_05A]: This is something that's more powerful than his power.
+[game mechanics] [SPEAKER_05A]: Oh shit, I got a 15 ones to move.
+[SPEAKER_04A]: I'm straight.
+[SPEAKER_05A]: So if something is more powerful than he is right now.
+[SPEAKER_05A]: What is more powerful on the sea than Monmurg and Navy?
+[SPEAKER_00A]: The dragons.
+[SPEAKER_04A]: So where are the dragons?
+[SPEAKER_04A]: Well, I know the dragons, because we went to the islands, no one's done that forever.
+[SPEAKER_04A]: Right.
+[SPEAKER_04A]: Where are they?
+[SPEAKER_04A]: They're all at Cain Tolley's Island.
+[SPEAKER_05A]: Protecting it.
+[SPEAKER_05A]: Protecting it.
+[SPEAKER_06A]: Well, if they're protecting it, why... King Toli's island is right there.
+[SPEAKER_06A]: They're protecting it from here, and we saw King Toli hauling ass east in the Sea Ghost.
+[SPEAKER_00A]: So that's what Owen Black told you, or that's what you learned from Owen Black.
+[SPEAKER_04A]: Yeah.
+[SPEAKER_04A]: I found that out from Folsom that... Well, I was snapping.
+[SPEAKER_04A]: King Toli, all the dragons, the turtle dragons,
+[SPEAKER_04A]: Protecting his island.
+[SPEAKER_05A]: He has an artifact that controls dragons.
+[SPEAKER_05A]: But he should be able to get over to here.
+[SPEAKER_05A]: This is where we are.
+[SPEAKER_05A]: He should be able to sail from here to there, no problem.
+[SPEAKER_05A]: He's going somewhere else.
+[SPEAKER_05A]: What he's saying is Gion could go here.
+[SPEAKER_05A]: There's no problem to get there.
+[SPEAKER_05A]: Why did we go this way?
+[SPEAKER_00A]: You went this way because there are patrols here of Keoland, is what Owen Black said.
+[SPEAKER_00A]: But Gion's fleet would eat right through this thing.
+[SPEAKER_00A]: Now, three-man-of-war, that's not nothing.
+[SPEAKER_04A]: But the Monmurgian fleet would crush that.
+[SPEAKER_04A]: Unless there's dragons stopping them from coming that way.
+[SPEAKER_05A]: Now we're finally getting somewhere.
+[SPEAKER_05A]: If the dragons aren't just here...
+[SPEAKER_06A]: But wait, we would have heard rumors or stories of Mermurgian ships being taken down by sea dragons.
+[SPEAKER_00A]: Well, you've heard rumors of storms and then ships are gone.
+[SPEAKER_06A]: That's right.
+[SPEAKER_06A]: And are those sea turtle dragons, I'm assuming they're highly intelligent, are they
+[SPEAKER_06A]: And they can speak.
+[SPEAKER_06A]: Are they spellcasting, too?
+[SPEAKER_06A]: Anybody know?
+[game mechanics] [SPEAKER_06A]: Do your war.
+[game mechanics] [SPEAKER_04A]: Rage, just what we needed.
+[game mechanics] [SPEAKER_04A]: 18.
+[game mechanics] [SPEAKER_00A]: What is that, uh, insight?
+[game mechanics] [SPEAKER_00A]: It's a nature check.
+[game mechanics] [SPEAKER_04A]: Plus zero.
+[game mechanics] [SPEAKER_04A]: It's 18.
+[game mechanics] [SPEAKER_00A]: Oh, wait, not nature.
+[game mechanics] [SPEAKER_00A]: It's a...
+[game mechanics] [SPEAKER_05A]: There's these.
+[game mechanics] [SPEAKER_05A]: Inside is up here, right?
+[game mechanics] [SPEAKER_00A]: Well, no, it's nature.
+[game mechanics] [SPEAKER_00A]: It's 18.
+[game mechanics] [SPEAKER_00A]: That's good.
+[SPEAKER_00A]: Large turtle dragons actually can do things like make storms happen and they are huge generators of heat.
+[SPEAKER_00A]: They can create fogs.
+[SPEAKER_00A]: Kind of like we saw around Hell Island?
+[SPEAKER_00A]: Yeah.
+[SPEAKER_04A]: Interesting.
+[game mechanics] [SPEAKER_00A]: Do a perception check.
+[game mechanics] [SPEAKER_06A]: Holy shit.
+[game mechanics] [SPEAKER_06A]: Nineteen, because it's plus eight.
+[game mechanics] [SPEAKER_06A]: Perception?
+[game mechanics] [SPEAKER_00A]: Yeah, plus eight.
+[SPEAKER_05A]: How many soldiers are on one of these men of war?
+[SPEAKER_00A]: Well, you're in the Monmurgian Navy.
+[SPEAKER_00A]: You can have them to 250.
+[SPEAKER_00A]: On the Keog ships, it's about 400.
+[SPEAKER_00A]: They're bigger and slower.
+[SPEAKER_00A]: Calceres go about four and a half miles per hour.
+[SPEAKER_00A]: These things go two and a half.
+[SPEAKER_05A]: They're just big.
+[SPEAKER_05A]: So I'm going to guess that there's... Maybe 1,200 guys here.
+[SPEAKER_00A]: All on the ships, though.
+[SPEAKER_00A]: Seems like it.
+[SPEAKER_00A]: I mean, for the most part.
+[SPEAKER_04A]: Yeah.
+[SPEAKER_00A]: It doesn't seem like there are many that are coming on board, I'm sure.
+[SPEAKER_00A]: Eight guys just kind of walked into the room and are surrounding you, just trying to be casual.
+[SPEAKER_00A]: Okay.
+[SPEAKER_04A]: I think I need another round.
+[SPEAKER_01B]: Why don't you stay where you are, some guy says from across the bar.
+[SPEAKER_00A]: You look over and he is Sewell.
+[SPEAKER_01B]: You're not here.
+[SPEAKER_01B]: New to Redshore, I take it.
+[SPEAKER_01B]: Are you merchants?
+[SPEAKER_01B]: What's your business here?
+[SPEAKER_01B]: How are we?
+[SPEAKER_06A]: Deckhand.
+[SPEAKER_00A]: Okay.
+[SPEAKER_06A]: So you point to Merrick?
+[SPEAKER_06A]: I say deckhand.
+[SPEAKER_04A]: Gossip?
+[SPEAKER_04A]: Drink?
+[SPEAKER_04A]: What's the concern of business right now?
+[SPEAKER_01B]: What kind of gossip are you interested in?
+[SPEAKER_04A]: Why does this interest you so much?
+[SPEAKER_01B]: Oh, everything that happens in Red Shore interests me.
+[SPEAKER_04A]: I'm sure it does.
+[SPEAKER_00A]: This guy has a Toli accent.
+[SPEAKER_04A]: Okay.
+[SPEAKER_01B]: Right.
+[SPEAKER_04A]: I'm sure it does.
+[SPEAKER_06A]: Mind if I get him another ale?
+[SPEAKER_06A]: Our captain will come back and can clear this up.
+[SPEAKER_01B]: Pump it out of the keg right there.
+[SPEAKER_06A]: No problem.
+[SPEAKER_01B]: I'd like you gentlemen to stay where you are.
+[SPEAKER_01B]: As you can see, my associates have you surrounded.
+[SPEAKER_00A]: You look around and you realize that as you've been talking,
+[SPEAKER_00A]: About eight guys have surrounded you at all of the kegs around your area, and you're a little surprised these guys found you so quickly, right?
+[SPEAKER_00A]: As big as Toli rats get.
+[SPEAKER_00A]: I mean, you know, no.
+[SPEAKER_04A]: That's the thing.
+[SPEAKER_00A]: These guys are dirty fighters.
+[SPEAKER_00A]: That's what they are.
+[SPEAKER_00A]: And they're vicious.
+[SPEAKER_00A]: And some have syphilis, so don't let them bite you.
+[SPEAKER_00A]: Anyway, they're a rough group.
+[SPEAKER_00A]: These are the kind of guys that work the slaver ships when they can, work the pirate ships when they're up on their luck, whatever the case.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: But you see that actually a lot of them just have clubs in their hands down among them.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: And they look like they want to give you guys a good beating.
+[SPEAKER_00A]: They're just waiting for the guy to give the word.
+[SPEAKER_00A]: Tyrus, why don't you stand up?
+[SPEAKER_05A]: Tyrus, don't get your panties in a while.
+[SPEAKER_04A]: I gotta piss.
+[SPEAKER_04A]: Tyrus, since the last time we've been in a bar fight.
+[SPEAKER_06A]: I finished the cup and drop it.
+[SPEAKER_05A]: Then I look at the guy.
+[SPEAKER_05A]: I get up to take a piss and I start wandering over the main dude to go past him to piss.
+[game mechanics] [SPEAKER_00A]: Alright, so here's your barrel.
+[game mechanics] [SPEAKER_00A]: There are you guys.
+[game mechanics] [SPEAKER_00A]: Barrel.
+[game mechanics] [SPEAKER_00A]: Barrel.
+[game mechanics] [SPEAKER_00A]: Barrel.
+[game mechanics] [SPEAKER_00A]: That's you?
+[game mechanics] [SPEAKER_00A]: Tyrus, where's your guy?
+[game mechanics] [SPEAKER_05A]: Huh?
+[game mechanics] [SPEAKER_00A]: You have a figure?
+[game mechanics] [SPEAKER_05A]: I didn't have to get one.
+[game mechanics] [SPEAKER_05A]: Very heroic.
+[game mechanics] [SPEAKER_05A]: Who's that?
+[game mechanics] [SPEAKER_06A]: I don't know, I just picked a paladin looking one.
+[game mechanics] [SPEAKER_05A]: There's all kinds over there.
+[game mechanics] [SPEAKER_05A]: There's me.
+[game mechanics] [SPEAKER_05A]: There's that big guy.
+[game mechanics] [SPEAKER_00A]: All right, so you stand.
+[game mechanics] [SPEAKER_06A]: I don't have my signature anymore, right?
+[game mechanics] [SPEAKER_06A]: I'm using my hand.
+[game mechanics] [SPEAKER_06A]: Is that where I'm at with this?
+[game mechanics] [SPEAKER_00A]: You have a cut list, don't you?
+[game mechanics] [SPEAKER_06A]: Do I?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_06A]: Okay.
+[SPEAKER_06A]: So I stand after I finish that?
+[SPEAKER_00A]: Okay, you get up and stand.
+[SPEAKER_06A]: All right, pound it and drop it.
+[SPEAKER_00A]: This guy goes, get out!
+[SPEAKER_06A]: Okay.
+[SPEAKER_00A]: And the guys rush in.

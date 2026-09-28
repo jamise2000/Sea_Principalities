@@ -1,0 +1,7 @@
+# Cast for Jude_Paul_and_Leslie_collect_Alchemy_tomes_5th_Wealsun
+# Expected voices: 4
+DM
+Jude
+Paul
+Leslie
+Guard (NPC, DM-voiced)

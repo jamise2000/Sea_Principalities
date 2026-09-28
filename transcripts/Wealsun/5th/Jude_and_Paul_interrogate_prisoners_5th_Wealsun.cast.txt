@@ -1,0 +1,8 @@
+# Cast for Jude_and_Paul_interrogate_prisoners_5th_Wealsun
+# Expected voices: 4
+DM
+Jude
+Paul
+Leslie
+Guard (NPC, DM-voiced)
+Prisoner (NPC, DM-voiced)

@@ -1,133 +1,133 @@
-[SPEAKER_00]: Fourth of Wealsun, Jude and Paul Rivero, after a day of training in the arcane arts where Paul has actually learned the cantrip mending, begin to walk up the stairs out of the dungeon where Jude was trying to teach him light.
-[SPEAKER_00]: Their conversation as Paul goes back to his room and Jude goes back
-[SPEAKER_00]: Deferred's bar.
-[SPEAKER_00]: What they say to each other.
-[SPEAKER_00]: Do you even sleep?
-[SPEAKER_01]: What do you care?
-[SPEAKER_01]: It's a yes or no question.
-[SPEAKER_02]: Yeah, sometimes.
-[SPEAKER_02]: Sometimes?
-[SPEAKER_02]: Mostly, I'm an elf.
-[SPEAKER_01]: So you ask me a bunch of depressed questions, but are you depressed?
-[SPEAKER_01]: No.
-[SPEAKER_01]: Does he have a heavy sag and looks like he's tired?
-[SPEAKER_01]: Well, yeah, sometimes.
-[SPEAKER_00]: Jude looks... Immortally young.
-[SPEAKER_00]: Maybe younger than you.
-[SPEAKER_00]: More depressed than any human being you've ever seen.
-[SPEAKER_01]: Yeah.
-[SPEAKER_00]: He wears more weight.
-[SPEAKER_00]: Okay.
-[SPEAKER_00]: In his perfect face.
-[SPEAKER_00]: Perfect.
-[SPEAKER_00]: Than anyone else you've ever seen.
-[SPEAKER_01]: And you're asking me if I'm gonna end the world.
-[SPEAKER_02]: You're focusing on the negative.
-[SPEAKER_01]: His eyes.
-[SPEAKER_01]: Focusing on them.
-[SPEAKER_01]: Are where everything is.
-[SPEAKER_02]: I just said that you did great.
-[SPEAKER_02]: I mean, you got some bruised shins.
-[SPEAKER_02]: I hit you with a brass bowl.
-[out-of-band] [SPEAKER_01]: Motherfucker, you broke like five chairs.
-[out-of-band] [SPEAKER_02]: I didn't break five chairs.
-[out-of-band] [SPEAKER_02]: I broke one chair.
-[out-of-band] [SPEAKER_01]: Just took you five times to mend it.
-[out-of-band] [SPEAKER_01]: You said you slammed like five chairs on me down there trying to cast light.
-[out-of-band] [SPEAKER_02]: No, it was a brass bowl and I smashed you in the knees.
-[out-of-band] [SPEAKER_01]: And you broke a base.
-[out-of-band] [SPEAKER_02]: You mended it.
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: Sure did.
-[SPEAKER_02]: Look, you've got this thing, okay?
-[SPEAKER_02]: And this thing is gonna get you into deep shit whether you're an assassin, a rogue, or a mage.
-[SPEAKER_02]: You gotta let that go.
-[SPEAKER_02]: Okay?
-[SPEAKER_02]: The thing.
-[SPEAKER_02]: The thing.
-[SPEAKER_02]: Yeah, you know, like, I don't know.
-[SPEAKER_02]: Mommy's dead.
-[SPEAKER_02]: Daddy never loved me.
-[SPEAKER_02]: You don't know that.
-[SPEAKER_02]: Okay.
-[SPEAKER_00]: He knows Mommy's dead.
-[SPEAKER_02]: Okay.
-[SPEAKER_02]: Mommy's dead.
-[SPEAKER_00]: I never told him that.
-[SPEAKER_00]: Uh, he knows that.
-[SPEAKER_00]: Everyone knows that.
-[SPEAKER_00]: Oh, yeah, I forgot about that.
-[SPEAKER_00]: Everyone knows that... You wear a mask.
-[SPEAKER_02]: You're really mysterious.
-[SPEAKER_02]: You don't want people to see your face.
-[SPEAKER_02]: Okay, that's fine.
-[SPEAKER_02]: I haven't even criticized any of that until maybe now.
-[SPEAKER_02]: Now you're my pupil, okay?
-[SPEAKER_02]: Which means I am going to poke and prod and kick you, figuratively, literally and figuratively,
-[SPEAKER_02]: To get you to be better than you are.
-[SPEAKER_02]: If you can't handle that, then maybe you should go work with Gouge.
-[SPEAKER_02]: But I promise you, he's gonna take you on his sailing ship and he's gonna have you gut and skin other living creatures as part of his test.
-[SPEAKER_01]: Yeah, I figured.
-[SPEAKER_02]: You can still choose.
-[SPEAKER_01]: So is the equivalent of that blowing out someone's brains with your magic wand?
-[SPEAKER_02]: Yeah, but I'm not teaching you how to blow out someone's brains.
-[SPEAKER_01]: That is how you are basically teaching.
-[SPEAKER_01]: What spell is that?
-[SPEAKER_01]: It's just magic missile.
-[SPEAKER_01]: Magic missile, right.
-[SPEAKER_01]: So, you're gonna have me hold up your toad?
-[SPEAKER_02]: No, first of all, you're gonna have to use your fingers.
-[SPEAKER_02]: I was using a wand.
-[SPEAKER_02]: And secondly, I'm pretty sure if you took a Toli captive, he wouldn't even make it down the hallway.
-[SPEAKER_02]: You'd probably just waste him.
-[SPEAKER_01]: Yeah.
-[SPEAKER_02]: Okay, so that's my point.
-[SPEAKER_01]: Isn't that what you wanted to do, though?
-[SPEAKER_01]: No!
-[SPEAKER_01]: Yes, you wanted to... No, it wasn't that you wanted to be a captive.
-[SPEAKER_02]: I didn't waste him until she hit the man.
-[SPEAKER_01]: You wanted to waste him.
-[SPEAKER_01]: Yeah, you said it.
-[SPEAKER_01]: You said you wanted to waste him because you know, oh, something bad's gonna happen.
-[SPEAKER_01]: Let's just kill him and leave him.
-[SPEAKER_02]: And then when something bad happened, I killed him and left him.
-[SPEAKER_01]: No, the group said, I actually said we might need him, but you just decided to kill him.
-[SPEAKER_02]: What are you talking about?
-[SPEAKER_02]: I didn't kill him until the shit broke out.
-[SPEAKER_02]: Do you know the retarded guy that was hanging out with gouge that stopped halfway down the walkway that I'm sure was trapped and that it's only because of the idiocy of the guards on the other end that we didn't get dropped into the water with that dumb ass shark?
-[SPEAKER_02]: I did.
-[SPEAKER_02]: I did get dropped into the water.
-[SPEAKER_02]: And who saved you?
-[SPEAKER_01]: That's right.
-[SPEAKER_01]: You're a levitate.
-[SPEAKER_00]: You're a levitating spell.
-[SPEAKER_01]: When do I get to learn that one, huh?
-[SPEAKER_01]: Levitate stones.
-[SPEAKER_02]: Second level.
-[SPEAKER_02]: You're gonna get a lot more brass bowls in the shins before you get to levitate.
-[SPEAKER_02]: Can you handle it?
-[SPEAKER_02]: If you can't handle it...
-[SPEAKER_02]: I'm here.
-[SPEAKER_02]: Okay, well stop complaining.
-[SPEAKER_02]: I'm not complaining.
-[SPEAKER_02]: Sure you are.
-[SPEAKER_01]: You wanna see me complaining?
-[SPEAKER_02]: Oh, you mean there's more to the temple?
-[SPEAKER_02]: Oh, yeah.
-[SPEAKER_01]: Oh, let's see it.
-[SPEAKER_01]: Well, you're not busting my shins.
-[SPEAKER_01]: Right now, we're just walking up these bullshit stairs.
-[SPEAKER_02]: So what you're saying is when you get emotionally unstable, you're gonna react.
-[SPEAKER_01]: Oh god, here we go.
-[SPEAKER_02]: I'm telling you, some of these spells require concentration to maintain.
-[SPEAKER_02]: If you're gonna be all emotional and shit, that's not gonna work.
-[SPEAKER_02]: Who said the fuck I was emotional?
-[SPEAKER_01]: Do I sound like, do you hear tears?
-[SPEAKER_02]: You do, yes, yes.
-[SPEAKER_02]: Yes, yes, and yes.
-[SPEAKER_01]: Well clearly you've been abused.
-[SPEAKER_01]: There's no, there's no tears.
-[SPEAKER_02]: I- You don't have to have tears to have a temper tantrum.
-[SPEAKER_01]: Okay, well if I was having a temper tantrum, I feel like I'd be bouncing off the wall.
-[SPEAKER_00]: Jude is not sure that Paul Rivera even has tear ducts.
-[SPEAKER_00]: The two of you walk upstairs arguing as you go.
+[SPEAKER_00A]: Fourth of Wealsun, Jude and Paul Rivero, after a day of training in the arcane arts where Paul has actually learned the cantrip mending, begin to walk up the stairs out of the dungeon where Jude was trying to teach him light.
+[SPEAKER_00A]: Their conversation as Paul goes back to his room and Jude goes back
+[SPEAKER_00A]: Deferred's bar.
+[SPEAKER_00A]: What they say to each other.
+[SPEAKER_02A]: Do you even sleep?
+[SPEAKER_01A]: What do you care?
+[SPEAKER_02A]: It's a yes or no question.
+[SPEAKER_01A]: Yeah, sometimes.
+[SPEAKER_01A]: Sometimes?
+[SPEAKER_01A]: Mostly, I'm an elf.
+[SPEAKER_02A]: So you ask me a bunch of depressed questions, but are you depressed?
+[SPEAKER_01A]: No.
+[SPEAKER_02A]: Does he have a heavy sag and looks like he's tired?
+[SPEAKER_01A]: Well, yeah, sometimes.
+[SPEAKER_00A]: Jude looks... Immortally young.
+[SPEAKER_00A]: Maybe younger than you.
+[SPEAKER_00A]: More depressed than any human being you've ever seen.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_00A]: He wears more weight.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: In his perfect face.
+[SPEAKER_00A]: Perfect.
+[SPEAKER_00A]: Than anyone else you've ever seen.
+[SPEAKER_02A]: And you're asking me if I'm gonna end the world.
+[SPEAKER_01A]: You're focusing on the negative.
+[SPEAKER_02A]: His eyes.
+[SPEAKER_02A]: Focusing on them.
+[SPEAKER_02A]: Are where everything is.
+[SPEAKER_01A]: I just said that you did great.
+[SPEAKER_01A]: I mean, you got some bruised shins.
+[SPEAKER_01A]: I hit you with a brass bowl.
+[SPEAKER_02A]: Motherfucker, you broke like five chairs.
+[SPEAKER_01A]: I didn't break five chairs.
+[SPEAKER_01A]: I broke one chair.
+[SPEAKER_01A]: Just took you five times to mend it.
+[SPEAKER_02A]: You said you slammed like five chairs on me down there trying to cast light.
+[SPEAKER_01A]: No, it was a brass bowl and I smashed you in the knees.
+[SPEAKER_02A]: And you broke a base.
+[SPEAKER_01A]: You mended it.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_02A]: Sure did.
+[SPEAKER_01A]: Look, you've got this thing, okay?
+[SPEAKER_01A]: And this thing is gonna get you into deep shit whether you're an assassin, a rogue, or a mage.
+[SPEAKER_01A]: You gotta let that go.
+[SPEAKER_01A]: Okay?
+[SPEAKER_02A]: The thing.
+[SPEAKER_01A]: The thing.
+[SPEAKER_01A]: Yeah, you know, like, I don't know.
+[SPEAKER_01A]: Mommy's dead.
+[SPEAKER_01A]: Daddy never loved me.
+[SPEAKER_02A]: You don't know that.
+[SPEAKER_01A]: Okay.
+[SPEAKER_00A]: He knows Mommy's dead.
+[SPEAKER_02A]: Okay.
+[SPEAKER_01A]: Mommy's dead.
+[SPEAKER_02A]: I never told him that.
+[SPEAKER_00A]: Uh, he knows that.
+[SPEAKER_00A]: Everyone knows that.
+[SPEAKER_02A]: Oh, yeah, I forgot about that.
+[SPEAKER_00A]: Everyone knows that... You wear a mask.
+[SPEAKER_01A]: You're really mysterious.
+[SPEAKER_01A]: You don't want people to see your face.
+[SPEAKER_01A]: Okay, that's fine.
+[SPEAKER_01A]: I haven't even criticized any of that until maybe now.
+[SPEAKER_01A]: Now you're my pupil, okay?
+[SPEAKER_01A]: Which means I am going to poke and prod and kick you, figuratively, literally and figuratively,
+[SPEAKER_01A]: To get you to be better than you are.
+[SPEAKER_01A]: If you can't handle that, then maybe you should go work with Gouge.
+[SPEAKER_01A]: But I promise you, he's gonna take you on his sailing ship and he's gonna have you gut and skin other living creatures as part of his test.
+[SPEAKER_02A]: Yeah, I figured.
+[SPEAKER_01A]: You can still choose.
+[SPEAKER_02A]: So is the equivalent of that blowing out someone's brains with your magic wand?
+[SPEAKER_01A]: Yeah, but I'm not teaching you how to blow out someone's brains.
+[SPEAKER_02A]: That is how you are basically teaching.
+[SPEAKER_02A]: What spell is that?
+[SPEAKER_02A]: It's just magic missile.
+[SPEAKER_02A]: Magic missile, right.
+[SPEAKER_02A]: So, you're gonna have me hold up your toad?
+[SPEAKER_01A]: No, first of all, you're gonna have to use your fingers.
+[SPEAKER_01A]: I was using a wand.
+[SPEAKER_01A]: And secondly, I'm pretty sure if you took a Toli captive, he wouldn't even make it down the hallway.
+[SPEAKER_01A]: You'd probably just waste him.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_01A]: Okay, so that's my point.
+[SPEAKER_02A]: Isn't that what you wanted to do, though?
+[SPEAKER_02A]: No!
+[SPEAKER_02A]: Yes, you wanted to... No, it wasn't that you wanted to be a captive.
+[SPEAKER_01A]: I didn't waste him until she hit the man.
+[SPEAKER_02A]: You wanted to waste him.
+[SPEAKER_02A]: Yeah, you said it.
+[SPEAKER_02A]: You said you wanted to waste him because you know, oh, something bad's gonna happen.
+[SPEAKER_02A]: Let's just kill him and leave him.
+[SPEAKER_01A]: And then when something bad happened, I killed him and left him.
+[SPEAKER_02A]: No, the group said, I actually said we might need him, but you just decided to kill him.
+[SPEAKER_01A]: What are you talking about?
+[SPEAKER_01A]: I didn't kill him until the shit broke out.
+[SPEAKER_01A]: Do you know the retarded guy that was hanging out with gouge that stopped halfway down the walkway that I'm sure was trapped and that it's only because of the idiocy of the guards on the other end that we didn't get dropped into the water with that dumb ass shark?
+[SPEAKER_01A]: I did.
+[SPEAKER_02A]: I did get dropped into the water.
+[SPEAKER_01A]: And who saved you?
+[SPEAKER_02A]: That's right.
+[SPEAKER_02A]: You're a levitate.
+[SPEAKER_00A]: You're a levitating spell.
+[SPEAKER_02A]: When do I get to learn that one, huh?
+[SPEAKER_02A]: Levitate stones.
+[SPEAKER_01A]: Second level.
+[SPEAKER_01A]: You're gonna get a lot more brass bowls in the shins before you get to levitate.
+[SPEAKER_01A]: Can you handle it?
+[SPEAKER_01A]: If you can't handle it...
+[SPEAKER_02A]: I'm here.
+[SPEAKER_01A]: Okay, well stop complaining.
+[SPEAKER_02A]: I'm not complaining.
+[SPEAKER_01A]: Sure you are.
+[SPEAKER_02A]: You wanna see me complaining?
+[SPEAKER_01A]: Oh, you mean there's more to the temple?
+[SPEAKER_01A]: Oh, yeah.
+[SPEAKER_02A]: Oh, let's see it.
+[SPEAKER_02A]: Well, you're not busting my shins.
+[SPEAKER_02A]: Right now, we're just walking up these bullshit stairs.
+[SPEAKER_01A]: So what you're saying is when you get emotionally unstable, you're gonna react.
+[SPEAKER_02A]: Oh god, here we go.
+[SPEAKER_01A]: I'm telling you, some of these spells require concentration to maintain.
+[SPEAKER_01A]: If you're gonna be all emotional and shit, that's not gonna work.
+[SPEAKER_02A]: Who said the fuck I was emotional?
+[SPEAKER_02A]: Do I sound like, do you hear tears?
+[SPEAKER_01A]: You do, yes, yes.
+[SPEAKER_01A]: Yes, yes, and yes.
+[SPEAKER_02A]: Well clearly you've been abused.
+[SPEAKER_02A]: There's no, there's no tears.
+[SPEAKER_01A]: I- You don't have to have tears to have a temper tantrum.
+[SPEAKER_02A]: Okay, well if I was having a temper tantrum, I feel like I'd be bouncing off the wall.
+[SPEAKER_00A]: Jude is not sure that Paul Rivera even has tear ducts.
+[SPEAKER_00A]: The two of you walk upstairs arguing as you go.

@@ -1,26 +1,43 @@
 # Cast Mapping — Owen Shows His Face (6th Wealsun)
 
-`Owen_shows_his_face_6th_Wealsun.txt` · Book Two. Maps the diarization speaker tags to who is actually talking, for turning the raw session into prose. **A tag is a voice, not a fixed character** — one tag can carry the DM's narration, an NPC's dialogue, and a player's out-of-character asides, and tags can bleed between speakers. Best inference from direct mentions, personality cues, and story context; **ambiguities flagged below for author correction.**
+`Owen_shows_his_face_6th_Wealsun.txt` · Book Two. Maps the diarization speaker tags to who is actually talking, for turning the raw session into prose. **Character-locked tags:** the **A-series** is reserved for player characters and DM narration; **NPCs use the B-series**. Best inference from direct mentions, personality cues (`characters/`), and story context; **ambiguities flagged below for author correction.**
 
-**Cast (index):** Folsom, Owen Black (NPC), Torus (NPC).
-**In the room (2 voices):** Folsom (his player, in-character + OOC asides) and the DM (narration + voicing Owen Black and the NPC Torus). No other player is present — this is Folsom alone with Owen, walked into a trap.
+**Cast (index):** Folsom (PC), the DM, Owen Black (NPC), and **Torus** (NPC — Cain Toli's Suel handler; *not* the PC Tyrus).
+**In the room (2 voices):** Folsom (his player) and the DM (narration + voicing Owen and Torus). No other player is present — this is Folsom alone, walked into a trap.
 
-## Speaker → character mapping
+## Speaker → character mapping (final, character-locked)
+Crew registry: DM `00A`, Folsom `07A`, Owen Black `01B`. Torus is the scene's second NPC → **`02B`**.
 
-| Tag | Primary speaker | Also carries | How we know |
-|-----|-----------------|--------------|-------------|
-| **SPEAKER_01** | **The DM** — narration, plus Owen Black (IC) and Torus (IC) | Combat/dice mechanics; occasional bleed of Folsom's player (e.g. 225 "I pull out my rapier", 234 "I want to attack him") | Carries all the docks/cabin narration (1–74), Owen's dialogue ("This is Tyrus' new boat" 17–18; "first a drink" 134), Torus's dialogue (77, 88), and every DM prompt/roll call. |
-| **SPEAKER_00** | **Folsom** (his player) — in-character dialogue + out-of-character table talk | Bleed of DM lines during combat (e.g. 293 "Do you want to try and get away?", 342–343 action-economy rulings) | The nervous replies to Torus about the artifact (79–86, 93–96), "I appreciate that, Owen. Tyrus is a good friend of mine" (109–110), and the whole escape sequence in first person. Also all the "roll/dex bonus/is it an action" asides. |
+| Tag | Character | Role | Lines |
+|-----|-----------|------|-------|
+| **SPEAKER_00A** | The DM | Narration + combat adjudication | 161 |
+| **SPEAKER_01B** | Owen Black | NPC — springs the trap, reveals the betrayal | 43 |
+| **SPEAKER_02B** | Torus | NPC — Cain Toli's Suel handler in the cabin | 18 |
+| **SPEAKER_07A** | Folsom | PC — the whole scene from his POV; blinds Owen and escapes | 147 |
 
-## Flagged ambiguities (author: please correct)
-- **Torus (NPC) vs Tyrus (PC) — homophone trap.** This transcript's body has been hand-disambiguated per `worldbuilding/Name_Normalization_Key.md`. **Torus** is the Suel man in the cabin (Owen's Toli handler): lines **41, 54, 75, 77, 88, 101**. **Tyrus** is the paladin PC, referenced but not present: the new boat Owen procured (**17, 18, 21**), the crew/party they should "wait for" (**28**), Owen's regretful "I do feel bad about Tyrus… he was a good friend" (**106**), and Folsom's cover line "Tyrus is a good friend of mine" (**110**). Do not let a later pass re-merge these two names.
-- **Tag swap at 19–21.** 19 "Really?" (tag 01) is Folsom reacting; 20 "Yeah." (tag 00) is Owen answering — the two voices are crossed here. 21 "Was it pre-established that you bought Tyrus a new boat?" is the player asking the DM (pure OOC), captured under Folsom's tag.
-- **Combat bleed both directions.** Through the fight (186–350) player action-declarations land under the DM tag (225, 234) and DM rulings/prompts land under Folsom's tag (293, 342–343). Attribute by content, not tag.
-- **Garbled proper nouns to normalize in prose:** "Kane/Cain/Keoland totally" → **Cain Toli** (76, 112, 116); "Portoli" → **Port Toli** (50, 74); "the stone" → **the Orb** (87–88); "the Lich Azorak" → **Acerak** (89); "this dude is a soul" / "Asul" / "the Toli" → **Torus, a Suel man** (69, 121, 156). Line 102 also stumbles ("Folsom goes, I mean not Folsom, Owen Black says…") — the speaker is Owen.
+Raw layout: **raw00** = Folsom; **raw01** = DM **and** Owen **and** Torus (separated by content). Owen (`01B`) and Torus (`02B`) both live on raw01 with the DM.
 
-## Out-of-band table chatter
-Recommended `[out-of-band]` lines/ranges: **21, 58–62, 122–124, 137–149, 163–166, 171–178, 186–194, 197–199, 202–215, 223–224, 230–232, 236–247, 250–263, 265–281, 289–298, 303–311, 313, 317–318, 321–333, 335–337, 340–348.** (Perception/insight and initiative calls and their dice results; d20/attack/damage rolls and dex/charisma-bonus math; saving-throw and blind-duration rolls; action-economy rulings — "it's an action," "you've already done a cantrip," Vicious Mockery action vs bonus action; grid movement counting and table-position/reach logistics; the "manacles are like cuffs" clarification; and pure real-table chatter at 303–307 — "I'm just grabbing my beer and my cake … Actually I'm gonna drink the tank." Owen's IC dialogue, Torus's IC dialogue, and DM narration are left intact even where the tag is wrong.)
+**Author review applied (2nd pass).** Owen credited for "I have a friend watching it" (37), "I've got a bottle" (49), "Here, take a seat" (64), "First a drink" (134) — each **split** off the DM narration (5 splits total, later line numbers shift). **Torus** credited for "I'll light a lantern" (65), "It's there / Drink it" (158–159), and the knife line "We're being friendly here, not kind" (156 split). 116 → "Cain Toli"; 120 and 162 lines extended; 163 → Folsom, 166 → DM; 181 toast fixed ("…Here's rum in your eye!").
+
+## Point of the conversation
+Owen walks Folsom down the Redshore docks and lures him aboard a sloop he calls "**Tyrus's new boat**" — into a cabin where **Torus**, a Suel man working for **Cain Toli**, is waiting. Owen drops the friendly act: Folsom is to be **Cain Toli's prisoner** (Owen is "being paid very well"), Merrick and the others "won't be alive much longer," and Owen "feels bad about Tyrus." Torus quizzes Folsom about the artifact — the **Orb**, made by the lich **Acerak**, that Cain learned of from the swamp necromancer — and produces manacles. Folsom stalls for a drink, then **hurls the shot of black rum into Owen's eye to blind him**, draws his rapier, stabs Torus across the table, and bolts. Owen yells "stop him!"; Torus gives chase with a knife; Folsom wounds him again (rapier + Vicious Mockery) and escapes down the docks, running back toward the Chart Room — slowing as he nears, dreading he'll find his friends dead. **This is Owen's on-page betrayal.**
+
+## Hardest calls / flagged ambiguities (author: please correct)
+- **Torus (NPC) vs Tyrus (PC) — homophone.** Kept disambiguated: **Torus** = the Suel handler in the cabin (`02B`, lines 43–44, 77–78, 88–92, 97–98, 101, 127–128, 156). **Tyrus** = the paladin PC, referenced but absent (the "new boat," "wait for Tyrus," Owen's "I feel bad about Tyrus," Folsom's cover "Tyrus is a good friend of mine"). Do not let a later pass merge them.
+- **19–20 crossed voices:** 19 "Really?" is Folsom (on the DM tag); 20 "Yeah" is Owen (on Folsom's tag).
+- **102** "Folsom goes, I mean not Folsom, Owen Black says…" — a DM self-correction; the speaker is **Owen** (`01B`).
+- **115–117** ("I'm being paid very well… Cain Toli would find you entertaining") — assigned to Owen; could be Torus. Verify.
+- **Combat bleed (186–350):** player action-declarations and DM rulings cross tags; attributed by content.
+
+## Game mechanics (attributed, 146 lines)
+The perception/insight check (58–62), table positioning/room-layout (137–149), the drink-glass/flammability planning (163–166, 171–178), and the whole fight's dice — the eye-throw to-hit/blind rolls (186–194, 197–199, 202–215), the rapier attack (223–247), movement/escape logistics (250–298, 308–313), Vicious Mockery rolls (317–348). DM instructions/results → `00A`; Folsom's rolls → `07A`.
+
+## Out-of-band (raw tags kept, 9 lines)
+**21** ("Was it pre-established that you bought Tyrus a new boat?" — OOC continuity check), **122–124** ("Manacles are like cuffs" vocabulary aside), **303–307** ("I'm just grabbing my beer and my cake… I'm gonna drink the tank" — real-table chatter).
+
+## Names to normalize in prose
+"a soul" (69) / "Asul" (156) / "Toli reaches down" (121) → **Torus** (a Suel man); "Portoli" (50, 74) → **Port Toli**; "Kane/Cain/Keoland totally" (76, 112, 116) → **Cain Toli**; "the stone" (87) → **the Orb**; "the Lich Azorak" (89) → **Acerak**; "Owen Blackwell" (181) → **Owen Black**.
 
 ## Speaker discontinuities
-- 19–21: voices crossed (Folsom under 01, Owen under 00) before settling.
-- 186 onward: dense interleave of dice/tactics with IC action; player and DM lines repeatedly cross tags for the rest of the fight.
+- raw01 carries DM, Owen, and Torus with no tag change; 19–20 cross with Folsom.
+- Dense DM↔player bleed through the fight (186 onward).

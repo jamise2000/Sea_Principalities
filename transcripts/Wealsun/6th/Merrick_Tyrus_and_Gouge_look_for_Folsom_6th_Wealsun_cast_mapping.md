@@ -1,30 +1,42 @@
 # Cast Mapping — Merrick, Tyrus and Gouge Look for Folsom (6th Wealsun)
 
-`Merrick_Tyrus_and_Gouge_look_for_Folsom_6th_Wealsun.txt` · Book Two. Maps the diarization speaker tags to who is actually talking, for turning the raw session into prose. **A tag is a voice, not a fixed character** — one tag can carry the DM's narration, an NPC's dialogue, and a player's out-of-character asides, and tags can bleed between speakers. Best inference from direct mentions, personality cues, and story context; **ambiguities flagged below for author correction.**
+`Merrick_Tyrus_and_Gouge_look_for_Folsom_6th_Wealsun.txt` · Book Two. Maps the diarization speaker tags to who is actually talking, for turning the raw session into prose. **Character-locked tags:** the **A-series** is reserved for player characters and DM narration; **NPCs use the B-series**. Best inference from direct mentions, personality cues (`characters/`), and story context; **ambiguities flagged below for author correction.**
 
-**Cast (index):** Gouge, Merrick, Tyrus, the bar owner (NPC).
-**In the room (4 voices):** three players — Merrick, Gouge, Tyrus — plus the DM (narration + voicing the bartender/bar owner and the surviving hired thugs). Folsom is absent this whole scene; he is off with Owen.
+**Cast (index):** Gouge, Merrick, Tyrus (PCs), the DM, the **bar owner** (NPC), and the surviving **hired thugs** (NPC). Folsom is absent (off with Owen).
+**In the room (4 voices):** three players plus the DM (who voices the bartender and the thugs).
 
-## Speaker → character mapping
+## Speaker → character mapping (final, character-locked; crew registry)
+Crew registry: DM `00A`, Gouge `04A`, Merrick `05A`, Tyrus `06A`. NPCs: **bar owner `01B`**, **hired thug(s) `02B`**.
 
-| Tag | Primary speaker | Also carries | How we know |
-|-----|-----------------|--------------|-------------|
-| **SPEAKER_02** | **The DM** — narration + bar owner/bartender + hired-thug NPCs | Time/logistics rulings; the setting description of Redshore (184–188) | Loot description (10–12), the bartender's "this has been very entertaining… a respectable place" (45–47, 62–63), the thug's "I don't know, he just hired me" (30, 35–43), and all the "you walk five minutes / it's empty" narration. |
-| **SPEAKER_00** | **Merrick** (marine; Owen's cousin) | Bleed of the interrogated thug's answers (32, 34 within the "Who hired you?" exchange) | He's the one pushing to find Folsom **and** Owen ("I think we should go find Folsom… and Owen" 130–131); scans the water for Toli ships like a mariner (150–155); asks Gouge what was on the body (102). |
-| **SPEAKER_01** | **Gouge** (knife-man / rogue) | — | Loots the dead man and pockets the rapier, dagger and ~50 principality gold (7–27, 107–109); "I sit down and pour an ale" (65); ends by peeling off to "go back by the bar and hide in shadows" (247–260), which sets up the next transcript. |
-| **SPEAKER_03** | **Tyrus** (paladin PC — NOT the NPC Torus) | Bleed of a thug's line at 100 ("only worth five silver pieces") | Runs the interrogation and makes the calls ("Make them drop their daggers" 58–59; "Make better choices with your life. Get up and go" 83–84). The DM addresses him directly as Tyrus at 261 ("Tyrus, are you going to stay at the boat?"). |
+| Tag | Character | Role | Lines |
+|-----|-----------|------|-------|
+| **SPEAKER_00A** | The DM | Narration + adjudication | 83 |
+| **SPEAKER_01B** | Bar owner | NPC — wants his "respectable place" back; the Earl will send men | 8 |
+| **SPEAKER_02B** | Hired thug(s) | NPC — the interrogated captives ("he just hired me") | 14 |
+| **SPEAKER_04A** | Gouge | PC — loots the dead, later peels off to the bar | 50 |
+| **SPEAKER_05A** | Merrick | PC — pushes to find Folsom *and* Owen; scans for Toli ships | 51 |
+| **SPEAKER_06A** | Tyrus | PC — runs the interrogation (the paladin PC, **not** the NPC Torus) | 63 |
 
-## Flagged ambiguities (author: please correct)
-- **Tyrus (PC) here, never the NPC Torus.** SPEAKER_03 is the paladin PC. The Suel handler Torus does not appear in this transcript.
-- **Interrogation bleed at 31–43.** "Who hired you? / That guy. / What guy? / The dead guy." (31–34) is a two-way exchange — Merrick's questions and the thug's answers collapsed under SPEAKER_00. Likewise 35–43 mixes Tyrus's/Merrick's questions with the thugs' replies under 02/03/00. Split by content: the captives say "he just hired me," "same thing," "ten silver coins," "at least we're alive."
-- **The tracking banter (161–167) is crossed.** Gouge (01) needles Merrick to "track his footprints… don't you track things?"; the retorts "I wear high heels" (00) and "It's an endogenous cologne, thank you" (167, tagged 01 but clearly the tracker's comeback) are out-of-character table riffing — the perfume/cologne joke is not story dialogue.
-- **Line 100** "I can't believe our lives are only worth five silver pieces" reads as one of the released thugs, though tagged to Tyrus (03).
-- **Garbled proper nouns:** "principality/Principalities coins" = Sea-Principality gold (18–20, 109–110); "Toli rats" = Torus's Toli hirelings/associates (209–210); "Tim Tufts / three Tufts" appears to be the DM's slang for the hired toughs (70, 126). "Earl of Redshore's castle" (185) is scene-accurate.
+Raw layout: **raw02** = DM + bar owner + thugs; **raw00** = Merrick; **raw01** = Gouge; **raw03** = Tyrus.
 
-## Out-of-band table chatter
-Recommended `[out-of-band]` lines/ranges: **104–105, 159–167, 178–179.** (104–105 is the DM's OOC stage cue "Well, role play. Sit down and talk to Gouge"; 159–160 is player meta "he just left a few minutes ago… we have about ten minutes of combat, if that"; 161–167 is the tracking/perfume table banter; 178–179 is travel-time logistics "How long do you want to walk up the dock? Say five minutes." In-character interrogation, the bartender's lines, and the Redshore setting description at 184–188 are left intact.)
+## Point of the conversation
+After the brawl, the party loots the dead leader (a fine rapier, a dagger, ~50 Sea-Principality gold), interrogates the two surviving thugs — who know only that "the dead guy hired them" for coin (they're **Toli rats**) — tips the bartender ten gold, and lets the captives go. Realizing they were **specifically targeted** (someone paid Toli muscle to beat them in the bar), they set out to find **Folsom and Owen**: searching the night market and docks, Merrick scanning the water for Toli ships, finding no trace. They return to the moored cutter, light lanterns on deck as a signal in case Folsom finds his way back, and split up — **Gouge heads back to the bar to hide in the shadows**, while Merrick and Tyrus stay to guard the boat and the dock. (Sets up *Gouge Waits in the Dark*.)
+
+## Hardest calls / flagged ambiguities (author: please correct)
+- **Tyrus (PC), never the NPC Torus** — `SPEAKER_06A` is the paladin; the Suel handler Torus is not in this scene.
+- **Split "X says," frames:** the bartender's lines (45, 62) and a thug's line (91) were split off the DM narration frames.
+- **Interrogation cross-talk (31–43):** "Who hired you? / That guy. / What guy? / The dead guy." — split into Merrick's questions (`05A`) and the thug's answers (`02B`).
+- **Bleed onto the wrong tag:** thug lines that landed on player tags — **70** ("ten silver coins"), **100** ("our lives are only worth five silver pieces") → thug `02B`; and several DM answers that landed on player tags (146, 209 "they're Toli rats", 223, 227) → DM.
+- **The split-watch debate (247–256)** is tangled on Gouge's tag: Gouge insisting on going alone vs the others wanting to stay together. I split it Gouge `04A` / Merrick `05A` by content — please scan.
+- **204–207** ("Get to the same old fuck… I'm getting laid") reads as garbled OOC banter but wasn't clearly separable — left on Gouge; confirm.
+
+## Game mechanics (attributed, 4 lines) & out-of-band (4 lines)
+- `[game mechanics]`: **104–105** (the DM's "well, roleplay it — sit down and talk to Gouge" stage direction) and **178–179** (walk-time logistics — "how long do you want to walk… say five minutes").
+- `[out-of-band]`: **160** (meta — "we have about ten minutes of combat, if that") and the **perfume/high-heels tracking jokes** (164, 165, 167). The genuine tracking attempt around them (159, 161–163, 166) is kept in-story.
+
+## Names to normalize in prose
+"principality / Principalities coins" → **Sea-Principality gold**; "gold points" (48) → **gold coins**; "Tim Tufts / three Tufts" (70, 126) → the DM's slang for the **hired toughs**; "Toli rats" → **Torus's Toli hirelings**; "sacked outside" (203) → **stacked outside**.
 
 ## Speaker discontinuities
-- 28–43: rapid interrogation cross-talk; questioners and captives share tags 00/02/03.
-- 161–167: tracking joke, comeback lands on the wrong tag (167 under 01).
-- 100: a thug's line under Tyrus's tag.
+- raw02 carries DM + bar owner + thugs; separated by content, with the "X says," frames split.
+- Interrogation (28–43) and the split-watch debate (247–256) cross tags.

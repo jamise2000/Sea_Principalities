@@ -1,0 +1,5 @@
+# Cast for Paul_waits_for_Jude_5th_Wealsun
+# Expected voices: 2
+DM
+Paul
+servant (NPC, DM-voiced)

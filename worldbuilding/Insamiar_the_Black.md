@@ -76,6 +76,7 @@ The Hool Marshes hold **many reptile religions**, and the deep contest running u
 - `The_Sea_Principalities.md` — Swampton and the Followers of Insamiar; "Riding the Dragon"; the Hool Marshes and Westkeep; lizard men in the marsh.
 - `magic_system.md` — Ujor Udias, Tiamat and the Orbs of Dragonkind, the alchemy-with-a-mystery register.
 - `The_Dragon_Isles.md` — the turtle dragons and Oceanum Perfide.
+- `The_Yuan-ti.md` — the serpent-transformed Scarlet-Brotherhood agents who venerate Insamiar and invoke the Gift — Insamiar's urban/Suel face beyond the marsh cult.
 
 ## Open Threads (established but unresolved — do not silently close)
 
@@ -85,3 +86,10 @@ The Hool Marshes hold **many reptile religions**, and the deep contest running u
 - **The lizard men's slide.** The exact mechanism by which lizard men, absent the turtle dragons, fall toward Insamiar — do they join the kobold rites, lose their faith, or something else? To dramatize, not to hand-wave.
 - **Cain Toli's orb and the marsh.** The unfolding consequence of the orb being spent on war rather than on holding the turtles in the marsh; not yet dramatized.
 - **Raloro.** An arch-druid/naturalist source figure (CY 100) — available to develop (a druidic tradition in or near the marsh, a body of naturalist record the protagonists might consult).
+
+
+## Author ruling — "the Gift of Insamiar" is a poison (dragon-origin is a rumor)
+
+- **Canon (author ruling):** The **Gift of Insamiar** is a **poison**, **rumored** to come from the dragon **Insamiar the Black**. The dragon-origin is an **in-world rumor, not confirmed fact** — render it as belief/hearsay, never as authoritative narration.
+- This is the field usage, e.g. Owen's **"special draught"** in `Owen_and_Torus_plan_6th_Wealsun` (the poison he caught in the eye when it was meant for Folsom).
+- **Reconcile with the terminology above (flag for author):** the ledger reconciles **Blessing = the sipped potion** and **gift = the offering (polished stone or silver image)**. This ruling uses **"Gift of Insamiar" = the poison itself**. Open question: is this poison the same black liquid as the "Blessing" (with "gift" doing double duty), or a distinct substance? Recorded as given; left for the author to settle.

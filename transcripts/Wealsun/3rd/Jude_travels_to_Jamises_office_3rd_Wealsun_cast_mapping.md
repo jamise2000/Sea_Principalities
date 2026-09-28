@@ -5,12 +5,17 @@
 **Cast (index):** Jude.
 **In the room (2 voices):** the **DM** (narrating + voicing **Lord Jamis**) and **Jude**'s player (in-character Jude + out-of-character asides). Jude's private debrief with Lord Jamis, brought in by a hidden route.
 
-## Speaker → character mapping
+## Speaker → character mapping (two tags)
 
-| Tag | Primary speaker | Also carries | How we know |
-|-----|-----------------|--------------|-------------|
-| **SPEAKER_00** | **Jude** (the PC) + Jude's player OOC | An occasional Jamis line (tag bleed) | Delivers Jude's OOC-to-DM asides ("Just also to remind the DM real quick," 5; "now this is to the DM," 105; "sorry, to the DM," 134) and Jude's first-person Helm account (119–191). |
-| **SPEAKER_01** | **DM** — narration + **Lord Jamis** | A few of Jude's lines (tag bleed) | Opens with narration (1–4); voices Jamis throughout — the wine, "This is a vintage from Keoland" (55), the patronage speech (208–212), the tower + Royal Library offer (217–228), the Scarlet Brotherhood exposition (233–248). |
+Two people in the room: **Lord Jamis** (voiced by the DM, who also narrates) and **Jude**. Per the author's convention the sub-tag names the **character**, so every line is one of two tags:
+
+| Tag | Who |
+|---|---|
+| **SPEAKER_01A** | DM / **Lord Jamis** (narration + Jamis's dialogue) |
+| **SPEAKER_00A** | **Jude** |
+
+The diarizer's original bleed has been resolved to the correct character (e.g. 22 "You realize that" → Jamis/DM; 36 and 79 → Jude; Jude's asides at 35, 47, 50, 52, 63, 200, 202, 213, 232 → Jude; Jamis's "They answer to me" at 78 → Jamis). Out-of-band table chatter keeps the `[out-of-band]` prefix.
+
 
 ## Flagged ambiguities (author: please correct)
 

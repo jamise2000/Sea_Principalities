@@ -1,21 +1,21 @@
-[SPEAKER_00]: Paul Rivero, fourth and well son, returns to his private room.
-[SPEAKER_00]: So what do you think about this last day?
-[SPEAKER_01]: I'm here.
-[SPEAKER_01]: It's whatever.
-[SPEAKER_01]: Some bullshit, but you know.
-[SPEAKER_00]: No, I mean, really, you've kind of made a decision, but how do you feel about that?
+[SPEAKER_00A]: Paul Rivero, fourth and well son, returns to his private room.
+[SPEAKER_00A]: So what do you think about this last day?
+[SPEAKER_02A]: I'm here.
+[SPEAKER_02A]: It's whatever.
+[SPEAKER_02A]: Some bullshit, but you know.
+[SPEAKER_00A]: No, I mean, really, you've kind of made a decision, but how do you feel about that?
 [out-of-band] [SPEAKER_01]: I think going as a mage will definitely be better for my character because, as I was saying earlier with him, I want to be able to combat against other forces that are not just, like, physically.
-[SPEAKER_00]: So, do you have any questions that you want to ask me?
-[SPEAKER_00]: Historically, or...?
-[SPEAKER_00]: What's up with the Toli, actually?
-[SPEAKER_00]: Because I don't know much about them.
-[SPEAKER_00]: Okay, so the Toli are a... You know how Monmurg is a city-state, Fairwind is an island, Flotsam, Jetsam, they're islands.
-[SPEAKER_00]: Toli is a city-state, and they are another prince in the principality.
-[SPEAKER_00]: Prince Sikond, Sikondforth,
-[SPEAKER_00]: Is a guy that's there, and the difference between them and all the other princes is they're Sewell.
-[SPEAKER_00]: So, a little different, but they are kind of equivalent to the other five princes.
-[SPEAKER_00]: There are five princes, the Toli, Fairwind, Flotsam, Jetsam, and Monmurg.
-[SPEAKER_00]: Then there are two Plars in the Principality that don't vote, but they're very powerful, the Plar of Berghof.
-[SPEAKER_00]: Which is the Duckeberghof.
-[SPEAKER_00]: And the Plar Westkeep, which is the Plar up north on the Hule River.
-[SPEAKER_00]: Cool.
+[SPEAKER_00A]: So, do you have any questions that you want to ask me?
+[SPEAKER_00A]: Historically, or...?
+[SPEAKER_02A]: What's up with the Toli, actually?
+[SPEAKER_02A]: Because I don't know much about them.
+[SPEAKER_00A]: Okay, so the Toli are a... You know how Monmurg is a city-state, Fairwind is an island, Flotsam, Jetsam, they're islands.
+[SPEAKER_00A]: Toli is a city-state, and they are another prince in the principality.
+[SPEAKER_00A]: Prince Sikond, Sikondforth,
+[SPEAKER_00A]: Is a guy that's there, and the difference between them and all the other princes is they're Sewell.
+[SPEAKER_00A]: So, a little different, but they are kind of equivalent to the other five princes.
+[SPEAKER_00A]: There are five princes, the Toli, Fairwind, Flotsam, Jetsam, and Monmurg.
+[SPEAKER_00A]: Then there are two Plars in the Principality that don't vote, but they're very powerful, the Plar of Berghof.
+[SPEAKER_00A]: Which is the Duckeberghof.
+[SPEAKER_00A]: And the Plar Westkeep, which is the Plar up north on the Hule River.
+[SPEAKER_02A]: Cool.

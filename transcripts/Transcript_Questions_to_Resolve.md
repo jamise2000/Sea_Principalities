@@ -14,7 +14,7 @@ These have been settled by James and applied to the Name Normalization Key, the 
 
 - **Alchemist's name = Albashon** (§B). The transcript's "Varen/Viren" was normalized to Albashon in `Jude_in_Alchemy_shop` (lines 1, 32); logged in `manuscript_divergences.md`. Consistent everywhere.
 - **Paul's family name is NOT "Azani" (that he knows)** (§B, §D). Correction to this doc's earlier note: the alchemist **Albashon** *assumes* Paul is kin to **Zafar Azane** and **Lady Jamis** (Suel house **Azani**) — the line is **foreshadowing**. Paul is in fact of Azani blood through his father, but does not know it.
-- **Grayson = Grayson Jamis**, son of **Lord and Lady Jamis**, and **Paul's father** (§D) — making Paul a grandson of Lord & Lady Jamis and grand-nephew of Zafar Azane. Recorded in `characters/Jamis.md`, `characters/Paul.md`.
+- **Grayson = Grayson Jamis**, son of **Lord and Lady Jamis** and nephew of Zafar Azane, and Paul's **probable (unproven) father** (§D) — which, if it holds, makes Paul a grandson of Lord & Lady Jamis. Recorded in `characters/Jamis.md`, `characters/Paul.md`.
 - **Sacnon Toli** is the **Prince of Port Toli** and **Cain Toli's leader** (§H1) — the power Cain acts under.
 - **The two greatest transmuters in Keoland are Edium Nicond and Zafar Azane** (§B).
 - **The anti-sahaugin powder — fully resolved** (§C). It **is copper sulfate**, but Albashon never says so: in dialogue he calls it by the old Latin **vitriolum** (blue vitriol) and "copper and sulfur, combined in a way few know." His "sulfur and iron" line refers to **iron sulfate** (green vitriol), which he reckons more poisonous to a man. It was **invented and mass-produced by the Duke of Berghof** (some *mistakenly* assume the Fieraxians made it). **No one but the Duke knows how long it takes to make — and mass-producing it is a further secret**, so identifying the compound settles nothing. Supply was **cut off ~40 years ago** (not common knowledge); **~25 barrels** remain to the Prince of Monmurg (**21 on the island + 4 rafted home**). Eradication dates **CY 427–430** fit the timeline; **Pocra Sententia** is a primary powder staging ground. **The dragon scheme *is* the powder scheme:** Cain uses the turtle dragon to isolate Monmurg *and* seal its remaining powder stores, to leave it defenseless against the sahaugin. All applied to the powder, magic, orb, and Dragon-Isles ledgers.
@@ -31,6 +31,8 @@ These have been settled by James and applied to the Name Normalization Key, the 
 - **Is Jude Yuan-ti? — No** (resolved from Book One, `characters/Jude.md`). Jude is an elf with something older in him (the "dragon in the family tree" hint); his serpent-slit eyes **predate** the Scarlet Brotherhood. The Brotherhood's transmuter once trapped him in a serpent's shape (Ch. 4, Ch. 11) and "worried at something already in him." The captured Brotherhood man's matching "snake eyes" in `capture_suspects` is that transmuter's **serpentine signature**, not proof Jude is Yuan-ti.
 - **Jude's Scarlet Brotherhood past** — a temple raided with Karmirg; a season trapped in serpent-shape (Ch. 4, Ch. 11). **His homeland "Eldorian wood" is non-canon** — invented at the table; it appears nowhere in Book One.
 - **Grayson and Paul's mother** — resolved above (Grayson = the Jamises' son, probable father; mother = Jeon's sister).
+- **Owen/Merrick/Leslie (§D/§I):** “Blackwell” = Folsom misspeaking (a tic), canonical **Owen Black**; Owen & Merrick are **cousins but not kin to Prince Jeon** (Captain Nado = Owen’s uncle, Merrick’s father); **Leslie is the second escapee/“boy”** but **not a noble**.
+- **E/G/H/I (Book One pass):** Fairwind (witness = Paul; allied *with* the Toli; fate left open) and the captive Toli (killed by Jude) settled; council = five princes + advising Plars **Hokar & Westkeep** (the **Plar of Hokar = the Duke of Berghof**, a Sea Principalities lord, not Keoland); **Redshore** is the Earl’s (a Keoland noble) under **Gradsul**; the **blockade** is Keoland/Gradsul via Redshore; the **Suel houses** (ten great + two lesser; four active: Neheli/Rhola/Linth/Toli) and the **Keoland succession** (King **Kimbertos Skotti** died; houses vie for the Lion Throne) are settled; **Scarlet Brotherhood ≠ Scarlet Rat**; the **thieves’-guild** thread (Janus/Kalisi) is set up. Still open: only **Book Two** internals that later transcripts pick up — Albashon’s death & the “two compatriots” (§E), the black ichor (§H7), and Sewell/prisoners/supplies (§I).
 
 Everything below remains open for you to rule on.
 
@@ -50,36 +52,29 @@ These are the recurring reasons a passage is hard to turn into prose. They apply
 
 ---
 
-## B. ★ Names and proper nouns to make canonical
+## B. Names and proper nouns — ✅ all resolved
 
-The audio diarization garbles names badly, and several are single-sourced. Pick one canonical spelling for each and add to the Name Normalization Key. Grouped by how confident the intended form is.
+*Every item below has been ruled and applied to `worldbuilding/Name_Normalization_Key.md` and the ledgers. Kept as the record of what each garble resolves to — nothing here is still open.*
 
-**Confident (ASR variants of a known name):**
-- **Cain Toli** — appears as Cain Tole, Kane Tolley, Keitoly, Caintoli, King Toli, "Kane totally."
-- **Prince Jeon** — Gian, Gion, John, Jean, Percian, "Prince Jeanne," Sikond(forth).
-- **Lord Jamis** — Jameis, James, Janison, "Janice," Sir Jameis.
-- **Tyrus** (paladin PC) — Tyrius, Taurus. (Confirms: the "Torus" in earlier notes for the *boat* thread is the PC **Tyrus**; the NPC **Torus** is only in `Owen_shows_his_face`.)
-- **Folsom** — Folsum, and collides with the *island* Flotsam (see geography).
-- **sahuagin** — Skagen, Zahagin, "sahagin" (and note the canon file spells it "sahaugin").
-- **Yuan-ti** — "jaunty," "yawn-tee," "Yon-T."
-- **roll initiative** — "roll my nash," "niche," "anish," "a niche."
-- **Suel** — "Sewell," "Seul," "a soul" (spelled out on-mic as S-U-E-L, `Jude_in_Alchemy_shop` ~L440).
+**ASR variants of known names (all in the Key):** Cain Toli · Prince Jeon · Lord Jamis · Tyrus (PC) vs Torus (NPC) · Folsom · sahuagin (ledger spelling **sahaugin**) · Yuan-ti · “roll initiative” · Suel.
 
-**Needs your ruling (single-sourced or genuinely unclear):**
-- ★ **The Alchemist's name.** The alchemist-visit/shop/combat transcripts call him **Varen / Viren / Veren** (`Jude_in_Alchemy_shop` L1, 32, 70). Our worldbuilding files call him **Albashon** (from `Leslies_introduction`). "Albashon" never appears in the combat files; "Varen" never appears in Leslie's. **These are the same character under two names — which is canon?** (This affects `characters/Minor_characters.md` and `characters/Leslie.md`.)
-- ★ **Paul's family name: Azani.** The Alchemist says "Rivero is not what your family name is… You do not use the name **Azani**?" (`Jude_and_Paul_visit_Alchemist` ~L90–98). So "Paul Rivero" is an alias; true house = **Azani**. Confirm and spell.
-- **Grayson** — the researcher who wrote the homunculus manual *and* whose notes are the powder formula (`begin_training` L88–100; `Paul_goes_to_fetch_formula` L188). Spelling? Identity?
-- **Sacnon Toli** ("Sacknon") — a Toli who got ward-breaking knowledge from the Duke of Berghof (`Passage` L117–118). A distinct person, or a mis-hearing of Cain?
-- **The Keoland transmuters** — "Safar Azane / Zepharo Zane / Zafar Hazane" and "Ediem Nakhond" (`Jude_in_Alchemy_shop` L209, 272). Both wildly inconsistent.
-- **The powder's origin culture** — "the **Phyraxians** / Fieraxians" made it (`Jude_and_Paul_visit_Alchemist` L186–195). (Note: `Name_Normalization_Key.md` already fixes **Fieraxian** as canonical — confirm this is the same word.)
-- **Fortress "Pocra Sententia"** — "an ancient Suel fortification," the powder's historical staging ground (`Passage`, book passage, L458).
-- **The lich** — "Aserach / Azorak" = **Acerak** (already in the Key), named as the orb's maker (`Passage` L852–862).
-- **Ixid** — "Exit," the one who told Cain how the orb works (`Passage` L852).
-- **Places:** Port Toli (Portoli), Port **Torben/Torpen**, "Adi" on the Azure Bay, the **Hule/Hool River**, **Westkeep**, **Amedio/Imenio jungle**, **Gratzel** (Duke of), **Redshore**.
+**Rulings made:**
+- **The Alchemist = Albashon** (transcript “Varen/Viren” normalized in the body).
+- **Paul’s family name is *not* Azani — that he knows.** Azani is the Suel house of **Lady Jamis** and **Zafar Azane**; the Alchemist’s “You do not use the name Azani?” is **foreshadowing** of Paul’s blood, not a name Paul carries.
+- **Grayson = Grayson Jamis** — son of Lord & Lady Jamis, Zafar Azane’s nephew, and Paul’s **probable (unproven)** father.
+- **Sacnon Toli** — Prince of Port Toli and **Cain Toli’s leader**; a distinct person, not a mis-hearing of Cain.
+- **The two greatest Keoland transmuters = Edium Nicond and Zafar Azane.**
+- **The powder’s origin** — **invented and mass-produced by the Duke of Berghof**; the **Fieraxian** attribution is a mistaken assumption (transcript “Phyraxian” = “Fieraxian”).
+- **Pocra Sententia** — Cain Toli’s fortress **and** a primary anti-sahaugin-powder staging ground.
+- **The lich “Acerak” = Ujor Udias** (the transmuter who took the vanished lich’s name); the orb’s maker.
+- **Ixid** — necromancer of the Sons of Olan who told Cain where the orb lay.
+- **Places (canonical):** Port Toli · **Port Torvin** · **Idee** · the **Hool River** · **Westkeep** · **Amedio** jungle · **Gradsul** · **Redshore**.
 
 ---
 
 ## C. ★ The anti-sahaugin powder (a knot of contradictions)
+
+*✅ Resolved — all eight settled by author ruling; see the ✅ block above and `worldbuilding/The_Anti-Sahaugin_Powder.md`. Kept below as the record.*
 
 This plot device is described many incompatible ways. Pin one answer to each:
 
@@ -96,6 +91,8 @@ This plot device is described many incompatible ways. Pin one answer to each:
 
 ## D. ★ Character backstory questions
 
+*✅ Resolved — Paul, Jude, the Alchemist, Owen, Merrick, and Leslie all settled; see the ✅ block above and the `characters/` files. Kept below as the record.*
+
 **Paul (Azani / "Rivero"):**
 - ★ **Father or uncle?** He's "part of Prince Jeon's family" (`Jude_Paul_confer` L99), "the nephew of Lord Jamis… a Prince Jamis" (`begin_training` L143–145), "your uncle hired me" (`begin_training` L766), but the DM slips "or your father… Prince [Jeon]" (`end_thier_bickering` L17) and `Owen_shows_his_face`-era notes have "your father… Prince [Jeon]." **Is Prince Jeon Paul's father or uncle? Where does Lord Jamis sit in the tree?** This is the single most tangled family question.
 - ★ **Grayson and Paul's mother.** Paul built his homunculus from "the manual… that **Grayson** had been creating"; "he doesn't know about Grayson yet, or your mother" (`begin_training` L88–109). His mother "focused his studies better than most royal scholars… died when he was young" (L204–213). Both are secrets. Who are they?
@@ -111,24 +108,22 @@ This plot device is described many incompatible ways. Pin one answer to each:
 - **His portrait.** `process_the_day` L15–28 is a usable canonical physical/emotional description ("immortally young… more depressed than any human being… his eyes are where everything is"). Flagged so you can lift it.
 
 **The Alchemist (Varen/Albashon):**
-- Knows Paul's true name (Azani) and grandfather (`visit_Alchemist` L90–98). Brother-in-law of Lord Jamis via "Zafar Zane"? — actually the transmuter **Zafar Zane's sister is married to Lord Jamis** (`Alchemy_shop` L284–287); clarify how the Alchemist, Zafar Zane, and Lord Jamis interrelate.
+- Knows Paul's true name (Azani) and grandfather (`visit_Alchemist` L90–98). Brother-in-law of Lord Jamis via "Zafar Azane"? — actually the transmuter **Zafar Azane's sister is married to Lord Jamis** (`Alchemy_shop` L284–287); clarify how the Alchemist, Zafar Azane, and Lord Jamis interrelate.
 
 **Owen Black:**
-- ★ **Owen Black vs "Blackwell."** Corrected on-mic to "Owen Black," of the "Blackwell family… good traders of Monmurg" (`Departure_from_Monmurg` L367–373). Which surname is canon — Black, or Blackwell shortened?
-- **Calls Merrick "cousin"** (`Passage`), and the Redshore ruler has an unnamed **nephew** (`Chart_Room` L72). Are Owen/Merrick tied to Prince Jeon's family? (Squares with Captain Nado being Owen's uncle *and* Merrick's father in `Minor_characters.md`.)
+- **Owen Black — resolved.** His name is **Owen Black**. “Blackwell” is **Folsom misspeaking** (a Folsom verbal tic), not a family name — there is no “Blackwell family.”
+- **Owen & Merrick — resolved.** They are **cousins**, but **not tied to Prince Jeon’s family.** **Captain Nado** is **Owen’s uncle** and **Merrick’s father** (respectively). The Redshore ruler’s “nephew” is unrelated to them.
 
 **Leslie / the second escapee:**
-- ★ In the alchemist-combat transcripts, the person who escapes the sewer with Jude is only "**the boy / the young noble**," never named (`hurries` L368–376; `examines_body` L103). Leslie is named and given a backstory only in the *separate* `Leslies_introduction` session. **Confirm the "boy/young noble" = Leslie** so the drafter can bridge the two sessions — and note the Brotherhood also mistakes **Paul** for "the young prince" (`capture_suspects` L40), which muddies who "the young noble" refers to.
+- **Leslie — resolved.** The second escapee (down into the sewer with Jude) **is Leslie**, the “boy”/“young noble” the Brotherhood reports — but he is **not actually a noble** (a merchant’s son and sage; see `characters/Leslie.md`). The Brotherhood’s “young noble/prince” language is their mistaken read, and the Paul-as-“young prince” confusion (`capture_suspects` L40) is separate.
 
 ---
 
-## E. ★ Contradictions between parallel accounts
+## E. Contradictions between parallel accounts — reconciled from Book One
 
-1. **Who witnessed Fairwind's betrayal, and his fate.** In one telling Paul says only he witnessed it; other accounts imply wider witness. Fairwind is pushed into the water but whether he's alive or dead is open. Also unresolved from the start: does Fairwind work **with** the Toli or **for** them (`Jude_Paul_confer` L269–336)? (*Sources:* `Paul_briefs_Jeon`, Owen/party debriefs, `Departure` L139.)
-2. ★ **How and where the Alchemist died.** Jude picks up the blinded, bleeding Alchemist and carries him **alive** down the stairs into the dark (`Jude_combat_cont` L273–279). But Paul later finds the Alchemist's **body at the bottom of the sewer stairs** with an eye-wound and strange black ichor (`examines_body` L7–22), while the Brotherhood claims "we **have his body**" (`hurries` L369). Did he die mid-flight? Was the body taken or found? These three accounts don't align.
-3. **The captive Toli's death.** "You wanted to waste him" vs "I didn't waste him until the fight broke out" vs "the group said we might need him, but you just decided to kill him" (`process_the_day` L85–101). Who killed the captive, when, and over whose objection?
-4. **The eye wound.** Introduced ambiguously ("if it's his eye… but it's his face," `Jude_combat` L94), recurs unresolved (`Jude_combat_cont` L54–57), then confirmed as the **eye** on the corpse (`examines_body` L7–22). Fine to settle as "eye," just flagging the wobble.
-5. **The "two compatriots."** The Brotherhood says two of the party's compatriots "followed them into the sewers" after Jude and the boy (`hurries` L368–383) — but no such pursuers appear on-screen. Who were they, and what happened?
+- **Fairwind: witness, allegiance, fate — resolved** (`characters/Fairwind.md`; Book 1 Ch. 31—37, 41). **Paul is the direct witness** to the treason — his certain knowledge is what cuts through Fairwind's charm (Tyrus, Folsom, even Merrick are half-won by the man's aristocratic bearing — he is *no spellcaster* — while Gouge, Paul, and Jude see through him). Fairwind deals **with** the Toli, not for them: a **transactional alliance** — he siphoned the Helm's powder for months (a private stash on Fairwind Island; the rest onto the *Sea Ghost*) in exchange for the Toli vouching for him on the council and pressing Jeon for a bigger cut of Monmurg's trade; his motives are gold, old jealousy of Monmurg, and opposition to Jeon's anti-slave-trade campaign. **His fate is deliberately open:** on the bridge he shoved Folsom, pitched Paul into the water, and went over into the shark-filled chasm himself (Ch. 37); afterward *some* report his body taken by a shark, *others* find only soft footprints leading east and no drowned man (Ch. 41). Dead-or-escaped is an intentional mystery (matches `Departure` L139).
+- **The captive Toli's death — resolved:** **Jude killed him** (Book 1 Ch. 36 *Voices in the Dark*; `magic_system.md` — Magic Missile point-blank, the body pitched off the ledge into the water). The party had weighed keeping him for questioning; Jude ended it regardless. (This is the "Jude did it, not Paul" ruling.)
+- **Still Book Two (Book One can't settle):** how/where the Alchemist (Albashon) died (§E2), the eye-wound wobble (§E4), and the "two compatriots" who supposedly followed into the sewer (§E5) all belong to the 4th-Wealsun alchemist raid — internal Book Two questions.
 
 ---
 
@@ -148,37 +143,32 @@ Several distinct places are referred to as if interchangeable. The biggest singl
 
 ---
 
-## G. Political structure of the Sea Principalities (needs a canon chart)
+## G. Political structure — resolved from the gazetteer
 
-The transcripts sketch a government that isn't fully in the worldbuilding files:
-- **Five princes:** the Toli, Fairwind, Flotsam, Jetsam, and Monmurg (`Pauls_thoughts_on_the_day` L17). But "Fairwind, Flotsam, Jetsam" are also called **islands** (L12) — are these place-names, prince-names, or both? Is Monmurg (Prince Jeon's seat) itself one of the five?
-- **Two Plars who don't vote:** the **Plar of Berghof** (the Duke Berghof) and the **Plar of Westkeep** ("up north on the Hule River") (`Pauls_thoughts` L18–20). First mention of the office "Plar."
-- **Commodores** of Flotsam and Jetsam watch "the Gap," eyes pointed north toward Keoland (`Departure` L89).
-- **Redshore's Earl is never named** in these transcripts (the worldbuilding file flags this too) — only an unnamed **sister** of Prince Jeon is alluded to as tied to Redshore (`Chart_Room` L68). Is Redshore ruled by an Earl, or by Jeon's sister? (Currently a gap, not a contradiction.)
-- **Suel houses:** "ten houses of the bloodlines" (`Alchemy_shop` L437) vs "the only **four** in Keoland — Rola, Linn, Healy, and the Ekstor who died a thousand years ago" (L452–458). Ten vs four.
+- **The council of five princes (canon, `The_Sea_Principalities.md`):** the Princes of **Monmurg, Toli, Flotsom, Jetsom, and Fairwind**, each an equal vote, **advised by two Plars: the Plar of Hokar and the Plar of Westkeep.** The **Prince of Monmurg** is supreme naval commander in war; the **Plar of Westkeep** holds the standing army. Outer-isle princes (Flotsom, Jetsom, Fairwind) are **elected by their commodores for life**; Monmurg and Toli are hereditary. **The Plar of Hokar is the Duke of Berghof** (author ruling): his official titles are **Duke of Berghof** and **Plar of Hokar** — **Hokar** is the city in the **Duchy of Berghof** that is his seat — and he is the **second council-advising Plar** (with Westkeep). “Plar of Berghof” is an **unofficial** name for him, so the gazetteer’s “Plar of Hokar” and the transcript’s “Plar of Berghof” are the **same lord** — a **Sea Principalities** lord (not Keoland), and per the gazetteer a long-lived sorcerer who made/supplied the anti-sahaugin powder.
+- **Redshore — resolved:** held by the **Earl of Redshore** (a minor Suel lord), the **Duke of Gradsul's** flotilla commander enforcing the blockade (`characters/Earl_of_Redshore.md`). There is **no canon "sister of Prince Jeon" ruling Redshore** — the `Chart_Room` L68 "sister" line is unverified table talk. Redshore is Keoland-aligned (Gradsul), not a Monmurg holding.
+- **Suel houses — resolved (author ruling):** historically **ten great Suel houses**, plus **two “lesser houses” that are in fact very powerful** (the **Scarlet Brotherhood** derives from one). **Four are still politically active: Neheli (Keoland), Rhola (Keoland), Linth (Keoland), and Toli (Sea Principalities).** Transcript garbles: **Nihili→Neheli, Rola→Rhola, Linn→Linth**; “Healy”/“Ekstor” are ASR/older houses, not among the four. “Ten vs four” was never a contradiction — ten historical, four still active.
 
 ---
 
-## H. New plot wrinkles needing a canon ruling
+## H. New plot wrinkles — reconciled from Book One
 
-1. ★ **The ward-breaking mechanism.** "Only Cain Toli could break" the Appleyard ward, yet it was broken "by knowledge that **Sacnon Toli** got from the Duke of Berghof" (`Passage` L115–118; `Owen_shows_his_face`). Is "only Cain could break it" figurative (only a Toli, using family/Berghof knowledge), or a real contradiction?
-2. ★ **How the orb works and its provenance.** Owen's account: Cain controls the turtle dragons via an artifact "made by some lich called **Acerak**," which "**Ixid** told Cain" about; Owen heard it from Cain's drunk man "Chai" (`Passage` L852–862). This is the in-world origin of the orb lore and every name in it is single-sourced — confirm it matches `The_Orb_of_the_Dragon_Turtle.md` (which currently credits the transmuter Ujor Udias, not Acerak, as maker). **Acerak vs Ujor Udias as the orb's maker is a real discrepancy.**
-3. **The dragons' absence.** The party rules out the powder (they check the water; fish are alive — `Passage` L692–701). Per Owen, the true cause is the artifact drawing the dragons to Cain's island. Confirm this is the canon explanation.
-4. **The blockade of Monmurg.** "Three men-of-war" hold the merchants; "the lifeblood of Monmurg"; "not about money" (`Chart_Room` L4–37). But whose ships are they — Keoland, Toli, or Monmurg's own withheld fleet? The 1,200-man estimate (3×400) implies Keoland crews (`Chart_Room` L160–166). And the fleet can't break it "unless there's dragons stopping them" (L122–125) — tying the blockade to the dragon scheme.
-5. **The war footing.** An imminent **Keoland–Sea Principalities** conflict, the **Scarlet Brotherhood stoking it**, a Keoland **civil war**, a dead king (garbled, possibly "Kimbertus" of "Greyhill"), the **Lion Throne**, and a **royal alchemist's assassination** all surface as background. Which are canon setting facts vs. table speculation?
-6. **Scarlet Brotherhood nature.** "Derived from a lesser Suel house… from knowledge and ability" rather than blood; "the Toli are allied with them" (`Alchemy_shop` L428–458). Unresolved atrocity references ("what the **Nihili** are guilty of… what the **Rola** are guilty of," L483–488).
-7. **The black ichor.** The Alchemist's corpse leaks a dark substance that "flows like mercury… quicksilver but dark, with a shimmer"; Paul vials it (`examines_body` L44–57). Nature unknown — a new mystery item.
-8. **The Toli slave/ivory trade** into the Amedio jungle "to get ivory [and] slaves" via Toli ports (`Passage` L317–320).
+1. **Ward-breaking — resolved:** "only Cain could break it" is figurative for a Toli using family/Berghof knowledge; **Sacnon Toli** (Prince of Port Toli, Cain's leader) supplied the ward-breaking knowledge from the Duke of Berghof.
+2. **Orb maker — resolved:** **"Acerak" = Ujor Udias** (the transmuter who took the vanished lich's name); Ixid told Cain. Matches `The_Orb_of_the_Dragon_Turtle.md`.
+3. **Dragons' absence — resolved:** the artifact draws the dragons to Cain's fortress (Pocra Sententia); the powder is ruled out on-page. Part of the unified dragon/powder scheme.
+4. **The blockade — resolved** (`Story_background.md`, `characters/Earl_of_Redshore.md`): it is **Keoland's, run by the Duke of Gradsul**, enforced through the **Earl of Redshore's flotilla** (two men-of-war that intercept Monmurg-bound ships and divert them to Redshore). Monmurg's stronger fleet cannot break it **because of Cain Toli's dragon** — the blockade and the dragon scheme are one. The `Chart_Room` "three men-of-war / ~1,200 men" is that Keoland/Gradsul line.
+5. **The war footing — resolved (author ruling + `Story_background.md`).** The year is **CY 579**; Keoland has declared war and blockaded Monmurg; the pirate **“Scarlet Rat”** burned **Port Torvin**; Port Toli has turned a deaf ear. **Keoland succession:** **Kimbertos Skotti**, the last **elected** King of Keoland, has **recently died**, and the great Suel houses are now **in conflict over electing his successor** to the **Lion Throne** (Keoland’s throne). Canonical **Kimbertos Skotti** (transcript “Kimbertus Scotty,” of “Greyhill”). *(Loose sub-detail: the “royal alchemist died a month before the king” is Jamis’s intelligence — keep as reported rumor unless ruled in.)* (CY 579 vs. the CY 427–430 eradication ≈ 150 years, confirming the §C figure.)
+6. **The Scarlet Brotherhood — established (Book One canon: Ch. 3, 4, 11, 43):** a **Suel-rooted secret society** (from one of the two powerful “lesser” Suel houses; see §G), the suspected **hidden hand** moving Berghof, the Toli, and Gradsul alike (Ch. 43). **The Scarlet Brotherhood and the “Scarlet Rat” have nothing to do with each other** (author ruling) — the Scarlet Rat / Captain Crimson is the unrelated pirate who burned Port Torvin. The **Neheli/Rhola** references (`Alchemy_shop`) are those active Suel houses; any specific atrocity claims stay Book Two detail.
+7. **The black ichor** from the Alchemist's corpse — Book Two (4th Wealsun); open.
+8. **The Toli slave/ivory trade — resolved canon (`The_Sea_Principalities.md`):** Port Toli is the **largest slave exporter in the Flanaess**, raiding the **Amedio** for slaves, ivory, wood, spices, and gold. Well established, not a mystery.
 
 ---
 
-## I. Scene-resolution questions (loose ends the drafter will hit)
+## I. Scene-resolution loose ends — reconciled from Book One
 
-- **Sewell's fate** (`Blood_on_the_Charts`). The ~8 thugs Sewell set on the party are beaten — leader killed by Gouge, the rest scatter, two captured (one grappled by Merrick, one frozen by Tyrus's Command); a surrendering thug says "I was only paid for this." But the transcript never says whether **Sewell himself** was the "big guy" who died or a separate instigator who escaped, and the interrogation is left unfinished.
-- **The thieves'-guild subplot** (`fetch_formula` L210–228): an interrogated thief "Gregory," his accomplice "Jobs," a guild meeting "in about three days" to track "Toli agents." Does this thread continue?
-- **The captured Brotherhood prisoners** (the woman + snake-eyed man) sent to the Royal Dungeon (`capture_suspects` L591–600) — followed up?
-- **The "supplies [that] will help Monmurg."** The party (sailing *away* to Redshore) says "these supplies are going to help… release some of the tensions [in] Monmurg" (`While_Owen_Slept` L47–48) — but nothing establishes what supplies they carry. Likely a muddled reference to the powder plot. What do they actually have aboard?
-- **Fairwind expected dead** (`Departure` L139) — "is it possible this is Lord Fairwind?" — never followed up.
+- **The thieves'-guild subplot — resolved shape (`characters/Gregory.md`):** the cutpurse **Gregory** (who robbed Paul with his accomplice **Jobs**, since fled believing Gregory dead) is turned informant and gives the thread its direction — guild-master **Janus** (eight months in his seat, taking **Toli coin** for four) may be bought outright; **four Toli noble assassins** (ring-marked, trained in murder and magic) left the city together ~5 days prior; and an **elven maid, "Kalisi,"** has been seen near **Lord Jamis's** own residence. Gregory reports to Ferd's under the signal **"the still."** A live thread carried into Book Two, not a dropped one.
+- **Fairwind "expected dead" — resolved:** his fate is the deliberate open question from §E (the chasm vs. footprints east).
+- **Still Book Two:** **Sewell's fate** (6th-Wealsun brawl), the **captured Brotherhood prisoners** (4th Wealsun), and the **"supplies" the boat carries** (`While_Owen_Slept`) are Book Two loose ends Book One does not touch.
 
 ---
 
@@ -211,4 +201,4 @@ Blocks to delete when expanding to prose (per-transcript internal line numbers):
 
 ---
 
-*This is the entire list. Ready for you to start resolving contradictions whenever you like — I'd suggest starting with the ★ items in B (the Alchemist's name), D (Paul's family tree; Jude as Yuan-ti), F (the island geography), and H (Acerak vs Ujor Udias as the orb's maker), since those ripple into the worldbuilding and character files.*
+*Status: A–J are settled or reconciled (B/C/D resolved; E/G/H/I reconciled from Book One; F mostly settled). **Genuinely still open** are only **Book Two internals**, which later transcripts will pick up: how Albashon died and the “two compatriots” (§E), the black ichor (§H7), and Sewell / the prisoners / the boat’s “supplies” (§I) — keep flagging these. §F leftovers are minor (Cain’s island garrison = **hobgoblins**; the **bugbears** are the Sons-of-Olan swampers who helped Owen escape; the **Salinmoor Bay** store is a separate prince-rotated cache, not Pocra Sententia).*

@@ -1,0 +1,371 @@
+[SPEAKER_00A]: About 9 p.m. on the 4th of Wealsun, Jude and Leslie find themselves in Blood Alley.
+[SPEAKER_00A]: Jude realizes where he is after crawling out of the sewage.
+[SPEAKER_01A]: The sewers.
+[SPEAKER_01A]: Okay, let me get this manhole cover back over.
+[SPEAKER_01A]: I don't want it to be obvious where we pulled out at.
+[SPEAKER_01A]: This is Ferds, by the way.
+[SPEAKER_01A]: Just don't talk to anybody, but follow me.
+[SPEAKER_00A]: You look around, Leslie.
+[SPEAKER_00A]: You are in a pretty bad part of the foreign district.
+[SPEAKER_00A]: Kind of an area where murderers and mercenaries congregate to be hired by
+[SPEAKER_00A]: Merchants to protect their wares or to stab and kill their competitors that they have arguments with.
+[SPEAKER_00A]: This is not a very good area.
+[SPEAKER_00A]: However, it is better than the Warrens, another part of the foreign district, which is poverty-ridden and disgusting.
+[SPEAKER_00A]: So this is where
+[SPEAKER_00A]: The alchemy shop is.
+[SPEAKER_00A]: These are the Warrens.
+[SPEAKER_00A]: These are like a mishmash of wooden structures put together by the poorest of the poor.
+[SPEAKER_00A]: You guys are right here now.
+[SPEAKER_00A]: Which is not a great part of town, the foreign district either, but this is where the mercenaries kind of hang out.
+[SPEAKER_00A]: They service the merchants, the wealthy merchants that all live in this area.
+[game mechanics] [SPEAKER_01A]: And what's this area over here?
+[game mechanics] [SPEAKER_00A]: This is the Grand Market.
+[game mechanics] [SPEAKER_00A]: This is the royal area, and here are the docks.
+[game mechanics] [SPEAKER_01A]: Now is the royal area, is it elevated ground or is it another wall?
+[game mechanics] [SPEAKER_00A]: It is elevated ground.
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_00A]: And there are walls also.
+[game mechanics] [SPEAKER_01A]: Okay, gotcha, gotcha.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: This map is more about the foreign industry.
+[game mechanics] [SPEAKER_01A]: Gotcha.
+[game mechanics] [SPEAKER_00A]: So that's the layout of it.
+[game mechanics] [SPEAKER_00A]: Shows us the scheme of things.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: Yeah, just follow my lead and don't talk to anybody.
+[SPEAKER_01A]: We'll meet.
+[SPEAKER_03A]: Okay.
+[SPEAKER_03A]: I'll make good business with them.
+[SPEAKER_01A]: I move in.
+[SPEAKER_01A]: I mean, I don't need to do some stupid-ass secret knock on the back door, do I, to Blood Alley?
+[SPEAKER_00A]: There is no secret door.
+[SPEAKER_01A]: Okay, yeah.
+[SPEAKER_01A]: I mean, what I mean is, is it a front door, or is it, when you say Blood Alley, is that like a back door off of Ferd's?
+[SPEAKER_00A]: No, Blood Alley is like a little alleyway next to Ferd's, and there's another alley next to it called Murder Alley, which is kind of a blind alley, and that's where you take guys if you're going to kill them.
+[SPEAKER_01A]: Blood alley is actually the better of the two.
+[SPEAKER_00A]: Absolutely, that's just where guys go to...
+[SPEAKER_00A]: There have been deaths, but it's all in good fun.
+[SPEAKER_03A]: I whispered to Jude, while we're walking, could I sign some contracts with these people?
+[SPEAKER_03A]: Get them working 24 hours a day for minimum wage?
+[SPEAKER_01A]: It depends upon what you need.
+[SPEAKER_03A]: They could call for these scams.
+[SPEAKER_01A]: The manual labor is real.
+[SPEAKER_01A]: Okay, so you might be upset about a lot of things.
+[SPEAKER_01A]: I can tell you're a little out of sorts.
+[SPEAKER_03A]: I'm not upset.
+[SPEAKER_01A]: We just lost the master.
+[SPEAKER_01A]: He just died.
+[SPEAKER_01A]: Remember?
+[SPEAKER_01A]: Your master?
+[SPEAKER_03A]: Time to make business.
+[SPEAKER_01A]: Okay.
+[SPEAKER_03A]: Runs in the family.
+[SPEAKER_01A]: Just follow me.
+[SPEAKER_01A]: I think you need a drink.
+[SPEAKER_01A]: Okay.
+[SPEAKER_03A]: Cold whiskey.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Alright, so you guys walk in to Ferd's.
+[SPEAKER_01A]: I nod to Ferd when I come in, like I make sure I make eye contact with them.
+[SPEAKER_00A]: Okay, so he looks over and he goes, you walk in behind him.
+[SPEAKER_00A]: And the room, even at this late hour of the night, is filled with maybe eight or so rough-looking mercenaries, old men from the Medio Jungle, half-orcs from the mountains and the Hul Marshes to the west.
+[SPEAKER_00A]: Toli scum.
+[SPEAKER_01B]: I thought I chased out the Toli scum.
+[SPEAKER_01A]: Not all of them.
+[SPEAKER_01B]: I mean, they're all over the place.
+[SPEAKER_01B]: They're like rats, dude.
+[SPEAKER_01A]: It's better to find a better place.
+[SPEAKER_01A]: I'm just making sure.
+[SPEAKER_00A]: Anyway, as the two of you walk in, you just walk up to Ferd and say, hey, but roll perception.
+[game mechanics] [SPEAKER_01A]: Twenty-sided?
+[game mechanics] [SPEAKER_00A]: Twenty-sided.
+[SPEAKER_01B]: I got the oven started, Jay.
+[SPEAKER_00A]: More than one eye follows you as you walk into the room behind Jude.
+[SPEAKER_01A]: So they wanna fight, huh?
+[SPEAKER_00A]: I think what they're doing is they're sizing you up.
+[SPEAKER_03A]: They don't want to smoke.
+[SPEAKER_00A]: Well, you're a small man.
+[SPEAKER_03A]: Small hands, good fists.
+[SPEAKER_00A]: And you've come into a room of desperate mercenaries.
+[SPEAKER_00A]: Okay, so you walked up to Ferd.
+[SPEAKER_01A]: I look kind of a little irritated over my shoulder.
+[SPEAKER_03A]: What's that?
+[SPEAKER_03A]: Can you define a mercenary?
+[SPEAKER_00A]: A mercenary is somebody that is paid to fight.
+[SPEAKER_00A]: So they want to know basically are you there to hire them or are you there for them to rob you?
+[SPEAKER_00A]: I mean that's the looks you're getting.
+[SPEAKER_01A]: Here's the game plan.
+[SPEAKER_03A]: Do I start a benefactor that's probably ready to pay them for work?
+[SPEAKER_03A]: Do I get factory men first or soldiers first?
+[SPEAKER_01A]: No, no.
+[SPEAKER_01A]: Good question.
+[SPEAKER_01A]: You come over here.
+[SPEAKER_01A]: Come on to the bar.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: He needs something stiff.
+[SPEAKER_01B]: Redeye?
+[SPEAKER_01A]: Yeah.
+[SPEAKER_00A]: Pours you a glass of this whiskey.
+[SPEAKER_00A]: Puts it down.
+[SPEAKER_01A]: There you go, little man.
+[SPEAKER_01A]: I'll take one, too.
+[SPEAKER_01A]: You want a redeye?
+[SPEAKER_01B]: You don't want your wine?
+[SPEAKER_01A]: Yeah, I need a redeye.
+[SPEAKER_01B]: You're going to talk to Gouge about this, right?
+[SPEAKER_01A]: About what?
+[SPEAKER_01B]: You're drinking his stuff.
+[SPEAKER_01A]: Oh.
+[SPEAKER_01A]: I'll just put it on my tab.
+[SPEAKER_01A]: Okay, so I discreetly, as long as there's nobody immediately on my right or left, I want to describe that I think it was a female and the two guys that we had fought.
+[SPEAKER_01A]: What do you say?
+[SPEAKER_01A]: Okay, I just say we just had a run in and had a run and fight through the sewers.
+[SPEAKER_01A]: I killed two guys that they were dressed like.
+[SPEAKER_01A]: I describe it, but it looked like the main person was this female when I describe her.
+[SPEAKER_00A]: Now, do you remember what the description is?
+[SPEAKER_01A]: No, I don't.
+[SPEAKER_00A]: So you didn't get a good look at them because they were wearing the mask.
+[SPEAKER_01A]: Oh, that's right.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: Right?
+[SPEAKER_01A]: The Brotherhood?
+[SPEAKER_01A]: Scarlet Brotherhood mask?
+[SPEAKER_00A]: Exactly.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: So what I want to know from him then is the build and stuff like that is probably less important.
+[SPEAKER_01A]: Does he know of people using the Brotherhood Mass to do jobs in the city?
+[SPEAKER_00A]: So you ask?
+[SPEAKER_01A]: Yeah.
+[SPEAKER_01A]: Have you heard of this?
+[SPEAKER_01B]: Yeah.
+[SPEAKER_01B]: I've heard rumors.
+[SPEAKER_01B]: Jude.
+[SPEAKER_01B]: People that you describe wearing masks like that have been moving among the Warren.
+[SPEAKER_01B]: At least that's what the scamps have told me.
+[game mechanics] [SPEAKER_01A]: Now to the DM, we had made contact with that one rogue that we had put back out into circulation.
+[game mechanics] [SPEAKER_01A]: Gregory?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_01A]: Had we re-contacted him at all?
+[game mechanics] [SPEAKER_00A]: So he was supposed to get in touch with you five days after you talked to him, which was on the 2nd, which would be the 7th, that he would come and meet you at...
+[game mechanics] [SPEAKER_01A]: And what day is this today?
+[game mechanics] [SPEAKER_00A]: This is the evening of the 4th.
+[game mechanics] [SPEAKER_00A]: Tomorrow is the 5th.
+[game mechanics] [SPEAKER_01A]: So we still have a few more.
+[game mechanics] [SPEAKER_01A]: And what was it that we had told him?
+[game mechanics] [SPEAKER_01A]: I didn't get a chance to read.
+[game mechanics] [SPEAKER_01A]: We had asked him to assess whether or not the guild master for the thieves was involved with any Toli.
+[game mechanics] [SPEAKER_00A]: The guy's name is Janice.
+[game mechanics] [SPEAKER_00A]: He's been in the position for eight months.
+[game mechanics] [SPEAKER_00A]: You wanted to know whether or not he's in contact with Scarlet Brotherhood.
+[game mechanics] [SPEAKER_00A]: Like if he's also, if he's taking any contracts or working for him.
+[game mechanics] [SPEAKER_01A]: Exactly.
+[game mechanics] [SPEAKER_00A]: Because you were like, I can't really tell if this guy's real or if he was put in there.
+[game mechanics] [SPEAKER_00A]: And then your other thing was, if he is not, set up an interview or a talk with him.
+[game mechanics] [SPEAKER_01A]: Let him know that we want to talk to him.
+[game mechanics] [SPEAKER_01A]: And if he is, don't say shit and will you tell him?
+[game mechanics] [SPEAKER_00A]: Yeah, we know that.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_01A]: Okay, so we still got a couple days.
+[SPEAKER_01A]: You got a Toli back there, so you've been sitting here for coming in and out for a while?
+[SPEAKER_01B]: I've got three.
+[SPEAKER_00A]: He points to the three guys sitting at the table together.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: Have they been coming in and out for a while?
+[SPEAKER_01B]: Yeah, a week or two.
+[SPEAKER_01A]: They stay long?
+[SPEAKER_01A]: Or they just...?
+[SPEAKER_01B]: They're looking for work like everyone else.
+[SPEAKER_01A]: Yeah, but they're Toli.
+[SPEAKER_01B]: Yeah.
+[SPEAKER_01B]: Their coin's as good as anyone else's.
+[SPEAKER_01B]: What do you know?
+[SPEAKER_01B]: I mean, it's not like these are nobles or anything like that.
+[SPEAKER_01A]: No, but Toli are in all likelihood involved with...
+[SPEAKER_01A]: The whole problems with Monmurg, the siege.
+[SPEAKER_01B]: Yeah.
+[game mechanics] [SPEAKER_00A]: So, this is a rumor you're starting, by the way, I'm gonna let you know.
+[game mechanics] [SPEAKER_01A]: Well, not necessarily.
+[game mechanics] [SPEAKER_01A]: Well, I mean, I might be starting, like, putting it out there, but...
+[game mechanics] [SPEAKER_00A]: I mean, the whole concept of Cain-Toli and all that stuff going on, that's not common knowledge.
+[game mechanics] [SPEAKER_01A]: That's not common knowledge?
+[game mechanics] [SPEAKER_00A]: No.
+[game mechanics] [SPEAKER_01A]: Okay, alright, then I don't start the rumor.
+[SPEAKER_00A]: He says, you know, Ferd says,
+[SPEAKER_01B]: Where did you hear that rumor?
+[SPEAKER_01B]: Because I've heard something about it, too.
+[SPEAKER_01A]: Let's just say I've had to kill a couple high-placed Toli myself.
+[SPEAKER_01B]: Oh, so you're confirming it.
+[SPEAKER_01B]: There's a bard that sang a song in the Harbor District the other night.
+[SPEAKER_01A]: Do you know his name?
+[SPEAKER_01B]: Uh... No, no, no.
+[SPEAKER_01B]: He was a Marine.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01B]: The Marines have been talking about it.
+[SPEAKER_01B]: One of the men that came in the other day was discussing it.
+[SPEAKER_01B]: Is there any... Oh, you know who I heard it from?
+[SPEAKER_01A]: Yeah.
+[SPEAKER_01B]: It was Gouge's friends.
+[SPEAKER_01B]: They were talking about it last night.
+[SPEAKER_01B]: Yeah.
+[SPEAKER_01A]: Yeah.
+[SPEAKER_01A]: About the Toli being involved or having to kill some Toli?
+[SPEAKER_01B]: Well, no.
+[SPEAKER_01B]: Apparently what happened is one of the Marines with him, a smaller fellow, good-looking chap, had sung a song in the barracks.
+[SPEAKER_01B]: And the big Marine with him was admonishing him for talking about Toli and politics and all of this other stuff.
+[SPEAKER_01A]: Was he mentioning, like, the Toli in, like, a negative flight, or was he...?
+[SPEAKER_01B]: Oh, well, basically, apparently this bard was admonishing the different princes of Monmurg and the Toli and the Duke of the Parkhouse.
+[SPEAKER_01B]: Everyone.
+[SPEAKER_01A]: All right.
+[SPEAKER_01B]: Oh, damn.
+[SPEAKER_01B]: Gouge told me not to tell you about him.
+[SPEAKER_01A]: Told me not about who?
+[SPEAKER_01B]: I just think Gouge didn't want you to know what he was up to.
+[SPEAKER_01A]: You mean the Bard?
+[SPEAKER_01B]: No.
+[SPEAKER_01A]: That's not it.
+[SPEAKER_01A]: Oh, just not about what Gouge's business is?
+[SPEAKER_01A]: Or that he was here?
+[SPEAKER_01B]: Something like that.
+[SPEAKER_01A]: That's fine.
+[SPEAKER_01A]: I know Gouge.
+[SPEAKER_01A]: Probably the less I know, the better.
+[SPEAKER_01B]: Yeah.
+[SPEAKER_01B]: They got pretty drunk last night.
+[SPEAKER_01B]: They left early this morning, gouging that other ponce, taking their two friends back to the Harbor District, I heard.
+[SPEAKER_01A]: Is gouge operating out of the Warrens?
+[SPEAKER_01B]: The Warrens?
+[SPEAKER_01B]: Oh, no, no, no.
+[SPEAKER_01A]: Oh, okay.
+[SPEAKER_01B]: No, no.
+[SPEAKER_01B]: They went back to the Harbor for some reason.
+[SPEAKER_01B]: They had somebody they had to go see.
+[SPEAKER_01A]: Gotcha.
+[SPEAKER_01A]: Do you know Black Owen?
+[SPEAKER_01B]: You mean Owen Black.
+[SPEAKER_01A]: Thank you.
+[SPEAKER_01A]: Yes.
+[SPEAKER_01B]: I heard of him.
+[SPEAKER_01B]: In fact, they were talking about him last night.
+[SPEAKER_01A]: Because I'd like to get some supplies brought in, some food.
+[SPEAKER_01A]: And I know he was...
+[SPEAKER_01A]: Smuggling, because that's how actually I got into Monmurg.
+[SPEAKER_01B]: Well, if you know him, that's good.
+[SPEAKER_01B]: Rumor is, this is from Gouge, Owen Black was in the Harbor District and at that place last night, the Marine Barracks, when the song was sung.
+[SPEAKER_01B]: And actually, Owen had brought a lot of supplies into the city.
+[SPEAKER_01A]: Does Owen ever come here?
+[SPEAKER_01B]: No.
+[SPEAKER_01B]: I've heard his name.
+[SPEAKER_01B]: He's never been here.
+[SPEAKER_01B]: Too upstanding a citizen.
+[SPEAKER_01A]: I don't know, I'm pretty upstanding.
+[SPEAKER_01B]: Uh, yeah.
+[SPEAKER_01A]: I'll take another.
+[SPEAKER_01A]: I might as well drink his stuff.
+[game mechanics] [SPEAKER_00A]: Make a constitution check.
+[game mechanics] [SPEAKER_01A]: So Roller 20-sided?
+[game mechanics] [SPEAKER_00A]: Roller 20-sided.
+[SPEAKER_01A]: Are you drinking this drink?
+[SPEAKER_03A]: No.
+[SPEAKER_01A]: I think you are.
+[SPEAKER_00A]: You take a sip of the stuff and it goes down like liquid fire.
+[SPEAKER_00A]: You kind of lose sensation in your nose and you can't smell for a little bit and as an alchemist you realize
+[SPEAKER_00A]: This is poison.
+[SPEAKER_03A]: That's why I said I didn't.
+[SPEAKER_00A]: This is obviously something that made to deaden the nerves and soften the brain to the point where you don't care what you're doing.
+[SPEAKER_01A]: So if you're not going to finish it, you take it.
+[SPEAKER_03A]: I got plenty of brain cells, but I want more, not less.
+[SPEAKER_01A]: They're going to last forever.
+[SPEAKER_01A]: You're immortal.
+[SPEAKER_01A]: I need quite a few of these.
+[SPEAKER_01A]: Let's see.
+[SPEAKER_01A]: Alright.
+[SPEAKER_01A]: I'm going to go to our room.
+[SPEAKER_01A]: I'm going to take him with me because he can't be left alone right now.
+[SPEAKER_01A]: Alright.
+[SPEAKER_01A]: Just because of the fighting that we just did.
+[SPEAKER_01A]: Uh huh.
+[SPEAKER_01A]: You're familiar with the mask guy I've been hanging out with?
+[SPEAKER_01B]: No.
+[SPEAKER_01A]: Had he not been here?
+[SPEAKER_01A]: I thought I brought him here.
+[SPEAKER_01B]: No.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01B]: You've talked about it, but...
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: Yeah.
+[SPEAKER_01A]: That guy that I've been mentioning before, the one that wears a mask, it's usually kind of a dullish silver mask.
+[game mechanics] [SPEAKER_01A]: I can't remember what Paul's main mask was.
+[game mechanics] [SPEAKER_00A]: Well, he never wears the silver mask except for official things.
+[game mechanics] [SPEAKER_00A]: He wears a leather mask when he's walking around.
+[game mechanics] [SPEAKER_00A]: Or sometimes a disguise that looks like a person but kind of waxy and not right.
+[game mechanics] [SPEAKER_00A]: You know, kind of like the hobgoblin masks.
+[SPEAKER_01A]: Anyways, if somebody asks for me, let me know.
+[SPEAKER_01A]: I need to get some rest.
+[SPEAKER_01A]: But if somebody comes in asking for me, just have one of your guys, one of your staff, come fetch me.
+[SPEAKER_01B]: One of my staff?
+[SPEAKER_01A]: Don't you have a couple thugs on staff?
+[SPEAKER_01A]: What, you can't send, like, you know, the big bosom lady to come up and knock on my door?
+[SPEAKER_01B]: I'll send a boy up.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01B]: It'll cost you a copper though.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01B]: Sure.
+[SPEAKER_01A]: Okay.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: So you and Leslie walk up the stairs.
+[out-of-band] [SPEAKER_02]: Leslie walking into a Hotel 6 in the foreign district of Monmurg.
+[out-of-band] [SPEAKER_02]: I don't think he gets the reference.
+[SPEAKER_00A]: It's pretty seedy.
+[SPEAKER_00A]: There's like some vomit stains in the wood that probably will never wash out.
+[SPEAKER_00A]: There's some bloodstains in the wood that'll never wash out.
+[SPEAKER_00A]: Jude opens the door to his private room and you guys walk into what is Jude's bedroom.
+[SPEAKER_00A]: Actually, it's very well pointed.
+[SPEAKER_00A]: There are nice rugs.
+[SPEAKER_00A]: There's good lamps.
+[SPEAKER_00A]: Jude is obviously trying to make a comfortable room.
+[SPEAKER_00A]: He walks over to the window and opens the window.
+[SPEAKER_00A]: Actually, you smell
+[SPEAKER_00A]: The faint whiff of smoke on the air.
+[SPEAKER_00A]: Fire.
+[SPEAKER_00A]: Fire.
+[SPEAKER_00A]: For obvious reasons.
+[SPEAKER_00A]: However, what's interesting about Jude's room is even with all the kind of wealth that he puts in it, underneath there's rotting wood.
+[SPEAKER_00A]: And you can't help but notice the cockroach that go back into the rotting woods.
+[SPEAKER_01A]: Exactly.
+[SPEAKER_00A]: As Jude lights the lantern.
+[SPEAKER_01A]: Jude says, I need a trance.
+[SPEAKER_01A]: Yeah, I'm gonna have to get some rest.
+[SPEAKER_01A]: I suggest you lie down too.
+[SPEAKER_01A]: You've been through a lot.
+[game mechanics] [SPEAKER_01A]: Did you cast anything?
+[game mechanics] [SPEAKER_03A]: No.
+[game mechanics] [SPEAKER_01A]: You didn't cast any spells?
+[game mechanics] [SPEAKER_03A]: I don't think so.
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_00A]: You did firebolts several times.
+[game mechanics] [SPEAKER_00A]: But that's it.
+[game mechanics] [SPEAKER_03A]: But that was just the cantrip.
+[game mechanics] [SPEAKER_00A]: That's just the cantrip.
+[game mechanics] [SPEAKER_01A]: Okay.
+[game mechanics] [SPEAKER_00A]: So you basically used your cantrips throughout.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: Because I was launching some fireballs and so I need to get some rest because I need to reset.
+[game mechanics] [SPEAKER_01A]: Do I do, is it just transiting for four hours?
+[game mechanics] [SPEAKER_00A]: It's just four hours.
+[game mechanics] [SPEAKER_00A]: You can just trans for four hours and that's all you have to do.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: Feel free to read some of my books if you can't sleep.
+[SPEAKER_01A]: I make sure I lock the door, usual precaution.
+[SPEAKER_01A]: Okay.
+[SPEAKER_00A]: And then leave the window open.
+[SPEAKER_00A]: Or do you want to close it?
+[SPEAKER_01A]: I want to close it.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_01A]: So I close it and bar it.
+[SPEAKER_01A]: Make sure the door's barred as well from the inside.
+[SPEAKER_00A]: So the two of you sit in Jude's apartment up in Ferd's, and your trance will be 10 o'clock, 11 o'clock, 12 o'clock, 1 a.m. in the morning when you finish and recover all your stuff.
+[SPEAKER_00A]: That's totally fine.
+[SPEAKER_00A]: Okay.
+[out-of-band] [SPEAKER_02]: I have some housekeeping stuff that we should talk about.
+[out-of-band] [SPEAKER_02]: Okay.

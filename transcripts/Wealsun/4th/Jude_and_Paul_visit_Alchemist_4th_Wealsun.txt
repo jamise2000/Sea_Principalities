@@ -1,369 +1,369 @@
-[SPEAKER_00]: Forth of Wealsun, Jude and Paul Rivera leave the Royal Palace at 8pm, walking down the hill towards the foreign district.
-[SPEAKER_00]: It's a 30 minute walk down the hill.
-[SPEAKER_00]: They walk through two of the gates, one out of the palace grounds, which they passed through for that incident, just before the gates closed behind them.
-[SPEAKER_00]: The sun is going down.
-[SPEAKER_00]: They walk through the common district into the foreign district and the smell.
-[SPEAKER_00]: Both of them know you've been here.
-[SPEAKER_00]: In fact, this is the same path that Paul Rivero took when he was assaulted by the thieves.
-[SPEAKER_00]: Into the foreign district.
-[SPEAKER_00]: Smells like home.
-[SPEAKER_00]: Jude, recognizing the gathering of toughs, pimps, whores.
-[SPEAKER_01]: And onion merchants.
-[SPEAKER_00]: Onions!
-[SPEAKER_02]: Not even as prestigious as garbage.
-[SPEAKER_02]: Onions!
-[SPEAKER_01]: Cleaning your plague!
-[SPEAKER_01]: Good for your body!
-[SPEAKER_00]: Actually, onion merchants have become very popular because apparently... Onion soup is... Well, onion soup is very popular and unfortunately that's the only thing available in the foreign district at this time.
-[SPEAKER_00]: The onion merchants actually are doing a better job than the whores at this point.
-[SPEAKER_02]: I'll actually stop and if there's a good onion, I'll eat it raw.
-[SPEAKER_01]: That's nasty.
-[SPEAKER_00]: You're not that boring.
-[SPEAKER_00]: It keeps the vampires away.
-[SPEAKER_00]: Isn't that garlic?
-[SPEAKER_00]: Not in Monmurg.
-[SPEAKER_00]: There's no garlic.
-[SPEAKER_02]: We can't afford garlic.
-[SPEAKER_02]: Garlic's an exotic spice.
-[SPEAKER_02]: Come on, come on.
-[SPEAKER_02]: All right, so we work our way through, and I'm comfortable in the foreign district.
-[SPEAKER_00]: You know exactly where you're going.
-[SPEAKER_00]: He navigates you through the warren of tunnels, or roads, as they call them in the foreign district.
-[SPEAKER_00]: Those overhanging buildings.
-[SPEAKER_00]: To a very small courtyard that has a building made from sterner stuff than most of the rickety, makeshift, driftwood buildings that are constructed here.
-[SPEAKER_00]: It's made of stone and it has a very strong oaken door on it.
+[SPEAKER_00A]: Forth of Wealsun, Jude and Paul Rivera leave the Royal Palace at 8pm, walking down the hill towards the foreign district.
+[SPEAKER_00A]: It's a 30 minute walk down the hill.
+[SPEAKER_00A]: They walk through two of the gates, one out of the palace grounds, which they passed through for that incident, just before the gates closed behind them.
+[SPEAKER_00A]: The sun is going down.
+[SPEAKER_00A]: They walk through the common district into the foreign district and the smell.
+[SPEAKER_00A]: Both of them know you've been here.
+[SPEAKER_00A]: In fact, this is the same path that Paul Rivero took when he was assaulted by the thieves.
+[SPEAKER_00A]: Into the foreign district.
+[SPEAKER_00A]: Smells like home.
+[SPEAKER_00A]: Jude, recognizing the gathering of toughs, pimps, whores.
+[SPEAKER_02A]: And onion merchants.
+[SPEAKER_00A]: Onions!
+[SPEAKER_01A]: Not even as prestigious as garbage.
+[SPEAKER_01A]: Onions!
+[SPEAKER_02A]: Cleaning your plague!
+[SPEAKER_02A]: Good for your body!
+[SPEAKER_00A]: Actually, onion merchants have become very popular because apparently... Onion soup is... Well, onion soup is very popular and unfortunately that's the only thing available in the foreign district at this time.
+[SPEAKER_00A]: The onion merchants actually are doing a better job than the whores at this point.
+[SPEAKER_01A]: I'll actually stop and if there's a good onion, I'll eat it raw.
+[SPEAKER_02A]: That's nasty.
+[SPEAKER_00A]: You're not that boring.
+[SPEAKER_00A]: It keeps the vampires away.
+[SPEAKER_01A]: Isn't that garlic?
+[SPEAKER_00A]: Not in Monmurg.
+[SPEAKER_00A]: There's no garlic.
+[SPEAKER_01A]: We can't afford garlic.
+[SPEAKER_01A]: Garlic's an exotic spice.
+[SPEAKER_01A]: Come on, come on.
+[SPEAKER_01A]: All right, so we work our way through, and I'm comfortable in the foreign district.
+[SPEAKER_00A]: You know exactly where you're going.
+[SPEAKER_00A]: He navigates you through the warren of tunnels, or roads, as they call them in the foreign district.
+[SPEAKER_00A]: Those overhanging buildings.
+[SPEAKER_00A]: To a very small courtyard that has a building made from sterner stuff than most of the rickety, makeshift, driftwood buildings that are constructed here.
+[SPEAKER_00A]: It's made of stone and it has a very strong oaken door on it.
 [out-of-band] [SPEAKER_00]: BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM BOOM
-[SPEAKER_00]: I remember you as your friend.
-[SPEAKER_02]: He's my friend.
-[SPEAKER_02]: I'm Jude.
-[SPEAKER_02]: He's... Introduce yourself.
-[SPEAKER_01]: Paul.
-[SPEAKER_00]: Jude?
-[SPEAKER_00]: Paul.
-[SPEAKER_00]: Paul Rivero.
-[SPEAKER_00]: Oh shit!
-[SPEAKER_00]: I said that out loud.
-[SPEAKER_00]: Paul Ribeiro.
-[SPEAKER_02]: What does Prince Gian want with me?
-[SPEAKER_02]: Nope.
-[SPEAKER_02]: Nope.
-[SPEAKER_02]: Don't think of it like that.
-[SPEAKER_02]: Paul Ribeiro is my student.
-[SPEAKER_01]: It's not like that.
-[SPEAKER_01]: What do you mean it's not like that?
-[SPEAKER_01]: No, I mean like with you, not you and me.
-[SPEAKER_01]: Oh, okay.
-[SPEAKER_01]: I think we're just going to confuse the man.
-[SPEAKER_01]: Yeah.
-[SPEAKER_00]: He's my student.
-[SPEAKER_00]: Ah.
-[SPEAKER_00]: Hence...
-[SPEAKER_00]: So, what are you interested in knowing, Jude?
-[SPEAKER_00]: The recipe.
-[SPEAKER_02]: I gave you the recipe.
-[SPEAKER_02]: I was wondering what you've gleaned.
-[SPEAKER_02]: I need to know.
-[SPEAKER_00]: I have information for you.
-[SPEAKER_00]: What do you know and are interested in Paul Rivera?
-[SPEAKER_00]: Tell me.
-[SPEAKER_00]: I don't think that's what I was asking.
-[SPEAKER_00]: Oh.
-[SPEAKER_00]: No, being interested in magic is fine.
-[SPEAKER_01]: All right.
-[SPEAKER_00]: Close to the portal.
-[SPEAKER_00]: The door unlocks.
-[SPEAKER_00]: You hear a heavy bolt go about.
-[SPEAKER_00]: And he opens the door, come in.
-[SPEAKER_00]: Be respectful, touch, nothing.
-Cool.
-[SPEAKER_00]: You walk into a room with curios all over the place.
-[SPEAKER_00]: And he says, he shuts the door behind you.
-[SPEAKER_00]: This guy is like a human, obviously.
-[SPEAKER_00]: He is sore.
-[SPEAKER_00]: Old, hunched over.
-[SPEAKER_00]: Wearing a robe, these very strange monocles.
-[SPEAKER_00]: You know of them as glasses, you've seen them in the royal courts, but these are not normal for those people.
-[SPEAKER_00]: Are they like really thick?
-[SPEAKER_00]: They are.
-[SPEAKER_00]: Maybe even extra ones.
-[SPEAKER_00]: And he says, Paul,
-[SPEAKER_00]: Sorry, I should not call you by your first name, but I do not know your last name, sir.
-[SPEAKER_00]: Rivero is not what your family name is.
-[SPEAKER_00]: I know a little history of your family.
-[SPEAKER_00]: Which do you go by?
-[SPEAKER_00]: I go by Rivero.
-[SPEAKER_00]: Is that a given name?
-[SPEAKER_00]: You do not use the name Azani?
-[SPEAKER_00]: No, not really.
-[SPEAKER_00]: Azani.
-[SPEAKER_00]: How is your grandfather?
-[SPEAKER_02]: Yeah, how is your grandfather?
-[SPEAKER_01]: It's been a while.
-[SPEAKER_00]: Has it?
-[SPEAKER_00]: It's been a while since he's visited me.
-[SPEAKER_00]: Yes.
-[SPEAKER_00]: Oh, I'm just observing.
-[SPEAKER_00]: You wish to know.
-[SPEAKER_00]: Do you want him to know what I know too?
-[SPEAKER_00]: What we spoke of?
-[SPEAKER_02]: Yeah, he's on the case.
-[SPEAKER_00]: Copper.
-[SPEAKER_00]: Copper's the element?
-[SPEAKER_00]: And sulfur.
-[SPEAKER_00]: Combined in a way that few know.
-[SPEAKER_00]: Come.
-[SPEAKER_02]: Come see.
-[SPEAKER_02]: We gave them a sample, remember, of the material that was taken on, was it Helm Island?
-[SPEAKER_02]: Helm Island.
-[SPEAKER_02]: On Helm Island, when we had that adventure and all that material, remember the sahuagin and those creatures?
-[SPEAKER_02]: And what protects Helm Island specifically is that material.
-[SPEAKER_02]: We took some and I asked him to analyze it.
-[SPEAKER_02]: So we're here to, and that's what he just said, copper and sulfur, and now we're going to go see.
-[SPEAKER_00]: But it's combined in a way that's very strange.
-[SPEAKER_00]: Very new to me.
-[SPEAKER_00]: It's a process.
-[SPEAKER_00]: New to you?
-[SPEAKER_02]: Oh.
-[SPEAKER_02]: Never seen it before, that process?
-[SPEAKER_00]: I don't know it.
-[SPEAKER_00]: I know the elements.
-[SPEAKER_00]: I've been able to break them down.
-[SPEAKER_00]: I know it's there.
-[SPEAKER_00]: There are some other trace elements, but basically copper and sulfur combined in a way that I've never seen before.
-[SPEAKER_00]: Any poisons?
-[SPEAKER_00]: Any poisons?
-[SPEAKER_00]: It is poison.
-[SPEAKER_00]: Oh, the copper and the sulfur.
-[SPEAKER_00]: Together.
-[SPEAKER_00]: Not for a man.
-[SPEAKER_00]: In fact, he walks over to a place where you see some of the element, the white, yellowish powder, sitting there.
-[SPEAKER_00]: This is what you saw.
-[SPEAKER_00]: On the island.
-[SPEAKER_00]: This is the sample you gave me.
-[SPEAKER_00]: Look.
-[SPEAKER_00]: He wets his finger, puts it down, puts it on his tongue.
-[SPEAKER_00]: Nothing.
-[SPEAKER_00]: Copper.
-[SPEAKER_00]: Nothing to me.
-[SPEAKER_00]: Sulfur.
-[SPEAKER_00]: Nothing to me.
-[SPEAKER_00]: Humans.
-[SPEAKER_00]: Elves.
-[SPEAKER_00]: No problem.
-[SPEAKER_00]: To the gills of a fish.
-[SPEAKER_00]: Knives.
-[SPEAKER_00]: They cut and shred.
-[SPEAKER_00]: He points over to a fishbowl with a goldfish.
-[SPEAKER_00]: Shall I show you?
-[SPEAKER_00]: Please.
-[SPEAKER_00]: He takes a teeny pinch.
-[SPEAKER_02]: Now this is the stuff that I provided.
-[SPEAKER_02]: He didn't make this stuff?
-[SPEAKER_00]: No.
-[SPEAKER_00]: Goes over to the fishbowl and drops a teeny pinch.
-[SPEAKER_00]: He goes, that's a thousand times too much.
-[SPEAKER_00]: One one-thousandth would kill this fish.
-[SPEAKER_00]: Fish is like swimming.
-[SPEAKER_00]: Turns up close to the top, almost being silly.
-[SPEAKER_00]: That's what we saw in the show.
-[SPEAKER_00]: No human being would be affected by this.
-[SPEAKER_00]: It's inert to us.
-[SPEAKER_00]: This same thing would kill us.
-[SPEAKER_00]: Sulfur and iron would be death to us.
-[SPEAKER_00]: This is for their blood.
-[SPEAKER_02]: But you said there's still some elements that you can't detect.
-[SPEAKER_02]: Ah, that's right.
-[SPEAKER_02]: Oh.
-[SPEAKER_02]: It's the way they're combined.
-[SPEAKER_00]: That's the thing that you can't tell.
-[SPEAKER_00]: I do not know how to make this.
-[SPEAKER_00]: The way that it is constructed, the structure of this thing, which is copper and sulfur.
-[SPEAKER_01]: Cheap.
-[SPEAKER_01]: Cheap.
-[SPEAKER_00]: Copper has some value, but sulfur you can find.
-[SPEAKER_00]: You can buy it in the market.
-[SPEAKER_00]: It's not completely inexpensive, but mass production could possibly happen.
-[SPEAKER_02]: If I told you that this substance was originally produced in the Duke of Burghoff territories, would that give you any
-[SPEAKER_02]: Oh, explain many things to me.
-[SPEAKER_02]: Because it was.
-[SPEAKER_02]: The substance was originally, the creation, the sample that I brought you was made 20 years ago.
-[SPEAKER_02]: At least that was the last time that Prince Gian was able to acquire these samples.
-[SPEAKER_02]: And it was made by or discovered by the Duke of Berghoff.
-[SPEAKER_02]: And I know that he comes up against those mountains in the southwest of his kingdom.
-[SPEAKER_00]: Well, of his domain.
-[SPEAKER_00]: Who points to that?
-[SPEAKER_00]: This was made by the Phyraxians.
-[SPEAKER_02]: Weird.
-[SPEAKER_02]: I don't know the Phyraxians.
-[SPEAKER_01]: This is the same powder I saw a long time ago.
-[SPEAKER_00]: This was the stuff that you saw in the caves of the Helm Island.
-[SPEAKER_02]: Remember the adventure where you fell into the water?
-[SPEAKER_02]: Yeah, I know.
-[SPEAKER_00]: The same stuff that you found in those barrels.
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: The explosives.
-[SPEAKER_01]: Yes.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: Do I know how it's made?
-[SPEAKER_00]: No.
-[SPEAKER_01]: That was kind of what John was saying.
-[SPEAKER_01]: I thought I had something that explains a little bit of it.
-[SPEAKER_00]: You have some equations.
-[SPEAKER_00]: Grayson was doing research.
-[SPEAKER_00]: He was trying to figure out how to make it.
-[SPEAKER_01]: So I've introduced you to... Why is it so important, though, to make or reproduce?
+[SPEAKER_01B]: I remember you. Who is your friend?
+[SPEAKER_01A]: He's my friend.
+[SPEAKER_01A]: I'm Jude.
+[SPEAKER_01A]: He's... Introduce yourself.
+[SPEAKER_02A]: Paul.
+[SPEAKER_01B]: Jude?
+[SPEAKER_01B]: Paul.
+[SPEAKER_01B]: Paul Rivero.
+[SPEAKER_01B]: Oh shit!
+[SPEAKER_01B]: I said that out loud.
+[SPEAKER_01B]: Paul Ribeiro.
+[SPEAKER_01B]: What does Prince Gian want with me?
+[SPEAKER_01A]: Nope.
+[SPEAKER_01A]: Nope.
+[SPEAKER_01A]: Don't think of it like that.
+[SPEAKER_01A]: Paul Ribeiro is my student.
+[SPEAKER_02A]: It's not like that.
+[SPEAKER_01A]: What do you mean it's not like that?
+[SPEAKER_02A]: No, I mean like with you, not you and me.
+[SPEAKER_01A]: Oh, okay.
+[SPEAKER_02A]: I think we're just going to confuse the man.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_01A]: He's my student.
+[SPEAKER_01B]: Ah.
+[SPEAKER_01B]: Hence...
+[SPEAKER_01B]: So, what are you interested in knowing, Jude?
+[SPEAKER_01A]: The recipe.
+[SPEAKER_01A]: I gave you the recipe.
+[SPEAKER_01A]: I was wondering what you've gleaned.
+[SPEAKER_01A]: I need to know.
+[SPEAKER_01B]: I have information for you.
+[SPEAKER_01B]: What do you know and are interested in Paul Rivera?
+[SPEAKER_01B]: Tell me.
+[SPEAKER_00A]: I don't think that's what I was asking.
+[SPEAKER_01B]: Oh.
+[SPEAKER_01B]: No, being interested in magic is fine.
+[SPEAKER_02A]: All right.
+[SPEAKER_00A]: Close to the portal.
+[SPEAKER_00A]: The door unlocks.
+[SPEAKER_00A]: You hear a heavy bolt go about.
+[SPEAKER_00A]: And he opens the door, come in.
+[SPEAKER_01B]: Be respectful, touch, nothing.
+[SPEAKER_02A]: Cool.
+[SPEAKER_00A]: You walk into a room with curios all over the place.
+[SPEAKER_00A]: And he says, he shuts the door behind you.
+[SPEAKER_00A]: This guy is like a human, obviously.
+[SPEAKER_00A]: He is sore.
+[SPEAKER_00A]: Old, hunched over.
+[SPEAKER_00A]: Wearing a robe, these very strange monocles.
+[SPEAKER_00A]: You know of them as glasses, you've seen them in the royal courts, but these are not normal for those people.
+[SPEAKER_01A]: Are they like really thick?
+[SPEAKER_00A]: They are.
+[SPEAKER_00A]: Maybe even extra ones.
+[SPEAKER_01B]: And he says, Paul,
+[SPEAKER_01B]: Sorry, I should not call you by your first name, but I do not know your last name, sir.
+[SPEAKER_01B]: Rivero is not what your family name is.
+[SPEAKER_01B]: I know a little history of your family.
+[SPEAKER_01B]: Which do you go by?
+[SPEAKER_02A]: I go by Rivero.
+[SPEAKER_01B]: Is that a given name?
+[SPEAKER_01B]: You do not use the name Azani?
+[SPEAKER_02A]: No, not really.
+[SPEAKER_01B]: Azani.
+[SPEAKER_01B]: How is your grandfather?
+[SPEAKER_01A]: Yeah, how is your grandfather?
+[SPEAKER_02A]: It's been a while.
+[SPEAKER_01B]: Has it?
+[SPEAKER_01B]: It's been a while since he's visited me.
+[SPEAKER_01B]: Yes.
+[SPEAKER_01B]: Oh, I'm just observing.
+[SPEAKER_01B]: You wish to know.
+[SPEAKER_01B]: Do you want him to know what I know too?
+[SPEAKER_01B]: What we spoke of?
+[SPEAKER_01A]: Yeah, he's on the case.
+[SPEAKER_01B]: Copper.
+[SPEAKER_01B]: Copper's the element?
+[SPEAKER_01B]: And sulfur.
+[SPEAKER_01B]: Combined in a way that few know.
+[SPEAKER_01B]: Come.
+[SPEAKER_01A]: Come see.
+[SPEAKER_01A]: We gave them a sample, remember, of the material that was taken on, was it Helm Island?
+[SPEAKER_01A]: Helm Island.
+[SPEAKER_01A]: On Helm Island, when we had that adventure and all that material, remember the sahuagin and those creatures?
+[SPEAKER_01A]: And what protects Helm Island specifically is that material.
+[SPEAKER_01A]: We took some and I asked him to analyze it.
+[SPEAKER_01A]: So we're here to, and that's what he just said, copper and sulfur, and now we're going to go see.
+[SPEAKER_01B]: But it's combined in a way that's very strange.
+[SPEAKER_01B]: Very new to me.
+[SPEAKER_01B]: It's a process.
+[SPEAKER_00A]: New to you?
+[SPEAKER_01A]: Oh.
+[SPEAKER_01A]: Never seen it before, that process?
+[SPEAKER_01B]: I don't know it.
+[SPEAKER_01B]: I know the elements.
+[SPEAKER_01B]: I've been able to break them down.
+[SPEAKER_01B]: I know it's there.
+[SPEAKER_01B]: There are some other trace elements, but basically copper and sulfur combined in a way that I've never seen before.
+[SPEAKER_01A]: Any poisons?
+[SPEAKER_01A]: Any poisons?
+[SPEAKER_01B]: It is poison.
+[SPEAKER_00A]: Oh, the copper and the sulfur.
+[SPEAKER_01B]: Together.
+[SPEAKER_01B]: Not for a man.
+[SPEAKER_00A]: In fact, he walks over to a place where you see some of the element, the white, yellowish powder, sitting there.
+[SPEAKER_01B]: This is what you saw.
+[SPEAKER_01B]: On the island.
+[SPEAKER_01B]: This is the sample you gave me.
+[SPEAKER_01B]: Look.
+[SPEAKER_00A]: He wets his finger, puts it down, puts it on his tongue.
+[SPEAKER_01B]: Nothing.
+[SPEAKER_01B]: Copper.
+[SPEAKER_01B]: Nothing to me.
+[SPEAKER_01B]: Sulfur.
+[SPEAKER_01B]: Nothing to me.
+[SPEAKER_01B]: Humans.
+[SPEAKER_01B]: Elves.
+[SPEAKER_01B]: No problem.
+[SPEAKER_01B]: To the gills of a fish.
+[SPEAKER_01B]: Knives.
+[SPEAKER_01B]: They cut and shred.
+[SPEAKER_00A]: He points over to a fishbowl with a goldfish.
+[SPEAKER_01B]: Shall I show you?
+[SPEAKER_01A]: Please.
+[SPEAKER_00A]: He takes a teeny pinch.
+[SPEAKER_01A]: Now this is the stuff that I provided.
+[SPEAKER_01A]: He didn't make this stuff?
+[SPEAKER_01B]: No.
+[SPEAKER_00A]: Goes over to the fishbowl and drops a teeny pinch.
+[SPEAKER_01B]: He goes, that's a thousand times too much.
+[SPEAKER_01B]: One one-thousandth would kill this fish.
+[SPEAKER_00A]: Fish is like swimming.
+[SPEAKER_00A]: Turns up close to the top, almost being silly.
+[SPEAKER_00A]: That's what we saw in the show.
+[SPEAKER_01B]: No human being would be affected by this.
+[SPEAKER_01B]: It's inert to us in this concentration and form.
+[SPEAKER_01B]: This same thing would kill us.
+[SPEAKER_01B]: Sulfur and iron would be death to us.
+[SPEAKER_01B]: This is for their blood.
+[SPEAKER_01A]: But you said there's still some elements that you can't detect.
+[SPEAKER_01B]: Ah, that's right.
+[SPEAKER_01A]: Oh.
+[SPEAKER_01B]: It's the way they're combined.
+[SPEAKER_01A]: That's the thing that you can't tell.
+[SPEAKER_01B]: I do not know how to make this.
+[SPEAKER_01B]: The way that it is constructed, the structure of this thing, which is copper and sulfur.
+[SPEAKER_02A]: Cheap.
+[SPEAKER_01B]: Cheap.
+[SPEAKER_01B]: Copper has some value, but sulfur you can find.
+[SPEAKER_01B]: You can buy it in the market.
+[SPEAKER_01B]: It's not completely inexpensive, but mass production could possibly happen.
+[SPEAKER_01A]: If I told you that this substance was originally produced in the Duke of Burghoff territories, would that give you any
+[SPEAKER_01B]: Oh, explain many things to me.
+[SPEAKER_01A]: Because it was.
+[SPEAKER_01A]: The substance was originally, the creation, the sample that I brought you was made 20 years ago.
+[SPEAKER_01A]: At least that was the last time that Prince Gian was able to acquire these samples.
+[SPEAKER_01A]: And it was made by or discovered by the Duke of Berghoff.
+[SPEAKER_01A]: And I know that he comes up against those mountains in the southwest of his kingdom.
+[SPEAKER_01B]: Well, of his domain.
+[SPEAKER_00A]: Who points to that?
+[SPEAKER_01B]: This was made by the Duke and possibly the Fieraxians themselves.
+[SPEAKER_01A]: Weird.
+[SPEAKER_01A]: I don't know the Phyraxians.
+[SPEAKER_02A]: This is the same powder I saw a long time ago.
+[SPEAKER_00A]: This was the stuff that you saw in the caves of the Helm Island.
+[SPEAKER_01A]: Remember the adventure where you fell into the water?
+[SPEAKER_02A]: Yeah, I know.
+[SPEAKER_00A]: The same stuff that you found in those barrels.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_02A]: The explosives.
+[SPEAKER_02A]: Yes.
+[SPEAKER_02A]: Okay.
+[SPEAKER_02A]: Do I know how it's made?
+[SPEAKER_00A]: No.
+[SPEAKER_00A]: That was kind of what John was saying.
+[SPEAKER_02A]: I thought I had something that explains a little bit of it.
+[SPEAKER_00A]: You have some equations.
+[SPEAKER_00A]: Grayson was doing research.
+[SPEAKER_00A]: He was trying to figure out how to make it.
+[SPEAKER_02A]: So I've introduced you to... Why is it so important, though, to make or reproduce?
 [out-of-band] [SPEAKER_01]: You're asking the DM, right?
 [out-of-band] [SPEAKER_01]: No, I'm asking him.
-[SPEAKER_01]: Well, you know why.
-[SPEAKER_00]: It's to keep the Skagen back there.
-[SPEAKER_00]: The sahuagin get killed by it, and so the sea principalities use it to make sure the sahuagin don't attack them.
-[SPEAKER_00]: Yeah.
-[SPEAKER_02]: And it's such a finite amount that they can sprinkle?
-[SPEAKER_01]: Yeah, I know.
-[SPEAKER_02]: Like, those stores were lasting for 20 years because we hadn't gotten any.
-[SPEAKER_01]: Yeah, I know.
-[SPEAKER_01]: I say to the guy, do you know this is explosive, right?
-[SPEAKER_00]: It's not.
-[SPEAKER_00]: Normally.
-[SPEAKER_00]: It's only explosive under certain conditions.
-[SPEAKER_00]: In a pressurized environment.
-[SPEAKER_00]: And also if it gets wet and ages a certain period of time.
-[SPEAKER_00]: Normally it's not inert, but it can be.
-[SPEAKER_00]: The process when put to sea water is
-[SPEAKER_00]: Exothermic is what I'll say.
-[SPEAKER_00]: When it gets wet, though, it will explode in some cases.
-[SPEAKER_00]: Is that what happened to you?
-[SPEAKER_01]: No.
-[SPEAKER_01]: What do you mean?
-[SPEAKER_01]: The point I'm trying to get at is, are any of my equations that I have useful to them?
-[SPEAKER_00]: Possibly.
-[SPEAKER_01]: I show them.
-[SPEAKER_00]: You don't have them with you.
-[SPEAKER_01]: Can I write them?
-[out-of-band] [SPEAKER_01]: In check.
-[out-of-band] [SPEAKER_01]: DC 20.
-[out-of-band] [SPEAKER_01]: You know what I mean?
-[out-of-band] [SPEAKER_01]: Well, my rolls have been shit today, so...
-[out-of-band] [SPEAKER_01]: But you get your intelligence plus.
-[out-of-band] [SPEAKER_01]: Yeah.
-[out-of-band] [SPEAKER_01]: Even then.
-[out-of-band] [SPEAKER_01]: Nope.
-[out-of-band] [SPEAKER_01]: Fat one.
-[SPEAKER_00]: Okay, so you start writing stuff down.
-[SPEAKER_01]: It goes...
-[SPEAKER_00]: This is nonsense.
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: I have the equations.
-[SPEAKER_01]: I just don't have them with me.
+[SPEAKER_00A]: Well, you know why.
+[SPEAKER_00A]: It's to keep the Skagen back there.
+[SPEAKER_00A]: The sahuagin get killed by it, and so the sea principalities use it to make sure the sahuagin don't attack them.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_01A]: And it's such a finite amount that they can sprinkle?
+[SPEAKER_02A]: Yeah, I know.
+[SPEAKER_01A]: Like, those stores were lasting for 20 years because we hadn't gotten any.
+[SPEAKER_02A]: Yeah, I know.
+[SPEAKER_02A]: I say to the guy, do you know this is explosive, right?
+[SPEAKER_01B]: It's not.
+[SPEAKER_01B]: Normally.
+[SPEAKER_01B]: It's only explosive under certain conditions.
+[SPEAKER_01B]: In a pressurized environment.
+[SPEAKER_01B]: And also if it gets wet and ages a certain period of time.
+[SPEAKER_01B]: Normally it's not inert, but it can be.
+[SPEAKER_01B]: The process when put to sea water is
+[SPEAKER_01B]: Exothermic is what I'll say.
+[SPEAKER_01B]: When it gets wet, though, it will explode in some cases.
+[SPEAKER_01B]: Is that what happened to you?
+[SPEAKER_02A]: No.
+[SPEAKER_02A]: What do you mean?
+[SPEAKER_02A]: The point I'm trying to get at is, are any of my equations that I have useful to them?
+[SPEAKER_01B]: Possibly.
+[SPEAKER_02A]: I show them.
+[SPEAKER_00A]: You don't have them with you.
+[SPEAKER_02A]: Can I write them?
+[game mechanics] [SPEAKER_02A]: In check.
+[game mechanics] [SPEAKER_02A]: DC 20.
+[game mechanics] [SPEAKER_02A]: You know what I mean?
+[game mechanics] [SPEAKER_02A]: Well, my rolls have been shit today, so...
+[game mechanics] [SPEAKER_02A]: But you get your intelligence plus.
+[game mechanics] [SPEAKER_02A]: Yeah.
+[game mechanics] [SPEAKER_02A]: Even then.
+[game mechanics] [SPEAKER_02A]: Nope.
+[game mechanics] [SPEAKER_02A]: Fat one.
+[SPEAKER_00A]: Okay, so you start writing stuff down.
+[SPEAKER_02A]: It goes...
+[SPEAKER_01B]: This is nonsense.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_02A]: I have the equations.
+[SPEAKER_02A]: I just don't have them with me.
 [out-of-band] [SPEAKER_01]: They're written down and uploaded.
-[SPEAKER_00]: Well, then bring them to me.
-[SPEAKER_00]: Bring them to me.
-[SPEAKER_00]: This is an interesting problem I would like to solve.
-[SPEAKER_00]: I assume that you want more of this, but my question to you is, why do you wish to kill fish?
-[SPEAKER_00]: No.
-[SPEAKER_00]: Sahuagin.
-[SPEAKER_00]: Ah.
-[SPEAKER_00]: Yes.
-[SPEAKER_00]: No, that is...
-[SPEAKER_02]: That makes sense.
-[SPEAKER_02]: It's the reason why the sahuagin haven't bothered to see principalities.
-[SPEAKER_00]: Ah, this is the magical shell.
-[SPEAKER_00]: I always wondered on this.
-[SPEAKER_00]: I always wondered on this.
-[SPEAKER_00]: This answers so many questions to me.
-[SPEAKER_02]: We are allowed to know that.
-[SPEAKER_00]: Am I not?
-[SPEAKER_02]: No.
-[SPEAKER_02]: But you, through us, yes.
-[SPEAKER_00]: Do you understand?
-[SPEAKER_00]: I understand that if Paul Rivera was here, then I'm protected.
-[SPEAKER_00]: Is that correct?
-[SPEAKER_01]: Yes, but if you were to let this information get known to by others of critical... Then that protection ends.
-[SPEAKER_00]: This is the life of Transvienter.
-[SPEAKER_00]: I have many secrets for many people.
-[SPEAKER_01]: Sure, but this would result in immediate death, I must warn.
-[SPEAKER_00]: Well, death is always immediate.
-[SPEAKER_00]: I'm sure there are many other things.
-[SPEAKER_00]: That's the best kind of death.
-[SPEAKER_00]: The quickest.
-[SPEAKER_01]: Well, I say immediate death.
-[SPEAKER_01]: I don't know how they kill you.
-[SPEAKER_02]: Do you happen to have any of Lord Franck's secrets?
-[SPEAKER_00]: Lord Franck has no secrets.
-[SPEAKER_00]: I don't know him.
-[SPEAKER_00]: Lord Franck's mind is like an open book.
-[SPEAKER_00]: Actually, I take that back.
-[SPEAKER_00]: LeFranc's mind is like a book that has been water damaged and there are pieces missing.
-[SPEAKER_00]: But sir, I ask you, obviously, I do not know how to make this yet, but you have some knowledge
-[SPEAKER_00]: Possibly.
-[SPEAKER_00]: I have.
-[SPEAKER_01]: That you can impart to me.
-[SPEAKER_01]: Yeah.
-[SPEAKER_00]: Because, literally, what you scrolled on this page is if you shit on it.
-[SPEAKER_00]: Well, I wouldn't say enough page, I was hoping maybe a chalkboard, but whatever.
-[SPEAKER_00]: I can have chalk for you and a board, but I wish your mind was more ordered than this.
-[SPEAKER_01]: Okay, I step outside.
-[SPEAKER_01]: I should not be killed for this.
-[SPEAKER_01]: I'll get you that information really quick.
-[SPEAKER_02]: I just go to the door and I go look.
-[SPEAKER_02]: If I stay here with him, do you know how to get back into the palace?
-[SPEAKER_01]: Oh, I'm just gonna send my homoculi to go look at him for me.
-[SPEAKER_02]: You can do that?
-[SPEAKER_02]: Yeah.
-[out-of-band] [SPEAKER_01]: It's pretty cool, right?
-[out-of-band] [SPEAKER_01]: So wait a second.
-[out-of-band] [SPEAKER_00]: Here's the deal.
-[out-of-band] [SPEAKER_00]: You can't just send your homoculi.
+[SPEAKER_01B]: Well, then bring them to me.
+[SPEAKER_01B]: Bring them to me.
+[SPEAKER_01B]: This is an interesting problem I would like to solve.
+[SPEAKER_01B]: I assume that you want more of this, but my question to you is, why do you wish to kill fish?
+[SPEAKER_01A]: No.
+[SPEAKER_01A]: Sahuagin.
+[SPEAKER_01B]: Ah.
+[SPEAKER_01B]: Yes.
+[SPEAKER_01B]: No, that is...
+[SPEAKER_01A]: That makes sense.
+[SPEAKER_01A]: It's the reason why the sahuagin haven't bothered to see principalities.
+[SPEAKER_01B]: Ah, this is the magical shell.
+[SPEAKER_01B]: I always wondered on this.
+[SPEAKER_01B]: I always wondered on this.
+[SPEAKER_01B]: This answers so many questions to me.
+[SPEAKER_01A]: We are allowed to know that.
+[SPEAKER_01B]: Am I not?
+[SPEAKER_01A]: No.
+[SPEAKER_01A]: But you, through us, yes.
+[SPEAKER_01A]: Do you understand?
+[SPEAKER_01B]: I understand that if Paul Rivera was here, then I'm protected.
+[SPEAKER_01B]: Is that correct?
+[SPEAKER_02A]: Yes, but if you were to let this information get known to by others of critical... Then that protection ends.
+[SPEAKER_01B]: This is the life of a transmuter.
+[SPEAKER_01B]: I have many secrets for many people.
+[SPEAKER_02A]: Sure, but this would result in immediate death, I must warn.
+[SPEAKER_01B]: Well, death is always immediate.
+[SPEAKER_01B]: I'm sure there are many other things.
+[SPEAKER_01B]: That's the best kind of death.
+[SPEAKER_01B]: The quickest.
+[SPEAKER_02A]: Well, I say immediate death.
+[SPEAKER_02A]: I don't know how they kill you.
+[SPEAKER_01A]: Do you happen to have any of Lord Franck's secrets?
+[SPEAKER_01B]: Lord Franck has no secrets.
+[SPEAKER_01B]: I don't know him well.
+[SPEAKER_01B]: Lord Franck's mind is like an open book.
+[SPEAKER_01B]: Actually, I take that back.
+[SPEAKER_01B]: LeFranc's mind is like a book that has been water damaged and there are pieces missing.
+[SPEAKER_02A]: But sir, I ask you, obviously, I do not know how to make this yet, but you have some knowledge
+[SPEAKER_01B]: Possibly.
+[SPEAKER_01B]: I have.
+[SPEAKER_02A]: That you can impart to me.
+[SPEAKER_01B]: Yeah.
+[SPEAKER_01B]: Because, literally, what you scrolled on this page is if you shit on it.
+[SPEAKER_01B]: Well, I wouldn't say enough page, I was hoping maybe a chalkboard, but whatever.
+[SPEAKER_01B]: I can have chalk for you and a board, but I wish your mind was more ordered than this.
+[SPEAKER_02A]: Okay, I step outside.
+[SPEAKER_02A]: I should not be killed for this.
+[SPEAKER_02A]: I'll get you that information really quick.
+[SPEAKER_01A]: I just go to the door and I go look.
+[SPEAKER_01A]: If I stay here with him, do you know how to get back into the palace?
+[SPEAKER_02A]: Oh, I'm just gonna send my homoculi to go look at him for me.
+[SPEAKER_01A]: You can do that?
+[SPEAKER_02A]: Yeah.
+[game mechanics] [SPEAKER_02A]: It's pretty cool, right?
+[game mechanics] [SPEAKER_02A]: So wait a second.
+[game mechanics] [SPEAKER_00A]: Here's the deal.
+[game mechanics] [SPEAKER_00A]: You can't just send your homoculi.
 [out-of-band] [SPEAKER_00]: I didn't want to have to bring up the limitations of the homoculi, but I'll send you an email on that.
 [out-of-band] [SPEAKER_00]: Because I don't want to tell Jude what your limitations of the homoculi are.
-[SPEAKER_02]: But what you could do is go get as close as you can, or maybe you know a way to get into the palace all on your own.
-[SPEAKER_01]: Yeah, I do.
-[SPEAKER_02]: So if you know that way, why don't I stay here with this guy, make sure that we don't lose him, the old fart behind me.
-[SPEAKER_01]: Cool.
-[SPEAKER_01]: I'll be back momentarily.
-[SPEAKER_02]: Within the hour?
-[SPEAKER_02]: Yeah.
-[SPEAKER_01]: Can you do that?
-[SPEAKER_01]: Yeah.
-[SPEAKER_02]: Okay.
-[SPEAKER_02]: If, when you come back, you see a lot of bright flashes and shit going off inside this place, because I've actually been worried about this guy getting taken out.
-[SPEAKER_02]: I legitimately have.
-[SPEAKER_02]: That means come quick and kill whoever's not near him.
-[SPEAKER_02]: Fair?
-[SPEAKER_01]: It will be done.
-[SPEAKER_02]: What are you talking about over there?
-[SPEAKER_02]: Oh, I was just telling him to be quick.
-[SPEAKER_02]: To get his papers.
-[SPEAKER_01]: How old is this guy?
-[SPEAKER_01]: You don't know, because he looks so old.
-[SPEAKER_02]: Oh, okay.
-[SPEAKER_02]: He looks like a cabbage patch.
-[SPEAKER_00]: It's kind of a... Face sunken in.
-[SPEAKER_00]: Teeth, definitely.
-[SPEAKER_00]: What if you'd like?
-[SPEAKER_00]: He didn't care about hygiene.
-[SPEAKER_00]: Clearly.
-[SPEAKER_02]: He didn't tell me he smelled.
-[SPEAKER_00]: He has that old person smell.
-[SPEAKER_00]: It's a weird smell, but no, it's more like...
-[SPEAKER_00]: Sulfur.
-[SPEAKER_00]: Oh, the chemicals that he deals with.
-[SPEAKER_00]: And urine.
-[SPEAKER_00]: Sure.
-[SPEAKER_00]: Right.
-[SPEAKER_00]: And BO.
-[SPEAKER_02]: Back guano.
-[SPEAKER_00]: Exactly.
-[SPEAKER_00]: You're not really sure if it's experiment.
-[SPEAKER_02]: It's spell components.
-[SPEAKER_00]: Exactly.
-[SPEAKER_00]: And there are a lot of stains on his robe.
-[SPEAKER_00]: I'm done.
-[SPEAKER_01]: All right.
-[SPEAKER_02]: You go.
-[SPEAKER_02]: I'll stay here with the guy.
-[SPEAKER_02]: You know how to get back here.
-[SPEAKER_02]: Bring your documents.
-[SPEAKER_02]: He's going to want to see your documents.
-[SPEAKER_02]: Not just what you can recall.
-[SPEAKER_00]: Paul Rivera goes back to the palace.
+[SPEAKER_01A]: But what you could do is go get as close as you can, or maybe you know a way to get into the palace all on your own.
+[SPEAKER_02A]: Yeah, I do.
+[SPEAKER_01A]: So if you know that way, why don't I stay here with this guy, make sure that we don't lose him, the old fart behind me.
+[SPEAKER_02A]: Cool.
+[SPEAKER_02A]: I'll be back momentarily.
+[SPEAKER_01A]: Within the hour?
+[SPEAKER_02A]: Yeah.
+[SPEAKER_02A]: Can you do that?
+[SPEAKER_02A]: Yeah.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: If, when you come back, you see a lot of bright flashes and shit going off inside this place, because I've actually been worried about this guy getting taken out.
+[SPEAKER_01A]: I legitimately have.
+[SPEAKER_01A]: That means come quick and kill whoever's not near him.
+[SPEAKER_01A]: Fair?
+[SPEAKER_02A]: It will be done.
+[SPEAKER_01B]: What are you talking about over there?
+[SPEAKER_01A]: Oh, I was just telling him to be quick.
+[SPEAKER_01A]: To get his papers.
+[SPEAKER_02A]: How old is this guy?
+[SPEAKER_02A]: You don't know, because he looks so old.
+[SPEAKER_01A]: Oh, okay.
+[SPEAKER_01A]: He looks like a cabbage patch.
+[SPEAKER_00A]: It's kind of a... Face sunken in.
+[SPEAKER_00A]: Teeth, definitely.
+[SPEAKER_00A]: What if you'd like?
+[SPEAKER_00A]: He didn't care about hygiene.
+[SPEAKER_00A]: Clearly.
+[SPEAKER_01A]: He didn't tell me he smelled.
+[SPEAKER_00A]: He has that old person smell.
+[SPEAKER_00A]: It's a weird smell, but no, it's more like...
+[SPEAKER_00A]: Sulfur.
+[SPEAKER_00A]: Oh, the chemicals that he deals with.
+[SPEAKER_00A]: And urine.
+[SPEAKER_00A]: Sure.
+[SPEAKER_00A]: Right.
+[SPEAKER_00A]: And BO.
+[SPEAKER_01A]: Back guano.
+[SPEAKER_00A]: Exactly.
+[SPEAKER_00A]: You're not really sure if it's experiment.
+[SPEAKER_01A]: It's spell components.
+[SPEAKER_00A]: Exactly.
+[SPEAKER_00A]: And there are a lot of stains on his robe.
+[SPEAKER_00A]: I'm done.
+[SPEAKER_02A]: All right.
+[SPEAKER_01A]: You go.
+[SPEAKER_01A]: I'll stay here with the guy.
+[SPEAKER_01A]: You know how to get back here.
+[SPEAKER_01A]: Bring your documents.
+[SPEAKER_01A]: He's going to want to see your documents.
+[SPEAKER_01A]: Not just what you can recall.
+[SPEAKER_00A]: Paul Rivera goes back to the palace.

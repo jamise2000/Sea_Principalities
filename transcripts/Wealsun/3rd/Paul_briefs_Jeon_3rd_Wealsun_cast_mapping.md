@@ -5,12 +5,22 @@
 **Cast (index):** Paul.
 **In the room (2 voices):** the **DM** (narrating + voicing **Prince Jeon**, rendered "Gian"/"John") and **Paul**'s player (in-character Paul + out-of-character asides). This is Paul's private debrief with Prince Jeon; Jamis is explicitly *not* present (lines 38–41).
 
-## Speaker → character mapping
+## Speaker → character mapping (sub-tags applied to the body)
 
-| Tag | Primary speaker | Also carries | How we know |
-|-----|-----------------|--------------|-------------|
-| **SPEAKER_01** | **DM** — scene narration + **Prince Jeon** ("Gian") | Many of Paul's replies (tag bleed), and Paul's OOC clarifications | Opens with narration ("Paul Rivero returns to Monmurg… led to John's office," 1–19); delivers Jeon's long charge — Grayson, the powder, the tutoring, "I charge you…" (258–443). "Gian" named as the speaker at 21. |
-| **SPEAKER_00** | **Paul** (the PC — his first-person account) | Some of Jeon's questions/interjections (tag bleed) | Delivers Paul's first-person Helm account ("We sailed to the island… Me, Jude, and 20 other Marines," 50–64, 106–134) and his assessments of the party (217–257). |
+Two people in the room: **Prince Jeon** (voiced by the DM, who also narrates) and **Paul**. The diarizer's two tags bled, so the body has been split into sub-tags:
+
+| Sub-tag | Who |
+|---|---|
+| **SPEAKER_01A** | DM / **Prince Jeon** (narration + Jeon's dialogue) — dominant of tag 01 |
+| **SPEAKER_01B** | **Paul** — his lines the diarizer filed under tag 01 |
+| **SPEAKER_00A** | **Paul** — dominant of tag 00 |
+| **SPEAKER_00B** | DM / **Prince Jeon** — his lines filed under tag 00 |
+
+So **Jeon = {01A, 00B}** and **Paul = {00A, 01B}**. Assignment follows the author's rules: Helm/mission **questions → Jeon**, mission **answers → Paul**; **history/family questions → Paul**, those **answers → Jeon**.
+
+- **Flipped to Paul (01B):** 4, 14, 23, 27, 40, 42, 47, 49, 97, 153, 154, 157, 177, 180, 188–190, 193, 200, 201, 242, 280, 284, 288, 296, 321, 323, 325, 332, 333, 336, 339, 344, 349, 361, 362, 369, 370, 395–397, 400, 413, 414, 420, 439, 442, 444. *(242, 284, 332, 333, 336, 339 added per author review — Paul's pushback in the Fairwind/family exchange.)*
+- **Flipped to Jeon (00B):** 34, 67, 72, 84, 92, 93, 94, 141, 186, 291, 446.
+- **Least certain — please check:** 84 ("The Toli?" echo), 97 (Paul recounting the overheard Toli speech), 141 ("Treason."), 186 ("And that was the Toli ship?"), 200–201 ("We saw them sending ships…"), 396–397 ("a wizard spy").
 
 ## Flagged ambiguities (author: please correct)
 

@@ -1,32 +1,32 @@
-[SPEAKER_00]: Evening of the 4th of Well Sun, Paul Rivero walks out into the early evening, early nighttime of the 4th of Well Sun into...
-[SPEAKER_00]: The weather's getting a little bit warmer, but at this point the moon is not.
-[SPEAKER_00]: Full, it's getting larger, so there's a fair amount of light on the streets that you walk into.
-[SPEAKER_00]: Now, the thing about the Alchemist shop is that it is not in the worst part of the foreign district.
-[SPEAKER_00]: But it's running the edge of the poor district.
-[SPEAKER_00]: An area called the Warren, which is basically a mishmash of, it's kind of like a shanty town.
-[SPEAKER_00]: All the buildings have been kind of put together, makeshift.
-[SPEAKER_00]: The people that live there are destitute.
-[SPEAKER_00]: They're the poorest of the poor in Monmurg.
-[SPEAKER_00]: A lot of them are foreigners that haven't been able to
-[SPEAKER_00]: Make a fortune as they thought here and they end up there.
-[SPEAKER_00]: A lot of them are people that come to Monmurg thinking they're going to be able to make money in the grand market and for whatever reason fall on hard times.
-[SPEAKER_00]: And so they end up there.
-[SPEAKER_00]: And they basically latch together whatever kind of shelter they can from whatever they can find.
-[SPEAKER_00]: And so it's kind of just this
-[SPEAKER_00]: Warren, maze-like, the streets are very small, of these wooden buildings that are kind of scaffolded on top of what were more permanent buildings in days past.
-[SPEAKER_00]: But it's not a nice place.
-[SPEAKER_00]: And
-[SPEAKER_00]: The people that live there are incredibly destitute and there are multiple generations of them.
-[SPEAKER_00]: So it's kind of a dangerous place to be.
-[SPEAKER_01]: A little rough.
-[SPEAKER_00]: Yeah, so this is kind of a map of the foreign district as you know it, right?
-[SPEAKER_00]: And not all of it is
-[SPEAKER_00]: Horrible.
-[SPEAKER_00]: You'll notice that at the very top, that's the north gate.
-[SPEAKER_00]: That was the one you came out of when you were going to the market.
-[SPEAKER_00]: That's the road you took.
-[SPEAKER_00]: It's called Beggar's Row.
-[SPEAKER_01]: And that's where you get to the market there.
+[SPEAKER_00A]: Evening of the 4th of Well Sun, Paul Rivero walks out into the early evening, early nighttime of the 4th of Well Sun into...
+[SPEAKER_00A]: The weather's getting a little bit warmer, but at this point the moon is not.
+[SPEAKER_00A]: Full, it's getting larger, so there's a fair amount of light on the streets that you walk into.
+[SPEAKER_00A]: Now, the thing about the Alchemist shop is that it is not in the worst part of the foreign district.
+[SPEAKER_00A]: But it's running the edge of the poor district.
+[SPEAKER_00A]: An area called the Warren, which is basically a mishmash of, it's kind of like a shanty town.
+[SPEAKER_00A]: All the buildings have been kind of put together, makeshift.
+[SPEAKER_00A]: The people that live there are destitute.
+[SPEAKER_00A]: They're the poorest of the poor in Monmurg.
+[SPEAKER_00A]: A lot of them are foreigners that haven't been able to
+[SPEAKER_00A]: Make a fortune as they thought here and they end up there.
+[SPEAKER_00A]: A lot of them are people that come to Monmurg thinking they're going to be able to make money in the grand market and for whatever reason fall on hard times.
+[SPEAKER_00A]: And so they end up there.
+[SPEAKER_00A]: And they basically latch together whatever kind of shelter they can from whatever they can find.
+[SPEAKER_00A]: And so it's kind of just this
+[SPEAKER_00A]: Warren, maze-like, the streets are very small, of these wooden buildings that are kind of scaffolded on top of what were more permanent buildings in days past.
+[SPEAKER_00A]: But it's not a nice place.
+[SPEAKER_00A]: And
+[SPEAKER_00A]: The people that live there are incredibly destitute and there are multiple generations of them.
+[SPEAKER_00A]: So it's kind of a dangerous place to be.
+[SPEAKER_02A]: A little rough.
+[SPEAKER_00A]: Yeah, so this is kind of a map of the foreign district as you know it, right?
+[SPEAKER_00A]: And not all of it is
+[SPEAKER_00A]: Horrible.
+[SPEAKER_00A]: You'll notice that at the very top, that's the north gate.
+[SPEAKER_00A]: That was the one you came out of when you were going to the market.
+[SPEAKER_00A]: That's the road you took.
+[SPEAKER_00A]: It's called Beggar's Row.
+[SPEAKER_02A]: And that's where you get to the market there.
 [out-of-band] [SPEAKER_00]: Good.
 [out-of-band] [SPEAKER_00]: They should.
 [out-of-band] [SPEAKER_00]: It's supposed to, because if you don't, you don't get a good seal.
@@ -36,345 +36,346 @@
 [out-of-band] [SPEAKER_00]: Okay.
 [out-of-band] [SPEAKER_00]: All right.
 [out-of-band] [SPEAKER_00]: Sorry.
-[SPEAKER_00]: So, yeah, so this is the Beggar's Row.
-[SPEAKER_00]: And I came from this gate?
-[SPEAKER_00]: I came from this gate?
-[SPEAKER_00]: You walked from this gate.
-[SPEAKER_00]: There's another gate over here that's the main gate.
-[SPEAKER_00]: You like this gate better, and that's why you took it, because nobody sees you leave the palace, right?
-[SPEAKER_00]: So this is actually about the same distance, it's just that you walk down an area where you can be
-[SPEAKER_00]: Unknown.
-[SPEAKER_00]: You go this way, people know what you're doing.
-[SPEAKER_00]: This area of the foreign district actually is not bad.
-[SPEAKER_00]: This is kind of where the well-to-do merchants that are from different parts of the world come and they rent apartments in these areas to be able to do their dealings.
-[SPEAKER_00]: This area is a little more shady, but not so.
-[SPEAKER_00]: That's the Warren right there.
-[SPEAKER_00]: That's where the ultimate shop is.
-[SPEAKER_00]: This area right here
-[SPEAKER_00]: It's tenants, a mishmash of ruffs, mercenaries, things like that.
-[SPEAKER_00]: People that are basically trying to make a living.
-[SPEAKER_00]: Not necessarily thieves or anything, but just basically foreigners that are kind of involved in sword work more than anything.
-[SPEAKER_00]: This is known as God's Row.
-[SPEAKER_00]: These are all the temples that show up in this area.
-[SPEAKER_00]: To try and convert people to the various religions.
-[SPEAKER_00]: And a lot of the gods are foreign gods, but they've rented those places.
-[SPEAKER_00]: So it's a very cosmopolitan place, places that are high and low.
-[SPEAKER_00]: But yeah, you're right on the edge of the worst.
-[SPEAKER_00]: So anyway, you walk out into the night and begin walking down the decently wide boulevard.
-[SPEAKER_00]: It's about 20 feet wide, this way, to get to God's Row, which you're gonna walk up and get into the North Gate.
-[SPEAKER_00]: Okay?
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: And at this point in the evening, there are people on the street, not a lot of patrols next to the Warrens, but at the end of it, when you reach here, the beginning of God's Row, there are guards on the street.
-[SPEAKER_00]: So you feel fairly comfortable.
-[SPEAKER_00]: This is the road to the Harbor District.
-[SPEAKER_00]: These are the gates to the Harbor District.
-[SPEAKER_00]: And there is a very big military presence right there as well.
-[SPEAKER_00]: That's kind of where Jameis owns all this area.
-[SPEAKER_00]: And he keeps guards all over.
-[SPEAKER_00]: So even though the foreign district doesn't have kind of the military presence that
-[SPEAKER_00]: The Harvard District does or the Royal District does.
-[SPEAKER_00]: It's sandwiched in between the two of them.
-[SPEAKER_00]: So at any point, they could be flooded by both directions.
-[SPEAKER_00]: But in various parts of the foreign district, there is no
-[SPEAKER_00]: There was no authority.
-[SPEAKER_00]: These areas, people usually pay for their own mercenaries, getting them usually from this area to defend them.
-[SPEAKER_00]: That's kind of what these guys do.
-[SPEAKER_00]: Swords for hire.
-[SPEAKER_00]: Anyway, so you walk back up God's Row, looking at the various hawkers,
-[SPEAKER_00]: Magicians, other charlatans, applying their wares, crying out for salvation, either for themselves or for you.
-[SPEAKER_00]: I assume that you are wearing what mask?
-[SPEAKER_00]: Just your leather one?
-[SPEAKER_00]: You don't want to be wearing your silver one, do you?
-[SPEAKER_01]: No, not my silver one.
-[SPEAKER_01]: Not unless I'm in the palace.
-[SPEAKER_01]: Yeah, probably just the other one.
-[SPEAKER_00]: Okay.
-[SPEAKER_00]: So, I mean, as you pass by, people really don't recognize who you are, even though from your
-[SPEAKER_00]: You know, fairly well-put-together, studied leather and weapons.
-[SPEAKER_00]: They assume that you're some kind of guard or mercenary, so they call out to you.
-[SPEAKER_00]: And there are a couple of beggars that ask you for alms as you pass.
-[SPEAKER_00]: But, I mean, unless you want to stop or do anything, you can just pass them by without problem.
-[SPEAKER_00]: Yeah, just pass them.
-[SPEAKER_00]: Okay.
-[SPEAKER_00]: You make your way back up to the North Gate and to travel from the Alchemist's place to the North Gate is probably about a 10 minute walk, unhurried, probably around 1,500 feet going through the roads.
-[SPEAKER_00]: And the crowd is not that great at this point.
-[SPEAKER_00]: You get up to the North Gate and what do you do?
-[SPEAKER_01]: What do you mean by the crowd is not great?
-[SPEAKER_00]: I mean, it's thin.
-[SPEAKER_00]: I mean, during the day, the foreign district can be just as packed as the merchant's district, right?
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: But because of the siege, and because evening is coming on, and you assume because also of the rumors going around about what happened at Helms Island,
-[SPEAKER_00]: The atmosphere of the area is subdued.
-[SPEAKER_00]: So you know that ever since Port Torpen had been burned, there's been kind of a weird feel in the air.
-[SPEAKER_00]: But you're not sure if the rumors about Helm Island have gotten out yet.
-[SPEAKER_00]: It's only been a day.
-[SPEAKER_00]: But you do remember, and you think, Joanne Moraine's died.
-[SPEAKER_01]: Yeah, that's pretty noticeable.
-[SPEAKER_01]: That's not something that goes, yeah.
-[SPEAKER_00]: Now, they could be on the island, right?
-[SPEAKER_00]: But...
-[SPEAKER_00]: I mean, it's possible that the Marines that brought you back... Aren't they technically still fighting there?
-[SPEAKER_01]: Because we never took it over fully.
-[SPEAKER_01]: We escaped.
-[SPEAKER_00]: So what happened was...
-[SPEAKER_00]: When you were escaping, three coasters came to where you were.
-[SPEAKER_01]: Yeah, I remember that.
-[SPEAKER_00]: And they were full of, there were 750 guys, 250 on each.
-[SPEAKER_00]: And you got on one of the boats, and two of the boats peeled off to go to Helms Island.
-[SPEAKER_01]: Right.
-[SPEAKER_00]: That's the last line now.
-[SPEAKER_00]: That's the last you've heard of.
-[SPEAKER_00]: And then you went up and had your deep roots with Jameis and all of that.
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: So you don't know what's happening there.
-[SPEAKER_00]: You'd think that maybe that would be something you might want to ask him in the future.
-[SPEAKER_00]: However, the conversations you've had with Jude basically are, let's figure out what's going on, and you were very interested in this compound because obviously it's the magical ward that's supposed to protect Monmurg from
-[SPEAKER_00]: And that's why you went down to talk to the alchemist.
-[SPEAKER_01]: And if you remember what the alchemist told you, he named the compound.
-[SPEAKER_01]: He named the compound and I said that I have some... Notes on it.
-[SPEAKER_01]: ...writing that might be useful.
-[SPEAKER_00]: And he, what he said was, he identified it as copper sulfate.
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: Is what he called it.
-[SPEAKER_00]: And he used the Sewell name for it, right, to kind of describe it.
-[SPEAKER_00]: But he said it was pretty rare and it's something that has to be manufactured and very few people know how to do it.
-[SPEAKER_00]: And you were like, okay, I'm going to go get the notes because I want to show you and let's see if you can do this, right?
-[SPEAKER_00]: So anyway, you come to the Northgate and what do you want to do?
-[SPEAKER_01]: Can I enter?
-[SPEAKER_01]: Or is it closed?
-[SPEAKER_00]: I think it's closed.
-[SPEAKER_01]: I call for a guard.
-[SPEAKER_00]: You said guard, right.
-[SPEAKER_00]: A guard comes over and says, yes, can I help you?
-[SPEAKER_00]: I'm Paul Rivera.
-[SPEAKER_00]: Let me through.
-[SPEAKER_00]: Lord Rivera, at once, walks down and opens up the side gate.
-[SPEAKER_00]: And you recognize that the man is the same man that was guarding the gate when you were attacked.
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: Please come through the side door.
-[SPEAKER_00]: I don't want you to bring up the bars tonight.
-[SPEAKER_00]: Sure.
-[SPEAKER_00]: Rumor is, Paul, I do not wish to overste my bounds, Lord Rivera.
-[SPEAKER_00]: You are on.
-[SPEAKER_00]: Helm Island.
-[SPEAKER_00]: Is this true?
-[SPEAKER_01]: Who told you these rumors?
-[SPEAKER_00]: Well, a friend of mine was overseeing the Royal Docks and they said you were one of the men that got on the boat.
-[SPEAKER_00]: He saw you in your silver mask.
-[SPEAKER_00]: Think nothing of it.
-[SPEAKER_00]: I do not wish to get my friend in trouble.
-[SPEAKER_01]: Hm.
-[SPEAKER_01]: I'll walk away.
-Okay.
-Okay.
-[SPEAKER_00]: So...
-[SPEAKER_00]: Giving him nothing.
-[SPEAKER_00]: You walk back up the stairway to the Royal Palace, taking another five minutes in the night to come to your side entrance that's on the coastal side.
-[SPEAKER_00]: And you go in and go to your private bedchamber.
-[SPEAKER_00]: Now what do you want to collect?
-[SPEAKER_01]: I want to collect anything I have on that powder.
-[SPEAKER_01]: And I think I still have some powder, actually.
-[SPEAKER_01]: I do.
-[SPEAKER_01]: Well, you have a sample of the powder.
-[SPEAKER_01]: I have a sample, but I also have a whole keg of it, right?
-[SPEAKER_00]: You have three kegs of it.
-[SPEAKER_00]: Three kegs of it.
-[SPEAKER_00]: That's squirreled away down.
-[SPEAKER_00]: Yeah, we'll just leave those.
-[SPEAKER_00]: I just need those.
-[SPEAKER_00]: But you have a packet of it, right?
-[SPEAKER_01]: Yeah, I'll take the packet.
-[SPEAKER_01]: Okay.
-[SPEAKER_00]: And you want to take Grayson's notes on the subject?
-[SPEAKER_00]: Yes.
-[SPEAKER_00]: Not the Manual of the Homoculus?
-[SPEAKER_01]: No, not the Manual of the Homoculus.
-[SPEAKER_00]: Okay.
-[SPEAKER_00]: Alright, so do you have any questions or thoughts that you want to ask me before we go on?
-[SPEAKER_01]: What time of day is it right now?
-[SPEAKER_01]: Because I thought we left at night to go there.
-[SPEAKER_00]: You left in the early evening.
-[SPEAKER_01]: Okay.
-[SPEAKER_00]: When the sun was going down.
-[SPEAKER_00]: After you had kind of done your whole day of debriefing.
-[SPEAKER_00]: Yeah, yeah, yeah.
-[SPEAKER_00]: And then Jude was kind of like training you to be a wizard.
-[SPEAKER_00]: He was teaching you how to cast.
-[SPEAKER_00]: And I learned mending.
-[SPEAKER_00]: You learned mending.
-[SPEAKER_00]: So you've been making a definite progress.
-[SPEAKER_01]: Yeah.
-[SPEAKER_00]: But right now I would say it's probably around 8.30.
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: Don't I also have...
-[SPEAKER_01]: There's also supposed to be some guy that I have at a bar, I remember.
-[SPEAKER_00]: So, you think back to the...
-[SPEAKER_00]: It was an interrogation that you and Jude had with this guy named Gregory.
-[SPEAKER_01]: Yeah, Gregory, that's right.
-[SPEAKER_00]: And he told you about the guy named Jobs, who was the guy that was with him when they attacked you.
-[SPEAKER_00]: And he told you that he would be working for you and Jude to try and get you in with the head of the thieves' guild.
-[SPEAKER_00]: Because we threatened him.
-[SPEAKER_01]: Well, he basically said... We'll kill you and your family if you don't.
-[SPEAKER_00]: And there were other things, too.
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: I mean, the implied threat of cutting his hand off, all that stuff, was part of it.
-[SPEAKER_00]: But Jude basically said that...
-[SPEAKER_00]: He convinced him mainly by saying, uh, look, there's stuff going on, and you're a thief, and we know that, but you could be a loyal thief, which means you're not a traitor to Lord Gion.
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: And if you're a loyal thief, it's a lot better when getting your hand cut off for thieving is a lot better than hanging over the wall.
-[SPEAKER_00]: That's kind of what he put out.
-[SPEAKER_00]: And so Jude kind of had the implied threat.
-[SPEAKER_00]: You had the implied threat, but there was also the honey, which was, if you're our man, you're going to be our man.
-[SPEAKER_00]: That guy is supposed to set up a meeting with you with the head of the thieves guild in about, I would say, three days.
-[SPEAKER_00]: And you want to talk to Janice because what you're trying to do is track down those Toli agents, right?
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: I think that's everything about the powder.
-[SPEAKER_01]: Yeah, I think that was my one question.
-[SPEAKER_01]: Okay.
-[SPEAKER_00]: Let's go back.
-[SPEAKER_00]: Okay, so you collect the works, you collect the sample of powder, and you return down the stairs towards the northern
-[SPEAKER_00]: So, you reach the northern guard house again, and the guard sees you and knows you, and he opens the door and says, Sir, and you can tell he's being very withdrawn because he doesn't want to get on your bad side again.
-[SPEAKER_00]: Yeah, is it the same guy?
-[SPEAKER_01]: It's totally the same guy.
-[SPEAKER_00]: He knows you do not like people knowing your business, and so he's decided not to try and be friendly with you.
-[SPEAKER_00]: Okay, so he opens the door and lets you out to the thing.
-[SPEAKER_01]: I turn around and I ask, what's your name?
-[SPEAKER_00]: Rodiger, sir.
-[SPEAKER_01]: Rodiger?
-[SPEAKER_00]: Yes.
-[SPEAKER_01]: Thanks, Rodiger.
-[SPEAKER_01]: Can I just turn around and walk away?
-[SPEAKER_00]: Okay, as you turn around, flame bursts off in the distance.
-[SPEAKER_00]: You can see it.
-[SPEAKER_00]: It's maybe a thousand feet away, and normally you could see a porch being held, but this is like a burst of flame.
-[SPEAKER_00]: And instantly it comes to mind, this is your evoker.
-[SPEAKER_00]: Because you've seen Jude do this before.
-[SPEAKER_00]: Oh, he's done the spell?
-[SPEAKER_00]: Do you remember when you guys were on the docks?
-[SPEAKER_01]: Yeah, he did that.
-[SPEAKER_01]: Was it a wall of fire?
-[SPEAKER_01]: He did a couple.
-[SPEAKER_00]: One was a burst of flames that enveloped the enemies that were coming towards you.
-[SPEAKER_00]: And then you saw him do it again down in the cavern.
-[SPEAKER_00]: So, unmistakably, this is dude...
-[SPEAKER_00]: I'm thinking...
-[out-of-band] [SPEAKER_00]: Roll a intelligence check.
-[out-of-band] [SPEAKER_00]: So it's your plus.
-[out-of-band] [SPEAKER_00]: Uh, 18.
-[SPEAKER_00]: Your stomach drops.
-[SPEAKER_00]: Because you're worried.
-[SPEAKER_00]: Warren is a tinderbox on a good day.
-[SPEAKER_00]: And during the summer, it's much worse.
-[SPEAKER_00]: And if Jude has just let flame go in that area.
+[SPEAKER_00A]: So, yeah, so this is the Beggar's Row.
+[SPEAKER_00A]: And I came from this gate?
+[SPEAKER_00A]: I came from this gate?
+[SPEAKER_00A]: You walked from this gate.
+[SPEAKER_00A]: There's another gate over here that's the main gate.
+[SPEAKER_00A]: You like this gate better, and that's why you took it, because nobody sees you leave the palace, right?
+[SPEAKER_00A]: So this is actually about the same distance, it's just that you walk down an area where you can be
+[SPEAKER_00A]: Unknown.
+[SPEAKER_00A]: You go this way, people know what you're doing.
+[SPEAKER_00A]: This area of the foreign district actually is not bad.
+[SPEAKER_00A]: This is kind of where the well-to-do merchants that are from different parts of the world come and they rent apartments in these areas to be able to do their dealings.
+[SPEAKER_00A]: This area is a little more shady, but not so.
+[SPEAKER_00A]: That's the Warren right there.
+[SPEAKER_00A]: That's where the ultimate shop is.
+[SPEAKER_00A]: This area right here
+[SPEAKER_00A]: It's tenants, a mishmash of ruffs, mercenaries, things like that.
+[SPEAKER_00A]: People that are basically trying to make a living.
+[SPEAKER_00A]: Not necessarily thieves or anything, but just basically foreigners that are kind of involved in sword work more than anything.
+[SPEAKER_00A]: This is known as God's Row.
+[SPEAKER_00A]: These are all the temples that show up in this area.
+[SPEAKER_00A]: To try and convert people to the various religions.
+[SPEAKER_00A]: And a lot of the gods are foreign gods, but they've rented those places.
+[SPEAKER_00A]: So it's a very cosmopolitan place, places that are high and low.
+[SPEAKER_00A]: But yeah, you're right on the edge of the worst.
+[SPEAKER_00A]: So anyway, you walk out into the night and begin walking down the decently wide boulevard.
+[SPEAKER_00A]: It's about 20 feet wide, this way, to get to God's Row, which you're gonna walk up and get into the North Gate.
+[SPEAKER_00A]: Okay?
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: And at this point in the evening, there are people on the street, not a lot of patrols next to the Warrens, but at the end of it, when you reach here, the beginning of God's Row, there are guards on the street.
+[SPEAKER_00A]: So you feel fairly comfortable.
+[SPEAKER_00A]: This is the road to the Harbor District.
+[SPEAKER_00A]: These are the gates to the Harbor District.
+[SPEAKER_00A]: And there is a very big military presence right there as well.
+[SPEAKER_00A]: That's kind of where Jameis owns all this area.
+[SPEAKER_00A]: And he keeps guards all over.
+[SPEAKER_00A]: So even though the foreign district doesn't have kind of the military presence that
+[SPEAKER_00A]: The Harvard District does or the Royal District does.
+[SPEAKER_00A]: It's sandwiched in between the two of them.
+[SPEAKER_00A]: So at any point, they could be flooded by both directions.
+[SPEAKER_00A]: But in various parts of the foreign district, there is no
+[SPEAKER_00A]: There was no authority.
+[SPEAKER_00A]: These areas, people usually pay for their own mercenaries, getting them usually from this area to defend them.
+[SPEAKER_00A]: That's kind of what these guys do.
+[SPEAKER_00A]: Swords for hire.
+[SPEAKER_00A]: Anyway, so you walk back up God's Row, looking at the various hawkers,
+[SPEAKER_00A]: Magicians, other charlatans, applying their wares, crying out for salvation, either for themselves or for you.
+[SPEAKER_00A]: I assume that you are wearing what mask?
+[SPEAKER_00A]: Just your leather one?
+[SPEAKER_00A]: You don't want to be wearing your silver one, do you?
+[SPEAKER_02A]: No, not my silver one.
+[SPEAKER_02A]: Not unless I'm in the palace.
+[SPEAKER_02A]: Yeah, probably just the other one.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: So, I mean, as you pass by, people really don't recognize who you are, even though from your
+[SPEAKER_00A]: You know, fairly well-put-together, studied leather and weapons.
+[SPEAKER_00A]: They assume that you're some kind of guard or mercenary, so they call out to you.
+[SPEAKER_00A]: And there are a couple of beggars that ask you for alms as you pass.
+[SPEAKER_00A]: But, I mean, unless you want to stop or do anything, you can just pass them by without problem.
+[SPEAKER_00A]: Yeah, just pass them.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: You make your way back up to the North Gate and to travel from the Alchemist's place to the North Gate is probably about a 10 minute walk, unhurried, probably around 1,500 feet going through the roads.
+[SPEAKER_00A]: And the crowd is not that great at this point.
+[SPEAKER_00A]: You get up to the North Gate and what do you do?
+[SPEAKER_02A]: What do you mean by the crowd is not great?
+[SPEAKER_00A]: I mean, it's thin.
+[SPEAKER_00A]: I mean, during the day, the foreign district can be just as packed as the merchant's district, right?
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: But because of the siege, and because evening is coming on, and you assume because also of the rumors going around about what happened at Helms Island,
+[SPEAKER_00A]: The atmosphere of the area is subdued.
+[SPEAKER_00A]: So you know that ever since Port Torpen had been burned, there's been kind of a weird feel in the air.
+[SPEAKER_00A]: But you're not sure if the rumors about Helm Island have gotten out yet.
+[SPEAKER_00A]: It's only been a day.
+[SPEAKER_00A]: But you do remember, and you think, Jeon's marines died.
+[SPEAKER_02A]: Yeah, that's pretty noticeable.
+[SPEAKER_02A]: That's not something that goes, yeah.
+[SPEAKER_00A]: Now, they could be on the island, right?
+[SPEAKER_00A]: But...
+[SPEAKER_00A]: I mean, it's possible that the Marines that brought you back...
+[SPEAKER_02A]: Aren't they technically still fighting there?
+[SPEAKER_02A]: Because we never took it over fully.
+[SPEAKER_02A]: We escaped.
+[SPEAKER_00A]: So what happened was...
+[SPEAKER_00A]: When you were escaping, three coasters came to where you were.
+[SPEAKER_02A]: Yeah, I remember that.
+[SPEAKER_00A]: And they were full of, there were 750 guys, 250 on each.
+[SPEAKER_00A]: And you got on one of the boats, and two of the boats peeled off to go to Helms Island.
+[SPEAKER_02A]: Right.
+[SPEAKER_00A]: That's the last line now.
+[SPEAKER_00A]: That's the last you've heard of.
+[SPEAKER_00A]: And then you went up and had your deep roots with Jameis and all of that.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: So you don't know what's happening there.
+[SPEAKER_00A]: You'd think that maybe that would be something you might want to ask him in the future.
+[SPEAKER_00A]: However, the conversations you've had with Jude basically are, let's figure out what's going on, and you were very interested in this compound because obviously it's the magical ward that's supposed to protect Monmurg from
+[SPEAKER_00A]: And that's why you went down to talk to the alchemist.
+[SPEAKER_02A]: And if you remember what the alchemist told you, he named the compound.
+[SPEAKER_02A]: He named the compound and I said that I have some... Notes on it.
+[SPEAKER_02A]: ...writing that might be useful.
+[SPEAKER_00A]: And he, what he said was, he identified it as copper sulfate.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_02A]: Is what he called it.
+[SPEAKER_00A]: And he used the Sewell name for it, right, to kind of describe it.
+[SPEAKER_00A]: But he said it was pretty rare and it's something that has to be manufactured and very few people know how to do it.
+[SPEAKER_00A]: And you were like, okay, I'm going to go get the notes because I want to show you and let's see if you can do this, right?
+[SPEAKER_00A]: So anyway, you come to the Northgate and what do you want to do?
+[SPEAKER_02A]: Can I enter?
+[SPEAKER_02A]: Or is it closed?
+[SPEAKER_00A]: I think it's closed.
+[SPEAKER_02A]: I call for a guard.
+[SPEAKER_00A]: You said guard, right.
+[SPEAKER_01B]: A guard comes over and says, yes, can I help you?
+[SPEAKER_02A]: I'm Paul Rivera.
+[SPEAKER_02A]: Let me through.
+[SPEAKER_00A]: Lord Rivera, at once, walks down and opens up the side gate.
+[SPEAKER_00A]: And you recognize that the man is the same man that was guarding the gate when you were attacked.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_01B]: Please come through the side door.
+[SPEAKER_01B]: I don't want you to bring up the bars tonight.
+[SPEAKER_02A]: Sure.
+[SPEAKER_01B]: Rumor is, Paul, I do not wish to overste my bounds, Lord Rivera.
+[SPEAKER_01B]: You are on.
+[SPEAKER_01B]: Helm Island.
+[SPEAKER_01B]: Is this true?
+[SPEAKER_02A]: Who told you these rumors?
+[SPEAKER_01B]: Well, a friend of mine was overseeing the Royal Docks and they said you were one of the men that got on the boat.
+[SPEAKER_01B]: He saw you in your silver mask.
+[SPEAKER_01B]: Think nothing of it.
+[SPEAKER_01B]: I do not wish to get my friend in trouble.
+[SPEAKER_02A]: Hm.
+[SPEAKER_02A]: I'll walk away.
+[out-of-band] [SPEAKER_00]: Okay.
+[out-of-band] [SPEAKER_00]: Okay.
+[SPEAKER_00A]: So...
+[SPEAKER_00A]: Giving him nothing.
+[SPEAKER_00A]: You walk back up the stairway to the Royal Palace, taking another five minutes in the night to come to your side entrance that's on the coastal side.
+[SPEAKER_00A]: And you go in and go to your private bedchamber.
+[SPEAKER_00A]: Now what do you want to collect?
+[SPEAKER_02A]: I want to collect anything I have on that powder.
+[SPEAKER_02A]: And I think I still have some powder, actually.
+[SPEAKER_02A]: I do.
+[SPEAKER_00A]: Well, you have a sample of the powder.
+[SPEAKER_02A]: I have a sample, but I also have a whole keg of it, right?
+[SPEAKER_00A]: You have three kegs of it.
+[SPEAKER_00A]: Three kegs of it.
+[SPEAKER_00A]: That's squirreled away down.
+[SPEAKER_02A]: Yeah, we'll just leave those.
+[SPEAKER_02A]: I just need those.
+[SPEAKER_00A]: But you have a packet of it, right?
+[SPEAKER_02A]: Yeah, I'll take the packet.
+[SPEAKER_02A]: Okay.
+[SPEAKER_00A]: And you want to take Grayson's notes on the subject?
+[SPEAKER_02A]: Yes.
+[SPEAKER_00A]: Not the Manual of the Homoculus?
+[SPEAKER_02A]: No, not the Manual of the Homoculus.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Alright, so do you have any questions or thoughts that you want to ask me before we go on?
+[SPEAKER_02A]: What time of day is it right now?
+[SPEAKER_02A]: Because I thought we left at night to go there.
+[SPEAKER_00A]: You left in the early evening.
+[SPEAKER_02A]: Okay.
+[SPEAKER_00A]: When the sun was going down.
+[SPEAKER_00A]: After you had kind of done your whole day of debriefing.
+[SPEAKER_00A]: Yeah, yeah, yeah.
+[SPEAKER_00A]: And then Jude was kind of like training you to be a wizard.
+[SPEAKER_00A]: He was teaching you how to cast.
+[SPEAKER_02A]: And I learned mending.
+[SPEAKER_00A]: You learned mending.
+[SPEAKER_00A]: So you've been making a definite progress.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_00A]: But right now I would say it's probably around 8.30.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_02A]: Don't I also have...
+[SPEAKER_02A]: There's also supposed to be some guy that I have at a bar, I remember.
+[SPEAKER_00A]: So, you think back to the...
+[SPEAKER_00A]: It was an interrogation that you and Jude had with this guy named Gregory.
+[SPEAKER_02A]: Yeah, Gregory, that's right.
+[SPEAKER_00A]: And he told you about the guy named Jobs, who was the guy that was with him when they attacked you.
+[SPEAKER_00A]: And he told you that he would be working for you and Jude to try and get you in with the head of the thieves' guild.
+[SPEAKER_00A]: Because we threatened him.
+[SPEAKER_02A]: Well, he basically said... We'll kill you and your family if you don't.
+[SPEAKER_00A]: And there were other things, too.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: I mean, the implied threat of cutting his hand off, all that stuff, was part of it.
+[SPEAKER_00A]: But Jude basically said that...
+[SPEAKER_00A]: He convinced him mainly by saying, uh, look, there's stuff going on, and you're a thief, and we know that, but you could be a loyal thief, which means you're not a traitor to Lord Gion.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: And if you're a loyal thief, it's a lot better when getting your hand cut off for thieving is a lot better than hanging over the wall.
+[SPEAKER_00A]: That's kind of what he put out.
+[SPEAKER_00A]: And so Jude kind of had the implied threat.
+[SPEAKER_00A]: You had the implied threat, but there was also the honey, which was, if you're our man, you're going to be our man.
+[SPEAKER_00A]: That guy is supposed to set up a meeting with you with the head of the thieves guild in about, I would say, three days.
+[SPEAKER_00A]: And you want to talk to Janice because what you're trying to do is track down those Toli agents, right?
+[SPEAKER_02A]: Yeah.
+[SPEAKER_02A]: I think that's everything about the powder.
+[SPEAKER_02A]: Yeah, I think that was my one question.
+[SPEAKER_02A]: Okay.
+[SPEAKER_00A]: Let's go back.
+[SPEAKER_00A]: Okay, so you collect the works, you collect the sample of powder, and you return down the stairs towards the northern
+[SPEAKER_00A]: So, you reach the northern guard house again, and the guard sees you and knows you, and he opens the door and says, Sir, and you can tell he's being very withdrawn because he doesn't want to get on your bad side again.
+[SPEAKER_00A]: Yeah, is it the same guy?
+[SPEAKER_02A]: It's totally the same guy.
+[SPEAKER_00A]: He knows you do not like people knowing your business, and so he's decided not to try and be friendly with you.
+[SPEAKER_00A]: Okay, so he opens the door and lets you out to the thing.
+[SPEAKER_02A]: I turn around and I ask, what's your name?
+[SPEAKER_01B]: Rodiger, sir.
+[SPEAKER_02A]: Rodiger?
+[SPEAKER_01B]: Yes.
+[SPEAKER_02A]: Thanks, Rodiger.
+[SPEAKER_02A]: Can I just turn around and walk away?
+[SPEAKER_00A]: Okay, as you turn around, flame bursts off in the distance.
+[SPEAKER_00A]: You can see it.
+[SPEAKER_00A]: It's maybe a thousand feet away, and normally you could see a porch being held, but this is like a burst of flame.
+[SPEAKER_00A]: And instantly it comes to mind, this is your evoker.
+[SPEAKER_00A]: Because you've seen Jude do this before.
+[SPEAKER_00A]: Oh, he's done the spell?
+[SPEAKER_00A]: Do you remember when you guys were on the docks?
+[SPEAKER_02A]: Yeah, he did that.
+[SPEAKER_02A]: Was it a wall of fire?
+[SPEAKER_02A]: He did a couple.
+[SPEAKER_00A]: One was a burst of flames that enveloped the enemies that were coming towards you.
+[SPEAKER_00A]: And then you saw him do it again down in the cavern.
+[SPEAKER_00A]: So, unmistakably, this is dude...
+[SPEAKER_00A]: I'm thinking...
+[game mechanics] [SPEAKER_00A]: Roll a intelligence check.
+[game mechanics] [SPEAKER_00A]: So it's your plus.
+[game mechanics] [SPEAKER_00A]: Uh, 18.
+[SPEAKER_00A]: Your stomach drops.
+[SPEAKER_00A]: Because you're worried.
+[SPEAKER_00A]: Warren is a tinderbox on a good day.
+[SPEAKER_00A]: And during the summer, it's much worse.
+[SPEAKER_00A]: And if Jude has just let flame go in that area.
 [out-of-band] [SPEAKER_00]: So I think I should call the fire department or whatever.
-[SPEAKER_01]: I mean...
-[SPEAKER_01]: But this is kind of an illegal operation, isn't it?
-[SPEAKER_01]: What you're doing?
-[SPEAKER_01]: With the alchemist and all of that.
-[SPEAKER_01]: What do you mean?
-[SPEAKER_01]: In what way?
-[SPEAKER_01]: In the way that, like, the powder isn't really known, because we want to keep that low level, because we're still figuring out how to do that.
-[SPEAKER_00]: So that's a state secret, but that's something that you and Jude both know about, and actually, you have been given, Prince John has literally said, I want you to study this, and I want you to find this.
-[SPEAKER_00]: So he's charged you with investigating this stuff.
-[SPEAKER_01]: So, if that just blew up into a ball of flames that, whatever, over there, it's safe to assume that the building's on fire, right?
-[SPEAKER_00]: I wouldn't say that.
-[SPEAKER_00]: You know that Jude is very adept at sculpting flame around things.
-[SPEAKER_00]: The problem is...
-[SPEAKER_01]: If he lights all of that...
-[SPEAKER_00]: If he lights something on fire...
-[SPEAKER_01]: It's gonna chain reaction.
-[SPEAKER_01]: It could do horrible things.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: Right.
-[SPEAKER_01]: I mean, there's not much I can really do about that.
-[SPEAKER_00]: Well, I mean, you could tell the guard.
-[SPEAKER_00]: Get the fire brigade and...
-[SPEAKER_00]: Go down there.
-[SPEAKER_00]: I mean, you can say that to Rodiger right now.
-[SPEAKER_00]: Just say, get the watch.
-[SPEAKER_00]: We're going down there.
-[SPEAKER_00]: Now, the question is, do you want to do that?
-[SPEAKER_01]: Because... No, I don't want to do that.
-[SPEAKER_01]: I don't.
-[SPEAKER_00]: Okay.
-[SPEAKER_01]: I don't think I do.
-[SPEAKER_01]: I think I'd rather just book it there on foot.
-[SPEAKER_00]: Alright, so you just say, you're gonna say hold, and you're gonna start running down there?
-[SPEAKER_01]: How flammable are these buildings?
-[SPEAKER_01]: Okay, so, just what I told you, I mean, the thing is... Yeah, I know there's shambles put together, but like, and it is getting warmer in the season, but is this like a, you know, one little spark and it's a...
-[SPEAKER_01]: Or does it take a little time?
+[SPEAKER_02A]: I mean...
+[SPEAKER_02A]: But this is kind of an illegal operation, isn't it?
+[SPEAKER_02A]: What you're doing?
+[SPEAKER_02A]: With the alchemist and all of that.
+[SPEAKER_02A]: What do you mean?
+[SPEAKER_02A]: In what way?
+[SPEAKER_02A]: In the way that, like, the powder isn't really known, because we want to keep that low level, because we're still figuring out how to do that.
+[SPEAKER_00A]: So that's a state secret, but that's something that you and Jude both know about, and actually, you have been given, Prince John has literally said, I want you to study this, and I want you to find this.
+[SPEAKER_00A]: So he's charged you with investigating this stuff.
+[SPEAKER_02A]: So, if that just blew up into a ball of flames that, whatever, over there, it's safe to assume that the building's on fire, right?
+[SPEAKER_00A]: I wouldn't say that.
+[SPEAKER_00A]: You know that Jude is very adept at sculpting flame around things.
+[SPEAKER_00A]: The problem is...
+[SPEAKER_02A]: If he lights all of that...
+[SPEAKER_00A]: If he lights something on fire...
+[SPEAKER_02A]: It's gonna chain reaction.
+[SPEAKER_02A]: It could do horrible things.
+[SPEAKER_02A]: Okay.
+[SPEAKER_02A]: Right.
+[SPEAKER_02A]: I mean, there's not much I can really do about that.
+[SPEAKER_00A]: Well, I mean, you could tell the guard.
+[SPEAKER_00A]: Get the fire brigade and...
+[SPEAKER_00A]: Go down there.
+[SPEAKER_00A]: I mean, you can say that to Rodiger right now.
+[SPEAKER_00A]: Just say, get the watch.
+[SPEAKER_00A]: We're going down there.
+[SPEAKER_00A]: Now, the question is, do you want to do that?
+[SPEAKER_02A]: Because... No, I don't want to do that.
+[SPEAKER_02A]: I don't.
+[SPEAKER_00A]: Okay.
+[SPEAKER_02A]: I don't think I do.
+[SPEAKER_02A]: I think I'd rather just book it there on foot.
+[SPEAKER_00A]: Alright, so you just say, you're gonna say hold, and you're gonna start running down there?
+[SPEAKER_02A]: How flammable are these buildings?
+[SPEAKER_00A]: Okay, so, just what I told you, I mean, the thing is... Yeah, I know there's shambles put together, but like, and it is getting warmer in the season, but is this like a, you know, one little spark and it's a...
+[SPEAKER_02A]: Or does it take a little time?
 [out-of-band] [SPEAKER_00]: I mean, it's not gonna be a little spark, but it's... Jude's Fireball is not a little spark.
 [out-of-band] [SPEAKER_00]: Jude's Fireball is like literally napalm, is what it is.
 [out-of-band] [SPEAKER_00]: Okay?
 [out-of-band] [SPEAKER_00]: It's like a burst of napalm.
-[SPEAKER_00]: Do you wanna wait a minute and see if the flames...
-[SPEAKER_00]: Continue?
-[SPEAKER_01]: Yeah, let's just wait and see.
-[SPEAKER_01]: Let me just look and watch just a little bit longer.
-[SPEAKER_01]: Maybe 20 more seconds.
-[SPEAKER_00]: So basically you and Rodiger watch the area, right?
-[SPEAKER_00]: You see another burst.
-[SPEAKER_00]: Alright.
-[SPEAKER_00]: Maybe six seconds later.
-[SPEAKER_00]: Okay.
-[SPEAKER_01]: I have a pretty good idea what's going on.
-[SPEAKER_01]: Does Rodiger say anything, or is he just stone gold?
-[SPEAKER_00]: He's just kind of looking down there.
-[SPEAKER_00]: Right?
-[SPEAKER_00]: And he goes, what do you suppose that is, sir?
-[SPEAKER_01]: I think I have a pretty good idea.
-[SPEAKER_01]: Can you, uh, send the fire brigade?
-[SPEAKER_01]: I'll get the guards immediately.
-[SPEAKER_00]: Do I send for the harbormaster to bring his men?
-[SPEAKER_01]: No, just a small fire brigade team I think will be fine.
-[SPEAKER_01]: I'll get a squad right away.
-[SPEAKER_01]: Thank you.
-[SPEAKER_01]: Okay, so he goes off inside.
-[SPEAKER_00]: What do you want to do?
-[SPEAKER_01]: I'm going to make a sprint for that.
-[SPEAKER_01]: I want to beat everyone there.
-[SPEAKER_00]: Alright, so you start running down the road.
-[SPEAKER_00]: As fast as I can.
-[SPEAKER_00]: You're basically dashing.
-[SPEAKER_00]: Is there still explosions?
-[SPEAKER_00]: Well, that happens once, right?
-[SPEAKER_00]: And then twice.
-[SPEAKER_00]: And then you run.
-[SPEAKER_00]: You start running down the hill.
-[SPEAKER_00]: This is a downward slope.
-[SPEAKER_00]: Basically past the rows of
-[SPEAKER_00]: Tipples.
-[SPEAKER_00]: God's Alley.
-[SPEAKER_00]: God's Alley on one side and then the bars and um...
-[SPEAKER_00]: The brothels.
-[SPEAKER_00]: Yeah, on the other.
-[SPEAKER_00]: The sellswords.
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: Right?
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: Kind of an interesting like... Yeah, kind of a messed up area, but... As you run, people are like catcalling to you.
-[SPEAKER_01]: What's the hurry?
-[SPEAKER_00]: Where are you going?
-[SPEAKER_00]: I don't care.
-[SPEAKER_00]: You don't care.
-[SPEAKER_00]: You just run down the hill as fast as you can.
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: Um, as you go, three minutes later...
-[SPEAKER_00]: The flames, you can see.
-[SPEAKER_00]: Not reaching the top of the buildings, but they're there, so you know things are bad.
-[SPEAKER_00]: You're still about 600 feet away from where they are.
-[SPEAKER_00]: Keep going.
-[SPEAKER_00]: All right.
-[SPEAKER_00]: So, normally this trip would be about 10 minutes.
-[SPEAKER_00]: You cover it in five because you're running.
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: And then you come down to that alley.
-[SPEAKER_00]: You're about four minutes, you're at the bottom of the hill.
-[SPEAKER_00]: And this goes into where the war ends.
-[SPEAKER_01]: Yeah.
-[SPEAKER_00]: What do you want to do?
-[SPEAKER_01]: Keep going up to the building.
-[SPEAKER_01]: I want to get up into the building.
-[SPEAKER_00]: Okay, so you start running towards the building.
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: Okay.
+[SPEAKER_00A]: Do you wanna wait a minute and see if the flames...
+[SPEAKER_00A]: Continue?
+[SPEAKER_02A]: Yeah, let's just wait and see.
+[SPEAKER_02A]: Let me just look and watch just a little bit longer.
+[SPEAKER_02A]: Maybe 20 more seconds.
+[SPEAKER_00A]: So basically you and Rodiger watch the area, right?
+[SPEAKER_00A]: You see another burst.
+[SPEAKER_00A]: Alright.
+[SPEAKER_00A]: Maybe six seconds later.
+[SPEAKER_00A]: Okay.
+[SPEAKER_02A]: I have a pretty good idea what's going on.
+[SPEAKER_02A]: Does Rodiger say anything, or is he just stone gold?
+[SPEAKER_00A]: He's just kind of looking down there.
+[SPEAKER_00A]: Right?
+[SPEAKER_01B]: And he goes, what do you suppose that is, sir?
+[SPEAKER_02A]: I think I have a pretty good idea.
+[SPEAKER_02A]: Can you, uh, send the fire brigade?
+[SPEAKER_01B]: I'll get the guards immediately.
+[SPEAKER_01B]: Do I send for the harbormaster to bring his men?
+[SPEAKER_02A]: No, just a small fire brigade team I think will be fine.
+[SPEAKER_01B]: I'll get a squad right away.
+[SPEAKER_02A]: Thank you.
+[SPEAKER_00A]: Okay, so he goes off inside.
+[SPEAKER_00A]: What do you want to do?
+[SPEAKER_02A]: I'm going to make a sprint for that.
+[SPEAKER_02A]: I want to beat everyone there.
+[SPEAKER_00A]: Alright, so you start running down the road.
+[SPEAKER_02A]: As fast as I can.
+[SPEAKER_00A]: You're basically dashing.
+[SPEAKER_00A]: Is there still explosions?
+[SPEAKER_00A]: Well, that happens once, right?
+[SPEAKER_00A]: And then twice.
+[SPEAKER_00A]: And then you run.
+[SPEAKER_00A]: You start running down the hill.
+[SPEAKER_00A]: This is a downward slope.
+[SPEAKER_00A]: Basically past the rows of
+[SPEAKER_00A]: Tipples.
+[SPEAKER_00A]: God's Alley.
+[SPEAKER_00A]: God's Alley on one side and then the bars and um...
+[SPEAKER_00A]: The brothels.
+[SPEAKER_00A]: Yeah, on the other.
+[SPEAKER_00A]: The sellswords.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: Right?
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: Kind of an interesting like... Yeah, kind of a messed up area, but... As you run, people are like catcalling to you.
+[SPEAKER_00A]: What's the hurry?
+[SPEAKER_00A]: Where are you going?
+[SPEAKER_02A]: I don't care.
+[SPEAKER_00A]: You don't care.
+[SPEAKER_00A]: You just run down the hill as fast as you can.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: Um, as you go, three minutes later...
+[SPEAKER_00A]: The flames, you can see.
+[SPEAKER_00A]: Not reaching the top of the buildings, but they're there, so you know things are bad.
+[SPEAKER_00A]: You're still about 600 feet away from where they are.
+[SPEAKER_00A]: Keep going.
+[SPEAKER_00A]: All right.
+[SPEAKER_00A]: So, normally this trip would be about 10 minutes.
+[SPEAKER_00A]: You cover it in five because you're running.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: And then you come down to that alley.
+[SPEAKER_00A]: You're about four minutes, you're at the bottom of the hill.
+[SPEAKER_00A]: And this goes into where the war ends.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_00A]: What do you want to do?
+[SPEAKER_02A]: Keep going up to the building.
+[SPEAKER_02A]: I want to get up into the building.
+[SPEAKER_00A]: Okay, so you start running towards the building.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: Okay.

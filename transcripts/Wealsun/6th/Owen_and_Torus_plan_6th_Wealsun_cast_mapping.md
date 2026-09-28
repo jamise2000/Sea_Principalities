@@ -1,23 +1,36 @@
 # Cast Mapping — Owen and Torus Plan (6th Wealsun)
 
-`Owen_and_Torus_plan_6th_Wealsun.txt` · Book Two. Maps the diarization speaker tags to who is actually talking, for turning the raw session into prose. **A tag is a voice, not a fixed character** — one tag can carry the DM's narration, an NPC's dialogue, and a player's out-of-character asides, and tags can bleed between speakers. Best inference from direct mentions, personality cues, and story context; **ambiguities flagged below for author correction.**
+`Owen_and_Torus_plan_6th_Wealsun.txt` · Book Two. Maps the diarization speaker tags to who is actually talking, for turning the raw session into prose. **Character-locked tags:** the **A-series** is reserved for player characters and DM narration; **NPCs use the B-series**. Best inference from direct mentions, personality cues (`characters/`), and story context; **ambiguities flagged below for author correction.**
 
-**Cast (index):** Owen Black (NPC), Torus (NPC).
-**In the room (1 voice):** the DM alone — pure narration voicing **both** NPCs, Owen Black and Torus. No player speaks in this transcript; it is a DM interlude bridging Folsom's escape and the party's next scene.
+**Cast (index):** the DM, Owen Black (NPC), Torus (NPC). No player is present — this is a DM interlude bridging Folsom's escape and the party's next scene.
+**In the room (1 raw voice):** the DM alone, narrating and voicing both NPCs. The single diarizer tag has been separated by content into DM narration + Owen's and Torus's quoted dialogue.
 
-## Speaker → character mapping
+## Speaker → character mapping (final, character-locked)
+DM `00A`, Owen Black `01B`, Torus `02B` (same NPC numbering as *Owen Shows His Face*).
 
-| Tag | Primary speaker | Also carries | How we know |
-|-----|-----------------|--------------|-------------|
-| **SPEAKER_00** | **The DM** — third-person narration and both NPC voices (Owen Black IC + Torus IC) | Nothing else — one continuous voice for the whole file | Reads as prose: "As Folsom ran down the dock… Torus watched him run." All dialogue is reported/quoted by the narrator ("Torus looked at him and said…", "Owen said…"). No dice, no player asides. |
+| Tag | Character | Role | Lines |
+|-----|-----------|------|-------|
+| **SPEAKER_00A** | The DM | Narration + Torus's closing interior monologue | 26 |
+| **SPEAKER_01B** | Owen Black | NPC — his confession and the "let the Earl handle it" plan | 29 |
+| **SPEAKER_02B** | Torus | NPC — his questions and reproaches | 10 |
+
+The whole file was one diarizer tag (raw00 = DM). Quoted dialogue was split off onto the NPC tags; the DM's "X said," frames were split into their own `00A` lines (per the author's stated preference), and **Torus's closing interior monologue (52–65) stays DM narration `00A`** — it is narrated thought, not spoken dialogue.
+
+## Point of the conversation
+As Folsom flees, **Owen** — who caught his own "special draught" (the **gift of Insamiar**) in the eye, having meant only to knock Folsom out for the trip to Cain Toli's island — confesses to **Torus** and, feeling the poison take hold, refuses to give chase. His plan: don't deal with it themselves — tip their contact with the **Earl of Redshore** (with coin) that there are Monmurg smugglers in town, hand over the sloop's location, and let the Earl's men (and maybe the Navy) run them down; "it's out of our hands." Owen lies down, out for ~8 hours. **Torus's interior monologue** closes the scene: Owen is near the end of his usefulness — the gift of Insamiar will consume him (he'll crave it, become useless as a servant) — but keep him alive for now; his Redshore idea is sound. Let **Redshore and Jamis** believe each other enemies, both being manipulated — neither realizing how far. **Torus is the manipulator playing both sides.**
 
 ## Flagged ambiguities (author: please correct)
-- **Single-tag file, two characters.** Because the DM voices both men under one tag, the author must split Owen's lines from Torus's by content when dramatizing. Owen: the eye/rum confession (6, 10–16), "We don't deal with it. Let the Earl of Redshore deal with it…" (22–41). Torus: "We should go after him" (3–5), "And that got in your eye? … I told you that was dangerous stuff" (7–9, 17–21), and all the closing interior monologue (45–58).
-- **Note the numbering shift vs. its companion file.** Here the DM is **SPEAKER_00**; in `Owen_shows_his_face` the DM was **SPEAKER_01**. Tag numbers are not stable across files.
-- **Garbled proper nouns to normalize in prose:** "Kane-Toli's island" → **Cain Toli** (11); "the gift of Insamiar" / "the special draught" / "the poison" → **the gift/Blessing of Insamiar** (41, 47–51); "Monmurgian spies … spymaster of Lord Jeon" (56); "Jameis" → **Jamis** (58); "Red Shore" → **Redshore** (54, 58). Line 55 "Redshore's minute arms" appears to be "minute-men/armsmen."
+- **Split "X said," frames.** The DM's narration frames (6, 8, 10, 17, 22, 43 in the original) were split from the quotes they introduce; the quotes go to Owen/Torus. Line 8's frame ("Owen said, well, and Torus continued,") keeps Owen's aborted "well" inside the DM frame — if you want that as an Owen line, say so.
+- **Interior monologue = DM.** 52–65 (Torus's thoughts) are tagged `00A` as narrated interior monologue, matching how *Owen's Suspicions* was handled; flip to `02B` only if you want interior thought voiced as NPC dialogue.
 
-## Out-of-band table chatter
-None. The entire file is DM narration and quoted NPC dialogue — no dice, mechanics, or real-table talk to tag.
+## Worldbuilding / canon note
+The **"gift of Insamiar"** (the "special draught"/"poison" Owen used) reads here as an **addictive drug** — it consumes those exposed, who come to crave it. This ties to the **Followers of Insamiar** referenced earlier in the series. **Not yet in `Name_Normalization_Key.md`** — recommend adding an entry (the gift/Blessing of Insamiar + the Followers of Insamiar).
+
+## Out-of-band / game mechanics
+**None.** Pure DM narration and quoted NPC dialogue — no dice, mechanics, or real-table talk.
+
+## Names to normalize in prose
+"Kane-Toli's island" (11/15) → **Cain Toli**; "Jameis" (58) → **Jamis**; "Red Shore" (58) → **Redshore**; "Redshore's minute arms" (55) → **armsmen / minute-men**.
 
 ## Speaker discontinuities
-- None. One uninterrupted voice throughout.
+- Originally one diarizer tag; separated by content. Numbering differs from companion files (DM = raw00 here).

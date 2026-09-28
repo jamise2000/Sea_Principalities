@@ -1,31 +1,46 @@
 # Cast Mapping — Making Redshore (6th Wealsun)
 
-`Making_Redshore_6th_Wealsun.txt` · Book Two. Maps the diarization speaker tags to who is actually talking, for turning the raw session into prose. **A tag is a voice, not a fixed character** — one tag can carry the DM's narration, an NPC's dialogue, and a player's out-of-character asides, and tags can bleed between speakers. Best inference from direct mentions, personality cues, and story context; **ambiguities flagged below for author correction.**
+`Making_Redshore_6th_Wealsun.txt` · Book Two. Maps the diarization speaker tags to who is actually talking, for turning the raw session into prose. **Character-locked tags:** the **A-series** is reserved for player characters and DM narration; **NPCs use the B-series**. Best inference from direct mentions, personality cues (`characters/`), and story context; **ambiguities flagged below for author correction.**
 
-**Cast (index):** Gouge, Merrick, Tyrus, Folsom, *Owen Black (DM-voiced).
-**In the room (5 voices):** the four players (Merrick, Gouge, Tyrus, Folsom) plus the DM, who narrates and voices Owen Black. Note the swapped tag numbering versus the 5th-Wealsun files: here the **DM/Owen voice is SPEAKER_02**, not SPEAKER_01.
+**Cast (index):** Gouge, Merrick, Tyrus, Folsom (PCs), the DM, and Owen Black (NPC, DM-voiced).
+**In the room (5 voices):** the four players plus the DM (who narrates and voices Owen). **Note the tag numbering differs from the 5th-Wealsun files:** here the DM/Owen voice is **raw02**, not raw01.
 
-## Speaker → character mapping
+## Speaker → character mapping (final, character-locked; crew registry)
+Same crew registry: DM `00A`, Gouge `04A`, Merrick `05A`, Tyrus `06A`, Folsom `07A`, Owen Black `01B`.
 
-| Tag | Primary speaker | Also carries | How we know |
-|-----|-----------------|--------------|-------------|
-| **SPEAKER_00** | Merrick | DM/stat bleed (L261–262 describing Owen's armor/arm) | L11–15 waking as the boat comes in; L135–140 "look around, watch the waters" (his habitual perception); L232–239 "Folsom… He can only message me, right?" |
-| **SPEAKER_01** | Gouge | — | L41 "Throwing some ropes"; L73–78 "The Monmurgian fleet was blocked by all the sahuagin… we couldn't get our Navy out"; L160–163 "just these three ships…? Is there any red-eye?"; L96 "Your song and your shit-talking?" |
-| **SPEAKER_02** | **DM narration + Owen Black (in-character)** — primary voice of the file | **Folsom's anti-Monmurg song recited at L100–116** (see flags); crew-discussion bleed (L85–93) | L1–53 the arrival-at-Redshore narration; L29–39 "Oh, they're going to be ripe to sell… that's how we make our money"; L126–134 "You'll love the charter room, Gouge… you broke my nose"; L164–170 "Go to the bar… I'll be back later. Folsom." |
-| **SPEAKER_03** | Tyrus | — | L56–61 "Were these cargo vessels that were captured…? I'm asking myself"; L117–118 "Come on, you literature. I've got science and math"; L246 "Hey, teach the kid a thing or two" |
-| **SPEAKER_04** | Folsom | — | L95 "I honestly forgot what my song was"; L171–174 "a certain song… about Sir Owen Black. Round of Ale for the song"; L199–220 performs the Owen Black flattery-song; L248–251 message to Merrick "I only talked poorly of you because you told me to" |
+| Tag | Character | Role | Lines |
+|-----|-----------|------|-------|
+| **SPEAKER_00A** | The DM | Narration / adjudication / lore recap | 110 |
+| **SPEAKER_01B** | Owen Black | NPC — the smuggler host at Redshore | 66 |
+| **SPEAKER_04A** | Gouge | PC — the money angle, ties off the boat | 21 |
+| **SPEAKER_05A** | Merrick | PC — watchful; the message-spell aside to Folsom | 23 |
+| **SPEAKER_06A** | Tyrus | PC — asks about the penned ships | 14 |
+| **SPEAKER_07A** | Folsom | PC — both songs; goes off with Owen | 61 |
 
-## Flagged ambiguities (author: please correct)
-- **L100–116 (the "O Monmurg" song) is tagged SPEAKER_02 but is Folsom's composition** (SPEAKER_04). Either the DM read out pre-written lyrics or the tag bled. In prose this is Folsom performing his shit-talking song about Monmurg's leaders. Confirm attribution.
-- L85–93 (SPEAKER_02) is crew conversation ("I don't know why Lord Jameis isn't sallying forth… Perhaps he's a coward… listen to what Folsom said in his song") — this is a PC/Owen exchange caught in the DM/Owen tag; split between Merrick, Owen, and the prompt to Folsom.
-- L123–125 (SPEAKER_01, "We can make money off this… follow the money… Come this way") could be Owen rather than Gouge. Confirm.
-- L181 (SPEAKER_03, "refill it with red eyes") — red-eye is Gouge's drink, but tagged Tyrus; possible bleed.
-- L261–262 (SPEAKER_00, "He wears leather armor. His arm was a little fucked up") is the DM describing Owen's build, bleeding into Merrick's tag.
+Raw layout: **raw02** = DM narration **and** Owen; **raw00** = Merrick; **raw01** = Gouge; **raw03** = Tyrus; **raw04** = Folsom.
 
-## Out-of-band table chatter
-Tagged `[out-of-band]` in the body: **117–119** ("Come on, you literature. I've got science and math. Chemistry." — players joking about school subjects), **189–190** (DM's modern-world analogy "take all the riffraff from the Mediterranean…"), **191–192** ("made the Monmurgian run in less than 12 parsecs" — Star Wars gag), **213–214** (performance-check roll for the song), **234–237** (rules Q&A about the message spell: "He can only message me, right? … No."), **259 & 261** (Owen's stat description — "strength of like 16," "leather armor"), **282** ("Bring your 20-sided"), **287–290** and **295–297** (perception-check mechanics around Owen paying off the Toli thugs — the in-story action at 291–294 stays). (Dice/stat mechanics, rules clarifications, and modern/pop-culture asides.)
+## Point of the conversation
+Evening of the 6th, the sloop makes **Redshore** and finds the bay choked with ~50 merchant ships penned in by three Keoland warships — the **Duke of Gratzel's** blockade, redirecting Monmurg-bound trade here to rot. Owen explains the smuggling economy (buy cheap off desperate traders, mark up twice in Monmurg). The crew debates why the Monmurg fleet won't break the blockade — Gouge assumed the sahuagin, but **Owen says the sahuagin "were never a part of it,"** nudging toward the real cause (the Orb/turtle-dragon situation). Folsom half-recites his biting anti-Monmurg satire ("O Monmurg… your leaders have led you astray"). At the ramshackle beachside **Chart Room**, Folsom performs a flattering song about **Sir Owen Black** (with a dig at Merrick), and Owen — charmed — takes Folsom along to "deal" with merchants, leaving the muscle behind ("we need charm, not that"). On the way out, Owen slips a coin purse to some **Toli** thugs and lies that it was a debt he paid off — a perception check catches the lie.
+
+## Hardest calls / flagged ambiguities (author: please correct)
+- **The "O Monmurg" song (100–116)** is **Folsom thinking the lyrics to himself** (not performed aloud) — all of 100–116 are Folsom `07A`, including 111. Render as interior monologue, per author.
+- **The waking exchange (11–17)** is muddy: Merrick's player negotiating being woken as the boat comes in, with "Wake up, Merrick!" (17) tagged on Merrick's own raw00 — I read 17 as Owen. Verify.
+- **The fleet-blockade discussion (85–94)** is a PC/Owen exchange caught on the DM/Owen tag; I split naval assessment → Owen, "coward"/prompt-to-Folsom → Merrick. Please scan.
+- **123–125** ("We can make money… follow the money… Come this way") — I left on Gouge; "Come this way" (125) may be Owen.
+- **181** ("refill it with red eyes") — resolved to **Gouge** `04A` per author (red-eye is his drink).
+- **261–262** ("He wears leather armor / His arm was a little fucked up") is the DM describing Owen, bleeding onto Merrick's raw00.
+- **287 was split** (per author) at the word "roll" into two DM lines: **287** narration ("…and whispers,", `00A`) + **288** `[game mechanics]` ("Roll your perception check."). All later line numbers shift +1.
+
+## Game mechanics (attributed, 16 lines)
+**213–214** (Folsom's performance roll), **234–237** (rules Q&A on the *message* spell — Merrick asking, DM answering), **259 & 261** (Owen's stat description — strength 16, leather armor), **282** ("Bring your 20-sided"), **288–291** (perception check as Owen approaches the Toli), **296–298** (second perception roll → "he just lied to you"). DM instructions/results → `00A`; rolls → the roller (Folsom `07A`, Tyrus `06A`, Merrick `05A`).
+
+## Out-of-band (raw tags kept, 7 lines)
+**117–119** (players joking about school subjects — "you literature / I've got science and math / Chemistry"), **189–190** (a modern "riffraff from the Mediterranean" analogy), **191–192** (a Star Wars gag — "made the Monmurgian run in less than 12 parsecs").
 
 ## Speaker discontinuities
-- Folsom's song landing in SPEAKER_02 (L100–116) rather than his own SPEAKER_04 is the main break.
-- The DM/Owen stat description bleeding into SPEAKER_00 (L261–262).
-- Otherwise the five voices hold; numbering differs from the 5th-Wealsun files (DM = 02 here).
+- raw02 carries DM narration and Owen with no tag change; Folsom's song (100–116) also landed there.
+- DM stat/description bleed onto Merrick's raw00 (261–262).
+- Numbering differs from the 5th-Wealsun files (DM = raw02 here, not raw01).
+
+## Names to normalize in prose
+"Dig of Grasel" (64) → **Duke of Gratzel**; "Keogs / Keog marines" (86, 158) → **Keoland / Keoish**; "Burghoff" (113) → **Berghof**; "charter room" (127) → the **Chart Room**; "plars" → **Plars**.

@@ -1,894 +1,894 @@
-[SPEAKER_01]: Early morning on the fifth of Whalesun, Owen and Folsom on the steerage deck of the small sloop with Tyrus down below, minding the sails.
-[SPEAKER_01]: What do you want to say to him?
-[SPEAKER_04]: I'm watching the water.
-[SPEAKER_04]: Okay.
-[SPEAKER_04]: Instead of asking, how are you holding up?
+[SPEAKER_00A]: Early morning on the fifth of Whalesun, Owen and Folsom on the steerage deck of the small sloop with Tyrus down below, minding the sails.
+[SPEAKER_00A]: What do you want to say to him?
+[SPEAKER_07A]: I'm watching the water.
+[SPEAKER_07A]: Okay.
+[SPEAKER_07A]: Instead of asking, how are you holding up?
 [out-of-band] [SPEAKER_03]: I'm Danny.
-[SPEAKER_04]: This is where I live.
-[SPEAKER_04]: Yeah.
-[SPEAKER_04]: I mean, being by you side by side, there's no other person I'd rather be on the waters with.
-[SPEAKER_04]: It's where I've lived my whole life.
-[SPEAKER_04]: How do you feel about Owen?
-[SPEAKER_04]: Can Owen hear us?
-[SPEAKER_01]: Well, if you want to just walk down beside him and whisper to him, no.
-[SPEAKER_04]: Yeah, I'm gonna walk over to Tyrus.
-[SPEAKER_04]: How do you feel about Owen?
-[SPEAKER_03]: Better than most and half as bad as the rest.
-[SPEAKER_04]: Merrick told me to write a song and try to get them real close to get some information out of them.
-[SPEAKER_03]: Did you guys talk about anything while I was asleep?
-[SPEAKER_03]: He escaped with a couple of bugbear's help.
-[SPEAKER_03]: You should have him recount the story all over for you again.
-[SPEAKER_03]: He loves telling it.
-[SPEAKER_03]: It'll go very nicely in my song.
-[SPEAKER_03]: The ship got a ship bag, got a ship stolen, got a ship bag too.
-[SPEAKER_03]: You should ask him about that.
-[SPEAKER_03]: I'll make sure to.
-[SPEAKER_03]: And he loves telling his story.
-[SPEAKER_04]: Perfect.
-[SPEAKER_04]: Well, I will get to writing and get to figuring out the true amount of bugbears that he... A couple of them or something, you said.
-[SPEAKER_03]: He's a little fishy to me.
-[SPEAKER_03]: Do I remember how many bugbears he said in particular?
-[SPEAKER_03]: He just said a few.
-[SPEAKER_04]: I'll go back up to the deck.
-[SPEAKER_04]: Owen's sailing?
-[SPEAKER_01]: Yeah, he's just sitting there.
-[SPEAKER_01]: A little blurry eye, but he looks like he's waking up.
-[SPEAKER_04]: You seem a little out of age.
-[SPEAKER_04]: Need anything?
-[SPEAKER_01]: It's the black rum, I'm fine.
-[SPEAKER_01]: Don't want any more of that yet.
-[SPEAKER_02]: Not until noon, anyway.
-[SPEAKER_02]: I don't blame ya.
-[SPEAKER_01]: I'm glad you're up here, Folsom.
-[SPEAKER_01]: You can keep your eyes peeled.
-[SPEAKER_01]: I'll make sure to.
-[SPEAKER_01]: Tell me if you've seen him.
-[SPEAKER_01]: Oh, Tyrus is looking in the water.
-[SPEAKER_01]: Yeah, he'll call up.
-[SPEAKER_01]: He's a good hand.
-[SPEAKER_01]: Oh, he's the best hand.
-[SPEAKER_04]: Well, something's been boggling my mind.
-[SPEAKER_04]: Okay.
-[SPEAKER_04]: How exactly did you escape the bugbears?
-[SPEAKER_01]: I didn't escape the bugbears, the bugbears helped me escape.
-[SPEAKER_01]: Well, you don't have to escape them eventually, they're bugbears.
-[SPEAKER_01]: Well, they were mercenaries.
-[SPEAKER_01]: They were working for the Sons of Olan.
-[SPEAKER_01]: Really?
-[SPEAKER_01]: Sons of Olan?
-[SPEAKER_01]: Sons of Olam?
-[SPEAKER_01]: Yeah, there's some strange cult in the swamps.
-[SPEAKER_01]: Interesting.
-[SPEAKER_01]: Probably shouldn't be telling you this.
-[SPEAKER_01]: Hey, no.
-[SPEAKER_04]: Trust me.
-[SPEAKER_04]: They won't quote me from any of my songs.
-[SPEAKER_04]: I mean, I don't mean to cry.
-[SPEAKER_04]: But around what swamps?
-[SPEAKER_04]: Do you know where we're going?
-[SPEAKER_01]: No, it's the Hull Marshes.
-[SPEAKER_01]: You know the Hull.
-[SPEAKER_01]: They're the giant swamps out towards where Westkeep is.
-[SPEAKER_01]: They're at the mouth of the Hull River.
-[SPEAKER_01]: Interesting.
-[SPEAKER_03]: You know our map.
-[SPEAKER_01]: You never traveled that far?
-[SPEAKER_03]: Swamp marshes, if you know the map.
-[SPEAKER_03]: It's way out.
-[SPEAKER_04]: Yeah, perfect.
-[SPEAKER_04]: I mean, I've sailed all around this place with the
-[SPEAKER_04]: The Navy, but I never knew anything was like that over there.
-[SPEAKER_01]: What, you didn't know there were weird things in the Hula Martian?
-[SPEAKER_04]: Not in a cultish way, but...
-[SPEAKER_01]: There have always been strange things in Selenmore.
-[SPEAKER_01]: Werewolves, ghosts, disease.
-[SPEAKER_01]: Bugbear mercenaries?
-[SPEAKER_01]: Bugbear mercenaries, yeah.
-[SPEAKER_01]: And those are actually some of the more reliable that you can find.
-[SPEAKER_01]: Yeah, actually, they were compatriots of mine.
-[SPEAKER_01]: They were hired by
-[SPEAKER_01]: This necromancer that Cain Tole was dealing with.
-[SPEAKER_01]: They had information for each other, as it were.
-[SPEAKER_01]: Very interesting.
-[SPEAKER_01]: Cain was looking for something on Turtle Island.
-[out-of-band] [SPEAKER_01]: I'm still sleeping, right?
-[SPEAKER_01]: That's actually where I escaped to after I got out of the Apple Yard Keep.
-[SPEAKER_01]: See, the Apple Yard Keep was a place that this Ixid fellow, this necromancer from the swamp, was very interested in.
-[SPEAKER_01]: And he traded information to Kane Tolley about some ancient artifact, is what I heard.
-[SPEAKER_01]: Held in Apple Yard Keep?
-[SPEAKER_01]: Held, it turned out.
-[SPEAKER_01]: I think it was held in this Turtle Island, actually.
-[SPEAKER_01]: Interesting.
-[SPEAKER_01]: I mean, that's where Cain was when I escaped.
-[SPEAKER_01]: I went there, the bugbear is headed north.
-[SPEAKER_01]: I was able to get on the ship and he took me back to his island fortress.
-[SPEAKER_04]: Interesting.
-[SPEAKER_04]: Do you know what sort of artifact they could be talking about?
-[SPEAKER_02]: These were just rumors.
-[SPEAKER_01]: I overheard this from his men.
-[SPEAKER_01]: But it was supposed to be really, really old.
-[SPEAKER_01]: Probably really expensive too.
-[SPEAKER_01]: Oh, priceless is what I've heard.
-[SPEAKER_01]: Very powerful.
-[SPEAKER_01]: What he traded the necromancer for I have no idea.
-[SPEAKER_01]: Something in the keep.
-[SPEAKER_01]: Apparently the keep had been warded by some magical spell that only Cain Toli could break.
-[SPEAKER_01]: Interesting.
-[SPEAKER_01]: And actually, I don't think Kane Toli did it himself.
-[SPEAKER_01]: I think he got the war broken by some knowledge that Sacknon Toli had gotten from the Duke of Berghoff, or at least that's what the rumors were.
-[SPEAKER_04]: That's really cool.
-[SPEAKER_04]: I don't really mean to change the subject here, but I was also so curious on... You talked briefly on how you got your ship back.
-[SPEAKER_04]: Could you...
-[SPEAKER_04]: I mean, I'm one for a story.
-[SPEAKER_04]: Could you do tell?
-[out-of-band] [SPEAKER_04]: Do a charisma check.
-[out-of-band] [SPEAKER_04]: Natural 20.
-[out-of-band] [SPEAKER_04]: 13 plus...
-[out-of-band] [SPEAKER_04]: Six.
-[out-of-band] [SPEAKER_04]: All right, no, that's my saving throw.
-[out-of-band] [SPEAKER_04]: What would that be?
-[out-of-band] [SPEAKER_04]: Your persuasion.
-[out-of-band] [SPEAKER_01]: Persuasion plus six.
-[out-of-band] [SPEAKER_01]: Okay.
-[out-of-band] [SPEAKER_01]: Nineteen.
-[out-of-band] [SPEAKER_01]: Nineteen.
-[SPEAKER_01]: Well, I'll see it would hurt.
-[SPEAKER_01]: Basically, after I escaped, Kane took me to his island and
-[SPEAKER_01]: I didn't have much to do because we didn't have another sloop as good as this one.
-[SPEAKER_01]: But then, for some reason, they found it.
-[SPEAKER_01]: They chased it down and brought it back.
-[SPEAKER_01]: And I'll tell you, I was happy to get off the island because I didn't like hanging out with the hobgoblins anymore.
-[SPEAKER_04]: No.
-[SPEAKER_04]: Little bastard creatures.
-[SPEAKER_04]: Have you ever seen one?
-[SPEAKER_04]: I've just heard stories through
-[SPEAKER_01]: They're not a bad sort, even though they stick to themselves.
-[SPEAKER_01]: At least they stick to themselves.
-[SPEAKER_01]: They're very disciplined, though.
-[SPEAKER_01]: Yeah, Cain has hundreds of them on his island.
-[out-of-band] [SPEAKER_00]: Right here, Cain?
-[out-of-band] [SPEAKER_04]: Not right now.
-[out-of-band] [SPEAKER_00]: Cool.
-[SPEAKER_04]: Hundreds, you say?
-[SPEAKER_00]: Yes.
-[SPEAKER_04]: On Turtle Island.
-[SPEAKER_02]: No, no, no.
-[SPEAKER_02]: Turtle Island's a small little island off the coast of Salamore.
-[SPEAKER_01]: His fortress is in the middle of the Azur Sea, probably somewhere right there.
-[SPEAKER_01]: Interesting.
-[SPEAKER_04]: Well, I'm sure glad you got the ship back because it was a fine vessel.
-[SPEAKER_04]: Yeah, it's alright.
-[SPEAKER_04]: Reliable.
-[SPEAKER_01]: Very reliable, absolutely.
-[SPEAKER_01]: I can tell you I was stuck in and out of many a port.
-[SPEAKER_01]: Saltmarsh was the best, actually.
-[SPEAKER_01]: That's where I made most of my money.
-[SPEAKER_01]: But definitely, definitely, that's off limits now.
-[SPEAKER_01]: Everyone is my face.
-[SPEAKER_01]: Can't go there.
-[SPEAKER_01]: Red Shore is much safer.
-[SPEAKER_04]: Yeah, I mean... One might call you a little infamous or famous.
-[SPEAKER_01]: You can say that.
-[SPEAKER_01]: Ready?
-[SPEAKER_04]: A true... A true...
-[SPEAKER_04]: I had a word.
-[SPEAKER_04]: Lost it.
-[SPEAKER_04]: Did you say mogul?
-[SPEAKER_04]: Would that be the right word?
-[SPEAKER_01]: A mogul?
-[SPEAKER_01]: No, I never thought of that.
-[SPEAKER_01]: A mogul of smuggling.
-[SPEAKER_01]: You're up here on this.
-[SPEAKER_01]: I can do well.
-[SPEAKER_01]: Definitely.
-[SPEAKER_04]: Do you have any other stories that you've been sitting on dying to tell in any recent...
-[SPEAKER_03]: He wants to know how you got started in all this business.
-[SPEAKER_01]: All right.
-[SPEAKER_01]: I'll let you know.
-[SPEAKER_01]: I used to be a naval man.
-[SPEAKER_01]: And then he goes on.
-[SPEAKER_01]: And on.
-[SPEAKER_01]: And the hours go by.
-[SPEAKER_01]: And Owen Black basically is telling you all of the recriminations he has against his father and all of the daddy issues that he's had during his father.
-[SPEAKER_01]: And Tyrus, you've heard this story so many times.
-[SPEAKER_03]: I just want to chime in every once in a while.
-[SPEAKER_03]: Just before he says the punchline.
-[SPEAKER_03]: It was your uncle!
-[SPEAKER_03]: You know what I mean?
-[SPEAKER_03]: There's kind of a back and forth between the two of them.
-[SPEAKER_01]: And it's getting close to dawn, right?
-[SPEAKER_03]: When
-[SPEAKER_01]: Tyrus, you see a ship, probably six miles away, heading towards the east.
-[SPEAKER_01]: Okay.
-[SPEAKER_03]: At this point, we are coming around.
-[SPEAKER_01]: You guys have come around here, and you're like right there.
-[SPEAKER_03]: Right, right there, and it's heading east towards us.
-[SPEAKER_01]: No, it's going down.
-[SPEAKER_03]: Yeah, yeah.
-[SPEAKER_03]: Well, not, yeah, but I mean, we're going to... You're far enough away that you probably won't intercept it.
-[SPEAKER_03]: Yeah, I know, but I mean, we're...
-[SPEAKER_03]: They could turn or something like that.
-[SPEAKER_03]: Oh, if they turn towards you.
-[SPEAKER_03]: Yeah, yeah, yeah.
-[out-of-band] [SPEAKER_03]: Do I know the colors or see any of the... Full perception check.
-[SPEAKER_03]: First of all, I shut it out.
-[SPEAKER_03]: Ship ahead.
-[SPEAKER_03]: Owen kind of looks... Quits talking and goes...
-[out-of-band] [SPEAKER_03]: Perception, make it a plus two.
-[out-of-band] [SPEAKER_03]: Seven, eight, nine?
-[out-of-band] [SPEAKER_01]: Nine.
-[SPEAKER_01]: You can make it out, but you can't really see what it is.
-[SPEAKER_03]: So I shout it out ahead, if somebody else will see it.
-[SPEAKER_03]: Owen kind of strains.
-[SPEAKER_01]: Oh.
-[SPEAKER_01]: That's the Seaghost itself.
-[SPEAKER_01]: Dammit, I want it to sleep.
-[SPEAKER_01]: That's Kane's ship.
-[SPEAKER_01]: Oh.
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: I wonder what it's sailing east for.
-[SPEAKER_01]: He usually doesn't go that direction.
-[SPEAKER_01]: He stays around his fort.
-[SPEAKER_04]: King's the necromancer, right?
-[SPEAKER_04]: No.
-[SPEAKER_04]: No, he was dealing with the necromancer.
-[SPEAKER_00]: Yeah, yeah, yeah.
-[SPEAKER_03]: You should get Merrick up here.
-[SPEAKER_03]: Right away.
-[SPEAKER_03]: I run down.
-[SPEAKER_03]: I'll get him.
-[SPEAKER_03]: I'm headed down.
-[SPEAKER_03]: Stairs.
-[SPEAKER_03]: I wake up.
-[SPEAKER_03]: First, I go into the wrong room, and I wake up Gouge.
-Okay.
-[SPEAKER_03]: Get up.
-[SPEAKER_03]: Oh, hey, Gouge.
-[SPEAKER_03]: Whoops, sorry.
-[SPEAKER_03]: I didn't realize that was you.
-[SPEAKER_03]: Sorry.
-[SPEAKER_03]: Going to the Merrick's room.
-[SPEAKER_03]: You're getting up anyway, right?
-[SPEAKER_03]: You guys, there's a ship up there.
-[SPEAKER_03]: Seagulls.
-[SPEAKER_03]: Call me if you need me.
-[SPEAKER_03]: I leave the door open and lay in the bunk.
-[SPEAKER_03]: All right.
-[SPEAKER_02]: Wow.
-[SPEAKER_02]: You sleep at the... Yeah, you've been up a while.
-[SPEAKER_02]: Yeah.
-[SPEAKER_01]: All right.
-[SPEAKER_01]: So you get up on the deck.
-[SPEAKER_01]: And you look out over the thing, and you see the ship.
-[SPEAKER_01]: And this was the ship that was off the coast of the helm.
-[SPEAKER_01]: You guys were climbing up the wall.
-[SPEAKER_01]: It's the same one.
-[SPEAKER_01]: It's far away, but you can definitely tell that it's that make, because it's that foreign model.
-[SPEAKER_01]: The cutter is not a Corsair.
-[SPEAKER_01]: It's definitely not a Man of War, and it's fast.
-[SPEAKER_01]: That was that quick one, huh?
-[SPEAKER_01]: It seems like it's moving at six knots, which is actually probably two knots faster than the Cosaire's would go.
-[SPEAKER_01]: You can get a Cosaire up to maybe four and a half knots, you've seen that happen, but this ship is quick.
-[SPEAKER_01]: Friend of yours, Owen?
-[SPEAKER_01]: That's Caintoli's ship.
-[SPEAKER_01]: No, I guess you guys aren't going to be able to meet him after all.
-[SPEAKER_01]: Unless you want to try and catch him now.
-[SPEAKER_01]: I don't think he were fast enough to be able to get, and it seems like he's in a hurry.
-[SPEAKER_00]: Hmm.
-[SPEAKER_00]: Can you tell you about any recent travels you plan on being on?
-[SPEAKER_00]: None that I've heard of.
-[SPEAKER_01]: I hadn't seen the man in several weeks.
-[SPEAKER_01]: The ship's the what?
-[SPEAKER_01]: Toli.
-[SPEAKER_02]: No, no.
-[SPEAKER_02]: What do you call it?
-[SPEAKER_02]: Seaghost.
-[SPEAKER_02]: Seaghost.
-[SPEAKER_00]: Okay.
-[SPEAKER_00]: Owen, you said...
-[SPEAKER_00]: So fast it can't be seen.
-[SPEAKER_00]: The sea ghost.
-[SPEAKER_02]: Oh, I don't know what I want to do.
-[SPEAKER_00]: Owen, you said he goes where the money is, right?
-[SPEAKER_01]: He's got a little bit more ambition than that.
-[SPEAKER_00]: I really want to tail him, but I also don't want to tell Owen that.
-[SPEAKER_02]: We've come to about there.
-[SPEAKER_02]: Something's flying east here.
-[SPEAKER_02]: It's off the shipping lanes.
-[SPEAKER_02]: Out of the shipping lanes.
-[SPEAKER_01]: This is towards Gratzel.
-[SPEAKER_02]: This is towards Redshore.
-[SPEAKER_02]: This is towards Saltmarsh.
-[SPEAKER_01]: Normally you go like this, or you get there and you go to Portoli.
-[SPEAKER_02]: Nobody goes that way.
-[SPEAKER_01]: Very few people go that way.
-[SPEAKER_00]: Which way is he heading?
-[SPEAKER_04]: He's heading east.
-[SPEAKER_04]: He's going this way, from Dragon Isle going that way.
-[SPEAKER_00]: He's gonna pass us.
-[SPEAKER_04]: We're going around here.
-[SPEAKER_00]: I don't want to tail him.
-[SPEAKER_00]: I do want to take note.
-[SPEAKER_02]: What the hell would he be going out that way for?
-[SPEAKER_02]: I don't have nothing out there.
-[SPEAKER_00]: Is there anything out here that I would know that he would be going towards?
-[SPEAKER_01]: So, this is out towards the open of your sea.
-[SPEAKER_01]: It's a huge sea out this way.
-[SPEAKER_01]: Now, there is the horn of the Imenio jungle that's down this way, so he might be going out of the
-[SPEAKER_01]: Around the outer islands, if you head south, this way.
-[SPEAKER_01]: There are Toli ports out that direction, but it's usually where the Toli reign into the Amado jungle to get ivory slaves, that kind of stuff.
-[SPEAKER_01]: Wood, stuff like that.
-[SPEAKER_01]: That's not where he's gonna go personally to do shit.
-[SPEAKER_00]: Is this his personal ship, or is he on it?
-[SPEAKER_00]: If that thing's moving, he's probably on it.
-[SPEAKER_01]: According to Owen Black,
-[SPEAKER_01]: It is his personal ship, the seagulls.
-[SPEAKER_01]: Yeah, the seagulls.
-[SPEAKER_02]: He ain't letting nobody else on that fucker.
-[SPEAKER_02]: Yeah, it's his.
-[SPEAKER_02]: So I just yell up to you.
-[SPEAKER_02]: You know anything out there?
-[SPEAKER_00]: There's money involved out there.
-[SPEAKER_00]: All he's going to, you know, just trading in his slave trade.
-[SPEAKER_00]: Seems an odd place for him to go.
-[SPEAKER_00]: Unless he's swinging back.
-[SPEAKER_04]: There would be no reason for him to go out that way.
-[SPEAKER_01]: To be honest, I don't understand why he'd go that way.
-[SPEAKER_02]: So I was yelling at Merrick, making sure, obviously, Owen could hear me as well.
-[SPEAKER_02]: Why the hell would he go out there?
-[SPEAKER_00]: Okay.
-[SPEAKER_01]: I mean, there's no reason.
-[SPEAKER_01]: He would usually go through the Straits of Monmurg if he was going to the immediate jungle forts, but I don't know why he'd want to go there.
-[SPEAKER_01]: Yeah, that's what I figured.
-[SPEAKER_01]: Interesting.
-[SPEAKER_01]: The season is starting, but he's never been involved in that anyway.
-[SPEAKER_00]: Okay.
-[SPEAKER_00]: We're just going to keep going on.
-[SPEAKER_00]: Owen's driving, right?
-[SPEAKER_00]: Owen's steering.
-[SPEAKER_00]: Hey!
-[SPEAKER_00]: At the moment.
-[SPEAKER_01]: Well, are you going to relieve me?
-[SPEAKER_00]: Yeah, no, I'm here to relieve.
-[SPEAKER_00]: I'm going to bed.
-[SPEAKER_02]: What are the odds we can get paid higher if we go offer support to him?
-[SPEAKER_02]: You think he needs it?
-[SPEAKER_01]: I don't think we could catch him, Gouge.
-[SPEAKER_02]: Ah, I mean... That is moving on a good clip.
-[SPEAKER_01]: Yeah, I was hoping to introduce you guys in a new full environment so he'd feel amenable to hiring you.
-[SPEAKER_02]: Gotcha.
-[SPEAKER_02]: Too soon?
-[SPEAKER_02]: I think it'd be strange.
-[SPEAKER_02]: Hey, your call.
-[SPEAKER_02]: You know him, not us.
-[SPEAKER_02]: Yeah, I'll go with your word.
-[SPEAKER_02]: All right, I'm going to bed.
-[SPEAKER_02]: Until he walks down.
-[SPEAKER_00]: Yeah, I'm just going to take note of where I saw him going.
-[SPEAKER_00]: But I'm not going to try to tail or do anything like that.
-[SPEAKER_00]: It's just not worth it right now.
-[SPEAKER_01]: Okay, so you take your shift.
-[SPEAKER_01]: Do you guys want to say anything to each other or just sail through the seas?
-[SPEAKER_00]: Well, who's up there with me?
-[SPEAKER_00]: Is it Folsom and Tyrus?
-[SPEAKER_01]: Folsom and Gouge.
-[SPEAKER_01]: Tyrus has gone to bed.
-[SPEAKER_00]: Okay, it's me and Folsom.
-[SPEAKER_00]: So we only got about four.
-[SPEAKER_00]: Two and three.
-[SPEAKER_00]: Folsom, get any information?
-[SPEAKER_04]: No, you have to keep it down.
-[SPEAKER_04]: So apparently, Owen escaped with those bugbears he was talking about.
-[SPEAKER_04]: But he called them mercenaries.
-[SPEAKER_04]: They were from a cult called the Sons of Olan in the marshes of the west.
-[SPEAKER_04]: Is that where you're going to go to me?
-No.
-[SPEAKER_04]: Interesting.
-[SPEAKER_04]: Yeah, near the marshes of Olan.
-[SPEAKER_04]: He also talked about how he escaped with his ship.
-[SPEAKER_04]: But when he was escaping, or got his ship back, he mentioned that a little fortress with hundreds of hobgoblins on it, where Necromancer resides, right?
-[SPEAKER_01]: No, that's where Keitoly resides.
-[SPEAKER_04]: Keitoly resides with hundreds of hobgoblins near
-[SPEAKER_04]: Near Red Shore.
-[SPEAKER_01]: In the middle of the bay between Monmurg, Red Shore, and Saltmarsh.
-[SPEAKER_01]: No, you guys were at Helms Island.
-[SPEAKER_01]: But basically he's saying there's a fort right there.
-[out-of-band] [SPEAKER_01]: Do an int check.
-[out-of-band] [SPEAKER_00]: Intelligence?
-[out-of-band] [SPEAKER_00]: Intelligence.
-[out-of-band] [SPEAKER_00]: I have a 10, so it's probably just what it is, right?
-[out-of-band] [SPEAKER_00]: It's a big... You got a 10?
-[out-of-band] [SPEAKER_04]: He's wise, not smart.
-[out-of-band] [SPEAKER_02]: Oh, shit.
-[out-of-band] [SPEAKER_02]: They put you in charge?
-[out-of-band] [SPEAKER_04]: Son of a bitch.
-[out-of-band] [SPEAKER_01]: Two.
-[out-of-band] [SPEAKER_01]: Two.
-[out-of-band] [SPEAKER_01]: Something's bugging you in the back of your mind.
-[out-of-band] [SPEAKER_01]: You do an ink check.
-[out-of-band] [SPEAKER_01]: At disadvantage.
-[out-of-band] [SPEAKER_01]: At disadvantage.
-[out-of-band] [SPEAKER_01]: 18.
-[out-of-band] [SPEAKER_01]: At disadvantage.
-[out-of-band] [SPEAKER_01]: Oh, you've been drinking too much.
-[out-of-band] [SPEAKER_01]: Or I haven't been drinking.
-[out-of-band] [SPEAKER_01]: The good stuff.
-[out-of-band] [SPEAKER_00]: Yeah, yeah.
-[out-of-band] [SPEAKER_01]: Do it again.
-[out-of-band] [SPEAKER_01]: Five.
-[SPEAKER_01]: Come with me.
-[SPEAKER_01]: There was that book that Merrick got off.
-[SPEAKER_02]: Oh yeah, he was reading all that shit.
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: And in that book, and you told Jameis this, basically he said that those barrels
-[SPEAKER_01]: The ones at Helm Island, there was another fortress in the middle of the bay that had a larger store of it.
-[SPEAKER_01]: And that Kane totally got the lease on that.
-[SPEAKER_01]: And he stopped shipments for some reason.
-[SPEAKER_03]: I locked it.
-[SPEAKER_03]: I locked it last time.
-[SPEAKER_02]: Fuck.
-[SPEAKER_02]: There you go.
-[SPEAKER_02]: Don't whisper.
-[SPEAKER_02]: Didn't you read that book that talked about
-[SPEAKER_02]: The moving barrels to that other island.
-[SPEAKER_02]: And shut down.
-[SPEAKER_02]: All that shit.
-[SPEAKER_02]: You remember?
-[SPEAKER_02]: Yeah.
-[SPEAKER_02]: Yeah, you were telling me about it.
-[SPEAKER_00]: Yes.
-[SPEAKER_00]: I think I brought that book with me.
-[SPEAKER_00]: And you gave it to Jameis.
-[SPEAKER_00]: Yes, he still has that book.
-[SPEAKER_00]: Because I have that book.
-[SPEAKER_02]: That should jog your memory as to
-[SPEAKER_02]: Yes.
-[SPEAKER_02]: Which was, there was a much larger collection of barrels at that other island that was in King Toli's control, right?
-[SPEAKER_02]: And he'd shut down the shipping.
-[SPEAKER_02]: Oh, you have the book?
-[SPEAKER_02]: You actually have one.
-[SPEAKER_02]: Look at that.
-[SPEAKER_02]: Oh, yeah.
-[SPEAKER_02]: All those barrels.
-Barrels.
-[SPEAKER_01]: Yet, the Sea Princes, with the aid of the Duke of Berkhoff, devised a plan to eradicate the threat.
-[SPEAKER_01]: Armed with the mysterious yellow-white powder provided by the Duke, they launched a campaign of destruction against the Sahuagin cities.
-[SPEAKER_01]: The powder, lethal to the sahuagin upon contact with seawater, decimated their ranks between 427 and 430.
-[SPEAKER_01]: The island fortress
-[SPEAKER_01]: Of Pocra Sententia, an ancient Seul fortification, served as the staging ground for these attacks.
-[SPEAKER_01]: And for decades, the sea princes maintained vigilant patrols to guard against the Sahuagin's return.
-[SPEAKER_02]: And that's the bigger one.
-[SPEAKER_02]: Okay.
-[SPEAKER_01]: The island, Owen Black, his set was Caintoli's.
-[SPEAKER_02]: Okay.
-[SPEAKER_00]: Is that where all that, a ton more of the shit is?
-[SPEAKER_02]: That's where, all that is where they had and that's, they maintained killing off.
-[SPEAKER_01]: They had a supply as large as the Hound did.
-[SPEAKER_03]: Okay.
-[SPEAKER_00]: And I remembered that because I read it, so.
-[out-of-band] [SPEAKER_02]: Somebody's gotta have a higher 12, higher than my 12 to figure this out.
+[SPEAKER_07A]: This is where I live.
+[SPEAKER_07A]: Yeah.
+[SPEAKER_07A]: I mean, being by you side by side, there's no other person I'd rather be on the waters with.
+[SPEAKER_07A]: It's where I've lived my whole life.
+[SPEAKER_07A]: How do you feel about Owen?
+[SPEAKER_07A]: Can Owen hear us?
+[SPEAKER_00A]: Well, if you want to just walk down beside him and whisper to him, no.
+[SPEAKER_07A]: Yeah, I'm gonna walk over to Tyrus.
+[SPEAKER_07A]: How do you feel about Owen?
+[SPEAKER_06A]: Better than most and half as bad as the rest.
+[SPEAKER_07A]: Merrick told me to write a song and try to get them real close to get some information out of them.
+[SPEAKER_06A]: Did you guys talk about anything while I was asleep?
+[SPEAKER_06A]: He escaped with a couple of bugbear's help.
+[SPEAKER_06A]: You should have him recount the story all over for you again.
+[SPEAKER_06A]: He loves telling it.
+[SPEAKER_07A]: It'll go very nicely in my song.
+[SPEAKER_06A]: The ship got a ship bag, got a ship stolen, got a ship bag too.
+[SPEAKER_06A]: You should ask him about that.
+[SPEAKER_07A]: I'll make sure to.
+[SPEAKER_06A]: And he loves telling his story.
+[SPEAKER_07A]: Perfect.
+[SPEAKER_07A]: Well, I will get to writing and get to figuring out the true amount of bugbears that he... A couple of them or something, you said.
+[SPEAKER_06A]: He's a little fishy to me.
+[SPEAKER_06A]: Do I remember how many bugbears he said in particular?
+[SPEAKER_06A]: He just said a few.
+[SPEAKER_07A]: I'll go back up to the deck.
+[SPEAKER_07A]: Owen's sailing?
+[SPEAKER_00A]: Yeah, he's just sitting there.
+[SPEAKER_00A]: A little blurry eye, but he looks like he's waking up.
+[SPEAKER_07A]: You seem a little out of age.
+[SPEAKER_07A]: Need anything?
+[SPEAKER_01B]: It's the black rum, I'm fine.
+[SPEAKER_01B]: Don't want any more of that yet.
+[SPEAKER_01B]: Not until noon, anyway.
+[SPEAKER_07A]: I don't blame ya.
+[SPEAKER_01B]: I'm glad you're up here, Folsom.
+[SPEAKER_01B]: You can keep your eyes peeled.
+[SPEAKER_07A]: I'll make sure to.
+[SPEAKER_01B]: Tell me if you've seen him.
+[SPEAKER_07A]: Oh, Tyrus is looking in the water.
+[SPEAKER_01B]: Yeah, he'll call up.
+[SPEAKER_01B]: He's a good hand.
+[SPEAKER_07A]: Oh, he's the best hand.
+[SPEAKER_07A]: Well, something's been boggling my mind.
+[SPEAKER_01B]: Okay.
+[SPEAKER_07A]: How exactly did you escape the bugbears?
+[SPEAKER_01B]: I didn't escape the bugbears, the bugbears helped me escape.
+[SPEAKER_07A]: Well, you don't have to escape them eventually, they're bugbears.
+[SPEAKER_01B]: Well, they were mercenaries.
+[SPEAKER_01B]: They were working for the Sons of Olan.
+[SPEAKER_07A]: Really?
+[SPEAKER_07A]: Sons of Olan?
+[SPEAKER_01B]: Sons of Olam?
+[SPEAKER_01B]: Yeah, there's some strange cult in the swamps.
+[SPEAKER_07A]: Interesting.
+[SPEAKER_01B]: Probably shouldn't be telling you this.
+[SPEAKER_07A]: Hey, no.
+[SPEAKER_07A]: Trust me.
+[SPEAKER_07A]: They won't quote me from any of my songs.
+[SPEAKER_07A]: I mean, I don't mean to pry.
+[SPEAKER_07A]: But around what swamps?
+[SPEAKER_07A]: Do you know where we're going?
+[SPEAKER_01B]: No, it's the Hull Marshes.
+[SPEAKER_01B]: You know the Hull.
+[SPEAKER_01B]: They're the giant swamps out towards where Westkeep is.
+[SPEAKER_01B]: They're at the mouth of the Hull River.
+[SPEAKER_07A]: Interesting.
+[SPEAKER_06A]: You know our map.
+[SPEAKER_01B]: You never traveled that far?
+[SPEAKER_06A]: Swamp marshes, if you know the map.
+[SPEAKER_06A]: It's way out.
+[SPEAKER_07A]: Yeah, perfect.
+[SPEAKER_07A]: I mean, I've sailed all around this place with the
+[SPEAKER_07A]: The Navy, but I never knew anything was like that over there.
+[SPEAKER_01B]: What, you didn't know there were weird things in the Hula Martian?
+[SPEAKER_07A]: Not in a cultish way, but...
+[SPEAKER_01B]: There have always been strange things in Selenmore.
+[SPEAKER_01B]: Werewolves, ghosts, disease.
+[SPEAKER_07A]: Bugbear mercenaries?
+[SPEAKER_01B]: Bugbear mercenaries, yeah.
+[SPEAKER_01B]: And those are actually some of the more reliable that you can find.
+[SPEAKER_01B]: Yeah, actually, they were compatriots of mine.
+[SPEAKER_01B]: They were hired by
+[SPEAKER_01B]: This necromancer that Cain Tole was dealing with.
+[SPEAKER_01B]: They had information for each other, as it were.
+[SPEAKER_07A]: Very interesting.
+[SPEAKER_01B]: Cain was looking for something on Turtle Island.
+[SPEAKER_05A]: I'm still sleeping, right?
+[SPEAKER_01B]: That's actually where I escaped to after I got out of the Apple Yard Keep.
+[SPEAKER_01B]: See, the Apple Yard Keep was a place that this Ixid fellow, this necromancer from the swamp, was very interested in.
+[SPEAKER_01B]: And he traded information to Kane Tolley about some ancient artifact, is what I heard.
+[SPEAKER_07A]: Held in Apple Yard Keep?
+[SPEAKER_01B]: Held, it turned out.
+[SPEAKER_01B]: I think it was held in this Turtle Island, actually.
+[SPEAKER_07A]: Interesting.
+[SPEAKER_01B]: I mean, that's where Cain was when I escaped.
+[SPEAKER_01B]: I went there, the bugbear is headed north.
+[SPEAKER_01B]: I was able to get on the ship and he took me back to his island fortress.
+[SPEAKER_07A]: Interesting.
+[SPEAKER_07A]: Do you know what sort of artifact they could be talking about?
+[SPEAKER_01B]: These were just rumors.
+[SPEAKER_01B]: I overheard this from his men.
+[SPEAKER_01B]: But it was supposed to be really, really old.
+[SPEAKER_07A]: Probably really expensive too.
+[SPEAKER_01B]: Oh, priceless is what I've heard.
+[SPEAKER_01B]: Very powerful.
+[SPEAKER_01B]: What he traded the necromancer for I have no idea.
+[SPEAKER_01B]: Something in the keep.
+[SPEAKER_01B]: Apparently the keep had been warded by some magical spell that only Cain Toli could break.
+[SPEAKER_07A]: Interesting.
+[SPEAKER_01B]: And actually, I don't think Kane Toli did it himself.
+[SPEAKER_01B]: I think he got the war broken by some knowledge that Sacknon Toli had gotten from the Duke of Berghoff, or at least that's what the rumors were.
+[SPEAKER_07A]: That's really cool.
+[SPEAKER_07A]: I don't really mean to change the subject here, but I was also so curious on... You talked briefly on how you got your ship back.
+[SPEAKER_07A]: Could you...
+[SPEAKER_07A]: I mean, I'm one for a story.
+[SPEAKER_07A]: Could you do tell?
+[game mechanics] [SPEAKER_00A]: Do a charisma check.
+[game mechanics] [SPEAKER_07A]: Natural 20.
+[game mechanics] [SPEAKER_07A]: 13 plus...
+[game mechanics] [SPEAKER_07A]: Six.
+[game mechanics] [SPEAKER_07A]: All right, no, that's my saving throw.
+[game mechanics] [SPEAKER_07A]: What would that be?
+[game mechanics] [SPEAKER_00A]: Your persuasion.
+[game mechanics] [SPEAKER_07A]: Persuasion plus six.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_07A]: Nineteen.
+[game mechanics] [SPEAKER_00A]: Nineteen.
+[SPEAKER_01B]: Well, I'll see it would hurt.
+[SPEAKER_01B]: Basically, after I escaped, Kane took me to his island and
+[SPEAKER_01B]: I didn't have much to do because we didn't have another sloop as good as this one.
+[SPEAKER_01B]: But then, for some reason, they found it.
+[SPEAKER_01B]: They chased it down and brought it back.
+[SPEAKER_01B]: And I'll tell you, I was happy to get off the island because I didn't like hanging out with the hobgoblins anymore.
+[SPEAKER_07A]: No.
+[SPEAKER_07A]: Little bastard creatures.
+[SPEAKER_01B]: Have you ever seen one?
+[SPEAKER_07A]: I've just heard stories through
+[SPEAKER_01B]: They're not a bad sort, even though they stick to themselves.
+[SPEAKER_01B]: At least they stick to themselves.
+[SPEAKER_01B]: They're very disciplined, though.
+[SPEAKER_01B]: Yeah, Cain has hundreds of them on his island.
+[game mechanics] [SPEAKER_05A]: Right here, Cain?
+[game mechanics] [SPEAKER_00A]: Not right now.
+[game mechanics] [SPEAKER_05A]: Cool.
+[SPEAKER_07A]: Hundreds, you say?
+[SPEAKER_01B]: Yes.
+[SPEAKER_07A]: On Turtle Island.
+[SPEAKER_01B]: No, no, no.
+[SPEAKER_01B]: Turtle Island's a small little island off the coast of Salamore.
+[SPEAKER_01B]: His fortress is in the middle of the Azur Sea, probably somewhere right there.
+[SPEAKER_07A]: Interesting.
+[SPEAKER_07A]: Well, I'm sure glad you got the ship back because it was a fine vessel.
+[SPEAKER_01B]: Yeah, it's alright.
+[SPEAKER_07A]: Reliable.
+[SPEAKER_01B]: Very reliable, absolutely.
+[SPEAKER_01B]: I can tell you I was stuck in and out of many a port.
+[SPEAKER_01B]: Saltmarsh was the best, actually.
+[SPEAKER_01B]: That's where I made most of my money.
+[SPEAKER_01B]: But definitely, definitely, that's off limits now.
+[SPEAKER_01B]: Everyone is my face.
+[SPEAKER_01B]: Can't go there.
+[SPEAKER_01B]: Red Shore is much safer.
+[SPEAKER_07A]: Yeah, I mean... One might call you a little infamous or famous.
+[SPEAKER_01B]: You can say that.
+[SPEAKER_01B]: Ready?
+[SPEAKER_07A]: A true... A true...
+[SPEAKER_07A]: I had a word.
+[SPEAKER_07A]: Lost it.
+[SPEAKER_07A]: Did you say mogul?
+[SPEAKER_07A]: Would that be the right word?
+[SPEAKER_01B]: A mogul?
+[SPEAKER_01B]: No, I never thought of that.
+[SPEAKER_01B]: A mogul of smuggling.
+[SPEAKER_01B]: You're up here on this.
+[SPEAKER_01B]: I can do well.
+[SPEAKER_01B]: Definitely.
+[SPEAKER_07A]: Do you have any other stories that you've been sitting on dying to tell in any recent...
+[SPEAKER_06A]: He wants to know how you got started in all this business.
+[SPEAKER_01B]: All right.
+[SPEAKER_01B]: I'll let you know.
+[SPEAKER_01B]: I used to be a naval man.
+[SPEAKER_00A]: And then he goes on.
+[SPEAKER_00A]: And on.
+[SPEAKER_00A]: And the hours go by.
+[SPEAKER_00A]: And Owen Black basically is telling you all of the recriminations he has against his father and all of the daddy issues that he's had during his father.
+[SPEAKER_00A]: And Tyrus, you've heard this story so many times.
+[SPEAKER_06A]: I just want to chime in every once in a while.
+[SPEAKER_06A]: Just before he says the punchline.
+[SPEAKER_06A]: It was your uncle!
+[SPEAKER_06A]: You know what I mean?
+[SPEAKER_00A]: There's kind of a back and forth between the two of them.
+[SPEAKER_00A]: And it's getting close to dawn, right?
+[SPEAKER_06A]: When
+[SPEAKER_00A]: Tyrus, you see a ship, probably six miles away, heading towards the east.
+[SPEAKER_00A]: Okay.
+[SPEAKER_06A]: At this point, we are coming around.
+[SPEAKER_00A]: You guys have come around here, and you're like right there.
+[SPEAKER_06A]: Right, right there, and it's heading east towards us.
+[SPEAKER_00A]: No, it's going down.
+[SPEAKER_06A]: Yeah, yeah.
+[SPEAKER_00A]: Well, not, yeah, but I mean, we're going to... You're far enough away that you probably won't intercept it.
+[SPEAKER_06A]: Yeah, I know, but I mean, we're...
+[SPEAKER_06A]: They could turn or something like that.
+[SPEAKER_00A]: Oh, if they turn towards you.
+[SPEAKER_06A]: Yeah, yeah, yeah.
+[game mechanics] [SPEAKER_06A]: Do I know the colors or see any of the... Full perception check.
+[SPEAKER_06A]: First of all, I shut it out.
+[SPEAKER_06A]: Ship ahead.
+[SPEAKER_00A]: Owen kind of looks... Quits talking and goes...
+[game mechanics] [SPEAKER_06A]: Perception, make it a plus two.
+[game mechanics] [SPEAKER_06A]: Seven, eight, nine?
+[game mechanics] [SPEAKER_00A]: Nine.
+[SPEAKER_00A]: You can make it out, but you can't really see what it is.
+[SPEAKER_06A]: So I shout it out ahead, if somebody else will see it.
+[SPEAKER_00A]: Owen kind of strains.
+[SPEAKER_01B]: Oh.
+[SPEAKER_01B]: That's the Seaghost itself.
+[SPEAKER_01B]: Dammit, I want it to sleep.
+[SPEAKER_01B]: That's Kane's ship.
+[SPEAKER_01B]: Oh.
+[SPEAKER_01B]: Yeah.
+[SPEAKER_01B]: I wonder what it's sailing east for.
+[SPEAKER_01B]: He usually doesn't go that direction.
+[SPEAKER_01B]: He stays around his fort.
+[SPEAKER_07A]: King's the necromancer, right?
+[SPEAKER_07A]: No.
+[SPEAKER_07A]: No, he was dealing with the necromancer.
+[SPEAKER_05A]: Yeah, yeah, yeah.
+[SPEAKER_06A]: You should get Merrick up here.
+[SPEAKER_06A]: Right away.
+[SPEAKER_06A]: I run down.
+[SPEAKER_06A]: I'll get him.
+[SPEAKER_06A]: I'm headed down.
+[SPEAKER_06A]: Stairs.
+[SPEAKER_06A]: I wake up.
+[SPEAKER_06A]: First, I go into the wrong room, and I wake up Gouge.
+[SPEAKER_04A]: Okay.
+[SPEAKER_06A]: Get up.
+[SPEAKER_06A]: Oh, hey, Gouge.
+[SPEAKER_06A]: Whoops, sorry.
+[SPEAKER_06A]: I didn't realize that was you.
+[SPEAKER_06A]: Sorry.
+[SPEAKER_06A]: Going to the Merrick's room.
+[SPEAKER_06A]: You're getting up anyway, right?
+[SPEAKER_06A]: You guys, there's a ship up there.
+[SPEAKER_06A]: Seagulls.
+[SPEAKER_06A]: Call me if you need me.
+[SPEAKER_06A]: I leave the door open and lay in the bunk.
+[SPEAKER_06A]: All right.
+[SPEAKER_05A]: Wow.
+[SPEAKER_05A]: You sleep at the... Yeah, you've been up a while.
+[SPEAKER_05A]: Yeah.
+[SPEAKER_00A]: All right.
+[SPEAKER_00A]: So you get up on the deck.
+[SPEAKER_00A]: And you look out over the thing, and you see the ship.
+[SPEAKER_00A]: And this was the ship that was off the coast of the helm.
+[SPEAKER_00A]: You guys were climbing up the wall.
+[SPEAKER_00A]: It's the same one.
+[SPEAKER_00A]: It's far away, but you can definitely tell that it's that make, because it's that foreign model.
+[SPEAKER_00A]: The cutter is not a Corsair.
+[SPEAKER_00A]: It's definitely not a Man of War, and it's fast.
+[SPEAKER_05A]: That was that quick one, huh?
+[SPEAKER_00A]: It seems like it's moving at six knots, which is actually probably two knots faster than the Cosaire's would go.
+[SPEAKER_00A]: You can get a Cosaire up to maybe four and a half knots, you've seen that happen, but this ship is quick.
+[SPEAKER_05A]: Friend of yours, Owen?
+[SPEAKER_01B]: That's Caintoli's ship.
+[SPEAKER_01B]: No, I guess you guys aren't going to be able to meet him after all.
+[SPEAKER_01B]: Unless you want to try and catch him now.
+[SPEAKER_01B]: I don't think he were fast enough to be able to get, and it seems like he's in a hurry.
+[SPEAKER_05A]: Hmm.
+[SPEAKER_05A]: Can you tell you about any recent travels you plan on being on?
+[SPEAKER_01B]: None that I've heard of.
+[SPEAKER_01B]: I hadn't seen the man in several weeks.
+[SPEAKER_05A]: The ship's the what?
+[SPEAKER_01B]: Toli.
+[SPEAKER_05A]: No, no.
+[SPEAKER_05A]: What do you call it?
+[SPEAKER_05A]: Seaghost.
+[SPEAKER_05A]: Seaghost.
+[SPEAKER_05A]: Okay.
+[SPEAKER_05A]: Owen, you said...
+[SPEAKER_05A]: So fast it can't be seen.
+[SPEAKER_05A]: The sea ghost.
+[SPEAKER_05A]: Oh, I don't know what I want to do.
+[SPEAKER_05A]: Owen, you said he goes where the money is, right?
+[SPEAKER_01B]: He's got a little bit more ambition than that.
+[SPEAKER_05A]: I really want to tail him, but I also don't want to tell Owen that.
+[SPEAKER_05A]: We've come to about there.
+[SPEAKER_05A]: Something's flying east here.
+[SPEAKER_05A]: It's off the shipping lanes.
+[SPEAKER_05A]: Out of the shipping lanes.
+[SPEAKER_00A]: This is towards Gratzel.
+[SPEAKER_05A]: This is towards Redshore.
+[SPEAKER_05A]: This is towards Saltmarsh.
+[SPEAKER_00A]: Normally you go like this, or you get there and you go to Portoli.
+[SPEAKER_05A]: Nobody goes that way.
+[SPEAKER_00A]: Very few people go that way.
+[SPEAKER_05A]: Which way is he heading?
+[SPEAKER_07A]: He's heading east.
+[SPEAKER_07A]: He's going this way, from Dragon Isle going that way.
+[SPEAKER_05A]: He's gonna pass us.
+[SPEAKER_07A]: We're going around here.
+[SPEAKER_05A]: I don't want to tail him.
+[SPEAKER_05A]: I do want to take note.
+[SPEAKER_04A]: What the hell would he be going out that way for?
+[SPEAKER_04A]: I don't have nothing out there.
+[SPEAKER_05A]: Is there anything out here that I would know that he would be going towards?
+[SPEAKER_01B]: So, this is out towards the open of your sea.
+[SPEAKER_01B]: It's a huge sea out this way.
+[SPEAKER_01B]: Now, there is the horn of the Imenio jungle that's down this way, so he might be going out of the
+[SPEAKER_01B]: Around the outer islands, if you head south, this way.
+[SPEAKER_01B]: There are Toli ports out that direction, but it's usually where the Toli reign into the Amado jungle to get ivory slaves, that kind of stuff.
+[SPEAKER_01B]: Wood, stuff like that.
+[SPEAKER_01B]: That's not where he's gonna go personally to do shit.
+[SPEAKER_05A]: Is this his personal ship, or is he on it?
+[SPEAKER_01B]: If that thing's moving, he's probably on it.
+[SPEAKER_00A]: According to Owen Black,
+[SPEAKER_00A]: It is his personal ship, the seagulls.
+[SPEAKER_00A]: Yeah, the seagulls.
+[SPEAKER_04A]: He ain't letting nobody else on that fucker.
+[SPEAKER_04A]: Yeah, it's his.
+[SPEAKER_04A]: So I just yell up to you.
+[SPEAKER_04A]: You know anything out there?
+[SPEAKER_01B]: There's money involved out there.
+[SPEAKER_01B]: All he's going to, you know, just trading in his slave trade.
+[SPEAKER_01B]: Seems an odd place for him to go.
+[SPEAKER_01B]: Unless he's swinging back.
+[SPEAKER_07A]: There would be no reason for him to go out that way.
+[SPEAKER_01B]: To be honest, I don't understand why he'd go that way.
+[SPEAKER_04A]: So I was yelling at Merrick, making sure, obviously, Owen could hear me as well.
+[SPEAKER_04A]: Why the hell would he go out there?
+[SPEAKER_05A]: Okay.
+[SPEAKER_01B]: I mean, there's no reason.
+[SPEAKER_01B]: He would usually go through the Straits of Monmurg if he was going to the immediate jungle forts, but I don't know why he'd want to go there.
+[SPEAKER_05A]: Yeah, that's what I figured.
+[SPEAKER_05A]: Interesting.
+[SPEAKER_01B]: The season is starting, but he's never been involved in that anyway.
+[SPEAKER_05A]: Okay.
+[SPEAKER_05A]: We're just going to keep going on.
+[SPEAKER_05A]: Owen's driving, right?
+[SPEAKER_05A]: Owen's steering.
+[SPEAKER_05A]: Hey!
+[SPEAKER_01B]: At the moment.
+[SPEAKER_01B]: Well, are you going to relieve me?
+[SPEAKER_05A]: Yeah, no, I'm here to relieve.
+[SPEAKER_05A]: I'm going to bed.
+[SPEAKER_04A]: What are the odds we can get paid higher if we go offer support to him?
+[SPEAKER_04A]: You think he needs it?
+[SPEAKER_01B]: I don't think we could catch him, Gouge.
+[SPEAKER_04A]: Ah, I mean... That is moving on a good clip.
+[SPEAKER_01B]: Yeah, I was hoping to introduce you guys in a new full environment so he'd feel amenable to hiring you.
+[SPEAKER_04A]: Gotcha.
+[SPEAKER_04A]: Too soon?
+[SPEAKER_04A]: I think it'd be strange.
+[SPEAKER_04A]: Hey, your call.
+[SPEAKER_04A]: You know him, not us.
+[SPEAKER_04A]: Yeah, I'll go with your word.
+[SPEAKER_04A]: All right, I'm going to bed.
+[SPEAKER_00A]: Until he walks down.
+[SPEAKER_05A]: Yeah, I'm just going to take note of where I saw him going.
+[SPEAKER_05A]: But I'm not going to try to tail or do anything like that.
+[SPEAKER_05A]: It's just not worth it right now.
+[SPEAKER_00A]: Okay, so you take your shift.
+[SPEAKER_00A]: Do you guys want to say anything to each other or just sail through the seas?
+[SPEAKER_05A]: Well, who's up there with me?
+[SPEAKER_05A]: Is it Folsom and Tyrus?
+[SPEAKER_00A]: Folsom and Gouge.
+[SPEAKER_00A]: Tyrus has gone to bed.
+[SPEAKER_05A]: Okay, it's me and Folsom.
+[SPEAKER_05A]: So we only got about four.
+[SPEAKER_05A]: Two and three.
+[SPEAKER_05A]: Folsom, get any information?
+[SPEAKER_07A]: No, you have to keep it down.
+[SPEAKER_07A]: So apparently, Owen escaped with those bugbears he was talking about.
+[SPEAKER_07A]: But he called them mercenaries.
+[SPEAKER_07A]: They were from a cult called the Sons of Olan in the marshes of the west.
+[SPEAKER_07A]: Is that where you're going to go to me?
+[SPEAKER_05A]: No.
+[SPEAKER_07A]: Interesting.
+[SPEAKER_07A]: Yeah, near the marshes of Olan.
+[SPEAKER_07A]: He also talked about how he escaped with his ship.
+[SPEAKER_07A]: But when he was escaping, or got his ship back, he mentioned that a little fortress with hundreds of hobgoblins on it, where Necromancer resides, right?
+[SPEAKER_00A]: No, that's where Keitoly resides.
+[SPEAKER_07A]: Keitoly resides with hundreds of hobgoblins near
+[SPEAKER_07A]: Near Red Shore.
+[SPEAKER_00A]: In the middle of the bay between Monmurg, Red Shore, and Saltmarsh.
+[SPEAKER_00A]: No, you guys were at Helms Island.
+[SPEAKER_00A]: But basically he's saying there's a fort right there.
+[game mechanics] [SPEAKER_00A]: Do an int check.
+[game mechanics] [SPEAKER_05A]: Intelligence?
+[game mechanics] [SPEAKER_05A]: Intelligence.
+[game mechanics] [SPEAKER_05A]: I have a 10, so it's probably just what it is, right?
+[game mechanics] [SPEAKER_05A]: It's a big... You got a 10?
+[game mechanics] [SPEAKER_07A]: He's wise, not smart.
+[game mechanics] [SPEAKER_04A]: Oh, shit.
+[game mechanics] [SPEAKER_04A]: They put you in charge?
+[game mechanics] [SPEAKER_07A]: Son of a bitch.
+[game mechanics] [SPEAKER_00A]: Two.
+[game mechanics] [SPEAKER_00A]: Two.
+[game mechanics] [SPEAKER_00A]: Something's bugging you in the back of your mind.
+[game mechanics] [SPEAKER_00A]: You do an ink check.
+[game mechanics] [SPEAKER_00A]: At disadvantage.
+[game mechanics] [SPEAKER_00A]: At disadvantage.
+[game mechanics] [SPEAKER_00A]: 18.
+[game mechanics] [SPEAKER_00A]: At disadvantage.
+[game mechanics] [SPEAKER_00A]: Oh, you've been drinking too much.
+[game mechanics] [SPEAKER_00A]: Or I haven't been drinking.
+[game mechanics] [SPEAKER_00A]: The good stuff.
+[game mechanics] [SPEAKER_05A]: Yeah, yeah.
+[game mechanics] [SPEAKER_00A]: Do it again.
+[game mechanics] [SPEAKER_00A]: Five.
+[SPEAKER_00A]: Come with me.
+[SPEAKER_00A]: There was that book that Merrick got off.
+[SPEAKER_04A]: Oh yeah, he was reading all that shit.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: And in that book, and you told Jameis this, basically he said that those barrels
+[SPEAKER_00A]: The ones at Helm Island, there was another fortress in the middle of the bay that had a larger store of it.
+[SPEAKER_00A]: And that Kane totally got the lease on that.
+[SPEAKER_00A]: And he stopped shipments for some reason.
+[SPEAKER_06A]: I locked it.
+[SPEAKER_06A]: I locked it last time.
+[SPEAKER_04A]: Fuck.
+[SPEAKER_04A]: There you go.
+[SPEAKER_04A]: Don't whisper.
+[SPEAKER_04A]: Didn't you read that book that talked about
+[SPEAKER_04A]: The moving barrels to that other island.
+[SPEAKER_04A]: And shut down.
+[SPEAKER_04A]: All that shit.
+[SPEAKER_04A]: You remember?
+[SPEAKER_05A]: Yeah.
+[SPEAKER_04A]: Yeah, you were telling me about it.
+[SPEAKER_05A]: Yes.
+[SPEAKER_05A]: I think I brought that book with me.
+[SPEAKER_00A]: And you gave it to Jameis.
+[SPEAKER_00A]: Yes, he still has that book.
+[SPEAKER_05A]: Because I have that book.
+[SPEAKER_04A]: That should jog your memory as to
+[SPEAKER_04A]: Yes.
+[SPEAKER_04A]: Which was, there was a much larger collection of barrels at that other island that was in King Toli's control, right?
+[SPEAKER_04A]: And he'd shut down the shipping.
+[SPEAKER_04A]: Oh, you have the book?
+[SPEAKER_04A]: You actually have one.
+[SPEAKER_04A]: Look at that.
+[SPEAKER_04A]: Oh, yeah.
+[SPEAKER_04A]: All those barrels.
+[SPEAKER_00A]: Barrels.
+[SPEAKER_00A]: Yet, the Sea Princes, with the aid of the Duke of Berkhoff, devised a plan to eradicate the threat.
+[SPEAKER_00A]: Armed with the mysterious yellow-white powder provided by the Duke, they launched a campaign of destruction against the Sahuagin cities.
+[SPEAKER_00A]: The powder, lethal to the sahuagin upon contact with seawater, decimated their ranks between 427 and 430.
+[SPEAKER_00A]: The island fortress
+[SPEAKER_00A]: Of Pocra Sententia, an ancient Seul fortification, served as the staging ground for these attacks.
+[SPEAKER_00A]: And for decades, the sea princes maintained vigilant patrols to guard against the Sahuagin's return.
+[SPEAKER_04A]: And that's the bigger one.
+[SPEAKER_04A]: Okay.
+[SPEAKER_00A]: The island, Owen Black, his set was Caintoli's.
+[SPEAKER_04A]: Okay.
+[SPEAKER_05A]: Is that where all that, a ton more of the shit is?
+[SPEAKER_04A]: That's where, all that is where they had and that's, they maintained killing off.
+[SPEAKER_00A]: They had a supply as large as the Helm did.
+[SPEAKER_06A]: Okay.
+[SPEAKER_05A]: And I remembered that because I read it, so.
+[game mechanics] [SPEAKER_04A]: Somebody's gotta have a higher 12, higher than my 12 to figure this out.
 [out-of-band] [SPEAKER_02]: Hey, I like how that healing potion turned red.
 [out-of-band] [SPEAKER_02]: See?
 [out-of-band] [SPEAKER_02]: Goes from white to red on the script.
 [out-of-band] [SPEAKER_04]: What the hell's in there?
 [out-of-band] [SPEAKER_04]: I had to drain the tank.
-[SPEAKER_00]: Yeah, so now it does ring a bell.
+[SPEAKER_05A]: Yeah, so now it does ring a bell.
 [out-of-band] [SPEAKER_00]: What is red?
 [out-of-band] [SPEAKER_00]: Cherry juice.
 [out-of-band] [SPEAKER_00]: Cherry juice?
 [out-of-band] [SPEAKER_00]: Oh, I guess.
-[SPEAKER_00]: Yeah, it does ring a bell.
-[SPEAKER_00]: It seems to be powder in that.
-[SPEAKER_02]: Yeah, you were telling me about that.
-[SPEAKER_00]: Yeah.
-[SPEAKER_02]: Yeah.
-[SPEAKER_00]: Is that where we're heading towards, his island, or where we're actually going?
-[SPEAKER_00]: You're going to Red Shore.
-[SPEAKER_00]: Okay, and his thing is right here.
-[SPEAKER_02]: And that guy was just hauling ass.
-[SPEAKER_02]: Out that way.
-[SPEAKER_04]: Was he moving so quick that it seemed like he was trying to get away from something?
-[SPEAKER_01]: I mean, you don't see any other ships.
-[SPEAKER_01]: Either he was trying to get something, chasing something, because you don't see anything chasing him on the open water.
-[SPEAKER_01]: So if it was something chasing him, it was underwater.
-[SPEAKER_01]: What time is it?
-[SPEAKER_01]: It is, well, when you saw it and you swapped, it was dawn, which was around 7 o'clock.
-[SPEAKER_00]: And I assume Owen's up for the day now.
-[SPEAKER_00]: No, he just went down.
-[SPEAKER_00]: He just went to bed.
-[SPEAKER_00]: Owen just went to bed.
-[SPEAKER_01]: Yeah, he went from four... Well, actually, he could do another four hours, but he just went to bed.
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: Gouge, I think I'm going to...
-[SPEAKER_00]: Take the ship towards Kane Tolley's Island.
-[SPEAKER_00]: Also, I'm telling him, is he up?
-[SPEAKER_00]: He's standing there.
-[SPEAKER_01]: Now, the thing is, it's the same direction.
-[SPEAKER_00]: Yes, but we're going up more this way, is where Owen thinks we're going.
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: I want to...
-[SPEAKER_00]: Go directly more towards this.
-[SPEAKER_00]: If Owen asks them, let's say a brigade or something, we saw a lot of ships moving, so I did my best to move out of the way.
-[SPEAKER_00]: Storm, but... Is there...
-[SPEAKER_00]: Right here?
-[SPEAKER_04]: No, we're up around there.
-[SPEAKER_04]: Just around, yeah.
-[SPEAKER_04]: How long do you think it would take from here to get to Redshore?
-[SPEAKER_01]: It's probably going to be another 24 hours.
-[SPEAKER_02]: Okay.
-[SPEAKER_02]: I mean, we're going to take the same path there anyway.
-[SPEAKER_02]: You would start maybe deviating that far out.
-[SPEAKER_01]: What you want to do is you want to go around the Dragon Islands, because this is where they usually hang out.
-[SPEAKER_00]: The dragons.
-[SPEAKER_00]: Yes.
-[SPEAKER_00]: But Owen said there hasn't been dragons moving.
-[SPEAKER_01]: He hasn't seen any of them.
-[SPEAKER_00]: Are the dragons flying?
-[SPEAKER_02]: They're not waterborne, right?
-[SPEAKER_01]: The turtle dragons?
-[SPEAKER_02]: Oh, they're turtle dragons.
-[SPEAKER_02]: Yes.
-[SPEAKER_01]: Oh, they're waterborne.
-[SPEAKER_01]: Yes.
-[SPEAKER_02]: Okay, so...
-[SPEAKER_02]: Will he be faster to go through?
-[SPEAKER_02]: No, I'm wondering if he's... Can he outrun him?
-[SPEAKER_02]: I don't know if... Ah, fuck.
-[SPEAKER_02]: Probably not.
-[SPEAKER_02]: You cannot outrun a turtle dragon.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: They move... Turtles are slow.
-[SPEAKER_01]: They can move 12 miles an hour at 12 knots.
-[SPEAKER_01]: They're four times faster than the fastest ship.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: Maybe three and a half.
-[SPEAKER_01]: Maybe three times faster.
-[SPEAKER_01]: But yeah, they rule the ocean.
-[SPEAKER_02]: And they...
-[SPEAKER_02]: Obviously I know something about them from the years and like that, at least stories and stuff.
-[SPEAKER_01]: Oh yeah, they attack ships.
-[SPEAKER_01]: Well, they used to attack the Super Principality ships and then supposedly what Lord Jeon does is he dumps gold over the side every year to the tune of 10,000 gold coins and they leave them alone.
-[SPEAKER_02]: He made a deal with them.
-[SPEAKER_02]: Wait, are they actual sea dragon turtles that are intelligence?
-[SPEAKER_02]: The turtle dragons can talk and they can be bribed.
-[SPEAKER_02]: I know all about these guys, I assume.
-[SPEAKER_02]: Oh yeah, probably more than me, if he's a ranger in that seafaring.
-[SPEAKER_02]: Oh shit, so they're... Yeah, I mean, if we get caught, we got nothing to give them.
-[SPEAKER_02]: They can want that rum, so...
-[SPEAKER_00]: But Owen has been through there.
-[SPEAKER_00]: He's been close enough to know that there hasn't been something going on.
-[SPEAKER_00]: And what I was worried about was...
-[SPEAKER_02]: You're totally running from him, and that's pointless because you can't, even with that.
-[SPEAKER_02]: So, okay.
-[SPEAKER_00]: I want to go through it, though.
-[SPEAKER_00]: If Owen said there's not movement in there, I want to see it for myself.
-[SPEAKER_02]: I don't want to deviate anything from what Owen to create any suspicion.
-[SPEAKER_02]: If he's comfortable doing it, I don't think he's going to put himself at risk over something like he's not getting paid enough to take a huge risk.
-[SPEAKER_04]: Before we go, we'll get Owen to stay and see which way he takes us.
-[SPEAKER_04]: If he's that confident, there's nothing there.
-[SPEAKER_00]: That does get a good point.
-[SPEAKER_00]: I'll talk to him and see which way he wants to go to get us there the quickest.
-[SPEAKER_00]: I do want to know more about the Dragon Isles and talk to him about it a little more to see if he's actually telling the truth.
-[SPEAKER_00]: He hasn't seen anything there, if he's actually been there, or he's just saying that he got close to it.
-[SPEAKER_04]: I'll talk to him about it.
-[SPEAKER_00]: Okay.
-[SPEAKER_00]: Sounds good.
-[SPEAKER_00]: Okay.
-[SPEAKER_00]: I'm just going to keep sailing.
-[SPEAKER_00]: Do I notice anything in the waters?
-[SPEAKER_01]: Nothing strange that would be weird for this time of year in these waters around here.
-[SPEAKER_01]: Okay, so you're going to keep sailing and do an eight-hour shift, right?
-[SPEAKER_00]: Yeah.
-[SPEAKER_01]: And do you want to keep heading towards the Dragon Isles as if you're going to go to Red Shore?
-[SPEAKER_00]: Or do I want to go a little bit more towards the coast?
-[SPEAKER_00]: I want to go like...
-[SPEAKER_00]: I'm kind of heading towards this one a little bit.
-[SPEAKER_00]: Not like here.
-[SPEAKER_01]: You're not swinging wide.
-[SPEAKER_01]: You're going to want to go close, right?
-[SPEAKER_01]: Yes, a little bit closer.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: Alright, so the day wears on and basically you sleep.
-[SPEAKER_01]: Are you going to go bunk again too?
-[SPEAKER_03]: I'll sleep with Tyrus.
-[SPEAKER_01]: Alright.
-[SPEAKER_01]: I'm a little smooth.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: He's spirkin'.
-[SPEAKER_01]: And you're going to stay watch with Merrick, right?
-[SPEAKER_02]: I'm going to sleep on the deck.
-[SPEAKER_02]: Okay.
-[SPEAKER_02]: All right, kick me if you need me, but I'm outside.
-[SPEAKER_01]: So the day goes on, the day of the fifth of Whalesun ends, and around eight o'clock, Owen comes back up and says, Well, cousin, you got as far, I can see the dragon isles.
-[SPEAKER_01]: You're kind of close to them.
-[SPEAKER_01]: What were you thinking?
-[SPEAKER_00]: You told me you haven't seen any movement the last time you've been through there and I just wanted to see for myself.
-[SPEAKER_00]: And you trusted me.
-[SPEAKER_01]: Good to know.
-[SPEAKER_01]: No.
-[SPEAKER_01]: Straight on.
-[SPEAKER_01]: I think that's exactly the way we should go.
-[SPEAKER_01]: Definitely.
-[SPEAKER_01]: Do you want to stay up while we pass by?
-[SPEAKER_00]: Absolutely.
-[SPEAKER_00]: I haven't been this way in a long time.
-[SPEAKER_00]: I'd like to see.
-[SPEAKER_01]: Certainly.
-[SPEAKER_00]: So it gets up on deck with you.
-[SPEAKER_01]: And the two of you watch as
-[SPEAKER_01]: He basically says, do you want to steer us through?
-[SPEAKER_01]: I do.
-[SPEAKER_00]: You still want to go north of them, right?
-[SPEAKER_00]: Yeah, but there's no harm in taking a little peek, getting a little closer.
-[SPEAKER_00]: Do you agree?
-[SPEAKER_00]: I absolutely agree.
-[SPEAKER_00]: Okay, let's go a little closer.
-[SPEAKER_00]: Okay.
-[SPEAKER_00]: You're asleep.
-[SPEAKER_01]: I'm on the neck there.
-[SPEAKER_01]: You want to give him a drink?
-[SPEAKER_01]: Yeah, take a bowl, see if he wants a bowl.
-[SPEAKER_01]: He drinks a bit.
-[SPEAKER_01]: All right, so the next four hours go by and you guys do another 12 miles.
-[SPEAKER_01]: And the Dragon Isles, which you've been this close to before, but most people don't.
-[SPEAKER_01]: Rise starkly out of the darkness of the sea as the sun goes down.
-[SPEAKER_01]: Now the moon is probably a quarter full at this time so you can see it, but the rocks are just black.
-[SPEAKER_01]: And you don't want to get too close because you know that there are reefs and other things that are hard to see during this period of time.
-[SPEAKER_01]: But it's quiet and as close as you go
-[SPEAKER_01]: Normally you would hear the roaring of the turtle dragons.
-[SPEAKER_01]: Okay.
-[SPEAKER_00]: Owen, do you mind taking a steer for a bit?
-[SPEAKER_00]: I do admire this as much as I can.
-[SPEAKER_01]: Certainly, cousin.
-[SPEAKER_01]: It's my turn.
-[SPEAKER_00]: Yep.
-[SPEAKER_00]: I'll get you up there and then I'm going to leave Helm and I'm going to go towards the front of the boat to get him.
-[SPEAKER_00]: I'm listening.
-[SPEAKER_01]: Okay.
-[SPEAKER_00]: I'm perceiving everything that's going on.
-[SPEAKER_00]: Watching the waters, the tide.
-[SPEAKER_00]: Is this unusual for this area where I'm like, this time of year something should be happening?
-[SPEAKER_01]: This is weird.
-[SPEAKER_01]: This is actually very weird because during this time of year usually you would hear the roaring of the dragons at night and this is actually mating season.
-[SPEAKER_01]: And some of the larger dragons, turtle dragons, would be in contests with each other.
-[SPEAKER_01]: The males would be roaring and battling each other for dominance.
-[SPEAKER_01]: I look at the water.
-[SPEAKER_02]: I make my way up to Merrick there.
-[SPEAKER_00]: This is unusual.
-[SPEAKER_00]: I mean, when Owen said it had been quiet, I didn't think he meant still quiet.
-[SPEAKER_02]: Do you think they got enough of that shit?
-[SPEAKER_02]: That it can affect these, the dragons?
-[SPEAKER_00]: That's what I'm wondering as well.
-[SPEAKER_00]: I'm going to try to see if as close as we can get to these islands.
-[SPEAKER_00]: I want to look at this water.
-[SPEAKER_02]: Yeah.
-[SPEAKER_02]: Is the water, did you notice anything when we put it in or when we dealt with it with the last ones?
-[SPEAKER_02]: Is there anything that you can tell?
-[SPEAKER_02]: Is there any luminescence or shimmering in it?
-[SPEAKER_00]: That's what I'm looking for.
-[SPEAKER_00]: I look, is there anything I can see?
-[SPEAKER_01]: So when you put this stuff in the water, it dissolved.
-[SPEAKER_01]: And the sea did not look any different.
-[SPEAKER_01]: When it initially got in, you could see something.
-[SPEAKER_01]: It was milky, but it quickly dispersed, right?
-[SPEAKER_00]: And that only keeps a sahagin and things of that away, right?
-[SPEAKER_00]: It's to deter creatures.
-[SPEAKER_01]: Well, what Paul kind of said, because Tyrus got the shit all over his body.
-[SPEAKER_01]: Paul basically said, don't get it wet, wipe it off.
-[SPEAKER_01]: So the water's a catalyst then?
-[SPEAKER_02]: It's a catalyst.
-[SPEAKER_02]: It's like, don't breathe any of it.
-[SPEAKER_00]: It would affect humans.
-[SPEAKER_01]: Apparently what Paul said was, if you breathe it in and it's dust-like form, it could do you damage.
-[SPEAKER_02]: Especially if your lungs are being damp.
-[SPEAKER_01]: But if it was in the water and a human got into it,
-[SPEAKER_01]: It wouldn't do anything to their bodies, right?
-[SPEAKER_01]: Because they don't breathe water, right?
-[SPEAKER_01]: Okay, I see what you mean.
-[SPEAKER_02]: So it's something going through gills type of thing.
-[SPEAKER_02]: Well, and the gills on that were all blistered.
-[SPEAKER_00]: So it gets in and just... Do I see any bodies?
-[SPEAKER_00]: Do I see any dead fish in the water?
-[SPEAKER_00]: Do I see anything floating?
-[SPEAKER_00]: Do I see anything...
-[SPEAKER_00]: Nothing like that.
-[SPEAKER_00]: Nothing.
-[SPEAKER_00]: Nothing's fucking moving at all.
-[SPEAKER_00]: Okay.
-[SPEAKER_01]: Well, I mean, there are fish, and actually that indicates to you that that stuff is not in the water, because it would kill the fish.
-[SPEAKER_01]: Interesting.
-[SPEAKER_01]: It's just, for whatever reason, the dragons aren't here, and that's very strange during this season.
-[SPEAKER_02]: So I just grab his shoulder, kind of shove him as I walk back, just to make it look like we're not anything big.
-[SPEAKER_02]: I just kind of walked back, and I don't know what the fuck he's looking at.
-[SPEAKER_02]: Nothing out there.
-[SPEAKER_00]: Alright, I'm gonna go back up to the deck.
-[SPEAKER_00]: Owen, you said it's been quiet.
-[SPEAKER_00]: This is eerily quiet.
-[SPEAKER_00]: Was this as quiet when you came through?
-[SPEAKER_01]: They've been gone all season.
-[SPEAKER_00]: All season.
-[SPEAKER_00]: That's unheard of.
-[SPEAKER_00]: Do you know anything?
-[SPEAKER_00]: Like, what's going on?
-[SPEAKER_00]: Okay.
-[SPEAKER_00]: Erie.
-[SPEAKER_00]: I don't want to hit the reef, but I do want to get closer.
-[SPEAKER_00]: This is strange.
-[SPEAKER_00]: If they're really not here like you say, there's no better chance to get as close to the island as this.
-[SPEAKER_01]: What are you thinking about?
-[SPEAKER_01]: Making a naval base here?
-[SPEAKER_00]: I just think it would be amazing to tell the stories how close we got to it.
-[SPEAKER_01]: Take the helm.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: He backs off.
-[SPEAKER_00]: Take the helm.
-[SPEAKER_00]: Do you want to sail through him?
-[SPEAKER_00]: Yep.
-[SPEAKER_00]: Okay.
-[SPEAKER_01]: So you turn the boat and you're going to actually go up through that one?
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: You trust your cousin taking us this way?
-[SPEAKER_01]: At the helm, I trust him with anything.
-[SPEAKER_01]: If anybody can pilot this, it's him.
-[SPEAKER_01]: Okay, so you whip the boat south around the island and then up through here.
-[SPEAKER_01]: And in truth, this is something that hasn't been tried by anyone for hundreds of years.
-[SPEAKER_01]: This is kind of like unspoken
-[SPEAKER_01]: The dragons basically said, yeah, we'll leave this alone.
-[SPEAKER_01]: But this is our area.
-[SPEAKER_01]: These are our hunting grounds.
-[SPEAKER_01]: So in a way, you're kind of violating the unspoken treaty that you've had with them for 150 years.
-[SPEAKER_01]: But, in reality, we're making sure they're okay.
-[SPEAKER_01]: Of course.
-[SPEAKER_01]: How close do you want to get to the islands?
-[SPEAKER_01]: Because the gap between the two of them is probably about
-[SPEAKER_00]: Three miles.
-[SPEAKER_00]: We'll get closer to this one.
-[SPEAKER_00]: Okay.
-[SPEAKER_00]: So I can swing out and get us closer there if we need to.
-[SPEAKER_01]: All right.
-[SPEAKER_01]: So you swing this way and you basically see Dragon Island.
-[SPEAKER_01]: But the problem is, of course, it's nighttime.
-[SPEAKER_02]: Yeah.
-[SPEAKER_01]: So you can't really make any
-[SPEAKER_01]: Big discoveries about the shoreline or anything like that.
-[SPEAKER_01]: However, no sounds.
-[SPEAKER_01]: None of the roaring, just basically the wind, the sound of the ocean.
-[SPEAKER_01]: These islands should be alive right now with the turtle dragons basically roaring at each other.
-[out-of-band] [SPEAKER_00]: Off topic, but I can't remember.
-[out-of-band] [SPEAKER_00]: One of us kept a little bit of that powder.
-[out-of-band] [SPEAKER_00]: From a thing.
-[out-of-band] [SPEAKER_00]: I don't remember if I had that and gave it to Jameis.
-[out-of-band] [SPEAKER_01]: You had that and gave it to Jameis.
-[out-of-band] [SPEAKER_00]: Gave it to Jameis, okay.
-[out-of-band] [SPEAKER_01]: You asked for a little bit back and he gave you a little bit back.
-[out-of-band] [SPEAKER_01]: Okay, so I have like a vial.
-[out-of-band] [SPEAKER_01]: You have like a packet.
-[out-of-band] [SPEAKER_01]: Cool.
-[out-of-band] [SPEAKER_00]: Just making sure I had that on me.
-[out-of-band] [SPEAKER_00]: Okay.
-[SPEAKER_00]: Oh, and no one's gonna believe us that we're going through here like this.
-[SPEAKER_01]: Well, we'll get your little friend to make a song about it.
-[SPEAKER_01]: That's a tale I can tell him.
-[SPEAKER_01]: You want to wake up Folsom?
-[SPEAKER_01]: I'll go down and grab them.
-[SPEAKER_01]: Get them both.
-[SPEAKER_01]: It's a sight to see.
-[SPEAKER_01]: Thank you, Gouge.
-[SPEAKER_02]: I go down, kick his bunk.
-[SPEAKER_02]: Damn!
-[SPEAKER_02]: Your bunk smells.
-[SPEAKER_02]: Get your ass up.
-[SPEAKER_02]: Hey.
-[SPEAKER_02]: Time to start writing a new story.
-[SPEAKER_02]: Get up there.
-[SPEAKER_02]: Let's go.
-[SPEAKER_02]: On it.
-[SPEAKER_01]: All right.
-[SPEAKER_01]: So anyway, Merrick pilots the ship between the Dragon Isles.
-[SPEAKER_01]: You don't say anything, huh?
-[SPEAKER_02]: You've got like two hours or something.
-[SPEAKER_01]: You're basically like, this is foolish.
-[SPEAKER_01]: And then go back to bed.
-[SPEAKER_03]: It's nighttime, Dragon Isles.
-[SPEAKER_03]: Great.
-[SPEAKER_03]: Call me if you need me.
-[SPEAKER_00]: What did I ask Owen just then?
-[SPEAKER_00]: That he wouldn't tell me anything?
-[SPEAKER_04]: If he knew why the dragons were sleeping.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: Or were not there.
-[SPEAKER_00]: Okay.
-[SPEAKER_00]: Folsom's up.
-[SPEAKER_00]: Okay, I'm gonna go over to Folsom and go to the side of the boat with him like I'm showing him the waters.
-[SPEAKER_00]: How close are you getting with Owen?
-[SPEAKER_00]: Oh, we're real buddy-buddy.
-[SPEAKER_00]: Can you do me another favor?
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: I need you to act disappointed that there's no dragons.
-[SPEAKER_00]: I can do that.
-[SPEAKER_00]: And I want you to find out why there's no dragons.
-[SPEAKER_00]: Oh, I'm on it.
-[SPEAKER_00]: Thanks.
-[SPEAKER_00]: You two are alone.
-[SPEAKER_00]: Come with me.
-[SPEAKER_01]: I assume you're going to talk low, correct?
-[SPEAKER_03]: Yeah, the whole time going up there, I give out, like, audible signs of just...
-[SPEAKER_04]: So, he's sailing, he's sailing, I go up next to him, I think I'm, like, assuming there's, like, a railing next to the...
-[SPEAKER_04]: I just go...
-[SPEAKER_04]: Just make a real humbug, just like, just sound super, just, like, just, something's wrong.
-[SPEAKER_04]: And hopefully that he notices.
-[SPEAKER_01]: Can you just keep staring?
-[SPEAKER_01]: Owen, how close are we to the dragon?
-[SPEAKER_01]: I can't make out anything, it's so dark.
-[SPEAKER_01]: We're closer than any man has been in a hundred years, at least.
-[SPEAKER_01]: No.
-[SPEAKER_01]: No one navigates right between these islands.
-[SPEAKER_04]: So we're making history here.
-[SPEAKER_01]: Yeah, I guess.
-[SPEAKER_04]: But, I mean, for a place called Dragon Isle, there's not much to see.
-[SPEAKER_01]: Especially during night, but... You'd want to see them?
-[SPEAKER_01]: I mean...
-[SPEAKER_01]: They'd tear this boat right apart.
-[SPEAKER_01]: Isn't it mating season?
-[SPEAKER_01]: It is.
-[SPEAKER_01]: We should be here on something.
-[SPEAKER_01]: They're usually roaring at this time, fighting each other.
-[SPEAKER_01]: People stay away.
-[SPEAKER_01]: This is what I told you.
-[SPEAKER_04]: Do you know any reason why?
-[SPEAKER_01]: No.
-[SPEAKER_01]: You can tell that he's lying.
-[SPEAKER_01]: Yeah.
-[SPEAKER_00]: Hmm.
-[SPEAKER_04]: And I forgot to ask, why did you get so close the first time where you didn't realize anything?
-[SPEAKER_04]: Just an easier round or...?
-[out-of-band] [SPEAKER_04]: I roll?
-[out-of-band] [SPEAKER_01]: Yeah.
-[out-of-band] [SPEAKER_01]: What is that?
-[out-of-band] [SPEAKER_01]: 20.
-[out-of-band] [SPEAKER_01]: 20 plus your persuasion at 26.
-[out-of-band] [SPEAKER_01]: Yep.
-[SPEAKER_01]: It says, don't tell anybody Folsom, but I happen to know that Kane Toli, he controls him now.
-[SPEAKER_01]: Really?
-[SPEAKER_01]: That artifact I told you about, the one he got from the
-[SPEAKER_01]: He learned about from the Necromancer?
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: Rumor has it that it's an ancient artifact that was made by some lynch called Aserach.
-[SPEAKER_01]: This is what Exit told Cain Tolley.
-[SPEAKER_01]: I heard this from one of his men named Chai when he was drunk.
-[SPEAKER_01]: Apparently that artifact
-[SPEAKER_01]: Controls turtle dragons.
-[SPEAKER_01]: And the cane is pulling them off for his own purposes.
-[SPEAKER_01]: Interesting.
-[SPEAKER_01]: Is that why he was sailing east?
-[SPEAKER_01]: I don't know why he was sailing east.
-[SPEAKER_01]: I have no idea.
-[SPEAKER_01]: I was hoping to see the man.
-[SPEAKER_01]: But he uses the turtle dragons around his island.
-[SPEAKER_01]: Interesting.
-[SPEAKER_04]: Wow.
-[SPEAKER_04]: Power like that.
-[SPEAKER_01]: Possibilities are endless.
-[SPEAKER_01]: Like maybe pinning down the Monmurgaine fleet and not letting them go out and fight against the Keoggs?
-[SPEAKER_01]: That song here is hitting a little bit closer to home than you know.
-[SPEAKER_01]: Kane totally is doing something.
-[SPEAKER_01]: It seems like you know something about it.
-[SPEAKER_01]: How'd you learn?
-[SPEAKER_01]: By the way.
-[SPEAKER_04]: Oh, just, uh, you know, being with Tyrus and going through the naval days, you know,
-[SPEAKER_04]: Sailing with Merrick and Gouge.
-[SPEAKER_04]: We've met a few people, you know, here and there that have heard rumors and such.
-[SPEAKER_04]: I just have just heard rumors about King Toli that really jogged my interest and made me want to creatively express how I feel.
-[SPEAKER_01]: Okay.
-[SPEAKER_04]: You should meet him.
-[SPEAKER_04]: I would like to.
-[SPEAKER_04]: He seems like a noteworthy person to be to get somewhere around these seas.
-[SPEAKER_04]: Yeah, you could probably write a song about him.
-[SPEAKER_04]: I mean, there's definitely a song written about him, but I don't know if they're as good as mine.
-[SPEAKER_04]: Speaking of which, I forgot to tell you, I've been writing a song about you.
-[SPEAKER_04]: Oh!
-[SPEAKER_04]: And I'd love to perform it in front of everybody.
-[SPEAKER_04]: Well, let's save it for the chart room.
-[SPEAKER_01]: It's a great bar in Red Shore.
-[SPEAKER_01]: You'll love it.
+[SPEAKER_05A]: Yeah, it does ring a bell.
+[SPEAKER_05A]: It seems to be powder in that.
+[SPEAKER_04A]: Yeah, you were telling me about that.
+[SPEAKER_05A]: Yeah.
+[SPEAKER_04A]: Yeah.
+[SPEAKER_05A]: Is that where we're heading towards, his island, or where we're actually going?
+[SPEAKER_00A]: You're going to Red Shore.
+[SPEAKER_05A]: Okay, and his thing is right here.
+[SPEAKER_04A]: And that guy was just hauling ass.
+[SPEAKER_04A]: Out that way.
+[SPEAKER_07A]: Was he moving so quick that it seemed like he was trying to get away from something?
+[SPEAKER_00A]: I mean, you don't see any other ships.
+[SPEAKER_00A]: Either he was trying to get something, chasing something, because you don't see anything chasing him on the open water.
+[SPEAKER_00A]: So if it was something chasing him, it was underwater.
+[SPEAKER_05A]: What time is it?
+[SPEAKER_00A]: It is, well, when you saw it and you swapped, it was dawn, which was around 7 o'clock.
+[SPEAKER_05A]: And I assume Owen's up for the day now.
+[SPEAKER_00A]: No, he just went down.
+[SPEAKER_00A]: He just went to bed.
+[SPEAKER_05A]: Owen just went to bed.
+[SPEAKER_00A]: Yeah, he went from four... Well, actually, he could do another four hours, but he just went to bed.
+[SPEAKER_05A]: Yeah.
+[SPEAKER_05A]: Gouge, I think I'm going to...
+[SPEAKER_05A]: Take the ship towards Kane Tolley's Island.
+[SPEAKER_05A]: Also, I'm telling him, is he up?
+[SPEAKER_00A]: He's standing there.
+[SPEAKER_00A]: Now, the thing is, it's the same direction.
+[SPEAKER_05A]: Yes, but we're going up more this way, is where Owen thinks we're going.
+[SPEAKER_05A]: Yeah.
+[SPEAKER_05A]: Yeah.
+[SPEAKER_05A]: I want to...
+[SPEAKER_05A]: Go directly more towards this.
+[SPEAKER_05A]: If Owen asks them, let's say a brigade or something, we saw a lot of ships moving, so I did my best to move out of the way.
+[SPEAKER_05A]: Storm, but... Is there...
+[SPEAKER_05A]: Right here?
+[SPEAKER_07A]: No, we're up around there.
+[SPEAKER_07A]: Just around, yeah.
+[SPEAKER_07A]: How long do you think it would take from here to get to Redshore?
+[SPEAKER_00A]: It's probably going to be another 24 hours.
+[SPEAKER_04A]: Okay.
+[SPEAKER_04A]: I mean, we're going to take the same path there anyway.
+[SPEAKER_04A]: You would start maybe deviating that far out.
+[SPEAKER_00A]: What you want to do is you want to go around the Dragon Islands, because this is where they usually hang out.
+[SPEAKER_05A]: The dragons.
+[SPEAKER_00A]: Yes.
+[SPEAKER_05A]: But Owen said there hasn't been dragons moving.
+[SPEAKER_00A]: He hasn't seen any of them.
+[SPEAKER_05A]: Are the dragons flying?
+[SPEAKER_04A]: They're not waterborne, right?
+[SPEAKER_00A]: The turtle dragons?
+[SPEAKER_04A]: Oh, they're turtle dragons.
+[SPEAKER_00A]: Yes.
+[SPEAKER_00A]: Oh, they're waterborne.
+[SPEAKER_00A]: Yes.
+[SPEAKER_04A]: Okay, so...
+[SPEAKER_04A]: Will he be faster to go through?
+[SPEAKER_04A]: No, I'm wondering if he's... Can he outrun him?
+[SPEAKER_04A]: I don't know if... Ah, fuck.
+[SPEAKER_04A]: Probably not.
+[SPEAKER_00A]: You cannot outrun a turtle dragon.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: They move... Turtles are slow.
+[SPEAKER_00A]: They can move 12 miles an hour at 12 knots.
+[SPEAKER_00A]: They're four times faster than the fastest ship.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Maybe three and a half.
+[SPEAKER_00A]: Maybe three times faster.
+[SPEAKER_00A]: But yeah, they rule the ocean.
+[SPEAKER_04A]: And they...
+[SPEAKER_04A]: Obviously I know something about them from the years and like that, at least stories and stuff.
+[SPEAKER_00A]: Oh yeah, they attack ships.
+[SPEAKER_00A]: Well, they used to attack the Super Principality ships and then supposedly what Lord Jeon does is he dumps gold over the side every year to the tune of 10,000 gold coins and they leave them alone.
+[SPEAKER_04A]: He made a deal with them.
+[SPEAKER_04A]: Wait, are they actual sea dragon turtles that are intelligence?
+[SPEAKER_00A]: The turtle dragons can talk and they can be bribed.
+[SPEAKER_04A]: I know all about these guys, I assume.
+[SPEAKER_04A]: Oh yeah, probably more than me, if he's a ranger in that seafaring.
+[SPEAKER_04A]: Oh shit, so they're... Yeah, I mean, if we get caught, we got nothing to give them.
+[SPEAKER_04A]: They can want that rum, so...
+[SPEAKER_05A]: But Owen has been through there.
+[SPEAKER_05A]: He's been close enough to know that there hasn't been something going on.
+[SPEAKER_05A]: And what I was worried about was...
+[SPEAKER_04A]: You're totally running from him, and that's pointless because you can't, even with that.
+[SPEAKER_04A]: So, okay.
+[SPEAKER_05A]: I want to go through it, though.
+[SPEAKER_05A]: If Owen said there's not movement in there, I want to see it for myself.
+[SPEAKER_04A]: I don't want to deviate anything from what Owen to create any suspicion.
+[SPEAKER_04A]: If he's comfortable doing it, I don't think he's going to put himself at risk over something like he's not getting paid enough to take a huge risk.
+[SPEAKER_07A]: Before we go, we'll get Owen to stay and see which way he takes us.
+[SPEAKER_07A]: If he's that confident, there's nothing there.
+[SPEAKER_05A]: That does get a good point.
+[SPEAKER_05A]: I'll talk to him and see which way he wants to go to get us there the quickest.
+[SPEAKER_05A]: I do want to know more about the Dragon Isles and talk to him about it a little more to see if he's actually telling the truth.
+[SPEAKER_05A]: He hasn't seen anything there, if he's actually been there, or he's just saying that he got close to it.
+[SPEAKER_07A]: I'll talk to him about it.
+[SPEAKER_05A]: Okay.
+[SPEAKER_05A]: Sounds good.
+[SPEAKER_05A]: Okay.
+[SPEAKER_05A]: I'm just going to keep sailing.
+[SPEAKER_05A]: Do I notice anything in the waters?
+[SPEAKER_00A]: Nothing strange that would be weird for this time of year in these waters around here.
+[SPEAKER_00A]: Okay, so you're going to keep sailing and do an eight-hour shift, right?
+[SPEAKER_05A]: Yeah.
+[SPEAKER_00A]: And do you want to keep heading towards the Dragon Isles as if you're going to go to Red Shore?
+[SPEAKER_05A]: Or do I want to go a little bit more towards the coast?
+[SPEAKER_05A]: I want to go like...
+[SPEAKER_05A]: I'm kind of heading towards this one a little bit.
+[SPEAKER_05A]: Not like here.
+[SPEAKER_00A]: You're not swinging wide.
+[SPEAKER_00A]: You're going to want to go close, right?
+[SPEAKER_05A]: Yes, a little bit closer.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Alright, so the day wears on and basically you sleep.
+[SPEAKER_00A]: Are you going to go bunk again too?
+[SPEAKER_07A]: I'll sleep with Tyrus.
+[SPEAKER_00A]: Alright.
+[SPEAKER_00A]: I'm a little smooth.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: He's spirkin'.
+[SPEAKER_00A]: And you're going to stay watch with Merrick, right?
+[SPEAKER_04A]: I'm going to sleep on the deck.
+[SPEAKER_04A]: Okay.
+[SPEAKER_04A]: All right, kick me if you need me, but I'm outside.
+[SPEAKER_00A]: So the day goes on, the day of the fifth of Whalesun ends, and around eight o'clock, Owen comes back up and says, Well, cousin, you got as far, I can see the dragon isles.
+[SPEAKER_01B]: You're kind of close to them.
+[SPEAKER_01B]: What were you thinking?
+[SPEAKER_05A]: You told me you haven't seen any movement the last time you've been through there and I just wanted to see for myself.
+[SPEAKER_05A]: And you trusted me.
+[SPEAKER_01B]: Good to know.
+[SPEAKER_01B]: No.
+[SPEAKER_01B]: Straight on.
+[SPEAKER_01B]: I think that's exactly the way we should go.
+[SPEAKER_01B]: Definitely.
+[SPEAKER_01B]: Do you want to stay up while we pass by?
+[SPEAKER_05A]: Absolutely.
+[SPEAKER_05A]: I haven't been this way in a long time.
+[SPEAKER_05A]: I'd like to see.
+[SPEAKER_01B]: Certainly.
+[SPEAKER_00A]: So it gets up on deck with you.
+[SPEAKER_00A]: And the two of you watch as
+[SPEAKER_00A]: He basically says, do you want to steer us through?
+[SPEAKER_05A]: I do.
+[SPEAKER_05A]: You still want to go north of them, right?
+[SPEAKER_05A]: Yeah, but there's no harm in taking a little peek, getting a little closer.
+[SPEAKER_05A]: Do you agree?
+[SPEAKER_01B]: I absolutely agree.
+[SPEAKER_05A]: Okay, let's go a little closer.
+[SPEAKER_05A]: Okay.
+[SPEAKER_00A]: You're asleep.
+[SPEAKER_00A]: I'm on the neck there.
+[SPEAKER_05A]: You want to give him a drink?
+[SPEAKER_05A]: Yeah, take a bowl, see if he wants a bowl.
+[SPEAKER_00A]: He drinks a bit.
+[SPEAKER_00A]: All right, so the next four hours go by and you guys do another 12 miles.
+[SPEAKER_00A]: And the Dragon Isles, which you've been this close to before, but most people don't.
+[SPEAKER_00A]: Rise starkly out of the darkness of the sea as the sun goes down.
+[SPEAKER_00A]: Now the moon is probably a quarter full at this time so you can see it, but the rocks are just black.
+[SPEAKER_00A]: And you don't want to get too close because you know that there are reefs and other things that are hard to see during this period of time.
+[SPEAKER_00A]: But it's quiet and as close as you go
+[SPEAKER_00A]: Normally you would hear the roaring of the turtle dragons.
+[SPEAKER_00A]: Okay.
+[SPEAKER_05A]: Owen, do you mind taking a steer for a bit?
+[SPEAKER_05A]: I do admire this as much as I can.
+[SPEAKER_01B]: Certainly, cousin.
+[SPEAKER_01B]: It's my turn.
+[SPEAKER_05A]: Yep.
+[SPEAKER_05A]: I'll get you up there and then I'm going to leave Helm and I'm going to go towards the front of the boat to get him.
+[SPEAKER_05A]: I'm listening.
+[SPEAKER_00A]: Okay.
+[SPEAKER_05A]: I'm perceiving everything that's going on.
+[SPEAKER_05A]: Watching the waters, the tide.
+[SPEAKER_05A]: Is this unusual for this area where I'm like, this time of year something should be happening?
+[SPEAKER_00A]: This is weird.
+[SPEAKER_00A]: This is actually very weird because during this time of year usually you would hear the roaring of the dragons at night and this is actually mating season.
+[SPEAKER_00A]: And some of the larger dragons, turtle dragons, would be in contests with each other.
+[SPEAKER_00A]: The males would be roaring and battling each other for dominance.
+[SPEAKER_05A]: I look at the water.
+[SPEAKER_04A]: I make my way up to Merrick there.
+[SPEAKER_05A]: This is unusual.
+[SPEAKER_05A]: I mean, when Owen said it had been quiet, I didn't think he meant still quiet.
+[SPEAKER_04A]: Do you think they got enough of that shit?
+[SPEAKER_04A]: That it can affect these, the dragons?
+[SPEAKER_05A]: That's what I'm wondering as well.
+[SPEAKER_05A]: I'm going to try to see if as close as we can get to these islands.
+[SPEAKER_05A]: I want to look at this water.
+[SPEAKER_04A]: Yeah.
+[SPEAKER_04A]: Is the water, did you notice anything when we put it in or when we dealt with it with the last ones?
+[SPEAKER_04A]: Is there anything that you can tell?
+[SPEAKER_04A]: Is there any luminescence or shimmering in it?
+[SPEAKER_05A]: That's what I'm looking for.
+[SPEAKER_05A]: I look, is there anything I can see?
+[SPEAKER_00A]: So when you put this stuff in the water, it dissolved.
+[SPEAKER_00A]: And the sea did not look any different.
+[SPEAKER_00A]: When it initially got in, you could see something.
+[SPEAKER_00A]: It was milky, but it quickly dispersed, right?
+[SPEAKER_05A]: And that only keeps a sahagin and things of that away, right?
+[SPEAKER_05A]: It's to deter creatures.
+[SPEAKER_00A]: Well, what Paul kind of said, because Tyrus got the shit all over his body.
+[SPEAKER_00A]: Paul basically said, don't get it wet, wipe it off.
+[SPEAKER_05A]: So the water's a catalyst then?
+[SPEAKER_04A]: It's a catalyst.
+[SPEAKER_04A]: It's like, don't breathe any of it.
+[SPEAKER_05A]: It would affect humans.
+[SPEAKER_00A]: Apparently what Paul said was, if you breathe it in and it's dust-like form, it could do you damage.
+[SPEAKER_04A]: Especially if your lungs are being damp.
+[SPEAKER_05A]: But if it was in the water and a human got into it,
+[SPEAKER_05A]: It wouldn't do anything to their bodies, right?
+[SPEAKER_05A]: Because they don't breathe water, right?
+[SPEAKER_00A]: Okay, I see what you mean.
+[SPEAKER_04A]: So it's something going through gills type of thing.
+[SPEAKER_04A]: Well, and the gills on that were all blistered.
+[SPEAKER_05A]: So it gets in and just... Do I see any bodies?
+[SPEAKER_05A]: Do I see any dead fish in the water?
+[SPEAKER_05A]: Do I see anything floating?
+[SPEAKER_05A]: Do I see anything...
+[SPEAKER_00A]: Nothing like that.
+[SPEAKER_00A]: Nothing.
+[SPEAKER_05A]: Nothing's fucking moving at all.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Well, I mean, there are fish, and actually that indicates to you that that stuff is not in the water, because it would kill the fish.
+[SPEAKER_05A]: Interesting.
+[SPEAKER_00A]: It's just, for whatever reason, the dragons aren't here, and that's very strange during this season.
+[SPEAKER_04A]: So I just grab his shoulder, kind of shove him as I walk back, just to make it look like we're not anything big.
+[SPEAKER_04A]: I just kind of walked back, and I don't know what the fuck he's looking at.
+[SPEAKER_04A]: Nothing out there.
+[SPEAKER_05A]: Alright, I'm gonna go back up to the deck.
+[SPEAKER_05A]: Owen, you said it's been quiet.
+[SPEAKER_05A]: This is eerily quiet.
+[SPEAKER_05A]: Was this as quiet when you came through?
+[SPEAKER_01B]: They've been gone all season.
+[SPEAKER_05A]: All season.
+[SPEAKER_05A]: That's unheard of.
+[SPEAKER_05A]: Do you know anything?
+[SPEAKER_05A]: Like, what's going on?
+[SPEAKER_05A]: Okay.
+[SPEAKER_05A]: Erie.
+[SPEAKER_05A]: I don't want to hit the reef, but I do want to get closer.
+[SPEAKER_05A]: This is strange.
+[SPEAKER_05A]: If they're really not here like you say, there's no better chance to get as close to the island as this.
+[SPEAKER_01B]: What are you thinking about?
+[SPEAKER_01B]: Making a naval base here?
+[SPEAKER_05A]: I just think it would be amazing to tell the stories how close we got to it.
+[SPEAKER_01B]: Take the helm.
+[SPEAKER_05A]: Okay.
+[SPEAKER_00A]: He backs off.
+[SPEAKER_05A]: Take the helm.
+[SPEAKER_00A]: Do you want to sail through him?
+[SPEAKER_05A]: Yep.
+[SPEAKER_05A]: Okay.
+[SPEAKER_00A]: So you turn the boat and you're going to actually go up through that one?
+[SPEAKER_00A]: Okay.
+[SPEAKER_01B]: You trust your cousin taking us this way?
+[SPEAKER_01B]: At the helm, I trust him with anything.
+[SPEAKER_01B]: If anybody can pilot this, it's him.
+[SPEAKER_00A]: Okay, so you whip the boat south around the island and then up through here.
+[SPEAKER_00A]: And in truth, this is something that hasn't been tried by anyone for hundreds of years.
+[SPEAKER_00A]: This is kind of like unspoken
+[SPEAKER_00A]: The dragons basically said, yeah, we'll leave this alone.
+[SPEAKER_00A]: But this is our area.
+[SPEAKER_00A]: These are our hunting grounds.
+[SPEAKER_00A]: So in a way, you're kind of violating the unspoken treaty that you've had with them for 150 years.
+[SPEAKER_00A]: But, in reality, we're making sure they're okay.
+[SPEAKER_00A]: Of course.
+[SPEAKER_00A]: How close do you want to get to the islands?
+[SPEAKER_00A]: Because the gap between the two of them is probably about
+[SPEAKER_05A]: Three miles.
+[SPEAKER_05A]: We'll get closer to this one.
+[SPEAKER_05A]: Okay.
+[SPEAKER_05A]: So I can swing out and get us closer there if we need to.
+[SPEAKER_00A]: All right.
+[SPEAKER_00A]: So you swing this way and you basically see Dragon Island.
+[SPEAKER_00A]: But the problem is, of course, it's nighttime.
+[SPEAKER_04A]: Yeah.
+[SPEAKER_00A]: So you can't really make any
+[SPEAKER_00A]: Big discoveries about the shoreline or anything like that.
+[SPEAKER_00A]: However, no sounds.
+[SPEAKER_00A]: None of the roaring, just basically the wind, the sound of the ocean.
+[SPEAKER_00A]: These islands should be alive right now with the turtle dragons basically roaring at each other.
+[game mechanics] [SPEAKER_05A]: Off topic, but I can't remember.
+[game mechanics] [SPEAKER_05A]: One of us kept a little bit of that powder.
+[game mechanics] [SPEAKER_05A]: From a thing.
+[game mechanics] [SPEAKER_05A]: I don't remember if I had that and gave it to Jameis.
+[game mechanics] [SPEAKER_00A]: You had that and gave it to Jameis.
+[game mechanics] [SPEAKER_05A]: Gave it to Jameis, okay.
+[game mechanics] [SPEAKER_00A]: You asked for a little bit back and he gave you a little bit back.
+[game mechanics] [SPEAKER_05A]: Okay, so I have like a vial.
+[game mechanics] [SPEAKER_00A]: You have like a packet.
+[game mechanics] [SPEAKER_05A]: Cool.
+[game mechanics] [SPEAKER_05A]: Just making sure I had that on me.
+[game mechanics] [SPEAKER_05A]: Okay.
+[SPEAKER_05A]: Oh, and no one's gonna believe us that we're going through here like this.
+[SPEAKER_01B]: Well, we'll get your little friend to make a song about it.
+[SPEAKER_01B]: That's a tale I can tell him.
+[SPEAKER_01B]: You want to wake up Folsom?
+[SPEAKER_04A]: I'll go down and grab them.
+[SPEAKER_01B]: Get them both.
+[SPEAKER_01B]: It's a sight to see.
+[SPEAKER_01B]: Thank you, Gouge.
+[SPEAKER_04A]: I go down, kick his bunk.
+[SPEAKER_04A]: Damn!
+[SPEAKER_04A]: Your bunk smells.
+[SPEAKER_04A]: Get your ass up.
+[SPEAKER_04A]: Hey.
+[SPEAKER_04A]: Time to start writing a new story.
+[SPEAKER_04A]: Get up there.
+[SPEAKER_04A]: Let's go.
+[SPEAKER_07A]: On it.
+[SPEAKER_00A]: All right.
+[SPEAKER_00A]: So anyway, Merrick pilots the ship between the Dragon Isles.
+[SPEAKER_00A]: You don't say anything, huh?
+[SPEAKER_04A]: You've got like two hours or something.
+[SPEAKER_00A]: You're basically like, this is foolish.
+[SPEAKER_00A]: And then go back to bed.
+[SPEAKER_06A]: It's nighttime, Dragon Isles.
+[SPEAKER_06A]: Great.
+[SPEAKER_06A]: Call me if you need me.
+[SPEAKER_05A]: What did I ask Owen just then?
+[SPEAKER_05A]: That he wouldn't tell me anything?
+[SPEAKER_07A]: If he knew why the dragons were sleeping.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Or were not there.
+[SPEAKER_05A]: Okay.
+[SPEAKER_05A]: Folsom's up.
+[SPEAKER_05A]: Okay, I'm gonna go over to Folsom and go to the side of the boat with him like I'm showing him the waters.
+[SPEAKER_05A]: How close are you getting with Owen?
+[SPEAKER_07A]: Oh, we're real buddy-buddy.
+[SPEAKER_05A]: Can you do me another favor?
+[SPEAKER_07A]: Yeah.
+[SPEAKER_05A]: I need you to act disappointed that there's no dragons.
+[SPEAKER_07A]: I can do that.
+[SPEAKER_05A]: And I want you to find out why there's no dragons.
+[SPEAKER_07A]: Oh, I'm on it.
+[SPEAKER_05A]: Thanks.
+[SPEAKER_00A]: You two are alone.
+[SPEAKER_05A]: Come with me.
+[SPEAKER_00A]: I assume you're going to talk low, correct?
+[SPEAKER_07A]: Yeah, the whole time going up there, I give out, like, audible signs of just...
+[SPEAKER_07A]: So, he's sailing, he's sailing, I go up next to him, I think I'm, like, assuming there's, like, a railing next to the...
+[SPEAKER_07A]: I just go...
+[SPEAKER_07A]: Just make a real humbug, just like, just sound super, just, like, just, something's wrong.
+[SPEAKER_07A]: And hopefully that he notices.
+[SPEAKER_01B]: Can you just keep staring?
+[SPEAKER_07A]: Owen, how close are we to the dragon?
+[SPEAKER_07A]: I can't make out anything, it's so dark.
+[SPEAKER_01B]: We're closer than any man has been in a hundred years, at least.
+[SPEAKER_01B]: No.
+[SPEAKER_01B]: No one navigates right between these islands.
+[SPEAKER_07A]: So we're making history here.
+[SPEAKER_01B]: Yeah, I guess.
+[SPEAKER_07A]: But, I mean, for a place called Dragon Isle, there's not much to see.
+[SPEAKER_01B]: Especially during night, but... You'd want to see them?
+[SPEAKER_01B]: I mean...
+[SPEAKER_01B]: They'd tear this boat right apart.
+[SPEAKER_07A]: Isn't it mating season?
+[SPEAKER_01B]: It is.
+[SPEAKER_01B]: We should be here on something.
+[SPEAKER_01B]: They're usually roaring at this time, fighting each other.
+[SPEAKER_01B]: People stay away.
+[SPEAKER_01B]: This is what I told you.
+[SPEAKER_07A]: Do you know any reason why?
+[SPEAKER_01B]: No.
+[SPEAKER_00A]: You can tell that he's lying.
+[SPEAKER_07A]: Yeah.
+[SPEAKER_05A]: Hmm.
+[SPEAKER_07A]: And I forgot to ask, why did you get so close the first time where you didn't realize anything?
+[SPEAKER_07A]: Just an easier round or...?
+[game mechanics] [SPEAKER_07A]: I roll?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: What is that?
+[game mechanics] [SPEAKER_07A]: 20.
+[game mechanics] [SPEAKER_00A]: 20 plus your persuasion at 26.
+[game mechanics] [SPEAKER_07A]: Yep.
+[SPEAKER_01B]: It says, don't tell anybody Folsom, but I happen to know that Kane Toli, he controls him now.
+[SPEAKER_07A]: Really?
+[SPEAKER_01B]: That artifact I told you about, the one he got from the
+[SPEAKER_01B]: He learned about from the Necromancer?
+[SPEAKER_07A]: Yeah.
+[SPEAKER_01B]: Rumor has it that it's an ancient artifact that was made by some lynch called Aserach.
+[SPEAKER_01B]: This is what Exit told Cain Tolley.
+[SPEAKER_01B]: I heard this from one of his men named Chai when he was drunk.
+[SPEAKER_01B]: Apparently that artifact
+[SPEAKER_01B]: Controls turtle dragons.
+[SPEAKER_01B]: And the cane is pulling them off for his own purposes.
+[SPEAKER_07A]: Interesting.
+[SPEAKER_07A]: Is that why he was sailing east?
+[SPEAKER_01B]: I don't know why he was sailing east.
+[SPEAKER_01B]: I have no idea.
+[SPEAKER_01B]: I was hoping to see the man.
+[SPEAKER_01B]: But he uses the turtle dragons around his island.
+[SPEAKER_07A]: Interesting.
+[SPEAKER_07A]: Wow.
+[SPEAKER_07A]: Power like that.
+[SPEAKER_01B]: Possibilities are endless.
+[SPEAKER_07A]: Like maybe pinning down the Monmurgaine fleet and not letting them go out and fight against the Keoggs?
+[SPEAKER_01B]: That song here is hitting a little bit closer to home than you know.
+[SPEAKER_01B]: Kane totally is doing something.
+[SPEAKER_01B]: It seems like you know something about it.
+[SPEAKER_01B]: How'd you learn?
+[SPEAKER_01B]: By the way.
+[SPEAKER_07A]: Oh, just, uh, you know, being with Tyrus and going through the naval days, you know,
+[SPEAKER_07A]: Sailing with Merrick and Gouge.
+[SPEAKER_07A]: We've met a few people, you know, here and there that have heard rumors and such.
+[SPEAKER_07A]: I just have just heard rumors about King Toli that really jogged my interest and made me want to creatively express how I feel.
+[SPEAKER_01B]: Okay.
+[SPEAKER_07A]: You should meet him.
+[SPEAKER_01B]: I would like to.
+[SPEAKER_07A]: He seems like a noteworthy person to be to get somewhere around these seas.
+[SPEAKER_01B]: Yeah, you could probably write a song about him.
+[SPEAKER_07A]: I mean, there's definitely a song written about him, but I don't know if they're as good as mine.
+[SPEAKER_07A]: Speaking of which, I forgot to tell you, I've been writing a song about you.
+[SPEAKER_01B]: Oh!
+[SPEAKER_07A]: And I'd love to perform it in front of everybody.
+[SPEAKER_01B]: Well, let's save it for the chart room.
+[SPEAKER_01B]: It's a great bar in Red Shore.
+[SPEAKER_01B]: You'll love it.

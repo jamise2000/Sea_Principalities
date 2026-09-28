@@ -1,39 +1,38 @@
 # Cast Mapping — Jude in Combat, continued (4th Wealsun)
 
-`Jude_combat_cont_4th_Wealsun.txt` · Book Two. Maps the diarization speaker tags to who is actually talking, for turning the raw session into prose. **A tag is a voice, not a fixed character** — one tag can carry the DM's narration, an NPC's dialogue, and a player's out-of-character asides, and tags can bleed between speakers. Best inference from direct mentions, personality cues, and story context; **ambiguities flagged below for author correction.**
+`Jude_combat_cont_4th_Wealsun.txt` · Book Two. Maps the diarization speaker tags to who is actually talking. **A tag is a voice, not a fixed character.** **Combat continuation** — the bulk (165 of 279) is dice/rules/positioning and is `[out-of-band]`; the in-story beats are sparse.
 
-**Cast (index):** Jude, Albashon (the alchemist, DM-voiced NPC), a Scarlet Brotherhood Yuan-ti raider (snake-headed agent who breaks the door, DM-voiced). The raid continues: Jude walls off the attackers with fire and drags the wounded Albashon toward the stairwell down to the sewers.
-**In the room (2 voices):** Jude's player and the DM (narration, Albashon, the Yuan-ti, and all rulings).
+**Cast (index):** Jude, **Albashon** (the alchemist), a Scarlet Brotherhood **Yuan-ti** raider (**non-speaking** — its actions/screams are DM narration).
+**In the room (2 voices):** the **DM** (narration + Albashon + the Yuan-ti + rulings) and **Jude**'s player.
 
-> **This is a COMBAT transcript (continuation) — the bulk is dice/rules/positioning/spell mechanics.** Tag those `[out-of-band]`. The sparse in-story beats are listed under Out-of-band as the "keep" exceptions.
+## Tag scheme (A = PC/DM, B = NPC)
+| Sub-tag | Character | Count |
+|---------|-----------|-------|
+| **SPEAKER_00A** | **DM** — narration + the wound, the door-break, the Yuan-ti reveal, the descent | 55 |
+| **SPEAKER_01A** | **Jude** (PC) | 56 |
+| **SPEAKER_01B** | **Albashon** (NPC) — 3 lines, all in the escape exchange (117, 122, 124) | 3 |
+| `[out-of-band] [SPEAKER_0N]` | combat mechanics, dice, positioning | 165 |
 
-## Speaker → character mapping
+## The point of the conversation
+The raid continues. Jude keeps **fireballing** the attackers out front, then assesses the down-and-bleeding Albashon (dagger to the eye/face). He grabs and drags him toward the stairwell. The front **door is smashed by "a powerful something — not a human being"**: a **Yuan-ti** (snake-headed Scarlet Brotherhood agent) — which Jude recognizes from his own past with the Brotherhood. Jude throws up a **wall of fire** across the alchemist's lab to seal it off, and in a snatched exchange the wounded Albashon names **the sewer** as the way out. Jude drags him to the stairwell and the two **descend into the darkness**.
 
-| Tag | Primary speaker | Also carries | How we know |
-|-----|-----------------|--------------|-------------|
-| **SPEAKER_00** | The DM — narration + **Albashon** + the **Yuan-ti** raider + rulings (damage, movement, spell rules) | — | Voices the wound description, the door being smashed by "a powerful something… not a human being," the snake-headed reveal, and the descent narration. |
-| **SPEAKER_01** | **Jude** in-character + Jude's player OOC (fireball/wall-of-fire mechanics, grab/drag rules) | Occasional Albashon replies bleed in during the escape dialogue (116–124) | Named "Jude is Jude" (266); casts the fireballs, the wall of fire, and drags the alchemist. |
+## In-story beats (the "keep" lines)
+- **53–59** — Jude/DM assessing Albashon's wound (54–55 = the DM's answer, moved off Jude's tag).
+- **116–125 — the escape exchange** (split): Jude asks how to get out (116, 118–121, 123, 125); **Albashon** answers "What do you mean?" (117), "The sewer." (122), "Down." (124).
+- **169–182** — Jude IDs the Yuan-ti and the Scarlet Brotherhood flashback (that it "does not fuck him up").
+- **191–198** — the wall of fire (192 "that's my fourth level" moved back to Jude).
+- **255–256, 273–279** — Jude urging the bleeding Albashon on; the descent into the sewers.
 
-## Flagged ambiguities (author: please correct)
-- **114–125** (SPEAKER_01): the "How do we get the fuck out of here? … The sewer. Should we go down? Down." exchange is Jude ↔ Albashon but both land under 01 — split the reassurance/questions (Jude) from "the sewer / down" (Albashon).
-- **171** "Yon T-shirt" / **175** "It is jaunty" / **176, 231, 235** "Naga / back on T / yawn-tee" — all garbles for **Yuan-ti**; **237** "Silent Brotherhood" → **Scarlet Brotherhood**. Normalize in prose.
-- **138** "Karmur/Karmurg" — appears here and in the escape file as an ethnonym slur/aside; confirm meaning (likely a Suel-vs-Oeridian jab), not a name.
-- **255–256** ("You're gonna have to be tough… like you were young") — Jude to Albashon in-story; keep.
+## Applied bleed fixes
+- **54, 55** (wound description) → **DM (00A)** (were on Jude's tag).
+- **117, 122, 124** → **Albashon (01B)**.
+- **192** ("that's my fourth level…") and **278** ("bring him with me if I can") → **Jude (01A)** (were on the DM tag).
+
+## Author rulings applied
+- **68** → **out-of-band** (damage roll). **125 "The sewer."** → **Albashon (01B)**. **165 "A guy."** confirmed **Jude (01A)**.
 
 ## Out-of-band table chatter
-**Essentially the entire file is out-of-band mechanics.** No real-world/off-game chatter of note (unlike the first combat file). In the body, everything is `[out-of-band]` **except** these in-story beats to keep for prose:
-- **53–59** — Albashon's wound described (bleeding from the dagger thrust to the eye/face).
-- **68–78** — screams/"chatter" from the attackers outside as the fireballs land.
-- **114–135** — Jude and Albashon decide to flee down the stairwell to the sewer; the door starts breaking.
-- **137–141** — a powerful, inhuman something smashes the door down.
-- **165–172** — the reveal: a snake-headed creature with a ripped body; Jude clocks it as Yuan-ti / Brotherhood.
-- **175–183** — Jude's flashback; "This is Scarlet Brotherhood, totally."
-- **191–198** — Jude conjures a wall of fire across the alchemist's lab and drags Albashon back.
-- **229–256** — the Yuan-ti burns/screams behind the wall; Jude recognizes him; Jude drives the bleeding Albashon on ("we gotta get to the base… you're gonna have to be tough").
-- **264–279** — Jude hauls the blinded alchemist to the stairwell; the two descend into darkness.
-
-**Exact out-of-band ranges** (dice/rules/positioning/spell mechanics): **1–52, 60–67, 79–113, 136, 142–164, 173–174, 184–190, 199–228, 257–263.** (Line **223** "I got it." is untagged.)
+`[out-of-band]`: shield/reaction rules (1–52), fireball/grab/drag mechanics (60–113, 136–164), the Yuan-ti wisdom-check (173–174), wall-of-fire dice (184–228), the closing initiative/dexterity rolls (257–263). ASR: "jaunty/Yon-T/yawn-tee" = **Yuan-ti**; "niche/ish" = **initiative**.
 
 ## Speaker discontinuities
-- **223** ("I got it.") has no speaker tag — a dice aside.
-- 00↔01 bleed during the escape dialogue (114–124) as flagged.
+- None of the reading-the-wrong-part type; a combat log with sparse in-story beats.

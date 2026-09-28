@@ -1,28 +1,36 @@
 # Cast Mapping — Gouge Waits in the Dark (6th Wealsun)
 
-`Gouge_waits_in_the_dark_6th_Wealsun.txt` · Book Two. Maps the diarization speaker tags to who is actually talking, for turning the raw session into prose. **A tag is a voice, not a fixed character** — one tag can carry the DM's narration, an NPC's dialogue, and a player's out-of-character asides, and tags can bleed between speakers. Best inference from direct mentions, personality cues, and story context; **ambiguities flagged below for author correction.**
+`Gouge_waits_in_the_dark_6th_Wealsun.txt` · Book Two. Maps the diarization speaker tags to who is actually talking, for turning the raw session into prose. **Character-locked tags:** the **A-series** is reserved for player characters and DM narration; **NPCs use the B-series**. Best inference from direct mentions, personality cues (`characters/`), and story context; **ambiguities flagged below for author correction.**
 
-**Cast (index):** Gouge, Folsom.
-**In the room (3 voices):** two players — Gouge and Folsom — plus the DM (narration + mechanics). Folsom, having escaped Owen's boat, rejoins Gouge, who is lying in wait outside the bar; the two then head back toward the party.
+**Cast (index):** Gouge, Folsom (PCs), the DM. No NPCs present — Owen and Torus are only referenced.
+**In the room (3 voices):** Gouge and Folsom plus the DM. Folsom, having escaped Owen's boat, finds Gouge lying in wait outside the bar; the two head back toward the party.
 
-## Speaker → character mapping
+## Speaker → character mapping (final, character-locked; crew registry)
+DM `00A`, Gouge `04A`, Folsom `07A`.
 
-| Tag | Primary speaker | Also carries | How we know |
-|-----|-----------------|--------------|-------------|
-| **SPEAKER_01** | **The DM** — narration + mechanics | Bleed of Gouge's player (16 "I'm going to whistle at them"; 79 "I say, wait") | Opens the scene ("Gouge, you go back to the bar… roll your stealth" 1–4), narrates Folsom's frantic approach (9–14), and answers questions about Owen's reputation ("You have no idea… he has allies. Contacts." 81–85). |
-| **SPEAKER_02** | **Gouge** (knife-man / rogue) | The stealth-roll aside (5–7) | Rolls stealth to lurk in the alley (5–7); "I can't speak back through messaging" (36); the after-action "good fight, got beat down a bit, but came out on top… everyone's alive" (40–43); cautious "I'd rather not stir up any ruckus… get back to the other guys" (88–91). |
-| **SPEAKER_00** | **Folsom** (bard) | Bleed of DM lines (28 "You're pretty relieved"; 30 "Actually, what do you do?") | Casts Message to reach Gouge (31–38) and recounts his escape in first person — "Long story short, I blinded him… stabbed his Toli friend and ran off their ship" (56–58), the full retelling at 100–117. |
+| Tag | Character | Role | Lines |
+|-----|-----------|------|-------|
+| **SPEAKER_00A** | The DM | Narration + adjudication | 35 |
+| **SPEAKER_04A** | Gouge | PC — waiting in the alley; wary, wants to regroup | 30 |
+| **SPEAKER_07A** | Folsom | PC — casts *Message*, recounts the escape | 62 |
 
-## Flagged ambiguities (author: please correct)
-- **DM/player bleed on both PC tags.** Folsom's tag (00) swallows DM framing lines ("You're pretty relieved" 28; "Actually, what do you do?" 30). Gouge's decision "I'm going to whistle at them" (16) and "I say, wait" (79) sit under the DM tag (01). Attribute by content.
-- **The Message-spell exchange (31–64) is mind-to-mind and one-sided in the transcript.** Folsom drives it (all under 00); Gouge's replies mostly appear under 00 as well ("A good fight…," "What now? We takin' the ship…" are actually Gouge/02 at 40–43, 66–67). Watch the 44–64 stretch: it's Folsom narrating both halves of the telepathic conversation, so several "Gouge" beats are Folsom paraphrasing.
-- **Line 5 "Okay, cool Terry."** "Terry" reads as a real player name at the table (Gouge's player), i.e. table talk, not a character — do not introduce a character named Terry.
-- **Garbled proper nouns:** "King Toli / Caintoli" → **Cain Toli** (63, 105); "a Toli, a Toli friend" → **Torus** (57); "Rumwood" → the black rum from Port Toli (112); "the phone's under protection" (123) is a mis-transcription of "he's/Folsom's under protection."
+Raw layout: **raw01** = DM, **raw02** = Gouge, **raw00** = Folsom — with heavy DM/player bleed on both PC tags.
 
-## Out-of-band table chatter
-Recommended `[out-of-band]` lines/ranges: **4, 5–7, 19–23, 36–38.** (4 "roll your stealth"; 5–7 the stealth roll and the "Terry" table aside "You want high. One plus ten is eleven"; 19–23 the perception check "World perception? Seventeen. Plus three. You know"; 36–38 the rules clarification about the Message cantrip "I can't speak back through messaging / Yes, you can / It's just our minds talking." Folsom's in-character retelling of the escape is left intact.)
+## Point of the conversation
+Gouge lurks in the alley beside the bar. **Folsom** rushes up from the market, recognizes Gouge, and casts **Message** to reach him across the crowd. Over the telepathic link Folsom recounts the escape: **Owen betrayed them**, luring him onto a ship to hand him to **Cain Toli** as a prisoner/entertainer; Folsom blinded Owen with the rum shot, stabbed Owen's Toli man (**Torus**), and fled. Gouge reports the bar fight is won and everyone's alive back at the ship. Wary that Owen may have sent more men (and unhappy two thugs were let go), Gouge refuses to stir up trouble; too hurt to go after Owen without the others, they head back to the party to regroup and plan.
+
+## Hardest calls / flagged ambiguities (author: please correct)
+- **The *Message* exchange (≈31–64) is one-sided in the transcript** — Folsom's player voices most of it on his tag, including Gouge's messaged questions. I attributed Gouge's clear questions ("Where's Owen?" 46, "How did you get out of there?" 55, "You unharmed?" 59) to **Gouge `04A`** and the rest to Folsom; please scan, since some "Gouge" beats may be Folsom paraphrasing.
+- **DM/player bleed:** Gouge's "I'm going to whistle at them" (16) and "I say, wait" (79) sat on the DM tag → `04A`; the DM's "You're pretty relieved" (28) and "Actually, what do you do?" (30) sat on Folsom's tag → `00A`.
+- **Line 99 "I tell him my epic heroicism"** is Folsom (on Gouge's tag) introducing his retelling → `07A`.
+
+## Game mechanics (11 lines) & out-of-band (1 line)
+- `[game mechanics]`: **4, 6–7** (Gouge's stealth roll), **19–23** (Folsom's perception to ID Gouge), **36–38** (the *Message*-cantrip rules clarification — "I can't speak back through messaging / Yes, you can / it's just our minds talking").
+- `[out-of-band]`: **5** ("Okay, cool Terry" — "Terry" is a real player name at the table, not a character).
+
+## Names to normalize in prose
+"King Toli / Caintoli" (63, 105) → **Cain Toli**; "a Toli, a Toli friend" (57) → **Torus**; "Rumwood" (112) → the **black rum** (Toli/Port-Toli rum); "the phone's under protection" (123) → "**he's / Folsom's under protection**" (ASR garble).
 
 ## Speaker discontinuities
-- 28–30: DM framing under Folsom's tag.
-- 44–64: Folsom voices both ends of the telepathic exchange; some "Gouge" lines are Folsom relaying.
-- 79: Gouge's "I say, wait" under the DM tag.
+- DM/player bleed on both PC tags throughout.
+- 44–64: Folsom voices both ends of the telepathic exchange; Gouge's messaged questions were lifted to `04A`.

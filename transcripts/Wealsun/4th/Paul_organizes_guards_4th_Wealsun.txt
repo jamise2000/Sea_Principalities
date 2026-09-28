@@ -1,142 +1,142 @@
-[SPEAKER_00]: Around 9 p.m. on the 4th of Well Sun, Paul Rivera walks up to the head guard of the North Gate and talks to him.
-[SPEAKER_00]: Rodiger.
-[SPEAKER_00]: He turned around.
-[SPEAKER_00]: Oh, sir!
-[SPEAKER_00]: I was wondering where you are.
-[SPEAKER_00]: Good thing we caught this.
-[SPEAKER_00]: There were some buildings around here.
-[SPEAKER_01]: Yes, um, don't try and stop the fire.
-[SPEAKER_01]: Just contain it right now.
-[SPEAKER_00]: We should not go into the building and pour it?
-[SPEAKER_01]: No, there are chemicals in there and I don't know how they would react with water.
-[SPEAKER_01]: Not so much when we have bigger problems on our hands.
-[SPEAKER_01]: All right, sir.
-[SPEAKER_01]: We have Scarlet or Brotherhood of the Scarlet whatever and they have set ablaze to this building and they are literally about two doors down.
-[SPEAKER_01]: I need all your 20 men, or however many you have, to come here and we're gonna strike force.
-[SPEAKER_00]: Shall we contain the flames?
-[SPEAKER_00]: Contain the flames right now, as quick as you possibly can.
-[SPEAKER_01]: Shall I get more men?
-[SPEAKER_01]: Send one man to get more.
-[SPEAKER_01]: Let them know.
-[SPEAKER_01]: But right now, as soon as we're done containing the flames, we need to go into that building.
-[SPEAKER_01]: Yes.
-[SPEAKER_01]: He calls over a runner.
-[SPEAKER_01]: Right.
-[SPEAKER_00]: He goes, um, go to the Harbor Gate and ask for a squad of Marines.
-[SPEAKER_01]: They go off.
-[SPEAKER_01]: Perfect.
-[SPEAKER_00]: Run down the road.
-[SPEAKER_00]: You sit there, feeling the heat of the flames, smelling the air,
-[SPEAKER_00]: It's hot.
-[SPEAKER_00]: But you stand back, and you watch the men douse out most of the flames on the buildings next to the Elquimist place.
-[SPEAKER_00]: And after a while, it seems that the fire sort of burns itself out.
-[SPEAKER_00]: There were things in there that...
-[SPEAKER_00]: Could have made it worse.
-[SPEAKER_00]: However, it doesn't seem like the old man was carrying too many dangerous items.
-[SPEAKER_00]: And he wasn't lazy.
-[SPEAKER_00]: He wasn't lazy.
-[SPEAKER_00]: Probably compartmentalized.
-[SPEAKER_00]: It wasn't like he had a giant bowl of sulfur poured out on some table.
+[SPEAKER_00A]: Around 9 p.m. on the 4th of Well Sun, Paul Rivera walks up to the head guard of the North Gate and talks to him.
+[SPEAKER_02A]: Rodiger.
+[SPEAKER_00A]: He turned around.
+[SPEAKER_01B]: Oh, sir!
+[SPEAKER_01B]: I was wondering where you are.
+[SPEAKER_01B]: Good thing we caught this.
+[SPEAKER_01B]: There were some buildings around here.
+[SPEAKER_02A]: Yes, um, don't try and stop the fire.
+[SPEAKER_02A]: Just contain it right now.
+[SPEAKER_01B]: We should not go into the building and pour it?
+[SPEAKER_02A]: No, there are chemicals in there and I don't know how they would react with water.
+[SPEAKER_02A]: Not so much when we have bigger problems on our hands.
+[SPEAKER_01B]: All right, sir.
+[SPEAKER_02A]: We have Scarlet or Brotherhood of the Scarlet whatever and they have set ablaze to this building and they are literally about two doors down.
+[SPEAKER_02A]: I need all your 20 men, or however many you have, to come here and we're gonna strike force.
+[SPEAKER_01B]: Shall we contain the flames?
+[SPEAKER_02A]: Contain the flames right now, as quick as you possibly can.
+[SPEAKER_01B]: Shall I get more men?
+[SPEAKER_02A]: Send one man to get more.
+[SPEAKER_02A]: Let them know.
+[SPEAKER_02A]: But right now, as soon as we're done containing the flames, we need to go into that building.
+[SPEAKER_02A]: Yes.
+[SPEAKER_00A]: He calls over a runner.
+[SPEAKER_02A]: Right.
+[SPEAKER_01B]: He goes, um, go to the Harbor Gate and ask for a squad of Marines.
+[SPEAKER_00A]: They go off.
+[SPEAKER_02A]: Perfect.
+[SPEAKER_00A]: Run down the road.
+[SPEAKER_00A]: You sit there, feeling the heat of the flames, smelling the air,
+[SPEAKER_00A]: It's hot.
+[SPEAKER_00A]: But you stand back, and you watch the men douse out most of the flames on the buildings next to the Elquimist place.
+[SPEAKER_00A]: And after a while, it seems that the fire sort of burns itself out.
+[SPEAKER_00A]: There were things in there that...
+[SPEAKER_00A]: Could have made it worse.
+[SPEAKER_00A]: However, it doesn't seem like the old man was carrying too many dangerous items.
+[SPEAKER_02A]: And he wasn't lazy.
+[SPEAKER_00A]: He wasn't lazy.
+[SPEAKER_00A]: Probably compartmentalized.
+[SPEAKER_00A]: It wasn't like he had a giant bowl of sulfur poured out on some table.
 [out-of-band] [SPEAKER_00]: Mine ended up for snorting.
-[SPEAKER_00]: Exactly.
-[SPEAKER_00]: So it's lucky.
-[SPEAKER_00]: And the fact that the secondary flames on the buildings of the Warren are easily put out, basically crisis averted.
-[SPEAKER_01]: Right.
-[SPEAKER_00]: So you sit there and watch as the guys do that.
-[SPEAKER_00]: Ten minutes go by and a group of Marines show up with the
-[SPEAKER_00]: And he comes up to Rodiger and goes, Sergeant Holt, sir, from the Harbor District.
-[SPEAKER_00]: I've been told we have renegades here.
-[SPEAKER_01]: Yes, sir, we do.
-[SPEAKER_00]: Who are you?
-[SPEAKER_00]: Oh, Lord Rivera.
-[SPEAKER_00]: Thank you.
-[SPEAKER_00]: I did not know you were here.
-[SPEAKER_00]: How can I help, sir?
-[SPEAKER_01]: Well, we have some
-[SPEAKER_01]: Whatever you want to call them.
-[SPEAKER_01]: Scarlet Brotherhoods or whatever.
-[SPEAKER_01]: They are in that building and I point to it.
-[SPEAKER_01]: And we need a strike force to go in there and neutralize.
-[SPEAKER_00]: Paul points to a stone building 200 feet into the maze.
-[SPEAKER_00]: Right?
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: The men look at each other and you can tell there's fear in their eye.
-[SPEAKER_00]: They don't know if they want to go in to the warren.
-[SPEAKER_00]: Why is that?
-[SPEAKER_00]: Why are you afraid?
-[SPEAKER_00]: Do you say that?
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: I'm not afraid, sir.
-[SPEAKER_00]: And you can tell that you poked his honor, but you know these guys are scared of going in there.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: Marines, you guys will go ahead and lead the way.
-[SPEAKER_01]: Rodiger, your troops will fall in behind.
-[SPEAKER_01]: I want the building surrounded.
-[SPEAKER_01]: Go in through doorways, windows, whatever you can.
-[SPEAKER_00]: Aye, sir.
-[SPEAKER_01]: So, the Marine Captain says, come on men, but you can tell there's- And I want five men to come up onto the ruse with me.
-[SPEAKER_00]: So, they kind of look at each other, and you guys begin marching.
-[SPEAKER_00]: This is perfect.
-[SPEAKER_00]: I love- I love having this power.
-[SPEAKER_01]: Paul Rivero thinks to himself- Troops out the wave of my hand.
-[SPEAKER_00]: Go in there.
-[SPEAKER_00]: So you march into the war, right?
-[SPEAKER_00]: And the sergeant is ahead.
-[SPEAKER_00]: How close do you want to be to him?
-[SPEAKER_00]: Like right behind him?
-[SPEAKER_01]: Five to ten feet distance.
-[SPEAKER_00]: I mean, do you want to be like, man, so the thing is, you can be five feet behind him, but what I'm trying to ask is, do you want to be second in the line?
-[SPEAKER_00]: Do you want to be...
-[SPEAKER_00]: I want to be off to the side.
-[SPEAKER_00]: I don't want to go in first.
-[SPEAKER_00]: Oh, the Warren, I know, but the thing is, is the Warrens, the passages are like that.
-[SPEAKER_00]: Okay.
-[SPEAKER_00]: So, he basically draws his sword, and I'm asking, do you want to be behind him or guide him to where you want to go?
-[SPEAKER_00]: Yes, yes.
-[SPEAKER_00]: Okay, so you start going in.
-[SPEAKER_00]: And you kind of realize why it's scary.
-[SPEAKER_00]: When you were on the tops of the buildings, you could see what was below.
-[SPEAKER_00]: But as you walk through the Warrens in the way that they are, you definitely feel like you're enclosed and they're blinded.
-[SPEAKER_00]: So you walk forward and you know you have to make it 100 feet to the building.
-[out-of-band] [SPEAKER_00]: Do an int check because you're basically going by memory, remembering how the brotherhood people did it.
-[out-of-band] [SPEAKER_01]: Okay?
-[out-of-band] [SPEAKER_01]: Uh, that's gonna be 16.
-[out-of-band] [SPEAKER_01]: 16?
-[out-of-band] [SPEAKER_00]: Okay.
-[SPEAKER_00]: So, basically as you go, you tell the sergeant which way to turn.
-[SPEAKER_01]: Yeah.
-[SPEAKER_00]: And more than once, uh, you see him look at you, and you know that he has cause for alarm.
-[SPEAKER_00]: I mean, you're not making a straight shot to the building.
-[SPEAKER_00]: You're doing weird sort of curvature things.
-[SPEAKER_00]: As you watched your enemy do it.
-[SPEAKER_00]: But your men file up, and probably within about two minutes, three minutes, you've made your way to the stone building, which has kind of a...
-[SPEAKER_00]: There are buildings up next to it, but it's got some space around it.
-[SPEAKER_00]: However, as you went, there were side channels and side passages, and more than once you caught a glimpse of a face looking at you.
-[SPEAKER_00]: In the darkness.
-[SPEAKER_00]: You wouldn't want to be here by yourself.
-[SPEAKER_00]: It's definitely good to have 30 armed sergeants coming with you.
-[SPEAKER_00]: Anyway, you guys get to the opening of the building and you guys are sitting there in scale.
-[SPEAKER_00]: These guys are all in scale mail instead of the leather.
-[SPEAKER_00]: The door in front of you that they went in.
-[SPEAKER_00]: The sergeant says, what now, sir?
-[SPEAKER_00]: The men kind of file around.
-[SPEAKER_00]: You go, shh.
-[SPEAKER_01]: Is there other doors that we can go enter through?
-[SPEAKER_01]: Not that you know or see.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: Open the door and go in.
-[SPEAKER_01]: There is a door, it's just a gaping hole.
-[SPEAKER_01]: But be quiet about it.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: Don't go, open up!
-[SPEAKER_01]: Oh, and I want to pull out my shadow mask and say, we're looking for people that are wearing these.
-[SPEAKER_01]: Okay, don't you hold the mask out to them and say, look for these?
+[SPEAKER_00A]: Exactly.
+[SPEAKER_00A]: So it's lucky.
+[SPEAKER_00A]: And the fact that the secondary flames on the buildings of the Warren are easily put out, basically crisis averted.
+[SPEAKER_02A]: Right.
+[SPEAKER_00A]: So you sit there and watch as the guys do that.
+[SPEAKER_00A]: Ten minutes go by and a group of Marines show up with the
+[SPEAKER_02B]: And he comes up to Rodiger and goes, Sergeant Holt, sir, from the Harbor District.
+[SPEAKER_02B]: I've been told we have renegades here.
+[SPEAKER_02A]: Yes, sir, we do.
+[SPEAKER_02B]: Who are you?
+[SPEAKER_02B]: Oh, Lord Rivera.
+[SPEAKER_02B]: Thank you.
+[SPEAKER_02B]: I did not know you were here.
+[SPEAKER_02B]: How can I help, sir?
+[SPEAKER_02A]: Well, we have some
+[SPEAKER_02A]: Whatever you want to call them.
+[SPEAKER_02A]: Scarlet Brotherhoods or whatever.
+[SPEAKER_02A]: They are in that building and I point to it.
+[SPEAKER_02A]: And we need a strike force to go in there and neutralize.
+[SPEAKER_00A]: Paul points to a stone building 200 feet into the maze.
+[SPEAKER_00A]: Right?
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: The men look at each other and you can tell there's fear in their eye.
+[SPEAKER_00A]: They don't know if they want to go in to the warren.
+[SPEAKER_00A]: Why is that?
+[SPEAKER_02A]: Why are you afraid?
+[SPEAKER_00A]: Do you say that?
+[SPEAKER_00A]: Yeah.
+[SPEAKER_02B]: I'm not afraid, sir.
+[SPEAKER_00A]: And you can tell that you poked his honor, but you know these guys are scared of going in there.
+[SPEAKER_02A]: Okay.
+[SPEAKER_02A]: Marines, you guys will go ahead and lead the way.
+[SPEAKER_02A]: Rodiger, your troops will fall in behind.
+[SPEAKER_02A]: I want the building surrounded.
+[SPEAKER_02A]: Go in through doorways, windows, whatever you can.
+[SPEAKER_02B]: Aye, sir.
+[SPEAKER_02A]: So, the Marine Captain says, come on men, but you can tell there's- And I want five men to come up onto the ruse with me.
+[SPEAKER_00A]: So, they kind of look at each other, and you guys begin marching.
+[SPEAKER_02A]: This is perfect.
+[SPEAKER_02A]: I love- I love having this power.
+[SPEAKER_02A]: Paul Rivero thinks to himself- Troops out the wave of my hand.
+[SPEAKER_02A]: Go in there.
+[SPEAKER_00A]: So you march into the war, right?
+[SPEAKER_00A]: And the sergeant is ahead.
+[SPEAKER_00A]: How close do you want to be to him?
+[SPEAKER_00A]: Like right behind him?
+[SPEAKER_02A]: Five to ten feet distance.
+[SPEAKER_00A]: I mean, do you want to be like, man, so the thing is, you can be five feet behind him, but what I'm trying to ask is, do you want to be second in the line?
+[SPEAKER_00A]: Do you want to be...
+[SPEAKER_02A]: I want to be off to the side.
+[SPEAKER_02A]: I don't want to go in first.
+[SPEAKER_00A]: Oh, the Warren, I know, but the thing is, is the Warrens, the passages are like that.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: So, he basically draws his sword, and I'm asking, do you want to be behind him or guide him to where you want to go?
+[SPEAKER_02A]: Yes, yes.
+[SPEAKER_00A]: Okay, so you start going in.
+[SPEAKER_00A]: And you kind of realize why it's scary.
+[SPEAKER_00A]: When you were on the tops of the buildings, you could see what was below.
+[SPEAKER_00A]: But as you walk through the Warrens in the way that they are, you definitely feel like you're enclosed and they're blinded.
+[SPEAKER_00A]: So you walk forward and you know you have to make it 100 feet to the building.
+[game mechanics] [SPEAKER_00A]: Do an int check because you're basically going by memory, remembering how the brotherhood people did it.
+[game mechanics] [SPEAKER_02A]: Okay?
+[game mechanics] [SPEAKER_02A]: Uh, that's gonna be 16.
+[game mechanics] [SPEAKER_02A]: 16?
+[game mechanics] [SPEAKER_00A]: Okay.
+[SPEAKER_00A]: So, basically as you go, you tell the sergeant which way to turn.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_00A]: And more than once, uh, you see him look at you, and you know that he has cause for alarm.
+[SPEAKER_00A]: I mean, you're not making a straight shot to the building.
+[SPEAKER_00A]: You're doing weird sort of curvature things.
+[SPEAKER_00A]: As you watched your enemy do it.
+[SPEAKER_00A]: But your men file up, and probably within about two minutes, three minutes, you've made your way to the stone building, which has kind of a...
+[SPEAKER_00A]: There are buildings up next to it, but it's got some space around it.
+[SPEAKER_00A]: However, as you went, there were side channels and side passages, and more than once you caught a glimpse of a face looking at you.
+[SPEAKER_00A]: In the darkness.
+[SPEAKER_00A]: You wouldn't want to be here by yourself.
+[SPEAKER_00A]: It's definitely good to have 30 armed sergeants coming with you.
+[SPEAKER_00A]: Anyway, you guys get to the opening of the building and you guys are sitting there in scale.
+[SPEAKER_00A]: These guys are all in scale mail instead of the leather.
+[SPEAKER_00A]: The door in front of you that they went in.
+[SPEAKER_02B]: The sergeant says, what now, sir?
+[SPEAKER_00A]: The men kind of file around.
+[SPEAKER_00A]: You go, shh.
+[SPEAKER_02A]: Is there other doors that we can go enter through?
+[SPEAKER_00A]: Not that you know or see.
+[SPEAKER_02A]: Okay.
+[SPEAKER_02A]: Open the door and go in.
+[SPEAKER_00A]: There is a door, it's just a gaping hole.
+[SPEAKER_02A]: But be quiet about it.
+[SPEAKER_02A]: Okay.
+[SPEAKER_02A]: Don't go, open up!
+[SPEAKER_02A]: Oh, and I want to pull out my shadow mask and say, we're looking for people that are wearing these.
+[SPEAKER_00A]: Okay, don't you hold the mask out to them and say, look for these?
 Yeah.
-[SPEAKER_01]: Okay, so.
-[SPEAKER_01]: They're armed and they are dangerous.
-[out-of-band] [SPEAKER_00]: Okay, so you guys are gonna start walking into the building and this is your sergeant and I'll do an X for them, I'll do zeros for everybody else, you'll be a triangle.
-[out-of-band] [SPEAKER_00]: You tell me where you want to go, right?
-[out-of-band] [SPEAKER_00]: Now, these dashes I have here,
-[out-of-band] [SPEAKER_00]: They are basically walls that are collapsed, right?
-[out-of-band] [SPEAKER_00]: There are structures that come up that hold up the ceiling, but these walls, just think of them as maybe some bricks on the ground, maybe with a structure here, but there are, you can see right into these other areas, okay?
-[out-of-band] [SPEAKER_00]: All right.
+[SPEAKER_02A]: Okay, so.
+[SPEAKER_02A]: They're armed and they are dangerous.
+[game mechanics] [SPEAKER_00A]: Okay, so you guys are gonna start walking into the building and this is your sergeant and I'll do an X for them, I'll do zeros for everybody else, you'll be a triangle.
+[game mechanics] [SPEAKER_00A]: You tell me where you want to go, right?
+[game mechanics] [SPEAKER_00A]: Now, these dashes I have here,
+[game mechanics] [SPEAKER_00A]: They are basically walls that are collapsed, right?
+[game mechanics] [SPEAKER_00A]: There are structures that come up that hold up the ceiling, but these walls, just think of them as maybe some bricks on the ground, maybe with a structure here, but there are, you can see right into these other areas, okay?
+[game mechanics] [SPEAKER_00A]: All right.

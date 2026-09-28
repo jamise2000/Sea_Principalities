@@ -1,373 +1,378 @@
-[SPEAKER_01]: So, you and Owen walking down the docks into the marketplace.
-[SPEAKER_01]: Owen basically is talking to one merchant after another.
-[SPEAKER_01]: Basically passing by, asking for wares.
-[SPEAKER_01]: Normal stuff.
-[SPEAKER_01]: Basically the two of you spend 20 minutes just kind of walking down the wharf.
-[SPEAKER_01]: He's pointing to things, showing where things are.
-[SPEAKER_01]: Just kind of chatting with you about certain stuff.
-[SPEAKER_01]: He is making deals as you go and saying, oh yeah, we'll pick that up later.
-[SPEAKER_01]: We'll pick that up later.
-[SPEAKER_01]: You walk up to a new wharf, kind of a little dock, and he says, hey, look at that boat.
-[SPEAKER_01]: Do you like that boat?
-[SPEAKER_01]: It's like another sloop, very much like the one that you're on.
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: What do you think of her?
-[SPEAKER_01]: She's nice.
-[SPEAKER_01]: Isn't she?
-[SPEAKER_01]: This is the one I had for Tyrus.
-[SPEAKER_01]: This is Tyrus' new boat.
-[SPEAKER_01]: Really?
-[SPEAKER_00]: Yeah.
+[SPEAKER_00A]: So, you and Owen walking down the docks into the marketplace.
+[SPEAKER_00A]: Owen basically is talking to one merchant after another.
+[SPEAKER_00A]: Basically passing by, asking for wares.
+[SPEAKER_00A]: Normal stuff.
+[SPEAKER_00A]: Basically the two of you spend 20 minutes just kind of walking down the wharf.
+[SPEAKER_00A]: He's pointing to things, showing where things are.
+[SPEAKER_00A]: Just kind of chatting with you about certain stuff.
+[SPEAKER_00A]: He is making deals as you go and saying, oh yeah, we'll pick that up later.
+[SPEAKER_00A]: We'll pick that up later.
+[SPEAKER_00A]: You walk up to a new wharf, kind of a little dock, and he says, hey, look at that boat.
+[SPEAKER_01B]: Do you like that boat?
+[SPEAKER_00A]: It's like another sloop, very much like the one that you're on.
+[SPEAKER_07A]: Yeah.
+[SPEAKER_01B]: What do you think of her?
+[SPEAKER_07A]: She's nice.
+[SPEAKER_01B]: Isn't she?
+[SPEAKER_01B]: This is the one I had for Tyrus.
+[SPEAKER_01B]: This is Tyrus' new boat.
+[SPEAKER_07A]: Really?
+[SPEAKER_01B]: Yeah.
 [out-of-band] [SPEAKER_00]: Was it pre-established that you bought Tyrus a new boat?
-[SPEAKER_01]: Well, I mean, he's going to have to work for me for it.
-[SPEAKER_01]: I mean, I needed two crews to be able to bring it in.
-[SPEAKER_01]: That's the deal, right?
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: Wow.
-[SPEAKER_01]: You want to go check her out?
-[SPEAKER_00]: I mean, shouldn't we wait for Tyrus?
-[SPEAKER_00]: I mean, shouldn't we wait for the crew?
-[SPEAKER_01]: Well, yeah, we can wait for the crew, but I mean, it's right here, right here.
-[SPEAKER_01]: We've got to think about getting the hold in.
-[SPEAKER_01]: Come on, let's go check her out.
-[SPEAKER_01]: All right.
-[SPEAKER_01]: All right, so you guys go and jump on board.
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: He starts walking towards the cabin.
-[SPEAKER_01]: He says things like, I have a friend of mine watching it.
-[SPEAKER_01]: Let's go in and see them.
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: He walks to the door and knocks and goes,
-[SPEAKER_01]: Torus, are you there?
-[SPEAKER_01]: Then you hear a voice come out of the back.
-[SPEAKER_01]: Owen, is that you?
-[SPEAKER_01]: Have you returned?
-[SPEAKER_01]: Owen goes, yes.
-[SPEAKER_01]: I want you to meet a friend of mine.
-[SPEAKER_01]: He opens the door into the cabin and starts walking back there.
-[SPEAKER_01]: It's kind of dark.
-[SPEAKER_01]: You see a form in the back and you guys kind of walk back into the area and goes, I've got a bottle.
-[SPEAKER_01]: Owen Black lifts up one of those black things of rum from Portoli.
-[SPEAKER_01]: Your favorite.
-[SPEAKER_01]: This is my friend Folsom.
-[SPEAKER_01]: He walks in.
-[SPEAKER_01]: He goes, it's pretty dark in here, Torus.
-[SPEAKER_01]: Why don't you light the lantern?
-[SPEAKER_01]: Do you come into the cabin?
-[SPEAKER_01]: Yeah.
-[out-of-band] [SPEAKER_01]: Roll a perception check, insight check.
-[out-of-band] [SPEAKER_01]: Eight plus.
-[out-of-band] [SPEAKER_01]: Three.
-[out-of-band] [SPEAKER_01]: Eleven.
-[out-of-band] [SPEAKER_01]: Okay.
-[SPEAKER_01]: You walk in, in the darkness, the form you can't quite make out.
-[SPEAKER_01]: And Owen goes, here, take a seat.
-[SPEAKER_01]: I'll let a lantern.
-[SPEAKER_01]: He shuts the door.
-[SPEAKER_01]: You hear the striking of a match and the lantern gets lit, right?
-[SPEAKER_01]: And the form across the table reaches out and grabs the bottle as Owen turns the thing around.
-[SPEAKER_01]: And you realize this dude is a soul.
-[SPEAKER_01]: He sits down.
-[SPEAKER_01]: Owen sits next to you.
-[SPEAKER_01]: And you realize that you're in a very small cabin
-[SPEAKER_01]: With two very large men.
-[SPEAKER_01]: One of them who's obviously from Portoli and the other one's from, well, it's Owen Black.
-[SPEAKER_01]: And Owen looks at this guy, Torus, and goes, Folsom was asking me some questions today.
-[SPEAKER_01]: He's very interested in that artifact Kane totally has.
-[SPEAKER_01]: And Torus goes, Oh, is he?
-[SPEAKER_01]: What would you like to know about it?
-[SPEAKER_00]: Uh... Well...
-[SPEAKER_00]: I was just...
-[SPEAKER_00]: Curious about, uh...
-[SPEAKER_00]: Seems pretty powerful.
-[SPEAKER_00]: Seems very, uh...
-[SPEAKER_00]: I don't know.
-[SPEAKER_00]: It just seems very, very important.
-[SPEAKER_00]: I was wondering if it was, how long it's been around for, you think?
-[SPEAKER_01]: Oh, well, the stone.
-[SPEAKER_01]: Torus looks at Owen and goes, Hundreds of years, I imagine.
-[SPEAKER_01]: Rumor is, the Lich Azorak made it.
-[SPEAKER_01]: Can't totally learn about it from
-[SPEAKER_01]: This necromancer in the swamp we dealt with.
-[SPEAKER_01]: Why so interested?
-[SPEAKER_00]: I mean, it's just rumors and tales.
-[SPEAKER_00]: That's what Owen said.
-[SPEAKER_00]: Just, I'm a...
-[SPEAKER_00]: I'm a sucker for a good story.
-[SPEAKER_01]: Of course.
-[SPEAKER_01]: Many people are.
-[SPEAKER_01]: Owen kind of puts his hands on the table.
-[SPEAKER_01]: He says, Folsom here is a good friend of my cousin Merrick.
-[SPEAKER_01]: Torus goes, oh really?
-[SPEAKER_01]: Folsom goes, I mean not Folsom, Owen Black says, Merrick's in town with two other men.
-[SPEAKER_01]: I don't know how much longer they're going to be alive.
-[SPEAKER_01]: Didn't want Folsom to suffer the same fate as the minis with.
-[SPEAKER_01]: I'm sorry Folsom.
-[SPEAKER_01]: I do feel bad about Tyrus.
-[SPEAKER_01]: He was a good friend.
-[SPEAKER_01]: But I wanted to make sure you didn't get hurt, seeing as you're so young and all.
-[SPEAKER_00]: I appreciate that, Owen.
-[SPEAKER_00]: Tyrus is a good friend of mine.
-[SPEAKER_00]: It's a shame.
-[SPEAKER_01]: Unfortunately, you're going to be the prisoner of Cain totally now.
-[SPEAKER_01]: Until all of this blows over.
-[SPEAKER_00]: Yeah, I mean, business is business.
-[SPEAKER_01]: And I'm being paid very well.
-[SPEAKER_01]: I think Keoland totally would find you entertaining.
-[SPEAKER_01]: You have a good voice and you're young and I think you know some things that you might be interested in hearing.
-[SPEAKER_00]: Well, you got it right.
-[SPEAKER_00]: I am entertaining.
-[SPEAKER_00]: I didn't know how to put on a good show.
-[SPEAKER_01]: Then Toli reaches down and picks the manacles up off the floor and puts them on the table.
+[SPEAKER_01B]: Well, I mean, he's going to have to work for me for it.
+[SPEAKER_01B]: I mean, I needed two crews to be able to bring it in.
+[SPEAKER_01B]: That's the deal, right?
+[SPEAKER_07A]: Yeah.
+[SPEAKER_07A]: Wow.
+[SPEAKER_01B]: You want to go check her out?
+[SPEAKER_07A]: I mean, shouldn't we wait for Tyrus?
+[SPEAKER_07A]: I mean, shouldn't we wait for the crew?
+[SPEAKER_01B]: Well, yeah, we can wait for the crew, but I mean, it's right here, right here.
+[SPEAKER_01B]: We've got to think about getting the hold in.
+[SPEAKER_01B]: Come on, let's go check her out.
+[SPEAKER_07A]: All right.
+[SPEAKER_00A]: All right, so you guys go and jump on board.
+[SPEAKER_07A]: Yeah.
+[SPEAKER_00A]: He starts walking towards the cabin.
+[SPEAKER_00A]: He says things like,
+[SPEAKER_01B]: I have a friend of mine watching it.
+[SPEAKER_01B]: Let's go in and see them.
+[SPEAKER_07A]: Yeah.
+[SPEAKER_00A]: He walks to the door and knocks and goes,
+[SPEAKER_01B]: Torus, are you there?
+[SPEAKER_00A]: Then you hear a voice come out of the back.
+[SPEAKER_02B]: Owen, is that you?
+[SPEAKER_02B]: Have you returned?
+[SPEAKER_01B]: Owen goes, yes.
+[SPEAKER_01B]: I want you to meet a friend of mine.
+[SPEAKER_00A]: He opens the door into the cabin and starts walking back there.
+[SPEAKER_00A]: It's kind of dark.
+[SPEAKER_00A]: You see a form in the back and you guys kind of walk back into the area and goes,
+[SPEAKER_01B]: I've got a bottle.
+[SPEAKER_00A]: Owen Black lifts up one of those black things of rum from Portoli.
+[SPEAKER_01B]: Your favorite.
+[SPEAKER_01B]: This is my friend Folsom.
+[SPEAKER_00A]: He walks in.
+[SPEAKER_01B]: He goes, it's pretty dark in here, Torus.
+[SPEAKER_01B]: Why don't you light the lantern?
+[SPEAKER_00A]: Do you come into the cabin?
+[SPEAKER_07A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Roll a perception check, insight check.
+[game mechanics] [SPEAKER_07A]: Eight plus.
+[game mechanics] [SPEAKER_07A]: Three.
+[game mechanics] [SPEAKER_07A]: Eleven.
+[game mechanics] [SPEAKER_00A]: Okay.
+[SPEAKER_00A]: You walk in, in the darkness, the form you can't quite make out.
+[SPEAKER_00A]: And Owen goes,
+[SPEAKER_01B]: Here, take a seat.
+[SPEAKER_02B]: I'll light a lantern.
+[SPEAKER_00A]: He shuts the door.
+[SPEAKER_00A]: You hear the striking of a match and the lantern gets lit, right?
+[SPEAKER_00A]: And the form across the table reaches out and grabs the bottle as Owen turns the thing around.
+[SPEAKER_00A]: And you realize this dude is a soul.
+[SPEAKER_00A]: He sits down.
+[SPEAKER_00A]: Owen sits next to you.
+[SPEAKER_00A]: And you realize that you're in a very small cabin
+[SPEAKER_00A]: With two very large men.
+[SPEAKER_00A]: One of them who's obviously from Portoli and the other one's from, well, it's Owen Black.
+[SPEAKER_01B]: And Owen looks at this guy, Torus, and goes, Folsom was asking me some questions today.
+[SPEAKER_01B]: He's very interested in that artifact Kane totally has.
+[SPEAKER_02B]: And Torus goes, Oh, is he?
+[SPEAKER_02B]: What would you like to know about it?
+[SPEAKER_07A]: Uh... Well...
+[SPEAKER_07A]: I was just...
+[SPEAKER_07A]: Curious about, uh...
+[SPEAKER_07A]: Seems pretty powerful.
+[SPEAKER_07A]: Seems very, uh...
+[SPEAKER_07A]: I don't know.
+[SPEAKER_07A]: It just seems very, very important.
+[SPEAKER_07A]: I was wondering if it was, how long it's been around for, you think?
+[SPEAKER_01B]: Oh, well, the stone.
+[SPEAKER_02B]: Torus looks at Owen and goes, Hundreds of years, I imagine.
+[SPEAKER_02B]: Rumor is, the Lich Azorak made it.
+[SPEAKER_02B]: Can't totally learn about it from
+[SPEAKER_02B]: This necromancer in the swamp we dealt with.
+[SPEAKER_02B]: Why so interested?
+[SPEAKER_07A]: I mean, it's just rumors and tales.
+[SPEAKER_07A]: That's what Owen said.
+[SPEAKER_07A]: Just, I'm a...
+[SPEAKER_07A]: I'm a sucker for a good story.
+[SPEAKER_02B]: Of course.
+[SPEAKER_02B]: Many people are.
+[SPEAKER_00A]: Owen kind of puts his hands on the table.
+[SPEAKER_01B]: He says, Folsom here is a good friend of my cousin Merrick.
+[SPEAKER_02B]: Torus goes, oh really?
+[SPEAKER_01B]: Folsom goes, I mean not Folsom, Owen Black says, Merrick's in town with two other men.
+[SPEAKER_01B]: I don't know how much longer they're going to be alive.
+[SPEAKER_01B]: Didn't want Folsom to suffer the same fate as the minis with.
+[SPEAKER_01B]: I'm sorry Folsom.
+[SPEAKER_01B]: I do feel bad about Tyrus.
+[SPEAKER_01B]: He was a good friend.
+[SPEAKER_01B]: But I wanted to make sure you didn't get hurt, seeing as you're so young and all.
+[SPEAKER_07A]: I appreciate that, Owen.
+[SPEAKER_07A]: Tyrus is a good friend of mine.
+[SPEAKER_07A]: It's a shame.
+[SPEAKER_01B]: Unfortunately, you're going to be the prisoner of Cain totally now.
+[SPEAKER_01B]: Until all of this blows over.
+[SPEAKER_07A]: Yeah, I mean, business is business.
+[SPEAKER_01B]: And I'm being paid very well.
+[SPEAKER_01B]: I think Cain Toli would find you very entertaining.
+[SPEAKER_01B]: You have a good voice and you're young and I think you know some things that you might be interested in hearing.
+[SPEAKER_07A]: Well, you got it right.
+[SPEAKER_07A]: I am entertaining.
+[SPEAKER_07A]: I didn't know how to put on a good show until the other night, but being edgy is better than being good.
+[SPEAKER_00A]: Then Toli reaches down and picks the manacles up off the floor and puts them on the table.
 [out-of-band] [SPEAKER_00]: Manacles are like cuffs.
 [out-of-band] [SPEAKER_00]: Yeah.
 [out-of-band] [SPEAKER_00]: It's just Owen and me and him.
-[SPEAKER_01]: Uh-huh.
-[SPEAKER_01]: All right.
-[SPEAKER_01]: You could put those on.
-[SPEAKER_01]: It saved me beating you.
-[SPEAKER_00]: I understand.
-[SPEAKER_01]: Alright.
-[SPEAKER_01]: Owen takes the rum.
-[SPEAKER_01]: Puts down.
-[SPEAKER_01]: A shot.
-[SPEAKER_01]: He goes, first a drink, and he pours a shot of the black liquid into the cup.
-[SPEAKER_00]: All right.
-[SPEAKER_00]: I take it, and I raise it up, and I say, am I facing him?
-[out-of-band] [SPEAKER_01]: You're facing both of them.
-[out-of-band] [SPEAKER_01]: You're like here, the table.
-[out-of-band] [SPEAKER_00]: Yeah.
-[out-of-band] [SPEAKER_01]: You're here.
-[out-of-band] [SPEAKER_01]: The Toli is across the table and Owen Black is right here.
-[out-of-band] [SPEAKER_01]: Gotcha.
-[out-of-band] [SPEAKER_01]: And the lanterns on the table?
-[out-of-band] [SPEAKER_01]: Lanterns on the table.
-[out-of-band] [SPEAKER_01]: Where's the bottle?
-[out-of-band] [SPEAKER_01]: Bottles on the table.
-[out-of-band] [SPEAKER_01]: The glass is right there with the manacles.
-[out-of-band] [SPEAKER_01]: This is the room.
-[out-of-band] [SPEAKER_01]: This is the door.
-[SPEAKER_00]: Alright.
-[SPEAKER_00]: I uh...
-[SPEAKER_00]: I say... Well... Before...
-[SPEAKER_00]: I'm put into cuffs.
-[SPEAKER_00]: Can I have a better drink than that?
-[SPEAKER_00]: I mean, I don't want a glass, I want a swig.
-[SPEAKER_01]: Asul pulls a knife out and puts it on the table and he's like, We're being friendly here, not kind.
-[SPEAKER_00]: And I'm just wanting a drink before I...
-[SPEAKER_00]: It's there.
-[SPEAKER_00]: Drink it.
-[SPEAKER_00]: My tolerance is high.
-[SPEAKER_01]: I think you'll find this to be quite a strong drink.
-[SPEAKER_01]: You can have as much of this as you want.
-[out-of-band] [SPEAKER_01]: Is it filled pretty high?
-[out-of-band] [SPEAKER_01]: Oh yeah.
-[out-of-band] [SPEAKER_00]: How big, like just shot glass?
-[out-of-band] [SPEAKER_00]: Just shot glass.
-[SPEAKER_00]: Alright.
-[SPEAKER_00]: I...
-[SPEAKER_00]: I grab the drink.
-[SPEAKER_00]: Okay.
-[out-of-band] [SPEAKER_00]: How much proof does it have?
-[out-of-band] [SPEAKER_00]: Is it like flammable?
-[out-of-band] [SPEAKER_01]: It's a rum drink.
-[out-of-band] [SPEAKER_01]: I mean, I'm sure that there is going to be flames with it.
-[out-of-band] [SPEAKER_01]: Okay.
-[out-of-band] [SPEAKER_01]: Okay.
-[out-of-band] [SPEAKER_01]: Now the lantern is not an open flame.
-[out-of-band] [SPEAKER_01]: Okay.
-[SPEAKER_00]: Will I pick up the shot?
-[SPEAKER_00]: Mm-hmm.
-[SPEAKER_00]: I raise it up, and I say to the legend, Owen Blackwell, or Owen Black.
-[SPEAKER_00]: I take the shot, and I shoot it in his eye.
-[SPEAKER_01]: In Owen's eye?
-[SPEAKER_01]: Yep.
-[SPEAKER_01]: Okay.
-[out-of-band] [SPEAKER_01]: So, you go like that, roll a 20, and see what that's like.
-[out-of-band] [SPEAKER_00]: Nineteen.
-[out-of-band] [SPEAKER_01]: Nineteen.
-[out-of-band] [SPEAKER_00]: Plus, what would that be?
-[out-of-band] [SPEAKER_01]: Nineteen plus your dex.
-[out-of-band] [SPEAKER_00]: My dex bonus?
-[out-of-band] [SPEAKER_01]: Yeah.
-[out-of-band] [SPEAKER_00]: Plus two, so twenty-one.
-[out-of-band] [SPEAKER_01]: Twenty-one.
-[SPEAKER_01]: The stuff splashes in his eye, and I assume you're trying to blind him?
-[SPEAKER_00]: Yeah.
-[out-of-band] [SPEAKER_01]: This does one point of damage to Owen Black, because it's not anything, but he's going to have to make a saving throw to see if he's blinded.
-[out-of-band] [SPEAKER_01]: Okay?
-[out-of-band] [SPEAKER_01]: Five.
-[SPEAKER_01]: It goes right in his face.
-[SPEAKER_01]: Right?
-[out-of-band] [SPEAKER_01]: Roll a one-dice six to see how many rounds he's going to be blinded.
-[out-of-band] [SPEAKER_01]: Two.
-[out-of-band] [SPEAKER_01]: Two rounds.
-[out-of-band] [SPEAKER_01]: So you have two rounds.
-[out-of-band] [SPEAKER_01]: Basically jumps up.
-[out-of-band] [SPEAKER_01]: Roll an ish.
-[out-of-band] [SPEAKER_01]: Eleven plus two.
-[out-of-band] [SPEAKER_01]: Two.
-[out-of-band] [SPEAKER_01]: So that's thirteen?
-[out-of-band] [SPEAKER_01]: Yep.
-[out-of-band] [SPEAKER_01]: This is what the Toli guy gets.
-[out-of-band] [SPEAKER_01]: Seven, eight, nine.
-[out-of-band] [SPEAKER_01]: You win.
-[out-of-band] [SPEAKER_01]: What are you gonna do?
-[SPEAKER_01]: I...
-[SPEAKER_00]: I pull out my rapier.
-[SPEAKER_00]: Before I do that, I'm going to look at...
-[SPEAKER_00]: I'm shaking a little bit.
-[SPEAKER_00]: I'm excited.
-[SPEAKER_00]: It's been a while.
-[SPEAKER_00]: I use...
-[out-of-band] [SPEAKER_00]: Damn, it's an action.
-[out-of-band] [SPEAKER_00]: Never mind then.
-[SPEAKER_01]: I pull out my rapier.
-[SPEAKER_01]: You stand up and pull out your rapier.
-[SPEAKER_01]: And what do you want to do?
-[SPEAKER_00]: I try to thrust it into the... Do you want to move?
-[SPEAKER_00]: No.
-[out-of-band] [SPEAKER_00]: Rapiers are pretty long, right?
-[out-of-band] [SPEAKER_01]: Yeah, you could attack that guy from across the table.
-[out-of-band] [SPEAKER_01]: You could also attack Owen.
-[SPEAKER_00]: No, I don't want to attack Owen.
-[SPEAKER_01]: I want to attack him.
-[SPEAKER_01]: Okay, so you attack him across the table.
-[out-of-band] [SPEAKER_01]: You thrust, roll your attack.
-[out-of-band] [SPEAKER_00]: Fifteen plus, is it attack bonus?
-[out-of-band] [SPEAKER_00]: Yeah, you get a plus... Five, so twenty.
-[out-of-band] [SPEAKER_01]: Twenty, that's a hit.
-[out-of-band] [SPEAKER_01]: One die eight.
-[out-of-band] [SPEAKER_01]: One die eight plus three.
-[out-of-band] [SPEAKER_01]: One die, yeah, that's a one die six you have there.
-[out-of-band] [SPEAKER_01]: Oh, you're right.
-[out-of-band] [SPEAKER_01]: I'll use this one.
-[out-of-band] [SPEAKER_00]: Five plus three, so eight.
-[out-of-band] [SPEAKER_01]: Eight points of damage.
-[out-of-band] [SPEAKER_01]: Yep.
-[SPEAKER_01]: Okay, so you stab him.
-[SPEAKER_01]: All right.
-[out-of-band] [SPEAKER_01]: And do you want to move?
-[out-of-band] [SPEAKER_00]: I want to move behind...
-[out-of-band] [SPEAKER_01]: I mean, the question is, do you want to take these guys out, or do you want to try and get away?
-[out-of-band] [SPEAKER_00]: I want to... Because you could go one, two, three... Did they lock the door?
-[out-of-band] [SPEAKER_01]: No.
-[out-of-band] [SPEAKER_00]: Um... Is there a key?
-[out-of-band] [SPEAKER_00]: No.
-[out-of-band] [SPEAKER_00]: Okay.
-[out-of-band] [SPEAKER_01]: I will, yeah, move to the door then.
-[out-of-band] [SPEAKER_01]: So you can go one, two, open the door, three, four, five.
-[out-of-band] [SPEAKER_01]: Yep.
-[out-of-band] [SPEAKER_01]: Okay, and like back out with your rapier out, right?
-[out-of-band] [SPEAKER_01]: Yep.
-[out-of-band] [SPEAKER_01]: Okay, so you move to here with the rapier out.
-[SPEAKER_00]: Mm-hmm.
-[out-of-band] [SPEAKER_00]: Wait, can I...
-[out-of-band] [SPEAKER_00]: It's dark, right?
-[out-of-band] [SPEAKER_00]: Yeah.
-[out-of-band] [SPEAKER_00]: Like, if I walk outside, can't see anything really?
-[out-of-band] [SPEAKER_01]: No, I mean, you'll have the moon and everything, so they'll see you if you run away.
-[out-of-band] [SPEAKER_00]: Okay.
-[out-of-band] [SPEAKER_00]: Can I... One, two, three... Is this like...
-[out-of-band] [SPEAKER_01]: If you wanted to, what you could do actually is use another five moons to shut the door and try and hold the door shut.
-[out-of-band] [SPEAKER_00]: I don't got the strength of that.
-[out-of-band] [SPEAKER_00]: I was going to try to hide right here so when they came out I could see them.
-[out-of-band] [SPEAKER_00]: This is a thing like that.
-[out-of-band] [SPEAKER_00]: There's really no place to hide.
-[out-of-band] [SPEAKER_00]: I figured.
-[out-of-band] [SPEAKER_00]: And I will jump, I will just start running back to the...
-[out-of-band] [SPEAKER_01]: So you can use your bonus action to run another six.
-[out-of-band] [SPEAKER_01]: Yeah.
-[out-of-band] [SPEAKER_01]: One, two, three, four, five, six.
-[SPEAKER_01]: So you run out onto the deck.
-[SPEAKER_01]: Right?
-[SPEAKER_00]: Yeah.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: You hear the door open behind you, and you hear Owen Black yelling, stop him!
-[SPEAKER_01]: Right?
-[SPEAKER_01]: This guy runs to here, pulling out his knife.
-[out-of-band] [SPEAKER_01]: Rolling ish.
-[out-of-band] [SPEAKER_00]: 20 plus 2.
-[out-of-band] [SPEAKER_01]: 22.
-[out-of-band] [SPEAKER_00]: 22.
-[out-of-band] [SPEAKER_00]: Do you want to try and get away?
-[out-of-band] [SPEAKER_00]: I want to first see, do you know if Vicious Mockery is, is that an action or a bonus action?
-[out-of-band] [SPEAKER_00]: That's a bonus action.
-[out-of-band] [SPEAKER_00]: It is a bonus action?
-[out-of-band] [SPEAKER_00]: Yep.
-[out-of-band] [SPEAKER_00]: Okay.
-[SPEAKER_00]: I am going to have my rapier at him, look at him, have my rapier looking at him, and I want to move six.
-[SPEAKER_00]: Towards the dock.
-[SPEAKER_00]: Yeah.
-[SPEAKER_01]: Okay.
+[SPEAKER_00A]: Uh-huh.
+[SPEAKER_00A]: All right.
+[SPEAKER_02B]: You could put those on.
+[SPEAKER_02B]: It saved me beating you.
+[SPEAKER_07A]: I understand.
+[SPEAKER_00A]: Alright.
+[SPEAKER_00A]: Owen takes the rum.
+[SPEAKER_00A]: Puts down.
+[SPEAKER_00A]: A shot.
+[SPEAKER_01B]: First a drink.
+[SPEAKER_00A]: And he pours a shot of the black liquid into the cup.
+[SPEAKER_07A]: All right.
+[SPEAKER_07A]: I take it, and I raise it up, and I say, am I facing him?
+[game mechanics] [SPEAKER_00A]: You're facing both of them.
+[game mechanics] [SPEAKER_00A]: You're like here, the table.
+[game mechanics] [SPEAKER_07A]: Yeah.
+[game mechanics] [SPEAKER_00A]: You're here.
+[game mechanics] [SPEAKER_00A]: The Toli is across the table and Owen Black is right here.
+[game mechanics] [SPEAKER_00A]: Gotcha.
+[game mechanics] [SPEAKER_00A]: And the lanterns on the table?
+[game mechanics] [SPEAKER_00A]: Lanterns on the table.
+[game mechanics] [SPEAKER_00A]: Where's the bottle?
+[game mechanics] [SPEAKER_00A]: Bottles on the table.
+[game mechanics] [SPEAKER_00A]: The glass is right there with the manacles.
+[game mechanics] [SPEAKER_00A]: This is the room.
+[game mechanics] [SPEAKER_00A]: This is the door.
+[SPEAKER_07A]: Alright.
+[SPEAKER_07A]: I uh...
+[SPEAKER_07A]: I say... Well... Before...
+[SPEAKER_07A]: I'm put into cuffs.
+[SPEAKER_07A]: Can I have a better drink than that?
+[SPEAKER_07A]: I mean, I don't want a glass, I want a swig.
+[SPEAKER_00A]: Asul pulls a knife out and puts it on the table and he's like,
+[SPEAKER_02B]: We're being friendly here, not kind.
+[SPEAKER_07A]: And I'm just wanting a drink before I...
+[SPEAKER_02B]: It's there.
+[SPEAKER_02B]: Drink it.
+[SPEAKER_07A]: My tolerance is high.
+[SPEAKER_01B]: I think you'll find this to be quite a strong drink.
+[SPEAKER_01B]: Also, you can have as much of this as you want, after you are in the manacles.
+[game mechanics] [SPEAKER_07A]: Is it filled pretty high?
+[game mechanics] [SPEAKER_00A]: Oh yeah.
+[game mechanics] [SPEAKER_07A]: How big, like just shot glass?
+[game mechanics] [SPEAKER_00A]: Just shot glass.
+[SPEAKER_07A]: Alright.
+[SPEAKER_07A]: I...
+[SPEAKER_07A]: I grab the drink.
+[SPEAKER_07A]: Okay.
+[game mechanics] [SPEAKER_07A]: How much proof does it have?
+[game mechanics] [SPEAKER_07A]: Is it like flammable?
+[game mechanics] [SPEAKER_00A]: It's a rum drink.
+[game mechanics] [SPEAKER_00A]: I mean, I'm sure that there is going to be flames with it.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Now the lantern is not an open flame.
+[game mechanics] [SPEAKER_00A]: Okay.
+[SPEAKER_07A]: I pick up the shot.
+[SPEAKER_07A]: Mm-hmm.
+[SPEAKER_07A]: I raise it up and I say, "To the legend of Owen Black; Here's rum in your eye!"
+[SPEAKER_07A]: I take the shot, and I shoot it in his eye.
+[SPEAKER_00A]: In Owen's eye?
+[SPEAKER_07A]: Yep.
+[SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: So, you go like that, roll a 20, and see what that's like.
+[game mechanics] [SPEAKER_07A]: Nineteen.
+[game mechanics] [SPEAKER_00A]: Nineteen.
+[game mechanics] [SPEAKER_07A]: Plus, what would that be?
+[game mechanics] [SPEAKER_00A]: Nineteen plus your dex.
+[game mechanics] [SPEAKER_07A]: My dex bonus?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_07A]: Plus two, so twenty-one.
+[game mechanics] [SPEAKER_00A]: Twenty-one.
+[SPEAKER_00A]: The stuff splashes in his eye, and I assume you're trying to blind him?
+[SPEAKER_07A]: Yeah.
+[game mechanics] [SPEAKER_00A]: This does one point of damage to Owen Black, because it's not anything, but he's going to have to make a saving throw to see if he's blinded.
+[game mechanics] [SPEAKER_00A]: Okay?
+[game mechanics] [SPEAKER_00A]: Five.
+[SPEAKER_00A]: It goes right in his face.
+[SPEAKER_00A]: Right?
+[game mechanics] [SPEAKER_00A]: Roll a one-dice six to see how many rounds he's going to be blinded.
+[game mechanics] [SPEAKER_00A]: Two.
+[game mechanics] [SPEAKER_00A]: Two rounds.
+[game mechanics] [SPEAKER_00A]: So you have two rounds.
+[game mechanics] [SPEAKER_00A]: Basically jumps up.
+[game mechanics] [SPEAKER_00A]: Roll an ish.
+[game mechanics] [SPEAKER_00A]: Eleven plus two.
+[game mechanics] [SPEAKER_00A]: Two.
+[game mechanics] [SPEAKER_00A]: So that's thirteen?
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: This is what the Toli guy gets.
+[game mechanics] [SPEAKER_00A]: Seven, eight, nine.
+[game mechanics] [SPEAKER_00A]: You win.
+[game mechanics] [SPEAKER_00A]: What are you gonna do?
+[SPEAKER_07A]: I...
+[SPEAKER_07A]: I pull out my rapier.
+[SPEAKER_07A]: Before I do that, I'm going to look at...
+[SPEAKER_07A]: I'm shaking a little bit.
+[SPEAKER_07A]: I'm excited.
+[SPEAKER_07A]: It's been a while.
+[SPEAKER_07A]: I use...
+[game mechanics] [SPEAKER_07A]: Damn, it's an action.
+[game mechanics] [SPEAKER_07A]: Never mind then.
+[SPEAKER_07A]: I pull out my rapier.
+[SPEAKER_00A]: You stand up and pull out your rapier.
+[SPEAKER_00A]: And what do you want to do?
+[SPEAKER_07A]: I try to thrust it into the... Do you want to move?
+[SPEAKER_07A]: No.
+[game mechanics] [SPEAKER_07A]: Rapiers are pretty long, right?
+[game mechanics] [SPEAKER_00A]: Yeah, you could attack that guy from across the table.
+[game mechanics] [SPEAKER_00A]: You could also attack Owen.
+[SPEAKER_07A]: No, I don't want to attack Owen.
+[SPEAKER_07A]: I want to attack him.
+[SPEAKER_00A]: Okay, so you attack him across the table.
+[game mechanics] [SPEAKER_00A]: You thrust, roll your attack.
+[game mechanics] [SPEAKER_07A]: Fifteen plus, is it attack bonus?
+[game mechanics] [SPEAKER_07A]: Yeah, you get a plus... Five, so twenty.
+[game mechanics] [SPEAKER_00A]: Twenty, that's a hit.
+[game mechanics] [SPEAKER_00A]: One die eight.
+[game mechanics] [SPEAKER_00A]: One die eight plus three.
+[game mechanics] [SPEAKER_00A]: One die, yeah, that's a one die six you have there.
+[game mechanics] [SPEAKER_00A]: Oh, you're right.
+[game mechanics] [SPEAKER_00A]: I'll use this one.
+[game mechanics] [SPEAKER_07A]: Five plus three, so eight.
+[game mechanics] [SPEAKER_00A]: Eight points of damage.
+[game mechanics] [SPEAKER_00A]: Yep.
+[SPEAKER_00A]: Okay, so you stab him.
+[SPEAKER_00A]: All right.
+[game mechanics] [SPEAKER_00A]: And do you want to move?
+[game mechanics] [SPEAKER_07A]: I want to move behind...
+[game mechanics] [SPEAKER_00A]: I mean, the question is, do you want to take these guys out, or do you want to try and get away?
+[game mechanics] [SPEAKER_07A]: I want to... Because you could go one, two, three... Did they lock the door?
+[game mechanics] [SPEAKER_00A]: No.
+[game mechanics] [SPEAKER_07A]: Um... Is there a key?
+[game mechanics] [SPEAKER_07A]: No.
+[game mechanics] [SPEAKER_07A]: Okay.
+[game mechanics] [SPEAKER_00A]: I will, yeah, move to the door then.
+[game mechanics] [SPEAKER_00A]: So you can go one, two, open the door, three, four, five.
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: Okay, and like back out with your rapier out, right?
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: Okay, so you move to here with the rapier out.
+[SPEAKER_07A]: Mm-hmm.
+[game mechanics] [SPEAKER_07A]: Wait, can I...
+[game mechanics] [SPEAKER_07A]: It's dark, right?
+[game mechanics] [SPEAKER_07A]: Yeah.
+[game mechanics] [SPEAKER_07A]: Like, if I walk outside, can't see anything really?
+[game mechanics] [SPEAKER_00A]: No, I mean, you'll have the moon and everything, so they'll see you if you run away.
+[game mechanics] [SPEAKER_07A]: Okay.
+[game mechanics] [SPEAKER_07A]: Can I... One, two, three... Is this like...
+[game mechanics] [SPEAKER_00A]: If you wanted to, what you could do actually is use another five moons to shut the door and try and hold the door shut.
+[game mechanics] [SPEAKER_07A]: I don't got the strength of that.
+[game mechanics] [SPEAKER_07A]: I was going to try to hide right here so when they came out I could see them.
+[game mechanics] [SPEAKER_07A]: This is a thing like that.
+[game mechanics] [SPEAKER_07A]: There's really no place to hide.
+[game mechanics] [SPEAKER_07A]: I figured.
+[game mechanics] [SPEAKER_07A]: And I will jump, I will just start running back to the...
+[game mechanics] [SPEAKER_00A]: So you can use your bonus action to run another six.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five, six.
+[SPEAKER_00A]: So you run out onto the deck.
+[SPEAKER_00A]: Right?
+[SPEAKER_07A]: Yeah.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: You hear the door open behind you, and you hear Owen Black yelling, stop him!
+[SPEAKER_00A]: Right?
+[SPEAKER_00A]: This guy runs to here, pulling out his knife.
+[game mechanics] [SPEAKER_00A]: Rolling ish.
+[game mechanics] [SPEAKER_07A]: 20 plus 2.
+[game mechanics] [SPEAKER_00A]: 22.
+[game mechanics] [SPEAKER_07A]: 22.
+[game mechanics] [SPEAKER_00A]: Do you want to try and get away?
+[game mechanics] [SPEAKER_07A]: I want to first see, do you know if Vicious Mockery is, is that an action or a bonus action?
+[game mechanics] [SPEAKER_07A]: That's a bonus action.
+[game mechanics] [SPEAKER_07A]: It is a bonus action?
+[game mechanics] [SPEAKER_07A]: Yep.
+[game mechanics] [SPEAKER_07A]: Okay.
+[SPEAKER_07A]: I am going to have my rapier at him, look at him, have my rapier looking at him, and I want to move six.
+[SPEAKER_07A]: Towards the dock.
+[SPEAKER_07A]: Yeah.
+[SPEAKER_00A]: Okay.
 [out-of-band] [SPEAKER_01]: I'm just grabbing my beer and my cake.
 [out-of-band] [SPEAKER_00]: Sorry.
 [out-of-band] [SPEAKER_00]: You're good.
 [out-of-band] [SPEAKER_00]: Actually I'm gonna drink the tank.
 [out-of-band] [SPEAKER_00]: Super duper cool.
-[out-of-band] [SPEAKER_00]: I want to... and so am I on the dock now?
-[out-of-band] [SPEAKER_00]: No, you can be on the dock if you go that way.
-[out-of-band] [SPEAKER_00]: Okay, so, and I will still be seeing him if I'm right here, and I can use Vicious Mockery on him from there?
-[out-of-band] [SPEAKER_01]: Yeah.
-[SPEAKER_00]: Okay, so I'm gonna run this way.
-[out-of-band] [SPEAKER_00]: One, two, three, four, five, six.
-[SPEAKER_00]: As my bonus action, I'm gonna yell at him with Vicious Mockery.
-[SPEAKER_00]: Okay.
-[SPEAKER_00]: And say...
-[out-of-band] [SPEAKER_00]: Here's his saving throw.
-[out-of-band] [SPEAKER_00]: Go ahead and do your mockery.
-[SPEAKER_00]: I hope that...
-[SPEAKER_00]: I hope the piercing of my rapier stings more than the shot of the black rum would have.
-[out-of-band] [SPEAKER_01]: He does not make it.
-[out-of-band] [SPEAKER_01]: You do one die four of damage plus what else?
-[out-of-band] [SPEAKER_01]: Uh...
-[out-of-band] [SPEAKER_00]: Because you have sarcasm.
-[out-of-band] [SPEAKER_00]: If Vicious Mockery is plus one Charisma, add Charisma bonus to damage of your Vicious Mockery.
-[out-of-band] [SPEAKER_00]: So Charisma bonus, since I have Charisma bonus just here, right?
-[out-of-band] [SPEAKER_00]: It's plus five now.
-[out-of-band] [SPEAKER_00]: It's plus five.
-[out-of-band] [SPEAKER_00]: So it's one die four plus five.
-[out-of-band] [SPEAKER_00]: One die four plus five.
-[out-of-band] [SPEAKER_00]: I will use this one.
-[out-of-band] [SPEAKER_00]: Ooh!
-[out-of-band] [SPEAKER_00]: Nine.
-[SPEAKER_01]: Basically, it stings.
-[out-of-band] [SPEAKER_01]: That's a 9 point damage.
-[out-of-band] [SPEAKER_01]: And you've already done 8.
-[out-of-band] [SPEAKER_01]: So he's taking 17 points of damage.
-[SPEAKER_01]: And he's like, ugh!
-[SPEAKER_01]: Kind of falls backward.
-[out-of-band] [SPEAKER_01]: Do you want to use your action to run down the pier?
-[out-of-band] [SPEAKER_01]: I want to use my action to... maybe want to cast something really quick.
-[out-of-band] [SPEAKER_01]: You've already done a cantrip.
-[out-of-band] [SPEAKER_01]: You can only cast one spell.
-[out-of-band] [SPEAKER_01]: Okay.
-[out-of-band] [SPEAKER_01]: Yeah.
-[out-of-band] [SPEAKER_00]: Okay.
-[out-of-band] [SPEAKER_00]: Cool.
-[out-of-band] [SPEAKER_01]: But he has disadvantage with whatever he does.
-[SPEAKER_00]: Yeah, I guess I'll just keep running.
-[SPEAKER_01]: Okay, so you run another 30 feet down the docks.
-[SPEAKER_01]: Okay, so you get out of there and you run off, heading back, hopefully.
-[SPEAKER_01]: What do you want to do?
-[SPEAKER_01]: Do you want to just run into the city or run down the pier?
-[SPEAKER_01]: What do you want to do?
-[SPEAKER_01]: I want to...
-[SPEAKER_00]: I want to go to the... Now here's the situation.
-[SPEAKER_01]: Think of this.
-[SPEAKER_01]: You heard Owen say that your friends were probably going to be killed, right?
-[SPEAKER_01]: And that he was just saving you.
-[SPEAKER_00]: He was going to be...
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: You know, giving you decaying totally.
-[SPEAKER_00]: If I'm frantic, in that time, I should just run back to the bar, but then not enter and maybe... Like, does the bar have, like, windows and such?
-[SPEAKER_01]: Oh, it's, like, open all over the place.
-[SPEAKER_01]: It's got a roof.
-[SPEAKER_01]: That's pretty much what it is.
-[SPEAKER_00]: Okay, I will...
-[SPEAKER_00]: I guess I will start running back to there, and then once I start to get close, mind myself.
-[SPEAKER_00]: Try to straighten up.
-[SPEAKER_00]: Yeah, try to be in the crowd and kind of look in there to make sure that I'm not running into seeing my friends dead or something.
-[SPEAKER_00]: Danger.
-[SPEAKER_01]: Okay, so you make your way back up the docks, going back to the chart room.
-[SPEAKER_01]: And as you approach it, you begin to slow up.
+[game mechanics] [SPEAKER_07A]: I want to... and so am I on the dock now?
+[game mechanics] [SPEAKER_07A]: No, you can be on the dock if you go that way.
+[game mechanics] [SPEAKER_07A]: Okay, so, and I will still be seeing him if I'm right here, and I can use Vicious Mockery on him from there?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[SPEAKER_07A]: Okay, so I'm gonna run this way.
+[game mechanics] [SPEAKER_07A]: One, two, three, four, five, six.
+[SPEAKER_07A]: As my bonus action, I'm gonna yell at him with Vicious Mockery.
+[SPEAKER_07A]: Okay.
+[SPEAKER_07A]: And say...
+[game mechanics] [SPEAKER_07A]: Here's his saving throw.
+[game mechanics] [SPEAKER_07A]: Go ahead and do your mockery.
+[SPEAKER_07A]: I hope that...
+[SPEAKER_07A]: I hope the piercing of my rapier stings more than the shot of the black rum would have.
+[game mechanics] [SPEAKER_00A]: He does not make it.
+[game mechanics] [SPEAKER_00A]: You do one die four of damage plus what else?
+[game mechanics] [SPEAKER_00A]: Uh...
+[game mechanics] [SPEAKER_07A]: Because you have sarcasm.
+[game mechanics] [SPEAKER_07A]: If Vicious Mockery is plus one Charisma, add Charisma bonus to damage of your Vicious Mockery.
+[game mechanics] [SPEAKER_07A]: So Charisma bonus, since I have Charisma bonus just here, right?
+[game mechanics] [SPEAKER_07A]: It's plus five now.
+[game mechanics] [SPEAKER_07A]: It's plus five.
+[game mechanics] [SPEAKER_07A]: So it's one die four plus five.
+[game mechanics] [SPEAKER_07A]: One die four plus five.
+[game mechanics] [SPEAKER_07A]: I will use this one.
+[game mechanics] [SPEAKER_07A]: Ooh!
+[game mechanics] [SPEAKER_07A]: Nine.
+[SPEAKER_00A]: Basically, it stings.
+[game mechanics] [SPEAKER_00A]: That's a 9 point damage.
+[game mechanics] [SPEAKER_00A]: And you've already done 8.
+[game mechanics] [SPEAKER_00A]: So he's taking 17 points of damage.
+[SPEAKER_00A]: And he's like, ugh!
+[SPEAKER_00A]: Kind of falls backward.
+[game mechanics] [SPEAKER_00A]: Do you want to use your action to run down the pier?
+[game mechanics] [SPEAKER_07A]: I want to use my action to... maybe want to cast something really quick.
+[game mechanics] [SPEAKER_00A]: You've already done a cantrip.
+[game mechanics] [SPEAKER_00A]: You can only cast one spell.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_07A]: Okay.
+[game mechanics] [SPEAKER_07A]: Cool.
+[game mechanics] [SPEAKER_00A]: But he has disadvantage with whatever he does.
+[SPEAKER_07A]: Yeah, I guess I'll just keep running.
+[SPEAKER_00A]: Okay, so you run another 30 feet down the docks.
+[SPEAKER_00A]: Okay, so you get out of there and you run off, heading back, hopefully.
+[SPEAKER_00A]: What do you want to do?
+[SPEAKER_00A]: Do you want to just run into the city or run down the pier?
+[SPEAKER_00A]: What do you want to do?
+[SPEAKER_07A]: I want to...
+[SPEAKER_07A]: I want to go to the... Now here's the situation.
+[SPEAKER_00A]: Think of this.
+[SPEAKER_00A]: You heard Owen say that your friends were probably going to be killed, right?
+[SPEAKER_00A]: And that he was just saving you.
+[SPEAKER_07A]: He was going to be...
+[SPEAKER_07A]: Yeah.
+[SPEAKER_07A]: You know, giving you decaying totally.
+[SPEAKER_07A]: If I'm frantic, in that time, I should just run back to the bar, but then not enter and maybe... Like, does the bar have, like, windows and such?
+[SPEAKER_00A]: Oh, it's, like, open all over the place.
+[SPEAKER_00A]: It's got a roof.
+[SPEAKER_00A]: That's pretty much what it is.
+[SPEAKER_07A]: Okay, I will...
+[SPEAKER_07A]: I guess I will start running back to there, and then once I start to get close, mind myself.
+[SPEAKER_07A]: Try to straighten up.
+[SPEAKER_07A]: Yeah, try to be in the crowd and kind of look in there to make sure that I'm not running into seeing my friends dead or something.
+[SPEAKER_07A]: Danger.
+[SPEAKER_00A]: Okay, so you make your way back up the docks, going back to the chart room.
+[SPEAKER_00A]: And as you approach it, you begin to slow up.

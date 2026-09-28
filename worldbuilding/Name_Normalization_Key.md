@@ -10,14 +10,14 @@ Three separate things share the word "Toli"; keep them distinct, and when connec
 2. **the Toli** — a **family/house** of pure-Suel descent originating from Port Toli. Its head is **Prince Sacnon Toli**. Cain Toli is of this family.
 3. **Port Toli** — a **city** on Jerlea Bay, the Toli seat.
 
-**Sacnon Toli** is the **Prince of Port Toli** and **Cain Toli's leader** — the power Cain acts under. (Not to be confused with **Secundforth**, Viscount of Burle in mainland Salinmoor, a separate house; the transcripts' "Sconforth"/"Sikondforth" = Sacnon.)
+**Sacnon Toli** is the **Prince of Port Toli** and **Cain Toli's leader** — the power Cain acts under. **Do not conflate him with Secundforth / Sikondforth**, which is the **family name of the Viscount of Burle** in mainland Salinmoor — a **separate house**, not the Toli. Where a transcript calls the **Toli prince** "Sikondforth"/"Sconforth" it is a **misnaming** (e.g. `Pauls_thoughts_on_the_day_4th_Wealsun` line 14); the Toli prince is **Sacnon**.
 
 ## People — canonical spelling, who they are, and ASR variants to correct
 
 | Canonical | Who | Variants seen in transcripts |
 |---|---|---|
 | **Cain Toli** | The individual antagonist (single person) | Kane, Cain, Cane, "Kane Toli", "Kane Tolley", "Cain Tolley", "Kane totally", "Can't totally", "King Toli", "Keitoly" |
-| **Sacnon Toli** | Prince of Port Toli; head of the Toli house; **Cain Toli's leader** | Sconforth, Sikondforth, "Sacknon" |
+| **Sacnon Toli** | Prince of Port Toli; head of the Toli house; **Cain Toli's leader** | "Sacknon" — **NOT** Sikondforth/Sconforth (those = the **Viscount of Burle**, a separate house) |
 | **Jeon** | Prince of Monmurg (Jeon II) | John, Geon, Jean, Gian, Gion, Percian |
 | **Lord Jamis** | Monmurg's spymaster; Commodore of the fleet | Jameson, Jameis, James, Janison |
 | **Lady Jamis** | Lord Jamis's wife; styled **Lady Azane**; Suel house name **Azani**; sister of Zafar Azane | Lady Azane |
@@ -30,7 +30,7 @@ Three separate things share the word "Toli"; keep them distinct, and when connec
 | **Folsom** | Player character — the bard | Folsum |
 | **Gouge** | Player character | Goug, Gauge |
 | **Merrick** | Player character | Merick |
-| **Owen Black** | NPC — the smuggler (of the Blackwell family of Monmurg) | "Owen Blackwell" (use **Owen Black**) |
+| **Owen Black** | NPC — the smuggler; former Monmurg navy/marine; Merrick’s cousin (their shared kin is Captain Nado) | **“Blackwell” is Folsom misspeaking** — a Folsom verbal tic, not a family; use **Owen Black** |
 | **Paul** (Paul Revero) | Player character; masked nephew of Prince Jeon | Rivero, Rivera, Riviero |
 | **Jude** | Player character | — |
 | **Albashon** | **NPC — the master Alchemist** of Monmurg's Foreign District (Suel; keeper of the *Magnum Opus*; Leslie's mentor; killed in the Scarlet Brotherhood raid) | Varen, Viren, Veren |
@@ -44,6 +44,12 @@ Three separate things share the word "Toli"; keep them distinct, and when connec
 
 **Player characters:** Jude, Paul, Gouge, Merrick, Tyrus, Folsom, Leslie (plus the DM).
 **Recurring NPCs:** Owen Black, Torus, Rodiger, Albashon, Captain Nado, Cain Toli, Sacnon Toli, Lord Jamis, Prince Jeon, Fairwind.
+
+## Tomes & works
+
+| Canonical | Notes / variants seen |
+|---|---|
+| **Magnum Opus** | The foundational **transmutation treatise**, written in **Ancient Suel** by **Ujor Udias** (who later took the name "Acerak"). It is **Albashon's working text** and the book from which he taught **Leslie** to read Ancient Suel. Per `Leslies_introduction` it is described as ~1,000 years old; the Ujor Udias entry dates his orb-work ~600 years ago — treat the *Magnum Opus* as his older/foundational work, and **author to reconcile the exact age** if it matters. |
 
 ## Houses and blood — the Azani thread (foreshadowing, held back in-world)
 
@@ -87,6 +93,7 @@ Three separate things share the word "Toli"; keep them distinct, and when connec
 | "jaunty" / "yawn-tee" | **Yuan-ti** |
 | "Skagen" / "Zahagin" | **sahuagin** (ledger spelling: sahaugin) |
 | "that totally told us" | **the Toli told us** |
+| "her" / "hers" / "deferred" / "deferreds" (Jude/Paul thread) | **Ferd** / **Ferd's** (the Blood Alley tavern-keeper) — the ASR mangles his name this way; a literal female "her" is the exception (judge by context) |
 
 ## Edited transcript bodies (documented exceptions to "leave as raw record")
 
@@ -100,3 +107,23 @@ Only two verbatim transcript bodies have been edited, both to disambiguate a nam
 **2. `Jude_in_Alchemy_shop_4th_Wealsun`** — the alchemist's name normalized from **Varen/Viren → Albashon** (lines 1 and 32). Line 32 stays a garbled sentence in the raw record; only the name token was changed.
 
 The cast files and the `.lst` indexes already use canonical spellings.
+
+## The great Suel houses (author ruling)
+
+- Historically **ten great Suel houses**, plus **two “lesser houses”** that are in fact very powerful (the **Scarlet Brotherhood** derives from one).
+- **Four still politically active:** **Neheli** (Keoland) · **Rhola** (Keoland) · **Linth** (Keoland) · **Toli** (Sea Principalities).
+- ASR garbles: Nihili → **Neheli**, Rola → **Rhola**, Linn → **Linth**. (“Healy”/“Ekstor” = ASR or older/fallen houses, not among the four active.)
+
+## Keoland & Berghof (background / corrections)
+
+- **Kimbertos Skotti** — the last **elected** King of Keoland, **recently died**; the great Suel houses now vie to elect a successor to the **Lion Throne** (Keoland’s throne). Transcript: “Kimbertus Scotty” (of “Greyhill”).
+- **Duke of Gradsul** — **Keoland**; runs the blockade of Monmurg via the **Earl of Redshore** (a Keoland noble, a potential enemy of the Sea Principalities). Zafar Azane’s **Office of Forbidden Magic** sits at Gradsul.
+- **Berghof / Hokar (correction):** the **Duke of Berghof** is the **Plar of Hokar** — his two official titles — with **Hokar** the city in the **Duchy of Berghof** (Crystalmists) that is his seat of power. He is the **second Plar** (with Westkeep) advising the council, a lord of the **Sea Principalities**, **not a Keoland duke.** “**Plar of Berghof**” is used occasionally but is **not official** — it means the same lord. Per the gazetteer the Plar of Hokar is a long-lived sorcerer; he made/supplied the anti-sahaugin powder and employs hobgoblin mercenaries.
+- **Scarlet Brotherhood ≠ Scarlet Rat:** the Brotherhood is the Suel secret society; the **“Scarlet Rat” / Captain Crimson** is the unrelated pirate who burned Port Torvin. Do not conflate.
+
+
+## The Gift of Insamiar (author ruling)
+
+- The **Gift of Insamiar** is a **poison**. It is **rumored** to come from the dragon **Insamiar the Black** (of the Hool Marshes) — but this is an **in-world rumor, not established fact**. Write the dragon-origin only as something characters *say* or believe, never as confirmed narration.
+- Seen in `Owen_and_Torus_plan_6th_Wealsun` as Owen's **"special draught"** — the poison he caught in the eye, meant to subdue Folsom for the trip to Cain Toli. Treat the transcript's "gift of Insamiar"/"special draught" as this poison.
+- Cross-reference: `worldbuilding/Insamiar_the_Black.md` (the cult and the drug-rite). **Terminology caution:** that ledger currently uses "gift" for the *offering* (a polished stone/silver image) and "Blessing" for the sipped potion; this ruling uses **"Gift of Insamiar" = the poison** — see the author-ruling note in that file, pending reconciliation.

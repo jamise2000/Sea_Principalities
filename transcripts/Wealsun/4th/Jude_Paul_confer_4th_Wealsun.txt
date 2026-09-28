@@ -1,535 +1,535 @@
-[SPEAKER_00]: Sometime after the third of Wealsun, Jude and Paul Rivero have a chance to connect and talk regarding what happened at Helm Island and discuss what they've learned upon their return.
-[SPEAKER_01]: I'm not sure if we should have killed Lord Fairwin, but perhaps not.
-[SPEAKER_01]: I don't know if Prince Gian and Fairwin can iron things out.
-[SPEAKER_01]: But did you want him dead?
-[SPEAKER_01]: I wanted him in custody.
-[SPEAKER_01]: Okay, so when we lost him, because I wasn't sure if you wanted him dead, because I felt like... No, I wouldn't know what to do with him.
-[SPEAKER_02]: No, other than to arrest him.
-[SPEAKER_02]: I mean, he's a traitor in treason.
-[SPEAKER_01]: We didn't have time when we were moving through the castle and then sailing back.
-[SPEAKER_01]: I know you said, we've got him, and we got him dead to rights.
-[SPEAKER_01]: What did you hear him say?
-[SPEAKER_01]: I've never actually...
-[SPEAKER_01]: I've already told you.
-[SPEAKER_01]: No, not in the game.
-[SPEAKER_02]: I said he was...
-[SPEAKER_02]: He was talking with Toli.
-[SPEAKER_01]: He said he was plotting, but like, I mean, what did you hear?
-[SPEAKER_02]: He was saying, um...
-[SPEAKER_02]: He was talking to them about getting rid of, or like, selling the, um...
-[SPEAKER_02]: But Toli was like, well, we noticed that you took most of it anyways.
-[SPEAKER_02]: Okay.
-[SPEAKER_02]: Of the powder.
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: Okay, and he had kind of said as much as we were taking him down once we had him tied up.
-[SPEAKER_02]: Yeah, and then he was talking about like... What was he talking about when he was in a fight with...
-[SPEAKER_02]: He was talking to Gouge about something.
-[SPEAKER_01]: Well, I mean, he was talking to me, and I don't know that he even talked that much to me.
-[SPEAKER_02]: Yeah, but as you guys were fighting, I thought.
-[SPEAKER_01]: You mean the Toli?
-[SPEAKER_01]: Gouge had punched one of the Toli.
-[SPEAKER_02]: No, not the Toli.
-[SPEAKER_02]: I'm talking about when we were going down the stairs.
-[SPEAKER_02]: In the cave.
-[SPEAKER_02]: I had fallen in, but then you were lifting me back up.
-[SPEAKER_02]: Him and Gouge were talking about something.
-[SPEAKER_01]: No, no.
-[SPEAKER_01]: Gouge had moved forward and... Well, somebody, somebody.
-[SPEAKER_01]: Maybe... No, no.
-[SPEAKER_01]: The whole...
-[SPEAKER_01]: In fact, the whole problem was that...
-[SPEAKER_00]: Directly after you went into the water, he attacked Gouge, and Gouge threw him off the ledge.
-[SPEAKER_02]: Okay.
-[SPEAKER_00]: So if there was something said... Something was said, I'm pretty sure.
-[SPEAKER_00]: But we weren't... Actually, what happened was Folsom was...
-[SPEAKER_00]: Actually, Fairwind was whispering to Folsom the Bard.
-[SPEAKER_00]: That's what was happening.
-[SPEAKER_01]: And I wasn't privy to that, right.
-[SPEAKER_01]: And then you got kicked off of the...
-[SPEAKER_01]: Right, when you went down.
-[SPEAKER_01]: So, do you know...
-[SPEAKER_01]: I've never been to Fairwind's holdings, you know, with the Sea Principals.
-[SPEAKER_01]: I've never been to his island or his holdings.
-[SPEAKER_01]: Have you?
-[SPEAKER_00]: Have I?
-[SPEAKER_00]: You've been to the main one, yeah, and the main port of Fairwood Island, and actually you've had a feast there before, but you have not toured his island.
-[SPEAKER_00]: I've seen everything.
-[SPEAKER_02]: I haven't been super in detail, but I've been there before and seen the main stuff.
-[SPEAKER_01]: So if we have to go find where he stashed it, you would have zero clue.
-[SPEAKER_01]: Let me ask you this.
-[SPEAKER_01]: Is Lord Fairwin the kind of man that would keep something, like keep things close to him, physically close?
-[SPEAKER_01]: Or would he stash these things like on a different island completely or far away?
-[SPEAKER_01]: That's a great question.
-[SPEAKER_01]: He strikes me as a kind of man...
-[out-of-band] [SPEAKER_02]: I think you ought to do an int check.
-[out-of-band] [SPEAKER_02]: You should do an intelligence check.
-[out-of-band] [SPEAKER_02]: Thirteen plus four, seventeen.
-[SPEAKER_00]: Fairland is a, you know, he's kind of from the old school of things, the pirating school of things.
-[SPEAKER_00]: These people are all about secret
-[SPEAKER_00]: Treasures.
-[SPEAKER_00]: And hidden locations.
-[SPEAKER_00]: Hidden locations.
-[SPEAKER_00]: And smuggling and stuff like that.
-[SPEAKER_00]: Treasure map bullshit.
-[SPEAKER_00]: It's probably, probably, if Fairwind is gonna be to character, he will probably have several locations.
-[SPEAKER_01]: So he wouldn't have it all in one stash.
-[SPEAKER_01]: He would have divided it up.
-[SPEAKER_01]: Don't put all your eggs in one basket.
-[SPEAKER_00]: He probably will have a place which is very well defended and very dangerous to do, to be kind of the distraction, and then other places that are just super secret.
-[SPEAKER_00]: Exactly.
-[SPEAKER_00]: So one obvious place, which is, we'll have something.
-[SPEAKER_00]: But he'll have hidden things everywhere else.
-[SPEAKER_00]: Because, I mean, the thing about the islands, the outer islands, historically these people have all kinds of secret stashes and places, each lore
-[SPEAKER_01]: I haven't seen a map, but are there just massive little islands?
-[SPEAKER_01]: It would be unrealistic to try to search small islands but within the range of a day's float from his holdings.
-[SPEAKER_01]: Is there just too many of them?
-[SPEAKER_00]: I wouldn't say islands specifically, but his island
-[SPEAKER_00]: You know, the Outer Islands are big.
-[SPEAKER_00]: We're talking hundreds of square miles.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: But also, it'd be like maybe the Bahamas.
-[SPEAKER_01]: You've got Nassau, and then you've got all these little ones that are just spread out.
-[SPEAKER_00]: It's kind of like that, but not incredibly like that.
-[SPEAKER_00]: I think what I'm trying to say is Fairwind is not going to just put all this thing in one strong box.
-[SPEAKER_00]: Right.
-[SPEAKER_00]: He'll have caches all over the place.
-[SPEAKER_00]: Okay.
-[SPEAKER_00]: Right?
-[SPEAKER_00]: Okay.
-[SPEAKER_01]: Do you know you're part of Prince Gianna's family?
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: So therefore, your knowledge maybe is more limited just because of your youth to Prince Jian and the family's kind of comings and goings, right?
-[SPEAKER_01]: Like, it would be unrealistic of you to know much about the Toli or Lord Fairwind, like the specific kind of like, you know, characteristics or nature of their adventures or travels.
-[SPEAKER_01]: Yeah, I mean...
-[SPEAKER_01]: It's something to think about.
-[SPEAKER_01]: I don't need you to actually come up with anything, like any definitive information right now.
-[SPEAKER_01]: And I'm not asking for anything definitive.
-[SPEAKER_01]: I'm just asking for like...
-[SPEAKER_02]: I probably know more than the average person would know about it.
-[SPEAKER_01]: So for instance, if I were to just give you something to kind of consider, my experience with the Scarlet Brotherhood
-[SPEAKER_01]: And then to know or to suspect that there's a strong potential association between the Toli and the Scarlet Brotherhood brings in certain significance in how I view the Toli.
-[SPEAKER_01]: Yeah, I don't know that.
-[SPEAKER_01]: Right.
-[SPEAKER_01]: No, no.
-[SPEAKER_01]: But I'm just saying, it's just something similar.
-[SPEAKER_02]: I'm still kind of into these Toli that I don't really know.
-[SPEAKER_01]: Well, no, it's okay.
-[SPEAKER_01]: It's okay.
-[SPEAKER_01]: And I just want you to, like, think about it.
-[SPEAKER_01]: These would be discussions that are, like, you know, maybe when you were younger and you were grown up and they were talked about over dinners.
-[SPEAKER_01]: About, like, you know, because if we're gonna try to hone in on Fairwin and where he might actually have stashed things, we need to know of, like, you know, incursions that he did or, you know, acts of, like, you know, like, he's sailed into...
-[SPEAKER_02]: So, to be honest, we could probably just go to the library and look at data logs for that.
-[SPEAKER_02]: And find...
-[SPEAKER_01]: I will definitely be checking the library.
-[SPEAKER_02]: I will, but... You'd have to go with me if you want to get access.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: Appreciate that.
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: Another thing is, I mean, what do you think of... Was it pretty successful at the home?
-[SPEAKER_01]: No.
-[SPEAKER_01]: Our operation at the home?
-[SPEAKER_02]: I feel like I haven't talked with James.
-[SPEAKER_02]: I just talked with Gion for a little bit.
-[SPEAKER_01]: Okay, but you have checked in with Gion.
-[SPEAKER_02]: Did he ask you a lot about Lord Farrowin?
-[SPEAKER_02]: Yeah, he just wanted to know just basically what happened.
-[SPEAKER_01]: How did he respond?
-[SPEAKER_01]: When you told him about Lord Farrowin's treachery?
-[SPEAKER_02]: He was upset.
-[SPEAKER_02]: I mean...
-[SPEAKER_02]: He didn't want to go to war with him.
-[SPEAKER_02]: He believed you.
-[SPEAKER_02]: Yes, he believed me.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: So you didn't have to try to convince him?
-[SPEAKER_01]: Like he wasn't making excuses for Lord Farrowing?
-[SPEAKER_02]: No, not really.
-[SPEAKER_02]: I mean, he didn't want to go to war with him, but he did want to find him and punish him.
-[SPEAKER_01]: Kick his ass.
-[SPEAKER_02]: Yeah.
-[SPEAKER_02]: Yeah.
-[SPEAKER_02]: He wants me and you to find him.
-[SPEAKER_02]: Actually, take him into custody and bring him back home?
-[SPEAKER_02]: Okay, so he wants us to, first off, he wants us to find and recreate the barrels and the powder.
-[SPEAKER_02]: Find where Ferwin took those.
-[SPEAKER_02]: Janison said something similar to me.
-[SPEAKER_02]: Yeah, find those barrels, bring them back.
-[SPEAKER_02]: Get Ferwin, if possible.
-[SPEAKER_02]: He wanted you to teach me how to become a wizard too.
-[SPEAKER_01]: Prince Jan said that?
-[SPEAKER_02]: Yes.
-[SPEAKER_02]: How do you feel about that?
-[SPEAKER_02]: I feel fine about him.
-[SPEAKER_01]: Is it something that you would like to do?
-[SPEAKER_02]: Yeah.
-[SPEAKER_01]: Okay.
-[SPEAKER_02]: Alright.
-[SPEAKER_02]: It also benefits the family as well, too, because we're not really spell casters.
-[SPEAKER_02]: So a spell caster in the family would get huge.
-[SPEAKER_01]: So he's trying to rectify a weakness that he sees in the family.
-[SPEAKER_01]: Yes.
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: And your homunculate, you made that yourself?
-[SPEAKER_01]: Yep.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: I'm a pretty intelligent guy, I think.
-[SPEAKER_02]: Sure.
-[SPEAKER_02]: Actually, what is your intelligence stat?
-[SPEAKER_02]: I don't know what my stat is.
-[SPEAKER_02]: We're equal.
-[SPEAKER_02]: I doubt that.
-[SPEAKER_02]: Whatever, buddy.
-[SPEAKER_02]: I don't see you making homoculi with your sperm.
-[SPEAKER_02]: Okay, I didn't even know about that.
-[SPEAKER_02]: You already knew about it.
-[SPEAKER_02]: You were making fun of me the whole time with a damn island, bro.
-[SPEAKER_02]: I told you, it was with the blood of the thing.
-[SPEAKER_02]: That's not 18.
-[SPEAKER_02]: I can't see, your thumb's in the way.
-[SPEAKER_02]: Okay, whatever.
-[SPEAKER_02]: Give me a couple levels or two and I'll fix that.
-[SPEAKER_01]: No, it sounds like you have a propensity for magic, which is a great place to start.
-[SPEAKER_01]: And you're curious, which I think is even better.
-[SPEAKER_01]: So he wants us to find Farrowin, recreate the powder... Recreate the powder first.
-[SPEAKER_01]: We need to find the powder and...
-[SPEAKER_01]: So we need to rectify that.
-[SPEAKER_01]: In your sense, that's his top priority?
-[SPEAKER_02]: We have maybe... Fifty days, that's what it is.
-[SPEAKER_02]: Three months is what I heard, yeah.
-[SPEAKER_01]: Oh, maybe with the extra, if there's extra barrels.
-[SPEAKER_02]: Okay.
-[SPEAKER_02]: Well, that's if we go and get those 25 barrels, if they're still there.
-[SPEAKER_01]: Well, those will hopefully be secured.
-[SPEAKER_01]: Do we need to go back to the helm at all to help defeat the hobgoblins?
-[SPEAKER_02]: I didn't hear nothing was really said about going back, was it?
-[SPEAKER_02]: Okay.
-[SPEAKER_00]: He asked if it was safe to go back, which implies that if it was safe, he was going back.
-[SPEAKER_02]: Okay.
-[SPEAKER_02]: So if it's safe to go back, then he wants us to go back.
-[SPEAKER_01]: To the helm?
-[SPEAKER_02]: Yeah, to get those 25 barrels.
-[SPEAKER_01]: Okay, well, it may or it may not be.
-[SPEAKER_01]: The helm itself is a citadel if the troops aren't using the secret access to the- We just take another ship full of- No, I'm just wondering if we need to help any of the troops from Monmurg defeat the hobgoblins.
-[SPEAKER_01]: I'm fine if we do.
-[SPEAKER_01]: That was actually kind of- Yeah, if it's-
-[SPEAKER_01]: If we can get there, then yeah.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: I'm just wondering if I need to stay here and if I need to show you how to do some research or alchemical research.
-[SPEAKER_00]: So I'll say this.
-[SPEAKER_00]: Neither of you have been summoned to help in the relief of Baal.
-[SPEAKER_02]: Okay, okay.
-[SPEAKER_00]: So I think that Geon has that in the end.
-[SPEAKER_00]: Has it covered.
-[SPEAKER_00]: Okay.
-[SPEAKER_00]: All right.
-[SPEAKER_01]: All right.
-[SPEAKER_01]: I'm curious if you have anything to add.
-[SPEAKER_01]: Do you remember, you might not have seen me, do you remember when I was cutting the gills out of that swahagin, the dead swahagin?
-[SPEAKER_01]: I originally was thinking that I could maybe use those to make, perhaps, a water-breathing potion.
-[SPEAKER_01]: However, I realized on our sailing back to Monmurg that that sahuagin was dead because of the chemicals that we put in the water.
-[SPEAKER_01]: Right.
-[SPEAKER_01]: So...
-[SPEAKER_01]: It's almost like an acid.
-[SPEAKER_01]: So what we need to do, or what we can do, is we can find out at least, obviously we saw with our own eyes, the potency.
-[SPEAKER_01]: It killed the 40 foot shark and it killed about 8 or 10 sahagin right there in that coat.
-[SPEAKER_01]: So the potency doesn't seem to be in question.
-[SPEAKER_02]: So, okay, well one barrel covers the entire stretch of Monmurg.
-[SPEAKER_01]: Right, but what I was asked by Lord Jameis is to determine if there was a counter-agent that was maybe used.
-[SPEAKER_01]: So what I'm saying is that we can take those gills.
-[SPEAKER_01]: We can inspect them.
-[SPEAKER_01]: It will give us also an idea about any of the action that the powder has on those gills, right?
-[SPEAKER_01]: We can kind of see did it cause them to swell up, did it cause them to like, you know, congeal or whatever.
-[SPEAKER_01]: But we can also, there might be traces left over in the gills if there was a counter-agent that was maybe used to repel
-[SPEAKER_01]: A previous application because remember they said those applications need to be used every two days around the helm.
-[SPEAKER_01]: So also we'll start with that.
-[SPEAKER_01]: Do you know the Alchemist shop kind of just off the square in the foreign district?
-[SPEAKER_01]: Sure I do.
-[SPEAKER_01]: No, you don't.
-[SPEAKER_01]: So there's a good Alchemist and I've been actually trying to
-[SPEAKER_01]: Just get to know him.
-[SPEAKER_01]: And this would be another good reason to go to his store.
-[SPEAKER_01]: We could actually make some purchases of some materials.
-[SPEAKER_01]: We could also ask him if he had any knowledge of potential reagents that we could use to try to discern if there's other chemicals present in the gills.
-[SPEAKER_01]: Because if there's something to counteract it that's residual left over in the gills, even though it died from the correctness.
-[SPEAKER_01]: Sure, but why would we make that, though?
-[SPEAKER_01]: Make what?
-[SPEAKER_02]: Something that can counter that.
-[SPEAKER_01]: No, no, not us.
-[SPEAKER_01]: Not us.
-[SPEAKER_01]: What at least Lord Jameis was worried about was that he said that the helm had been seeded with that dust, the yellow powder, prior to that storm, and it lasts for two days.
-[SPEAKER_01]: So it should theoretically have repelled the sahuagin.
-[SPEAKER_01]: So it could have been fake.
-[SPEAKER_01]: It could have been a barrel of sand instead of, you know, yellow sand instead of powder.
-[SPEAKER_02]: That doesn't stop the hobgoblins, though.
-[SPEAKER_01]: No, no.
-[SPEAKER_01]: The hobgoblins came externally, and I don't even think Lord Farrowin brought them.
-[SPEAKER_01]: I think the Tolis and the Ghost probably brought them in.
-[SPEAKER_01]: That would be my suspicion, is that those guys were brought in on the Ghost under that fog.
-[SPEAKER_02]: But Farrowin was working with the Toli.
-[SPEAKER_01]: No, I don't disagree, but I think Farrowin was working for himself.
-[SPEAKER_01]: I don't think he's working for the Toli.
-[SPEAKER_01]: No, I agree.
-[SPEAKER_00]: I think he saw an opportunity.
-[SPEAKER_00]: He's working with the Toli.
-[SPEAKER_01]: Yeah, but even with, I would say, you told me that the Toli said he had taken most, which means he's working for himself.
-[SPEAKER_01]: The Toli...
-[SPEAKER_01]: So then what is the Toli benefit?
-[SPEAKER_01]: No, no, so it's not...
-[SPEAKER_01]: The Toli were able to take some barrels, and that was like the final depletion.
-[SPEAKER_01]: Jameis mentioned... Actually, was this part of what I wasn't supposed to say?
-[SPEAKER_01]: I can't remember.
-[SPEAKER_01]: You're gonna have to refresh me on what he didn't want me to tell anybody.
-[SPEAKER_01]: Remember how Lord Jameis had said, don't tell anybody?
-[SPEAKER_00]: That's not anything of it.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: But before I leave, refresh me, or if I get close, just say stop.
-[SPEAKER_01]: Because he could blame the Toli.
-[SPEAKER_01]: That was Lord Jameis' suspicion.
-[SPEAKER_01]: So when you overheard, right?
-[SPEAKER_01]: But he could blame the Toli, which means he's still primarily working for himself.
-[SPEAKER_01]: Yes, under the cover or kind of with Toli, but he just wants to acquire more power is my suspicion.
-[SPEAKER_01]: Yeah.
-[SPEAKER_00]: Right.
-[SPEAKER_00]: So to get back to the point that Steve was trying to make initially, because I think this point is important, Jameis wants to know why, after the strait of Monmurg had been seeded with the yellow powder, was the Seaghost able to come in and have the sahuagin do its thing?
-[SPEAKER_00]: Was it because, one, Lord Fairwind seeded it with fake stuff?
-[SPEAKER_00]: Two, was it the agent that actually counteracted this stuff?
-[SPEAKER_00]: Or three, the sahuagin, for whatever reason, were able to defeat it themselves?
-[SPEAKER_01]: Why was it that the sahuagin... Well, because the sahuagin died in the code.
-[SPEAKER_02]: The only thing that I question is, before we left, it was said that the last day or two that the
-[SPEAKER_02]: Light readings from the helm that we were receiving weren't really accurate, like their codes and such.
-[SPEAKER_02]: This powder only works for a day or two.
-[SPEAKER_02]: So did the sahuagin just weigh that out?
-[SPEAKER_01]: That's what I was thinking, the hobgoblins came and took it over.
-[SPEAKER_01]: The hobgoblins came, but they came under that unnatural fog.
-[SPEAKER_01]: So they came under cover and they seized the citadel.
-[SPEAKER_01]: By seizing the citadel they were able to take the powder production.
-[SPEAKER_01]: No, but also take the signal.
-[SPEAKER_01]: So that's where the signals didn't match.
-[SPEAKER_01]: Now interestingly enough,
-[SPEAKER_01]: If Lord Fairwind had actually been working so closely with Atoli, he knows the appropriate counter-signal.
-[out-of-band] [SPEAKER_00]: Do an end check.
-[out-of-band] [SPEAKER_02]: 13, 17.
-[out-of-band] [SPEAKER_02]: Me too.
+[SPEAKER_00A]: Sometime after the third of Wealsun, Jude and Paul Rivero have a chance to connect and talk regarding what happened at Helm Island and discuss what they've learned upon their return.
+[SPEAKER_01A]: I'm not sure if we should have killed Lord Fairwin, but perhaps not.
+[SPEAKER_01A]: I don't know if Prince Gian and Fairwin can iron things out.
+[SPEAKER_01A]: But did you want him dead?
+[SPEAKER_02A]: I wanted him in custody.
+[SPEAKER_01A]: Okay, so when we lost him, because I wasn't sure if you wanted him dead, because I felt like... No, I wouldn't know what to do with him.
+[SPEAKER_02A]: No, other than to arrest him.
+[SPEAKER_02A]: I mean, he's a traitor in treason.
+[SPEAKER_01A]: We didn't have time when we were moving through the castle and then sailing back.
+[SPEAKER_01A]: I know you said, we've got him, and we got him dead to rights.
+[SPEAKER_01A]: What did you hear him say?
+[SPEAKER_01A]: I've never actually...
+[SPEAKER_02A]: I've already told you.
+[out-of-band] [SPEAKER_01]: No, not in the game.
+[SPEAKER_02A]: I said he was...
+[SPEAKER_02A]: He was talking with Toli.
+[SPEAKER_01A]: He said he was plotting, but like, I mean, what did you hear?
+[SPEAKER_02A]: He was saying, um...
+[SPEAKER_02A]: He was talking to them about getting rid of, or like, selling the, um...
+[SPEAKER_02A]: But Toli was like, well, we noticed that you took most of it anyways.
+[SPEAKER_02A]: Okay.
+[SPEAKER_02A]: Of the powder.
+[SPEAKER_01A]: Yeah.
+[SPEAKER_01A]: Okay, and he had kind of said as much as we were taking him down once we had him tied up.
+[SPEAKER_02A]: Yeah, and then he was talking about like... What was he talking about when he was in a fight with...
+[SPEAKER_02A]: He was talking to Gouge about something.
+[SPEAKER_01A]: Well, I mean, he was talking to me, and I don't know that he even talked that much to me.
+[SPEAKER_02A]: Yeah, but as you guys were fighting, I thought.
+[SPEAKER_01A]: You mean the Toli?
+[SPEAKER_01A]: Gouge had punched one of the Toli.
+[SPEAKER_02A]: No, not the Toli.
+[SPEAKER_02A]: I'm talking about when we were going down the stairs.
+[SPEAKER_02A]: In the cave.
+[SPEAKER_02A]: I had fallen in, but then you were lifting me back up.
+[SPEAKER_02A]: Him and Gouge were talking about something.
+[SPEAKER_01A]: No, no.
+[SPEAKER_01A]: Gouge had moved forward and... Well, somebody, somebody.
+[SPEAKER_01A]: Maybe... No, no.
+[SPEAKER_01A]: The whole...
+[SPEAKER_01A]: In fact, the whole problem was that...
+[SPEAKER_00A]: Directly after you went into the water, he attacked Gouge, and Gouge threw him off the ledge.
+[SPEAKER_02A]: Okay.
+[SPEAKER_00A]: So if there was something said... Something was said, I'm pretty sure.
+[SPEAKER_00A]: But we weren't... Actually, what happened was Folsom was...
+[SPEAKER_00A]: Actually, Fairwind was whispering to Folsom the Bard.
+[SPEAKER_00A]: That's what was happening.
+[SPEAKER_01A]: And I wasn't privy to that, right.
+[SPEAKER_01A]: And then you got kicked off of the...
+[SPEAKER_01A]: Right, when you went down.
+[SPEAKER_01A]: So, do you know...
+[SPEAKER_01A]: I've never been to Fairwind's holdings, you know, with the Sea Principals.
+[SPEAKER_01A]: I've never been to his island or his holdings.
+[SPEAKER_01A]: Have you?
+[SPEAKER_02A]: Have I?
+[SPEAKER_00A]: You've been to the main one, yeah, and the main port of Fairwood Island, and actually you've had a feast there before, but you have not toured his island.
+[SPEAKER_02A]: I've seen everything.
+[SPEAKER_02A]: I haven't been super in detail, but I've been there before and seen the main stuff.
+[SPEAKER_01A]: So if we have to go find where he stashed it, you would have zero clue.
+[SPEAKER_01A]: Let me ask you this.
+[SPEAKER_01A]: Is Lord Fairwin the kind of man that would keep something, like keep things close to him, physically close?
+[SPEAKER_01A]: Or would he stash these things like on a different island completely or far away?
+[SPEAKER_02A]: That's a great question.
+[SPEAKER_01A]: He strikes me as a kind of man...
+[game mechanics] [SPEAKER_02A]: I think you ought to do an int check.
+[game mechanics] [SPEAKER_02A]: You should do an intelligence check.
+[game mechanics] [SPEAKER_02A]: Thirteen plus four, seventeen.
+[SPEAKER_00A]: Fairland is a, you know, he's kind of from the old school of things, the pirating school of things.
+[SPEAKER_00A]: These people are all about secret
+[SPEAKER_00A]: Treasures.
+[SPEAKER_00A]: And hidden locations.
+[SPEAKER_00A]: Hidden locations.
+[SPEAKER_00A]: And smuggling and stuff like that.
+[SPEAKER_00A]: Treasure map bullshit.
+[SPEAKER_02A]: It's probably, probably, if Fairwind is gonna be to character, he will probably have several locations.
+[SPEAKER_01A]: So he wouldn't have it all in one stash.
+[SPEAKER_02A]: He would have divided it up.
+[SPEAKER_02A]: Don't put all your eggs in one basket.
+[SPEAKER_02A]: He probably will have a place which is very well defended and very dangerous to do, to be kind of the distraction, and then other places that are just super secret.
+[SPEAKER_00A]: Exactly.
+[SPEAKER_00A]: So one obvious place, which is, we'll have something.
+[SPEAKER_00A]: But he'll have hidden things everywhere else.
+[SPEAKER_00A]: Because, I mean, the thing about the islands, the outer islands, historically these people have all kinds of secret stashes and places, each lore
+[SPEAKER_01A]: I haven't seen a map, but are there just massive little islands?
+[SPEAKER_01A]: It would be unrealistic to try to search small islands but within the range of a day's float from his holdings.
+[SPEAKER_01A]: Is there just too many of them?
+[SPEAKER_00A]: I wouldn't say islands specifically, but his island
+[SPEAKER_00A]: You know, the Outer Islands are big.
+[SPEAKER_00A]: We're talking hundreds of square miles.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: But also, it'd be like maybe the Bahamas.
+[SPEAKER_01A]: You've got Nassau, and then you've got all these little ones that are just spread out.
+[SPEAKER_00A]: It's kind of like that, but not incredibly like that.
+[SPEAKER_00A]: I think what I'm trying to say is Fairwind is not going to just put all this thing in one strong box.
+[SPEAKER_01A]: Right.
+[SPEAKER_00A]: He'll have caches all over the place.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Right?
+[SPEAKER_00A]: Okay.
+[SPEAKER_01A]: Do you know you're part of Prince Gianna's family?
+[SPEAKER_02A]: Yeah.
+[SPEAKER_01A]: So therefore, your knowledge maybe is more limited just because of your youth to Prince Jian and the family's kind of comings and goings, right?
+[SPEAKER_01A]: Like, it would be unrealistic of you to know much about the Toli or Lord Fairwind, like the specific kind of like, you know, characteristics or nature of their adventures or travels.
+[SPEAKER_02A]: Yeah, I mean...
+[SPEAKER_01A]: It's something to think about.
+[SPEAKER_01A]: I don't need you to actually come up with anything, like any definitive information right now.
+[SPEAKER_01A]: And I'm not asking for anything definitive.
+[SPEAKER_01A]: I'm just asking for like...
+[SPEAKER_02A]: I probably know more than the average person would know about it.
+[SPEAKER_01A]: So for instance, if I were to just give you something to kind of consider, my experience with the Scarlet Brotherhood
+[SPEAKER_01A]: And then to know or to suspect that there's a strong potential association between the Toli and the Scarlet Brotherhood brings in certain significance in how I view the Toli.
+[SPEAKER_02A]: Yeah, I don't know that.
+[SPEAKER_01A]: Right.
+[SPEAKER_01A]: No, no.
+[SPEAKER_01A]: But I'm just saying, it's just something similar.
+[SPEAKER_02A]: I'm still kind of into these Toli that I don't really know.
+[SPEAKER_01A]: Well, no, it's okay.
+[SPEAKER_01A]: It's okay.
+[SPEAKER_01A]: And I just want you to, like, think about it.
+[SPEAKER_01A]: These would be discussions that are, like, you know, maybe when you were younger and you were grown up and they were talked about over dinners.
+[SPEAKER_01A]: About, like, you know, because if we're gonna try to hone in on Fairwin and where he might actually have stashed things, we need to know of, like, you know, incursions that he did or, you know, acts of, like, you know, like, he's sailed into...
+[SPEAKER_02A]: So, to be honest, we could probably just go to the library and look at data logs for that.
+[SPEAKER_02A]: And find...
+[SPEAKER_01A]: I will definitely be checking the library.
+[SPEAKER_02A]: I will, but... You'd have to go with me if you want to get access.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: Appreciate that.
+[SPEAKER_01A]: Yeah.
+[SPEAKER_01A]: Another thing is, I mean, what do you think of... Was it pretty successful at the home?
+[SPEAKER_01A]: No.
+[SPEAKER_01A]: Our operation at the home?
+[SPEAKER_02A]: I feel like I haven't talked with James.
+[SPEAKER_02A]: I just talked with Gion for a little bit.
+[SPEAKER_01A]: Okay, but you have checked in with Gion.
+[SPEAKER_01A]: Did he ask you a lot about Lord Farrowin?
+[SPEAKER_02A]: Yeah, he just wanted to know just basically what happened.
+[SPEAKER_01A]: How did he respond?
+[SPEAKER_01A]: When you told him about Lord Farrowin's treachery?
+[SPEAKER_02A]: He was upset.
+[SPEAKER_02A]: I mean...
+[SPEAKER_02A]: He didn't want to go to war with him.
+[SPEAKER_01A]: He believed you.
+[SPEAKER_02A]: Yes, he believed me.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: So you didn't have to try to convince him?
+[SPEAKER_01A]: Like he wasn't making excuses for Lord Farrowing?
+[SPEAKER_02A]: No, not really.
+[SPEAKER_02A]: I mean, he didn't want to go to war with him, but he did want to find him and punish him.
+[SPEAKER_01A]: Kick his ass.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_02A]: He wants me and you to find him.
+[SPEAKER_02A]: Actually, take him into custody and bring him back home?
+[SPEAKER_02A]: Okay, so he wants us to, first off, he wants us to find and recreate the barrels and the powder.
+[SPEAKER_02A]: Find where Ferwin took those.
+[SPEAKER_01A]: Janison said something similar to me.
+[SPEAKER_02A]: Yeah, find those barrels, bring them back.
+[SPEAKER_02A]: Get Ferwin, if possible.
+[SPEAKER_02A]: He wanted you to teach me how to become a wizard too.
+[SPEAKER_01A]: Prince Jan said that?
+[SPEAKER_02A]: Yes.
+[SPEAKER_01A]: How do you feel about that?
+[SPEAKER_02A]: I feel fine about him.
+[SPEAKER_01A]: Is it something that you would like to do?
+[SPEAKER_02A]: Yeah.
+[SPEAKER_01A]: Okay.
+[SPEAKER_02A]: Alright.
+[SPEAKER_02A]: It also benefits the family as well, too, because we're not really spell casters.
+[SPEAKER_02A]: So a spell caster in the family would get huge.
+[SPEAKER_01A]: So he's trying to rectify a weakness that he sees in the family.
+[SPEAKER_02A]: Yes.
+[SPEAKER_01A]: Yeah.
+[SPEAKER_01A]: And your homunculate, you made that yourself?
+[SPEAKER_02A]: Yep.
+[SPEAKER_01A]: Okay.
+[SPEAKER_02A]: I'm a pretty intelligent guy, I think.
+[SPEAKER_01A]: Sure.
+[game mechanics] [SPEAKER_02A]: Actually, what is your intelligence stat?
+[game mechanics] [SPEAKER_02A]: I don't know what my stat is.
+[SPEAKER_02A]: We're equal.
+[SPEAKER_01A]: I doubt that.
+[SPEAKER_02A]: Whatever, buddy.
+[SPEAKER_02A]: I don't see you making homoculi with your sperm.
+[SPEAKER_01A]: Okay, I didn't even know about that.
+[SPEAKER_02A]: You already knew about it.
+[SPEAKER_02A]: You were making fun of me the whole time with a damn island, bro.
+[SPEAKER_02A]: I told you, it was with the blood of the thing.
+[out-of-band] [SPEAKER_02]: That's not 18.
+[out-of-band] [SPEAKER_02]: I can't see, your thumb's in the way.
+[SPEAKER_02A]: Okay, whatever.
+[SPEAKER_02A]: Give me a couple levels or two and I'll fix that.
+[SPEAKER_01A]: No, it sounds like you have a propensity for magic, which is a great place to start.
+[SPEAKER_01A]: And you're curious, which I think is even better.
+[SPEAKER_01A]: So he wants us to find Farrowin, recreate the powder... Recreate the powder first.
+[SPEAKER_01A]: We need to find the powder and...
+[SPEAKER_01A]: So we need to rectify that.
+[SPEAKER_01A]: In your sense, that's his top priority?
+[SPEAKER_02A]: We have maybe... Fifty days, that's what it is.
+[SPEAKER_02A]: Three months is what I heard, yeah.
+[SPEAKER_01A]: Oh, maybe with the extra, if there's extra barrels.
+[SPEAKER_02A]: Okay.
+[SPEAKER_02A]: Well, that's if we go and get those 25 barrels, if they're still there.
+[SPEAKER_01A]: Well, those will hopefully be secured.
+[SPEAKER_01A]: Do we need to go back to the helm at all to help defeat the hobgoblins?
+[SPEAKER_02A]: I didn't hear nothing was really said about going back, was it?
+[SPEAKER_02A]: Okay.
+[SPEAKER_00A]: He asked if it was safe to go back, which implies that if it was safe, he was going back.
+[SPEAKER_02A]: Okay.
+[SPEAKER_02A]: So if it's safe to go back, then he wants us to go back.
+[SPEAKER_01A]: To the helm?
+[SPEAKER_02A]: Yeah, to get those 25 barrels.
+[SPEAKER_01A]: Okay, well, it may or it may not be.
+[SPEAKER_01A]: The helm itself is a citadel if the troops aren't using the secret access to the- We just take another ship full of- No, I'm just wondering if we need to help any of the troops from Monmurg defeat the hobgoblins.
+[SPEAKER_01A]: I'm fine if we do.
+[SPEAKER_01A]: That was actually kind of- Yeah, if it's-
+[SPEAKER_01A]: If we can get there, then yeah.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: I'm just wondering if I need to stay here and if I need to show you how to do some research or alchemical research.
+[SPEAKER_00A]: So I'll say this.
+[SPEAKER_00A]: Neither of you have been summoned to help in the relief of Baal.
+[SPEAKER_02A]: Okay, okay.
+[SPEAKER_00A]: So I think that Geon has that in the end.
+[SPEAKER_00A]: Has it covered.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: All right.
+[SPEAKER_01A]: All right.
+[SPEAKER_01A]: I'm curious if you have anything to add.
+[SPEAKER_01A]: Do you remember, you might not have seen me, do you remember when I was cutting the gills out of that swahagin, the dead swahagin?
+[SPEAKER_01A]: I originally was thinking that I could maybe use those to make, perhaps, a water-breathing potion.
+[SPEAKER_01A]: However, I realized on our sailing back to Monmurg that that sahuagin was dead because of the chemicals that we put in the water.
+[SPEAKER_02A]: Right.
+[SPEAKER_01A]: So...
+[SPEAKER_01A]: It's almost like an acid.
+[SPEAKER_01A]: So what we need to do, or what we can do, is we can find out at least, obviously we saw with our own eyes, the potency.
+[SPEAKER_01A]: It killed the 40 foot shark and it killed about 8 or 10 sahagin right there in that coat.
+[SPEAKER_01A]: So the potency doesn't seem to be in question.
+[SPEAKER_02A]: So, okay, well one barrel covers the entire stretch of Monmurg.
+[SPEAKER_01A]: Right, but what I was asked by Lord Jameis is to determine if there was a counter-agent that was maybe used.
+[SPEAKER_01A]: So what I'm saying is that we can take those gills.
+[SPEAKER_01A]: We can inspect them.
+[SPEAKER_01A]: It will give us also an idea about any of the action that the powder has on those gills, right?
+[SPEAKER_01A]: We can kind of see did it cause them to swell up, did it cause them to like, you know, congeal or whatever.
+[SPEAKER_01A]: But we can also, there might be traces left over in the gills if there was a counter-agent that was maybe used to repel
+[SPEAKER_01A]: A previous application because remember they said those applications need to be used every two days around the helm.
+[SPEAKER_01A]: So also we'll start with that.
+[SPEAKER_01A]: Do you know the Alchemist shop kind of just off the square in the foreign district?
+[SPEAKER_02A]: Sure I do.
+[SPEAKER_01A]: No, you don't.
+[SPEAKER_01A]: So there's a good Alchemist and I've been actually trying to
+[SPEAKER_01A]: Just get to know him.
+[SPEAKER_01A]: And this would be another good reason to go to his store.
+[SPEAKER_01A]: We could actually make some purchases of some materials.
+[SPEAKER_01A]: We could also ask him if he had any knowledge of potential reagents that we could use to try to discern if there's other chemicals present in the gills.
+[SPEAKER_01A]: Because if there's something to counteract it that's residual left over in the gills, even though it died from the correctness.
+[SPEAKER_02A]: Sure, but why would we make that, though?
+[SPEAKER_01A]: Make what?
+[SPEAKER_02A]: Something that can counter that.
+[SPEAKER_01A]: No, no, not us.
+[SPEAKER_01A]: Not us.
+[SPEAKER_01A]: What at least Lord Jameis was worried about was that he said that the helm had been seeded with that dust, the yellow powder, prior to that storm, and it lasts for two days.
+[SPEAKER_01A]: So it should theoretically have repelled the sahuagin.
+[SPEAKER_02A]: So it could have been fake.
+[SPEAKER_01A]: It could have been a barrel of sand instead of, you know, yellow sand instead of powder.
+[SPEAKER_02A]: That doesn't stop the hobgoblins, though.
+[SPEAKER_01A]: No, no.
+[SPEAKER_01A]: The hobgoblins came externally, and I don't even think Lord Farrowin brought them.
+[SPEAKER_01A]: I think the Tolis and the Ghost probably brought them in.
+[SPEAKER_01A]: That would be my suspicion, is that those guys were brought in on the Ghost under that fog.
+[SPEAKER_02A]: But Farrowin was working with the Toli.
+[SPEAKER_01A]: No, I don't disagree, but I think Farrowin was working for himself.
+[SPEAKER_01A]: I don't think he's working for the Toli.
+[SPEAKER_02A]: No, I agree.
+[SPEAKER_00A]: I think he saw an opportunity.
+[SPEAKER_00A]: He's working with the Toli.
+[SPEAKER_01A]: Yeah, but even with, I would say, you told me that the Toli said he had taken most, which means he's working for himself.
+[SPEAKER_01A]: The Toli...
+[SPEAKER_02A]: So then what is the Toli benefit?
+[SPEAKER_01A]: No, no, so it's not...
+[SPEAKER_01A]: The Toli were able to take some barrels, and that was like the final depletion.
+[SPEAKER_01A]: Jameis mentioned... Actually, was this part of what I wasn't supposed to say?
+[SPEAKER_01A]: I can't remember.
+[SPEAKER_01A]: You're gonna have to refresh me on what he didn't want me to tell anybody.
+[SPEAKER_01A]: Remember how Lord Jameis had said, don't tell anybody?
+[SPEAKER_00A]: That's not anything of it.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: But before I leave, refresh me, or if I get close, just say stop.
+[SPEAKER_01A]: Because he could blame the Toli.
+[SPEAKER_01A]: That was Lord Jameis' suspicion.
+[SPEAKER_01A]: So when you overheard, right?
+[SPEAKER_02A]: But he could blame the Toli, which means he's still primarily working for himself.
+[SPEAKER_01A]: Yes, under the cover or kind of with Toli, but he just wants to acquire more power is my suspicion.
+[SPEAKER_01A]: Yeah.
+[SPEAKER_00A]: Right.
+[SPEAKER_00A]: So to get back to the point that Steve was trying to make initially, because I think this point is important, Jameis wants to know why, after the strait of Monmurg had been seeded with the yellow powder, was the Seaghost able to come in and have the sahuagin do its thing?
+[SPEAKER_00A]: Was it because, one, Lord Fairwind seeded it with fake stuff?
+[SPEAKER_00A]: Two, was it the agent that actually counteracted this stuff?
+[SPEAKER_00A]: Or three, the sahuagin, for whatever reason, were able to defeat it themselves?
+[SPEAKER_01A]: Why was it that the sahuagin... Well, because the sahuagin died in the code.
+[SPEAKER_02A]: The only thing that I question is, before we left, it was said that the last day or two that the
+[SPEAKER_02A]: Light readings from the helm that we were receiving weren't really accurate, like their codes and such.
+[SPEAKER_02A]: This powder only works for a day or two.
+[SPEAKER_02A]: So did the sahuagin just weigh that out?
+[SPEAKER_01A]: That's what I was thinking, the hobgoblins came and took it over.
+[SPEAKER_01A]: The hobgoblins came, but they came under that unnatural fog.
+[SPEAKER_01A]: So they came under cover and they seized the citadel.
+[SPEAKER_01A]: By seizing the citadel they were able to take the powder production.
+[SPEAKER_01A]: No, but also take the signal.
+[SPEAKER_01A]: So that's where the signals didn't match.
+[SPEAKER_01A]: Now interestingly enough,
+[SPEAKER_01A]: If Lord Fairwind had actually been working so closely with Atoli, he knows the appropriate counter-signal.
+[game mechanics] [SPEAKER_00A]: Do an end check.
+[game mechanics] [SPEAKER_02A]: 13, 17.
+[game mechanics] [SPEAKER_02A]: Me too.
 [out-of-band] [SPEAKER_00]: You too, yeah.
 [out-of-band] [SPEAKER_02]: Okay, I'm gonna watch a little TV.
 [out-of-band] [SPEAKER_01]: I hope you don't mind.
-[out-of-band] [SPEAKER_01]: 13 plus 5?
-[SPEAKER_00]: The two of you realize that.
-[SPEAKER_00]: Fairland was playing Toli and Gian off against each other.
-[SPEAKER_00]: He wanted Gian to thank the signals that he was sending.
-[SPEAKER_00]: Right.
-[SPEAKER_00]: At the same time, Toli probably thought that he was not sending suspect signals.
-[SPEAKER_00]: Exactly.
-[SPEAKER_00]: So this lends more to the fact... Fairland is basically saying, warning, warning.
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: Come out and investigate.
-[SPEAKER_00]: In an attempt to try and look like he was also innocent.
-[SPEAKER_00]: So, in a way, he's playing the Toli against Gian.
-[SPEAKER_00]: That's what I was saying.
-[SPEAKER_01]: Hey, so that's what I was saying.
-[SPEAKER_01]: He's actually out mostly for himself.
-[SPEAKER_01]: Yeah, I've kind of realized that.
-[SPEAKER_01]: And I'm not saying you don't realize it.
-[SPEAKER_01]: I'm just saying it's like, that would be proof.
-[SPEAKER_00]: In a way, it's like he's basically trying to say, respect me.
-[SPEAKER_01]: Lord Jameis had said that Lord Fairwin had kind of always been jealous of Lord Jeanne, or Prince Jeanne.
-[SPEAKER_01]: And so that's why I'm saying it's not so much, yes, I think there is obviously some working with the Toli, but I don't think that Lord Fairwin, and I kind of got the sense even when we took him prisoner, I don't think that Lord Fairwin is like 100%, like he's not in the Toli's pocket.
-[SPEAKER_01]: He's still working for himself.
-[SPEAKER_01]: Otherwise, we wouldn't have gotten that signal.
-[SPEAKER_01]: We wouldn't have gotten the wrong response code.
-[SPEAKER_01]: So, I kind of still think he's maybe willing to deal, because if what he wants is he wants respect, that's perceived by more power, maybe we just take a fun approach and don't try to sneak around his ass and actually, like, go talk to him.
-[SPEAKER_01]: I mean, we didn't kill him.
-[SPEAKER_01]: We only killed the two Tolis.
-[SPEAKER_01]: You killed the Toli.
-[SPEAKER_02]: You killed both, actually.
-[SPEAKER_02]: I did not.
-[SPEAKER_02]: I didn't go.
-[SPEAKER_01]: I think I got more Tolis to kill in my future.
-[SPEAKER_02]: I can see it.
+[game mechanics] [SPEAKER_01A]: 13 plus 5?
+[SPEAKER_00A]: The two of you realize that.
+[SPEAKER_00A]: Fairland was playing Toli and Gian off against each other.
+[SPEAKER_00A]: He wanted Gian to thank the signals that he was sending.
+[SPEAKER_00A]: Right.
+[SPEAKER_00A]: At the same time, Toli probably thought that he was not sending suspect signals.
+[SPEAKER_01A]: Exactly.
+[SPEAKER_00A]: So this lends more to the fact... Fairland is basically saying, warning, warning.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: Come out and investigate.
+[SPEAKER_00A]: In an attempt to try and look like he was also innocent.
+[SPEAKER_00A]: So, in a way, he's playing the Toli against Gian.
+[SPEAKER_02A]: That's what I was saying.
+[SPEAKER_01A]: Hey, so that's what I was saying.
+[SPEAKER_01A]: He's actually out mostly for himself.
+[SPEAKER_02A]: Yeah, I've kind of realized that.
+[SPEAKER_01A]: And I'm not saying you don't realize it.
+[SPEAKER_01A]: I'm just saying it's like, that would be proof.
+[SPEAKER_00A]: In a way, it's like he's basically trying to say, respect me.
+[SPEAKER_01A]: Lord Jameis had said that Lord Fairwin had kind of always been jealous of Lord Jeanne, or Prince Jeanne.
+[SPEAKER_01A]: And so that's why I'm saying it's not so much, yes, I think there is obviously some working with the Toli, but I don't think that Lord Fairwin, and I kind of got the sense even when we took him prisoner, I don't think that Lord Fairwin is like 100%, like he's not in the Toli's pocket.
+[SPEAKER_01A]: He's still working for himself.
+[SPEAKER_01A]: Otherwise, we wouldn't have gotten that signal.
+[SPEAKER_01A]: We wouldn't have gotten the wrong response code.
+[SPEAKER_01A]: So, I kind of still think he's maybe willing to deal, because if what he wants is he wants respect, that's perceived by more power, maybe we just take a fun approach and don't try to sneak around his ass and actually, like, go talk to him.
+[SPEAKER_01A]: I mean, we didn't kill him.
+[SPEAKER_01A]: We only killed the two Tolis.
+[SPEAKER_02A]: You killed the Toli.
+[SPEAKER_02A]: You killed both, actually.
+[SPEAKER_02A]: I did not.
+[SPEAKER_02A]: I didn't go.
+[SPEAKER_01A]: I think I got more Tolis to kill in my future.
+[SPEAKER_02A]: I can see it.
 [out-of-band] [SPEAKER_02]: I'm going to be like John Rick.
 [out-of-band] [SPEAKER_02]: Send them all.
 [out-of-band] [SPEAKER_02]: Send them all.
-[SPEAKER_01]: I'll kill every one of them.
-[SPEAKER_01]: Yeah, so I mean, just a thought.
-[SPEAKER_01]: I want to know what you think about that, about the idea that maybe we don't sneak around Fairway.
-[SPEAKER_02]: Maybe we just try to deal with Fairway.
-[SPEAKER_02]: We could propose it to Jameis and Geo.
-[SPEAKER_01]: When you talk to Jameis, why don't you throw that out?
-[SPEAKER_02]: You're not coming with me?
-[SPEAKER_01]: No, I've got some things to do.
-[SPEAKER_01]: I'm going to get started on the gills.
-[SPEAKER_01]: The gills are only...
-[SPEAKER_02]: I mean, they're already... Also, we need more...
-[SPEAKER_02]: Agents, just spies to start snooping around.
-[SPEAKER_01]: Can I give you a tip?
-[SPEAKER_01]: Yeah, sure.
-[SPEAKER_01]: I mean, do you like to receive feedback directly?
-[SPEAKER_01]: Yeah, kinda.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: The 20 guys whose lives that they kind of owe to you and I, that we took the helm with, if those 20 guys hadn't come with us, they would be dead on the ship.
-[SPEAKER_01]: I don't think that you hold that over their head.
-[SPEAKER_01]: I think when you talk to Lord Jameis, I mentioned it, and I think that you should find out who was the captain or at least the sergeant in charge of those 20 guys, and I think you start with them.
-[SPEAKER_01]: And in a time of scarcity,
-[SPEAKER_01]: Allowing that captain and that sergeant, so long as he doesn't keep it all for himself, allowing him to have some coins so that he can purchase some extra food for their families, that will give you some marines on your side.
-[SPEAKER_01]: Second, we have that thief.
-[SPEAKER_02]: That's what I was just mentioning.
-[SPEAKER_02]: I'd like you to find him.
-[SPEAKER_01]: No, no.
-[SPEAKER_01]: The thief was supposed to come to Ferds and my man at Ferds...
-[SPEAKER_02]: It's day three.
-[SPEAKER_01]: I know, but my man at Ferds was supposed to make contact with him.
-[SPEAKER_01]: So, but, you need to be the one doing the talking.
-[SPEAKER_01]: I'll blow shit up for you, I'll make suggestions if I think you're falling astray, but I think that you actually need to, you need to be the front guy on this.
-[SPEAKER_02]: I don't know where birds is.
-[SPEAKER_01]: Oh.
-[SPEAKER_01]: It's funny you say it like that.
-[SPEAKER_01]: I mean, it is a little bit disgusting, but, you know.
-[SPEAKER_01]: It's easily rectified.
-[SPEAKER_01]: I can show you where Ferd is.
-[SPEAKER_01]: In fact, we can go there together.
-[SPEAKER_01]: I'll introduce you to Ferd.
-[SPEAKER_01]: Ferd will let you in his establishment and give you any aid that you need in any future time.
-[SPEAKER_01]: Is it the name of the place or is it the name of the person?
-[SPEAKER_01]: He's an ex-soldier, ex-marine, veteran.
-[SPEAKER_00]: And actually, it comes to your mind, Jude, that maybe renting an apartment near Ferdsbar in one of the halls might not be a bad idea.
-[SPEAKER_00]: Maybe setting up an office where Paul Ribeiro can be.
-[SPEAKER_00]: To have these interviews or connections would be a good thing.
-[SPEAKER_00]: Something, you know, cheap but
-[SPEAKER_00]: That you could kind of build up as something else.
-[SPEAKER_00]: And I also want to tell both of you something that you should probably consider.
-[SPEAKER_00]: Henchmen are things in this world.
-[SPEAKER_00]: Yeah.
-[SPEAKER_02]: The other four marines.
-[SPEAKER_01]: It's not four, there's twenty.
-[SPEAKER_01]: Oh, the four that were with us.
-[SPEAKER_02]: Yeah.
-[SPEAKER_02]: Tyrus and Folsom.
-[SPEAKER_02]: Folsom.
-[SPEAKER_01]: I think that you should branch out.
-[SPEAKER_01]: For me, knowing Gouge, they're Gouge's men.
-[SPEAKER_01]: Even the ones that are working for Jameis correctly.
-[SPEAKER_01]: If Gouge is hanging with them, they're Gouge's men.
-[SPEAKER_01]: Otherwise he'd kill them.
-[SPEAKER_01]: Yeah, I get that.
-[SPEAKER_01]: So, let's branch out.
-[SPEAKER_01]: So we have a connection with the Thieves Guild, the guy that we did not hit with the hot poker.
-[SPEAKER_01]: If we can, you know, establish some, and money talks.
-[SPEAKER_01]: Now, don't start out hot.
-[SPEAKER_01]: I mean, don't penny them, right?
-[SPEAKER_01]: Coppers aren't going to buy you anything but a knife in the back.
-[SPEAKER_01]: But they need to know that, once again, that their ladder ascends with yours.
-[SPEAKER_01]: And I think that that one thief knows who you are.
-[SPEAKER_01]: Oh yeah, he does.
-[SPEAKER_01]: So, that's gonna be...
-[SPEAKER_01]: If somebody pays him a lot of money to kill one of the members of the family, that's gonna be you.
-[SPEAKER_01]: But, if he wants to move his ass up without waiting his entire life, that'll probably also be you.
-[SPEAKER_01]: Make sense?
-[SPEAKER_01]: Oh yeah.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: Start with the soldiers because at least...
-[SPEAKER_02]: I thought those 20 troops are still on that island.
-[SPEAKER_01]: We don't know yet.
-[SPEAKER_01]: We don't know how many of them survived.
-[SPEAKER_01]: They were probably brought in.
-[SPEAKER_01]: I don't even know how they dealt with Fairwinds men.
-[SPEAKER_01]: So if Fairwinds off the island, there's still 300 of Fairwinds men that are maybe not aware of the duplicity.
-[SPEAKER_01]: I would kind of hope that they're not locked up, because we just lost 200 marines.
-[SPEAKER_02]: Well, Fairwin was talking about how we put his troops, like, in the... No, he did.
-[SPEAKER_01]: All he did was he just locked them into sections of the hold, but they were not armed, so he didn't let them get to the armory.
-[SPEAKER_02]: It sounded like he put them in...
-[SPEAKER_01]: Yes.
-[SPEAKER_01]: No, no, but that was roughly 100 to 150 in the citadel.
-[SPEAKER_01]: Don't forget the other 150 in the barracks.
-[SPEAKER_02]: They also did that diversion attack.
-[SPEAKER_01]: Right, and those were also Fairwin's men.
-[SPEAKER_00]: But at the time, they seemed loyal to the principalities.
-[SPEAKER_00]: I mean, they were working with you guys.
-[SPEAKER_01]: Absolutely.
-[SPEAKER_01]: Yeah, absolutely.
-[SPEAKER_01]: So it really just depends on how Prince Gian has commanded his captains that went on the Corsairs and how he proceeds, or wants to proceed with them.
-[SPEAKER_01]: I don't know.
-[SPEAKER_01]: But what I would say is those 20 men, when they come back, you'll want to get in touch with whoever their officer is that came ashore with us.
-[SPEAKER_01]: Because he'll know you.
-[SPEAKER_01]: He'll know that it's because of you and I that they're still alive.
-[SPEAKER_01]: I mean, and they're good fighters, too.
-[SPEAKER_01]: I mean, don't take that from them.
-[SPEAKER_01]: We're also alive, you and I, because they had a pretty badass shield wall.
-[SPEAKER_01]: So I'd say start there and also try to cultivate the thief from the thieves' guild.
-[SPEAKER_01]: I know he tried to kill you, but I think that was just... To be fair, I was a sloppy job.
-[SPEAKER_02]: I don't think that was personal.
-[SPEAKER_01]: Well, I think it was just cut-purse stuff.
-[SPEAKER_02]: Not to mention, I butchered his... Or, well, I butchered him, actually.
-[SPEAKER_02]: I shot the arrow.
-[SPEAKER_01]: Right, but you killed his...
-[SPEAKER_01]: I wouldn't call him his friend.
-[SPEAKER_01]: He didn't even sound like he cared about the guy.
-[SPEAKER_01]: Sure, but...
-[SPEAKER_02]: I...
-[SPEAKER_02]: Shot an arrow.
-[SPEAKER_02]: I'll bet you he would give us less testicle to have patronage like you.
-[SPEAKER_01]: I can also have this whole family and relatives hanged.
-[SPEAKER_01]: What?
-[SPEAKER_01]: Wait, what'd you do?
-[SPEAKER_01]: Did you kill?
-[SPEAKER_02]: No, I'm saying, okay, let's say he drops me and I have an order where if I get dropped, his whole family gets hounded.
-[SPEAKER_02]: Oh, I don't know.
-[SPEAKER_01]: Let's not go there.
-[SPEAKER_01]: Leave scorched earth to me.
-[SPEAKER_01]: Very well.
-[SPEAKER_01]: I do kill them all pretty good.
-[SPEAKER_01]: So I'm going to go to the alchemy shop.
-[SPEAKER_01]: You can come by and you can see it.
-[SPEAKER_01]: It does have ties with, are you familiar with Borde Franc?
-[SPEAKER_01]: It's just kind of part of the background noise of everything that's going on.
-[SPEAKER_01]: But this alchemist that I'm trying to cultivate, which I don't think that it would be wrong for you to be there as well when we talk to him, but I'm going to want to take those gills to him.
-[SPEAKER_01]: Immediately, before they deteriorate any further than they already have.
-[SPEAKER_01]: I've got them wrapped up in a wet paper towel or a wet rag just to keep them from drying up.
-[SPEAKER_02]: It's not very alchemist-y.
-[SPEAKER_01]: No, it's not.
-[SPEAKER_01]: And he'll probably berate me.
-[SPEAKER_01]: So, I'd like to go there.
-[SPEAKER_01]: And then...
-[SPEAKER_01]: What would you be interested in learning first about magic, if you want to do it?
-[SPEAKER_02]: Spellcasting.
-[SPEAKER_01]: Yeah, is there anything particular that you want to know?
-[SPEAKER_02]: I don't really know anything.
-[SPEAKER_01]: Nothing at all?
-[SPEAKER_02]: I mean, I know, like, Heal or Light.
-[SPEAKER_01]: I have some useful cantrips that I could start with.
-[SPEAKER_01]: And cantrips are once learned.
-[SPEAKER_01]: They're readily available to you.
-[SPEAKER_01]: They don't drain any of your essence.
-[SPEAKER_02]: I know of them.
-[SPEAKER_02]: I don't know what they do.
-[SPEAKER_01]: Okay.
-[SPEAKER_01]: So we'll just have to start to work with manipulating.
-[SPEAKER_01]: And we can start with easier cantrips before you get into the more weighty cantrips.
-[SPEAKER_01]: Some will do quite a fair amount of damage, even though they're introductory level magic.
-[SPEAKER_01]: But there are things that are incredibly useful.
-[SPEAKER_01]: Mending.
-[SPEAKER_01]: A lot of people sell that one short.
-[SPEAKER_01]: But you can fix things easily and quickly.
-[SPEAKER_00]: Such as royal seals that have been broken open.
-[SPEAKER_00]: Wink, wink!
-[SPEAKER_01]: I was thinking more like rope that needs to be joined together or is cut or damaged because you need to make a getaway.
-[SPEAKER_02]: Or a door that's been busted open.
-[SPEAKER_01]: Busted open, yeah.
-[SPEAKER_01]: Cover your tracks.
-[SPEAKER_01]: Yeah, so.
-[SPEAKER_01]: Yeah, absolutely.
-[SPEAKER_01]: So we can get started on that, but I think the sahuagin gills that are wilting in my pocket, plus it makes me smell a little fishy.
-[SPEAKER_00]: Or a torn sail that has been shredded apart by a ballista bolt.
-[SPEAKER_00]: Exactly, yeah.
-[SPEAKER_00]: But definitely levitate.
-[SPEAKER_01]: That's more advanced.
-[SPEAKER_01]: We'll start with mending shit.
-[SPEAKER_00]: You can't levitate.
-[SPEAKER_00]: But I can't.
-[SPEAKER_02]: I don't teach them everything.
-[SPEAKER_00]: Levitate is what saved you from the 40 foot shuttle.
-[SPEAKER_00]: I don't always float.
-[SPEAKER_00]: Well, what do you do?
-[SPEAKER_00]: I use levitate.
+[SPEAKER_01A]: I'll kill every one of them.
+[SPEAKER_01A]: Yeah, so I mean, just a thought.
+[SPEAKER_01A]: I want to know what you think about that, about the idea that maybe we don't sneak around Fairway.
+[SPEAKER_02A]: Maybe we just try to deal with Fairway.
+[SPEAKER_02A]: We could propose it to Jameis and Geo.
+[SPEAKER_01A]: When you talk to Jameis, why don't you throw that out?
+[SPEAKER_02A]: You're not coming with me?
+[SPEAKER_01A]: No, I've got some things to do.
+[SPEAKER_01A]: I'm going to get started on the gills.
+[SPEAKER_01A]: The gills are only...
+[SPEAKER_02A]: I mean, they're already... Also, we need more...
+[SPEAKER_02A]: Agents, just spies to start snooping around.
+[SPEAKER_01A]: Can I give you a tip?
+[SPEAKER_01A]: Yeah, sure.
+[SPEAKER_01A]: I mean, do you like to receive feedback directly?
+[SPEAKER_02A]: Yeah, kinda.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: The 20 guys whose lives that they kind of owe to you and I, that we took the helm with, if those 20 guys hadn't come with us, they would be dead on the ship.
+[SPEAKER_01A]: I don't think that you hold that over their head.
+[SPEAKER_01A]: I think when you talk to Lord Jameis, I mentioned it, and I think that you should find out who was the captain or at least the sergeant in charge of those 20 guys, and I think you start with them.
+[SPEAKER_01A]: And in a time of scarcity,
+[SPEAKER_01A]: Allowing that captain and that sergeant, so long as he doesn't keep it all for himself, allowing him to have some coins so that he can purchase some extra food for their families, that will give you some marines on your side.
+[SPEAKER_01A]: Second, we have that thief.
+[SPEAKER_02A]: That's what I was just mentioning.
+[SPEAKER_02A]: I'd like you to find him.
+[SPEAKER_01A]: No, no.
+[SPEAKER_01A]: The thief was supposed to come to Ferds and my man at Ferds...
+[SPEAKER_02A]: It's day three.
+[SPEAKER_01A]: I know, but my man at Ferds was supposed to make contact with him.
+[SPEAKER_01A]: So, but, you need to be the one doing the talking.
+[SPEAKER_01A]: I'll blow shit up for you, I'll make suggestions if I think you're falling astray, but I think that you actually need to, you need to be the front guy on this.
+[SPEAKER_02A]: I don't know where birds is.
+[SPEAKER_01A]: Oh.
+[SPEAKER_01A]: It's funny you say it like that.
+[SPEAKER_01A]: I mean, it is a little bit disgusting, but, you know.
+[SPEAKER_01A]: It's easily rectified.
+[SPEAKER_01A]: I can show you where Ferd is.
+[SPEAKER_01A]: In fact, we can go there together.
+[SPEAKER_01A]: I'll introduce you to Ferd.
+[SPEAKER_01A]: Ferd will let you in his establishment and give you any aid that you need in any future time.
+[SPEAKER_02A]: Is it the name of the place or is it the name of the person?
+[SPEAKER_01A]: He's an ex-soldier, ex-marine, veteran.
+[SPEAKER_00A]: And actually, it comes to your mind, Jude, that maybe renting an apartment near Ferdsbar in one of the halls might not be a bad idea.
+[SPEAKER_00A]: Maybe setting up an office where Paul Ribeiro can be.
+[SPEAKER_00A]: To have these interviews or connections would be a good thing.
+[SPEAKER_00A]: Something, you know, cheap but
+[SPEAKER_00A]: That you could kind of build up as something else.
+[SPEAKER_00A]: And I also want to tell both of you something that you should probably consider.
+[SPEAKER_00A]: Henchmen are things in this world.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_02A]: The other four marines.
+[SPEAKER_01A]: It's not four, there's twenty.
+[SPEAKER_01A]: Oh, the four that were with us.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_02A]: Tyrus and Folsom.
+[SPEAKER_02A]: Folsom.
+[SPEAKER_01A]: I think that you should branch out.
+[SPEAKER_01A]: For me, knowing Gouge, they're Gouge's men.
+[SPEAKER_01A]: Even the ones that are working for Jameis correctly.
+[SPEAKER_01A]: If Gouge is hanging with them, they're Gouge's men.
+[SPEAKER_01A]: Otherwise he'd kill them.
+[SPEAKER_02A]: Yeah, I get that.
+[SPEAKER_01A]: So, let's branch out.
+[SPEAKER_01A]: So we have a connection with the Thieves Guild, the guy that we did not hit with the hot poker.
+[SPEAKER_01A]: If we can, you know, establish some, and money talks.
+[SPEAKER_01A]: Now, don't start out hot.
+[SPEAKER_01A]: I mean, don't penny them, right?
+[SPEAKER_01A]: Coppers aren't going to buy you anything but a knife in the back.
+[SPEAKER_01A]: But they need to know that, once again, that their ladder ascends with yours.
+[SPEAKER_01A]: And I think that that one thief knows who you are.
+[SPEAKER_02A]: Oh yeah, he does.
+[SPEAKER_01A]: So, that's gonna be...
+[SPEAKER_01A]: If somebody pays him a lot of money to kill one of the members of the family, that's gonna be you.
+[SPEAKER_01A]: But, if he wants to move his ass up without waiting his entire life, that'll probably also be you.
+[SPEAKER_01A]: Make sense?
+[SPEAKER_02A]: Oh yeah.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: Start with the soldiers because at least...
+[SPEAKER_02A]: I thought those 20 troops are still on that island.
+[SPEAKER_01A]: We don't know yet.
+[SPEAKER_01A]: We don't know how many of them survived.
+[SPEAKER_01A]: They were probably brought in.
+[SPEAKER_01A]: I don't even know how they dealt with Fairwinds men.
+[SPEAKER_01A]: So if Fairwinds off the island, there's still 300 of Fairwinds men that are maybe not aware of the duplicity.
+[SPEAKER_01A]: I would kind of hope that they're not locked up, because we just lost 200 marines.
+[SPEAKER_02A]: Well, Fairwin was talking about how we put his troops, like, in the... No, he did.
+[SPEAKER_01A]: All he did was he just locked them into sections of the hold, but they were not armed, so he didn't let them get to the armory.
+[SPEAKER_02A]: It sounded like he put them in...
+[SPEAKER_01A]: Yes.
+[SPEAKER_01A]: No, no, but that was roughly 100 to 150 in the citadel.
+[SPEAKER_01A]: Don't forget the other 150 in the barracks.
+[SPEAKER_02A]: They also did that diversion attack.
+[SPEAKER_01A]: Right, and those were also Fairwin's men.
+[SPEAKER_00A]: But at the time, they seemed loyal to the principalities.
+[SPEAKER_00A]: I mean, they were working with you guys.
+[SPEAKER_01A]: Absolutely.
+[SPEAKER_01A]: Yeah, absolutely.
+[SPEAKER_01A]: So it really just depends on how Prince Gian has commanded his captains that went on the Corsairs and how he proceeds, or wants to proceed with them.
+[SPEAKER_01A]: I don't know.
+[SPEAKER_01A]: But what I would say is those 20 men, when they come back, you'll want to get in touch with whoever their officer is that came ashore with us.
+[SPEAKER_01A]: Because he'll know you.
+[SPEAKER_01A]: He'll know that it's because of you and I that they're still alive.
+[SPEAKER_01A]: I mean, and they're good fighters, too.
+[SPEAKER_01A]: I mean, don't take that from them.
+[SPEAKER_01A]: We're also alive, you and I, because they had a pretty badass shield wall.
+[SPEAKER_01A]: So I'd say start there and also try to cultivate the thief from the thieves' guild.
+[SPEAKER_01A]: I know he tried to kill you, but I think that was just... To be fair, I was a sloppy job.
+[SPEAKER_02A]: I don't think that was personal.
+[SPEAKER_01A]: Well, I think it was just cut-purse stuff.
+[SPEAKER_02A]: Not to mention, I butchered his... Or, well, I butchered him, actually.
+[SPEAKER_02A]: I shot the arrow.
+[SPEAKER_01A]: Right, but you killed his...
+[SPEAKER_01A]: I wouldn't call him his friend.
+[SPEAKER_01A]: He didn't even sound like he cared about the guy.
+[SPEAKER_01A]: Sure, but...
+[SPEAKER_02A]: I...
+[SPEAKER_02A]: Shot an arrow.
+[SPEAKER_01A]: I'll bet you he would give us less testicle to have patronage like you.
+[SPEAKER_02A]: I can also have this whole family and relatives hanged.
+[SPEAKER_01A]: What?
+[SPEAKER_01A]: Wait, what'd you do?
+[SPEAKER_01A]: Did you kill?
+[SPEAKER_02A]: No, I'm saying, okay, let's say he drops me and I have an order where if I get dropped, his whole family gets hounded.
+[SPEAKER_02A]: Oh, I don't know.
+[SPEAKER_01A]: Let's not go there.
+[SPEAKER_01A]: Leave scorched earth to me.
+[SPEAKER_02A]: Very well.
+[SPEAKER_01A]: I do kill them all pretty good.
+[SPEAKER_01A]: So I'm going to go to the alchemy shop.
+[SPEAKER_01A]: You can come by and you can see it.
+[SPEAKER_01A]: It does have ties with, are you familiar with Borde Franc?
+[SPEAKER_02A]: It's just kind of part of the background noise of everything that's going on.
+[SPEAKER_01A]: But this alchemist that I'm trying to cultivate, which I don't think that it would be wrong for you to be there as well when we talk to him, but I'm going to want to take those gills to him.
+[SPEAKER_01A]: Immediately, before they deteriorate any further than they already have.
+[SPEAKER_01A]: I've got them wrapped up in a wet paper towel or a wet rag just to keep them from drying up.
+[SPEAKER_02A]: It's not very alchemist-y.
+[SPEAKER_01A]: No, it's not.
+[SPEAKER_01A]: And he'll probably berate me.
+[SPEAKER_01A]: So, I'd like to go there.
+[SPEAKER_01A]: And then...
+[SPEAKER_01A]: What would you be interested in learning first about magic, if you want to do it?
+[SPEAKER_02A]: Spellcasting.
+[SPEAKER_01A]: Yeah, is there anything particular that you want to know?
+[SPEAKER_02A]: I don't really know anything.
+[SPEAKER_01A]: Nothing at all?
+[SPEAKER_02A]: I mean, I know, like, Heal or Light.
+[SPEAKER_01A]: I have some useful cantrips that I could start with.
+[SPEAKER_01A]: And cantrips are once learned.
+[SPEAKER_01A]: They're readily available to you.
+[SPEAKER_01A]: They don't drain any of your essence.
+[SPEAKER_02A]: I know of them.
+[SPEAKER_02A]: I don't know what they do.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: So we'll just have to start to work with manipulating.
+[SPEAKER_01A]: And we can start with easier cantrips before you get into the more weighty cantrips.
+[SPEAKER_01A]: Some will do quite a fair amount of damage, even though they're introductory level magic.
+[SPEAKER_01A]: But there are things that are incredibly useful.
+[SPEAKER_01A]: Mending.
+[SPEAKER_01A]: A lot of people sell that one short.
+[SPEAKER_01A]: But you can fix things easily and quickly.
+[SPEAKER_00A]: Such as royal seals that have been broken open.
+[SPEAKER_00A]: Wink, wink!
+[SPEAKER_01A]: I was thinking more like rope that needs to be joined together or is cut or damaged because you need to make a getaway.
+[SPEAKER_02A]: Or a door that's been busted open.
+[SPEAKER_01A]: Busted open, yeah.
+[SPEAKER_01A]: Cover your tracks.
+[SPEAKER_01A]: Yeah, so.
+[SPEAKER_01A]: Yeah, absolutely.
+[SPEAKER_01A]: So we can get started on that, but I think the sahuagin gills that are wilting in my pocket, plus it makes me smell a little fishy.
+[SPEAKER_00A]: Or a torn sail that has been shredded apart by a ballista bolt.
+[SPEAKER_00A]: Exactly, yeah.
+[SPEAKER_02A]: But definitely levitate.
+[SPEAKER_01A]: That's more advanced.
+[SPEAKER_01A]: We'll start with mending shit.
+[SPEAKER_00A]: You can't levitate.
+[SPEAKER_00A]: But I can't.
+[SPEAKER_01A]: I don't teach them everything.
+[SPEAKER_00A]: Levitate is what saved you from the 40 foot shuttle.
+[SPEAKER_01A]: I don't always float.
+[SPEAKER_02A]: Well, what do you do?
+[SPEAKER_00A]: I use levitate.
 [out-of-band] [SPEAKER_00]: That was so stupid.
 [out-of-band] [SPEAKER_02]: I think it was awesome.
 [out-of-band] [SPEAKER_02]: No, it was, it was hilarious.
@@ -538,85 +538,85 @@
 [out-of-band] [SPEAKER_01]: Wait, where were we- We were talking about scaling castle walls.
 [out-of-band] [SPEAKER_01]: We were talking about it penetrating into the- And I'm all, and I can meditate.
 [out-of-band] [SPEAKER_02]: Where were we when you first said that?
-[SPEAKER_02]: We were-
-[SPEAKER_01]: It was before we joined up with gouging.
-[SPEAKER_02]: It was in the barracks.
-[SPEAKER_02]: Yeah, you're like, and, like, okay.
-[SPEAKER_01]: You're all like, okay.
-[SPEAKER_02]: Well, you know.
-[SPEAKER_02]: I don't know what to make of it.
-[SPEAKER_02]: You're just like, and.
-[SPEAKER_01]: Well, yeah.
-[SPEAKER_01]: Wait until you see me like, and my fireball is improved.
-[SPEAKER_01]: Takes up more space.
-[SPEAKER_01]: Burns more shit to death.
-[SPEAKER_01]: So, um...
-[SPEAKER_01]: What was the other thing that we need to work on?
-[SPEAKER_01]: So there's the yellow powder, Lord Fairwind, teaching you magic?
-[SPEAKER_02]: I think that's my three.
-[SPEAKER_02]: That's all I can think of.
-[SPEAKER_00]: I didn't have a pencil.
-[SPEAKER_00]: Is there anything I missed?
-[SPEAKER_00]: You will get this in the notes that I send you.
-[SPEAKER_02]: Okay.
-[SPEAKER_02]: I don't think I missed anything.
-[SPEAKER_00]: But I think that covers what?
-[SPEAKER_00]: At least the essentials.
-[SPEAKER_00]: Yeah.
-[SPEAKER_01]: Because I know that feeling there's no more.
-[SPEAKER_01]: Okay, well, why don't we start with the alchemist.
-[SPEAKER_01]: Let me show you where he is.
-[SPEAKER_01]: Cool.
-[SPEAKER_01]: Because one of the things is, I don't think his life is in danger, but somebody might want to take him out.
-[SPEAKER_01]: And I don't have a, I don't have that as anything.
-[SPEAKER_02]: What gives you suspicion?
-[SPEAKER_01]: It's just his connection with Lord Franck, which I don't even think he knows puts him in danger.
-[SPEAKER_01]: I don't even know Lord Franck.
-[SPEAKER_02]: Is he an actual ward or is he just some hit man called ward?
-[SPEAKER_01]: He's actually from Keoland, right?
-[SPEAKER_01]: He's from Keoland, but he came here and he met with Lord Jameis in the past.
-[SPEAKER_01]: Think of him as like a disciplinarian for magic users.
-[SPEAKER_01]: He likes to say shame, shame, shame, stop raising the dead.
-[SPEAKER_01]: Does that make sense?
-[SPEAKER_01]: What?
-[SPEAKER_01]: He polices for an organization mages dealing with unsavory and what they deem to be illegal magics.
-[SPEAKER_01]: Granted, necromancers are kind of the darker side of magics.
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: Well, so he's an inquisitor which hunts them down.
-[SPEAKER_02]: Ah.
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: So, uh...
-[SPEAKER_01]: But Lord Franck is no longer here in Monmurg, but Lord Franck met with him.
-[SPEAKER_01]: So I've just been trying to cultivate that relationship, using the gills and asking him to help us do some research, because he's more the alchemist than I am.
-[SPEAKER_00]: Lord Franck met with the alchemist.
-[SPEAKER_01]: Yes, that's what I meant.
-[SPEAKER_00]: That is what Jude was saying.
-[SPEAKER_00]: Lord Franck had met with the alchemist when he was in Monmurg.
-[SPEAKER_01]: Yes, sorry.
-[SPEAKER_01]: And so I've been trying to figure out a little bit more, but I'm using an indirect method, so I'm just trying to...
-[SPEAKER_01]: So this is another good reason for me to go meet him.
-[SPEAKER_01]: But if you should, through your contacts as you develop them, or any other contacts that you have, determine that he...
-[SPEAKER_01]: There might be people in town or lurking around his shop.
-[SPEAKER_01]: That would be good to know.
-[SPEAKER_02]: Yeah.
-[SPEAKER_01]: When you're looking for people to cultivate, by cultivate I mean like, you know, to have a network, do you even know where to start?
-[SPEAKER_02]: I can think of something, but I don't know.
-[SPEAKER_01]: Bastard children are great.
-[SPEAKER_01]: Usually they stand to inherit nothing.
-[SPEAKER_01]: What?
-[SPEAKER_01]: What'd you say?
-[SPEAKER_01]: Keep going.
+[SPEAKER_02A]: We were-
+[SPEAKER_01A]: It was before we joined up with gouging.
+[SPEAKER_02A]: It was in the barracks.
+[SPEAKER_02A]: Yeah, you're like, and, like, okay.
+[SPEAKER_01A]: You're all like, okay.
+[SPEAKER_02A]: Well, you know.
+[SPEAKER_02A]: I don't know what to make of it.
+[SPEAKER_02A]: You're just like, and.
+[SPEAKER_01A]: Well, yeah.
+[SPEAKER_01A]: Wait until you see me like, and my fireball is improved.
+[SPEAKER_01A]: Takes up more space.
+[SPEAKER_01A]: Burns more shit to death.
+[SPEAKER_01A]: So, um...
+[SPEAKER_01A]: What was the other thing that we need to work on?
+[SPEAKER_01A]: So there's the yellow powder, Lord Fairwind, teaching you magic?
+[SPEAKER_02A]: I think that's my three.
+[SPEAKER_02A]: That's all I can think of.
+[SPEAKER_00A]: I didn't have a pencil.
+[SPEAKER_00A]: Is there anything I missed?
+[SPEAKER_00A]: You will get this in the notes that I send you.
+[SPEAKER_02A]: Okay.
+[SPEAKER_02A]: I don't think I missed anything.
+[SPEAKER_00A]: But I think that covers what?
+[SPEAKER_00A]: At least the essentials.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_01A]: Because I know that feeling there's no more.
+[SPEAKER_01A]: Okay, well, why don't we start with the alchemist.
+[SPEAKER_01A]: Let me show you where he is.
+[SPEAKER_02A]: Cool.
+[SPEAKER_01A]: Because one of the things is, I don't think his life is in danger, but somebody might want to take him out.
+[SPEAKER_01A]: And I don't have a, I don't have that as anything.
+[SPEAKER_02A]: What gives you suspicion?
+[SPEAKER_01A]: It's just his connection with Lord Franck, which I don't even think he knows puts him in danger.
+[SPEAKER_02A]: I don't even know Lord Franck.
+[SPEAKER_02A]: Is he an actual ward or is he just some hit man called ward?
+[SPEAKER_02A]: He's actually from Keoland, right?
+[SPEAKER_01A]: He's from Keoland, but he came here and he met with Lord Jameis in the past.
+[SPEAKER_01A]: Think of him as like a disciplinarian for magic users.
+[SPEAKER_01A]: He likes to say shame, shame, shame, stop raising the dead.
+[SPEAKER_01A]: Does that make sense?
+[SPEAKER_02A]: What?
+[SPEAKER_01A]: He polices for an organization mages dealing with unsavory and what they deem to be illegal magics.
+[SPEAKER_01A]: Granted, necromancers are kind of the darker side of magics.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_01A]: Well, so he's an inquisitor which hunts them down.
+[SPEAKER_02A]: Ah.
+[SPEAKER_01A]: Yeah.
+[SPEAKER_01A]: So, uh...
+[SPEAKER_01A]: But Lord Franck is no longer here in Monmurg, but Lord Franck met with him.
+[SPEAKER_01A]: So I've just been trying to cultivate that relationship, using the gills and asking him to help us do some research, because he's more the alchemist than I am.
+[SPEAKER_00A]: Lord Franck met with the alchemist.
+[SPEAKER_01A]: Yes, that's what I meant.
+[SPEAKER_00A]: That is what Jude was saying.
+[SPEAKER_00A]: Lord Franck had met with the alchemist when he was in Monmurg.
+[SPEAKER_01A]: Yes, sorry.
+[SPEAKER_01A]: And so I've been trying to figure out a little bit more, but I'm using an indirect method, so I'm just trying to...
+[SPEAKER_01A]: So this is another good reason for me to go meet him.
+[SPEAKER_01A]: But if you should, through your contacts as you develop them, or any other contacts that you have, determine that he...
+[SPEAKER_01A]: There might be people in town or lurking around his shop.
+[SPEAKER_01A]: That would be good to know.
+[SPEAKER_02A]: Yeah.
+[SPEAKER_01A]: When you're looking for people to cultivate, by cultivate I mean like, you know, to have a network, do you even know where to start?
+[SPEAKER_02A]: I can think of something, but I don't know.
+[SPEAKER_01A]: Bastard children are great.
+[SPEAKER_01A]: Usually they stand to inherit nothing.
+[SPEAKER_02A]: What?
+[SPEAKER_01A]: What'd you say?
+[SPEAKER_02A]: Keep going.
 [out-of-band] [SPEAKER_00]: Usually they stand to inherit... Paul Ribeiro is a bastard, if anybody just missed that.
-[SPEAKER_01]: Keep going.
-[SPEAKER_01]: So bastard children are good to start.
-[SPEAKER_01]: They usually go...
-[SPEAKER_01]: Rarely do they ever go loved by their parents.
-[SPEAKER_01]: And they usually stand to inherit little to nothing.
-[SPEAKER_01]: But, usually, if they're younger still, they tend to, you know, still idolize and hold dreams of hope.
+[SPEAKER_01A]: Keep going.
+[SPEAKER_01A]: So bastard children are good to start.
+[SPEAKER_01A]: They usually go...
+[SPEAKER_01A]: Rarely do they ever go loved by their parents.
+[SPEAKER_01A]: And they usually stand to inherit little to nothing.
+[SPEAKER_01A]: But, usually, if they're younger still, they tend to, you know, still idolize and hold dreams of hope.
 [out-of-band] [SPEAKER_02]: Off with this head!
 [out-of-band] [SPEAKER_01]: We'll get another wizard.
 [out-of-band] [SPEAKER_01]: This one's bad.
-[SPEAKER_01]: You might start...
+[SPEAKER_01A]: You might start...
 [out-of-band] [SPEAKER_01]: I don't know he's a bastard.
 [out-of-band] [SPEAKER_01]: No, you don't.
 [out-of-band] [SPEAKER_01]: You sure like to lean into this.
@@ -625,180 +625,180 @@
 [out-of-band] [SPEAKER_02]: Keep going, keep going.
 [out-of-band] [SPEAKER_02]: You're metagaming.
 [out-of-band] [SPEAKER_02]: This is awesome.
-[SPEAKER_01]: Yeah, I mean, like, that's a good place to start because, you know, there's still some sense of fealty to their parents and they don't know yet that they are probably screwed for the rest of their life.
-[SPEAKER_02]: I'm so glad I have a mask on just to, like, hide my emotions because I'm probably just, like, under, I'm like...
-[out-of-band] [SPEAKER_00]: There's so much subtext in this.
-[out-of-band] [SPEAKER_00]: Forgot that, are we?
-[SPEAKER_02]: Yeah.
+[SPEAKER_01A]: Yeah, I mean, like, that's a good place to start because, you know, there's still some sense of fealty to their parents and they don't know yet that they are probably screwed for the rest of their life.
+[SPEAKER_02A]: I'm so glad I have a mask on just to, like, hide my emotions because I'm probably just, like, under, I'm like...
+[game mechanics] [SPEAKER_00A]: There's so much subtext in this.
+[game mechanics] [SPEAKER_00A]: Forgot that, are we?
+[SPEAKER_02A]: Yeah.
 [out-of-band] [SPEAKER_00]: Trying to help you out.
-[SPEAKER_01]: Really?
-[SPEAKER_02]: Little to no love by their parents.
-[SPEAKER_01]: Well, you know, but youngish.
-[SPEAKER_01]: If you can find them when they're still young.
-[SPEAKER_01]: Early teens.
-[SPEAKER_00]: Basically, you can replace their parents for them.
-[SPEAKER_00]: Become their parents.
-[SPEAKER_01]: Yeah, but...
-[SPEAKER_01]: I mean, I don't mean to sound completely mercenary about it, but it is a useful tactic.
-[SPEAKER_01]: And you won't be lying if you actually look out for them.
+[SPEAKER_01A]: Really?
+[SPEAKER_02A]: Little to no love by their parents.
+[SPEAKER_01A]: Well, you know, but youngish.
+[SPEAKER_01A]: If you can find them when they're still young.
+[SPEAKER_01A]: Early teens.
+[SPEAKER_00A]: Basically, you can replace their parents for them.
+[SPEAKER_00A]: Become their parents.
+[SPEAKER_01A]: Yeah, but...
+[SPEAKER_01A]: I mean, I don't mean to sound completely mercenary about it, but it is a useful tactic.
+[SPEAKER_01A]: And you won't be lying if you actually look out for them.
 [out-of-band] [SPEAKER_01]: You don't get to do facial expressions.
 [out-of-band] [SPEAKER_01]: I see nothing.
 [out-of-band] [SPEAKER_02]: You just see the black silhouettes of my mouth and eyes.
-[SPEAKER_01]: Okay, the other thing is loyal servants.
-[SPEAKER_01]: To be distinguished between disloyal servants.
-[SPEAKER_01]: Disloyal servants are the embittered ones.
-[SPEAKER_01]: You're usually deeply sarcastic.
-[SPEAKER_01]: Now, it does not mean that loyal servants are not also embittered and deeply sarcastic.
-[SPEAKER_01]: They just know not to show it.
-[SPEAKER_01]: But, when you're talking about loyal servants,
-[SPEAKER_01]: You want to get them before they become openly bitter because they have hit the glass ceiling, so they've excelled usually as high as they will in a law of service as they're ever going to get, and they might actually, if intelligent and or talented, may actually desire more for themselves in their lot out of life.
-[SPEAKER_01]: So, you represent... Money to leverage.
-[SPEAKER_01]: Well, but not just money.
-[SPEAKER_01]: You represent something that, like, if they were your loyal servant, as your star rises, they might be able to attain a new level.
-[SPEAKER_01]: The smarter ones will know that.
-[SPEAKER_01]: And that's why I say, not the openly bitter ones, not to say that they're not bitter, but you want the smarter ones that know to keep their mouths shut and not express that bitterness or resentment.
-[SPEAKER_00]: We need to do an in-check right now.
-[SPEAKER_00]: I'll say you succeed.
-[SPEAKER_00]: You realize that kind of what Jude is telling you, it would be appropriate for you to ask, maybe not all of them, for all of them, but for a majority of them, the Marines that were with you on the docks, be a personal guard.
-[SPEAKER_02]: Okay, but other than personal guard, what else would I have them do besides, like... Well, I mean, you need agents, don't you?
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: So, some of them can be your spies, and really these spies would be spies that would give you information about what's happening in the military, what's happening in, you know, the marine barracks, but they would be like your enforcers.
-[SPEAKER_00]: If you're in the foreign district and you're talking to people, you have two guys standing behind you making sure that no one stabs you in the back.
-[SPEAKER_00]: Yeah.
-[SPEAKER_00]: It wouldn't be a bad idea to have...
-[SPEAKER_00]: Men for you, that are loyal to you.
-[SPEAKER_00]: You and me alone.
-[SPEAKER_00]: You know, you talk Gian up and you say, this is all for Percian, but you save these guys' lives, right?
-[SPEAKER_00]: So that's the way it starts, right?
-[SPEAKER_00]: And you give these guys patronage, right?
-[SPEAKER_00]: And you get your little cadre of dudes around you.
-[SPEAKER_01]: The more talented of that group will be the ones that, like, you know, go in with you on a nighttime mission.
-[SPEAKER_02]: The only Marines that survived on that mission.
-[SPEAKER_01]: And there were 20 of them, and every one of that 20 made it to the barracks, so unless any of them passed away in attempts against the hobgoblins to retake the helm,
-[SPEAKER_01]: Now back to loyal servants.
-[SPEAKER_01]: Don't ever ask a loyal servant to betray their Lord.
-[SPEAKER_01]: So they have to see that in serving you it is not contradictory to their Lord.
-[SPEAKER_01]: That's hence also why I say loyal servants that are talented.
-[SPEAKER_01]: So that's what you're looking for that have maybe hit the ceiling.
-[SPEAKER_01]: Stay away from like a
-[SPEAKER_01]: Who?
-[SPEAKER_01]: You know, the ones that kind of like are the heads of the royal apartments, royal keep.
-[SPEAKER_01]: They've already, they're usually pretty comfortable.
-[SPEAKER_01]: They've made their nest and they usually act more as double agents.
-[SPEAKER_00]: I want a more better targeted audience.
-[SPEAKER_00]: He's basically saying Lord Jameis is not someone you can pull away from Prince John.
-[SPEAKER_00]: Right.
-[SPEAKER_00]: Lord Jameis feels like he is
-[SPEAKER_01]: Like Lord Jameis, by a castle on, it's like the guy that's in charge, like he's not the lord or the baron of the place, but he's the other dude that's in charge.
-[SPEAKER_00]: He's like the admiral.
-[SPEAKER_01]: Right, right.
-[SPEAKER_01]: He runs the show.
-[SPEAKER_01]: He runs the show.
-[SPEAKER_01]: No, no, it's not that.
-[SPEAKER_01]: I'm just saying stay away from that, because those guys have their own networks.
-[SPEAKER_02]: Well, it sounds like you want me to target middle to low class
-[SPEAKER_01]: Civilians of interest that are tied with... No, when I said like servants that are...
-[SPEAKER_01]: So people like...
-[SPEAKER_01]: So if you want to cultivate within, let's say, within the royal palaces, when I talk about loyalty, right?
-[SPEAKER_01]: So I would say captains of the guard.
-[SPEAKER_00]: You realize what Jude's telling you?
-[SPEAKER_00]: Because you are that smart.
-[SPEAKER_00]: Is he saying you create your own...
-[SPEAKER_00]: Shadow, ruling government.
-[SPEAKER_00]: An advisor.
-[SPEAKER_00]: The Castilians, the captains that are there, you create people that can take their place, that are loyal to you.
-[SPEAKER_01]: Right, like the lieutenant, maybe not the captain.
-[SPEAKER_00]: And you realize that what Jude is telling you is that there are people, because you are a prince, and someday you may become
-[SPEAKER_00]: Because John does not have an heir yet.
-[SPEAKER_00]: He's youngish, 45.
-[SPEAKER_00]: He's not married, is he?
-[SPEAKER_00]: He's not married.
-[SPEAKER_00]: So it could happen.
-[SPEAKER_00]: But really, if you think about it, you could be the next ruler of Monmurg.
-[SPEAKER_00]: So Jude is basically saying, you develop these people to think, someday, Paul Rivero may make me.
-[SPEAKER_00]: Paul Ribeiro may make the next Lord of the Dungeons or the head merchant of the trade district, something like that.
-[SPEAKER_00]: What he's trying to say to you is develop your own infrastructure.
-[SPEAKER_01]: Another way to look for these people, another way to look for these people, is they will be the ones that like, so the intelligent lieutenant
-[SPEAKER_01]: That's loyal.
-[SPEAKER_01]: That doesn't express bitterness or resentment.
-[SPEAKER_01]: Any lieutenant.
-[SPEAKER_01]: But let's say that like in the guard or a lieutenant below the captain of the watch or the gate, that you see in a meeting is providing valuable information to the captain and is slightly disregarded.
-[SPEAKER_01]: Not held in super high esteem, but he's there, and you can see... Or the sergeant.
-[SPEAKER_01]: Right, or the sergeant that does a tremendous amount of work, but he doesn't necessarily have his nose up like the captain's ass, because the captain just assumes... Because he's a captain.
-[SPEAKER_01]: Right, and he just assumes that the sergeant will do his job.
-[SPEAKER_01]: But you, on observation, notice that he's actually a very capable man, capable himself of becoming captain.
-[SPEAKER_01]: So you look for the unappreciated underlings.
-[SPEAKER_01]: Still loyal.
-[SPEAKER_01]: I got it.
-[SPEAKER_01]: And don't just use money.
-[SPEAKER_01]: In this hard time... That'll get your poor civilian, but... Well, that and just...
-[SPEAKER_01]: They can also be smart enough to just bleed you dry.
-[SPEAKER_01]: So, I mean, their coffers do have limits.
-[SPEAKER_01]: So you don't want to be perceived to necessarily be buying their friendship because that also means that someone else can buy their enmity.
-[SPEAKER_01]: So you actually have to demonstrate, that's what I was saying, actual genuine care.
-[SPEAKER_01]: So for instance when I was talking about the bastards, if you're not full of shit and you're not lying to them and you would, because of their talents, see them
-[SPEAKER_01]: Appreciate it in any future position that you might hold that is more powerful than now.
-[SPEAKER_01]: Then you would actually be looking out for them.
-[SPEAKER_01]: Patronage is the thing that when you cultivate it, it is an imbalance that's implied in that you are somebody that have and they are somebody that have not.
-[SPEAKER_01]: But the suggestion and the implication of the patronage is that you are at least interested in their skills and their talents and willing to see them rise.
-[SPEAKER_01]: And you have to communicate that more so than money.
-[SPEAKER_01]: Money can be used in a time like now to help them feed themselves and to feed their loved ones.
-[SPEAKER_01]: That will buy you immeasurable, you know, but if you just throw money around without actually seeming interested in like
-[SPEAKER_01]: They're progress.
-[SPEAKER_02]: Yeah, I get what you're saying.
-[SPEAKER_01]: Right.
-[SPEAKER_01]: Then somebody that throws more money around buys them.
-[SPEAKER_02]: Yeah, I understand.
-[SPEAKER_01]: And like I said, when I said don't ever ask them to betray is because you in turn don't want to be betrayed.
-[SPEAKER_01]: And that will be implied.
-[SPEAKER_02]: What goes around comes around.
-[SPEAKER_01]: Well, I could never think of a situation where you would betray Prince Gian or Lord Jameis.
-[SPEAKER_01]: So don't ask anybody that you cultivate or imply that you would ever expect that from them.
-[SPEAKER_01]: And you'll automatically alleviate a lot of anxiety.
-[SPEAKER_01]: You'll make it easier for them to get close to you because they don't actually have to go against their own sense of loyalty.
-[SPEAKER_01]: That's how you create bonds.
-[SPEAKER_01]: Cool.
-[SPEAKER_01]: And don't worry about me.
-[SPEAKER_01]: I'm already so past you, it doesn't even matter.
-[SPEAKER_01]: I'm actually looking to like, you know, I've got my wagon hitched to Lord Jameis.
-[SPEAKER_01]: Right.
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: But we're talking about you having other people attach themselves to your rising star.
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: Makes sense?
-[SPEAKER_02]: Yeah.
-[SPEAKER_01]: So, like I said, look for those opportunities.
-[SPEAKER_01]: The guy that does all the paperwork, that runs a tight ship,
-[SPEAKER_01]: That the lieutenant or the captain just assumes will always be done correctly?
-[SPEAKER_01]: That guy?
-[SPEAKER_01]: Is probably unappreciated.
-[SPEAKER_01]: Or at least kept in this place.
-[SPEAKER_01]: He'll never get promoted.
-[SPEAKER_01]: Remember this.
-[SPEAKER_01]: The people in power don't like to promote people below them that make them look good.
-[SPEAKER_01]: Because to promote them usually means to promote them out of your service.
-[SPEAKER_01]: So they keep them trapped.
-[SPEAKER_01]: Not necessarily maliciously, but they keep them trapped because they make them look good to everybody else that they want to look good to.
-[SPEAKER_02]: Yeah, it's not the scrubs that get recognized.
-[SPEAKER_01]: Well, it's not just scrubs.
-[SPEAKER_02]: It's the generals that get recognized.
-[SPEAKER_01]: Right, absolutely.
-[SPEAKER_01]: But it's not just scrubs, right.
-[SPEAKER_01]: But like, there's plenty of captains of ships below the Admiralty that
-[SPEAKER_01]: Or those lieutenants of those ships that the captains that dream of Admiralty themselves will never promote to captains of their own ship because they make their ship run so damn tight.
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: Good?
-[SPEAKER_01]: Let's go look for the alchemists before I end up having to throw away my robes that smell like fish.
-[SPEAKER_01]: You keep that on you?
-[SPEAKER_01]: I didn't have a container.
-[SPEAKER_01]: I thought it was wrapped in a wet rag.
-[SPEAKER_01]: I thought I was going to make your bag outside or something.
-[SPEAKER_01]: I just came here.
-[SPEAKER_01]: Just like you.
-[SPEAKER_01]: It hasn't even been a full day.
-[SPEAKER_01]: You could have at least...
-[SPEAKER_01]: I carry an engineer's backpack.
-[SPEAKER_00]: You're a wizard.
-[SPEAKER_00]: You probably have some stupid...
+[SPEAKER_01A]: Okay, the other thing is loyal servants.
+[SPEAKER_01A]: To be distinguished between disloyal servants.
+[SPEAKER_01A]: Disloyal servants are the embittered ones.
+[SPEAKER_01A]: You're usually deeply sarcastic.
+[SPEAKER_01A]: Now, it does not mean that loyal servants are not also embittered and deeply sarcastic.
+[SPEAKER_01A]: They just know not to show it.
+[SPEAKER_01A]: But, when you're talking about loyal servants,
+[SPEAKER_01A]: You want to get them before they become openly bitter because they have hit the glass ceiling, so they've excelled usually as high as they will in a law of service as they're ever going to get, and they might actually, if intelligent and or talented, may actually desire more for themselves in their lot out of life.
+[SPEAKER_01A]: So, you represent... Money to leverage.
+[SPEAKER_01A]: Well, but not just money.
+[SPEAKER_01A]: You represent something that, like, if they were your loyal servant, as your star rises, they might be able to attain a new level.
+[SPEAKER_01A]: The smarter ones will know that.
+[SPEAKER_01A]: And that's why I say, not the openly bitter ones, not to say that they're not bitter, but you want the smarter ones that know to keep their mouths shut and not express that bitterness or resentment.
+[SPEAKER_00A]: We need to do an in-check right now.
+[SPEAKER_00A]: I'll say you succeed.
+[SPEAKER_00A]: You realize that kind of what Jude is telling you, it would be appropriate for you to ask, maybe not all of them, for all of them, but for a majority of them, the Marines that were with you on the docks, be a personal guard.
+[SPEAKER_02A]: Okay, but other than personal guard, what else would I have them do besides, like... Well, I mean, you need agents, don't you?
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: So, some of them can be your spies, and really these spies would be spies that would give you information about what's happening in the military, what's happening in, you know, the marine barracks, but they would be like your enforcers.
+[SPEAKER_00A]: If you're in the foreign district and you're talking to people, you have two guys standing behind you making sure that no one stabs you in the back.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: It wouldn't be a bad idea to have...
+[SPEAKER_00A]: Men for you, that are loyal to you.
+[SPEAKER_00A]: You and me alone.
+[SPEAKER_00A]: You know, you talk Gian up and you say, this is all for Percian, but you save these guys' lives, right?
+[SPEAKER_00A]: So that's the way it starts, right?
+[SPEAKER_00A]: And you give these guys patronage, right?
+[SPEAKER_00A]: And you get your little cadre of dudes around you.
+[SPEAKER_01A]: The more talented of that group will be the ones that, like, you know, go in with you on a nighttime mission.
+[SPEAKER_02A]: The only Marines that survived on that mission.
+[SPEAKER_01A]: And there were 20 of them, and every one of that 20 made it to the barracks, so unless any of them passed away in attempts against the hobgoblins to retake the helm,
+[SPEAKER_01A]: Now back to loyal servants.
+[SPEAKER_01A]: Don't ever ask a loyal servant to betray their Lord.
+[SPEAKER_01A]: So they have to see that in serving you it is not contradictory to their Lord.
+[SPEAKER_01A]: That's hence also why I say loyal servants that are talented.
+[SPEAKER_01A]: So that's what you're looking for that have maybe hit the ceiling.
+[SPEAKER_01A]: Stay away from like a
+[SPEAKER_02A]: Who?
+[SPEAKER_01A]: You know, the ones that kind of like are the heads of the royal apartments, royal keep.
+[SPEAKER_01A]: They've already, they're usually pretty comfortable.
+[SPEAKER_01A]: They've made their nest and they usually act more as double agents.
+[SPEAKER_00A]: I want a more better targeted audience.
+[SPEAKER_00A]: He's basically saying Lord Jameis is not someone you can pull away from Prince John.
+[SPEAKER_00A]: Right.
+[SPEAKER_00A]: Lord Jameis feels like he is
+[SPEAKER_01A]: Like Lord Jameis, by a castle on, it's like the guy that's in charge, like he's not the lord or the baron of the place, but he's the other dude that's in charge.
+[SPEAKER_00A]: He's like the admiral.
+[SPEAKER_01A]: Right, right.
+[SPEAKER_01A]: He runs the show.
+[SPEAKER_01A]: He runs the show.
+[SPEAKER_01A]: No, no, it's not that.
+[SPEAKER_01A]: I'm just saying stay away from that, because those guys have their own networks.
+[SPEAKER_02A]: Well, it sounds like you want me to target middle to low class
+[SPEAKER_01A]: Civilians of interest that are tied with... No, when I said like servants that are...
+[SPEAKER_01A]: So people like...
+[SPEAKER_01A]: So if you want to cultivate within, let's say, within the royal palaces, when I talk about loyalty, right?
+[SPEAKER_01A]: So I would say captains of the guard.
+[SPEAKER_00A]: You realize what Jude's telling you?
+[SPEAKER_00A]: Because you are that smart.
+[SPEAKER_00A]: Is he saying you create your own...
+[SPEAKER_00A]: Shadow, ruling government.
+[SPEAKER_00A]: An advisor.
+[SPEAKER_00A]: The Castilians, the captains that are there, you create people that can take their place, that are loyal to you.
+[SPEAKER_01A]: Right, like the lieutenant, maybe not the captain.
+[SPEAKER_00A]: And you realize that what Jude is telling you is that there are people, because you are a prince, and someday you may become
+[SPEAKER_00A]: Because John does not have an heir yet.
+[SPEAKER_00A]: He's youngish, 45.
+[SPEAKER_00A]: He's not married, is he?
+[SPEAKER_00A]: He's not married.
+[SPEAKER_00A]: So it could happen.
+[SPEAKER_00A]: But really, if you think about it, you could be the next ruler of Monmurg.
+[SPEAKER_00A]: So Jude is basically saying, you develop these people to think, someday, Paul Rivero may make me.
+[SPEAKER_00A]: Paul Ribeiro may make the next Lord of the Dungeons or the head merchant of the trade district, something like that.
+[SPEAKER_00A]: What he's trying to say to you is develop your own infrastructure.
+[SPEAKER_01A]: Another way to look for these people, another way to look for these people, is they will be the ones that like, so the intelligent lieutenant
+[SPEAKER_01A]: That's loyal.
+[SPEAKER_01A]: That doesn't express bitterness or resentment.
+[SPEAKER_01A]: Any lieutenant.
+[SPEAKER_01A]: But let's say that like in the guard or a lieutenant below the captain of the watch or the gate, that you see in a meeting is providing valuable information to the captain and is slightly disregarded.
+[SPEAKER_01A]: Not held in super high esteem, but he's there, and you can see... Or the sergeant.
+[SPEAKER_01A]: Right, or the sergeant that does a tremendous amount of work, but he doesn't necessarily have his nose up like the captain's ass, because the captain just assumes... Because he's a captain.
+[SPEAKER_01A]: Right, and he just assumes that the sergeant will do his job.
+[SPEAKER_01A]: But you, on observation, notice that he's actually a very capable man, capable himself of becoming captain.
+[SPEAKER_01A]: So you look for the unappreciated underlings.
+[SPEAKER_01A]: Still loyal.
+[SPEAKER_02A]: I got it.
+[SPEAKER_01A]: And don't just use money.
+[SPEAKER_01A]: In this hard time... That'll get your poor civilian, but... Well, that and just...
+[SPEAKER_01A]: They can also be smart enough to just bleed you dry.
+[SPEAKER_01A]: So, I mean, their coffers do have limits.
+[SPEAKER_01A]: So you don't want to be perceived to necessarily be buying their friendship because that also means that someone else can buy their enmity.
+[SPEAKER_01A]: So you actually have to demonstrate, that's what I was saying, actual genuine care.
+[SPEAKER_01A]: So for instance when I was talking about the bastards, if you're not full of shit and you're not lying to them and you would, because of their talents, see them
+[SPEAKER_01A]: Appreciate it in any future position that you might hold that is more powerful than now.
+[SPEAKER_01A]: Then you would actually be looking out for them.
+[SPEAKER_01A]: Patronage is the thing that when you cultivate it, it is an imbalance that's implied in that you are somebody that have and they are somebody that have not.
+[SPEAKER_01A]: But the suggestion and the implication of the patronage is that you are at least interested in their skills and their talents and willing to see them rise.
+[SPEAKER_01A]: And you have to communicate that more so than money.
+[SPEAKER_01A]: Money can be used in a time like now to help them feed themselves and to feed their loved ones.
+[SPEAKER_01A]: That will buy you immeasurable, you know, but if you just throw money around without actually seeming interested in like
+[SPEAKER_01A]: They're progress.
+[SPEAKER_02A]: Yeah, I get what you're saying.
+[SPEAKER_01A]: Right.
+[SPEAKER_01A]: Then somebody that throws more money around buys them.
+[SPEAKER_02A]: Yeah, I understand.
+[SPEAKER_01A]: And like I said, when I said don't ever ask them to betray is because you in turn don't want to be betrayed.
+[SPEAKER_01A]: And that will be implied.
+[SPEAKER_02A]: What goes around comes around.
+[SPEAKER_01A]: Well, I could never think of a situation where you would betray Prince Gian or Lord Jameis.
+[SPEAKER_01A]: So don't ask anybody that you cultivate or imply that you would ever expect that from them.
+[SPEAKER_01A]: And you'll automatically alleviate a lot of anxiety.
+[SPEAKER_01A]: You'll make it easier for them to get close to you because they don't actually have to go against their own sense of loyalty.
+[SPEAKER_01A]: That's how you create bonds.
+[SPEAKER_01A]: Cool.
+[SPEAKER_01A]: And don't worry about me.
+[SPEAKER_01A]: I'm already so past you, it doesn't even matter.
+[SPEAKER_01A]: I'm actually looking to like, you know, I've got my wagon hitched to Lord Jameis.
+[SPEAKER_02A]: Right.
+[SPEAKER_01A]: Yeah.
+[SPEAKER_01A]: But we're talking about you having other people attach themselves to your rising star.
+[SPEAKER_01A]: Yeah.
+[SPEAKER_01A]: Makes sense?
+[SPEAKER_02A]: Yeah.
+[SPEAKER_01A]: So, like I said, look for those opportunities.
+[SPEAKER_01A]: The guy that does all the paperwork, that runs a tight ship,
+[SPEAKER_01A]: That the lieutenant or the captain just assumes will always be done correctly?
+[SPEAKER_01A]: That guy?
+[SPEAKER_01A]: Is probably unappreciated.
+[SPEAKER_01A]: Or at least kept in this place.
+[SPEAKER_01A]: He'll never get promoted.
+[SPEAKER_01A]: Remember this.
+[SPEAKER_01A]: The people in power don't like to promote people below them that make them look good.
+[SPEAKER_01A]: Because to promote them usually means to promote them out of your service.
+[SPEAKER_01A]: So they keep them trapped.
+[SPEAKER_01A]: Not necessarily maliciously, but they keep them trapped because they make them look good to everybody else that they want to look good to.
+[SPEAKER_02A]: Yeah, it's not the scrubs that get recognized.
+[SPEAKER_01A]: Well, it's not just scrubs.
+[SPEAKER_02A]: It's the generals that get recognized.
+[SPEAKER_01A]: Right, absolutely.
+[SPEAKER_01A]: But it's not just scrubs, right.
+[SPEAKER_01A]: But like, there's plenty of captains of ships below the Admiralty that
+[SPEAKER_01A]: Or those lieutenants of those ships that the captains that dream of Admiralty themselves will never promote to captains of their own ship because they make their ship run so damn tight.
+[SPEAKER_01A]: Yeah.
+[SPEAKER_01A]: Good?
+[SPEAKER_01A]: Let's go look for the alchemists before I end up having to throw away my robes that smell like fish.
+[SPEAKER_01A]: You keep that on you?
+[SPEAKER_01A]: I didn't have a container.
+[SPEAKER_01A]: I thought it was wrapped in a wet rag.
+[SPEAKER_01A]: I thought I was going to make your bag outside or something.
+[SPEAKER_01A]: I just came here.
+[SPEAKER_01A]: Just like you.
+[SPEAKER_01A]: It hasn't even been a full day.
+[SPEAKER_01A]: You could have at least...
+[SPEAKER_01A]: I carry an engineer's backpack.
+[SPEAKER_00A]: You're a wizard.
+[SPEAKER_00A]: You probably have some stupid...
 [out-of-band] [SPEAKER_00]: So by the way, this conversation is awesome.
 [out-of-band] [SPEAKER_00]: It has so much subtext and foreshadowing that they have no idea.

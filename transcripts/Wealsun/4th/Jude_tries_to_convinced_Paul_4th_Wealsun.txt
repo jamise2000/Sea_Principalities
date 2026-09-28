@@ -1,181 +1,182 @@
-[SPEAKER_00]: Jude and Paul Rivera walking back to their rooms.
-[SPEAKER_02]: Let's not, let's not call it a man.
-[SPEAKER_02]: You're a little tapped out on like, you know, the arcane arts right now.
-[SPEAKER_02]: Why don't you teach me how to do what you do?
-[SPEAKER_02]: I'll follow you and you can bitch at me.
-[SPEAKER_02]: Maybe throw some brass bowls at my shins.
-[SPEAKER_02]: And let's get into FURDS without anybody in FURDS knowing that we got it.
-[SPEAKER_02]: You know, the bar.
-[SPEAKER_02]: Well, I mean... No, this is instructional.
-[SPEAKER_02]: I would actually like to know who's in FURDS, because I chase some disreputable fucks out of the...
-[SPEAKER_01]: So you want to go to FURDS without being seen at FURDS and you want to figure out who's there?
-[SPEAKER_01]: Yeah.
-[SPEAKER_01]: Okay, well, rule 101 of stealth.
-[SPEAKER_01]: The more people you have, the much harder it is for stealth.
-[SPEAKER_02]: Yeah, so we're a two-man team.
-[SPEAKER_02]: Doesn't get any more crowded than that, right?
-[SPEAKER_02]: Two?
-[SPEAKER_02]: I mean, other than one, you know.
-[SPEAKER_01]: Okay.
-[SPEAKER_02]: So... And I can levitate.
+[SPEAKER_00A]: Jude and Paul Rivera walking back to their rooms.
+[SPEAKER_01A]: Let's not, let's not call it a man.
+[SPEAKER_01A]: You're a little tapped out on like, you know, the arcane arts right now.
+[SPEAKER_01A]: Why don't you teach me how to do what you do?
+[SPEAKER_01A]: I'll follow you and you can bitch at me.
+[SPEAKER_01A]: Maybe throw some brass bowls at my shins.
+[SPEAKER_01A]: And let's get into FURDS without anybody in FURDS knowing that we got it.
+[SPEAKER_01A]: You know, the bar.
+[SPEAKER_01A]: Well, I mean... No, this is instructional.
+[SPEAKER_01A]: I would actually like to know who's in FURDS, because I chase some disreputable fucks out of the...
+[SPEAKER_02A]: So you want to go to FURDS without being seen at FURDS and you want to figure out who's there?
+[SPEAKER_01A]: Yeah.
+[SPEAKER_02A]: Okay, well, rule 101 of stealth.
+[SPEAKER_02A]: The more people you have, the much harder it is for stealth.
+[SPEAKER_01A]: Yeah, so we're a two-man team.
+[SPEAKER_01A]: Doesn't get any more crowded than that, right?
+[SPEAKER_01A]: Two?
+[SPEAKER_01A]: I mean, other than one, you know.
+[SPEAKER_02A]: Okay.
+[SPEAKER_01A]: So... And I can levitate.
 [out-of-band] [SPEAKER_00]: So by the way, you have no interest in going to prudence.
 [out-of-band] [SPEAKER_00]: I don't.
 [out-of-band] [SPEAKER_01]: I don't.
 [out-of-band] [SPEAKER_00]: I don't.
-[SPEAKER_01]: You might.
-[SPEAKER_01]: Why can't I just send my homoculus, sir?
-[SPEAKER_02]: What do you want to do?
-[SPEAKER_02]: How far away can you send your homunculus?
-[SPEAKER_02]: Do we need to be in the alleyway?
-[SPEAKER_01]: Pretty damn far.
-[SPEAKER_01]: Does it need to be a hundred yards?
-[SPEAKER_01]: A mile?
-[SPEAKER_01]: Pretty damn far.
-[SPEAKER_02]: Do you want to stand right here and you can send your homunculus and you can tell me who's inferreds?
-[SPEAKER_01]: Yeah, I think we can do that.
-[SPEAKER_01]: Could I?
-[SPEAKER_01]: I don't know.
-[SPEAKER_01]: Can you?
-[SPEAKER_01]: Less than the end.
-[SPEAKER_02]: Remember if it dies, we gotta make a new one.
-[SPEAKER_02]: It's not on.
+[SPEAKER_02A]: You might.
+[SPEAKER_02A]: Why can't I just send my homoculus, sir?
+[SPEAKER_01A]: What do you want to do?
+[SPEAKER_01A]: How far away can you send your homunculus?
+[SPEAKER_01A]: Do we need to be in the alleyway?
+[SPEAKER_02A]: Pretty damn far.
+[SPEAKER_02A]: Does it need to be a hundred yards?
+[SPEAKER_02A]: A mile?
+[SPEAKER_02A]: Pretty damn far.
+[SPEAKER_01A]: Do you want to stand right here and you can send your homunculus and you can tell me who's inferreds?
+[SPEAKER_02A]: Yeah, I think we can do that.
+[SPEAKER_02A]: Could I?
+[SPEAKER_02A]: I don't know.
+[SPEAKER_02A]: Can you?
+[SPEAKER_02A]: Less than the end.
+[SPEAKER_01A]: Remember if it dies, we gotta make a new one.
+[SPEAKER_01A]: It's not on.
 [out-of-band] [SPEAKER_00]: So... Do you want him to know about the capabilities of the Mocula?
 [out-of-band] [SPEAKER_00]: He's already seen it.
 [out-of-band] [SPEAKER_00]: So, you're smart enough to know that what Jude is doing is actually probing me for information.
 [out-of-band] [SPEAKER_00]: He's not...
 [out-of-band] [SPEAKER_00]: He is not...
 [out-of-band] [SPEAKER_00]: He's trying to figure your secrets out.
-[SPEAKER_02]: Why do you want to go to Ferds, by the way?
-[SPEAKER_02]: Well, that's where I'm staying.
-[SPEAKER_02]: Why are you staying at Ferds?
-[SPEAKER_02]: Ferd's a good guy.
-[SPEAKER_01]: Nooo.
-[SPEAKER_01]: Nooo.
-[SPEAKER_02]: He's a dirtbag.
-[SPEAKER_02]: Nooo.
-[SPEAKER_02]: But he's a dirtbag, I understand.
-[SPEAKER_02]: Should I stay here?
-[SPEAKER_01]: Okay, well, if Gion hires you, but you don't stay here... Why would I stay under Gion's thumb?
-[SPEAKER_01]: You're telling me.
-[SPEAKER_01]: A poor elf.
-[SPEAKER_02]: Exactly.
-[SPEAKER_02]: You stayed under his thumb for 20 years.
-[SPEAKER_02]: No, no, no.
-[SPEAKER_01]: You're telling me you won't want to stay in a place of royalty and palace where everything is... No, no, no.
-[SPEAKER_02]: I've slept in the saddle.
-[SPEAKER_01]: No, it looks like you haven't slept for days.
-[SPEAKER_01]: It looks like you haven't slept for days.
-[SPEAKER_01]: In fact, years maybe, someone said.
-[SPEAKER_01]: I don't know about years.
-[SPEAKER_01]: Oh, so it's months.
-[SPEAKER_01]: That closer?
-[SPEAKER_02]: Well, I like the fact that you're trying to get information from me.
-[SPEAKER_01]: Okay, well, what I'm saying is... About how long an elf can go without, like, sleeping.
-[SPEAKER_01]: That's important for you to know.
-[SPEAKER_01]: So you're an elf.
-[SPEAKER_02]: Yeah, I got pointy ears.
-[SPEAKER_02]: I thought you hid them.
-[SPEAKER_02]: I do, but I mean, like, if you hang out with me enough, the pointy's probably gonna stick out.
-[SPEAKER_02]: I assume you're pretty observant.
-[SPEAKER_01]: Yeah, that's fine.
-[SPEAKER_01]: I noticed, but...
-[SPEAKER_01]: Uh, no, I don't want to go to birds.
-[SPEAKER_01]: That just seems like a waste of time.
-[SPEAKER_01]: If you want to learn to stealth, then, like... Well, let's stealth in on, uh...
-[SPEAKER_01]: Why would we stealth on Geon?
-[SPEAKER_02]: Because it's right here.
-[SPEAKER_02]: It's easy, it's close, and you won't stealth in on Bird.
-[SPEAKER_01]: No?
-[SPEAKER_01]: Why do you want to do Geon?
-[SPEAKER_01]: What are you trying to get?
-[SPEAKER_01]: How about James?
-[SPEAKER_02]: Let's stealth in on James.
-[SPEAKER_01]: What are you trying to get out of this?
-[SPEAKER_02]: I'm saying let's keep going.
-[SPEAKER_02]: You're complaining.
-[SPEAKER_02]: Let's keep going.
-[SPEAKER_02]: But I'm saying let's not do any of the arcane arts.
-[SPEAKER_02]: Let's not learn any of that.
-[SPEAKER_02]: How about if we stealth in on that one guy, the alchemist guy, when we went to his shop?
-[SPEAKER_02]: The one guy took you to a shop.
-[SPEAKER_02]: Get me in there.
-[SPEAKER_02]: Tell me what I'm doing wrong.
-[SPEAKER_01]: No way.
-[SPEAKER_01]: Why not?
-[SPEAKER_01]: Because you're trying to figure out if I'm an evil saint, which I'm not, but I can't prove it to you.
-[SPEAKER_02]: Wait, what are you talking about, evil?
-[SPEAKER_02]: Those guys, whoa, whoa.
-[SPEAKER_01]: You're talking about the alchemist, the guy who sold me the map.
-[SPEAKER_02]: I didn't say kill anybody.
-[SPEAKER_02]: I said stealth in and observe.
-[SPEAKER_02]: On who?
-[SPEAKER_02]: The alchemist guy.
-[SPEAKER_02]: What are you talking about?
-[SPEAKER_02]: The alchemist.
-[SPEAKER_01]: It's the alchemist guy.
-[SPEAKER_02]: Weren't you with me in the square when we went back to the alchemist shop?
-[SPEAKER_01]: I don't know.
-[SPEAKER_01]: We should ask him.
-[SPEAKER_02]: Okay, we can ask him.
-[SPEAKER_02]: But even if it was the masked guy, why don't we try to find the masked guy before he closes his show?
-[SPEAKER_02]: And then we'll follow him, and you can tell me what I'm doing.
-[SPEAKER_01]: No, because he was part of the market on the other side of town, which is kind of rough going through.
-[SPEAKER_02]: Well then, let's stealth in on John.
-[SPEAKER_01]: No, what is with you and fucking stealth in?
-[SPEAKER_02]: What I'm saying is that you have an opportunity to have the roles reversed.
-[SPEAKER_02]: So you've been upset with how I've been teaching you.
-[SPEAKER_01]: No, I'm not upset.
-[SPEAKER_02]: You sure?
-[SPEAKER_02]: You've been flipping me off for a while now.
-[SPEAKER_01]: Yanking your chain.
-[SPEAKER_01]: Not serious intentions.
-[SPEAKER_01]: Okay, then call this...
-[SPEAKER_01]: If I didn't enjoy your presence, I wouldn't have even wanted to learn from it.
-[SPEAKER_02]: Then let's call this a test of endurance.
-[SPEAKER_02]: I've already been up for several days, you said I look like it.
-[SPEAKER_02]: How many days you been up?
-[SPEAKER_01]: Dude.
-[SPEAKER_02]: Let's keep going.
-[SPEAKER_01]: No.
-[SPEAKER_02]: Why not?
-[SPEAKER_01]: Why do you want to keep up?
-[SPEAKER_01]: What is with you who are trying to get stealth with me?
-[SPEAKER_01]: Now you're pushing it really hard.
-[SPEAKER_02]: I'm saying let's switch tracks.
-[SPEAKER_02]: To what?
-[SPEAKER_02]: Okay, look.
-[SPEAKER_02]: Out in the real world, when you're not locked onto a palace for 20 years, shit just tends to happen.
-[SPEAKER_02]: And when bad shit happens, it never just happens cleanly.
-[SPEAKER_02]: It's one time and you're done after like a bad half day or even a bad day.
-[SPEAKER_02]: So what I'm suggesting is that you're done with the arcane arts.
-[SPEAKER_02]: And I get that.
-[SPEAKER_02]: Let's not be done.
-[SPEAKER_02]: I'm saying you pick a target.
-[SPEAKER_02]: Let's stealth in on it together.
-[SPEAKER_02]: You can throw a brass bowl at my knees if I fuck up on our stealthy men.
-[SPEAKER_01]: Okay, we'll do this.
-[SPEAKER_01]: How close can you get to a guard?
-[SPEAKER_01]: Whoever gets closest wins.
-[SPEAKER_01]: Are you sure?
-[out-of-band] [SPEAKER_02]: Okay, let's put some money on it.
-[out-of-band] [SPEAKER_01]: How much money?
-[out-of-band] [SPEAKER_02]: I don't know how much you got.
-[out-of-band] [SPEAKER_02]: More than me.
-[out-of-band] [SPEAKER_01]: More than me, yeah.
-[out-of-band] [SPEAKER_02]: 50 gold?
-[out-of-band] [SPEAKER_02]: 100 gold?
-[out-of-band] [SPEAKER_01]: Sure, 100 gold pieces.
-[out-of-band] [SPEAKER_02]: Okay.
-[out-of-band] [SPEAKER_02]: Which cards?
-[out-of-band] [SPEAKER_02]: I'll go first.
-[out-of-band] [SPEAKER_01]: All right.
-[out-of-band] [SPEAKER_00]: I have a question.
-[out-of-band] [SPEAKER_00]: Ending day of Porto Wilson.
-[out-of-band] [SPEAKER_00]: You guys are talking shit.
-[out-of-band] [SPEAKER_00]: As you walk up the stairs.
-[out-of-band] [SPEAKER_00]: Now,
-[out-of-band] [SPEAKER_00]: Do you want to continue his training tomorrow?
-[out-of-band] [SPEAKER_02]: Yeah.
-[out-of-band] [SPEAKER_02]: Or are there other things you wish to do as well?
-[out-of-band] [SPEAKER_02]: I think there's other things I wish to do as well.
-[out-of-band] [SPEAKER_02]: And we're either going to do those other things tonight, which is kind of...
+[SPEAKER_02A]: Why do you want to go to Ferds, by the way?
+[SPEAKER_01A]: Well, that's where I'm staying.
+[SPEAKER_02A]: Why are you staying at Ferds?
+[SPEAKER_01A]: Ferd's a good guy.
+[SPEAKER_02A]: Nooo.
+[SPEAKER_02A]: Nooo.
+[SPEAKER_02A]: He's a dirtbag.
+[SPEAKER_02A]: Nooo.
+[SPEAKER_01A]: But he's a dirtbag, I understand.
+[SPEAKER_01A]: Should I stay here?
+[SPEAKER_02A]: Okay, well, if Gion hires you, but you don't stay here...
+[SPEAKER_01A]: Why would I stay under Gion's thumb?
+[SPEAKER_02A]: You're telling me.
+[SPEAKER_02A]: A poor elf.
+[SPEAKER_01A]: Exactly.
+[SPEAKER_01A]: You stayed under his thumb for 20 years.
+[SPEAKER_01A]: No, no, no.
+[SPEAKER_02A]: You're telling me you won't want to stay in a place of royalty and palace where everything is... No, no, no.
+[SPEAKER_01A]: I've slept in the saddle.
+[SPEAKER_02A]: No, it looks like you haven't slept for days.
+[SPEAKER_02A]: It looks like you haven't slept for days.
+[SPEAKER_02A]: In fact, years maybe, someone said.
+[SPEAKER_02A]: I don't know about years.
+[SPEAKER_02A]: Oh, so it's months.
+[SPEAKER_02A]: That closer?
+[SPEAKER_01A]: Well, I like the fact that you're trying to get information from me.
+[SPEAKER_02A]: Okay, well, what I'm saying is... About how long an elf can go without, like, sleeping.
+[SPEAKER_01A]: That's important for you to know.
+[SPEAKER_02A]: So you're an elf.
+[SPEAKER_01A]: Yeah, I got pointy ears.
+[SPEAKER_02A]: I thought you hid them.
+[SPEAKER_01A]: I do, but I mean, like, if you hang out with me enough, the pointy's probably gonna stick out.
+[SPEAKER_01A]: I assume you're pretty observant.
+[SPEAKER_02A]: Yeah, that's fine.
+[SPEAKER_02A]: I noticed, but...
+[SPEAKER_02A]: Uh, no, I don't want to go to birds.
+[SPEAKER_02A]: That just seems like a waste of time.
+[SPEAKER_02A]: If you want to learn to stealth, then, like... Well, let's stealth in on, uh...
+[SPEAKER_02A]: Why would we stealth on Geon?
+[SPEAKER_01A]: Because it's right here.
+[SPEAKER_01A]: It's easy, it's close, and you won't stealth in on Bird.
+[SPEAKER_02A]: No?
+[SPEAKER_02A]: Why do you want to do Geon?
+[SPEAKER_02A]: What are you trying to get?
+[SPEAKER_02A]: How about James?
+[SPEAKER_01A]: Let's stealth in on James.
+[SPEAKER_02A]: What are you trying to get out of this?
+[SPEAKER_01A]: I'm saying let's keep going.
+[SPEAKER_01A]: You're complaining.
+[SPEAKER_01A]: Let's keep going.
+[SPEAKER_01A]: But I'm saying let's not do any of the arcane arts.
+[SPEAKER_01A]: Let's not learn any of that.
+[SPEAKER_01A]: How about if we stealth in on that one guy, the alchemist guy, when we went to his shop?
+[SPEAKER_01A]: The one guy took you to a shop.
+[SPEAKER_01A]: Get me in there.
+[SPEAKER_01A]: Tell me what I'm doing wrong.
+[SPEAKER_01A]: No way.
+[SPEAKER_02A]: Why not?
+[SPEAKER_02A]: Because you're trying to figure out if I'm an evil saint, which I'm not, but I can't prove it to you.
+[SPEAKER_01A]: Wait, what are you talking about, evil?
+[SPEAKER_02A]: Those guys, whoa, whoa.
+[SPEAKER_01A]: You're talking about the alchemist, the guy who sold me the map.
+[SPEAKER_01A]: I didn't say kill anybody.
+[SPEAKER_01A]: I said stealth in and observe.
+[SPEAKER_02A]: On who?
+[SPEAKER_01A]: The alchemist guy.
+[SPEAKER_02A]: What are you talking about?
+[SPEAKER_01A]: The alchemist.
+[SPEAKER_01A]: It's the alchemist guy.
+[SPEAKER_01A]: Weren't you with me in the square when we went back to the alchemist shop?
+[SPEAKER_02A]: I don't know.
+[SPEAKER_02A]: We should ask him.
+[SPEAKER_01A]: Okay, we can ask him.
+[SPEAKER_02A]: But even if it was the masked guy, why don't we try to find the masked guy before he closes his show?
+[SPEAKER_01A]: And then we'll follow him, and you can tell me what I'm doing.
+[SPEAKER_02A]: No, because he was part of the market on the other side of town, which is kind of rough going through.
+[SPEAKER_01A]: Well then, let's stealth in on John.
+[SPEAKER_02A]: No, what is with you and fucking stealth in?
+[SPEAKER_01A]: What I'm saying is that you have an opportunity to have the roles reversed.
+[SPEAKER_01A]: So you've been upset with how I've been teaching you.
+[SPEAKER_02A]: No, I'm not upset.
+[SPEAKER_01A]: You sure?
+[SPEAKER_01A]: You've been flipping me off for a while now.
+[SPEAKER_02A]: Yanking your chain.
+[SPEAKER_02A]: Not serious intentions.
+[SPEAKER_02A]: Okay, then call this...
+[SPEAKER_02A]: If I didn't enjoy your presence, I wouldn't have even wanted to learn from it.
+[SPEAKER_01A]: Then let's call this a test of endurance.
+[SPEAKER_01A]: I've already been up for several days, you said I look like it.
+[SPEAKER_01A]: How many days you been up?
+[SPEAKER_02A]: Dude.
+[SPEAKER_01A]: Let's keep going.
+[SPEAKER_02A]: No.
+[SPEAKER_01A]: Why not?
+[SPEAKER_02A]: Why do you want to keep up?
+[SPEAKER_02A]: What is with you who are trying to get stealth with me?
+[SPEAKER_02A]: Now you're pushing it really hard.
+[SPEAKER_01A]: I'm saying let's switch tracks.
+[SPEAKER_02A]: To what?
+[SPEAKER_01A]: Okay, look.
+[SPEAKER_01A]: Out in the real world, when you're not locked onto a palace for 20 years, shit just tends to happen.
+[SPEAKER_01A]: And when bad shit happens, it never just happens cleanly.
+[SPEAKER_01A]: It's one time and you're done after like a bad half day or even a bad day.
+[SPEAKER_01A]: So what I'm suggesting is that you're done with the arcane arts.
+[SPEAKER_01A]: And I get that.
+[SPEAKER_01A]: Let's not be done.
+[SPEAKER_01A]: I'm saying you pick a target.
+[SPEAKER_01A]: Let's stealth in on it together.
+[SPEAKER_01A]: You can throw a brass bowl at my knees if I fuck up on our stealthy men.
+[SPEAKER_02A]: Okay, we'll do this.
+[SPEAKER_02A]: How close can you get to a guard?
+[SPEAKER_02A]: Whoever gets closest wins.
+[SPEAKER_02A]: Are you sure?
+[SPEAKER_01A]: Okay, let's put some money on it.
+[SPEAKER_02A]: How much money?
+[SPEAKER_01A]: I don't know how much you got.
+[SPEAKER_01A]: More than me.
+[SPEAKER_02A]: More than me, yeah.
+[SPEAKER_01A]: 50 gold?
+[SPEAKER_01A]: 100 gold?
+[SPEAKER_02A]: Sure, 100 gold pieces.
+[SPEAKER_01A]: Okay.
+[SPEAKER_01A]: Which cards?
+[SPEAKER_01A]: I'll go first.
+[SPEAKER_02A]: All right.
+[SPEAKER_00A]: I have a question.
+[SPEAKER_00A]: Ending day of Porto Wilson.
+[SPEAKER_00A]: You guys are talking shit.
+[SPEAKER_00A]: As you walk up the stairs.
+[SPEAKER_00A]: Now,
+[SPEAKER_00A]: Do you want to continue his training tomorrow?
+[SPEAKER_01A]: Yeah.
+[SPEAKER_01A]: Or are there other things you wish to do as well?
+[SPEAKER_01A]: I think there's other things I wish to do as well.
+[SPEAKER_01A]: And we're either going to do those other things tonight, which is kind of...

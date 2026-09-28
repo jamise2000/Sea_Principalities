@@ -1,0 +1,6 @@
+# Cast for Jude_and_Leslie_return_to_lab_5th_Wealsun
+# Expected voices: 3
+DM
+Jude
+Leslie
+Guard (NPC, DM-voiced)

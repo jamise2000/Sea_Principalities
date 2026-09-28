@@ -1,34 +1,40 @@
 # Cast Mapping — Jude and Paul Begin Training (4th Wealsun)
 
-`Jude_and_Paul_begin_training_4th_Wealsun.txt` · Book Two. Maps the diarization speaker tags to who is actually talking, for turning the raw session into prose. **A tag is a voice, not a fixed character** — one tag can carry the DM's narration, an NPC's dialogue, and a player's out-of-character asides, and tags can bleed between speakers. Best inference from direct mentions, personality cues, and story context; **ambiguities flagged below for author correction.**
+`Jude_and_Paul_begin_training_4th_Wealsun.txt` · Book Two. Maps the diarization speaker tags to who is actually talking. **A tag is a voice, not a fixed character.** **Author-reviewed and resolved** (James, review pass). Line numbers below reflect the final file after the line-162 split (932 lines).
 
 **Cast (index):** Jude, Paul.
-**In the room (3 voices):** Jude's player (Steve), Paul's player, and the DM.
+**In the room (3 voices):** the **DM**, **Jude**'s player (**Steve**), and **Paul**'s player. A hands-on first magic lesson.
 
-> **Tag layout differs from the "confer" transcript.** Here SPEAKER_01 is the DM and SPEAKER_00 is Paul — do not carry the other file's assignments over.
+## Three-tag convention (character-follows) — raw layout differed
+The diarizer laid this file out differently from "confer," so raw tags were remapped to the project-wide convention (**DM=00A, Jude=01A, Paul=02A**): raw SPEAKER_01→00A (DM), raw SPEAKER_02→01A (Jude), raw SPEAKER_00→02A (Paul). Out-of-band lines keep their raw diarizer tag.
 
-## Speaker → character mapping
+| Sub-tag | Character | In-band count |
+|---------|-----------|---------------|
+| **SPEAKER_00A** | **DM** (narration, lore, adjudication) | 147 |
+| **SPEAKER_01A** | **Jude** (teacher; player = Steve) | 412 |
+| **SPEAKER_02A** | **Paul** (apprentice) | 210 |
+| `[out-of-band] [SPEAKER_0N]` | table chatter (rules, dice, mic asides) | 163 |
 
-| Tag | Primary speaker | Also carries | How we know |
-|-----|-----------------|--------------|-------------|
-| **SPEAKER_00** | Paul | — | "Homunculus" (51); "I have the papers on how I made it" (84); "Because I'm royalty?" (140); "Bro, this is my fucking palace / I sit in that chair" (671–672); "Sorcerers are garbage" (593). |
-| **SPEAKER_01** | The DM | The narration; rules adjudication; in-world lore about homunculi/Keoland | Opening narration (1); "He's the nephew of Lord Jameis" (143); homunculus lore (60–62, 99–100); all the leveling/spell-slot rulings (573–638); "So, Jude, what's the first thing you're going to teach him?" (638); the mending/light training rolls (647–738, 774–930). |
-| **SPEAKER_02** | Jude | — | The teacher's voice — "I'm gonna give you Mending and Light" (351); "No, I'm an archivist, I'll start with writing shit down" (641–642); the overreach lecture (265–281); breaks the chair and hucks the bowl (668, 697, 843). |
+## The point of the conversation
+Jude vets Paul as an apprentice, then gives him his first magic lesson. Three beats: an **interview** (why Paul wants power, his "hang-ups," his well-read upbringing under his late mother — the DM seeds that the homunculus tome came from **Grayson** and that his mother shaped his studies, both still secret from Jude); the **spell assignment** (Mending + Light as cantrips; Sleep, Detect Magic, Protection, Identify, Shield); and a **combative hands-on drill** (Jude smashes a chair for Paul to mend, then casts Light on his mask and bashes his shins to teach casting under duress). The "you don't have a daddy / your mommy's dead" needling lands on Paul's real parentage.
 
-## Flagged ambiguities (author: please correct)
-- **113–117** ("Steve? / Yeah? / I heard Steve") is a mic/recording aside, not dialogue.
-- **196–203** — "Go in and check / Is it secret? / D&D drawer / Sixteen" is garbled cross-talk around an INT check; treat as OOB, but the in-world fact it establishes (Paul's mother tightly directed his studies) surfaces cleanly at 204–214.
-- **405–407** ("I don't detect that he's a demi-human with dark vision… He's human, even though you've never seen his face") is a player↔DM mechanics check that also states an in-world fact (Paul is human); flagged rather than hard-cut.
-- **605** ("I'm gonna teach you how to take the cosmic energy of all living things and use it") is **in-character** and kept in-band even though it sits inside a long OOB spell-slot stretch.
-- **637** ("Yeah") answers the DM's OOC "Do you wish to go this way?" — a real character choice voiced OOC; keep as Paul's decision.
-- **760** ("She's dead") is tagged SPEAKER_01 (DM) confirming Paul's mother is dead, mid-argument; verify it's the DM and not Jude.
-- **887–894** — the "what season is it? / early summer, late spring" exchange is OOC scheduling but sets in-world time; kept as a flag.
+## Author rulings applied (this review pass)
+- **Line 162 — SPLIT:** 162 = Jude ("…if you're mentally fucked up or twisted in the head…"), new 163 = **Paul** ("No, I'm not mentally fucked up."). Everything after shifts +1.
+- **→ Paul (02A):** 176 ("Yeah." — answers Jude's own question), 501 ("In a castle?"), 508 ("Where are toads from?"), 761 ("She's dead."), 763 ("Oh, let me think about it.").
+- **→ Jude (01A):** 516 ("Sure they do."), 676 ("Mend it." — Jude telling Paul to mend the vase), 683 ("I don't really care."), 697 ("Right, I'm still not impressed."), 711 ("You."), 762 ("Oh, you don't have a mommy."), 817 ("I huck it."), 835 ("Light on your eyebrows."), 871 ("I'll bash him in the knee."), 872 ("I cast life first so that I don't…").
+- **→ DM (00A):** 840 ("You become blinded."), 847 ("Okay.").
+- **→ out-of-band:** 764 ("Stop telling him stuff."), 824 ("Get your own gun.").
+- **Confirmed (no change):** 861 "Call the guards." = **Paul**, saying he will call the guards.
+
+## Drafter notes
+- **16–17** — Paul starts to answer, then realizes he doesn't fully grasp what Jude means; render as Paul trailing off into a question (both stay Paul).
+- **113–117** — a mic/recording aside; **Steve is Jude's player.**
+- **205–215** — in-world fact: Paul's late mother directed his studies rigorously, giving him an academy-level education by age 10 (dramatic-irony seed — the Grayson / Lady-Jamis thread).
+- **553–565** — the swastika/"Gen Z"/Windows-logo bit is a modern out-of-band gloss on the Scarlet Brotherhood mask; drop in prose, keep the point (the mask marks belonging to something).
+- **888–895** — OOC scheduling that sets in-world time: **early summer / late spring.**
 
 ## Out-of-band table chatter
-Tagged `[out-of-band]` in the body: **113–117, 196, 201–203, 323–350, 382–383, 552–564, 573–577, 581–604, 606–636, 638, 649–662, 685–687, 713–716, 725–728, 733–736, 764, 796–803, 807, 813–815, 824–825, 868–869, 906, 909**. (This is a hands-on training session, so it is dense with mechanics: spell-selection and cantrip rules; spell-slot/"memorize = level + intelligence"/full-rest talk; wizard-vs-sorcerer-vs-warlock class banter; multiclass/leveling/"train 20 days" rules; DC-15/DC-10 rolls and dice results; the modern swastika/Nazi/"Gen Z"/Windows analogy for the Scarlet Brotherhood mask (552–564); a mic aside (715); and "sub-hints for the next AT&D session" (764).)
-
-Note: the in-world teaching action — Jude smashing the chair, Paul mending it, Jude casting light between Paul's eyes and getting a bowl to the shin (663–738, 830–915) — is kept **in-band**; only the bracketing dice/DC/time mechanics are marked OOB.
+`[out-of-band]` (raw diarizer tags): the spell-selection/cantrip rules, spell-slot & "memorize = level + INT" & full-rest talk, wizard/sorcerer/warlock banter, multiclass/leveling/"train 20 days" rules, all DC/dice rolls, mic asides, and (added this pass) **764** "Stop telling him stuff" and **824** "Get your own gun." The in-world teaching action (chair-smash/mend, the Light-and-bowl drill) stays in-band.
 
 ## Speaker discontinuities
-- The spell-mechanics stretch (573–638) is a three-way OOC discussion (Jude's player, Paul's player, DM) collapsed mostly into SPEAKER_01/SPEAKER_02; tags do not track turns.
-- SPEAKER_01 (DM) carries both narration *and* the lore that reads like an NPC voice (e.g., 60–62, 204–214); split narration from in-world exposition when prosifying.
+- No "reading the wrong part" type; the pervasive two-player collapse in the banter and combat-drill stretches is now resolved by author sift.

@@ -1,25 +1,35 @@
 # Cast Mapping — Paul Examines the Alchemist's Body (4th Wealsun)
 
-`Paul_examines_Alchemists_body_4th_Wealsun.txt` · Book Two. Maps the diarization speaker tags to who is actually talking, for turning the raw session into prose. **A tag is a voice, not a fixed character** — one tag can carry the DM's narration, an NPC's dialogue, and a player's out-of-character asides, and tags can bleed between speakers. Best inference from direct mentions, personality cues, and story context; **ambiguities flagged below for author correction.**
+`Paul_examines_Alchemists_body_4th_Wealsun.txt` · Book Two. Maps the diarization speaker tags to who is actually talking, for turning the raw session into prose. **Character-locked tags:** the **A-series** is reserved for player characters and DM narration; **NPCs use the B-series**. Best inference from direct mentions, personality cues, and story context; **ambiguities flagged below for author correction.**
 
-**Cast (index):** Paul, Rodiger (NPC, DM-voiced), the sergeant / Sergeant Holt (NPC, DM-voiced, brief hand-off only).
-**In the room (2 voices):** the player running Paul, and the DM (narrating and voicing Rodiger, with a one-line hand-off from the sergeant).
+**Cast (index):** Paul Rivero (PC), the DM (narration), Rodiger (NPC), the sergeant (NPC, brief prisoner hand-off only).
+**In the room (2 voices):** the player running Paul, and the DM (narrating and voicing Rodiger, with a one-line hand-off from the sergeant). NPCs are separated onto their own B-tags by content.
 
-## Speaker → character mapping
+## Speaker → character mapping (final, character-locked)
 
-| Tag | Primary speaker | Also carries | How we know |
-|-----|-----------------|--------------|-------------|
-| **SPEAKER_01** | The DM (all narration) | Rodiger's dialogue (6–9, 13, 28–30, 41–56, 61, 68–74, 82–94), the sergeant's prisoner hand-off (2–3) | The description of the body, the sewer, and the black quicksilver ooze are all narration on this tag; Rodiger's questions ("do you know what that is?") land here. |
-| **SPEAKER_00** | Paul Rivero | — | First-person examination and orders — collecting the ooze in a vial, ordering the body to the palace, wondering where Jude fled (10–12, 27, 62–105). |
+| Tag | Character | Role | Lines |
+|-----|-----------|------|-------|
+| **SPEAKER_00A** | The DM | Narration — the body, the sewer, the black quicksilver ooze | 51 |
+| **SPEAKER_02A** | Paul Rivero | PC — first-person examination and orders | 53 |
+| **SPEAKER_01B** | Rodiger | NPC — the guardsman who leads Paul to the body (6–9, 13, 61, 78, 80, 82, 85, 89, 91–94) | 15 |
+| **SPEAKER_02B** | The sergeant | NPC — prisoner hand-off only (2–3), then departs | 2 |
+
+Raw→locked remap applied: raw SPEAKER_00 → Paul (02A), raw SPEAKER_01 → DM (00A); Rodiger's NPC lines lifted off the DM voice onto 01B, the sergeant's hand-off onto 02B. Bleed fixes: line 30 → Paul (02A), line 76 → DM (00A).
+
+**Author review applied (2nd pass):** 17,43,45,49,58,118 → Paul; 26 → DM; 78,80 → Rodiger; line 120 "Okay." tagged DM. Text fixes in-body: 85 "cards"→"carts", 98 "Jew"→"Jude".
+
+## Point of the conversation
+Paul returns to the burned alchemy building, is led down into the sewer beneath it, and examines Albashon's body. He finds a black, quicksilver-like ooze on/near the corpse, collects it in a vial for later analysis (this is the insidious poison), orders the body taken to the palace, and reasons about where Jude has fled.
 
 ## Flagged ambiguities (author: please correct)
-- **Content error (do NOT tag as table chatter — it is a mis-stated header):** line 1 reads "**At 2 p.m.**" but the entire scene is night (it directly follows the nighttime fire/raid). The time stamp is wrong; the author should correct it to evening/night.
+- **Content error (a mis-stated header, not table chatter):** line 1 reads "**At 2 p.m.**" but the entire scene is night — it directly follows the nighttime fire/raid. The time stamp is wrong; correct it to evening/night.
 - **Transcription garble:** line 98 "If I were a **Jew**, what would I do?" is a mishearing of "If I were **Jude**" — Paul is reasoning about where Jude would have gone. Correct to Jude.
-- Line 26 "The skin is discolorized" sits on SPEAKER_00 but reads as observation shared between Paul and the DM — minor bleed; either voice works.
+- **Transcription garble:** line 85 "**cards**" is a mishearing of "**carts**."
+- Line 77 is ambiguous between Rodiger and Paul; currently read as the DM prompt (00A). Confirm if it should be Rodiger.
 - Descriptive words "mercury / quicksilver / BB" (48–55) are the DM's metaphors for the black ooze; "BB" is slightly modern if the author wants period phrasing.
 
-## Out-of-band table chatter
-**None.** This is a quiet investigation scene with no dice, rules, or real-world chatter. (See the two content issues flagged above — the erroneous "2 p.m." header and the "Jew"/Jude garble — which are correction notes, not out-of-band tags.)
+## Out-of-band / game mechanics
+**None.** This is a quiet investigation scene — no dice, rules, damage, or real-world chatter. (The "2 p.m." header and the "Jew"/Jude garble above are correction notes, not tags.)
 
 ## Speaker discontinuities
-- The sergeant (Holt) speaks only the prisoner hand-off at 2–3, then departs; Rodiger holds the NPC voice for the rest of the scene.
+- The sergeant speaks only the prisoner hand-off at 2–3, then departs; Rodiger holds the NPC voice for the rest of the scene.

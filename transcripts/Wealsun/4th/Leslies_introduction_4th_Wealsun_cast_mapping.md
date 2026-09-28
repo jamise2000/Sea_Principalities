@@ -1,29 +1,30 @@
 # Cast Mapping — Leslie's Introduction (4th Wealsun)
 
-`Leslies_introduction_4th_Wealsun.txt` · Book Two. Maps the diarization speaker tags to who is actually talking, for turning the raw session into prose. **A tag is a voice, not a fixed character** — one tag can carry the DM's narration, an NPC's dialogue, and a player's out-of-character asides, and tags can bleed between speakers. Best inference from direct mentions, personality cues, and story context; **ambiguities flagged below for author correction.**
+`Leslies_introduction_4th_Wealsun.txt` · Book Two. Maps the diarization speaker tags to who is actually talking. **A tag is a voice, not a fixed character.** This is a **session-zero backstory briefing** for the new PC **Leslie**, not a dramatized scene — it is source material for Leslie's backstory. No in-character dialogue occurs.
 
-**Cast (index):** Leslie (new PC — Oeridian sage-wizard), Albashon (his master, **described only, not present/voiced here**). Jude is listed in the folder cast but **does not appear or speak** in this file.
-**In the room (2 effective voices):** the DM (delivering Leslie's character-creation backstory) and Leslie's player (asking a few questions).
+**Cast (index):** **Leslie** (new PC — Oeridian sage-wizard), Albashon (his master — described, not present here). Jude is in the folder cast but does not appear/speak.
+**Effective voices:** the **DM** (all the backstory exposition) and **Leslie's player** (a few OOC questions).
 
-> This is a **session-zero backstory briefing**, not a dramatized scene: the DM narrates who Leslie is, his mentor Albashon, the foreign district, and Suel vs. Oeridian lore. It is source material for Leslie's backstory rather than in-scene action.
+## Tag scheme (A = PC/DM, B = NPC)
+The diarizer split the single DM narrator across raw tags 00 **and** 01 — both collapsed to **00A**. Leslie's player's OOC session-zero questions are `[out-of-band]`. **Leslie (the PC) will be `SPEAKER_03A` when he speaks in-character** in later transcripts; he has no in-character line here.
 
-## Speaker → character mapping
+| Sub-tag | Speaker | Count |
+|---------|---------|-------|
+| **SPEAKER_00A** | **DM** — all backstory narration (raw 00 + 01 merged, + the mentor-name answer at 82) | 107 |
+| `[out-of-band] [SPEAKER_0N]` | Leslie's-player OOC questions + ready-check | 14 |
 
-| Tag | Primary speaker | Also carries | How we know |
-|-----|-----------------|--------------|-------------|
-| **SPEAKER_00** | The DM — backstory narration (mentor, foreign district, Suel/Oeridian races, princes) | A couple of Leslie's short answers bleed in (118 "Nope", 121 "Yes") | Second-person exposition throughout ("your mentor," "you feel yourself lucky"); no in-character NPC voicing. |
-| **SPEAKER_01** | The DM — **same backstory narration** (a second diarized voice for one narrator) | — | Content is indistinguishable DM exposition, interleaved sentence-by-sentence with SPEAKER_00 (e.g. 11–15, 21–24, 57–70). Treat 00 and 01 as one DM voice. |
-| **SPEAKER_02** | **Leslie's player** (out-of-character questions) | — | Asks "Are they still doing exceptionally good?" (41), "is that his name or his race?" (81), and the ready-check answers. |
+## The point of the conversation (Leslie's backstory)
+Leslie is an **Oeridian ("Iridian") sage-wizard** from a **wealthy Monmurg merchant family**, who chose scholarship over the family trade and exhausted the libraries he could reach. He apprenticed to **Albashon** — the old **Suel transmuter/alchemist** in the foreign district (the very man attacked in the combat transcripts) — who, unusually for a Suel, took on an Oeridian pupil. Over years as Albashon's lab assistant, Leslie learned to cast spells, got his spellbook, and (rare for an Oeridian) was taught to read **Ancient Suel, the language of magic**, working from the **Magnum Opus**, a thousand-year-old transmutation tome by **Ujor Udias**. The briefing also lays out Suel vs. Oeridian racial lore and the five princes of the Sea Principalities (one of Suel descent — the Toli).
 
-## Flagged ambiguities (author: please correct)
-- **SPEAKER_00 and SPEAKER_01 are the same person (the DM).** The diarizer split one narrator across two tags; do not read them as two characters. This is the defining quirk of this file.
-- **82** ("Albinath is his name") is tagged SPEAKER_02 but is the DM answering the player's race-vs-name question; **83** ("Sewell is his race") confirms it under 01. Attribute the answer to the DM.
-- Albashon is only *described* here (old, Suel, a transmuter, unbiased toward Oeridian apprentices) — no in-character lines to map. Jude is entirely absent despite the folder cast list.
-- Normalizations: "Albinath/Albinath" → **Albashon**; "Sewell/Seul/Sualar" → **Suel**; "Iridian/Aridian/Arrhenius/Iradian" → **Oeridian**; "Ujor Udias" (60), "Vangna" (67) — confirm spellings; "Toli" (112) → the Suel **Toli** line (Cain/Sacnon Toli).
+## Canon / names
+- **Leslie** — new PC; Oeridian sage-wizard; **Albashon's apprentice** (this is how he enters the story: his master is under attack).
+- **"Albinath" (82)** = **Albashon** (ASR variant of the mentor's name).
+- **Magnum Opus** / **Ujor Udias** — the transmutation tome and its ancient-Suel author (new proper noun — flag for the Name Key).
+- **Vangna (67)** — rumored to have been a powerful **Flan(nish) wizard who became a necromancer** (ties to Albashon's "look into Vangna" in `Jude_in_Alchemy_shop`).
+- "Iridian/Aridian/Arrhenius" = **Oeridian**; "Seul/Sewell/Sualar/Sula" = **Suel** (per Name Key).
 
 ## Out-of-band table chatter
-Tagged `[out-of-band]` in the body: the session logistics/check-ins around the exposition — **74** ("Okay."), **80** ("No, not really."), and **117–121** ("Any questions? / Nope. / Okay, Leslie. Are you ready to start? / Yes."). (These are table Q&A / session-start logistics, not backstory content. Note 80–82 also contains a genuine lore question — keep the question's substance, drop the "ready?" framing.) The backstory narration itself is **in-band** worldbuilding, not chatter.
+`[out-of-band]`: **41–46** (the OOC "is the business doing well?" clarify exchange), **74, 80, 81** (player asides / the name-vs-race question), **117–121** (the "any questions? / ready to start?" session-zero ready-check).
 
 ## Speaker discontinuities
-- Continuous 00↔01 alternation for a single narrator (see flags) — the biggest thing to correct here.
-- Leslie's answers occasionally surface under SPEAKER_00 (118, 121) instead of SPEAKER_02.
+- **The DM was split across two diarizer tags (00 and 01)** — merged to one DM voice (00A). That is the defining quirk of this file. No reading-the-wrong-part issues.

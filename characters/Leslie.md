@@ -14,7 +14,7 @@ He is a **wizard** in the learned, studious sense (knowledge and technique, not 
 
 ## Story Entry (4th Wealsun)
 
-The **Scarlet Brotherhood** struck Albashon's shop by night, killing the master alchemist. Leslie escaped the raid **with Jude**, the two of them going down into the tunnels/sewers beneath the Foreign District, Jude cleaning the filth off them with a cantrip, and climbing out a manhole into **Blood Alley — the dangerous cut behind Ferd's Bar** that Leslie knows well. He emerges attached to Jude and, presumably, drawn into the party's orbit from here.
+The **Scarlet Brotherhood** struck Albashon's shop by night, killing the master alchemist. Leslie escaped the raid **with Jude**, the two of them going down into the tunnels/sewers beneath the Foreign District, Jude cleaning the filth off them with a cantrip, and climbing out a manhole into **Blood Alley — the dangerous cut behind Ferd's Bar** that Leslie knows well. He emerges attached to Jude and, presumably, drawn into the party's orbit from here. (He is the **second escapee** the Scarlet Brotherhood reports as the "boy"/"young noble" who fled with the elf — but he is **not actually a noble**; that is their mistaken read of a merchant's son.)
 
 ## Cross-References
 
