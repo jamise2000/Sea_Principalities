@@ -1,0 +1,2155 @@
+[SPEAKER_00A]: At six of the Wealsun, 10 p.m. in the evening, the party has a discussion on the cliffs above the smuggling sloop and its small dock.
+[game mechanics] [SPEAKER_00A]: Okay.
+[SPEAKER_05A]: So you, Folsom, you got back because you did all that stuff.
+[SPEAKER_05A]: You almost got captured and stuff.
+[SPEAKER_05A]: Is there any other information?
+[SPEAKER_05A]: Why did you rush us back out from the dock?
+[SPEAKER_07A]: Well, I was getting chased by one of Owen's workers who were going to enslave me, so I just tried to get back to you guys because Owen told me that you guys would be dead.
+[SPEAKER_07A]: Okay.
+[SPEAKER_05A]: Okay.
+[SPEAKER_05A]: You don't have any more information about, like, why he's doing what he's doing or...
+[SPEAKER_05A]: Who's he meeting with?
+[SPEAKER_05A]: The guy in the castle or something?
+[SPEAKER_07A]: Yeah, they were really pressing me about me being interested in that amulet that controls the turtle dragons.
+[game mechanics] [SPEAKER_04A]: While they're talking, I want to look down the beach, because after hearing that, make sure it's not being followed and a group of people are gathering to come see us, so I want to sit there and check that out.
+[game mechanics] [SPEAKER_04A]: Roll a perception check.
+[game mechanics] [SPEAKER_04A]: Plus eight.
+[game mechanics] [SPEAKER_04A]: Twenty-one.
+[SPEAKER_00A]: You notice a group of men with torches and a guy on horseback actually about
+[SPEAKER_00A]: 600 feet away, marching down the shore.
+[SPEAKER_00A]: There aren't that many people out anymore, but this is kind of an outdoor market.
+[SPEAKER_00A]: Red Shore seems a little wild at this point, but they're getting out of their way.
+[SPEAKER_04A]: Okay.
+[SPEAKER_00A]: Heads up.
+[SPEAKER_00A]: Horseback.
+[SPEAKER_00A]: Dipping in the shadows.
+[SPEAKER_00A]: Now remember you guys were here to wait for Owen Black to see if he would come back to this place.
+[SPEAKER_06A]: Yeah, go back to the ship there.
+[SPEAKER_06A]: Okay.
+[SPEAKER_06A]: So there's a guy and a horse and how many other dudes?
+[SPEAKER_06A]: It looks like a group of ten.
+[SPEAKER_05A]: Okay.
+[SPEAKER_05A]: Who's got better eyes?
+[SPEAKER_05A]: Do I recognize any of them?
+[SPEAKER_00A]: No, and it's dark.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Do you guys want to wait where you're at and just watch what happens?
+[SPEAKER_05A]: Yeah, I think we should wait and see what these guys are doing.
+[SPEAKER_00A]: Definitely want to wait.
+[SPEAKER_00A]: Okay, so you guys wait in the shadow.
+[game mechanics] [SPEAKER_00A]: Roll your stealth.
+[game mechanics] [SPEAKER_00A]: Hiding in the bushes.
+[game mechanics] [SPEAKER_00A]: With your stealth.
+[game mechanics] [SPEAKER_00A]: Stealth is plus ten.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_05A]: Nineteen.
+[game mechanics] [SPEAKER_05A]: Five plus five, ten.
+[game mechanics] [SPEAKER_05A]: Ten.
+[game mechanics] [SPEAKER_05A]: All right.
+[game mechanics] [SPEAKER_05A]: Nine.
+[game mechanics] [SPEAKER_06A]: Five plus four is nine.
+[game mechanics] [SPEAKER_06A]: Nine.
+[game mechanics] [SPEAKER_06A]: I haven't thought about being stealth with this guy, so I don't know what else to...
+[game mechanics] [SPEAKER_06A]: The stealth is at the very bottom.
+[game mechanics] [SPEAKER_00A]: So I'm at eleven.
+[game mechanics] [SPEAKER_00A]: Eleven.
+[game mechanics] [SPEAKER_00A]: Okay.
+[SPEAKER_00A]: So, the three of you, I mean the four of you hide in the square.
+[SPEAKER_00A]: And this unit of guys walk up.
+[SPEAKER_00A]: And as they get closer, you begin to realize that this is definitely a military unit.
+[SPEAKER_00A]: However, it's strange to your eyes.
+[SPEAKER_00A]: Kind of in a way out of a different world because these are guys that are carrying haliburds.
+[SPEAKER_00A]: And wearing ringmail armor, which is kind of a heavy armor that's popular among mercenaries or men-at-arms in the Kingdom of Keoland.
+[SPEAKER_00A]: Such armor would never be bought in Monmurg because it's kind of an old-school way of
+[SPEAKER_00A]: Making things, right?
+[SPEAKER_00A]: Heavy armor, right?
+[SPEAKER_00A]: But, you know, scale mail, which is a lighter mail that is made by the principalities and used by Marines, it's much more practical, especially if you're gonna be on board a ship.
+[SPEAKER_00A]: Somebody that got dumped into the water in ring mail would drown.
+[SPEAKER_06A]: So these are obviously from...
+[SPEAKER_06A]: The men-at-war.
+[SPEAKER_06A]: This group is from the men-at-war.
+[SPEAKER_00A]: Absolutely not.
+[SPEAKER_00A]: In fact, you know exactly the marines of the Gradsolian fleet, where scale shirts.
+[SPEAKER_00A]: Right.
+[SPEAKER_00A]: This is archaic.
+[SPEAKER_00A]: This is like some lord.
+[SPEAKER_00A]: That has men-at-arms under his hire.
+[SPEAKER_00A]: These guys never leave the beach.
+[SPEAKER_00A]: I mean never leave them.
+[SPEAKER_00A]: Obviously.
+[SPEAKER_00A]: And what tips you up even more is the fact that the guy on horseback is wearing chainmail armor and he's dressed up like a Keog knight from the mainland.
+[SPEAKER_00A]: So it's pretty obvious
+[SPEAKER_00A]: That the Earl of Regfort has his royal guard.
+[SPEAKER_06A]: What this tells you is, one, these guys don't get on boats, and two, they're probably pretty tough.
+[SPEAKER_00A]: They're wearing heavy armor.
+[SPEAKER_00A]: These are not Toli rats feeding you with clubs.
+[SPEAKER_00A]: They've got haliburts.
+[SPEAKER_00A]: They've got longswords.
+[SPEAKER_00A]: They've got maces.
+[SPEAKER_00A]: They're armed.
+[SPEAKER_00A]: Yeah, they move like a unit.
+[SPEAKER_00A]: They move like a unit.
+[SPEAKER_00A]: Now, they don't move like a unit of marines.
+[SPEAKER_00A]: So you think that a unit of marines could probably take them on and do well against them.
+[SPEAKER_00A]: But one of these guys could probably beat the crap out of any marine that you had on.
+[SPEAKER_00A]: And the knight, on his horse, if he's on land, dangerous.
+[SPEAKER_00A]: What does it look like they're doing?
+[SPEAKER_00A]: Like a patrol?
+[SPEAKER_00A]: They move down the beach, very purposefully, right to the docks, looking around.
+[SPEAKER_00A]: And the knight basically gives orders, search the boat.
+[SPEAKER_00A]: Four of the men guard the wharves while the other four go into the boat and start searching through it.
+[SPEAKER_00A]: What do you guys want to do?
+[SPEAKER_06A]: I say we stay put, just wait this out.
+[SPEAKER_04A]: Okay, so they're searching our boat.
+[SPEAKER_04A]: Probably for us.
+[SPEAKER_06A]: Probably.
+[SPEAKER_06A]: Only four out there.
+[SPEAKER_06A]: Yeah, maybe it might be for us, maybe it's for, what's his name?
+[SPEAKER_06A]: Owen.
+[SPEAKER_06A]: Owen, maybe he's crossed some lines that he shouldn't have.
+[SPEAKER_06A]: There's no way, I think.
+[SPEAKER_07A]: I won't think the people around these places are all for hire and working under Caintoli and they would probably be after us, I would assume.
+[SPEAKER_05A]: Not after Owen?
+[SPEAKER_05A]: No.
+[SPEAKER_05A]: Well, I am assuming that even Owen might have been paid out by someone else.
+[SPEAKER_05A]: Let them search the boat.
+[SPEAKER_05A]: I think that's fine.
+[SPEAKER_05A]: But when they go to leave, I think...
+[SPEAKER_05A]: The ones who are stealthy, we should follow them at a... Can we even walk up the cliffside and watch them from afar?
+[SPEAKER_05A]: Or are we going to lose them if we keep walking where we are?
+[SPEAKER_00A]: Well, if you want to skirt the coastline, you can.
+[SPEAKER_00A]: But there are buildings on top, right?
+[SPEAKER_00A]: So, I mean...
+[SPEAKER_00A]: It's up to you, right?
+[SPEAKER_00A]: Easiest way to follow them would be going back on the shoreline.
+[SPEAKER_00A]: Okay.
+[SPEAKER_04A]: All right, they're there.
+[SPEAKER_04A]: There's more than there's other people around.
+[SPEAKER_04A]: Yeah.
+[SPEAKER_04A]: What's the distance again to where they're at now?
+[game mechanics] [SPEAKER_00A]: About 130 feet to the docks, 150 to the sloop itself.
+[SPEAKER_04A]: Okay, so we're not that far away.
+[SPEAKER_06A]: I'm sitting, I'm not breathing, moving a muscle.
+[SPEAKER_00A]: You guys are just basically sitting in the docks.
+[SPEAKER_00A]: Yeah, I want to at least get my crossbow loaded.
+[SPEAKER_00A]: All right, so I'm sitting here.
+[SPEAKER_00A]: Take out your crossbow and load it.
+[SPEAKER_05A]: Yep.
+[SPEAKER_05A]: That ship's our only way out of here, as of now.
+[SPEAKER_05A]: There's plenty of ships.
+[SPEAKER_05A]: Yes, but there's someone else's ship.
+[SPEAKER_00A]: We can see that.
+[SPEAKER_00A]: One of the men, after about four minutes, I assume you guys want to stick around there, comes out and basically says, we found no one on board, sir.
+[SPEAKER_00A]: You guys can hear him.
+[SPEAKER_00A]: It's pretty silent right now.
+[SPEAKER_00A]: If there was crew here, it's not here now.
+[SPEAKER_00A]: The boat seems empty.
+[SPEAKER_00A]: We found a couple of crates, but it looks like some food has been taken.
+[SPEAKER_00A]: The guy nods.
+[SPEAKER_00A]: And he starts looking.
+[SPEAKER_00A]: Up the docks.
+[SPEAKER_05A]: Scanning the area.
+[SPEAKER_05A]: Okay.
+[SPEAKER_05A]: Let's get back.
+[SPEAKER_05A]: Is there shrubbery around us and stuff?
+[SPEAKER_05A]: Yeah.
+[SPEAKER_05A]: Okay.
+[SPEAKER_06A]: I'm just not moving.
+[SPEAKER_01B]: You there, in the darkness.
+[SPEAKER_01B]: Who are you?
+[SPEAKER_00A]: Obviously, he's only seen one person.
+[SPEAKER_01B]: I see your form.
+[SPEAKER_01B]: State your name.
+[SPEAKER_07A]: Who, me?
+[SPEAKER_05A]: Can I whisper things that he's close enough?
+[SPEAKER_05A]: If you want to, but you might actually give yourself up.
+[SPEAKER_05A]: Okay, I'm going to look at him and be like...
+[SPEAKER_07A]: I start walking towards him.
+[SPEAKER_07A]: You get up and actually start walking down towards him?
+[SPEAKER_07A]: I show myself and just appear.
+[SPEAKER_07A]: And I say, oh, I'm just an observer of just...
+[SPEAKER_07A]: Walking around and enjoying the view of the dock and the merchant.
+[SPEAKER_01B]: An observer, you say.
+[SPEAKER_01B]: What's your name?
+[SPEAKER_07A]: My name's Owen.
+[SPEAKER_06A]: What?
+[SPEAKER_01B]: I would have words with you, Owen.
+[SPEAKER_01B]: Come down here.
+[SPEAKER_00A]: And he basically kind of trots his horse up closer to where you guys are at.
+[SPEAKER_04A]: Don't go over there!
+[SPEAKER_04A]: Don't go over there!
+[SPEAKER_07A]: I...
+[SPEAKER_07A]: I start...
+[SPEAKER_07A]: I'm just gonna start walking towards him.
+[SPEAKER_00A]: You start walking towards him?
+[out-of-band] Be drunk.
+[SPEAKER_07A]: Yeah.
+[SPEAKER_00A]: Okay, so... Three of you see where you're at in the darkness.
+[SPEAKER_05A]: I love my longbow.
+[SPEAKER_05A]: So you pull out a bow.
+[SPEAKER_00A]: Okay, and you can tell from the look of Gouge's face, he is very concerned.
+[SPEAKER_00A]: So how far down the path are you going to walk?
+[SPEAKER_07A]: How far?
+[SPEAKER_07A]: Like you said, 100 feet?
+[SPEAKER_00A]: He's 120 feet from the docks.
+[SPEAKER_00A]: Actually, he starts riding his horse up to the beginning of the trail.
+[SPEAKER_00A]: So he's probably 40 feet more, and you have to take the trail down to where he is.
+[SPEAKER_00A]: Gotcha.
+[SPEAKER_00A]: Do you want to walk down it, or do you want to stop where you're at?
+[SPEAKER_00A]: Fall down.
+[game mechanics] [SPEAKER_07A]: I was gonna start on the trail trip and like purposely stumble and like roll around and like the- I'm assuming it's a really dirty path just like fully just rough myself up.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_07A]: He looks back.
+[game mechanics] [SPEAKER_07A]: Now roll your performance.
+[game mechanics] [SPEAKER_07A]: It's almost a nat 20.
+[game mechanics] [SPEAKER_07A]: Uh, it's two plus...
+[game mechanics] [SPEAKER_00A]: Two plus eight is a ten.
+[SPEAKER_00A]: Alright, so he stumbles down, Folsom stumbles down, and you hear this guy go, get that drunkard!
+[SPEAKER_00A]: And two guys with halibirds start running up the path towards him.
+[SPEAKER_05A]: Okay.
+[SPEAKER_05A]: I really think we just gotta let him do his thing.
+[SPEAKER_05A]: We're not taking these guys on right now.
+[SPEAKER_05A]: Maybe he should have a buddy.
+[SPEAKER_07A]: Can you act like...
+[SPEAKER_07A]: I'm gonna... Do I hear them yell, take that drunkard?
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: And the guys start running up, these two guys, and actually everybody else in the unit is gathered on the dock, right?
+[SPEAKER_00A]: And these two guys start running up the footpath towards you guys.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: I go down and...
+[out-of-band] [SPEAKER_01]: And Folsom's phone rings.
+[SPEAKER_04A]: I don't want to lose my prone position, but I'd be the best drunkard because I do have flasks on me.
+[SPEAKER_07A]: No, I got something cooking.
+[SPEAKER_05A]: I said Folsom got clean.
+[SPEAKER_07A]: Let's get through this.
+[SPEAKER_07A]: What do you want to do?
+[SPEAKER_07A]: I was going to wait for Tyrus, but I am going to yell down on him and be like, when he yelled, uh, get that drunkard, I yell, on what account?
+[SPEAKER_07A]: Can't a man enjoy a few beverages on his own some?
+[SPEAKER_00A]: On his own some?
+[SPEAKER_00A]: The guy goes, the guy on the horse said, the Earl wants to speak with you, Owen Black.
+[SPEAKER_00A]: And you realize, at that moment, he thinks you're Owen Black.
+[SPEAKER_00A]: Right?
+[SPEAKER_00A]: And these guys start running up to you.
+[SPEAKER_07A]: Yeah.
+[SPEAKER_00A]: Okay, so, are you guys gonna let these guys run up on Folsom?
+[SPEAKER_00A]: Yep.
+[SPEAKER_06A]: So...
+[game mechanics] [SPEAKER_06A]: I'm no good at being stealthy.
+[game mechanics] [SPEAKER_00A]: You rolled a 10, and they have not seen you yet.
+[game mechanics] [SPEAKER_06A]: Right.
+[game mechanics] [SPEAKER_00A]: But...
+[game mechanics] [SPEAKER_00A]: I was a 10.
+[game mechanics] [SPEAKER_00A]: You rolled an 11.
+[SPEAKER_06A]: I'm going to look and gouge and go, maybe you should have a buddy.
+[SPEAKER_06A]: And I'm going to undo my pants and come stumbling out of the dome.
+[SPEAKER_07A]: Am I seeing Tyrus do this?
+[SPEAKER_07A]: You hear him do this.
+[SPEAKER_07A]: Tyrus gets up and starts stumbling in.
+[SPEAKER_06A]: Pissing the whole way.
+[SPEAKER_06A]: And I'm going to start singing a sailing song.
+[SPEAKER_06A]: Just pissing all over the place.
+[SPEAKER_00A]: Okay, so these guys are around away.
+[SPEAKER_00A]: And I'm going to give you guys the opportunity here.
+[SPEAKER_00A]: They're around away from you.
+[SPEAKER_00A]: You stand up.
+[SPEAKER_00A]: The two of you are still hidden in the bushes.
+[SPEAKER_00A]: One of the men says, there's more of them!
+[SPEAKER_00A]: And the knight goes, roust the bushes!
+[SPEAKER_00A]: Get them all!
+[SPEAKER_00A]: And those guys from on the docks start busting up.
+[game mechanics] [SPEAKER_00A]: You roll the niche.
+[game mechanics] [SPEAKER_00A]: These guys are rushing up to you.
+[game mechanics] [SPEAKER_00A]: If you want to say something, you can say it now.
+[game mechanics] [SPEAKER_07A]: Okay, roll the niche.
+[game mechanics] [SPEAKER_06A]: You guys can hide a whole lot better than I can, so...
+[game mechanics] [SPEAKER_07A]: 18.
+[game mechanics] [SPEAKER_07A]: 18 total?
+[game mechanics] [SPEAKER_07A]: Is it just 10 rolling?
+[game mechanics] [SPEAKER_07A]: No, all of you.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_00A]: Fuck.
+[game mechanics] [SPEAKER_00A]: 10.
+[game mechanics] [SPEAKER_00A]: 20.
+[game mechanics] [SPEAKER_04A]: 10, 20.
+[game mechanics] [SPEAKER_04A]: 17.
+[game mechanics] [SPEAKER_04A]: 17 total?
+[game mechanics] [SPEAKER_04A]: Yes.
+[game mechanics] [SPEAKER_00A]: So that's Gouge, Tyrus, that's Folsom, Merrick.
+[game mechanics] [SPEAKER_00A]: Can you hear them?
+[game mechanics] [SPEAKER_00A]: The men-at-arms, closest.
+[game mechanics] [SPEAKER_00A]: Get...
+[game mechanics] [SPEAKER_05A]: You can see it from there.
+[game mechanics] [SPEAKER_00A]: I can't even see a number.
+[game mechanics] [SPEAKER_00A]: And here's the knight.
+[game mechanics] [SPEAKER_00A]: He gets a nine.
+[game mechanics] [SPEAKER_00A]: All right, so, Tyrus, you're first.
+[game mechanics] [SPEAKER_06A]: What do you want to do?
+[game mechanics] [SPEAKER_06A]: I told you, drop trow, start pissing and singing a shanty song out of the bushes and
+[game mechanics] [SPEAKER_06A]: Wander down the trail.
+[game mechanics] [SPEAKER_06A]: Towards them?
+[game mechanics] [SPEAKER_06A]: Yeah, just, yeah.
+[game mechanics] [SPEAKER_06A]: And to get as far away from these guys, I'm going to move as much as I can in that.
+[game mechanics] [SPEAKER_00A]: So you stumble 30 feet towards the guys.
+[game mechanics] [SPEAKER_00A]: 30 feet towards the guys.
+[game mechanics] [SPEAKER_00A]: So you're going to be within grappling range.
+[game mechanics] [SPEAKER_00A]: That's fine.
+[game mechanics] [SPEAKER_06A]: And pissing away, singing, and doing my best impersonation.
+[game mechanics] [SPEAKER_06A]: I've been drunk plenty of times, so I know how to get drunk.
+[game mechanics] [SPEAKER_06A]: And start pissing and singing and present no combat.
+[game mechanics] [SPEAKER_06A]: No threat.
+[game mechanics] [SPEAKER_06A]: No threat of a combat.
+[game mechanics] [SPEAKER_00A]: Yeah, you have your weapon.
+[game mechanics] [SPEAKER_00A]: Right.
+[game mechanics] [SPEAKER_00A]: I mean, I have weapons on me, but I mean, I don't have anything in my hand.
+[game mechanics] [SPEAKER_00A]: Right.
+[game mechanics] [SPEAKER_00A]: But you have a brass plate.
+[game mechanics] [SPEAKER_00A]: Right.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_06A]: But I mean, I'm just pissing and singing at the top of my lungs.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_00A]: So you basically try to act.
+[game mechanics] [SPEAKER_00A]: Do your performance roll.
+[game mechanics] [SPEAKER_00A]: You actually have a pretty good performance ability.
+[game mechanics] [SPEAKER_06A]: I have a plus four, yeah.
+[game mechanics] [SPEAKER_06A]: So let's see.
+[game mechanics] [SPEAKER_06A]: Is that seventeen?
+[game mechanics] [SPEAKER_06A]: Yeah.
+[game mechanics] [SPEAKER_06A]: Seventeen plus four.
+[game mechanics] [SPEAKER_06A]: Twenty-one.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Very good.
+[game mechanics] [SPEAKER_00A]: So he does a very convincing staggering towards the thing.
+[game mechanics] [SPEAKER_00A]: The next person to go is, uh, that was Tyrus?
+[game mechanics] [SPEAKER_00A]: Folsom.
+[game mechanics] [SPEAKER_00A]: Folsom.
+[game mechanics] [SPEAKER_00A]: What are you gonna do?
+[game mechanics] [SPEAKER_07A]: I am going to...
+[game mechanics] [SPEAKER_07A]: The knight is a hundred or so feet away from me.
+[game mechanics] [SPEAKER_00A]: I would say he's more like, at this point, sixty feet away from you.
+[game mechanics] [SPEAKER_00A]: On his horse.
+[game mechanics] [SPEAKER_07A]: Okay.
+[game mechanics] [SPEAKER_07A]: Um...
+[game mechanics] [SPEAKER_07A]: I... And they're one action away from me.
+[game mechanics] [SPEAKER_00A]: So the men in the armor are at this point about 30 feet from you, so they can move to where you are.
+[game mechanics] [SPEAKER_00A]: He's about 10 feet behind you.
+[game mechanics] [SPEAKER_00A]: The guy on the horse is about 30 feet behind the men, the two men that are coming up the path.
+[game mechanics] [SPEAKER_07A]: Okay.
+[game mechanics] [SPEAKER_07A]: I... am going to...
+[game mechanics] [SPEAKER_07A]: I'm going to move towards Tyrus and...
+[game mechanics] [SPEAKER_00A]: So you want to get back to about 40 feet away from these guys, right?
+[game mechanics] [SPEAKER_07A]: Yeah, and I want to act like hammered with Tyrus.
+[game mechanics] [SPEAKER_00A]: Okay, so you move up, you move back so they can't get right on you this round unless they dash.
+[game mechanics] [SPEAKER_00A]: And then, basically, try to act drunk.
+[game mechanics] [SPEAKER_00A]: Go ahead.
+[SPEAKER_07A]: Like we're buddies, huh?
+[SPEAKER_07A]: Hey!
+[game mechanics] [SPEAKER_07A]: And do I need a performance check on it?
+[game mechanics] [SPEAKER_07A]: Do it.
+[game mechanics] [SPEAKER_07A]: Uh...
+[game mechanics] [SPEAKER_07A]: Fifteen.
+[game mechanics] [SPEAKER_07A]: Fifteen, okay.
+[game mechanics] [SPEAKER_00A]: So these guys basically just start like, come in, hey buddy, and they're just like walking around.
+[game mechanics] [SPEAKER_00A]: The guys with the halibirds march up, well, they don't get to go yet.
+[game mechanics] [SPEAKER_00A]: Folsom.
+[game mechanics] [SPEAKER_04A]: That's what he just did.
+[game mechanics] [SPEAKER_00A]: Folsom, I'm sorry, you.
+[game mechanics] [SPEAKER_04A]: I'm holding you.
+[game mechanics] [SPEAKER_00A]: Okay, so you're going to hold the action.
+[game mechanics] [SPEAKER_00A]: Now, you know that if you shoot at somebody that has not yet taken a turn...
+[game mechanics] [SPEAKER_00A]: I have the assassination attempt.
+[game mechanics] [SPEAKER_00A]: It's an assassination.
+[game mechanics] [SPEAKER_00A]: Okay, but that's it.
+[game mechanics] [SPEAKER_00A]: Okay?
+[game mechanics] [SPEAKER_00A]: And they have not yet entered combat.
+[game mechanics] [SPEAKER_04A]: Now, if the two enter combat...
+[game mechanics] [SPEAKER_04A]: And the horseback, anyone that hasn't, or the two means they're all in it.
+[game mechanics] [SPEAKER_00A]: Anyone that has not taken an action or movement in combat, a turn, you have an assassination attempt on them.
+[game mechanics] [SPEAKER_00A]: Okay?
+[game mechanics] [SPEAKER_04A]: Yep.
+[game mechanics] [SPEAKER_00A]: Alright, so...
+[game mechanics] [SPEAKER_00A]: The two men...
+[game mechanics] [SPEAKER_00A]: Pull up their halibirds and move forward 30 feet.
+[game mechanics] [SPEAKER_00A]: Their halibirds have a reach of 10 feet.
+[game mechanics] [SPEAKER_00A]: Okay?
+[game mechanics] [SPEAKER_00A]: Now, they could attack you, but basically what they do is they come up and hold action with their halibirds at you.
+[game mechanics] [SPEAKER_00A]: So they're gonna get an opportunity attack on you too if you do anything else.
+[game mechanics] [SPEAKER_00A]: And they're like, hold!
+[game mechanics] [SPEAKER_00A]: On your knees!
+[game mechanics] [SPEAKER_00A]: Right?
+[game mechanics] [SPEAKER_00A]: And basically say that.
+[game mechanics] [SPEAKER_00A]: They're holding action.
+[game mechanics] [SPEAKER_00A]: So if you do something, they will attack you.
+[game mechanics] [SPEAKER_00A]: Okay?
+[game mechanics] [SPEAKER_04A]: With advantage?
+[game mechanics] [SPEAKER_04A]: Because if they go down, they're prone.
+[game mechanics] [SPEAKER_00A]: If they go prone, they're going to be at advantage, basically.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_00A]: The other six guards...
+[game mechanics] [SPEAKER_00A]: Move up off the dock.
+[game mechanics] [SPEAKER_00A]: They come up.
+[game mechanics] [SPEAKER_00A]: They're probably within 80 feet.
+[game mechanics] [SPEAKER_00A]: They're coming up the path, basically, with their halibirds.
+[game mechanics] [SPEAKER_00A]: The guy on the horse trots up 30 feet behind his guys.
+[game mechanics] [SPEAKER_00A]: He's 20 feet behind them on his horse up the path.
+[game mechanics] [SPEAKER_05A]: Towards us?
+[game mechanics] [SPEAKER_05A]: Oh, yeah.
+[game mechanics] [SPEAKER_00A]: They're coming up the path towards you guys.
+[game mechanics] [SPEAKER_04A]: Towards us, too.
+[game mechanics] [SPEAKER_04A]: No, towards them.
+[game mechanics] [SPEAKER_00A]: They don't know you two are there, but they see those two and they're coming up.
+[game mechanics] [SPEAKER_00A]: It's obvious they're going to surround these guys.
+[game mechanics] [SPEAKER_05A]: Towards them.
+[game mechanics] [SPEAKER_05A]: Was that their turn?
+[game mechanics] [SPEAKER_05A]: Pretty much, yeah.
+[game mechanics] [SPEAKER_05A]: Okay, is it my turn now?
+[game mechanics] [SPEAKER_05A]: It's your turn.
+[game mechanics] [SPEAKER_05A]: Okay, I am going to, from the bushes... How far were they from me?
+[game mechanics] [SPEAKER_05A]: I mean, they can't be far.
+[game mechanics] [SPEAKER_00A]: They aren't far at all.
+[game mechanics] [SPEAKER_05A]: They're maybe 40 feet because they moved up.
+[game mechanics] [SPEAKER_05A]: Okay, I'm going to cast Fog Cloud on the dock.
+[game mechanics] [SPEAKER_05A]: Around us, where the guys are coming up.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_05A]: And that creates a 20-foot radius spot of fog, centered, quite within range.
+[game mechanics] [SPEAKER_05A]: The range is 120 feet.
+[game mechanics] [SPEAKER_05A]: I can cast it.
+[game mechanics] [SPEAKER_00A]: So if you want to, you can cast it right where those guys are.
+[game mechanics] [SPEAKER_05A]: Yeah, like between them coming in.
+[game mechanics] [SPEAKER_05A]: Yeah, mostly getting, yeah.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: So you basically cast fog cloud
+[game mechanics] [SPEAKER_00A]: Obscure it.
+[game mechanics] [SPEAKER_00A]: Do you want to move at all, or do you want to stay anything?
+[game mechanics] [SPEAKER_00A]: Now, when you cast Fog Cloud, I think you have to speak.
+[game mechanics] [SPEAKER_06A]: It's verbal.
+[game mechanics] [SPEAKER_06A]: It's a blitz, yeah.
+[game mechanics] [SPEAKER_06A]: What's the question?
+[game mechanics] [SPEAKER_05A]: Has everybody got the spheres?
+[game mechanics] [SPEAKER_05A]: You create a 20-foot radius of spheres.
+[game mechanics] [SPEAKER_05A]: It's a conjuration.
+[game mechanics] [SPEAKER_05A]: It's one action.
+[game mechanics] [SPEAKER_05A]: Components means, V means voice.
+[game mechanics] [SPEAKER_05A]: Voice.
+[game mechanics] [SPEAKER_05A]: Verbal component.
+[game mechanics] [SPEAKER_00A]: So mad tech is, you gotta move your hands.
+[game mechanics] [SPEAKER_05A]: Yeah.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_05A]: Do I have to yell it?
+[game mechanics] [SPEAKER_06A]: Folk!
+[game mechanics] [SPEAKER_00A]: No, but it will, it will...
+[game mechanics] [SPEAKER_00A]: It will basically mean that they know somebody's there.
+[game mechanics] [SPEAKER_05A]: I've already casted it, so I'm still gonna do it.
+[game mechanics] [SPEAKER_05A]: Okay, so you cast it.
+[game mechanics] [SPEAKER_05A]: Do you want to move?
+[game mechanics] [SPEAKER_05A]: I'm gonna run...
+[game mechanics] [SPEAKER_05A]: I want you to stay there in case shit gets fucking weird.
+[game mechanics] [SPEAKER_05A]: I'm gonna run down towards them.
+[game mechanics] [SPEAKER_05A]: Do you want to run down towards them?
+[game mechanics] [SPEAKER_00A]: Now, if you don't...
+[game mechanics] [SPEAKER_00A]: This is the deal at D&D Mechanic.
+[game mechanics] [SPEAKER_00A]: If they can't see you, they know you're there, but they can't see you, you get advantage on your bow shots.
+[game mechanics] [SPEAKER_00A]: Okay?
+[game mechanics] [SPEAKER_00A]: Until they see you.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: And you're pretty effective with the bow.
+[game mechanics] [SPEAKER_00A]: Now, if you want to go down there and get into melee combat, you can.
+[game mechanics] [SPEAKER_05A]: But that's up to you.
+[game mechanics] [SPEAKER_05A]: I'm going to stay, and then I'm going to also...
+[game mechanics] [SPEAKER_00A]: You can only cast... You can only cast one spell per turn.
+[game mechanics] [SPEAKER_05A]: What if it's a bonus action?
+[game mechanics] [SPEAKER_05A]: I can only do one spell?
+[game mechanics] [SPEAKER_00A]: You can only do one spell per turn, but bonus actions you can do with your bonus action instead of your action.
+[game mechanics] [SPEAKER_00A]: So you can attack with your bow and then cast a spell with your bonus action.
+[game mechanics] [SPEAKER_00A]: But you can only cast one spell per turn.
+[game mechanics] [SPEAKER_05A]: Otherwise, Wizards would be...
+[game mechanics] [SPEAKER_05A]: Impossible.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_05A]: Bonus action.
+[game mechanics] [SPEAKER_05A]: Okay, well I'm gonna ready my bow and I'm gonna aim it at the knight.
+[game mechanics] [SPEAKER_05A]: I'm not gonna shoot, but...
+[game mechanics] [SPEAKER_05A]: Okay, well you have your bow.
+[game mechanics] [SPEAKER_00A]: You can't save an action.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_00A]: Right?
+[game mechanics] [SPEAKER_00A]: So can you cast a spell with a bonus action that you would rather cast than fog cloud?
+[game mechanics] [SPEAKER_05A]: Or is fog cloud definitely what you want?
+[game mechanics] [SPEAKER_05A]: I want to do fog cloud.
+[game mechanics] [SPEAKER_00A]: Okay, so you cast fog cloud with your action.
+[game mechanics] [SPEAKER_00A]: Don't do anything with your bonus action, because it doesn't sound like you have anything you can do.
+[game mechanics] [SPEAKER_05A]: I don't want to do anything right now, no.
+[game mechanics] [SPEAKER_05A]: You don't want to move.
+[game mechanics] [SPEAKER_05A]: Can I move... Can you draw out where it is?
+[game mechanics] [SPEAKER_00A]: Sure.
+[game mechanics] [SPEAKER_00A]: Let's erase this thing.
+[game mechanics] [SPEAKER_00A]: Alright, so, you guys got your characters?
+[out-of-band] [SPEAKER_03]: You're so puny, Brad.
+[out-of-band] [SPEAKER_03]: And that's your Monsters 80.
+[out-of-band] [SPEAKER_03]: I see.
+[out-of-band] [SPEAKER_03]: And if you need men, you can grab from the other containers.
+[out-of-band] [SPEAKER_02]: You know, it's fine.
+[out-of-band] [SPEAKER_02]: What is this one?
+[out-of-band] [SPEAKER_02]: So, one, two, three, four, five, six, seven, eight.
+[out-of-band] [SPEAKER_02]: These guys.
+[out-of-band] [SPEAKER_02]: That's the one I've been using, thank you.
+[out-of-band] [SPEAKER_04]: Here.
+[out-of-band] [SPEAKER_03]: Where's my guys?
+[out-of-band] [SPEAKER_03]: They're fuckin' orcs.
+[out-of-band] [SPEAKER_03]: Now we know what they are.
+[out-of-band] [SPEAKER_03]: See?
+[out-of-band] [SPEAKER_03]: There you go.
+[out-of-band] [SPEAKER_02]: You guys are here.
+[out-of-band] [SPEAKER_03]: See, you are acting drunk.
+[out-of-band] [SPEAKER_03]: You can barely even stand in here.
+[out-of-band] [SPEAKER_04]: Mm-hmm.
+[out-of-band] [SPEAKER_00]: Dude, I was so pissed.
+[out-of-band] [SPEAKER_00]: With my stealth check.
+[out-of-band] [SPEAKER_00]: That guy is the guy that's there.
+[out-of-band] [SPEAKER_00]: It was 20 and then went, oh, two.
+[out-of-band] [SPEAKER_00]: So I'm retiring this for it.
+[out-of-band] [SPEAKER_00]: Is that yours?
+[out-of-band] [SPEAKER_00]: Yeah, I've got it for a game that I bought at a Gwanta.
+[game mechanics] [SPEAKER_06A]: Okay, so the fog rolls in.
+[game mechanics] [SPEAKER_00A]: One, two, three, four.
+[game mechanics] [SPEAKER_00A]: One, two, three, four.
+[game mechanics] [SPEAKER_07A]: That's the fog cloud.
+[SPEAKER_00A]: A fog rolls in from the ocean.
+[game mechanics] [SPEAKER_00A]: Okay.
+[out-of-band] [SPEAKER_03]: Maybe he used the shitty dice thing.
+[game mechanics] [SPEAKER_00A]: All right, what the fog cloud does is it basically makes everything in that area heavily obscured, right?
+[game mechanics] [SPEAKER_00A]: Which means that you guys have light cover, which means the people that shoot at you have disadvantage and it's very hard to see more than 10 feet.
+[game mechanics] [SPEAKER_00A]: So this fog rolls in.
+[game mechanics] [SPEAKER_00A]: And you know that your friend Folsom has done something.
+[game mechanics] [SPEAKER_00A]: Merrick?
+[game mechanics] [SPEAKER_00A]: Merrick has done something.
+[game mechanics] [SPEAKER_00A]: Roll an itch.
+[game mechanics] [SPEAKER_07A]: Okay, seventeen.
+[out-of-band] [SPEAKER_03]: Come on, turkey.
+[out-of-band] [SPEAKER_00]: Fuck you, turkey.
+[game mechanics] [SPEAKER_00A]: Fourteen.
+[game mechanics] [SPEAKER_00A]: Nine.
+[game mechanics] [SPEAKER_00A]: Fourteen.
+[game mechanics] [SPEAKER_00A]: Fourteen.
+[game mechanics] [SPEAKER_00A]: Fourteen.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Here are the men.
+[game mechanics] [SPEAKER_00A]: Nine, and here's the knight.
+[game mechanics] [SPEAKER_00A]: Thirteen, which is fourteen.
+[game mechanics] [SPEAKER_00A]: That means that Folsom, you get to go first.
+[game mechanics] [SPEAKER_00A]: I can't, can I see the knight?
+[game mechanics] [SPEAKER_00A]: No, actually the fog rolls in and it's just, he becomes totally obscured in this, in the fog.
+[game mechanics] [SPEAKER_00A]: Well, I can't tell you guys what to do.
+[game mechanics] [SPEAKER_07A]: Okay.
+[game mechanics] [SPEAKER_07A]: You can heal.
+[game mechanics] [SPEAKER_04A]: I don't want to give up.
+[game mechanics] [SPEAKER_04A]: I know it's a third.
+[game mechanics] [SPEAKER_07A]: I am going to...
+[game mechanics] [SPEAKER_07A]: I think I'm just going to hold ground.
+[game mechanics] [SPEAKER_07A]: I mean, I'm... You know what I'm going to do?
+[game mechanics] [SPEAKER_07A]: I'm going to message to, uh...
+[game mechanics] [SPEAKER_07A]: I'm going to message to Merrick.
+[game mechanics] [SPEAKER_07A]: Okay.
+[game mechanics] [SPEAKER_07A]: And I'm going to message to him.
+[game mechanics] [SPEAKER_07A]: Should this just between me and him, or...?
+[game mechanics] [SPEAKER_00A]: Sure.
+[game mechanics] [SPEAKER_07A]: Okay.
+[game mechanics] [SPEAKER_07A]: I was gonna say that I am going to try to charm the knight.
+[game mechanics] [SPEAKER_07A]: I think you should get the- I can talk to him, right?
+[game mechanics] [SPEAKER_00A]: You can talk to him back this round.
+[game mechanics] [SPEAKER_00A]: Just one thing.
+[game mechanics] [SPEAKER_05A]: Okay, I think you should get back the fuck out of there a little bit, but that's up to you.
+[game mechanics] [SPEAKER_05A]: The closer I can get to the night.
+[game mechanics] [SPEAKER_00A]: That's it.
+[game mechanics] [SPEAKER_00A]: That's all you can do is one thing, one sentence and one back during a round.
+[game mechanics] [SPEAKER_00A]: This is not a conversation.
+[game mechanics] [SPEAKER_07A]: So he just basically told you, get the fuck out of there.
+[game mechanics] [SPEAKER_07A]: Okay, well, for my...
+[game mechanics] [SPEAKER_07A]: Bonus action, I...
+[game mechanics] [SPEAKER_07A]: Your bonus action was your spell, right?
+[game mechanics] [SPEAKER_07A]: No.
+[game mechanics] [SPEAKER_07A]: That's an action?
+[game mechanics] [SPEAKER_07A]: My bonus action is to go back, like, or to move.
+[game mechanics] [SPEAKER_07A]: So you try to run back?
+[game mechanics] [SPEAKER_07A]: I start moving back, yes.
+[game mechanics] [SPEAKER_00A]: Okay, you do not have cunning action.
+[game mechanics] [SPEAKER_07A]: So you back up.
+[game mechanics] [SPEAKER_00A]: One, if this guy gets... Oh, I'm sorry, that's right.
+[game mechanics] [SPEAKER_07A]: One, this guy gets an opportunity to attack with his halibird at you.
+[game mechanics] [SPEAKER_07A]: Oh, just realized.
+[game mechanics] [SPEAKER_07A]: I thought that was you guys.
+[game mechanics] [SPEAKER_07A]: I did not know they were in front of me.
+[game mechanics] [SPEAKER_04A]: You can talk to me then.
+[game mechanics] [SPEAKER_04A]: Alright.
+[game mechanics] [SPEAKER_07A]: That's cool.
+[game mechanics] [SPEAKER_04A]: But it's all you're in a fog.
+[game mechanics] [SPEAKER_07A]: Yeah.
+[game mechanics] [SPEAKER_07A]: What's your AC?
+[game mechanics] [SPEAKER_07A]: My AC is 13.
+[game mechanics] [SPEAKER_07A]: 13.
+[game mechanics] [SPEAKER_00A]: Here's the attack.
+[game mechanics] [SPEAKER_00A]: 18.
+[game mechanics] [SPEAKER_00A]: The man-at-arms stabs you with the halibird.
+[game mechanics] [SPEAKER_00A]: Doing five, six, seven, eight points of damage.
+[game mechanics] [SPEAKER_00A]: Basically, as you back up, he thrusts and hits you with the dip of the spear.
+[game mechanics] [SPEAKER_06A]: Wait, don't I have an opportunity to...
+[game mechanics] [SPEAKER_06A]: I think I have a deal where I can... And it's outside of my action.
+[game mechanics] [SPEAKER_06A]: I can...
+[game mechanics] [SPEAKER_06A]: It has to be a reaction.
+[game mechanics] [SPEAKER_06A]: It has to be a reaction, right?
+[game mechanics] [SPEAKER_00A]: It has to be a reaction.
+[game mechanics] [SPEAKER_00A]: So I can't do it now.
+[game mechanics] [SPEAKER_00A]: Let me read what it says.
+[game mechanics] [SPEAKER_00A]: I'm trying to remember what it's called.
+[game mechanics] [SPEAKER_06A]: What is it?
+[game mechanics] [SPEAKER_06A]: I have a deal where I can take damage for somebody and I can't remember what it's called.
+[game mechanics] [SPEAKER_00A]: It might be one of your channel-diminity abilities, but... Is that what it might be?
+[game mechanics] [SPEAKER_00A]: But that's something you have to do as an action, so it's not your turn yet.
+[game mechanics] [SPEAKER_06A]: Okay, I thought it was something I could do outside of combat.
+[game mechanics] [SPEAKER_06A]: No, I have to do that as an action.
+[game mechanics] [SPEAKER_00A]: Alright, so you get hit as you move back, but you want to run.
+[game mechanics] [SPEAKER_00A]: So you go one, two, three, four, moving through the fog.
+[game mechanics] [SPEAKER_00A]: You break the fog bank here.
+[game mechanics] [SPEAKER_00A]: You run up the trail.
+[game mechanics] [SPEAKER_00A]: Basically, that's why you know what you're doing.
+[game mechanics] [SPEAKER_00A]: Five-six to here.
+[SPEAKER_00A]: You guys see Folsom running back the way you can.
+[SPEAKER_00A]: Okay?
+[SPEAKER_00A]: Out of this fog bank that Merrick had put up.
+[SPEAKER_00A]: So, that's Folsom.
+[SPEAKER_00A]: There!
+[SPEAKER_00A]: I'm bleeding!
+[SPEAKER_00A]: And he's got his hand on his... That sounds just fucking like him, too.
+[SPEAKER_07A]: Ah, I'm bleeding!
+[game mechanics] [SPEAKER_04A]: Okay, and then it looks like it's simultaneous with the knight.
+[game mechanics] [SPEAKER_00A]: It is, yep.
+[game mechanics] [SPEAKER_00A]: And what's your dexterity?
+[game mechanics] [SPEAKER_04A]: My dexterity is currently 18 until I throw up my stones, but I don't have those up.
+[game mechanics] [SPEAKER_00A]: So you win the Anish.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_00A]: Because you are a... And I cannot see the man on horseback.
+[game mechanics] [SPEAKER_00A]: You cannot see the guy on horseback because of the fog.
+[game mechanics] [SPEAKER_00A]: Now you can see guys down the path who are moving up this way.
+[game mechanics] [SPEAKER_04A]: Oh, outside of the fog?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: But that's at a far range, correct?
+[game mechanics] [SPEAKER_00A]: Not anymore.
+[game mechanics] [SPEAKER_00A]: I mean, they're 80 feet away now and your crossbow has a short range of 100.
+[game mechanics] [SPEAKER_00A]: Oh, okay.
+[game mechanics] [SPEAKER_00A]: Now the question is, do you want to shoot them?
+[game mechanics] [SPEAKER_00A]: Do you want to move and try and hide again?
+[game mechanics] [SPEAKER_00A]: You should shoot Folsom.
+[game mechanics] [SPEAKER_04A]: Well, I'm being hidden.
+[game mechanics] [SPEAKER_04A]: So, and I can't see the knight or the two that are in the fog.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: I'd like to try to shoot one of the men.
+[game mechanics] [SPEAKER_04A]: That's my action.
+[game mechanics] [SPEAKER_04A]: Do I have anything where I can remove and hide after I release the shot?
+[game mechanics] [SPEAKER_00A]: So bonus action, you can dash?
+[game mechanics] [SPEAKER_00A]: Not dash.
+[game mechanics] [SPEAKER_04A]: You can hide.
+[game mechanics] [SPEAKER_00A]: Or disengage.
+[game mechanics] [SPEAKER_00A]: Or dash, actually.
+[game mechanics] [SPEAKER_00A]: With a bonus action.
+[game mechanics] [SPEAKER_00A]: So you could move 30 and then try and hide again.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_00A]: You could cross the path and go up that way.
+[game mechanics] [SPEAKER_04A]: Can I shoot?
+[game mechanics] [SPEAKER_04A]: Whether I kill or not, it's not going to matter.
+[game mechanics] [SPEAKER_04A]: Can I get
+[game mechanics] [SPEAKER_04A]: You can move through to create the fog for the other guys that I shot at now are blocked.
+[game mechanics] [SPEAKER_04A]: Yeah, so I mean if you shoot down that way, you go one, two, three, four, five, six to here and hide again.
+[game mechanics] [SPEAKER_00A]: Yes, that's what I do.
+[game mechanics] [SPEAKER_00A]: Alright, so you take a shot at one of the guys down the deal, right?
+[game mechanics] [SPEAKER_00A]: And you're stealthed, so this is the advantage.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: 18 and 11, I think I'll take the 18.
+[game mechanics] [SPEAKER_04A]: So the 18 plus...
+[game mechanics] [SPEAKER_04A]: When I'm using my heavy crossbow.
+[game mechanics] [SPEAKER_00A]: Your heavy crossbow, plus 7.
+[game mechanics] [SPEAKER_00A]: 25.
+[game mechanics] [SPEAKER_00A]: So that's 25, and because you had advantage, it's a critter.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_00A]: So you roll a 2-die-10, and do you want this to be a backstab?
+[game mechanics] [SPEAKER_04A]: Actually, let me make a backstab.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_00A]: So you had advantage on this attack roll.
+[game mechanics] [SPEAKER_00A]: So what that means is if you want to make this your snake attack, this will be 3 die 6 plus 2 die 10.
+[game mechanics] [SPEAKER_00A]: It will be 6 die 6 plus 2 die 10.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: And that's the assassination?
+[game mechanics] [SPEAKER_04A]: Yes.
+[game mechanics] [SPEAKER_04A]: Six die six.
+[game mechanics] [SPEAKER_04A]: Six die six and two die ten.
+[game mechanics] [SPEAKER_04A]: Plus the four at the end.
+[game mechanics] [SPEAKER_04A]: Four, eight, ten, twenty, four, twenty-eight.
+[game mechanics] [SPEAKER_04A]: So, your crossbow bolt shoots out and hits one of the men in the chest.
+[game mechanics] [SPEAKER_00A]: Okay, doing 28 points of damage.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_06A]: I found that 80.
+[game mechanics] [SPEAKER_00A]: Then you run one, put yourself within six hexes of where you're at.
+[game mechanics] [SPEAKER_00A]: And then you try and sell.
+[game mechanics] [SPEAKER_04A]: Yep.
+[game mechanics] [SPEAKER_04A]: Roll yourself.
+[game mechanics] [SPEAKER_04A]: Come on.
+[game mechanics] [SPEAKER_04A]: Twenty-nine.
+[game mechanics] [SPEAKER_00A]: Twenty-nine.
+[game mechanics] [SPEAKER_00A]: Alright, so Gouge shoots and then jumps into the bushes on the other side of the path.
+[game mechanics] [SPEAKER_00A]: That's Gouge.
+[game mechanics] [SPEAKER_00A]: What's your dexterity?
+[game mechanics] [SPEAKER_05A]: My dex is seventeen.
+[game mechanics] [SPEAKER_00A]: Tyrus, what's your dexterity?
+[game mechanics] [SPEAKER_00A]: Fifteen.
+[game mechanics] [SPEAKER_00A]: Fifteen.
+[game mechanics] [SPEAKER_00A]: You go before they do.
+[game mechanics] [SPEAKER_00A]: The knight does.
+[game mechanics] [SPEAKER_06A]: But he's next, right?
+[game mechanics] [SPEAKER_00A]: No, yours is 14, his is 9.
+[SPEAKER_06A]: My deal then, plan that I had changed.
+[SPEAKER_06A]: We were going to get captured and go along with the crew there.
+[SPEAKER_06A]: I was going to go with my buddy, but the little buddy ran away.
+[SPEAKER_04A]: I'm laying here going, son of a bitch, destroy your weapon.
+[SPEAKER_04A]: Because I hear all, oh, my buddy, oh, no.
+[SPEAKER_06A]: Yeah, I'm like, no, I'm thinking out loud here, so.
+[SPEAKER_06A]: Hey, buddy.
+[game mechanics] [SPEAKER_06A]: All right, so the only, at this point in time, the thing to do is to pull my weapon and charge my
+[game mechanics] [SPEAKER_06A]: He has spells.
+[game mechanics] [SPEAKER_06A]: Charge my thunderous smite.
+[game mechanics] [SPEAKER_06A]: That takes...
+[game mechanics] [SPEAKER_00A]: It's a bonus action and a spell slot.
+[game mechanics] [SPEAKER_06A]: Right, it's a bonus action and a spell slot.
+[game mechanics] [SPEAKER_06A]: And with my action, there's a dude with a halberd.
+[game mechanics] [SPEAKER_00A]: Pointed at you.
+[game mechanics] [SPEAKER_00A]: Right.
+[game mechanics] [SPEAKER_00A]: And if you move, he will get to attack you unless you do a disengage with your action.
+[game mechanics] [SPEAKER_06A]: Right.
+[game mechanics] [SPEAKER_06A]: Unless I do a disengage with my action and...
+[game mechanics] [SPEAKER_06A]: I was fine too.
+[game mechanics] [SPEAKER_06A]: I'm going to, and there's like, that's the dude on the horseback?
+[game mechanics] [SPEAKER_04A]: Yes.
+[game mechanics] [SPEAKER_06A]: And there's like 10 dudes between here and there, or are they behind for back?
+[game mechanics] [SPEAKER_06A]: They're behind them, but they're not that far behind.
+[game mechanics] [SPEAKER_00A]: Right.
+[game mechanics] [SPEAKER_00A]: There may be like here.
+[game mechanics] [SPEAKER_06A]: Right.
+[game mechanics] [SPEAKER_06A]: They're not within striking distance.
+[game mechanics] [SPEAKER_06A]: It's only these two that are in striking distance.
+[game mechanics] [SPEAKER_06A]: Yeah.
+[game mechanics] [SPEAKER_06A]: And they've got halberts, so they've got... Reach.
+[game mechanics] [SPEAKER_06A]: Reach on me.
+[game mechanics] [SPEAKER_06A]: 10 feet.
+[game mechanics] [SPEAKER_06A]: Right.
+[game mechanics] [SPEAKER_06A]: And so...
+[game mechanics] [SPEAKER_06A]: I'm going to use my action to disengage and go one.
+[game mechanics] [SPEAKER_06A]: Where's the path?
+[game mechanics] [SPEAKER_00A]: It's like right here.
+[game mechanics] [SPEAKER_06A]: Right towards this one?
+[game mechanics] [SPEAKER_06A]: Yeah, he's pathing up.
+[game mechanics] [SPEAKER_06A]: So I was here.
+[game mechanics] [SPEAKER_06A]: No, you were actually here.
+[game mechanics] [SPEAKER_06A]: Okay, I'm sorry.
+[game mechanics] [SPEAKER_06A]: So I'll use my action to disengage.
+[game mechanics] [SPEAKER_06A]: One, two, three, and right at the edge of the wood line, I'm guessing... That's the fog line.
+[game mechanics] [SPEAKER_06A]: That's the fog line.
+[game mechanics] [SPEAKER_06A]: Then I'll... perfect.
+[game mechanics] [SPEAKER_06A]: I'll stand right at the edge of the fog line then.
+[game mechanics] [SPEAKER_00A]: Okay, so you stand right here with your sword out and you charge thunderous might, right?
+[game mechanics] [SPEAKER_00A]: Right, correct.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Um...
+[game mechanics] [SPEAKER_00A]: Sword and shield, by the way.
+[game mechanics] [SPEAKER_00A]: Sword and shield.
+[game mechanics] [SPEAKER_00A]: Sword and shield ready.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five, six.
+[game mechanics] [SPEAKER_00A]: And he can move, what?
+[game mechanics] [SPEAKER_00A]: Fifty, six, seven, eight, nine, ten.
+[game mechanics] [SPEAKER_00A]: This guy busts out.
+[game mechanics] [SPEAKER_00A]: of the fog.
+[game mechanics] [SPEAKER_00A]: He's on horseback.
+[game mechanics] [SPEAKER_00A]: That's a horse dude.
+[game mechanics] [SPEAKER_00A]: Yeah, on horse.
+[game mechanics] [SPEAKER_00A]: And he sees you, Tyrus, and like comes down with his blade on you.
+[game mechanics] [SPEAKER_00A]: Now, he is on horseback.
+[game mechanics] [SPEAKER_00A]: Where'd my 20s go?
+[game mechanics] [SPEAKER_00A]: Oh, there it is.
+[game mechanics] [SPEAKER_05A]: Thank you.
+[game mechanics] [SPEAKER_00A]: And what that means is that he's a knight, and if he has somebody that he's attacking from horseback,
+[game mechanics] [SPEAKER_00A]: If his horse is bigger than they are, he gets advantage.
+[game mechanics] [SPEAKER_00A]: So here's the attack on you at advantage.
+[game mechanics] [SPEAKER_00A]: Okay?
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: One.
+[game mechanics] [SPEAKER_00A]: Nice.
+[game mechanics] [SPEAKER_00A]: Another one!
+[game mechanics] [SPEAKER_00A]: And fifteen.
+[game mechanics] [SPEAKER_00A]: Fifteen plus seven is twenty-two.
+[game mechanics] [SPEAKER_00A]: What's your AC?
+[game mechanics] [SPEAKER_00A]: With the shield, it is eighteen.
+[game mechanics] [SPEAKER_00A]: Okay, so he hits you.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_00A]: And he does three...
+[game mechanics] [SPEAKER_00A]: Seven points of damage to you.
+[game mechanics] [SPEAKER_00A]: His blade knocks off your shield, but the weight of his horse and the blow is actually pretty massive.
+[game mechanics] [SPEAKER_00A]: You absorb it with your shield arm, but you can tell this guy is doing his thing.
+[game mechanics] [SPEAKER_05A]: He's strong, too.
+[game mechanics] [SPEAKER_05A]: Is it my turn?
+[game mechanics] [SPEAKER_05A]: Merrick, you go next.
+[game mechanics] [SPEAKER_05A]: I'm going to stay where I am.
+[game mechanics] [SPEAKER_05A]: He's in close range now with my longbow out.
+[game mechanics] [SPEAKER_05A]: Can I take a few steps back?
+[game mechanics] [SPEAKER_05A]: Is that an action?
+[game mechanics] [SPEAKER_05A]: That's his movement.
+[game mechanics] [SPEAKER_05A]: Right there.
+[game mechanics] [SPEAKER_05A]: Can I cast a spell now, because it's a different round?
+[game mechanics] [SPEAKER_00A]: It's a different round.
+[game mechanics] [SPEAKER_00A]: If the spell is bonus action, you can cast that, and then you can attack with your attack.
+[game mechanics] [SPEAKER_05A]: Yep, I'm going to cast Hunter's Mark on the knight.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_05A]: And I'm going to shoot an arrow at Sir Knight.
+[game mechanics] [SPEAKER_05A]: Alright, roll it.
+[game mechanics] [SPEAKER_05A]: Nah, what I was going for.
+[game mechanics] [SPEAKER_05A]: We got this, though.
+[game mechanics] [SPEAKER_05A]: We got this.
+[game mechanics] [SPEAKER_05A]: Longbow.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_05A]: I'm out of spells.
+[game mechanics] [SPEAKER_05A]: Seventeen.
+[game mechanics] [SPEAKER_05A]: Seventeen hit.
+[game mechanics] [SPEAKER_00A]: Nice.
+[game mechanics] [SPEAKER_00A]: Seventeen plus what, actually?
+[game mechanics] [SPEAKER_00A]: Is that the attack bonus?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Seven.
+[game mechanics] [SPEAKER_00A]: So, seventeen plus seven is twenty-four.
+[game mechanics] [SPEAKER_00A]: That is a hit.
+[game mechanics] [SPEAKER_00A]: And you do one die eight plus one die six plus your bonus.
+[game mechanics] [SPEAKER_05A]: One die eight plus one die six.
+[game mechanics] [SPEAKER_05A]: Is the one die six with the hunter's mark?
+[game mechanics] [SPEAKER_00A]: The 1.6 is the Hunter's Mark effect, yes.
+[game mechanics] [SPEAKER_00A]: Ooh, nice.
+[game mechanics] [SPEAKER_00A]: 11 plus... What's your bonus for your damage?
+[game mechanics] [SPEAKER_00A]: The attack bonus?
+[game mechanics] [SPEAKER_00A]: The attack bonus and the damage bonus, which is with the 1 die 8 plus whatever.
+[game mechanics] [SPEAKER_05A]: I'm confused on the damage bonus.
+[game mechanics] [SPEAKER_05A]: So the damage bonus basically is based off your dexterity.
+[game mechanics] [SPEAKER_00A]: It's the plus there.
+[game mechanics] [SPEAKER_05A]: Oh, it's plus 3.
+[game mechanics] [SPEAKER_00A]: Okay, so you do an 11 plus 3, it's 14 points of damage, and your arrow bites, I mean, hits his armor, right, but misses his shield and, you know,
+[game mechanics] [SPEAKER_04A]: But it's true.
+[game mechanics] [SPEAKER_04A]: I mean, this would have killed an armored man.
+[game mechanics] [SPEAKER_04A]: So that bust through the chain?
+[game mechanics] [SPEAKER_04A]: Yeah.
+[game mechanics] [SPEAKER_04A]: Nice shot.
+[game mechanics] [SPEAKER_00A]: Sweet.
+[game mechanics] [SPEAKER_00A]: Let's see about this.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_04A]: One, two, three, four, five.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five, six.
+[game mechanics] [SPEAKER_00A]: This guy with the halibur?
+[game mechanics] [SPEAKER_00A]: Comes out of the mist and attacks you.
+[game mechanics] [SPEAKER_00A]: He doesn't see you until he reaches the end of it, so he's within range, but he attacks you.
+[game mechanics] [SPEAKER_00A]: Nineteen.
+[game mechanics] [SPEAKER_00A]: Barely.
+[game mechanics] [SPEAKER_00A]: Come on.
+[game mechanics] [SPEAKER_00A]: Which is a critical, because if you're a champion, it's a critical when you do that, so it's two die ten.
+[game mechanics] [SPEAKER_00A]: Oh, damn, yeah.
+[game mechanics] [SPEAKER_00A]: Seven, seventeen, twenty points of damage.
+[game mechanics] [SPEAKER_00A]: He comes forward and wails Tyrus with a mighty blow.
+[game mechanics] [SPEAKER_00A]: So you have, what, twenty-some points of damage off you?
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: And you hear men behind you yelling.
+[game mechanics] [SPEAKER_00A]: My trousers dropped.
+[game mechanics] [SPEAKER_04A]: Fuck.
+[game mechanics] [SPEAKER_06A]: I'm at 23 right now.
+[game mechanics] [SPEAKER_06A]: That's well over half of it.
+[game mechanics] [SPEAKER_06A]: What a hit.
+[game mechanics] [SPEAKER_06A]: All right.
+[game mechanics] [SPEAKER_00A]: I think it's an edge.
+[game mechanics] [SPEAKER_00A]: So these guys behind here, Gouge, you can hear that they're maybe 80 feet away.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: Do you want dice for those guys or do you want more little creatures?
+[game mechanics] [SPEAKER_04A]: Are you okay?
+[game mechanics] [SPEAKER_00A]: I'm not going to worry about it right now.
+[game mechanics] [SPEAKER_00A]: I'm going to see if you guys stick around.
+[game mechanics] [SPEAKER_00A]: Okay, you guys ready to roll an edge?
+[game mechanics] [SPEAKER_05A]: 18.
+[game mechanics] [SPEAKER_05A]: Don't fail me now.
+[game mechanics] [SPEAKER_05A]: 18.
+[game mechanics] [SPEAKER_05A]: You failed me now.
+[game mechanics] [SPEAKER_05A]: 13.
+[game mechanics] [SPEAKER_00A]: What's that?
+[game mechanics] [SPEAKER_05A]: 13.
+[game mechanics] [SPEAKER_05A]: And what did you get?
+[game mechanics] [SPEAKER_00A]: 7.
+[game mechanics] [SPEAKER_00A]: Here's the knight.
+[game mechanics] [SPEAKER_00A]: 17.
+[game mechanics] [SPEAKER_00A]: 18.
+[game mechanics] [SPEAKER_00A]: And here are the men.
+[game mechanics] [SPEAKER_00A]: 15.
+[game mechanics] [SPEAKER_00A]: Okay, so Gouge is first because this is dexterity.
+[game mechanics] [SPEAKER_00A]: Wait, what's your dexterity?
+[game mechanics] [SPEAKER_00A]: 15.
+[game mechanics] [SPEAKER_04A]: Okay, Gouge is first.
+[game mechanics] [SPEAKER_04A]: I am going to try to sneak attack with the crossbow bolt or whatever I can do to the man on the horse.
+[game mechanics] [SPEAKER_00A]: Okay, so you bring up your crossbow and try to sneak attack that guy?
+[game mechanics] [SPEAKER_00A]: Advantage because you're stealth.
+[game mechanics] [SPEAKER_00A]: Wait, what was your stealth, bro?
+[game mechanics] [SPEAKER_00A]: 25.
+[game mechanics] [SPEAKER_00A]: 25, that's right, you are.
+[game mechanics] [SPEAKER_05A]: Completely stealthed.
+[game mechanics] [SPEAKER_04A]: So advantage?
+[game mechanics] [SPEAKER_00A]: Yes.
+[game mechanics] [SPEAKER_00A]: 18.
+[game mechanics] [SPEAKER_00A]: That's a hit.
+[game mechanics] [SPEAKER_00A]: Oh, okay.
+[game mechanics] [SPEAKER_00A]: And you can do sneak attack, however, it's not a critical.
+[game mechanics] [SPEAKER_00A]: Okay?
+[game mechanics] [SPEAKER_00A]: Because he was already engaged.
+[game mechanics] [SPEAKER_00A]: Yeah, he's in combat, you can't assassinate him.
+[game mechanics] [SPEAKER_00A]: If you had rolled a nat 20, it would have been critical.
+[game mechanics] [SPEAKER_00A]: However, you can sneak attack because he's next to that guy and you had advantage.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: So that's gonna be the 1 die 10?
+[game mechanics] [SPEAKER_04A]: 1 die 10 and... And then I've got my... 3 die 6.
+[game mechanics] [SPEAKER_04A]: 3 die 6.
+[game mechanics] [SPEAKER_04A]: Ten, seventeen, twenty-one.
+[game mechanics] [SPEAKER_00A]: Okay, so the crossbow bolt bites into his side and his chainmail.
+[game mechanics] [SPEAKER_04A]: He does not go down, but he's definitely effective.
+[game mechanics] [SPEAKER_00A]: And you hear him yell, ASSASSINS!
+[game mechanics] [SPEAKER_00A]: Okay, so Folsom, you're next.
+[game mechanics] [SPEAKER_07A]: If I start moving away, will they have another hit on me?
+[game mechanics] [SPEAKER_07A]: No, they won't because you're right here.
+[game mechanics] [SPEAKER_00A]: Okay, I am going to cast Charm on the Knight.
+[game mechanics] [SPEAKER_00A]: Now you remember this is going to be a disadvantage because you're in combat with him.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: His saving throw will be an advantage.
+[game mechanics] [SPEAKER_00A]: Now, what do you think Charm's gonna do to this guy right now?
+[game mechanics] [SPEAKER_00A]: Well, it says it, uh...
+[game mechanics] [SPEAKER_00A]: He'll act with you as a friend, but if you're in combat, he will kill your opponents.
+[game mechanics] [SPEAKER_00A]: If it affects him.
+[game mechanics] [SPEAKER_07A]: Yeah.
+[game mechanics] [SPEAKER_07A]: Yeah, alright, I back away 30 feet, yep.
+[game mechanics] [SPEAKER_07A]: One, two, three, four, five, six.
+[game mechanics] [SPEAKER_07A]: And then I cast Vicious Mockery on the night.
+[game mechanics] [SPEAKER_05A]: That thing does some damage.
+[game mechanics] [SPEAKER_05A]: What do you say?
+[SPEAKER_05A]: I say, fuck you, dude.
+[SPEAKER_00A]: Fuck you!
+[SPEAKER_00A]: As he runs away.
+[game mechanics] [SPEAKER_00A]: I've got to roll his saving throw.
+[game mechanics] [SPEAKER_00A]: I'm waiting!
+[game mechanics] [SPEAKER_00A]: What's your saving throw DC?
+[game mechanics] [SPEAKER_07A]: My saving throw DC is saving throws for charisma.
+[game mechanics] [SPEAKER_00A]: It should be on your spellcasting thing.
+[game mechanics] [SPEAKER_00A]: It says DC.
+[game mechanics] [SPEAKER_00A]: Look on the next page.
+[game mechanics] [SPEAKER_00A]: D.C. at the top.
+[game mechanics] [SPEAKER_07A]: Spell-saving D.C. 14.
+[game mechanics] [SPEAKER_00A]: That means he has to roll 14 to be able to save against your spell.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Right?
+[game mechanics] [SPEAKER_00A]: Vicious Mock Raper you does one die four plus foreign damage, because you have that thing.
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: Half if he makes a save.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Alright, so he has a Wisdom saving throw, because it's a Wisdom saving throw, plus one.
+[game mechanics] [SPEAKER_00A]: So if he rolls a 13, he makes a save.
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: Here's his roll.
+[game mechanics] [SPEAKER_00A]: Ten.
+[game mechanics] [SPEAKER_00A]: He does not make a save, so you roll damage of one die four plus four, and the next, his next turn, he's a disadvantage with anything he does.
+[out-of-band] [SPEAKER_02]: That's right, bitch.
+[out-of-band] [SPEAKER_02]: Come on.
+[out-of-band] [SPEAKER_02]: Three, seven points of damage.
+[out-of-band] [SPEAKER_02]: You just got my fuck, bitch.
+[game mechanics] [SPEAKER_07A]: No, it's eight because I have the stone.
+[game mechanics] [SPEAKER_00A]: My charisma's 21.
+[game mechanics] [SPEAKER_00A]: So it's plus five of damage.
+[game mechanics] [SPEAKER_00A]: So it's eight points of damage.
+[game mechanics] [SPEAKER_00A]: That's right.
+[game mechanics] [SPEAKER_04A]: Oh, I just shot and didn't do anything else.
+[game mechanics] [SPEAKER_00A]: Yeah, do you want to run?
+[game mechanics] [SPEAKER_05A]: I was like, who is that guy waiting for?
+[game mechanics] [SPEAKER_04A]: Oh, see, now I'd like to...
+[game mechanics] [SPEAKER_04A]: Stand, pull out both weapons and my stones.
+[game mechanics] [SPEAKER_04A]: Can I do that?
+[game mechanics] [SPEAKER_04A]: You can stand and pull out both weapons as a bonus action.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_00A]: And so your crossbow.
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: So now I'm standing.
+[game mechanics] [SPEAKER_00A]: You're here hiding very well.
+[game mechanics] [SPEAKER_00A]: This guy has disadvantage on his next thing.
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: He attacks you with his sword at disadvantage.
+[game mechanics] [SPEAKER_00A]: Here's his first attack.
+[game mechanics] [SPEAKER_00A]: 18.
+[game mechanics] [SPEAKER_00A]: And 9, 9 plus 7 is 16.
+[game mechanics] [SPEAKER_00A]: What's your AC?
+[game mechanics] [SPEAKER_00A]: 18.
+[game mechanics] [SPEAKER_00A]: You're very lucky that Folsom did that?
+[game mechanics] [SPEAKER_00A]: Yes, I am.
+[game mechanics] [SPEAKER_00A]: Here's his next attack.
+[game mechanics] [SPEAKER_00A]: Oh, shit, Folsom.
+[game mechanics] [SPEAKER_00A]: This guy is very skilled.
+[game mechanics] [SPEAKER_00A]: At disadvantage, too?
+[game mechanics] [SPEAKER_00A]: At disadvantage, as well.
+[game mechanics] [SPEAKER_00A]: Fuck this guy, dude.
+[game mechanics] [SPEAKER_00A]: Two?
+[game mechanics] [SPEAKER_00A]: Yeah, fuck it.
+[game mechanics] [SPEAKER_00A]: So that misses.
+[game mechanics] [SPEAKER_04A]: Yep.
+[SPEAKER_00A]: Basically, he's like...
+[SPEAKER_00A]: Very angry at Folsom.
+[SPEAKER_00A]: Fuck me, fuck you!
+[game mechanics] [SPEAKER_00A]: But he does not...
+[game mechanics] [SPEAKER_00A]: He does not...
+[game mechanics] [SPEAKER_00A]: Disengage from Ewan and attack Folsom.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: This is where he is.
+[game mechanics] [SPEAKER_04A]: Are his eyes watering?
+[game mechanics] [SPEAKER_00A]: Don't worry about it.
+[game mechanics] [SPEAKER_00A]: He's wearing a helmet.
+[game mechanics] [SPEAKER_00A]: I bet he's crying.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_05A]: Fuck me.
+[game mechanics] [SPEAKER_00A]: So that's that guy.
+[game mechanics] [SPEAKER_00A]: Stress eating big time.
+[game mechanics] [SPEAKER_00A]: The men-at-arms.
+[game mechanics] [SPEAKER_00A]: This guy attacks you.
+[game mechanics] [SPEAKER_00A]: You ready?
+[game mechanics] [SPEAKER_05A]: Mm-hmm.
+[game mechanics] [SPEAKER_00A]: Ten plus five is fifteen.
+[game mechanics] [SPEAKER_00A]: His haliburg bangs off your shield.
+[game mechanics] [SPEAKER_00A]: You basically take three attacks and do not go down.
+[game mechanics] [SPEAKER_00A]: And you hear men entering the flog thing back there.
+[game mechanics] [SPEAKER_00A]: You can hear their armors clanking as they come up the path.
+[game mechanics] [SPEAKER_00A]: At least six guys.
+[game mechanics] [SPEAKER_06A]: If I attack the guy on this horse, is there any advantage or dismanage?
+[game mechanics] [SPEAKER_06A]: No.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_06A]: No.
+[game mechanics] [SPEAKER_06A]: That was just a curiosity.
+[game mechanics] [SPEAKER_06A]: Anyway, go ahead.
+[game mechanics] [SPEAKER_06A]: I don't know how to turn this, but I was curious.
+[game mechanics] [SPEAKER_00A]: The men went.
+[game mechanics] [SPEAKER_00A]: The count is 13.
+[game mechanics] [SPEAKER_00A]: It's Merrick now.
+[game mechanics] [SPEAKER_05A]: I still have hundreds more than him.
+[game mechanics] [SPEAKER_05A]: I'm going to shoot at him again.
+[game mechanics] [SPEAKER_05A]: Do you want to move at all?
+[game mechanics] [SPEAKER_00A]: And you can say whatever you want to your companions.
+[game mechanics] [SPEAKER_05A]: Yeah.
+[game mechanics] [SPEAKER_05A]: I got nothing to say, man, because I just walked in.
+[game mechanics] [SPEAKER_05A]: Shooting on the night.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_05A]: Fourteen.
+[game mechanics] [SPEAKER_05A]: Fourteen plus seven.
+[game mechanics] [SPEAKER_00A]: Hit.
+[game mechanics] [SPEAKER_05A]: One die eight plus one die six plus your three.
+[game mechanics] [SPEAKER_00A]: Ten plus three is thirteen.
+[game mechanics] [SPEAKER_00A]: Okay, so Eros are just pinioning this guy from all over the place, right?
+[game mechanics] [SPEAKER_00A]: And you can tell
+[game mechanics] [SPEAKER_00A]: He's getting affected by this.
+[game mechanics] [SPEAKER_00A]: Yeah, he's fucking crying.
+[game mechanics] [SPEAKER_06A]: You.
+[game mechanics] [SPEAKER_06A]: Your turn.
+[game mechanics] [SPEAKER_06A]: My turn.
+[game mechanics] [SPEAKER_06A]: Alright, I have my Thunder of Smite loaded up.
+[game mechanics] [SPEAKER_05A]: Yeah, you do.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_06A]: So, I have to attack this guy on the...
+[game mechanics] [SPEAKER_06A]: On the horse.
+[game mechanics] [SPEAKER_07A]: On the horse.
+[game mechanics] [SPEAKER_07A]: Because I don't want two free attacks on my back.
+[game mechanics] [SPEAKER_06A]: Now, lay on hands.
+[game mechanics] [SPEAKER_06A]: I read the book.
+[game mechanics] [SPEAKER_06A]: Is that?
+[game mechanics] [SPEAKER_06A]: It's an action.
+[game mechanics] [SPEAKER_06A]: It's an actual action.
+[game mechanics] [SPEAKER_06A]: Yes.
+[game mechanics] [SPEAKER_06A]: I don't know if she's out now.
+[out-of-band] [SPEAKER_03]: Mac, hold on.
+[out-of-band] [SPEAKER_03]: Mac and cheese?
+[out-of-band] [SPEAKER_03]: Kayla had no.
+[out-of-band] [SPEAKER_03]: KK?
+[out-of-band] [SPEAKER_03]: Cray cray?
+[game mechanics] [SPEAKER_05A]: Is the fog still?
+[game mechanics] [SPEAKER_05A]: The fog's still there.
+[game mechanics] [SPEAKER_00A]: It's about an hour, I think.
+[game mechanics] [SPEAKER_05A]: Or a minute.
+[game mechanics] [SPEAKER_00A]: It's a minute.
+[game mechanics] [SPEAKER_05A]: A little longer than that.
+[out-of-band] [SPEAKER_01]: I just took pictures of all the spills.
+[game mechanics] [SPEAKER_00A]: One hour.
+[game mechanics] [SPEAKER_00A]: One hour with concentration.
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_06A]: So he's playing as this is going on.
+[game mechanics] [SPEAKER_06A]: All right, so I'm swinging at the guy on the horse and I rolled 13 plus...
+[game mechanics] [SPEAKER_06A]: It should be right in the middle of your weapon.
+[game mechanics] [SPEAKER_00A]: It should be right on your weapon.
+[game mechanics] [SPEAKER_00A]: Yeah, plus 5.
+[game mechanics] [SPEAKER_06A]: 13 plus 5 is a... 18.
+[game mechanics] [SPEAKER_00A]: You hit...
+[game mechanics] [SPEAKER_00A]: Just barely.
+[game mechanics] [SPEAKER_00A]: One die eight plus five.
+[game mechanics] [SPEAKER_00A]: It's one die eight plus five plus two die six.
+[game mechanics] [SPEAKER_00A]: Because it's Thunderous Smite.
+[game mechanics] [SPEAKER_00A]: Oh, hell yes.
+[game mechanics] [SPEAKER_00A]: Yeah, Thunderous.
+[game mechanics] [SPEAKER_07A]: Ixthyr.
+[game mechanics] [SPEAKER_04A]: Smites.
+[game mechanics] [SPEAKER_04A]: Activate an Ixthyr.
+[out-of-band] [SPEAKER_03]: By the way, when you're gone on this, we're all going to play to try to
+[out-of-band] [SPEAKER_03]: They put themselves up for speeding up play and understanding better.
+[game mechanics] [SPEAKER_06A]: And 5, 13.
+[game mechanics] [SPEAKER_06A]: So you do 13 points of damage?
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: Excellent.
+[game mechanics] [SPEAKER_00A]: That's my bull!
+[game mechanics] [SPEAKER_00A]: All right, so you lay this long sword of the guy, and Thunderous Smite hits him, and he rolls back ten feet, you knock him off his horse, dismounting him, and he falls into the fog.
+[game mechanics] [SPEAKER_00A]: His horse runs off into the bushes this way.
+[game mechanics] [SPEAKER_00A]: There's this sound of thunder that can be heard for like a mile.
+[game mechanics] [SPEAKER_00A]: It's just this crack that goes all over the place.
+[game mechanics] [SPEAKER_00A]: This with the fog.
+[game mechanics] [SPEAKER_00A]: This guy drops into the fog.
+[game mechanics] [SPEAKER_00A]: That guy's still up there.
+[game mechanics] [SPEAKER_00A]: He can move one, two to here, and he attacks T-Bone.
+[game mechanics] [SPEAKER_00A]: You ready?
+[game mechanics] [SPEAKER_00A]: Three, miss.
+[game mechanics] [SPEAKER_00A]: All right, I think we're done.
+[game mechanics] [SPEAKER_00A]: You hear the planking of the armor back in here.
+[game mechanics] [SPEAKER_00A]: These guys are like right around there.
+[game mechanics] [SPEAKER_00A]: Erase those.
+[game mechanics] [SPEAKER_04A]: So, back to an issue.
+[game mechanics] [SPEAKER_00A]: Is the knife not unconscious?
+[game mechanics] [SPEAKER_00A]: Nobody else.
+[game mechanics] [SPEAKER_00A]: Oh, okay.
+[game mechanics] [SPEAKER_00A]: Pull out your weapon.
+[game mechanics] [SPEAKER_00A]: Roll an edge.
+[game mechanics] [SPEAKER_00A]: That's what I'm talking about, baby!
+[game mechanics] [SPEAKER_00A]: 19.
+[game mechanics] [SPEAKER_00A]: Gouge gets a 19.
+[game mechanics] [SPEAKER_00A]: 15.
+[game mechanics] [SPEAKER_00A]: 15.
+[game mechanics] [SPEAKER_00A]: 20 for Tyrus?
+[game mechanics] [SPEAKER_00A]: 20.
+[game mechanics] [SPEAKER_04A]: 21 for Merrick.
+[game mechanics] [SPEAKER_04A]: 21 for Merrick.
+[game mechanics] [SPEAKER_04A]: Here are the men.
+[game mechanics] [SPEAKER_00A]: They get eight total.
+[game mechanics] [SPEAKER_00A]: Gouge your first.
+[game mechanics] [SPEAKER_04A]: We don't know anyone.
+[game mechanics] [SPEAKER_00A]: You don't even see him.
+[game mechanics] [SPEAKER_00A]: The horse is like running off this direction.
+[game mechanics] [SPEAKER_04A]: Straight in and attack.
+[game mechanics] [SPEAKER_04A]: Okay, so one, two, three, four to here.
+[game mechanics] [SPEAKER_04A]: Yep.
+[game mechanics] [SPEAKER_00A]: And attack this guy.
+[game mechanics] [SPEAKER_04A]: Yep.
+[game mechanics] [SPEAKER_04A]: All right.
+[game mechanics] [SPEAKER_04A]: Was I able to get my stones out or not?
+[game mechanics] [SPEAKER_04A]: No.
+[game mechanics] [SPEAKER_04A]: You have to use another bonus action to do that.
+[game mechanics] [SPEAKER_00A]: If you want to use your bonus action to do that, you can, but that means no second attack.
+[game mechanics] [SPEAKER_00A]: Right, because I'll have...nope, I'm going to use the bonus action.
+[game mechanics] [SPEAKER_04A]: I got scimitar and dagger.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: Okay, so I'm attacking that guy.
+[game mechanics] [SPEAKER_04A]: It's a seven plus.
+[game mechanics] [SPEAKER_04A]: A nine would be sixteen.
+[game mechanics] [SPEAKER_04A]: That has one die six plus six.
+[game mechanics] [SPEAKER_04A]: That's the scimitar, obviously.
+[game mechanics] [SPEAKER_05A]: Seven.
+[game mechanics] [SPEAKER_04A]: Seven total?
+[game mechanics] [SPEAKER_04A]: Mm-hmm.
+[game mechanics] [SPEAKER_04A]: And dagger?
+[game mechanics] [SPEAKER_04A]: 20.
+[game mechanics] [SPEAKER_04A]: Nat.
+[game mechanics] [SPEAKER_04A]: Nat 20.
+[game mechanics] [SPEAKER_04A]: That is one die four plus six?
+[game mechanics] [SPEAKER_00A]: Now the question is, do you want to do a sink attack?
+[game mechanics] [SPEAKER_04A]: Off the offhand on the dagger?
+[game mechanics] [SPEAKER_04A]: If you want, you can.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Because you could do that because he's right there, and he died within five feet.
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: So that is two die four plus six die six.
+[game mechanics] [SPEAKER_04A]: I wouldn't worry about this.
+[game mechanics] [SPEAKER_04A]: Two die four plus six die six.
+[game mechanics] [SPEAKER_06A]: A lot.
+[game mechanics] [SPEAKER_04A]: 5, 10, 15, 23.
+[game mechanics] [SPEAKER_04A]: 23 total.
+[game mechanics] [SPEAKER_04A]: Oh, wait.
+[game mechanics] [SPEAKER_04A]: Plus 6.
+[game mechanics] [SPEAKER_04A]: 29.
+[game mechanics] [SPEAKER_04A]: 29 total?
+[game mechanics] [SPEAKER_04A]: Yeah.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_04A]: He does not go down.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_00A]: His armor, you go right for the throat, his ring mail saves his life.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: It deflects the blade, but he did cut.
+[game mechanics] [SPEAKER_06A]: Oh, these boys are tough!
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_00A]: So that was Gouge.
+[game mechanics] [SPEAKER_00A]: And actually, I think Merrick and Tyrus should have gone before these guys.
+[game mechanics] [SPEAKER_04A]: Before those guys.
+[game mechanics] [SPEAKER_04A]: Tyrus should have gone before Gouge.
+[game mechanics] [SPEAKER_04A]: My bad.
+[game mechanics] [SPEAKER_00A]: I'm sorry.
+[game mechanics] [SPEAKER_05A]: Merrick can go first.
+[game mechanics] [SPEAKER_05A]: Are they blocking where I can't get an arrow to these guys?
+[game mechanics] [SPEAKER_00A]: The way I usually do it is, if you're all one, you can hit your buddy in the back.
+[game mechanics] [SPEAKER_05A]: Fire!
+[game mechanics] [SPEAKER_05A]: Yeah, fucking shoot it.
+[game mechanics] [SPEAKER_05A]: Do you want to use your bonus action to transfer?
+[game mechanics] [SPEAKER_05A]: Yes, I did want to do that.
+[game mechanics] [SPEAKER_05A]: I want to transfer Hunter's Mark to this dude, fire it on that dude.
+[game mechanics] [SPEAKER_00A]: Now, my question to you is does Hunter's Mark take concentration?
+[game mechanics] [SPEAKER_06A]: Whoa, I think it does.
+[game mechanics] [SPEAKER_06A]: Oh, then it would get rid of the fog.
+[game mechanics] [SPEAKER_06A]: Is Bardic Inspiration... You don't have a high enough intelligence to do both, huh?
+[game mechanics] [SPEAKER_04A]: It is a bonus action.
+[game mechanics] [SPEAKER_04A]: It is a bonus action.
+[game mechanics] [SPEAKER_04A]: Yes, it does.
+[game mechanics] [SPEAKER_00A]: Okay, so we're going to say that the fog starts to dissipate this round.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Good call.
+[game mechanics] [SPEAKER_00A]: Bad call, bad call.
+[game mechanics] [SPEAKER_00A]: Ooh, three.
+[game mechanics] [SPEAKER_00A]: Three.
+[game mechanics] [SPEAKER_00A]: Okay, you fire an arrow.
+[game mechanics] [SPEAKER_00A]: Basically, the guy blocks it with his shield.
+[game mechanics] [SPEAKER_00A]: Do you want to move?
+[game mechanics] [SPEAKER_05A]: Uh, nope.
+[game mechanics] [SPEAKER_05A]: You sure?
+[game mechanics] [SPEAKER_05A]: You want to stay right there?
+[game mechanics] [SPEAKER_05A]: Yep.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_05A]: I've been better with a bow than I am.
+[game mechanics] [SPEAKER_05A]: Well, now I am.
+[game mechanics] [SPEAKER_04A]: He's taking damage up there, that's for sure.
+[game mechanics] [SPEAKER_04A]: So, Merrick, Tyrus?
+[game mechanics] [SPEAKER_06A]: Me.
+[game mechanics] [SPEAKER_06A]: Um, this guy has not been hurt.
+[game mechanics] [SPEAKER_06A]: No.
+[game mechanics] [SPEAKER_06A]: That guy has been hurt.
+[game mechanics] [SPEAKER_00A]: Gouge just came in and... Gouge has hit him for 30 points of damage.
+[game mechanics] [SPEAKER_00A]: The fog cloud is going away.
+[game mechanics] [SPEAKER_00A]: Basically a row of guys with shields and maces in their hands, and behind them dudes with halibirds.
+[game mechanics] [SPEAKER_00A]: Horse.
+[game mechanics] [SPEAKER_00A]: Horsemen.
+[game mechanics] [SPEAKER_00A]: That guy is splayed out on the ground, laying right there.
+[game mechanics] [SPEAKER_00A]: And he's unconscious, just laying.
+[game mechanics] [SPEAKER_05A]: These guys are tough as shit.
+[game mechanics] [SPEAKER_05A]: Alright.
+[game mechanics] [SPEAKER_07A]: Make your brain shock.
+[game mechanics] [SPEAKER_07A]: I need to get my approach.
+[game mechanics] [SPEAKER_07A]: I'm preparing my turn.
+[game mechanics] [SPEAKER_07A]: Okay, if I was trying to intimidate and talk, would that be considered part of my action?
+[game mechanics] [SPEAKER_07A]: Would that be a bonus action or just speech in general?
+[game mechanics] [SPEAKER_07A]: I'm not casting vicious mockery or anything, I'm just...
+[game mechanics] [SPEAKER_00A]: So at this point, you can say, you can do an intimidation with a short phrase of word, and
+[game mechanics] [SPEAKER_00A]: It's not considered an action, bonus action, or anything like that.
+[game mechanics] [SPEAKER_00A]: It's a role that you do against them.
+[game mechanics] [SPEAKER_00A]: Normally in combat... Yeah, yeah, it's none of those.
+[game mechanics] [SPEAKER_00A]: It's none of those.
+[game mechanics] [SPEAKER_00A]: Let me think about this.
+[game mechanics] [SPEAKER_00A]: No, I think it's a bonus action.
+[game mechanics] [SPEAKER_00A]: It is a bonus action.
+[game mechanics] [SPEAKER_00A]: If you just want to say something, it's not, but if you're actually trying to make an effect on NPCs, it's gotta be at least a buzz.
+[game mechanics] [SPEAKER_00A]: So what do you think, Tyrus?
+[game mechanics] [SPEAKER_06A]: So, I'm gonna... Is that right?
+[game mechanics] [SPEAKER_06A]: Yeah, it's your turn.
+[game mechanics] [SPEAKER_06A]: So I'm gonna charge up my Syrinx mic.
+[game mechanics] [SPEAKER_06A]: Okay, so... That's my...
+[game mechanics] [SPEAKER_00A]: He prays to the gods again.
+[game mechanics] [SPEAKER_06A]: The gods of money.
+[game mechanics] [SPEAKER_06A]: Yeah, and then...
+[game mechanics] [SPEAKER_00A]: Gods of commerce, not money, just commerce.
+[game mechanics] [SPEAKER_06A]: And then I'm going to swing at the one that's Gouge has already just stacked.
+[game mechanics] [SPEAKER_00A]: Alright, so you use your bonus action insurance, Searing Smite, and then lay that attack down on the other guy.
+[game mechanics] [SPEAKER_06A]: Then I rolled a 15 plus... Five?
+[game mechanics] [SPEAKER_00A]: Five.
+[game mechanics] [SPEAKER_00A]: That is a hit.
+[game mechanics] [SPEAKER_06A]: And I'm going to go one day four plus the Searing Smite is one day six.
+[game mechanics] [SPEAKER_06A]: Did you use the top of it?
+[game mechanics] [SPEAKER_06A]: No, no, no.
+[game mechanics] [SPEAKER_06A]: It's more than one day six.
+[game mechanics] [SPEAKER_06A]: One day six, fire damage to the target caused.
+[game mechanics] [SPEAKER_06A]: At the start of each turn, the spell ends, the target must make a constitutional saving throw.
+[game mechanics] [SPEAKER_06A]: On a failed save, they get one to six additional damage.
+[game mechanics] [SPEAKER_06A]: On a successful save, the spell ends.
+[game mechanics] [SPEAKER_00A]: So it's one at six.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Causes the target to ignite in flames.
+[game mechanics] [SPEAKER_00A]: Right.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: At the start of each turn, I total spend it.
+[game mechanics] [SPEAKER_00A]: The target must be conscious of the throw.
+[game mechanics] [SPEAKER_00A]: When I fail, slave takes one distance with more damage.
+[game mechanics] [SPEAKER_04A]: Did you put them in yet?
+[game mechanics] [SPEAKER_06A]: Yeah, I did it.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_06A]: You have to swap them?
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_06A]: All right.
+[game mechanics] [SPEAKER_06A]: So for damage, I rolled six plus my five, plus eleven.
+[game mechanics] [SPEAKER_00A]: So you rolled your eight-sided?
+[game mechanics] [SPEAKER_00A]: What did the eight-sided give you?
+[game mechanics] [SPEAKER_00A]: Three.
+[game mechanics] [SPEAKER_00A]: Plus five.
+[game mechanics] [SPEAKER_00A]: Plus five.
+[game mechanics] [SPEAKER_00A]: So there's that.
+[game mechanics] [SPEAKER_00A]: And then three for fire damage.
+[game mechanics] [SPEAKER_00A]: So eleven.
+[game mechanics] [SPEAKER_00A]: Oh, right.
+[game mechanics] [SPEAKER_00A]: Eleven total.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: All right, so...
+[game mechanics] [SPEAKER_00A]: I think I was flaming.
+[game mechanics] [SPEAKER_00A]: Tyrus!
+[game mechanics] [SPEAKER_00A]: Lays his blade on this dude, and he envelops into flames, kind of lighting up the night, and he falls on fire.
+[game mechanics] [SPEAKER_00A]: That's two spell slots.
+[game mechanics] [SPEAKER_00A]: Do you want to move at all, or not?
+[game mechanics] [SPEAKER_06A]: Not that this guy's got a huge halberd.
+[game mechanics] [SPEAKER_06A]: I have no action.
+[game mechanics] [SPEAKER_06A]: Any kind of movement I'm going to do, he's going to get a free attack on me.
+[game mechanics] [SPEAKER_06A]: I will say one thing to you, and I'm not going to say this to you again.
+[game mechanics] [SPEAKER_00A]: Those guys have a turn, and they're gonna be on you this turn.
+[game mechanics] [SPEAKER_00A]: All of them.
+[game mechanics] [SPEAKER_06A]: Right.
+[game mechanics] [SPEAKER_06A]: And they're gonna be on Gouge, too.
+[game mechanics] [SPEAKER_06A]: He's right there.
+[game mechanics] [SPEAKER_05A]: Right?
+[game mechanics] [SPEAKER_06A]: Gouge is, like, right next to me.
+[game mechanics] [SPEAKER_06A]: Yes, he is.
+[game mechanics] [SPEAKER_06A]: Yeah.
+[game mechanics] [SPEAKER_06A]: Okay, so...
+[game mechanics] [SPEAKER_00A]: So, one, two, three, four, five, six.
+[game mechanics] [SPEAKER_06A]: All right.
+[game mechanics] [SPEAKER_06A]: So, and I can go how many feet?
+[game mechanics] [SPEAKER_06A]: Six back.
+[game mechanics] [SPEAKER_06A]: Six back into the bushes here.
+[game mechanics] [SPEAKER_06A]: There's bushes along this line here.
+[game mechanics] [SPEAKER_00A]: Yeah, it's just scrub.
+[game mechanics] [SPEAKER_00A]: There's a trail that goes up this way.
+[game mechanics] [SPEAKER_00A]: You know, it's like this.
+[game mechanics] [SPEAKER_00A]: Like that.
+[game mechanics] [SPEAKER_00A]: And there's scrub over here.
+[game mechanics] [SPEAKER_06A]: It's like cover.
+[game mechanics] [SPEAKER_06A]: But I can move easily through up the trail, though.
+[game mechanics] [SPEAKER_00A]: Yeah.
+[game mechanics] [SPEAKER_06A]: All right.
+[game mechanics] [SPEAKER_06A]: Let's go.
+[game mechanics] [SPEAKER_00A]: You move back one.
+[game mechanics] [SPEAKER_00A]: Here's the opportunity to attack.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_00A]: You ready?
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: Ten plus five is fifteen.
+[game mechanics] [SPEAKER_00A]: I'm at eighteen.
+[game mechanics] [SPEAKER_00A]: You have an eighteen AC?
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: His halberd blow is a stab.
+[game mechanics] [SPEAKER_00A]: You take it on your shield.
+[game mechanics] [SPEAKER_06A]: One, two, three, four, five, six.
+[game mechanics] [SPEAKER_06A]: Who's that one?
+[game mechanics] [SPEAKER_06A]: That is Folsom.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: So you run up next to Folsom.
+[game mechanics] [SPEAKER_00A]: I'm hanging out with Folsom.
+[game mechanics] [SPEAKER_00A]: He's my buddy.
+[game mechanics] [SPEAKER_00A]: He's my pal.
+[game mechanics] [SPEAKER_00A]: You're sitting there with your blade and your sword kind of protecting Pulsa's back.
+[game mechanics] [SPEAKER_00A]: As Gouge sits there looking at nine dudes heading towards him.
+[game mechanics] [SPEAKER_00A]: Eight dudes.
+[game mechanics] [SPEAKER_04A]: Yeah, but he can run away and disappear easily.
+[game mechanics] [SPEAKER_04A]: And I'm off my turns up.
+[game mechanics] [SPEAKER_04A]: Wish I'd known that Fog was leaving.
+[game mechanics] [SPEAKER_06A]: Your turn's over?
+[game mechanics] [SPEAKER_07A]: Oh yeah, I am.
+[game mechanics] [SPEAKER_00A]: So, you're done.
+[game mechanics] [SPEAKER_07A]: Your turn.
+[game mechanics] [SPEAKER_07A]: I, for a bonus action...
+[SPEAKER_07A]: Yell at the army approaching, and I say, now that your leader is gone, or has fainted, I suggest you leave, for none of us are Owen Black.
+[SPEAKER_07A]: Okay.
+[game mechanics] [SPEAKER_07A]: Roll your intimidation.
+[game mechanics] [SPEAKER_07A]: Roll.
+[game mechanics] [SPEAKER_07A]: Good call.
+[game mechanics] [SPEAKER_07A]: That's a nine plus six, so fifteen.
+[game mechanics] [SPEAKER_07A]: Fifteen.
+[game mechanics] [SPEAKER_07A]: Okay.
+[game mechanics] [SPEAKER_07A]: And then, for my action, I...
+[game mechanics] [SPEAKER_07A]: Okay, with Bardic Inspiration, can I use that as... Can I use a bonus action as an action?
+[game mechanics] [SPEAKER_07A]: No.
+[game mechanics] [SPEAKER_00A]: So you mean use an action as a bonus action?
+[game mechanics] [SPEAKER_07A]: Yeah.
+[game mechanics] [SPEAKER_07A]: Or no, I'm saying use a bonus action, like Bardic Inspiration.
+[game mechanics] [SPEAKER_00A]: No, you can never use a bonus action as an action.
+[game mechanics] [SPEAKER_00A]: Oh, that's a good...
+[game mechanics] [SPEAKER_00A]: I never thought of it.
+[game mechanics] [SPEAKER_00A]: But an action, I think, can be used to do something with a bonus action.
+[game mechanics] [SPEAKER_06A]: Okay, that would make sense.
+[game mechanics] [SPEAKER_00A]: Okay, but let me see for the... you want to use Bardic Inspiration.
+[game mechanics] [SPEAKER_00A]: But I can't use that as an action.
+[out-of-band] [SPEAKER_04]: These are the little things that I need to get ironed out in my gameplay.
+[out-of-band] [SPEAKER_04]: Yeah.
+[out-of-band] [SPEAKER_04]: You know what I mean?
+[game mechanics] [SPEAKER_07A]: I said yeah as I'm like, yeah.
+[game mechanics] [SPEAKER_00A]: Well, what I would say is I would let you use your action to intimidate and then your bonus action to inspire.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_07A]: Is that all right to do?
+[game mechanics] [SPEAKER_07A]: That's fine.
+[game mechanics] [SPEAKER_07A]: For my action, I intimidate, and for my bonus action, I give Bard's inspiration to Gouge.
+[game mechanics] [SPEAKER_00A]: Okay, Gouge, you have a one-die six.
+[game mechanics] [SPEAKER_00A]: That you can use for saving throws and for attack rolls.
+[game mechanics] [SPEAKER_00A]: This adds a one-die, six, whatever roll you make for a saving throw, or an attack roll, or an ability check.
+[game mechanics] [SPEAKER_07A]: He gave you one.
+[game mechanics] [SPEAKER_07A]: He gave you one.
+[game mechanics] [SPEAKER_07A]: No, it's that pink one on the top.
+[game mechanics] [SPEAKER_07A]: You have to use it.
+[game mechanics] [SPEAKER_07A]: You have to use that one.
+[game mechanics] [SPEAKER_07A]: You have to.
+[game mechanics] [SPEAKER_04A]: Right here.
+[game mechanics] [SPEAKER_04A]: Oh, I didn't see it.
+[game mechanics] [SPEAKER_07A]: It's illegally.
+[game mechanics] [SPEAKER_00A]: It's got numbers on it.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_07A]: Do you want to move?
+[game mechanics] [SPEAKER_07A]: No, I want to stay behind Tyrus.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: All right, you guys have all gone.
+[SPEAKER_00A]: One of these guys in the back says, protect the commander!
+[SPEAKER_00A]: Ain't much left to protect.
+[game mechanics] [SPEAKER_04A]: Let's see about this.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five, six.
+[game mechanics] [SPEAKER_04A]: One guy goes to there.
+[game mechanics] [SPEAKER_00A]: This guy goes one, two, three, four, five to there.
+[game mechanics] [SPEAKER_00A]: This guy stands over his buddy.
+[game mechanics] [SPEAKER_00A]: There.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five, six to there.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five, six to there.
+[game mechanics] [SPEAKER_00A]: This guy is dodging.
+[game mechanics] [SPEAKER_00A]: This guy is dodging.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five to there.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five to there.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five to there.
+[game mechanics] [SPEAKER_05A]: This guy's dodging.
+[game mechanics] [SPEAKER_05A]: Okay, on you guys.
+[game mechanics] [SPEAKER_00A]: How many I got on me?
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five guys attack you.
+[game mechanics] [SPEAKER_00A]: This guy attacks you with a mace.
+[game mechanics] [SPEAKER_04A]: Just out of curiosity, if they got halberds,
+[game mechanics] [SPEAKER_04A]: I guess they can thrust, right?
+[game mechanics] [SPEAKER_04A]: Yes.
+[game mechanics] [SPEAKER_04A]: For a close corner attack because it's not a swing.
+[game mechanics] [SPEAKER_00A]: You ready?
+[game mechanics] [SPEAKER_00A]: Nope.
+[game mechanics] [SPEAKER_00A]: First guy with his mace.
+[game mechanics] [SPEAKER_00A]: Six, eleven, miss.
+[game mechanics] [SPEAKER_00A]: This guy with his halibur.
+[game mechanics] [SPEAKER_00A]: Two, miss.
+[game mechanics] [SPEAKER_00A]: This guy with his mace.
+[game mechanics] [SPEAKER_00A]: Eight plus five is thirteen, miss.
+[game mechanics] [SPEAKER_00A]: This guy with his halibut, 20.
+[game mechanics] [SPEAKER_00A]: I use cutting words.
+[game mechanics] [SPEAKER_00A]: As a reaction?
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_07A]: Can you use Cutting Words as a reaction?
+[game mechanics] [SPEAKER_07A]: Also at third level you gain, when a creature that you can see within 60 fate makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one use of bardic inspiration, rolling a bardic inspiration die, and subtracting the number rolled from the creature's roll.
+[game mechanics] [SPEAKER_07A]: You can choose to use this feature, blah blah blah.
+[game mechanics] [SPEAKER_00A]: Okay, use Cutting Words.
+[game mechanics] [SPEAKER_00A]: We got a bard in the party, baby!
+[game mechanics] [SPEAKER_00A]: We got a bard in the party!
+[game mechanics] [SPEAKER_00A]: Use Cutting Words and roll, do the minus from the 20.
+[game mechanics] [SPEAKER_04A]: Four.
+[game mechanics] [SPEAKER_00A]: Sixteen.
+[game mechanics] [SPEAKER_00A]: Oh, wait.
+[game mechanics] [SPEAKER_00A]: He rolled a twenty.
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: Which is a sixteen.
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: But he's got a plus five.
+[game mechanics] [SPEAKER_00A]: Twenty-one.
+[game mechanics] [SPEAKER_00A]: It hits, but it's not a critical.
+[game mechanics] [SPEAKER_00A]: Yeah, we got a Barney party, baby!
+[game mechanics] [SPEAKER_00A]: So, you take six plus...
+[game mechanics] [SPEAKER_00A]: No, 6 plus... 6 plus 3, you take 9 points of damage.
+[game mechanics] [SPEAKER_00A]: Do you want to use the reaction to do your half damage?
+[game mechanics] [SPEAKER_06A]: I'm gonna get hit a lot harder than that, I got a feeling.
+[out-of-band] [SPEAKER_03]: That's not a weird beard, is it?
+[game mechanics] [SPEAKER_04A]: Okay, this guy with his haliburn.
+[game mechanics] [SPEAKER_00A]: 12 plus 5 is 17.
+[game mechanics] [SPEAKER_00A]: That's a hit.
+[game mechanics] [SPEAKER_04A]: I don't have my stone up.
+[game mechanics] [SPEAKER_04A]: Still would have been a hit though.
+[game mechanics] [SPEAKER_00A]: That's 6 plus 3, 9 more.
+[game mechanics] [SPEAKER_00A]: Do you want to take that reaction?
+[game mechanics] [SPEAKER_00A]: Pretty much the end of the round.
+[game mechanics] [SPEAKER_07A]: Yeah.
+[game mechanics] [SPEAKER_07A]: Half damage.
+[game mechanics] [SPEAKER_00A]: You take four.
+[game mechanics] [SPEAKER_07A]: I was gonna say I can only use a reaction once during... You only have one reaction per round.
+[game mechanics] [SPEAKER_07A]: Okay.
+[game mechanics] [SPEAKER_06A]: That was a very good use.
+[game mechanics] [SPEAKER_06A]: That was very good.
+[game mechanics] [SPEAKER_06A]: Save my ass.
+[out-of-band] Oh, man.
+[game mechanics] [SPEAKER_05A]: All right.
+[game mechanics] [SPEAKER_06A]: Anish.
+[game mechanics] [SPEAKER_06A]: Tyrus gets a 14.
+[game mechanics] [SPEAKER_06A]: Ten.
+[game mechanics] [SPEAKER_05A]: Oh yeah, 14.
+[game mechanics] [SPEAKER_05A]: 22.
+[game mechanics] [SPEAKER_05A]: 14.
+[game mechanics] [SPEAKER_00A]: And Folsom, what'd you get?
+[game mechanics] [SPEAKER_00A]: 14.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Men.
+[game mechanics] [SPEAKER_00A]: Low, low, low.
+[game mechanics] [SPEAKER_00A]: An 8.
+[game mechanics] [SPEAKER_04A]: Oh, thank god!
+[game mechanics] [SPEAKER_00A]: Actually, I have a 15, too.
+[game mechanics] [SPEAKER_00A]: Okay, so these guys...
+[game mechanics] [SPEAKER_00A]: Right here are dodging, which means that they're attacking.
+[game mechanics] [SPEAKER_00A]: Attacking them is a disadvantage.
+[game mechanics] [SPEAKER_00A]: And attacking the guys behind them, you can't.
+[game mechanics] [SPEAKER_00A]: They're basically shield walling.
+[game mechanics] [SPEAKER_00A]: So you cannot hit the- You can attack them, but it's like they get a plus five to their AC.
+[game mechanics] [SPEAKER_00A]: Oh, I'm going last from you guys.
+[game mechanics] [SPEAKER_00A]: You're going last.
+[game mechanics] [SPEAKER_06A]: Merrick, you're first.
+[game mechanics] [SPEAKER_06A]: How many guys do I got on me?
+[game mechanics] [SPEAKER_06A]: The one guy we want to go first is going last.
+[game mechanics] [SPEAKER_00A]: You have one, two, three, four, five, five guys that can attack you.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_05A]: Fuck me.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_05A]: All right.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_06A]: So who's up first?
+[game mechanics] [SPEAKER_06A]: Merrick.
+[game mechanics] [SPEAKER_06A]: Merrick is.
+[game mechanics] [SPEAKER_06A]: And then me and Folsom?
+[game mechanics] [SPEAKER_00A]: Yes.
+[game mechanics] [SPEAKER_06A]: You're fine.
+[game mechanics] [SPEAKER_05A]: Okay, um...
+[game mechanics] [SPEAKER_05A]: I don't have anything... Merrick, up to me.
+[game mechanics] [SPEAKER_04A]: You see this way.
+[game mechanics] [SPEAKER_00A]: It's still about 120 feet.
+[game mechanics] [SPEAKER_05A]: More men.
+[game mechanics] [SPEAKER_05A]: I'm gonna use the two spell slots.
+[game mechanics] [SPEAKER_05A]: Is the horse around or is that thing gone?
+[game mechanics] [SPEAKER_00A]: That horse is like over that way.
+[game mechanics] [SPEAKER_00A]: You could probably track it, but, you know, it's run off.
+[game mechanics] [SPEAKER_05A]: And...
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_05A]: I was like, we need... And I can't cast spells again, right?
+[game mechanics] [SPEAKER_05A]: You've used all your spell slots.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_05A]: Shit.
+[game mechanics] [SPEAKER_00A]: You still have Hunter's Mark.
+[game mechanics] [SPEAKER_05A]: You have it on a guy.
+[game mechanics] [SPEAKER_05A]: I have it on a guy and I can move it, but yeah.
+[game mechanics] [SPEAKER_05A]: That guy.
+[game mechanics] [SPEAKER_05A]: Oh, shit.
+[game mechanics] [SPEAKER_05A]: Is it...
+[game mechanics] [SPEAKER_05A]: I'm on the... Am I near any ships?
+[game mechanics] [SPEAKER_05A]: We're on the dock, right?
+[game mechanics] [SPEAKER_05A]: Docks are that way.
+[game mechanics] [SPEAKER_00A]: Quite a ways.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_00A]: Now, you should know this is your terrain.
+[game mechanics] [SPEAKER_00A]: Yes.
+[game mechanics] [SPEAKER_00A]: The coastal terrain is your terrain.
+[game mechanics] [SPEAKER_00A]: Yes.
+[game mechanics] [SPEAKER_00A]: Which means that you can move through difficult terrain in this area at normal speed.
+[game mechanics] [SPEAKER_05A]: Okay.
+[SPEAKER_05A]: Well, we gotta get the fuck out of here.
+[SPEAKER_05A]: That's what I'm saying.
+[SPEAKER_05A]: I'm not doing this all the time.
+[SPEAKER_05A]: I don't have nothing to do besides attack or yell at people.
+[SPEAKER_00A]: You can do both.
+[SPEAKER_00A]: You can also move.
+[SPEAKER_05A]: Yeah.
+[SPEAKER_05A]: I'm gonna shoot at that guy once more, and then I'm gonna yell and be like,
+[SPEAKER_05A]: We gotta go.
+[SPEAKER_05A]: We have seen a ton of people coming.
+[SPEAKER_05A]: We gotta get out of here.
+[game mechanics] [SPEAKER_05A]: You fired that guy.
+[game mechanics] [SPEAKER_00A]: Fired that guy.
+[game mechanics] [SPEAKER_05A]: Ooh, where's he?
+[game mechanics] [SPEAKER_05A]: 12 plus 7, so that's 19.
+[game mechanics] [SPEAKER_05A]: 19, that is a hit.
+[game mechanics] [SPEAKER_00A]: And then, because he has Hunter's Mark on him, so it's 1-8 plus 6.
+[game mechanics] [SPEAKER_00A]: 1-8 and a 1-6 plus your 3.
+[game mechanics] [SPEAKER_00A]: Yes.
+[game mechanics] [SPEAKER_00A]: 3 plus 3 is 6.
+[game mechanics] [SPEAKER_05A]: Cool.
+[game mechanics] [SPEAKER_05A]: And I'm going to start...can I move?
+[game mechanics] [SPEAKER_05A]: Yeah.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_00A]: I'm going to... One, two, three, four, five, six.
+[game mechanics] [SPEAKER_00A]: So, Merrick is basically like, let's go, and backs up 30 feet.
+[game mechanics] [SPEAKER_00A]: That's Merrick.
+[game mechanics] [SPEAKER_00A]: Tyrus Folsom, what's your dexterity, Tyrus?
+[game mechanics] [SPEAKER_06A]: 15.
+[game mechanics] [SPEAKER_06A]: This is a 15 also.
+[game mechanics] [SPEAKER_00A]: All right.
+[game mechanics] [SPEAKER_00A]: Who wants to go first?
+[game mechanics] [SPEAKER_06A]: He can go first.
+[game mechanics] [SPEAKER_06A]: Unless you want me to go first.
+[game mechanics] [SPEAKER_06A]: Yeah, you can go first.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_06A]: So, I'm gonna cast... How many smites have you got?
+[game mechanics] [SPEAKER_06A]: Two.
+[game mechanics] [SPEAKER_06A]: Okay, you have one left?
+[game mechanics] [SPEAKER_06A]: Yeah, I have one left.
+[game mechanics] [SPEAKER_06A]: I have one spell slot left.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_06A]: No, I wasn't gonna have it.
+[game mechanics] [SPEAKER_05A]: I was really mad.
+[game mechanics] [SPEAKER_06A]: Did you do any lay-on-hands when you rested?
+[game mechanics] [SPEAKER_06A]: I didn't.
+[game mechanics] [SPEAKER_06A]: I kept my lay-on-hands and used my dice roll for that because the lay-on-hands I can do in the moment.
+[game mechanics] [SPEAKER_06A]: Good idea.
+[game mechanics] [SPEAKER_06A]: How many spell slots?
+[game mechanics] [SPEAKER_06A]: I've got to figure out how many spell slots I think I have.
+[game mechanics] [SPEAKER_00A]: You have three.
+[game mechanics] [SPEAKER_06A]: That's right.
+[game mechanics] [SPEAKER_06A]: First level.
+[game mechanics] [SPEAKER_06A]: That's what I thought.
+[game mechanics] [SPEAKER_06A]: So then I'm going to cast then at this point.
+[game mechanics] [SPEAKER_06A]: Shield of Faith.
+[game mechanics] [SPEAKER_06A]: The Shimmering Field appears around a, surrounds a creature of your choice within range, granting a plus two bonus to AC for the duration of it.
+[game mechanics] [SPEAKER_06A]: And the range is what?
+[game mechanics] [SPEAKER_00A]: 30 feet?
+[game mechanics] [SPEAKER_00A]: 60 feet?
+[game mechanics] [SPEAKER_06A]: Touch?
+[game mechanics] [SPEAKER_06A]: I hope it's not touch.
+[game mechanics] [SPEAKER_00A]: I think it's 30 feet, but let's see.
+[game mechanics] [SPEAKER_06A]: Oh, man.
+[game mechanics] [SPEAKER_06A]: 60 feet.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_06A]: So Gouge is definitely within that range of things.
+[game mechanics] [SPEAKER_06A]: Oh, yeah.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: He's within 30 of you.
+[game mechanics] [SPEAKER_06A]: Yeah.
+[game mechanics] [SPEAKER_06A]: So then I'm gonna cast that on Gouge.
+[game mechanics] [SPEAKER_06A]: Make your saving throw.
+[game mechanics] [SPEAKER_06A]: Shimmering Fields surrounds a creature of your choices in range.
+[game mechanics] [SPEAKER_00A]: Gouge, plus two to AC for duration.
+[game mechanics] [SPEAKER_06A]: And I didn't see how long that lasted either.
+[game mechanics] [SPEAKER_00A]: It lasted ten minutes.
+[game mechanics] [SPEAKER_06A]: He gets a plus two bonus to his AC at this point.
+[game mechanics] [SPEAKER_06A]: That's my action.
+[game mechanics] [SPEAKER_04A]: So I'm rolling a plus two to AC at this point.
+[game mechanics] [SPEAKER_04A]: Did it burn?
+[game mechanics] [SPEAKER_04A]: It does.
+[game mechanics] [SPEAKER_04A]: It does.
+[game mechanics] [SPEAKER_00A]: It puts you on edge.
+[game mechanics] [SPEAKER_00A]: It makes you annoyed.
+[SPEAKER_00A]: I feel sober.
+[SPEAKER_04A]: This ain't good.
+[out-of-band] [SPEAKER_00]: All of a sudden, your taint comes alive.
+[game mechanics] [SPEAKER_05A]: And then, as a... Let's see, this is where I don't know.
+[game mechanics] [SPEAKER_06A]: This is an action or a bonus action.
+[game mechanics] [SPEAKER_06A]: By turning the tide, it's a bonus action.
+[game mechanics] [SPEAKER_06A]: You can bolster an injured creature with your Channel Divinity.
+[game mechanics] [SPEAKER_06A]: Each creature of your choice can hear you within 30 feet.
+[game mechanics] [SPEAKER_06A]: Regains hit points equal to 1 to 6 plus your charisma.
+[game mechanics] [SPEAKER_06A]: Right?
+[game mechanics] [SPEAKER_06A]: So, he's taking some hits.
+[game mechanics] [SPEAKER_06A]: True.
+[game mechanics] [SPEAKER_06A]: If you want to use your action, you can do that.
+[game mechanics] [SPEAKER_06A]: No, it says as a bonus action.
+[game mechanics] [SPEAKER_07A]: Yes.
+[game mechanics] [SPEAKER_06A]: So, my action was to cast the spell.
+[game mechanics] [SPEAKER_06A]: Cast the spell.
+[game mechanics] [SPEAKER_06A]: This is not a cast of spell.
+[game mechanics] [SPEAKER_06A]: And how many creatures can you affect?
+[game mechanics] [SPEAKER_06A]: It says as a bonus action, you can bolster injured creatures within your channel divinity.
+[game mechanics] [SPEAKER_06A]: Each creature of your choice can hear you.
+[game mechanics] [SPEAKER_06A]: They can hear you.
+[game mechanics] [SPEAKER_00A]: So it's within 30 feet range?
+[game mechanics] [SPEAKER_06A]: 30 feet.
+[game mechanics] [SPEAKER_00A]: So, 1, 2, 3, 4, 5, him, him, 1, 2, 3, 4, 5, 6, him.
+[game mechanics] [SPEAKER_00A]: All your friends will gain a 1-6 plus your charisma.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_00A]: And so you're injured.
+[game mechanics] [SPEAKER_00A]: He's not injured.
+[game mechanics] [SPEAKER_00A]: I'm injured, yeah.
+[game mechanics] [SPEAKER_00A]: He's got two hit points off him.
+[game mechanics] [SPEAKER_06A]: Oh, okay.
+[game mechanics] [SPEAKER_04A]: And you're definitely- He doesn't do it on himself, though?
+[game mechanics] [SPEAKER_04A]: No.
+[game mechanics] [SPEAKER_04A]: No.
+[game mechanics] [SPEAKER_04A]: And you're injured, and he's injured.
+[SPEAKER_04A]: There's a fucking paladin there or something?
+[SPEAKER_06A]: Yeah, yeah, paladin's thing.
+[SPEAKER_06A]: They think of other people.
+[SPEAKER_07A]: Try it sometimes, okay?
+[game mechanics] [SPEAKER_06A]: So one die six, so do I get to roll that or do they roll their own?
+[game mechanics] [SPEAKER_00A]: Everybody gets to roll their own plus your charisma bonus, which is plus how many?
+[game mechanics] [SPEAKER_06A]: My charisma bonus is plus three.
+[game mechanics] [SPEAKER_06A]: So I actually get a negative one with mine.
+[game mechanics] [SPEAKER_04A]: No, his charisma bonus, not your charisma bonus.
+[game mechanics] [SPEAKER_00A]: So everybody roll one die six and add three to it and that's how many hit points you get back.
+[game mechanics] [SPEAKER_00A]: Nine!
+[game mechanics] [SPEAKER_00A]: No.
+[game mechanics] [SPEAKER_00A]: Nine!
+[game mechanics] [SPEAKER_07A]: I was full anyways.
+[game mechanics] [SPEAKER_00A]: That was an eight-sided.
+[game mechanics] [SPEAKER_00A]: I got a little too excited.
+[game mechanics] [SPEAKER_07A]: No, you had two off of you.
+[game mechanics] [SPEAKER_07A]: One die six plus.
+[game mechanics] [SPEAKER_00A]: Yeah, but I got them all back.
+[game mechanics] [SPEAKER_00A]: Four plus, you get seven back.
+[game mechanics] [SPEAKER_00A]: Do you have any off you?
+[game mechanics] [SPEAKER_00A]: I do.
+[game mechanics] [SPEAKER_06A]: I have eight off me.
+[game mechanics] [SPEAKER_06A]: Oh, well, there you go.
+[game mechanics] [SPEAKER_06A]: There you go.
+[game mechanics] [SPEAKER_06A]: So that completes my action bonus action, and I am not going to move.
+[game mechanics] [SPEAKER_06A]: I'm going to continue to block Folsom, like, protect him.
+[game mechanics] [SPEAKER_00A]: Well, he's going to move.
+[game mechanics] [SPEAKER_00A]: Okay.
+[SPEAKER_06A]: And then I'm gonna say- He could move, he might- Get out of there!
+[SPEAKER_00A]: Are you gonna run, or are you gonna stay where you are?
+[SPEAKER_06A]: No, I'm gonna stay where I'm at, but I'm gonna make sure Gouge gets out of there.
+[SPEAKER_06A]: You get out of there.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_07A]: My turn?
+[game mechanics] [SPEAKER_07A]: Does that help me with your turn?
+[game mechanics] [SPEAKER_07A]: Yeah.
+[game mechanics] [SPEAKER_07A]: With, uh, healing words.
+[game mechanics] [SPEAKER_07A]: Is it, um...
+[game mechanics] [SPEAKER_07A]: It says, plus my spell-casting modifier.
+[game mechanics] [SPEAKER_07A]: Or spellcasting ability.
+[game mechanics] [SPEAKER_07A]: It's a 1 die 4 plus... Plus your Charisma bonus, which at this point is plus 5.
+[game mechanics] [SPEAKER_00A]: It's plus my Charisma bonus.
+[game mechanics] [SPEAKER_00A]: How many spells?
+[game mechanics] [SPEAKER_00A]: You haven't cast any spells.
+[game mechanics] [SPEAKER_00A]: I haven't cast any spells.
+[game mechanics] [SPEAKER_07A]: That is the best bit.
+[game mechanics] [SPEAKER_07A]: For my action, I'm going to Message Gouge.
+[out-of-band] [SPEAKER_00]: No, I was gonna eat the chip you just ate.
+[game mechanics] [SPEAKER_07A]: Okay.
+[game mechanics] [SPEAKER_07A]: I'm gonna message Gouge.
+[game mechanics] [SPEAKER_00A]: I mean, if you don't care about people hearing what you say, you can actually talk to them.
+[game mechanics] [SPEAKER_07A]: I know, but like, I don't think I want the other people to hear it.
+[game mechanics] [SPEAKER_07A]: Okay.
+[SPEAKER_07A]: I message to Gouge, and I say...
+[SPEAKER_07A]: I say...
+[SPEAKER_07A]: Your tank's burning.
+[SPEAKER_07A]: I had it planned and then I lost it.
+[SPEAKER_07A]: We need to retreat or surrender.
+[SPEAKER_07A]: Because they're after Owen Black.
+[SPEAKER_07A]: They might be on our side.
+[SPEAKER_07A]: Retreat No Shed.
+[game mechanics] [SPEAKER_07A]: Okay.
+[game mechanics] [SPEAKER_07A]: What do you do?
+[game mechanics] [SPEAKER_07A]: For my bonus action, I cast Healing Weirdbeard.
+[game mechanics] [SPEAKER_07A]: Word on Gouge.
+[game mechanics] [SPEAKER_00A]: Bonus action, Healing Word.
+[game mechanics] [SPEAKER_00A]: One die, four, plus your Christmas bonus.
+[game mechanics] [SPEAKER_00A]: You lose the spell slot, but give Gouge...
+[game mechanics] [SPEAKER_00A]: I'll be full, because that was...
+[game mechanics] [SPEAKER_00A]: Eight.
+[game mechanics] [SPEAKER_00A]: Nine.
+[game mechanics] [SPEAKER_00A]: Do you want to move?
+[game mechanics] [SPEAKER_07A]: I'll move 20 feet back between... One, two, three, four to there?
+[game mechanics] [SPEAKER_07A]: Yeah.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: All right, Gouge.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: Five on me, right?
+[game mechanics] [SPEAKER_04A]: Yes.
+[game mechanics] [SPEAKER_00A]: So, disengage, cunning action to... You can use bonus action, cunning action to disengage and move back to here.
+[game mechanics] [SPEAKER_00A]: Right?
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Or actually to here, which means that you're out of anybody's range.
+[game mechanics] [SPEAKER_06A]: Mm-hmm.
+[game mechanics] [SPEAKER_06A]: Except for the halberd?
+[game mechanics] [SPEAKER_00A]: No, they're ten feet away, so one two, one two, so he's just out of range of the halberds.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_04A]: Then you can move another six.
+[game mechanics] [SPEAKER_04A]: Yeah, unless I've got...
+[game mechanics] [SPEAKER_04A]: I think that's what I used to cut in action was to get out of that, right?
+[game mechanics] [SPEAKER_04A]: Not to dash.
+[game mechanics] [SPEAKER_00A]: Well, dash can be an action if you want.
+[game mechanics] [SPEAKER_04A]: Yeah, I'd like to get...
+[game mechanics] [SPEAKER_04A]: Jump out as fast as I can fucking get out.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five.
+[game mechanics] [SPEAKER_00A]: You can move to there without doing anything else with saving your action.
+[game mechanics] [SPEAKER_00A]: Then if you want to dash, you can go another six.
+[game mechanics] [SPEAKER_00A]: But remember, they're going to move and they're going to be on this guy.
+[game mechanics] [SPEAKER_00A]: I know.
+[game mechanics] [SPEAKER_06A]: But you get bonuses when you're standing next to me and they're on me.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_06A]: My action?
+[game mechanics] [SPEAKER_06A]: Toss my stones up.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: So you throw up your stones?
+[game mechanics] [SPEAKER_04A]: Yep.
+[game mechanics] [SPEAKER_04A]: Great action.
+[game mechanics] [SPEAKER_00A]: All right.
+[game mechanics] [SPEAKER_00A]: Their turn.
+[game mechanics] [SPEAKER_06A]: They don't want to follow us anyway.
+[game mechanics] [SPEAKER_00A]: One, two, three, four.
+[game mechanics] [SPEAKER_00A]: They don't.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five, six to here.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five, six to here.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five to here.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five to here.
+[game mechanics] [SPEAKER_00A]: These guys make a wall and they're basically dodging.
+[game mechanics] [SPEAKER_00A]: Which means that all attacks on them are going to be a disadvantage.
+[game mechanics] [SPEAKER_06A]: But they're not attacking.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five, six to here.
+[game mechanics] [SPEAKER_00A]: Here and here.
+[game mechanics] [SPEAKER_00A]: This guy goes to here.
+[game mechanics] [SPEAKER_00A]: These guys with their holobirds attack over their buddies down upon you.
+[game mechanics] [SPEAKER_00A]: This guy on you, Gouge.
+[game mechanics] [SPEAKER_00A]: I got a plus what?
+[game mechanics] [SPEAKER_00A]: Two, plus two.
+[game mechanics] [SPEAKER_00A]: Plus two AC.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Here's the attack.
+[game mechanics] [SPEAKER_00A]: AC is 18.
+[game mechanics] [SPEAKER_00A]: Six, miss.
+[game mechanics] [SPEAKER_00A]: This guy on you, Tyrus.
+[game mechanics] [SPEAKER_00A]: One, basically his haliburg breaks.
+[game mechanics] [SPEAKER_00A]: Wait, does he hit another buddy?
+[game mechanics] [SPEAKER_00A]: No.
+[game mechanics] [SPEAKER_00A]: This guy on you.
+[game mechanics] [SPEAKER_00A]: Seventeen plus five is twenty-two.
+[game mechanics] [SPEAKER_00A]: Oh.
+[game mechanics] [SPEAKER_00A]: He hits you for three, four, five, six.
+[game mechanics] [SPEAKER_00A]: I can handle that.
+[game mechanics] [SPEAKER_06A]: Easily enough.
+[game mechanics] [SPEAKER_06A]: Here we go.
+[game mechanics] [SPEAKER_06A]: I disappeared.
+[game mechanics] [SPEAKER_06A]: All right.
+[game mechanics] [SPEAKER_07A]: Roll.
+[game mechanics] [SPEAKER_04A]: Nish is... 20.
+[game mechanics] [SPEAKER_04A]: 19.
+[game mechanics] [SPEAKER_04A]: 19 also.
+[game mechanics] [SPEAKER_06A]: 11.
+[game mechanics] [SPEAKER_06A]: 18.
+[game mechanics] [SPEAKER_06A]: Gouge goes before me.
+[game mechanics] [SPEAKER_00A]: So, Folsom, you are first.
+[game mechanics] [SPEAKER_07A]: Um...
+[game mechanics] [SPEAKER_07A]: I'm right next to Merrick.
+[game mechanics] [SPEAKER_07A]: Yeah.
+[SPEAKER_07A]: Hey, buddy.
+[SPEAKER_07A]: I just talk to him and say, what if we surrender and go in for questioning?
+[SPEAKER_05A]: Nope.
+[SPEAKER_05A]: Nope.
+[SPEAKER_05A]: Nope.
+[SPEAKER_05A]: Nope.
+[SPEAKER_05A]: Nope.
+[SPEAKER_05A]: Nope.
+[SPEAKER_05A]: Not doing that.
+[SPEAKER_05A]: I'm saying we get our asses out of this beach.
+[SPEAKER_05A]: I know this beach.
+[SPEAKER_07A]: We're moving.
+[SPEAKER_07A]: Okay.
+[SPEAKER_07A]: I message to Tyrus for my action, and I'm saying we're leaving.
+[SPEAKER_07A]: Follow Merrick.
+[game mechanics] [SPEAKER_04A]: Is this still going?
+[game mechanics] [SPEAKER_07A]: Yes.
+[game mechanics] [SPEAKER_07A]: It's still going.
+[game mechanics] [SPEAKER_07A]: And then do you want to run?
+[game mechanics] [SPEAKER_07A]: Yeah, start heading that way.
+[game mechanics] [SPEAKER_00A]: I'll start heading that way.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five, six.
+[game mechanics] [SPEAKER_00A]: He runs to there.
+[game mechanics] [SPEAKER_00A]: All right.
+[game mechanics] [SPEAKER_00A]: Next is Gouge.
+[game mechanics] [SPEAKER_00A]: Are you running?
+[game mechanics] [SPEAKER_04A]: If you're running, yes.
+[game mechanics] [SPEAKER_04A]: Well, shit, I can almost get to him, right?
+[game mechanics] [SPEAKER_04A]: If you want to do a... A cunning action, disengage?
+[game mechanics] [SPEAKER_00A]: You do a cunning action, disengage, and do an action dash.
+[game mechanics] [SPEAKER_00A]: You can do that.
+[game mechanics] [SPEAKER_04A]: And a bonus action.
+[game mechanics] [SPEAKER_04A]: Well, your bonus action will be disengage.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_00A]: And then you run 60 feet, 30 feet, and then you run another 30 with your action.
+[game mechanics] [SPEAKER_07A]: Okay.
+[game mechanics] [SPEAKER_07A]: The spell slots we expended on the last time we played, they're still in the back track.
+[game mechanics] [SPEAKER_07A]: One dude broke his halberd.
+[game mechanics] [SPEAKER_04A]: Disgauge to there, and then run.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five more, because you went one bag.
+[game mechanics] [SPEAKER_00A]: Now you can do six more.
+[game mechanics] [SPEAKER_00A]: 5-6, if you want, or you could just be there.
+[game mechanics] [SPEAKER_04A]: Yeah, I've gotta be some type of a shield.
+[game mechanics] [SPEAKER_00A]: Okay, so that is Gouge.
+[game mechanics] [SPEAKER_04A]: Gouge is gone.
+[game mechanics] [SPEAKER_06A]: It is your turn, Tyrus.
+[game mechanics] [SPEAKER_06A]: Alright, so there's only one guy broke his halberd, the other guys are in defensive mode, so there's only one halberd I have to...
+[game mechanics] [SPEAKER_00A]: There are two halberds that can attack you.
+[game mechanics] [SPEAKER_00A]: One's broken, though.
+[game mechanics] [SPEAKER_00A]: That guy.
+[game mechanics] [SPEAKER_00A]: That guy can attack me.
+[game mechanics] [SPEAKER_00A]: One, two.
+[game mechanics] [SPEAKER_00A]: Oh.
+[game mechanics] [SPEAKER_00A]: One, two.
+[game mechanics] [SPEAKER_00A]: One, two.
+[game mechanics] [SPEAKER_00A]: So there's two halberds that can attack me as I disengage.
+[game mechanics] [SPEAKER_00A]: Yes.
+[game mechanics] [SPEAKER_00A]: And the main can still attack you with a reaction.
+[game mechanics] [SPEAKER_00A]: It's a reaction.
+[game mechanics] [SPEAKER_00A]: They haven't used a reaction.
+[game mechanics] [SPEAKER_00A]: But if I use a disengage... No one can attack you with opportunity attacks.
+[game mechanics] [SPEAKER_06A]: Okay.
+[game mechanics] [SPEAKER_06A]: So I use disengage, no one can opportunity.
+[game mechanics] [SPEAKER_06A]: Exactly.
+[game mechanics] [SPEAKER_06A]: And I'm going to move as many things as I can do.
+[game mechanics] [SPEAKER_00A]: You disengage with the reaction.
+[game mechanics] [SPEAKER_00A]: Yes.
+[game mechanics] [SPEAKER_00A]: Move one back.
+[game mechanics] [SPEAKER_00A]: It's one back.
+[game mechanics] [SPEAKER_00A]: So that's one, two, three, four, five.
+[game mechanics] [SPEAKER_00A]: And I'm gonna go, that's all I got is five.
+[game mechanics] [SPEAKER_00A]: You can't move anymore because you do not have bonus actions to disengage.
+[game mechanics] [SPEAKER_07A]: Right, right, right.
+[game mechanics] [SPEAKER_06A]: Okay?
+[game mechanics] [SPEAKER_06A]: So there we go.
+[game mechanics] [SPEAKER_06A]: I'm hiding behind Folsom as my hero now.
+[game mechanics] [SPEAKER_06A]: That is Merrick.
+[game mechanics] [SPEAKER_06A]: Merrick, I mean, Merrick is my meat shield at this moment.
+[game mechanics] [SPEAKER_00A]: Okay, so one, two, three, four, five to there.
+[game mechanics] [SPEAKER_00A]: One, two, three, four to there.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five to there.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five, six to there.
+[SPEAKER_06A]: You better bust out some fucking ranger shit.
+[out-of-band] [SPEAKER_04]: Hot pockets!
+[out-of-band] [SPEAKER_04]: Hot pockets!
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five, to there.
+[game mechanics] [SPEAKER_00A]: Oh my gosh.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five, to there.
+[game mechanics] [SPEAKER_00A]: Okay.
+[SPEAKER_06A]: You were just gonna get captured and go along with it.
+[SPEAKER_06A]: I was just gonna be a buddy.
+[game mechanics] [SPEAKER_06A]: All right.
+[game mechanics] [SPEAKER_00A]: So the guys in front are dodging.
+[game mechanics] [SPEAKER_00A]: So it's a disadvantage to attack them.
+[game mechanics] [SPEAKER_00A]: Two guys with halberds attack.
+[game mechanics] [SPEAKER_00A]: One on you.
+[game mechanics] [SPEAKER_00A]: Four.
+[game mechanics] [SPEAKER_00A]: Miss.
+[game mechanics] [SPEAKER_00A]: One on you.
+[game mechanics] [SPEAKER_00A]: Two.
+[game mechanics] [SPEAKER_00A]: Miss.
+[game mechanics] [SPEAKER_00A]: I love these dice!
+[game mechanics] [SPEAKER_05A]: Your turn.
+[game mechanics] [SPEAKER_05A]: Okay.
+[game mechanics] [SPEAKER_05A]: If I disengage, does it give him an opportunity to attack me, or no?
+[game mechanics] [SPEAKER_06A]: If you disengage, no.
+[game mechanics] [SPEAKER_06A]: Use your action.
+[game mechanics] [SPEAKER_06A]: You can't do anything other than that.
+[game mechanics] [SPEAKER_05A]: Okay, so I'm going to book it back.
+[game mechanics] [SPEAKER_05A]: Use your action, disengage.
+[game mechanics] [SPEAKER_05A]: Disengage.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five, six.
+[SPEAKER_07A]: And they're like, Tyrus, come on!
+[SPEAKER_07A]: I'm doing my best here, people!
+[game mechanics] [SPEAKER_05A]: Can I take this as, I don't know if it's an action, but like, or a bonus, I don't know what it is.
+[game mechanics] [SPEAKER_00A]: You can use a bonus action to change your hunter's mark to someone else.
+[game mechanics] [SPEAKER_05A]: I just wanted to see, I just wanted to look at the beach if it was like...
+[game mechanics] [SPEAKER_05A]: If I see anything where I'm like, cause that says I have perception, I have an expertise in perception.
+[game mechanics] [SPEAKER_05A]: You see that a new unit of guys coming.
+[game mechanics] [SPEAKER_05A]: I meant like back that way, as I'm like running that way.
+[game mechanics] [SPEAKER_05A]: It's just stuff where I'm like, anything I can use to our advantage to get out of this bitch.
+[game mechanics] [SPEAKER_00A]: Well, I mean...
+[out-of-band] [SPEAKER_04]: Cliffs of insanity.
+[game mechanics] [SPEAKER_00A]: Actually, if you guys want to start dashing up there, that's good, but there are definitely scrub up there that you guys can go into, and areas, rocky areas on that side of the place that would be really hard for people to follow you at.
+[game mechanics] [SPEAKER_05A]: But would I be the only person who's good at...
+[game mechanics] [SPEAKER_00A]: If you're with a party, and you're leading them, but you've got to get out of combat first.
+[game mechanics] [SPEAKER_00A]: Then you can travel at three miles per hour instead of two through rough terrain.
+[game mechanics] [SPEAKER_00A]: Because I'm leading them.
+[game mechanics] [SPEAKER_00A]: Yes.
+[game mechanics] [SPEAKER_00A]: That's it.
+[game mechanics] [SPEAKER_04A]: Initiative.
+[game mechanics] [SPEAKER_05A]: Okay, there we go.
+[game mechanics] [SPEAKER_05A]: Nine.
+[out-of-band] [SPEAKER_01]: What sauce do we have?
+[out-of-band] [SPEAKER_04]: I have no clue.
+[out-of-band] [SPEAKER_04]: Nobody cares about you anyway.
+[out-of-band] [SPEAKER_04]: You're gonna beat them, so.
+[game mechanics] [SPEAKER_06A]: Okay, Tyrus, you go first.
+[game mechanics] [SPEAKER_06A]: So I can disengage as my action.
+[game mechanics] [SPEAKER_06A]: Disengage.
+[game mechanics] [SPEAKER_06A]: And they won't get an attack on me.
+[game mechanics] [SPEAKER_06A]: One.
+[game mechanics] [SPEAKER_00A]: Two, three, four, five, six.
+[game mechanics] [SPEAKER_06A]: I'm going to go half of them a little bit.
+[game mechanics] [SPEAKER_06A]: Can I go one square over?
+[game mechanics] [SPEAKER_06A]: Yeah, yeah.
+[game mechanics] [SPEAKER_00A]: One, two, three, four, five, six.
+[game mechanics] [SPEAKER_00A]: Yeah, perfect.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: So that I'm close, but we're not grouped up on top of each other.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: And then, bonus action, action.
+[game mechanics] [SPEAKER_04A]: You used your action.
+[game mechanics] [SPEAKER_00A]: No bonus action.
+[game mechanics] [SPEAKER_00A]: I have no bonus action.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Tyrus, move us back to there.
+[game mechanics] [SPEAKER_05A]: It is Merrick.
+[SPEAKER_05A]: I'm going to tell everyone who's around me, like, you guys gotta follow me, we're gonna go up this, uh, up the cliff line here, or where it gets rocky.
+[SPEAKER_05A]: Can you paint me a picture of the terrain, like, where exactly, what do we look like right now?
+[SPEAKER_00A]: Well, I mean, you guys are going up this path from the docks, actually up the path towards the lighthouse.
+[SPEAKER_05A]: And you don't really want to go that way.
+[SPEAKER_00A]: I don't want to go to Lighthouse.
+[SPEAKER_00A]: I want to start going up this.
+[SPEAKER_00A]: You can start going up towards the south shore along the ridge line because it's rocky up there if you want to head that direction.
+[SPEAKER_00A]: Yep, that's where we're going.
+[game mechanics] [SPEAKER_00A]: Okay, so you go off the path.
+[game mechanics] [SPEAKER_00A]: Do you want to dash?
+[game mechanics] [SPEAKER_05A]: Can they move 60 feet?
+[game mechanics] [SPEAKER_00A]: Oh yeah, because everyone can dash, right?
+[game mechanics] [SPEAKER_00A]: They all can dash.
+[game mechanics] [SPEAKER_00A]: He can do it with a bonus action.
+[game mechanics] [SPEAKER_00A]: You do it with an action.
+[game mechanics] [SPEAKER_05A]: You do it with an action.
+[SPEAKER_05A]: Yeah, I'm gonna dash.
+[SPEAKER_05A]: Follow me, guys.
+[game mechanics] [SPEAKER_00A]: So you move 60 feet this way.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_04A]: That's Tyrus, that's Merrick, Folsom.
+[game mechanics] [SPEAKER_04A]: Eye.
+[out-of-band] [SPEAKER_03]: Arrow's bent and leaning to the left.
+[out-of-band] [SPEAKER_03]: I saw that.
+[out-of-band] [SPEAKER_04]: Short shriveled and leaning to the left.
+[SPEAKER_07A]: I run to Merrick, but then I shout, as a shout, shout, shout it all around.
+[SPEAKER_04A]: Shout it all around.
+[game mechanics] [SPEAKER_00A]: So you run to Merrick?
+[game mechanics] [SPEAKER_00A]: Yep.
+[game mechanics] [SPEAKER_00A]: All right.
+[game mechanics] [SPEAKER_00A]: Shout, you have the dexterity, so... Oh, they're all done?
+[game mechanics] [SPEAKER_00A]: They are all done, yeah.
+[game mechanics] [SPEAKER_04A]: Oh, okay.
+[game mechanics] [SPEAKER_04A]: As far as you can get.
+[game mechanics] [SPEAKER_06A]: Next round, I can get somewhere, dude.
+[out-of-band] [SPEAKER_04]: Hey, look, I'm a big fella, all right?
+[out-of-band] [SPEAKER_04]: Big motherfucker.
+[out-of-band] [SPEAKER_04]: Remember, tree.
+[out-of-band] [SPEAKER_04]: I'm like six, seven here, dude.
+[out-of-band] [SPEAKER_04]: Six, seven.
+[out-of-band] [SPEAKER_04]: Oh, there was a guy.
+[out-of-band] [SPEAKER_04]: I'm hoping he catches up.
+[out-of-band] [SPEAKER_04]: You dash?
+[out-of-band] [SPEAKER_04]: Yeah.
+[out-of-band] [SPEAKER_04]: I was in a meeting with people in Chicago.
+[out-of-band] [SPEAKER_04]: Yeah.
+[out-of-band] [SPEAKER_04]: You know, online meeting that I'm having to do now.
+[out-of-band] [SPEAKER_04]: Like, sitting down here.
+[out-of-band] [SPEAKER_04]: The guy's like, I don't know, there's, I don't know, there's six, seven of those databases, and I'm like... Nobody?
+[game mechanics] [SPEAKER_00A]: All right.
+[game mechanics] [SPEAKER_04A]: That's for your roll, please.
+[out-of-band] [SPEAKER_03]: It's like so desperate.
+[game mechanics] [SPEAKER_00A]: Okay, so, rolling edge this next turn.
+[game mechanics] [SPEAKER_00A]: Might have beef.
+[game mechanics] [SPEAKER_06A]: Don't worry about it.
+[out-of-band] [SPEAKER_01]: Shh, shh, shh, shh.
+[game mechanics] [SPEAKER_06A]: Roll the edge.
+[game mechanics] [SPEAKER_06A]: He said, roll the edge.
+[out-of-band] [SPEAKER_04]: Roll my phone.
+[game mechanics] [SPEAKER_05A]: Oh, yeah.
+[game mechanics] [SPEAKER_05A]: Oh, shit.
+[game mechanics] [SPEAKER_05A]: Eight.
+[game mechanics] [SPEAKER_05A]: Six.
+[game mechanics] [SPEAKER_00A]: Eighteen.
+[game mechanics] [SPEAKER_05A]: Eighteen.
+[game mechanics] [SPEAKER_00A]: All right.
+[game mechanics] [SPEAKER_00A]: Tyrus gets an eighteen.
+[game mechanics] [SPEAKER_00A]: You get a what?
+[game mechanics] [SPEAKER_00A]: Eight.
+[game mechanics] [SPEAKER_00A]: Eight?
+[game mechanics] [SPEAKER_05A]: I got a six.
+[game mechanics] [SPEAKER_00A]: Six?
+[game mechanics] [SPEAKER_00A]: Yeah, but you're 120 feet away, so.
+[game mechanics] [SPEAKER_00A]: Eighteen.
+[game mechanics] [SPEAKER_00A]: I got a rock.
+[game mechanics] [SPEAKER_00A]: Here's the guys.
+[game mechanics] [SPEAKER_00A]: The men.
+[game mechanics] [SPEAKER_00A]: Eight.
+[game mechanics] [SPEAKER_00A]: Just keep that eight.
+[game mechanics] [SPEAKER_00A]: Seems pretty solid.
+[game mechanics] [SPEAKER_00A]: Gouge, do you want to start it off?
+[game mechanics] [SPEAKER_00A]: Uh...
+[game mechanics] [SPEAKER_04A]: I'm following Merrick.
+[game mechanics] [SPEAKER_00A]: Do you want to fire on them as you back up to give Tyrus some cover?
+[game mechanics] [SPEAKER_06A]: Wouldn't hurt me.
+[game mechanics] [SPEAKER_04A]: Yeah, because my dash is a bonus action, right?
+[game mechanics] [SPEAKER_04A]: Yeah.
+[game mechanics] [SPEAKER_04A]: You could do both.
+[game mechanics] [SPEAKER_04A]: Yeah.
+[game mechanics] [SPEAKER_04A]: Yeah.
+[game mechanics] [SPEAKER_00A]: I'll fire on any injured that are on him.
+[game mechanics] [SPEAKER_00A]: No.
+[game mechanics] [SPEAKER_00A]: I mean, these are all fresh guys.
+[game mechanics] [SPEAKER_00A]: Oh, okay.
+[game mechanics] [SPEAKER_04A]: Take the nearest one.
+[game mechanics] [SPEAKER_04A]: All right.
+[game mechanics] [SPEAKER_00A]: Roll your attack.
+[game mechanics] [SPEAKER_04A]: Ten.
+[game mechanics] [SPEAKER_04A]: Seventeen.
+[game mechanics] [SPEAKER_04A]: Oh, and I got my stone up, so my dex goes to nineteen.
+[game mechanics] [SPEAKER_04A]: I don't know if that- That doesn't matter.
+[game mechanics] [SPEAKER_04A]: But that hits.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: Well, one die ten.
+[game mechanics] [SPEAKER_04A]: One die ten.
+[game mechanics] [SPEAKER_04A]: Plus four.
+[game mechanics] [SPEAKER_04A]: Oh, wait.
+[game mechanics] [SPEAKER_04A]: Oh, that does hit, because I still got this die I don't need, right?
+[game mechanics] [SPEAKER_04A]: You don't need it this time.
+[game mechanics] [SPEAKER_00A]: Hey!
+[game mechanics] [SPEAKER_04A]: One.
+[game mechanics] [SPEAKER_04A]: Plus four is five.
+[game mechanics] [SPEAKER_04A]: Five?
+[game mechanics] [SPEAKER_04A]: Okay.
+[SPEAKER_04A]: You die.
+[SPEAKER_04A]: Right in the leg, you can't move.
+[game mechanics] [SPEAKER_04A]: Okay.
+[game mechanics] [SPEAKER_04A]: Names is totally round.
+[game mechanics] [SPEAKER_06A]: Um, Tyrus.
+[game mechanics] [SPEAKER_06A]: Alright.
+[game mechanics] [SPEAKER_06A]: So again, I can disengage.
+[game mechanics] [SPEAKER_06A]: You don't have to.
+[game mechanics] [SPEAKER_06A]: Oh, they're away from me.
+[game mechanics] [SPEAKER_06A]: They're five feet away.
+[game mechanics] [SPEAKER_06A]: Oh.
+[game mechanics] [SPEAKER_06A]: You can dash.
+[SPEAKER_06A]: They have never seen a big man run this fast before.
+[SPEAKER_06A]: I'm gonna go right past all of them.
+[game mechanics] [SPEAKER_06A]: Okay, so you dash.
+[game mechanics] [SPEAKER_06A]: I'm gonna get as far away as I can.
+[game mechanics] [SPEAKER_00A]: 60 feet.
+[game mechanics] [SPEAKER_00A]: Okay.
+[game mechanics] [SPEAKER_00A]: Wait, no.
+[game mechanics] [SPEAKER_06A]: I can run 60 feet.
+[game mechanics] [SPEAKER_06A]: And still I can run 60 feet in a reaction?
+[game mechanics] [SPEAKER_06A]: No, you can run 30 feet normally.
+[game mechanics] [SPEAKER_00A]: Move 30 feet normally.
+[game mechanics] [SPEAKER_06A]: If you dash with shakes and action, it's 30 more.
+[game mechanics] [SPEAKER_06A]: If I roll 30 feet, can I get to them?
+[game mechanics] [SPEAKER_06A]: No, they're about 60 feet ahead of you.
+[game mechanics] [SPEAKER_06A]: And they're taken off.
+[game mechanics] [SPEAKER_06A]: That's fine.
+[game mechanics] [SPEAKER_06A]: Okay.

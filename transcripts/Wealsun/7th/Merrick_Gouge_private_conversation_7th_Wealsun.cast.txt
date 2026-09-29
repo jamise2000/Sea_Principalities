@@ -1,0 +1,5 @@
+# Cast for Merrick_Gouge_private_conversation_7th_Wealsun
+# Expected voices: 3
+DM
+Merrick
+Gouge

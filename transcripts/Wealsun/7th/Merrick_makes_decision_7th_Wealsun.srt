@@ -1,0 +1,956 @@
+1
+00:00:01,688 --> 00:00:02,769
+[SPEAKER_04]: Accept the Wealsun.
+
+2
+00:00:03,990 --> 00:00:08,533
+[SPEAKER_04]: Merrick comes back from being on deck back down into the cabins.
+
+3
+00:00:12,517 --> 00:00:21,263
+[SPEAKER_00]: Tyrus, we've been on this, I've told you many times, we don't need to worry about these turtle dragons you've been talking about.
+
+4
+00:00:21,283 --> 00:00:28,889
+[SPEAKER_00]: Helm, Tyrus has been scared ever since we got on the water of when we sailed around that we run into turtle dragons.
+
+5
+00:00:28,990 --> 00:00:30,231
+[SPEAKER_00]: That's why he's talking about this.
+
+6
+00:00:33,163 --> 00:00:34,283
+[SPEAKER_00]: Waters look great.
+
+7
+00:00:36,164 --> 00:00:40,706
+[SPEAKER_00]: And I think it's time I'll write this letter out.
+
+8
+00:00:45,928 --> 00:00:46,408
+[SPEAKER_01]: Tyrus.
+
+9
+00:00:49,329 --> 00:00:50,409
+[SPEAKER_01]: If I may ask you something.
+
+10
+00:00:50,889 --> 00:00:51,409
+[SPEAKER_01]: Certainly.
+
+11
+00:00:51,950 --> 00:00:57,572
+[SPEAKER_01]: He doesn't know all the information yet, so if we say anything about tracking, then he'll get on to it.
+
+12
+00:00:57,632 --> 00:00:59,432
+[SPEAKER_01]: What is it, lad, that you'd like to tell him?
+
+13
+00:00:59,992 --> 00:01:01,173
+[SPEAKER_01]: I was curious if
+
+14
+00:01:02,352 --> 00:01:06,334
+[SPEAKER_01]: You would be willing to let us see one of your letters from King James?
+
+15
+00:01:08,015 --> 00:01:09,376
+[SPEAKER_01]: James is a lord.
+
+16
+00:01:09,836 --> 00:01:10,457
+[SPEAKER_01]: Lord James.
+
+17
+00:01:10,857 --> 00:01:11,757
+[SPEAKER_01]: My apologies.
+
+18
+00:01:12,278 --> 00:01:12,718
+[SPEAKER_01]: And no.
+
+19
+00:01:13,378 --> 00:01:17,541
+[SPEAKER_04]: He makes his lord into a thing and pulls out a bottle.
+
+20
+00:01:18,101 --> 00:01:19,322
+[SPEAKER_04]: But I'll drink with ya.
+
+21
+00:01:20,302 --> 00:01:20,603
+[SPEAKER_04]: Plop.
+
+22
+00:01:21,263 --> 00:01:23,284
+[SPEAKER_04]: I know that's your favorite.
+
+23
+00:01:29,537 --> 00:01:31,638
+[SPEAKER_02]: The lads better make sure the other side is clear.
+
+24
+00:01:31,918 --> 00:01:32,559
+[SPEAKER_02]: How is Carver?
+
+25
+00:01:32,599 --> 00:01:33,239
+[SPEAKER_02]: It's been a while.
+
+26
+00:01:33,259 --> 00:01:36,180
+[SPEAKER_02]: Tyrus and Merrick are whispering in the background.
+
+27
+00:01:36,240 --> 00:01:37,240
+[SPEAKER_02]: I just had to get that.
+
+28
+00:01:37,380 --> 00:01:38,021
+[SPEAKER_02]: I'll let you laugh.
+
+29
+00:01:47,821 --> 00:01:50,984
+[SPEAKER_03]: Okay, whatever you gotta do.
+
+30
+00:01:51,745 --> 00:01:53,287
+[SPEAKER_02]: I see the ghost on you.
+
+31
+00:01:54,047 --> 00:01:55,829
+[SPEAKER_02]: You got him drunk two days ago, didn't you?
+
+32
+00:01:56,229 --> 00:01:57,190
+[SPEAKER_02]: He's still recovering.
+
+33
+00:01:57,531 --> 00:01:58,832
+[SPEAKER_02]: Please, take a good hit.
+
+34
+00:01:58,852 --> 00:02:00,113
+[SPEAKER_01]: I take a hit.
+
+35
+00:02:03,757 --> 00:02:06,320
+[SPEAKER_01]: I try to play it off as much as I can.
+
+36
+00:02:08,402 --> 00:02:10,003
+[SPEAKER_01]: Can I roll for a performance?
+
+37
+00:02:10,664 --> 00:02:11,485
+[SPEAKER_01]: Do a con check.
+
+38
+00:02:14,253 --> 00:02:16,896
+[SPEAKER_01]: Eleven plus two.
+
+39
+00:02:17,176 --> 00:02:17,996
+[SPEAKER_01]: And keep it down.
+
+40
+00:02:31,027 --> 00:02:32,448
+[SPEAKER_03]: Remember, there's five total.
+
+41
+00:02:33,509 --> 00:02:35,211
+[SPEAKER_03]: Lovely weather we're having, aren't we?
+
+42
+00:02:36,432 --> 00:02:39,134
+[SPEAKER_04]: Oh, yeah, it's been nice.
+
+43
+00:02:39,314 --> 00:02:40,575
+[SPEAKER_02]: Except for the storms.
+
+44
+00:02:41,196 --> 00:02:42,457
+[SPEAKER_02]: Garden, remember that.
+
+45
+00:02:44,365 --> 00:02:45,325
+[SPEAKER_02]: Storms, yes.
+
+46
+00:02:47,206 --> 00:02:48,566
+[SPEAKER_04]: You see him swooping across.
+
+47
+00:02:50,707 --> 00:02:51,887
+[SPEAKER_04]: Weird this time of year.
+
+48
+00:02:51,907 --> 00:02:56,609
+[SPEAKER_04]: Yeah, so what's the news out of Monmurg?
+
+49
+00:02:56,669 --> 00:02:59,129
+[SPEAKER_04]: How long have you guys, men, been out of there?
+
+50
+00:03:00,290 --> 00:03:01,550
+[SPEAKER_04]: I hear the city's dying.
+
+51
+00:03:01,730 --> 00:03:04,951
+[SPEAKER_02]: It's not looking too good there.
+
+52
+00:03:06,151 --> 00:03:09,432
+[SPEAKER_02]: It's not looking good.
+
+53
+00:03:09,652 --> 00:03:10,973
+[SPEAKER_04]: James doesn't tell me much.
+
+54
+00:03:12,477 --> 00:03:15,059
+[SPEAKER_04]: By the way, I do my rounds.
+
+55
+00:03:15,119 --> 00:03:16,140
+[SPEAKER_04]: I talk to the merchants.
+
+56
+00:03:17,281 --> 00:03:19,543
+[SPEAKER_04]: Most of the ships here don't want to be in Red Shore.
+
+57
+00:03:20,564 --> 00:03:22,185
+[SPEAKER_04]: They'd like to pass on to the city.
+
+58
+00:03:23,546 --> 00:03:23,846
+[SPEAKER_00]: Yeah.
+
+59
+00:03:27,469 --> 00:03:30,832
+[SPEAKER_04]: I'm the one that's been telling Jameis, why hasn't the fleet come down?
+
+60
+00:03:33,314 --> 00:03:34,375
+[SPEAKER_04]: That's what we want to know.
+
+61
+00:03:34,595 --> 00:03:35,456
+[SPEAKER_02]: What's his reply?
+
+62
+00:03:35,756 --> 00:03:36,576
+[SPEAKER_02]: Why hasn't he brought him?
+
+63
+00:03:37,117 --> 00:03:37,677
+[SPEAKER_02]: He tells me, wait.
+
+64
+00:03:42,413 --> 00:03:43,293
+[SPEAKER_04]: Those men of war.
+
+65
+00:03:43,313 --> 00:03:46,275
+[SPEAKER_04]: 400 marines on each.
+
+66
+00:03:47,095 --> 00:03:50,136
+[SPEAKER_04]: Easily taken care of by the squadron out of Monmurg.
+
+67
+00:03:51,877 --> 00:03:52,317
+[SPEAKER_02]: No doubt.
+
+68
+00:03:52,417 --> 00:03:53,518
+[SPEAKER_02]: Are these two trustworthy?
+
+69
+00:03:53,598 --> 00:03:54,378
+[SPEAKER_02]: I assume they are.
+
+70
+00:03:54,518 --> 00:03:57,200
+[SPEAKER_02]: It's just a couple outside, a couple of more men of war that are outside.
+
+71
+00:03:57,220 --> 00:03:58,120
+[SPEAKER_02]: I know he's trustworthy.
+
+72
+00:03:58,780 --> 00:04:02,282
+[SPEAKER_02]: This young boy, you sure he's not a spy?
+
+73
+00:04:03,472 --> 00:04:04,292
+[SPEAKER_03]: Oh yeah.
+
+74
+00:04:04,313 --> 00:04:05,193
+[SPEAKER_03]: See that pretty face?
+
+75
+00:04:05,233 --> 00:04:07,134
+[SPEAKER_03]: There's no way that pretty face could be a spy.
+
+76
+00:04:07,354 --> 00:04:08,215
+[SPEAKER_01]: Names Folsom.
+
+77
+00:04:09,996 --> 00:04:10,796
+[SPEAKER_01]: Captain Helm.
+
+78
+00:04:11,356 --> 00:04:12,777
+[SPEAKER_01]: You can call me Eric.
+
+79
+00:04:15,819 --> 00:04:16,319
+[SPEAKER_01]: You can't.
+
+80
+00:04:18,240 --> 00:04:18,700
+[SPEAKER_01]: I figured.
+
+81
+00:04:18,800 --> 00:04:21,181
+[SPEAKER_01]: You have to say Captain Eric?
+
+82
+00:04:22,802 --> 00:04:23,703
+[SPEAKER_04]: No, Captain Helm.
+
+83
+00:04:24,043 --> 00:04:26,224
+[SPEAKER_04]: Eric Helm.
+
+84
+00:04:26,684 --> 00:04:27,545
+[SPEAKER_02]: Captain Helm.
+
+85
+00:04:30,200 --> 00:04:31,041
+[SPEAKER_02]: Captain Helm.
+
+86
+00:04:31,581 --> 00:04:33,522
+[SPEAKER_02]: So, Captain Helm, tell me more.
+
+87
+00:04:35,464 --> 00:04:36,484
+[SPEAKER_02]: What?
+
+88
+00:04:36,805 --> 00:04:39,306
+[SPEAKER_02]: Oh, they got goods rotting on their ships here.
+
+89
+00:04:40,467 --> 00:04:41,668
+[SPEAKER_04]: That's all they have.
+
+90
+00:04:41,708 --> 00:04:42,449
+[SPEAKER_04]: It makes no sense.
+
+91
+00:04:43,509 --> 00:04:44,610
+[SPEAKER_04]: He's writing a long letter.
+
+92
+00:04:45,971 --> 00:04:46,612
+[SPEAKER_04]: I have my pigeon.
+
+93
+00:04:46,632 --> 00:04:47,372
+[SPEAKER_04]: You can carry it.
+
+94
+00:04:48,193 --> 00:04:48,413
+[SPEAKER_00]: Right?
+
+95
+00:04:48,433 --> 00:04:52,136
+[SPEAKER_00]: I don't think ink or lead weighs too much.
+
+96
+00:04:52,216 --> 00:04:52,936
+[SPEAKER_00]: Captain Helm.
+
+97
+00:05:00,392 --> 00:05:04,113
+[SPEAKER_03]: Come on, Merrick and Navy could take these men of war with no problem.
+
+98
+00:05:04,954 --> 00:05:07,815
+[SPEAKER_04]: Well, I mean, it'd be an effort, but not horrible.
+
+99
+00:05:08,755 --> 00:05:09,395
+[SPEAKER_04]: Easily done.
+
+100
+00:05:10,036 --> 00:05:12,196
+[SPEAKER_02]: Then why haven't they done it?
+
+101
+00:05:12,216 --> 00:05:12,617
+[SPEAKER_04]: I agree.
+
+102
+00:05:13,117 --> 00:05:13,837
+[SPEAKER_04]: Why haven't they?
+
+103
+00:05:13,857 --> 00:05:15,938
+[SPEAKER_04]: It seems like James has lost his balls.
+
+104
+00:05:17,939 --> 00:05:21,080
+[SPEAKER_03]: What would make Jameson lose his balls?
+
+105
+00:05:24,721 --> 00:05:25,421
+[SPEAKER_03]: Castration.
+
+106
+00:05:25,601 --> 00:05:26,542
+[SPEAKER_03]: I can't think of any.
+
+107
+00:05:27,831 --> 00:05:29,852
+[SPEAKER_02]: The man was a fierce lion in his day.
+
+108
+00:05:29,892 --> 00:05:30,192
+[SPEAKER_02]: Gouge.
+
+109
+00:05:33,434 --> 00:05:44,841
+[SPEAKER_03]: Would anybody have something to hold Jamison back?
+
+110
+00:05:44,881 --> 00:05:47,683
+[SPEAKER_04]: Well, he's a shrewd tactician and he knows more than me.
+
+111
+00:05:49,164 --> 00:05:52,046
+[SPEAKER_04]: So I'm sure he's got his reasons.
+
+112
+00:05:52,306 --> 00:05:53,847
+[SPEAKER_04]: Although I can't see what they are.
+
+113
+00:05:54,207 --> 00:05:54,527
+[SPEAKER_03]: Yeah.
+
+114
+00:05:55,088 --> 00:05:55,588
+[SPEAKER_03]: But what...
+
+115
+00:05:57,281 --> 00:06:05,884
+[SPEAKER_03]: What would cause Monmurg to lose this much money and be worth it in the end?
+
+116
+00:06:07,825 --> 00:06:09,085
+[SPEAKER_03]: Oh, do you think there's a hook?
+
+117
+00:06:09,946 --> 00:06:10,866
+[SPEAKER_03]: I know there's a hook.
+
+118
+00:06:10,966 --> 00:06:11,806
+[SPEAKER_03]: There's gotta be a hook.
+
+119
+00:06:12,847 --> 00:06:17,288
+[SPEAKER_03]: Do you think he's playing off Prince Jean?
+
+120
+00:06:17,868 --> 00:06:19,209
+[SPEAKER_03]: He's playing somebody.
+
+121
+00:06:20,389 --> 00:06:22,270
+[SPEAKER_03]: If he's that good, he's playing somebody.
+
+122
+00:06:24,058 --> 00:06:27,400
+[SPEAKER_04]: Well, the only person I could see be playing was Prince Jean.
+
+123
+00:06:27,601 --> 00:06:30,483
+[SPEAKER_04]: This is treason words.
+
+124
+00:06:31,623 --> 00:06:37,548
+[SPEAKER_03]: Would losing all of this commerce be worth that?
+
+125
+00:06:45,293 --> 00:06:46,514
+[SPEAKER_03]: That's what I want to know.
+
+126
+00:06:47,235 --> 00:06:50,077
+[SPEAKER_03]: What's worth losing all of this commerce?
+
+127
+00:06:51,011 --> 00:06:53,333
+[SPEAKER_02]: What is the long game for that?
+
+128
+00:06:53,453 --> 00:06:54,873
+[SPEAKER_02]: I don't think it's losing commerce.
+
+129
+00:06:54,974 --> 00:06:57,455
+[SPEAKER_02]: I think it's losing supplies.
+
+130
+00:06:57,855 --> 00:07:00,217
+[SPEAKER_03]: Yeah, the supplies, which feeds his...
+
+131
+00:07:00,237 --> 00:07:01,057
+[SPEAKER_03]: Starving the city.
+
+132
+00:07:01,258 --> 00:07:02,158
+[SPEAKER_03]: Starving the city.
+
+133
+00:07:02,578 --> 00:07:06,921
+[SPEAKER_03]: But starving the city, there has to be a reason why he's letting this go.
+
+134
+00:07:08,182 --> 00:07:10,964
+[SPEAKER_03]: Either A, somebody has something over him.
+
+135
+00:07:11,624 --> 00:07:12,605
+[SPEAKER_03]: It's holding him back.
+
+136
+00:07:13,886 --> 00:07:18,949
+[SPEAKER_03]: Or B, he's playing a longer game than they are.
+
+137
+00:07:20,723 --> 00:07:21,804
+[SPEAKER_03]: Which one is it?
+
+138
+00:07:23,726 --> 00:07:29,210
+[SPEAKER_02]: Could be he's holding back the fleet for defenses.
+
+139
+00:07:30,171 --> 00:07:32,993
+[SPEAKER_02]: Know something that might be coming.
+
+140
+00:07:33,494 --> 00:07:37,397
+[SPEAKER_03]: We're talking miles away.
+
+141
+00:07:37,637 --> 00:07:41,381
+[SPEAKER_03]: The fleet could get there and back in no time.
+
+142
+00:07:42,421 --> 00:07:47,426
+[SPEAKER_03]: To crack the city walls, to crack the city of Monmurg, what would you have?
+
+143
+00:07:48,817 --> 00:07:55,183
+[SPEAKER_03]: What fleet could attack the city of Monmurg that the Monmurg fleet couldn't get back to?
+
+144
+00:07:56,704 --> 00:08:00,848
+[SPEAKER_03]: This is the question we need to figure out.
+
+145
+00:08:02,289 --> 00:08:03,690
+[SPEAKER_03]: This is the question.
+
+146
+00:08:03,730 --> 00:08:09,595
+[SPEAKER_04]: You know very well, Tyrus, that there's no fleet on the sea that can defeat Monmurg.
+
+147
+00:08:10,216 --> 00:08:10,436
+[SPEAKER_04]: Right.
+
+148
+00:08:10,476 --> 00:08:14,380
+[SPEAKER_04]: Especially when the Outer Isles are with it.
+
+149
+00:08:14,460 --> 00:08:14,780
+[SPEAKER_04]: Right.
+
+150
+00:08:15,040 --> 00:08:15,661
+[SPEAKER_04]: The secret?
+
+151
+00:08:17,802 --> 00:08:21,243
+[SPEAKER_04]: I won't read it, I'll watch you attach it to the pigeon myself.
+
+152
+00:08:23,163 --> 00:08:25,023
+[SPEAKER_04]: Okay, so you guys go out.
+
+153
+00:08:26,464 --> 00:08:35,505
+[SPEAKER_04]: He goes down into the hole and gets the pigeon, and without reading the deal, ties it up, and then it flies away.
+
+154
+00:08:36,805 --> 00:08:37,366
+[SPEAKER_04]: And he says...
+
+155
+00:08:41,306 --> 00:08:42,186
+[SPEAKER_01]: So...
+
+156
+00:08:47,694 --> 00:08:50,635
+[SPEAKER_04]: I will get a message back, but not that way.
+
+157
+00:08:53,035 --> 00:08:53,695
+[SPEAKER_00]: Don't believe so.
+
+158
+00:08:54,456 --> 00:08:56,056
+[SPEAKER_00]: I mean, you'll get a message back.
+
+159
+00:08:57,356 --> 00:08:59,517
+[SPEAKER_04]: I'll get information back, but not that way.
+
+160
+00:09:00,097 --> 00:09:02,277
+[SPEAKER_04]: And we'll know in a few days what the deal is.
+
+161
+00:09:02,837 --> 00:09:03,298
+[SPEAKER_04]: Absolutely.
+
+162
+00:09:04,678 --> 00:09:07,699
+[SPEAKER_03]: But in the meantime, I'm not a spy.
+
+163
+00:09:08,339 --> 00:09:09,319
+[SPEAKER_03]: I'm not anything.
+
+164
+00:09:10,593 --> 00:09:14,556
+[SPEAKER_02]: I'm not one of these, but I want to know what is going on here.
+
+165
+00:09:14,896 --> 00:09:25,302
+[SPEAKER_04]: Well, actually, in the meantime, what you're going to do is go down in the bilge and bucket out enough water so you can sleep down there nicely.
+
+166
+00:09:26,223 --> 00:09:27,064
+[SPEAKER_04]: That's what you'll do.
+
+167
+00:09:28,364 --> 00:09:29,825
+[SPEAKER_04]: You'll stay out of sight, right?
+
+168
+00:09:30,306 --> 00:09:31,166
+[SPEAKER_03]: Right.
+
+169
+00:09:31,186 --> 00:09:33,187
+[SPEAKER_03]: I'm out of sight, but I want to have a conversation.
+
+170
+00:09:33,748 --> 00:09:40,012
+[SPEAKER_03]: What do you guys know that why is this happening?
+
+171
+00:09:45,110 --> 00:09:45,910
+[SPEAKER_00]: I think you are Brian.
+
+172
+00:09:45,930 --> 00:09:47,070
+[SPEAKER_00]: What do you mean?
+
+173
+00:09:47,090 --> 00:09:47,690
+[SPEAKER_00]: What do I know?
+
+174
+00:09:47,850 --> 00:09:49,171
+[SPEAKER_02]: All of you.
+
+175
+00:09:49,191 --> 00:09:51,631
+[SPEAKER_02]: You, you, you, and you.
+
+176
+00:09:52,831 --> 00:09:54,492
+[SPEAKER_02]: Everybody, why is this happening?
+
+177
+00:09:55,212 --> 00:09:56,712
+[SPEAKER_02]: Do you want to hear about the rumors I've heard?
+
+178
+00:09:56,932 --> 00:09:57,232
+[SPEAKER_02]: Yes.
+
+179
+00:10:02,133 --> 00:10:03,313
+[SPEAKER_04]: Duke of Gratzel.
+
+180
+00:10:09,974 --> 00:10:13,715
+[SPEAKER_04]: The Duke of Gratzel wants a wife.
+
+181
+00:10:16,010 --> 00:10:17,851
+[SPEAKER_03]: It's all over a fucking woman.
+
+182
+00:10:19,111 --> 00:10:20,092
+[SPEAKER_04]: Of course it is.
+
+183
+00:10:20,212 --> 00:10:24,773
+[SPEAKER_04]: The Duke of Gratzel, in Keoland, wants a wife.
+
+184
+00:10:26,174 --> 00:10:27,134
+[SPEAKER_04]: Not just any wife.
+
+185
+00:10:28,355 --> 00:10:28,975
+[SPEAKER_04]: Whose wife?
+
+186
+00:10:29,175 --> 00:10:31,396
+[SPEAKER_04]: He wants a pure-blood soul wife.
+
+187
+00:10:35,257 --> 00:10:40,559
+[SPEAKER_04]: And you don't find those very often, not even in Keoland, even though there's four houses.
+
+188
+00:10:41,019 --> 00:10:42,160
+[SPEAKER_04]: Or three houses.
+
+189
+00:10:44,240 --> 00:10:48,083
+[SPEAKER_04]: The other two houses don't like Gratzel very much because they're so powerful.
+
+190
+00:10:48,963 --> 00:10:50,044
+[SPEAKER_04]: And so where do you look?
+
+191
+00:10:52,466 --> 00:10:53,107
+[SPEAKER_02]: Monmurg.
+
+192
+00:10:53,247 --> 00:10:54,968
+[SPEAKER_02]: You look in Portoli.
+
+193
+00:10:55,088 --> 00:10:56,469
+[SPEAKER_02]: Which is the other side of Monmurg.
+
+194
+00:10:56,749 --> 00:10:57,069
+[SPEAKER_02]: Right?
+
+195
+00:10:59,791 --> 00:11:05,015
+[SPEAKER_04]: So the Duke of Gratzel is willing to cut a deal with the Toli.
+
+196
+00:11:07,397 --> 00:11:08,418
+[SPEAKER_04]: And the deal is this.
+
+197
+00:11:13,023 --> 00:11:17,685
+[SPEAKER_04]: They get a woman from their bloodline into Gratzel.
+
+198
+00:11:20,465 --> 00:11:20,806
+[SPEAKER_04]: Right?
+
+199
+00:11:22,086 --> 00:11:26,367
+[SPEAKER_04]: And he helps them with the political problems with Lord Jameis.
+
+200
+00:11:28,248 --> 00:11:29,088
+[SPEAKER_04]: Slurgood.
+
+201
+00:11:29,648 --> 00:11:30,228
+[SPEAKER_04]: What?
+
+202
+00:11:30,248 --> 00:11:31,169
+[SPEAKER_04]: Slurgood.
+
+203
+00:11:31,249 --> 00:11:33,369
+[SPEAKER_02]: Now we getting somewhere.
+
+204
+00:11:33,509 --> 00:11:38,471
+[SPEAKER_04]: And there's an alliance between the House of Toli and the House of Gratzel.
+
+205
+00:11:39,151 --> 00:11:40,992
+[SPEAKER_04]: Now we're getting somewhere.
+
+206
+00:11:41,970 --> 00:11:46,971
+[SPEAKER_04]: So this is an attempt to unify the kingdoms and not for us Iradians.
+
+207
+00:11:51,052 --> 00:11:52,432
+[SPEAKER_04]: And who stands in the way?
+
+208
+00:11:54,513 --> 00:11:59,474
+[SPEAKER_04]: The richest man in the world, Gion.
+
+209
+00:12:00,234 --> 00:12:05,275
+[SPEAKER_03]: Why would Gion care if there's a Seul woman in it?
+
+210
+00:12:07,636 --> 00:12:08,496
+[SPEAKER_04]: From House Toli?
+
+211
+00:12:08,976 --> 00:12:09,256
+[SPEAKER_04]: Yeah.
+
+212
+00:12:09,296 --> 00:12:10,497
+[SPEAKER_04]: The principalities?
+
+213
+00:12:10,797 --> 00:12:11,517
+[SPEAKER_04]: Are you crazy?
+
+214
+00:12:12,632 --> 00:12:19,780
+[SPEAKER_04]: With Keoland's armies and ports of Toli, they'd have a place to march their armies right at the Monmurg whenever they wanted to.
+
+215
+00:12:19,840 --> 00:12:21,362
+[SPEAKER_03]: Yeah, it's all over this.
+
+216
+00:12:24,377 --> 00:12:35,684
+[SPEAKER_04]: The Toli and the House of Rola from Gratzel have been at odds for hundreds of years before the principalities have ever been powerful.
+
+217
+00:12:36,404 --> 00:12:45,890
+[SPEAKER_04]: And now that Gion has finally gotten to the point where he's richer and more powerful than any man in the principalities, they need to nerf him.
+
+218
+00:12:46,350 --> 00:12:48,352
+[SPEAKER_04]: He needs to be taken down a notch.
+
+219
+00:12:49,332 --> 00:12:53,155
+[SPEAKER_03]: So really, this is all just to get
+
+220
+00:12:54,087 --> 00:12:55,028
+[SPEAKER_03]: Gion down.
+
+221
+00:12:55,828 --> 00:13:01,013
+[SPEAKER_03]: They get a woman, Sioux woman, now all of a sudden...
+
+222
+00:13:01,073 --> 00:13:02,354
+[SPEAKER_03]: They create an alliance.
+
+223
+00:13:02,374 --> 00:13:03,815
+[SPEAKER_02]: They make their bloodlines bingled.
+
+224
+00:13:03,915 --> 00:13:06,097
+[SPEAKER_02]: Now we can take Gion down.
+
+225
+00:13:07,898 --> 00:13:08,579
+[SPEAKER_02]: One of the princes.
+
+226
+00:13:09,720 --> 00:13:10,981
+[SPEAKER_02]: The most powerful prince.
+
+227
+00:13:12,542 --> 00:13:15,224
+[SPEAKER_04]: Well, but the Outer Island princes would never go for this.
+
+228
+00:13:15,345 --> 00:13:15,705
+[SPEAKER_03]: Yeah.
+
+229
+00:13:17,266 --> 00:13:18,927
+[SPEAKER_03]: The point is...
+
+230
+00:13:21,609 --> 00:13:24,791
+[SPEAKER_03]: Now we, like, finally have a...
+
+231
+00:13:29,753 --> 00:13:32,034
+[SPEAKER_03]: So, are there rumors?
+
+232
+00:13:34,655 --> 00:13:36,116
+[SPEAKER_03]: Do they have a woman picked?
+
+233
+00:13:38,837 --> 00:13:39,778
+[SPEAKER_02]: Oh, I'm sure they do.
+
+234
+00:13:40,378 --> 00:13:41,579
+[SPEAKER_03]: Where's she at?
+
+235
+00:13:42,999 --> 00:13:44,000
+[SPEAKER_02]: Probably Portoli.
+
+236
+00:13:48,412 --> 00:13:51,594
+[SPEAKER_03]: And What's-His-Name was going east for what reason?
+
+237
+00:13:51,894 --> 00:13:59,498
+[SPEAKER_03]: Who's What's-His-Name?
+
+238
+00:14:01,479 --> 00:14:03,300
+[SPEAKER_01]: I don't think the pigeon knows that.
+
+239
+00:14:03,721 --> 00:14:07,383
+[SPEAKER_02]: Okay, I'm going to stop it here.
+

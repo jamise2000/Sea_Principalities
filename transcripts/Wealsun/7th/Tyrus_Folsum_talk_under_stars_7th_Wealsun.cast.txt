@@ -1,0 +1,5 @@
+# Cast for Tyrus_Folsum_talk_under_stars_7th_Wealsun
+# Expected voices: 3
+DM
+Folsom
+Tyrus

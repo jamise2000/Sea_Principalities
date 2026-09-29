@@ -1,0 +1,5 @@
+# Cast for Folsum_talks_w_marines_7th_Wealsun
+# Expected voices: 2
+DM
+Folsom
+marine (NPC, DM-voiced)

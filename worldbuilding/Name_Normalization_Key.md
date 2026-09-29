@@ -61,11 +61,14 @@ Three separate things share the word "Toli"; keep them distinct, and when connec
 | Canonical | Notes / variants seen |
 |---|---|
 | **Redshore** (the island **and** the city) | "Red Shore" (two words) |
+| **Seaton** (a port; ships still run there during the blockade) | Seton |
+| **Merrick** (the PC) | "Dick" (player's name, used for the character) |
+| **Saltmarsh** (a port; new dock opening during the blockade) | — |
 | **Port Toli** | Portoli, Port Tolli |
 | **Port Torvin** | Port Torben, Port Torpen |
 | **Monmurg** | Monmurk, Montmurg |
 | **Salinmoor** | Sailinmoor |
-| **Gradsul** (Keoland; seat of the Duke, and of the Office of Forbidden Magic) | Gratzel |
+| **Gradsul** (Keoland; seat of the Duke, and of the Office of Forbidden Magic; adj. **Gradsulian**) | Gratzel, Gretzel, Razzle, Gretzolian |
 | **Idee** (on the eastern side of the Azure Bay) | Adi |
 | **the Hool River** (feeds the Hool Marshes) | Hule River, Hull River |
 | **Westkeep** (north, on the Hool River) | (usually correct) |
@@ -81,7 +84,7 @@ Three separate things share the word "Toli"; keep them distinct, and when connec
 
 | Transcript garble | Intended |
 |---|---|
-| "the arrow" (will do what's right) | **the Earl** (of Redshore) |
+| "the arrow" (will do what's right); **"Earl Richard"**; **"Berlin"** (as in "mercenaries from Berlin") | **the Earl** (of Redshore) |
 | "minute arms" | **men-at-arms** |
 | "a dream of it" | **a dram of it** |
 | "a shot of the Black Realm" | **a shot of the black rum** |

@@ -542,3 +542,118 @@ ASR / name fixes:
 - "Avenue of the Gods" (84) -> Row/Avenue of the Gods; "that black dragon, Sam, whatever" (122) -> Insamiar; "the Burbell" (88) uncertain (author to confirm); "sahuagin" -> sahaugin.
 
 Flags: bleed-heavy; Paul lines on DM tag (280,283,289,322,391-392) reassigned to Paul; Leslie bodyguard/CEO (359-361) + fake-fire riff (385-386) reassigned to Leslie; 8-11 female-caster (10-11 could be Jude); 31 guard "what about feeding, sir?" (01B); 32/35-36 -> Jude (could be Paul); 234 mixed Jude/Paul. [out-of-band] 338 = DM "I'm going to have so much fun writing this."
+
+## Party Reintroduction (6th Wealsun) [update_9.29.2026 batch]
+Speaker-tag character-lock applied (crew registry: DM 00A, Gouge 04A, Merrick 05A, Tyrus 06A, Folsom 07A). No NPCs. ~77% [game mechanics] (rest/hit-dice/ranges); 0 out-of-band.
+- PC MAPPING IS TENTATIVE: no names spoken; raw01=Merrick, raw02=Folsom, raw03=Gouge, raw04=Tyrus inferred from hit-dice/class clues (d8 vs d10; who "played a song" = Folsom's Song of Rest). Author to verify.
+- Scene: party on the cliffs above the wharf, lanterns left lit as bait on Owen's sloop; post-fight rest recovery; pivot to plan next move / hear Folsom out.
+- Normalizations: "6th of Whale Sun"->6th of Wealsun; "10pm in the morning"->10 p.m.
+
+## Party Flees the Men-at-Arms (6th Wealsun) [update_9.29.2026 batch]
+Speaker-tag character-lock applied. Full combat/flight encounter, 2155 lines, ~82% [game mechanics]. Counts: rp 306, mechanics 1764, out-of-band 77, NPC 8.
+- MAPPING NOW CERTAIN (DM names PCs on-page during initiative): raw00=Folsom 07A, raw01=Merrick 05A, raw02=DM 00A, raw03=Gouge 04A, raw04=Tyrus 06A. Knight = 01B (standalone challenge only; other NPC voices embedded in DM narration, kept on 00A).
+- CONTINUITY (RESOLVED): Merrick = coastal (Fog Cloud, Hunter's Mark, "coastal terrain is your terrain," perception expertise) = matches "Merrick has coastal experience." Gouge = AUTHOR-CONFIRMED Fighter/Rogue multiclass (Second Wind in The_party_waits; sneak attack/Assassinate here). Gouge=04A throughout. Registry verified consistent across all 46 cast mappings: DM 00A, Jude 01A, Paul 02A, Leslie 03A, Gouge 04A, Merrick 05A, Tyrus 06A, Folsom 07A; NPCs = B by appearance.
+- This retroactively CONFIRMS the previously-tentative Party Reintroduction mapping (Merrick=raw01, Gouge=raw03, Tyrus=raw04). No longer tentative.
+- Scene: Earl of Regfort's men-at-arms (archaic ring mail, halberds) + mounted knight search Owen's sloop; knight mistakes drunkard-Folsom for Owen Black; ruse collapses -> combat; Merrick fog cloud, Gouge assassin crit, Tyrus thunderous-smites knight off horse, Folsom charm/mockery/buffs; party breaks contact and flees up the rocky south ridgeline (Merrick leading through his coastal terrain).
+- Normalizations: Red Shore->Redshore; haliburds/halibirds/holobirds->halberds; men-at-war->men-at-arms; Thunderous might/Syrinx mic->Thunderous Smite; "Earl of Regfort" & "Gradsolian fleet" spellings TBC.
+- Flags: rp/mechanics boundary approximate in fast combat; inline NPC quotes kept on DM 00A (offer to re-split to B-tags); untagged source lines (185,1253-54,1506,1731,1773,1857-58) assigned by context; 163/174 (Folsom bled onto DM tag) reassigned to 07A.
+
+## Merrick Leads to the Southern Coast (6th Wealsun) [update_9.29.2026 batch]
+Speaker-tag character-lock applied. Talky regroup/strategy scene, 375 lines, ~92% roleplay. Counts: rp 347, mechanics 26, out-of-band 2. No NPCs (per .cast.txt).
+- Mapping (crew registry): raw00=Folsom 07A, raw01=Tyrus 06A, raw02=DM 00A, raw03=Gouge 04A, raw04=Merrick 05A. (Diarizer re-numbers per file; Merrick/Tyrus swapped in raw order vs Party Flees.)
+- Anchors: Tyrus "I can't sneak for shit but I can protect my buddy" (81); Merrick leads/"I can traverse the land"/wears Ranger stuff (5,241,316,345), "Me and Gouge" = the two sneaks (231); Folsom = entertainer's pack + defends the "I'm Owen/bodyguard" ruse (87-94,153); Gouge = leather armor + "in your best interest to have my back" (353,364).
+- Scene: party regroups in the southern wilderness after fleeing; debate the ruse; Folsom's insight check reveals the Earl wouldn't welcome Owen (six dead in the bar); plan to seek an audience/parlay with the Earl of Redshore; long rest in the wild, Merrick to guide them to the castle.
+- Canon (political map): Earl of Redshore = vassal of Duke of Gratzel, who is at war with Monmurg; the bay's men-of-war are Gratzelian. Cain Toli is from Toli (Sea Principalities), "weird marriage" between Toli and Gratzel. Owen Black = self-serving middleman working with Cain Toli, knows about the turtle-dragon amulet.
+- Normalizations (APPLIED to body): Gratzel/Gretzel/Razzle/Gretzolian -> Duke of Gradsul / Gradsulian (328,332,335,341); "Earl Richard" -> the Earl of Redshore (341); line 133 "mercenaries...from Berlin" -> "...from the Earl" (author review comment). Canon confirmed: Duke of Gradsul is the Duke; any earl = Earl of Redshore. (Recorded in Name_Normalization_Key.md.) Not-in-body normalizations for prose: Kassel->castle; Kane Tolley->Cain Toli; man-of-war->men-of-war; "minute arms"->men-at-arms; "in-check"=insight/Int check (TBC).
+- Bleed reassigned: 4,16,154,155 -> DM 00A; 131 ("you put pressure on me, Merrick") -> Folsom 07A. OOB: 372-373 "break break" (real table break).
+
+## Gouge's Thoughts on the Mission (7th Wealsun) [update_9.29.2026 batch]
+Speaker-tag character-lock applied. One-on-one DM+Gouge reflection/debrief, 107 lines. Counts: rp 104, out-of-band 3, mechanics 0. No NPCs, no dice (per .cast.txt: 2 voices).
+- Mapping: raw00=DM 00A, raw01=Gouge 04A.
+- Convention: followed Paul's Thoughts precedent - recap kept in-band (roleplay) though it doubles as plot analysis; only DM exercise-framing (1,105) and Gouge's OOC sign-off (106) are out-of-band.
+- Scene/plot: Gouge takes stock - were they lured to be assassinated? Earl of Redshore = Monmurg's enemy; men-at-arms hunting Owen re: 6 dead in chart room; blockade = Gradsul embargo to punish Monmurg (ships corralled at Redshore, dumping cargo cheap); navy blocked by controlled turtle dragons (artifact). Owen soured after Folsom extracted a "gold mine" (Cain Toli, his island, the artifact) and tried to silence them. Mission (from Lord Jamis) = recon on Owen, accomplished. Gouge's call: skip the castle, get intel back to Jamis.
+- Body normalizations APPLIED (author canon): "Earl of Retro"(8)/"Earl of Red Shore"(57)->Earl of Redshore; "Duke of Gratzel"(55)->Duke of Gradsul.
+- Noted for prose (NOT changed in body): "James"(90)/"Jameis"(98)->Lord Jamis (handler, not the player); "Cain totally"/"Kane Tolley"(77,96)->Cain Toli; "whale sun"->Wealsun; turtles->turtle dragons; "Porvin"(56) place-name TBC.
+
+## Merrick's Thoughts on the Mission (7th Wealsun) [update_9.29.2026 batch]
+Speaker-tag character-lock applied. DM+Merrick reflection/debrief, 91 lines. Counts: rp 87, mechanics 3, out-of-band 1. No NPCs (per .cast.txt: 2 voices).
+- Mapping: raw00=Merrick 05A, raw01=DM 00A. (REVERSE of Gouge's Thoughts raw layout; diarizer re-numbers per file. Anchored by content: DM frames exercise/corrects/teaches; Merrick "forgot who my leader was.")
+- New canon beat: Cain Toli headed EAST two days ago, taking his turtle dragons -> Redshore's naval screen temporarily down -> Monmurg fleet could wipe the 3 men-of-war now. Merrick (ranger) can scan coast for dragons (favored terrain, 6 mi). Open problem: reaching Jamis. Mission (recon on Owen) already succeeded.
+- Convention: recap in-band (roleplay); OOB=1 (DM exercise framing); gm=52-54 (ranger detection ability rules exposition).
+- Bleed fixes: 3 ("what do I think about the day") -> Merrick 05A; 7 ("what's your mission?") -> DM 00A; 22 ("and I know that") -> Merrick 05A. Line 51 merged (Merrick Q + DM answer) left on 05A.
+- Body normalization APPLIED: "Red Shore"(18,40)->Redshore.
+- Noted for prose: Jameis->Jamis; Caintoli/Kain Tully/Kane totally->Cain Toli; "to gouging you"(60)->"to Gouge"; Fulsome->Folsom; Whale Sun->Wealsun; Three-Man-O-War->three men-of-war.
+
+## Merrick & Gouge, Private Conversation (7th Wealsun) [update_9.29.2026 batch]
+Speaker-tag character-lock applied. Dawn-watch two-hander (DM interjecting), 128 lines. Counts: rp 128, mechanics 0, out-of-band 0. No NPCs (per .cast.txt: 3 voices).
+- Mapping: raw00=DM 00A, raw01=Merrick 05A, raw02=Gouge 04A. Anchors: Merrick corrects "amulet"->"the artifact" (25), ranger waters/detection (28-29), gets them off the island (79); Gouge frames the objective + escape logistics; DM narrates + gives the lich/artifact lore.
+- MAJOR CANON (artifact origin): a LICH/NECROMANCER made the artifact long ago and made a deal with Cain Toli - gave him the artifact in exchange for BREAKING A MAGICAL WARD on the coast of Salinmoor ("Selenmor"). New thread (artifact's maker + warded Salinmoor coast) - candidate for its own worldbuilding note.
+- Plan: recon done; get back to Jamis; Merrick to check en route whether turtle dragons still hold the blockade; if Cain Toli took them east, Monmurg navy can smash the 3 men-of-war and reopen Redshore. Escape = ~60 mi open sea past blockade, need something small at night no lights (callback: Helm Island raft). Jude & Paul last in Monmurg (went to palace). Tyrus's motive = relief supplies, distinct from the espionage.
+- Body normalization APPLIED: "Red Shore"(102)->Redshore.
+- Noted for prose: Jameis/James->Jamis; King Toli/Kane Tolley->Cain Toli; Selenmor->Salinmoor (TBC); Cleet->fleet; Turled Dragons->turtle dragons; "Thai sails"(89)->"Ty sails"(Tyrus); Keelander->Keoish; "use your ice"(125)->"use your eyes"(TBC).
+
+## Tyrus & Folsom Talk Under the Stars (7th Wealsun) [update_9.29.2026 batch]
+Speaker-tag character-lock applied. Under-the-stars Q&A/conversation, 167 lines. Counts: rp 166, out-of-band 1, mechanics 0. No NPCs (per .cast.txt: 3 voices).
+- Mapping: raw00=DM 00A, raw01=Tyrus 06A, raw02=Folsom 07A. Anchors: Tyrus = supplies-for-Monmurg + protector; Folsom = amulet intel + shows the green gem; DM = narration+lore.
+- MAJOR CANON (artifact origin refined): made by a LICH called ASERACH; a NECROMANCER called IXID did NOT give it to Cain Toli but TOLD HIM WHERE IT WAS. (Sharpens Merrick&Gouge-priv "lich/necromancer deal for breaking a ward at Salinmoor" - two overlapping tellings; candidate for a worldbuilding note.)
+- CANON (Toli): ancient SUEL house "Toli"; city Port Toli (Sea Principalities) = center of the house; "Toli rat" = from the city; Cain Toli = of the noble family. Torus ("Taurus") = the Suel Toli man on Owen's boat.
+- CANON (item): Gouge gave Folsom a large flat-cut GREEN GEM (~2000 gp), "make sure you have my back"; NOT the turtle-dragon amulet (poss. related to Gouge's "stones"). Tyrus suspects an ulterior motive.
+- CANON: crew's lord = Prince Jeon of Monmurg (DM corrects "King Jameis"); Redshore = Keoland, Earl subject to Duke of Gradsul; Redshore does whaling/oil, choked by blockade.
+- Body normalization APPLIED: Red Shore->Redshore; Duke of Gratzel/Grazzle->Duke of Gradsul.
+- Noted for prose: "Semtha"->7th; Aserach/Ixid spellings TBC; Caintoli/Kane Toli/King Toli->Cain Toli; Taurus->Torus; "ancient soul"/Sewell->Suel; "King Jameis"->Lord Jamis; "Prince Gian"->Prince Jeon; Man of Wars->men-of-war.
+- Flag: lines 39-41 muddled re: whose ship Owen's trap-sloop was (intent: Tyrus's) - left as diarized.
+
+## The Party Ponders Escape & Looks for a Boat (7th Wealsun) [update_9.29.2026 batch]
+Speaker-tag character-lock applied. Full-party planning/exploration, 414 lines. Counts: rp 389, mechanics 23, out-of-band 2. No NPCs speak (per .cast.txt: 5 voices).
+- Mapping: raw00=Folsom 07A, raw01=Tyrus 06A, raw02=Merrick 05A, raw03=Gouge 04A, raw04=DM 00A. Anchors: Folsom=entertainer's pack + dock recall; Tyrus="six-foot-seven red-haired dude, plate chest"; Merrick="I know the water"+ranger detection; Gouge="Merrick and I are in agreement"; DM=narration/map/checks.
+- Scene: wake 7am; decide to get back to Monmurg + Jamis + send the Navy; Cain Toli seen heading east 2 days ago; Merrick can detect turtle dragons (6 mi, spell slot) but saves it; walk abandoned S/W coast, no boat; into the city past the whaling district; disguises + split into pairs (Gouge+Tyrus, Merrick+Folsom); Owen's sloop GONE from its dock; Keoland marines now patrolling (new); Folsom goes to pump a marine.
+- Canon: Cain Toli's island ringed by turtle dragons ("Pallas Island" - poss. Pocra Sententia); Redshore = whaling town (rendering vats, whale-bone beach, oil barrels); Keoland marines newly patrolling docks; Salinmoor ("Salonmoor") = part of Keoland toward Gradsul (ties to the artifact-ward lore); Lord Fairwind named.
+- gm (23): ranger detection rules (99-100,105-109); wisdom check (159-163); Folsom int check re dock (298-302); wisdom check spotting Keo marines (352-354); int check at docks (357-359).
+- oob (2): 222 "Holocaust cloak" (Princess Bride), 224 "Mad Max" - OOC jokes during disguise talk.
+- Bleed reassigned: 165-171 (DM narration + Merrick's wave questions, off Tyrus's tag) -> 00A/05A; 317 (DM narration) -> 00A.
+- Body normalization APPLIED: Red Shore/Redchor->Redshore; Gratzel(402)->Gradsul.
+- Noted for prose: Whale Sun->Wealsun; Jameis/Seamus->Jamis; Lord Fairwin->Lord Fairwind; Kane Toli/Caintoli/King Toli->Cain Toli; Pallas Island->poss. Pocra Sententia; Salonmoor->Salinmoor; Keog/Keolanders->Keoish marines; man-of-war->men-of-war; "Bones Boat"(376) garble.
+
+## Folsom Talks with the Marines (7th Wealsun) [update_9.29.2026 batch]
+Speaker-tag character-lock applied. Short dock-side interrogation, 41 lines. Counts: rp Folsom 22, NPC marine 18, DM narration 1; mechanics 0, out-of-band 0.
+- Mapping: Folsom 07A, marine sergeant 01B (NPC, DM-voiced), DM 00A. DIARIZER SCRAMBLED - reassigned per line by content (raw01 & raw00 both carried a mix of Folsom + marine).
+- Scene: Folsom (merchant guise) pumps a Keoland marine sergeant: patrol posted over the Chart Room bloodshed ("killers more skilled than many"); Monmurg shut down by order of the Duke of Gradsul; alt trade via new dock at Saltmarsh or ships to Seton. Dramatic irony: sergeant "we don't want those foreign spies to cause more trouble" (to Folsom).
+- Canon: official account of Chart Room killings + marine detachment now on docks; Monmurg embargo stated by enemy; Saltmarsh (new dock) + Seaton as alt trade destinations; the marine = a Sergeant.
+- Body normalization APPLIED: Duke of Gratzel(26)->Duke of Gradsul.
+- Noted: ne'er-de-wells->ne'er-do-wells; Seton->Seaton (author-confirmed, applied to body); Saltmarsh confirmed. Line 39 "Thank you" given to Folsom (could be marine).
+
+## The Party Finds Captain Helm (7th Wealsun) [update_9.29.2026 batch]
+Speaker-tag character-lock applied. Dock search + long NPC negotiation, 470 lines. Counts: rp ~403 (incl. Helm 43, Georg 2), mechanics 12, out-of-band 9. Two NPCs (per .cast.txt).
+- Mapping: raw00=Merrick 05A, raw01=DM 00A (+NPCs), raw02=Gouge 04A, raw03=Tyrus 06A, raw04=Folsom 07A. NPCs: Georg (first mate) 01B, Captain Helm 02B (DM-voiced). Anchors: DM addresses "Tyrus" (139/177/242/301); Helm "Is Gouge back there!"; Merrick recognizes Helm + spy angle; Gouge=flask; Folsom=marine recap.
+- NEW NPCs/canon: Captain Helm = ~60yo hard-drinking infamous Monmurg sea captain, SPY for Lord Jamis (nicknames Jamis "the spider"); stuck in embargo; has carrier pigeons (3 in hold, ~20hr flight to Monmurg) as comms to Jamis. Georg = slow first mate, ex-Harbor-District cargo handler who worked for TYRUS'S UNCLE. Admiral Amrachar = commands the Keoish man-of-war, controls all Redshore departures.
+- Plan: write a CODED letter -> pigeons -> summon Monmurg navy, BUT only after Merrick confirms turtle dragons are gone (else the fleet sails into a death trap). Navy round-trip ~1.5 days. Only mail ships let out; Saltmarsh/Seaton sanctioned destinations.
+- gm (12): insight checks (64-75 seedy/familiar ship; 118-119 recognize first mate).
+- oob (9): 39-40 "NASCAR"; 434 "Dick" (real name); 436-441 Princess Bride "six-fingered man"/posterity banter.
+- HEAVY NPC/DM/PC bleed on shared DM tag (raw01): pulled Helm's standalone lines->02B, Georg's->01B, kept embedded "he goes..." quotes on 00A (Party Flees convention). Bleed fixes: 89 "I do"->Merrick 05A; 172-173 (Helm grumbling)->02B. 200 "Sir I'm also here" left 00A (unpinned PC). FLAG: needs a scan of Helm's turns 199-321.
+- Body normalization APPLIED: Red Shore/Redshire->Redshore; Salt Marsh->Saltmarsh; Seton->Seaton; Captain Helms->Captain Helm.
+- Noted for prose: "the spider"/Jameis/Janus/James->Lord Jamis; Keaton(135)->Georg; Admiral Amrachar/Armarchar spelling TBC; Keago->Keoish; King Toli/Kane Tolley->Cain Toli; "summit of the Wealsun"->7th; "new portal"->new port.
+
+### Party Finds Captain Helm — author review corrections (round 1) applied
+- Re-tagged the cabin negotiation. To Helm 02B: 203,226,231,233,239(frame stripped),246,268,271,272,273,277,280,282,291,332,333,334,342,350,363,381. To Tyrus 06A: 227,229,240,241,267,269,270,304,320,321,322,404. To DM 00A: 214,215,223,398,401. To Gouge 04A: 200. To Merrick 05A: 274, and 434 ("Dick's going to write out a letter"->"Merrick's going to write out a letter"; Dick=Merrick; NOT out-of-band). To Folsom 07A: 313.
+- Body text fixes: 218 "because he is not getting up to urinate he is so drunk" (was "not getting enough to urinate"); 220 "white hoary hair" (was "horny").
+- New counts: DM 126rp+12mech, Helm 02B 64, Georg 01B 2, Merrick 87, Tyrus 114, Gouge 31, Folsom 26; out-of-band now 8 (39-40, 436-441).
+- Canon add: Dick = Merrick (player name -> character). (Recorded in Name_Normalization_Key.)
+
+## Merrick Looks for Dragons (7th Wealsun) [update_9.29.2026 batch]
+Speaker-tag character-lock applied. Short ranger-detection scene, 28 lines. Counts: rp 23, mechanics 5, out-of-band 0. No NPCs (per .cast.txt: 2 voices).
+- Mapping: raw00=DM 00A, raw01=Merrick 05A.
+- CONFIRMED CANON: turtle-dragon blockade screen GONE from the waters around Redshore (channel to Keoland/Salinmoor + ~2mi south) as of noon 7th - but instantaneous knowledge, not permanent. Confirms Cain Toli took the dragons east. Green-lights the navy summons plan. Sahaugin present (few) as lingering hazard.
+- Op-sec beat: Merrick kept dragon intel from Helm; worried Tyrus over-shares; "put Tyrus in check."
+- gm (5): ranger detection scope/rules (2-4,6,10). Result (no dragons; sahaugin) kept as narration.
+- Body normalization APPLIED: Red Shore(14,15)->Redshore.
+- Noted for prose: Whalesun->Wealsun; Salamor->Salinmoor; sahuagin->sahaugin; "Names & No."(4) ASR garble TBC.
+
+## Merrick Makes the Decision (7th Wealsun) [update_9.29.2026 batch]  -- FINAL of 12
+Speaker-tag character-lock applied. Cabin scene, Helm exposition-heavy, 239 lines. Counts: rp ~134, Helm 02B 91, DM 00A 10, mechanics 3, out-of-band 2. One NPC (per .cast.txt).
+- Mapping: raw00=Merrick 05A, raw01=Folsom 07A, raw02=Gouge 04A, raw03=Tyrus 06A, raw04=DM 00A (+Captain Helm 02B). Anchors: Folsom "Names Folsom"; Helm "You know very well, Tyrus"; Merrick back from deck. HEAVY bleed: Helm split across raw04 AND raw02.
+- Approach: raw04 defaulted to Helm 02B (his exposition dominates); DM narration pulled to 00A (1,2,19,21,46,91,152-154); Helm's lines off Gouge's tag ->02B (23-25,30-33,68,72,107,108,177); 26->DM; 27-28 OOB (DM OOC aside). FLAG: needs a scan of short interjections (63,147,149,68-71,174-178) - expect a round-1 review like Party Finds Captain Helm.
+- MAJOR CANON (the arc's motive reveal, Helm's rumor): Duke of Gradsul wants a pure-blood SUEL wife -> marriage-alliance with House Toli (a Toli bloodline woman weds into Gradsul; Gradsul helps Toli vs Lord Jamis) -> combined move to weaken PRINCE JEON ("Gion"), the richest/most powerful prince, who stands in the way. Keoland armies + Toli ports = staging ground to march on Monmurg. The blockade/starvation = pressure to cut Jeon down. Outer Isles princes would never accept. => the embargo is a DYNASTIC POWER PLAY against Jeon, not about commerce. Candidate for a worldbuilding note.
+- Canon: Captain = ERIC HELM ("call me Eric"). House Rola = Duke of Gradsul's house (Keoland), historic rival of House Toli. Monmurg navy could easily break the blockade (men-of-war=400 marines each); mystery = why Jamis holds the fleet. Pigeon letter (coded) to Jamis; reply via a different channel in a few days.
+- Body normalization APPLIED: Duke of Gratzel->Duke of Gradsul; Red Shore(56)->Redshore.
+- Noted for prose: King James/Jameis/Jameson/Jamison->Lord Jamis; Prince Jean/Gion->Prince Jeon; soul/Seul/Sioux->Suel; House of Rola->House Rola; Portoli->Port Toli; Carver(24)/Slurgood(200,202)/"us Iradians"(206)/"I think you are Brian"(171) = ASR garbles TBC.
+- gm(3): 36-38 Folsom con check. oob(2): 27-28 DM OOC.

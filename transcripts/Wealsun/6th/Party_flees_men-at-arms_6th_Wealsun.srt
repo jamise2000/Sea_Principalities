@@ -1,0 +1,8620 @@
+1
+00:00:02,123 --> 00:00:13,665
+[SPEAKER_02]: At six of the Wealsun, 10 p.m. in the evening, the party has a discussion on the cliffs above the smuggling sloop and its small dock.
+
+2
+00:00:15,345 --> 00:00:16,726
+[SPEAKER_02]: Okay.
+
+3
+00:00:17,346 --> 00:00:23,367
+[SPEAKER_01]: So you, Folsom, you got back because you did all that stuff.
+
+4
+00:00:23,407 --> 00:00:24,967
+[SPEAKER_01]: You almost got captured and stuff.
+
+5
+00:00:25,567 --> 00:00:26,847
+[SPEAKER_01]: Is there any other information?
+
+6
+00:00:27,367 --> 00:00:30,148
+[SPEAKER_01]: Why did you rush us back out from the dock?
+
+7
+00:00:31,445 --> 00:00:46,298
+[SPEAKER_00]: Well, I was getting chased by one of Owen's workers who were going to enslave me, so I just tried to get back to you guys because Owen told me that you guys would be dead.
+
+8
+00:00:47,119 --> 00:00:47,459
+[SPEAKER_00]: Okay.
+
+9
+00:00:48,660 --> 00:00:48,980
+[SPEAKER_01]: Okay.
+
+10
+00:00:49,521 --> 00:00:53,024
+[SPEAKER_01]: You don't have any more information about, like, why he's doing what he's doing or...
+
+11
+00:00:54,059 --> 00:00:55,360
+[SPEAKER_01]: Who's he meeting with?
+
+12
+00:00:55,420 --> 00:00:57,381
+[SPEAKER_01]: The guy in the castle or something?
+
+13
+00:00:57,401 --> 00:01:05,506
+[SPEAKER_00]: Yeah, they were really pressing me about me being interested in that amulet that controls the turtle dragons.
+
+14
+00:01:09,228 --> 00:01:21,235
+[SPEAKER_03]: While they're talking, I want to look down the beach, because after hearing that, make sure it's not being followed and a group of people are gathering to come see us, so I want to sit there and check that out.
+
+15
+00:01:22,255 --> 00:01:23,316
+[SPEAKER_03]: Roll a perception check.
+
+16
+00:01:27,832 --> 00:01:28,373
+[SPEAKER_03]: Plus eight.
+
+17
+00:01:32,237 --> 00:01:32,898
+[SPEAKER_03]: Twenty-one.
+
+18
+00:01:36,723 --> 00:01:43,772
+[SPEAKER_02]: You notice a group of men with torches and a guy on horseback actually about
+
+19
+00:01:45,567 --> 00:01:53,130
+[SPEAKER_02]: 600 feet away, marching down the shore.
+
+20
+00:01:53,690 --> 00:01:57,471
+[SPEAKER_02]: There aren't that many people out anymore, but this is kind of an outdoor market.
+
+21
+00:01:58,551 --> 00:02:01,692
+[SPEAKER_02]: Red Shore seems a little wild at this point, but they're getting out of their way.
+
+22
+00:02:02,493 --> 00:02:02,873
+[SPEAKER_03]: Okay.
+
+23
+00:02:04,333 --> 00:02:04,793
+[SPEAKER_02]: Heads up.
+
+24
+00:02:06,114 --> 00:02:06,634
+[SPEAKER_02]: Horseback.
+
+25
+00:02:08,708 --> 00:02:09,569
+[SPEAKER_02]: Dipping in the shadows.
+
+26
+00:02:10,149 --> 00:02:14,834
+[SPEAKER_02]: Now remember you guys were here to wait for Owen Black to see if he would come back to this place.
+
+27
+00:02:15,334 --> 00:02:18,397
+[SPEAKER_04]: Yeah, go back to the ship there.
+
+28
+00:02:18,937 --> 00:02:19,178
+[SPEAKER_04]: Okay.
+
+29
+00:02:20,699 --> 00:02:22,240
+[SPEAKER_04]: So there's a guy and a horse and how many other dudes?
+
+30
+00:02:24,082 --> 00:02:25,984
+[SPEAKER_04]: It looks like a group of ten.
+
+31
+00:02:27,445 --> 00:02:27,745
+[SPEAKER_01]: Okay.
+
+32
+00:02:28,226 --> 00:02:29,027
+[SPEAKER_01]: Who's got better eyes?
+
+33
+00:02:30,027 --> 00:02:31,008
+[SPEAKER_01]: Do I recognize any of them?
+
+34
+00:02:32,049 --> 00:02:33,230
+[SPEAKER_02]: No, and it's dark.
+
+35
+00:02:33,310 --> 00:02:33,611
+[SPEAKER_02]: Okay.
+
+36
+00:02:34,876 --> 00:02:37,918
+[SPEAKER_02]: Do you guys want to wait where you're at and just watch what happens?
+
+37
+00:02:37,938 --> 00:02:40,359
+[SPEAKER_01]: Yeah, I think we should wait and see what these guys are doing.
+
+38
+00:02:41,120 --> 00:02:41,940
+[SPEAKER_02]: Definitely want to wait.
+
+39
+00:02:42,200 --> 00:02:43,781
+[SPEAKER_02]: Okay, so you guys wait in the shadow.
+
+40
+00:02:44,602 --> 00:02:45,483
+[SPEAKER_02]: Roll your stealth.
+
+41
+00:02:46,003 --> 00:02:47,424
+[SPEAKER_02]: Hiding in the bushes.
+
+42
+00:02:48,144 --> 00:02:48,745
+[SPEAKER_02]: With your stealth.
+
+43
+00:02:49,765 --> 00:02:50,786
+[SPEAKER_02]: Stealth is plus ten.
+
+44
+00:02:51,146 --> 00:02:53,728
+[SPEAKER_02]: Okay.
+
+45
+00:02:54,168 --> 00:02:54,588
+[SPEAKER_01]: Nineteen.
+
+46
+00:02:56,970 --> 00:02:57,770
+[SPEAKER_01]: Five plus five, ten.
+
+47
+00:02:57,850 --> 00:02:58,030
+[SPEAKER_01]: Ten.
+
+48
+00:03:00,551 --> 00:03:01,512
+[SPEAKER_01]: All right.
+
+49
+00:03:01,532 --> 00:03:01,732
+[SPEAKER_01]: Nine.
+
+50
+00:03:02,913 --> 00:03:05,896
+[SPEAKER_04]: Five plus four is nine.
+
+51
+00:03:06,016 --> 00:03:06,316
+[SPEAKER_04]: Nine.
+
+52
+00:03:06,336 --> 00:03:09,459
+[SPEAKER_04]: I haven't thought about being stealth with this guy, so I don't know what else to...
+
+53
+00:03:09,819 --> 00:03:11,320
+[SPEAKER_04]: The stealth is at the very bottom.
+
+54
+00:03:13,082 --> 00:03:15,423
+[SPEAKER_02]: So I'm at eleven.
+
+55
+00:03:15,924 --> 00:03:16,244
+[SPEAKER_02]: Eleven.
+
+56
+00:03:16,564 --> 00:03:16,925
+[SPEAKER_02]: Okay.
+
+57
+00:03:17,385 --> 00:03:21,088
+[SPEAKER_02]: So, the three of you, I mean the four of you hide in the square.
+
+58
+00:03:22,169 --> 00:03:24,691
+[SPEAKER_02]: And this unit of guys walk up.
+
+59
+00:03:24,751 --> 00:03:29,155
+[SPEAKER_02]: And as they get closer, you begin to realize that this is definitely a military unit.
+
+60
+00:03:30,674 --> 00:03:35,159
+[SPEAKER_02]: However, it's strange to your eyes.
+
+61
+00:03:36,561 --> 00:03:41,807
+[SPEAKER_02]: Kind of in a way out of a different world because these are guys that are carrying haliburds.
+
+62
+00:03:42,941 --> 00:03:55,068
+[SPEAKER_02]: And wearing ringmail armor, which is kind of a heavy armor that's popular among mercenaries or men-at-arms in the Kingdom of Keoland.
+
+63
+00:03:55,468 --> 00:04:01,072
+[SPEAKER_02]: Such armor would never be bought in Monmurg because it's kind of an old-school way of
+
+64
+00:04:01,952 --> 00:04:03,373
+[SPEAKER_02]: Making things, right?
+
+65
+00:04:04,334 --> 00:04:05,755
+[SPEAKER_02]: Heavy armor, right?
+
+66
+00:04:06,376 --> 00:04:17,124
+[SPEAKER_02]: But, you know, scale mail, which is a lighter mail that is made by the principalities and used by Marines, it's much more practical, especially if you're gonna be on board a ship.
+
+67
+00:04:17,725 --> 00:04:21,588
+[SPEAKER_02]: Somebody that got dumped into the water in ring mail would drown.
+
+68
+00:04:21,908 --> 00:04:23,449
+[SPEAKER_04]: So these are obviously from...
+
+69
+00:04:24,430 --> 00:04:25,071
+[SPEAKER_04]: The men-at-war.
+
+70
+00:04:25,311 --> 00:04:26,692
+[SPEAKER_04]: This group is from the men-at-war.
+
+71
+00:04:27,013 --> 00:04:27,874
+[SPEAKER_02]: Absolutely not.
+
+72
+00:04:28,194 --> 00:04:37,543
+[SPEAKER_02]: In fact, you know exactly the marines of the Gradsolian fleet, where scale shirts.
+
+73
+00:04:37,944 --> 00:04:39,065
+[SPEAKER_02]: Right.
+
+74
+00:04:39,666 --> 00:04:40,787
+[SPEAKER_02]: This is archaic.
+
+75
+00:04:40,867 --> 00:04:42,368
+[SPEAKER_02]: This is like some lord.
+
+76
+00:04:44,300 --> 00:04:47,003
+[SPEAKER_02]: That has men-at-arms under his hire.
+
+77
+00:04:47,503 --> 00:04:49,445
+[SPEAKER_02]: These guys never leave the beach.
+
+78
+00:04:49,605 --> 00:04:51,087
+[SPEAKER_02]: I mean never leave them.
+
+79
+00:04:51,267 --> 00:04:52,228
+[SPEAKER_02]: Obviously.
+
+80
+00:04:52,508 --> 00:05:03,379
+[SPEAKER_02]: And what tips you up even more is the fact that the guy on horseback is wearing chainmail armor and he's dressed up like a Keog knight from the mainland.
+
+81
+00:05:04,159 --> 00:05:06,342
+[SPEAKER_02]: So it's pretty obvious
+
+82
+00:05:07,897 --> 00:05:10,218
+[SPEAKER_02]: That the Earl of Regfort has his royal guard.
+
+83
+00:05:10,498 --> 00:05:13,419
+[SPEAKER_04]: What this tells you is, one, these guys don't get on boats, and two, they're probably pretty tough.
+
+84
+00:05:32,983 --> 00:05:34,123
+[SPEAKER_02]: They're wearing heavy armor.
+
+85
+00:05:34,424 --> 00:05:38,306
+[SPEAKER_02]: These are not Toli rats feeding you with clubs.
+
+86
+00:05:38,747 --> 00:05:39,627
+[SPEAKER_02]: They've got haliburts.
+
+87
+00:05:39,988 --> 00:05:40,928
+[SPEAKER_02]: They've got longswords.
+
+88
+00:05:41,389 --> 00:05:42,249
+[SPEAKER_02]: They've got maces.
+
+89
+00:05:42,509 --> 00:05:43,550
+[SPEAKER_02]: They're armed.
+
+90
+00:05:43,590 --> 00:05:45,552
+[SPEAKER_02]: Yeah, they move like a unit.
+
+91
+00:05:46,092 --> 00:05:47,373
+[SPEAKER_02]: They move like a unit.
+
+92
+00:05:47,433 --> 00:05:50,855
+[SPEAKER_02]: Now, they don't move like a unit of marines.
+
+93
+00:05:50,955 --> 00:05:54,298
+[SPEAKER_02]: So you think that a unit of marines could probably take them on and do well against them.
+
+94
+00:05:55,657 --> 00:05:59,740
+[SPEAKER_02]: But one of these guys could probably beat the crap out of any marine that you had on.
+
+95
+00:05:59,960 --> 00:06:05,163
+[SPEAKER_02]: And the knight, on his horse, if he's on land, dangerous.
+
+96
+00:06:05,283 --> 00:06:06,564
+[SPEAKER_02]: What does it look like they're doing?
+
+97
+00:06:08,225 --> 00:06:08,885
+[SPEAKER_02]: Like a patrol?
+
+98
+00:06:09,145 --> 00:06:17,511
+[SPEAKER_02]: They move down the beach, very purposefully, right to the docks, looking around.
+
+99
+00:06:17,751 --> 00:06:22,574
+[SPEAKER_02]: And the knight basically gives orders, search the boat.
+
+100
+00:06:24,618 --> 00:06:32,020
+[SPEAKER_02]: Four of the men guard the wharves while the other four go into the boat and start searching through it.
+
+101
+00:06:33,600 --> 00:06:34,521
+[SPEAKER_02]: What do you guys want to do?
+
+102
+00:06:35,141 --> 00:06:38,042
+[SPEAKER_04]: I say we stay put, just wait this out.
+
+103
+00:06:40,002 --> 00:06:42,443
+[SPEAKER_03]: Okay, so they're searching our boat.
+
+104
+00:06:45,027 --> 00:06:45,688
+[SPEAKER_03]: Probably for us.
+
+105
+00:06:46,168 --> 00:06:48,230
+[SPEAKER_04]: Probably.
+
+106
+00:06:48,590 --> 00:06:49,311
+[SPEAKER_04]: Only four out there.
+
+107
+00:06:50,251 --> 00:06:53,214
+[SPEAKER_04]: Yeah, maybe it might be for us, maybe it's for, what's his name?
+
+108
+00:06:54,695 --> 00:06:54,955
+[SPEAKER_04]: Owen.
+
+109
+00:06:55,255 --> 00:06:58,578
+[SPEAKER_04]: Owen, maybe he's crossed some lines that he shouldn't have.
+
+110
+00:06:59,399 --> 00:07:00,440
+[SPEAKER_04]: There's no way, I think.
+
+111
+00:07:02,441 --> 00:07:12,810
+[SPEAKER_00]: I won't think the people around these places are all for hire and working under Caintoli and they would probably be after us, I would assume.
+
+112
+00:07:13,812 --> 00:07:14,472
+[SPEAKER_01]: Not after Owen?
+
+113
+00:07:15,013 --> 00:07:16,414
+[SPEAKER_01]: No.
+
+114
+00:07:16,634 --> 00:07:21,357
+[SPEAKER_01]: Well, I am assuming that even Owen might have been paid out by someone else.
+
+115
+00:07:24,759 --> 00:07:25,720
+[SPEAKER_01]: Let them search the boat.
+
+116
+00:07:26,040 --> 00:07:26,881
+[SPEAKER_01]: I think that's fine.
+
+117
+00:07:27,101 --> 00:07:28,462
+[SPEAKER_01]: But when they go to leave, I think...
+
+118
+00:07:29,418 --> 00:07:37,302
+[SPEAKER_01]: The ones who are stealthy, we should follow them at a... Can we even walk up the cliffside and watch them from afar?
+
+119
+00:07:37,622 --> 00:07:40,824
+[SPEAKER_01]: Or are we going to lose them if we keep walking where we are?
+
+120
+00:07:41,124 --> 00:07:43,845
+[SPEAKER_02]: Well, if you want to skirt the coastline, you can.
+
+121
+00:07:43,865 --> 00:07:45,046
+[SPEAKER_02]: But there are buildings on top, right?
+
+122
+00:07:45,106 --> 00:07:45,426
+[SPEAKER_02]: So, I mean...
+
+123
+00:07:51,899 --> 00:07:53,683
+[SPEAKER_02]: It's up to you, right?
+
+124
+00:07:54,665 --> 00:07:57,812
+[SPEAKER_02]: Easiest way to follow them would be going back on the shoreline.
+
+125
+00:07:58,354 --> 00:07:58,995
+[SPEAKER_02]: Okay.
+
+126
+00:08:02,075 --> 00:08:02,735
+[SPEAKER_03]: All right, they're there.
+
+127
+00:08:02,895 --> 00:08:04,496
+[SPEAKER_03]: There's more than there's other people around.
+
+128
+00:08:04,516 --> 00:08:04,936
+[SPEAKER_03]: Yeah.
+
+129
+00:08:05,436 --> 00:08:07,317
+[SPEAKER_03]: What's the distance again to where they're at now?
+
+130
+00:08:07,497 --> 00:08:12,319
+[SPEAKER_02]: About 130 feet to the docks, 150 to the sloop itself.
+
+131
+00:08:12,639 --> 00:08:14,460
+[SPEAKER_03]: Okay, so we're not that far away.
+
+132
+00:08:14,520 --> 00:08:17,701
+[SPEAKER_04]: I'm sitting, I'm not breathing, moving a muscle.
+
+133
+00:08:17,741 --> 00:08:19,561
+[SPEAKER_02]: You guys are just basically sitting in the docks.
+
+134
+00:08:19,581 --> 00:08:24,643
+[SPEAKER_02]: Yeah, I want to at least get my crossbow loaded.
+
+135
+00:08:25,463 --> 00:08:26,604
+[SPEAKER_02]: All right, so I'm sitting here.
+
+136
+00:08:26,644 --> 00:08:28,565
+[SPEAKER_02]: Take out your crossbow and load it.
+
+137
+00:08:29,065 --> 00:08:29,285
+[SPEAKER_01]: Yep.
+
+138
+00:08:31,245 --> 00:08:34,208
+[SPEAKER_01]: That ship's our only way out of here, as of now.
+
+139
+00:08:34,628 --> 00:08:36,630
+[SPEAKER_01]: There's plenty of ships.
+
+140
+00:08:36,930 --> 00:08:40,353
+[SPEAKER_01]: Yes, but there's someone else's ship.
+
+141
+00:08:41,074 --> 00:08:42,295
+[SPEAKER_02]: We can see that.
+
+142
+00:08:43,075 --> 00:08:53,044
+[SPEAKER_02]: One of the men, after about four minutes, I assume you guys want to stick around there, comes out and basically says, we found no one on board, sir.
+
+143
+00:08:53,604 --> 00:08:55,365
+[SPEAKER_02]: You guys can hear him.
+
+144
+00:08:55,826 --> 00:08:58,048
+[SPEAKER_02]: It's pretty silent right now.
+
+145
+00:09:00,273 --> 00:09:02,575
+[SPEAKER_02]: If there was crew here, it's not here now.
+
+146
+00:09:03,495 --> 00:09:04,816
+[SPEAKER_02]: The boat seems empty.
+
+147
+00:09:05,337 --> 00:09:08,619
+[SPEAKER_02]: We found a couple of crates, but it looks like some food has been taken.
+
+148
+00:09:12,942 --> 00:09:13,563
+[SPEAKER_02]: The guy nods.
+
+149
+00:09:15,384 --> 00:09:16,325
+[SPEAKER_02]: And he starts looking.
+
+150
+00:09:20,688 --> 00:09:21,349
+[SPEAKER_02]: Up the docks.
+
+151
+00:09:23,790 --> 00:09:24,831
+[SPEAKER_01]: Scanning the area.
+
+152
+00:09:24,891 --> 00:09:25,051
+[SPEAKER_01]: Okay.
+
+153
+00:09:29,052 --> 00:09:29,772
+[SPEAKER_01]: Let's get back.
+
+154
+00:09:29,812 --> 00:09:32,273
+[SPEAKER_01]: Is there shrubbery around us and stuff?
+
+155
+00:09:32,493 --> 00:09:33,133
+[SPEAKER_01]: Yeah.
+
+156
+00:09:33,313 --> 00:09:33,654
+[SPEAKER_01]: Okay.
+
+157
+00:09:33,994 --> 00:09:34,794
+[SPEAKER_04]: I'm just not moving.
+
+158
+00:09:35,094 --> 00:09:37,215
+[SPEAKER_02]: You there, in the darkness.
+
+159
+00:09:38,715 --> 00:09:39,335
+[SPEAKER_02]: Who are you?
+
+160
+00:09:43,417 --> 00:09:46,418
+[SPEAKER_02]: Obviously, he's only seen one person.
+
+161
+00:09:49,039 --> 00:09:49,999
+[SPEAKER_02]: I see your form.
+
+162
+00:09:51,339 --> 00:09:52,120
+[SPEAKER_02]: State your name.
+
+163
+00:09:52,360 --> 00:09:52,680
+[SPEAKER_02]: Who, me?
+
+164
+00:09:55,653 --> 00:09:58,174
+[SPEAKER_01]: Can I whisper things that he's close enough?
+
+165
+00:09:58,314 --> 00:10:02,115
+[SPEAKER_01]: If you want to, but you might actually give yourself up.
+
+166
+00:10:02,135 --> 00:10:08,777
+[SPEAKER_01]: Okay, I'm going to look at him and be like...
+
+167
+00:10:08,977 --> 00:10:10,057
+[SPEAKER_00]: I start walking towards him.
+
+168
+00:10:10,397 --> 00:10:13,638
+[SPEAKER_00]: You get up and actually start walking down towards him?
+
+169
+00:10:14,419 --> 00:10:16,139
+[SPEAKER_00]: I show myself and just appear.
+
+170
+00:10:16,779 --> 00:10:22,381
+[SPEAKER_00]: And I say, oh, I'm just an observer of just...
+
+171
+00:10:23,707 --> 00:10:26,808
+[SPEAKER_00]: Walking around and enjoying the view of the dock and the merchant.
+
+172
+00:10:26,888 --> 00:10:28,328
+[SPEAKER_02]: An observer, you say.
+
+173
+00:10:28,408 --> 00:10:29,108
+[SPEAKER_02]: What's your name?
+
+174
+00:10:30,328 --> 00:10:30,989
+[SPEAKER_02]: My name's Owen.
+
+175
+00:10:33,469 --> 00:10:35,750
+[SPEAKER_04]: What?
+
+176
+00:10:39,790 --> 00:10:41,271
+[SPEAKER_02]: I would have words with you, Owen.
+
+177
+00:10:42,311 --> 00:10:42,971
+[SPEAKER_02]: Come down here.
+
+178
+00:10:46,872 --> 00:10:51,253
+[SPEAKER_02]: And he basically kind of trots his horse up closer to where you guys are at.
+
+179
+00:10:55,205 --> 00:10:55,845
+[SPEAKER_03]: Don't go over there!
+
+180
+00:10:56,086 --> 00:10:57,286
+[SPEAKER_03]: Don't go over there!
+
+181
+00:10:58,407 --> 00:10:58,747
+[SPEAKER_00]: I...
+
+182
+00:11:01,029 --> 00:11:02,590
+[SPEAKER_00]: I start...
+
+183
+00:11:02,950 --> 00:11:05,812
+[SPEAKER_00]: I'm just gonna start walking towards him.
+
+184
+00:11:05,852 --> 00:11:06,953
+[SPEAKER_02]: You start walking towards him?
+
+185
+00:11:07,353 --> 00:11:07,973
+Be drunk.
+
+186
+00:11:09,094 --> 00:11:09,294
+[SPEAKER_00]: Yeah.
+
+187
+00:11:09,534 --> 00:11:14,558
+[SPEAKER_02]: Okay, so... Three of you see where you're at in the darkness.
+
+188
+00:11:15,965 --> 00:11:17,886
+[SPEAKER_01]: I love my longbow.
+
+189
+00:11:18,046 --> 00:11:19,007
+[SPEAKER_01]: So you pull out a bow.
+
+190
+00:11:20,328 --> 00:11:28,313
+[SPEAKER_02]: Okay, and you can tell from the look of Gouge's face, he is very concerned.
+
+191
+00:11:28,613 --> 00:11:30,795
+[SPEAKER_02]: So how far down the path are you going to walk?
+
+192
+00:11:32,711 --> 00:11:33,972
+[SPEAKER_00]: How far?
+
+193
+00:11:34,012 --> 00:11:35,113
+[SPEAKER_00]: Like you said, 100 feet?
+
+194
+00:11:35,154 --> 00:11:37,657
+[SPEAKER_02]: He's 120 feet from the docks.
+
+195
+00:11:37,737 --> 00:11:41,101
+[SPEAKER_02]: Actually, he starts riding his horse up to the beginning of the trail.
+
+196
+00:11:41,982 --> 00:11:47,008
+[SPEAKER_02]: So he's probably 40 feet more, and you have to take the trail down to where he is.
+
+197
+00:11:47,228 --> 00:11:47,588
+[SPEAKER_02]: Gotcha.
+
+198
+00:11:47,689 --> 00:11:50,312
+[SPEAKER_02]: Do you want to walk down it, or do you want to stop where you're at?
+
+199
+00:11:50,372 --> 00:11:50,792
+[SPEAKER_02]: Fall down.
+
+200
+00:11:51,633 --> 00:12:01,642
+[SPEAKER_00]: I was gonna start on the trail trip and like purposely stumble and like roll around and like the- I'm assuming it's a really dirty path just like fully just rough myself up.
+
+201
+00:12:01,863 --> 00:12:02,183
+[SPEAKER_02]: Okay.
+
+202
+00:12:05,066 --> 00:12:05,726
+[SPEAKER_00]: He looks back.
+
+203
+00:12:06,107 --> 00:12:07,648
+[SPEAKER_00]: Now roll your performance.
+
+204
+00:12:11,892 --> 00:12:12,773
+[SPEAKER_00]: It's almost a nat 20.
+
+205
+00:12:12,793 --> 00:12:14,735
+[SPEAKER_00]: Uh, it's two plus...
+
+206
+00:12:16,225 --> 00:12:17,626
+[SPEAKER_02]: Two plus eight is a ten.
+
+207
+00:12:17,786 --> 00:12:24,532
+[SPEAKER_02]: Alright, so he stumbles down, Folsom stumbles down, and you hear this guy go, get that drunkard!
+
+208
+00:12:25,113 --> 00:12:29,656
+[SPEAKER_02]: And two guys with halibirds start running up the path towards him.
+
+209
+00:12:31,438 --> 00:12:33,620
+[SPEAKER_01]: Okay.
+
+210
+00:12:33,680 --> 00:12:35,761
+[SPEAKER_01]: I really think we just gotta let him do his thing.
+
+211
+00:12:38,203 --> 00:12:40,806
+[SPEAKER_01]: We're not taking these guys on right now.
+
+212
+00:12:42,267 --> 00:12:43,228
+[SPEAKER_01]: Maybe he should have a buddy.
+
+213
+00:12:46,382 --> 00:12:48,344
+[SPEAKER_00]: Can you act like...
+
+214
+00:12:48,404 --> 00:12:51,786
+[SPEAKER_00]: I'm gonna... Do I hear them yell, take that drunkard?
+
+215
+00:12:52,046 --> 00:12:52,266
+[SPEAKER_02]: Yeah.
+
+216
+00:12:52,647 --> 00:13:01,794
+[SPEAKER_02]: And the guys start running up, these two guys, and actually everybody else in the unit is gathered on the dock, right?
+
+217
+00:13:02,834 --> 00:13:07,098
+[SPEAKER_02]: And these two guys start running up the footpath towards you guys.
+
+218
+00:13:07,238 --> 00:13:07,518
+[SPEAKER_02]: Okay.
+
+219
+00:13:08,058 --> 00:13:08,679
+[SPEAKER_02]: I go down and...
+
+220
+00:13:23,516 --> 00:13:26,260
+[SPEAKER_01]: And Folsom's phone rings.
+
+221
+00:13:29,043 --> 00:13:36,133
+[SPEAKER_03]: I don't want to lose my prone position, but I'd be the best drunkard because I do have flasks on me.
+
+222
+00:13:36,273 --> 00:13:38,596
+[SPEAKER_00]: No, I got something cooking.
+
+223
+00:13:49,514 --> 00:13:53,958
+[SPEAKER_01]: I said Folsom got clean.
+
+224
+00:13:58,561 --> 00:13:59,442
+[SPEAKER_00]: Let's get through this.
+
+225
+00:13:59,602 --> 00:14:00,242
+[SPEAKER_00]: What do you want to do?
+
+226
+00:14:00,263 --> 00:14:12,832
+[SPEAKER_00]: I was going to wait for Tyrus, but I am going to yell down on him and be like, when he yelled, uh, get that drunkard, I yell, on what account?
+
+227
+00:14:13,053 --> 00:14:15,294
+[SPEAKER_00]: Can't a man enjoy a few beverages on his own some?
+
+228
+00:14:16,515 --> 00:14:17,236
+[SPEAKER_02]: On his own some?
+
+229
+00:14:19,943 --> 00:14:26,367
+[SPEAKER_02]: The guy goes, the guy on the horse said, the Earl wants to speak with you, Owen Black.
+
+230
+00:14:28,529 --> 00:14:34,473
+[SPEAKER_02]: And you realize, at that moment, he thinks you're Owen Black.
+
+231
+00:14:35,194 --> 00:14:35,434
+[SPEAKER_02]: Right?
+
+232
+00:14:35,814 --> 00:14:37,175
+[SPEAKER_02]: And these guys start running up to you.
+
+233
+00:14:37,795 --> 00:14:38,176
+[SPEAKER_00]: Yeah.
+
+234
+00:14:38,216 --> 00:14:42,038
+[SPEAKER_02]: Okay, so, are you guys gonna let these guys run up on Folsom?
+
+235
+00:14:42,199 --> 00:14:42,479
+[SPEAKER_02]: Yep.
+
+236
+00:14:43,299 --> 00:14:43,720
+[SPEAKER_04]: So...
+
+237
+00:14:45,211 --> 00:14:46,652
+[SPEAKER_04]: I'm no good at being stealthy.
+
+238
+00:14:47,753 --> 00:14:49,875
+[SPEAKER_02]: You rolled a 10, and they have not seen you yet.
+
+239
+00:14:49,895 --> 00:14:50,075
+[SPEAKER_04]: Right.
+
+240
+00:14:50,735 --> 00:14:51,015
+[SPEAKER_02]: But...
+
+241
+00:14:52,456 --> 00:14:54,658
+[SPEAKER_02]: I was a 10.
+
+242
+00:14:54,678 --> 00:14:55,179
+[SPEAKER_02]: You rolled an 11.
+
+243
+00:14:55,279 --> 00:14:59,942
+[SPEAKER_04]: I'm going to look and gouge and go, maybe you should have a buddy.
+
+244
+00:15:01,563 --> 00:15:11,150
+[SPEAKER_04]: And I'm going to undo my pants and come stumbling out of the dome.
+
+245
+00:15:12,672 --> 00:15:14,093
+[SPEAKER_00]: Am I seeing Tyrus do this?
+
+246
+00:15:14,955 --> 00:15:15,895
+[SPEAKER_00]: You hear him do this.
+
+247
+00:15:16,335 --> 00:15:17,816
+[SPEAKER_00]: Tyrus gets up and starts stumbling in.
+
+248
+00:15:17,836 --> 00:15:21,737
+[SPEAKER_04]: Pissing the whole way.
+
+249
+00:15:21,757 --> 00:15:27,799
+[SPEAKER_04]: And I'm going to start singing a sailing song.
+
+250
+00:15:29,039 --> 00:15:30,860
+[SPEAKER_04]: Just pissing all over the place.
+
+251
+00:15:30,880 --> 00:15:33,060
+[SPEAKER_02]: Okay, so these guys are around away.
+
+252
+00:15:33,520 --> 00:15:35,541
+[SPEAKER_02]: And I'm going to give you guys the opportunity here.
+
+253
+00:15:35,821 --> 00:15:37,041
+[SPEAKER_02]: They're around away from you.
+
+254
+00:15:37,982 --> 00:15:38,962
+[SPEAKER_02]: You stand up.
+
+255
+00:15:39,742 --> 00:15:42,103
+[SPEAKER_02]: The two of you are still hidden in the bushes.
+
+256
+00:15:43,508 --> 00:15:45,489
+[SPEAKER_02]: One of the men says, there's more of them!
+
+257
+00:15:48,751 --> 00:15:53,774
+[SPEAKER_02]: And the knight goes, roust the bushes!
+
+258
+00:15:53,814 --> 00:15:54,395
+[SPEAKER_02]: Get them all!
+
+259
+00:15:54,875 --> 00:15:58,377
+[SPEAKER_02]: And those guys from on the docks start busting up.
+
+260
+00:15:58,817 --> 00:15:59,498
+[SPEAKER_02]: You roll the niche.
+
+261
+00:15:59,538 --> 00:16:00,659
+[SPEAKER_02]: These guys are rushing up to you.
+
+262
+00:16:00,799 --> 00:16:02,340
+[SPEAKER_02]: If you want to say something, you can say it now.
+
+263
+00:16:06,162 --> 00:16:07,043
+[SPEAKER_00]: Okay, roll the niche.
+
+264
+00:16:07,083 --> 00:16:10,685
+[SPEAKER_04]: You guys can hide a whole lot better than I can, so...
+
+265
+00:16:12,667 --> 00:16:13,008
+[SPEAKER_00]: 18.
+
+266
+00:16:13,388 --> 00:16:14,128
+[SPEAKER_00]: 18 total?
+
+267
+00:16:15,930 --> 00:16:16,710
+[SPEAKER_00]: Is it just 10 rolling?
+
+268
+00:16:17,171 --> 00:16:17,751
+[SPEAKER_00]: No, all of you.
+
+269
+00:16:17,831 --> 00:16:21,454
+[SPEAKER_01]: Okay.
+
+270
+00:16:21,554 --> 00:16:23,115
+[SPEAKER_02]: Fuck.
+
+271
+00:16:23,135 --> 00:16:23,195
+[SPEAKER_02]: 10.
+
+272
+00:16:24,136 --> 00:16:24,456
+[SPEAKER_02]: 20.
+
+273
+00:16:27,218 --> 00:16:27,718
+[SPEAKER_03]: 10, 20.
+
+274
+00:16:27,998 --> 00:16:28,159
+[SPEAKER_03]: 17.
+
+275
+00:16:28,259 --> 00:16:28,899
+[SPEAKER_03]: 17 total?
+
+276
+00:16:29,359 --> 00:16:29,600
+[SPEAKER_03]: Yes.
+
+277
+00:16:30,340 --> 00:16:35,244
+[SPEAKER_02]: So that's Gouge, Tyrus, that's Folsom, Merrick.
+
+278
+00:16:35,584 --> 00:16:36,244
+[SPEAKER_02]: Can you hear them?
+
+279
+00:16:36,405 --> 00:16:37,806
+[SPEAKER_02]: The men-at-arms, closest.
+
+280
+00:16:39,247 --> 00:16:39,647
+[SPEAKER_02]: Get...
+
+281
+00:16:43,193 --> 00:16:45,835
+[SPEAKER_01]: You can see it from there.
+
+282
+00:16:45,975 --> 00:16:47,856
+[SPEAKER_02]: I can't even see a number.
+
+283
+00:16:48,036 --> 00:16:48,916
+[SPEAKER_02]: And here's the knight.
+
+284
+00:16:50,137 --> 00:16:51,158
+[SPEAKER_02]: He gets a nine.
+
+285
+00:16:54,779 --> 00:16:59,622
+[SPEAKER_02]: All right, so, Tyrus, you're first.
+
+286
+00:16:59,762 --> 00:17:00,382
+[SPEAKER_04]: What do you want to do?
+
+287
+00:17:00,402 --> 00:17:08,707
+[SPEAKER_04]: I told you, drop trow, start pissing and singing a shanty song out of the bushes and
+
+288
+00:17:10,640 --> 00:17:11,780
+[SPEAKER_04]: Wander down the trail.
+
+289
+00:17:12,120 --> 00:17:12,540
+[SPEAKER_04]: Towards them?
+
+290
+00:17:12,941 --> 00:17:15,181
+[SPEAKER_04]: Yeah, just, yeah.
+
+291
+00:17:16,441 --> 00:17:20,342
+[SPEAKER_04]: And to get as far away from these guys, I'm going to move as much as I can in that.
+
+292
+00:17:21,322 --> 00:17:23,462
+[SPEAKER_02]: So you stumble 30 feet towards the guys.
+
+293
+00:17:23,482 --> 00:17:24,143
+[SPEAKER_02]: 30 feet towards the guys.
+
+294
+00:17:24,163 --> 00:17:26,183
+[SPEAKER_02]: So you're going to be within grappling range.
+
+295
+00:17:26,363 --> 00:17:27,743
+[SPEAKER_02]: That's fine.
+
+296
+00:17:27,863 --> 00:17:34,264
+[SPEAKER_04]: And pissing away, singing, and doing my best impersonation.
+
+297
+00:17:34,644 --> 00:17:38,125
+[SPEAKER_04]: I've been drunk plenty of times, so I know how to get drunk.
+
+298
+00:17:38,924 --> 00:17:48,347
+[SPEAKER_04]: And start pissing and singing and present no combat.
+
+299
+00:17:48,887 --> 00:17:49,307
+[SPEAKER_04]: No threat.
+
+300
+00:17:49,407 --> 00:17:50,387
+[SPEAKER_04]: No threat of a combat.
+
+301
+00:17:50,407 --> 00:17:51,248
+[SPEAKER_02]: Yeah, you have your weapon.
+
+302
+00:17:51,348 --> 00:17:52,048
+[SPEAKER_02]: Right.
+
+303
+00:17:52,068 --> 00:17:54,889
+[SPEAKER_02]: I mean, I have weapons on me, but I mean, I don't have anything in my hand.
+
+304
+00:17:55,449 --> 00:17:55,629
+[SPEAKER_02]: Right.
+
+305
+00:17:55,669 --> 00:17:56,789
+[SPEAKER_02]: But you have a brass plate.
+
+306
+00:17:56,949 --> 00:17:57,169
+[SPEAKER_02]: Right.
+
+307
+00:17:57,349 --> 00:17:57,650
+[SPEAKER_04]: Okay.
+
+308
+00:17:57,670 --> 00:18:02,831
+[SPEAKER_04]: But I mean, I'm just pissing and singing at the top of my lungs.
+
+309
+00:18:03,011 --> 00:18:03,331
+[SPEAKER_04]: Okay.
+
+310
+00:18:03,831 --> 00:18:05,712
+[SPEAKER_02]: So you basically try to act.
+
+311
+00:18:06,382 --> 00:18:07,623
+[SPEAKER_02]: Do your performance roll.
+
+312
+00:18:08,263 --> 00:18:10,544
+[SPEAKER_02]: You actually have a pretty good performance ability.
+
+313
+00:18:10,744 --> 00:18:13,545
+[SPEAKER_04]: I have a plus four, yeah.
+
+314
+00:18:13,625 --> 00:18:14,886
+[SPEAKER_04]: So let's see.
+
+315
+00:18:14,906 --> 00:18:17,907
+[SPEAKER_04]: Is that seventeen?
+
+316
+00:18:18,007 --> 00:18:18,287
+[SPEAKER_04]: Yeah.
+
+317
+00:18:18,467 --> 00:18:19,608
+[SPEAKER_04]: Seventeen plus four.
+
+318
+00:18:19,668 --> 00:18:20,108
+[SPEAKER_04]: Twenty-one.
+
+319
+00:18:20,548 --> 00:18:20,848
+[SPEAKER_02]: Okay.
+
+320
+00:18:21,809 --> 00:18:22,329
+[SPEAKER_02]: Very good.
+
+321
+00:18:22,549 --> 00:18:26,651
+[SPEAKER_02]: So he does a very convincing staggering towards the thing.
+
+322
+00:18:28,552 --> 00:18:33,014
+[SPEAKER_02]: The next person to go is, uh, that was Tyrus?
+
+323
+00:18:33,414 --> 00:18:33,854
+[SPEAKER_02]: Folsom.
+
+324
+00:18:33,914 --> 00:18:34,374
+[SPEAKER_02]: Folsom.
+
+325
+00:18:34,975 --> 00:18:36,635
+[SPEAKER_02]: What are you gonna do?
+
+326
+00:18:39,316 --> 00:18:40,717
+[SPEAKER_00]: I am going to...
+
+327
+00:18:42,558 --> 00:18:46,039
+[SPEAKER_00]: The knight is a hundred or so feet away from me.
+
+328
+00:18:46,119 --> 00:18:49,760
+[SPEAKER_02]: I would say he's more like, at this point, sixty feet away from you.
+
+329
+00:18:49,980 --> 00:18:50,561
+[SPEAKER_02]: On his horse.
+
+330
+00:18:51,141 --> 00:18:51,381
+[SPEAKER_00]: Okay.
+
+331
+00:18:51,401 --> 00:18:51,501
+[SPEAKER_00]: Um...
+
+332
+00:18:58,171 --> 00:19:04,673
+[SPEAKER_00]: I... And they're one action away from me.
+
+333
+00:19:04,693 --> 00:19:11,895
+[SPEAKER_02]: So the men in the armor are at this point about 30 feet from you, so they can move to where you are.
+
+334
+00:19:12,636 --> 00:19:14,496
+[SPEAKER_02]: He's about 10 feet behind you.
+
+335
+00:19:15,196 --> 00:19:20,058
+[SPEAKER_02]: The guy on the horse is about 30 feet behind the men, the two men that are coming up the path.
+
+336
+00:19:20,478 --> 00:19:20,758
+[SPEAKER_00]: Okay.
+
+337
+00:19:23,059 --> 00:19:26,760
+[SPEAKER_00]: I... am going to...
+
+338
+00:19:32,208 --> 00:19:38,904
+[SPEAKER_00]: I'm going to move towards Tyrus and...
+
+339
+00:19:40,460 --> 00:19:43,981
+[SPEAKER_02]: So you want to get back to about 40 feet away from these guys, right?
+
+340
+00:19:44,021 --> 00:19:48,382
+[SPEAKER_00]: Yeah, and I want to act like hammered with Tyrus.
+
+341
+00:19:48,782 --> 00:19:54,443
+[SPEAKER_02]: Okay, so you move up, you move back so they can't get right on you this round unless they dash.
+
+342
+00:19:55,683 --> 00:19:59,244
+[SPEAKER_02]: And then, basically, try to act drunk.
+
+343
+00:19:59,324 --> 00:19:59,744
+[SPEAKER_02]: Go ahead.
+
+344
+00:20:00,004 --> 00:20:00,924
+[SPEAKER_00]: Like we're buddies, huh?
+
+345
+00:20:01,825 --> 00:20:02,725
+[SPEAKER_00]: Hey!
+
+346
+00:20:03,025 --> 00:20:04,865
+[SPEAKER_00]: And do I need a performance check on it?
+
+347
+00:20:04,925 --> 00:20:05,205
+[SPEAKER_00]: Do it.
+
+348
+00:20:06,205 --> 00:20:08,686
+[SPEAKER_00]: Uh...
+
+349
+00:20:10,346 --> 00:20:10,726
+[SPEAKER_00]: Fifteen.
+
+350
+00:20:10,926 --> 00:20:11,807
+[SPEAKER_00]: Fifteen, okay.
+
+351
+00:20:12,207 --> 00:20:17,489
+[SPEAKER_02]: So these guys basically just start like, come in, hey buddy, and they're just like walking around.
+
+352
+00:20:18,949 --> 00:20:26,132
+[SPEAKER_02]: The guys with the halibirds march up, well, they don't get to go yet.
+
+353
+00:20:28,273 --> 00:20:30,133
+[SPEAKER_02]: Folsom.
+
+354
+00:20:30,293 --> 00:20:31,114
+[SPEAKER_03]: That's what he just did.
+
+355
+00:20:31,434 --> 00:20:32,734
+[SPEAKER_02]: Folsom, I'm sorry, you.
+
+356
+00:20:34,355 --> 00:20:34,795
+[SPEAKER_03]: I'm holding you.
+
+357
+00:20:36,458 --> 00:20:38,180
+[SPEAKER_02]: Okay, so you're going to hold the action.
+
+358
+00:20:39,121 --> 00:20:43,566
+[SPEAKER_02]: Now, you know that if you shoot at somebody that has not yet taken a turn...
+
+359
+00:20:44,187 --> 00:20:45,548
+[SPEAKER_02]: I have the assassination attempt.
+
+360
+00:20:45,629 --> 00:20:46,710
+[SPEAKER_02]: It's an assassination.
+
+361
+00:20:47,050 --> 00:20:50,955
+[SPEAKER_02]: Okay, but that's it.
+
+362
+00:20:51,555 --> 00:20:51,956
+[SPEAKER_02]: Okay?
+
+363
+00:20:52,356 --> 00:20:54,038
+[SPEAKER_02]: And they have not yet entered combat.
+
+364
+00:20:54,499 --> 00:20:57,282
+[SPEAKER_03]: Now, if the two enter combat...
+
+365
+00:20:58,544 --> 00:21:03,009
+[SPEAKER_03]: And the horseback, anyone that hasn't, or the two means they're all in it.
+
+366
+00:21:03,190 --> 00:21:09,237
+[SPEAKER_02]: Anyone that has not taken an action or movement in combat, a turn, you have an assassination attempt on them.
+
+367
+00:21:10,438 --> 00:21:10,759
+[SPEAKER_02]: Okay?
+
+368
+00:21:11,039 --> 00:21:11,299
+[SPEAKER_03]: Yep.
+
+369
+00:21:12,360 --> 00:21:13,522
+[SPEAKER_02]: Alright, so...
+
+370
+00:21:17,567 --> 00:21:18,287
+[SPEAKER_02]: The two men...
+
+371
+00:21:19,412 --> 00:21:22,633
+[SPEAKER_02]: Pull up their halibirds and move forward 30 feet.
+
+372
+00:21:23,473 --> 00:21:25,894
+[SPEAKER_02]: Their halibirds have a reach of 10 feet.
+
+373
+00:21:26,734 --> 00:21:27,155
+[SPEAKER_02]: Okay?
+
+374
+00:21:27,715 --> 00:21:35,497
+[SPEAKER_02]: Now, they could attack you, but basically what they do is they come up and hold action with their halibirds at you.
+
+375
+00:21:36,057 --> 00:21:40,159
+[SPEAKER_02]: So they're gonna get an opportunity attack on you too if you do anything else.
+
+376
+00:21:40,299 --> 00:21:41,439
+[SPEAKER_02]: And they're like, hold!
+
+377
+00:21:42,720 --> 00:21:43,300
+[SPEAKER_02]: On your knees!
+
+378
+00:21:44,565 --> 00:21:44,845
+[SPEAKER_02]: Right?
+
+379
+00:21:45,085 --> 00:21:46,066
+[SPEAKER_02]: And basically say that.
+
+380
+00:21:46,306 --> 00:21:47,207
+[SPEAKER_02]: They're holding action.
+
+381
+00:21:47,707 --> 00:21:49,588
+[SPEAKER_02]: So if you do something, they will attack you.
+
+382
+00:21:50,089 --> 00:21:50,429
+[SPEAKER_02]: Okay?
+
+383
+00:21:52,070 --> 00:21:52,730
+[SPEAKER_03]: With advantage?
+
+384
+00:21:52,750 --> 00:21:55,592
+[SPEAKER_03]: Because if they go down, they're prone.
+
+385
+00:21:56,593 --> 00:21:59,595
+[SPEAKER_02]: If they go prone, they're going to be at advantage, basically.
+
+386
+00:22:00,215 --> 00:22:01,136
+[SPEAKER_01]: Okay.
+
+387
+00:22:03,858 --> 00:22:05,419
+[SPEAKER_02]: The other six guards...
+
+388
+00:22:06,343 --> 00:22:07,524
+[SPEAKER_02]: Move up off the dock.
+
+389
+00:22:07,984 --> 00:22:08,624
+[SPEAKER_02]: They come up.
+
+390
+00:22:08,724 --> 00:22:11,086
+[SPEAKER_02]: They're probably within 80 feet.
+
+391
+00:22:11,186 --> 00:22:13,907
+[SPEAKER_02]: They're coming up the path, basically, with their halibirds.
+
+392
+00:22:14,268 --> 00:22:17,970
+[SPEAKER_02]: The guy on the horse trots up 30 feet behind his guys.
+
+393
+00:22:18,050 --> 00:22:22,412
+[SPEAKER_02]: He's 20 feet behind them on his horse up the path.
+
+394
+00:22:22,692 --> 00:22:23,213
+[SPEAKER_01]: Towards us?
+
+395
+00:22:23,653 --> 00:22:24,594
+[SPEAKER_01]: Oh, yeah.
+
+396
+00:22:24,614 --> 00:22:26,555
+[SPEAKER_02]: They're coming up the path towards you guys.
+
+397
+00:22:26,675 --> 00:22:27,515
+[SPEAKER_03]: Towards us, too.
+
+398
+00:22:27,555 --> 00:22:28,496
+[SPEAKER_03]: No, towards them.
+
+399
+00:22:29,276 --> 00:22:33,858
+[SPEAKER_02]: They don't know you two are there, but they see those two and they're coming up.
+
+400
+00:22:34,458 --> 00:22:35,919
+[SPEAKER_02]: It's obvious they're going to surround these guys.
+
+401
+00:22:35,939 --> 00:22:37,820
+[SPEAKER_01]: Towards them.
+
+402
+00:22:37,840 --> 00:22:38,620
+[SPEAKER_01]: Was that their turn?
+
+403
+00:22:39,841 --> 00:22:40,481
+[SPEAKER_01]: Pretty much, yeah.
+
+404
+00:22:40,841 --> 00:22:41,982
+[SPEAKER_01]: Okay, is it my turn now?
+
+405
+00:22:42,542 --> 00:22:43,142
+[SPEAKER_01]: It's your turn.
+
+406
+00:22:43,202 --> 00:22:48,084
+[SPEAKER_01]: Okay, I am going to, from the bushes... How far were they from me?
+
+407
+00:22:48,104 --> 00:22:48,844
+[SPEAKER_01]: I mean, they can't be far.
+
+408
+00:22:49,004 --> 00:22:49,725
+[SPEAKER_02]: They aren't far at all.
+
+409
+00:22:49,745 --> 00:22:51,906
+[SPEAKER_01]: They're maybe 40 feet because they moved up.
+
+410
+00:22:52,106 --> 00:22:57,128
+[SPEAKER_01]: Okay, I'm going to cast Fog Cloud on the dock.
+
+411
+00:22:59,490 --> 00:23:01,591
+[SPEAKER_01]: Around us, where the guys are coming up.
+
+412
+00:23:02,031 --> 00:23:02,352
+[SPEAKER_02]: Okay.
+
+413
+00:23:02,752 --> 00:23:08,815
+[SPEAKER_01]: And that creates a 20-foot radius spot of fog, centered, quite within range.
+
+414
+00:23:09,316 --> 00:23:10,476
+[SPEAKER_01]: The range is 120 feet.
+
+415
+00:23:11,097 --> 00:23:11,797
+[SPEAKER_01]: I can cast it.
+
+416
+00:23:12,137 --> 00:23:14,799
+[SPEAKER_02]: So if you want to, you can cast it right where those guys are.
+
+417
+00:23:16,280 --> 00:23:18,881
+[SPEAKER_01]: Yeah, like between them coming in.
+
+418
+00:23:20,502 --> 00:23:21,863
+[SPEAKER_01]: Yeah, mostly getting, yeah.
+
+419
+00:23:22,183 --> 00:23:22,483
+[SPEAKER_02]: Okay.
+
+420
+00:23:22,503 --> 00:23:22,683
+[SPEAKER_02]: Yeah.
+
+421
+00:23:22,983 --> 00:23:25,205
+[SPEAKER_02]: So you basically cast fog cloud
+
+422
+00:23:27,953 --> 00:23:28,434
+[SPEAKER_02]: Obscure it.
+
+423
+00:23:28,454 --> 00:23:31,016
+[SPEAKER_02]: Do you want to move at all, or do you want to stay anything?
+
+424
+00:23:31,276 --> 00:23:34,018
+[SPEAKER_02]: Now, when you cast Fog Cloud, I think you have to speak.
+
+425
+00:23:36,020 --> 00:23:36,620
+[SPEAKER_04]: It's verbal.
+
+426
+00:23:36,640 --> 00:23:37,341
+[SPEAKER_04]: It's a blitz, yeah.
+
+427
+00:23:39,823 --> 00:23:40,723
+[SPEAKER_04]: What's the question?
+
+428
+00:23:44,426 --> 00:23:45,807
+[SPEAKER_01]: Has everybody got the spheres?
+
+429
+00:23:46,328 --> 00:23:48,149
+[SPEAKER_01]: You create a 20-foot radius of spheres.
+
+430
+00:23:50,311 --> 00:23:51,332
+[SPEAKER_01]: It's a conjuration.
+
+431
+00:23:53,308 --> 00:23:54,389
+[SPEAKER_01]: It's one action.
+
+432
+00:23:55,829 --> 00:23:57,610
+[SPEAKER_01]: Components means, V means voice.
+
+433
+00:23:57,710 --> 00:23:58,030
+[SPEAKER_01]: Voice.
+
+434
+00:23:58,250 --> 00:24:00,271
+[SPEAKER_01]: Verbal component.
+
+435
+00:24:00,351 --> 00:24:02,512
+[SPEAKER_02]: So mad tech is, you gotta move your hands.
+
+436
+00:24:02,532 --> 00:24:02,692
+[SPEAKER_01]: Yeah.
+
+437
+00:24:03,312 --> 00:24:07,514
+[SPEAKER_01]: Okay.
+
+438
+00:24:07,534 --> 00:24:08,354
+[SPEAKER_01]: Do I have to yell it?
+
+439
+00:24:08,935 --> 00:24:12,976
+[SPEAKER_04]: Folk!
+
+440
+00:24:13,697 --> 00:24:15,898
+[SPEAKER_02]: No, but it will, it will...
+
+441
+00:24:17,284 --> 00:24:20,085
+[SPEAKER_02]: It will basically mean that they know somebody's there.
+
+442
+00:24:21,105 --> 00:24:23,566
+[SPEAKER_01]: I've already casted it, so I'm still gonna do it.
+
+443
+00:24:23,766 --> 00:24:24,707
+[SPEAKER_01]: Okay, so you cast it.
+
+444
+00:24:25,507 --> 00:24:26,247
+[SPEAKER_01]: Do you want to move?
+
+445
+00:24:26,788 --> 00:24:27,588
+[SPEAKER_01]: I'm gonna run...
+
+446
+00:24:29,128 --> 00:24:31,749
+[SPEAKER_01]: I want you to stay there in case shit gets fucking weird.
+
+447
+00:24:35,291 --> 00:24:39,112
+[SPEAKER_01]: I'm gonna run down towards them.
+
+448
+00:24:39,132 --> 00:24:41,193
+[SPEAKER_01]: Do you want to run down towards them?
+
+449
+00:24:42,540 --> 00:24:46,141
+[SPEAKER_02]: Now, if you don't...
+
+450
+00:24:46,241 --> 00:24:47,762
+[SPEAKER_02]: This is the deal at D&D Mechanic.
+
+451
+00:24:48,662 --> 00:24:55,545
+[SPEAKER_02]: If they can't see you, they know you're there, but they can't see you, you get advantage on your bow shots.
+
+452
+00:24:56,845 --> 00:24:57,125
+[SPEAKER_02]: Okay?
+
+453
+00:24:57,165 --> 00:24:58,166
+[SPEAKER_02]: Until they see you.
+
+454
+00:24:59,846 --> 00:25:00,707
+[SPEAKER_02]: Okay.
+
+455
+00:25:00,727 --> 00:25:02,127
+[SPEAKER_02]: And you're pretty effective with the bow.
+
+456
+00:25:02,167 --> 00:25:04,708
+[SPEAKER_02]: Now, if you want to go down there and get into melee combat, you can.
+
+457
+00:25:05,888 --> 00:25:06,729
+[SPEAKER_01]: But that's up to you.
+
+458
+00:25:07,429 --> 00:25:09,890
+[SPEAKER_01]: I'm going to stay, and then I'm going to also...
+
+459
+00:25:12,318 --> 00:25:15,439
+[SPEAKER_02]: You can only cast... You can only cast one spell per turn.
+
+460
+00:25:15,939 --> 00:25:17,120
+[SPEAKER_01]: What if it's a bonus action?
+
+461
+00:25:17,360 --> 00:25:18,200
+[SPEAKER_01]: I can only do one spell?
+
+462
+00:25:18,220 --> 00:25:23,922
+[SPEAKER_02]: You can only do one spell per turn, but bonus actions you can do with your bonus action instead of your action.
+
+463
+00:25:23,962 --> 00:25:27,723
+[SPEAKER_02]: So you can attack with your bow and then cast a spell with your bonus action.
+
+464
+00:25:28,023 --> 00:25:29,744
+[SPEAKER_02]: But you can only cast one spell per turn.
+
+465
+00:25:30,704 --> 00:25:31,985
+[SPEAKER_01]: Otherwise, Wizards would be...
+
+466
+00:25:32,945 --> 00:25:34,666
+[SPEAKER_01]: Impossible.
+
+467
+00:25:34,726 --> 00:25:35,987
+[SPEAKER_03]: Okay.
+
+468
+00:25:36,027 --> 00:25:36,608
+[SPEAKER_01]: Bonus action.
+
+469
+00:25:36,928 --> 00:25:40,350
+[SPEAKER_01]: Okay, well I'm gonna ready my bow and I'm gonna aim it at the knight.
+
+470
+00:25:40,610 --> 00:25:42,371
+[SPEAKER_01]: I'm not gonna shoot, but...
+
+471
+00:25:42,751 --> 00:25:44,032
+[SPEAKER_01]: Okay, well you have your bow.
+
+472
+00:25:44,472 --> 00:25:46,053
+[SPEAKER_02]: You can't save an action.
+
+473
+00:25:46,874 --> 00:25:47,174
+[SPEAKER_01]: Okay.
+
+474
+00:25:47,374 --> 00:25:47,654
+[SPEAKER_02]: Right?
+
+475
+00:25:47,835 --> 00:25:52,497
+[SPEAKER_02]: So can you cast a spell with a bonus action that you would rather cast than fog cloud?
+
+476
+00:25:53,338 --> 00:25:55,019
+[SPEAKER_01]: Or is fog cloud definitely what you want?
+
+477
+00:25:55,039 --> 00:25:55,880
+[SPEAKER_01]: I want to do fog cloud.
+
+478
+00:25:55,940 --> 00:25:57,781
+[SPEAKER_02]: Okay, so you cast fog cloud with your action.
+
+479
+00:25:59,682 --> 00:26:03,064
+[SPEAKER_02]: Don't do anything with your bonus action, because it doesn't sound like you have anything you can do.
+
+480
+00:26:03,084 --> 00:26:04,505
+[SPEAKER_01]: I don't want to do anything right now, no.
+
+481
+00:26:04,705 --> 00:26:05,505
+[SPEAKER_01]: You don't want to move.
+
+482
+00:26:06,726 --> 00:26:12,709
+[SPEAKER_01]: Can I move... Can you draw out where it is?
+
+483
+00:26:12,729 --> 00:26:12,889
+[SPEAKER_02]: Sure.
+
+484
+00:26:12,910 --> 00:26:14,050
+[SPEAKER_02]: Let's erase this thing.
+
+485
+00:26:23,515 --> 00:26:25,857
+[SPEAKER_02]: Alright, so, you guys got your characters?
+
+486
+00:26:28,984 --> 00:26:31,746
+[SPEAKER_03]: You're so puny, Brad.
+
+487
+00:26:35,269 --> 00:26:36,570
+[SPEAKER_03]: And that's your Monsters 80.
+
+488
+00:26:36,830 --> 00:26:37,191
+[SPEAKER_03]: I see.
+
+489
+00:26:37,571 --> 00:26:40,113
+[SPEAKER_03]: And if you need men, you can grab from the other containers.
+
+490
+00:26:40,133 --> 00:26:40,794
+[SPEAKER_02]: You know, it's fine.
+
+491
+00:26:41,154 --> 00:26:42,655
+[SPEAKER_02]: What is this one?
+
+492
+00:26:42,675 --> 00:26:45,778
+[SPEAKER_02]: So, one, two, three, four, five, six, seven, eight.
+
+493
+00:26:46,538 --> 00:26:47,139
+[SPEAKER_02]: These guys.
+
+494
+00:26:47,159 --> 00:26:50,101
+[SPEAKER_02]: That's the one I've been using, thank you.
+
+495
+00:26:50,121 --> 00:26:50,502
+[SPEAKER_04]: Here.
+
+496
+00:26:52,843 --> 00:26:53,824
+[SPEAKER_03]: Where's my guys?
+
+497
+00:26:54,164 --> 00:26:54,985
+[SPEAKER_03]: They're fuckin' orcs.
+
+498
+00:26:55,325 --> 00:26:56,106
+[SPEAKER_03]: Now we know what they are.
+
+499
+00:26:56,126 --> 00:26:56,246
+[SPEAKER_03]: See?
+
+500
+00:26:56,266 --> 00:26:57,047
+[SPEAKER_03]: There you go.
+
+501
+00:26:59,028 --> 00:27:00,109
+[SPEAKER_02]: You guys are here.
+
+502
+00:27:05,916 --> 00:27:07,017
+[SPEAKER_03]: See, you are acting drunk.
+
+503
+00:27:07,077 --> 00:27:08,339
+[SPEAKER_03]: You can barely even stand in here.
+
+504
+00:27:08,619 --> 00:27:09,120
+[SPEAKER_04]: Mm-hmm.
+
+505
+00:27:10,301 --> 00:27:11,463
+[SPEAKER_00]: Dude, I was so pissed.
+
+506
+00:27:12,163 --> 00:27:14,386
+[SPEAKER_00]: With my stealth check.
+
+507
+00:27:14,406 --> 00:27:15,768
+[SPEAKER_00]: That guy is the guy that's there.
+
+508
+00:27:16,048 --> 00:27:17,630
+[SPEAKER_00]: It was 20 and then went, oh, two.
+
+509
+00:27:19,302 --> 00:27:22,445
+[SPEAKER_00]: So I'm retiring this for it.
+
+510
+00:27:22,485 --> 00:27:22,965
+[SPEAKER_00]: Is that yours?
+
+511
+00:27:23,185 --> 00:27:27,469
+[SPEAKER_00]: Yeah, I've got it for a game that I bought at a Gwanta.
+
+512
+00:27:27,489 --> 00:27:30,671
+[SPEAKER_04]: Okay, so the fog rolls in.
+
+513
+00:27:32,053 --> 00:27:33,594
+[SPEAKER_02]: One, two, three, four.
+
+514
+00:27:36,656 --> 00:27:37,817
+[SPEAKER_02]: One, two, three, four.
+
+515
+00:27:41,761 --> 00:27:43,922
+[SPEAKER_00]: That's the fog cloud.
+
+516
+00:27:44,023 --> 00:27:46,825
+[SPEAKER_02]: A fog rolls in from the ocean.
+
+517
+00:27:47,285 --> 00:27:47,666
+[SPEAKER_02]: Okay.
+
+518
+00:27:59,241 --> 00:28:00,883
+[SPEAKER_03]: Maybe he used the shitty dice thing.
+
+519
+00:28:02,424 --> 00:28:11,170
+[SPEAKER_02]: All right, what the fog cloud does is it basically makes everything in that area heavily obscured, right?
+
+520
+00:28:11,430 --> 00:28:21,457
+[SPEAKER_02]: Which means that you guys have light cover, which means the people that shoot at you have disadvantage and it's very hard to see more than 10 feet.
+
+521
+00:28:21,958 --> 00:28:23,119
+[SPEAKER_02]: So this fog rolls in.
+
+522
+00:28:24,366 --> 00:28:27,907
+[SPEAKER_02]: And you know that your friend Folsom has done something.
+
+523
+00:28:28,227 --> 00:28:28,527
+[SPEAKER_02]: Merrick?
+
+524
+00:28:28,807 --> 00:28:29,747
+[SPEAKER_02]: Merrick has done something.
+
+525
+00:28:31,687 --> 00:28:32,227
+[SPEAKER_02]: Roll an itch.
+
+526
+00:28:34,268 --> 00:28:36,668
+[SPEAKER_00]: Okay, seventeen.
+
+527
+00:28:38,348 --> 00:28:39,109
+[SPEAKER_03]: Come on, turkey.
+
+528
+00:28:41,869 --> 00:28:43,789
+[SPEAKER_00]: Fuck you, turkey.
+
+529
+00:28:43,809 --> 00:28:47,950
+[SPEAKER_02]: Fourteen.
+
+530
+00:28:47,990 --> 00:28:48,230
+[SPEAKER_02]: Nine.
+
+531
+00:28:48,830 --> 00:28:49,150
+[SPEAKER_02]: Fourteen.
+
+532
+00:28:49,250 --> 00:28:49,790
+[SPEAKER_02]: Fourteen.
+
+533
+00:28:49,910 --> 00:28:50,390
+[SPEAKER_02]: Fourteen.
+
+534
+00:28:51,071 --> 00:28:51,551
+[SPEAKER_02]: Okay.
+
+535
+00:28:51,571 --> 00:28:52,971
+[SPEAKER_02]: Here are the men.
+
+536
+00:28:56,358 --> 00:28:58,540
+[SPEAKER_02]: Nine, and here's the knight.
+
+537
+00:29:00,542 --> 00:29:03,704
+[SPEAKER_02]: Thirteen, which is fourteen.
+
+538
+00:29:04,065 --> 00:29:07,768
+[SPEAKER_02]: That means that Folsom, you get to go first.
+
+539
+00:29:08,388 --> 00:29:10,310
+[SPEAKER_02]: I can't, can I see the knight?
+
+540
+00:29:11,171 --> 00:29:17,036
+[SPEAKER_02]: No, actually the fog rolls in and it's just, he becomes totally obscured in this, in the fog.
+
+541
+00:29:17,296 --> 00:29:19,678
+[SPEAKER_02]: Well, I can't tell you guys what to do.
+
+542
+00:29:19,738 --> 00:29:19,958
+[SPEAKER_00]: Okay.
+
+543
+00:29:20,058 --> 00:29:20,599
+[SPEAKER_00]: You can heal.
+
+544
+00:29:21,400 --> 00:29:22,741
+[SPEAKER_03]: I don't want to give up.
+
+545
+00:29:22,761 --> 00:29:23,722
+[SPEAKER_03]: I know it's a third.
+
+546
+00:29:26,114 --> 00:29:27,195
+[SPEAKER_00]: I am going to...
+
+547
+00:29:31,377 --> 00:29:34,978
+[SPEAKER_00]: I think I'm just going to hold ground.
+
+548
+00:29:36,559 --> 00:29:40,921
+[SPEAKER_00]: I mean, I'm... You know what I'm going to do?
+
+549
+00:29:40,941 --> 00:29:43,923
+[SPEAKER_00]: I'm going to message to, uh...
+
+550
+00:29:45,283 --> 00:29:49,105
+[SPEAKER_00]: I'm going to message to Merrick.
+
+551
+00:29:49,525 --> 00:29:49,906
+[SPEAKER_00]: Okay.
+
+552
+00:29:50,886 --> 00:29:52,347
+[SPEAKER_00]: And I'm going to message to him.
+
+553
+00:29:53,307 --> 00:29:54,748
+[SPEAKER_00]: Should this just between me and him, or...?
+
+554
+00:29:55,527 --> 00:29:55,787
+[SPEAKER_02]: Sure.
+
+555
+00:29:56,609 --> 00:29:56,849
+[SPEAKER_00]: Okay.
+
+556
+00:29:57,870 --> 00:30:02,516
+[SPEAKER_00]: I was gonna say that I am going to try to charm the knight.
+
+557
+00:30:04,379 --> 00:30:06,161
+[SPEAKER_00]: I think you should get the- I can talk to him, right?
+
+558
+00:30:06,181 --> 00:30:08,324
+[SPEAKER_02]: You can talk to him back this round.
+
+559
+00:30:08,464 --> 00:30:09,145
+[SPEAKER_02]: Just one thing.
+
+560
+00:30:09,968 --> 00:30:13,630
+[SPEAKER_01]: Okay, I think you should get back the fuck out of there a little bit, but that's up to you.
+
+561
+00:30:14,350 --> 00:30:15,530
+[SPEAKER_01]: The closer I can get to the night.
+
+562
+00:30:16,251 --> 00:30:16,611
+[SPEAKER_02]: That's it.
+
+563
+00:30:16,931 --> 00:30:21,813
+[SPEAKER_02]: That's all you can do is one thing, one sentence and one back during a round.
+
+564
+00:30:21,853 --> 00:30:23,514
+[SPEAKER_02]: This is not a conversation.
+
+565
+00:30:23,614 --> 00:30:26,735
+[SPEAKER_00]: So he just basically told you, get the fuck out of there.
+
+566
+00:30:26,835 --> 00:30:28,336
+[SPEAKER_00]: Okay, well, for my...
+
+567
+00:30:29,356 --> 00:30:30,657
+[SPEAKER_00]: Bonus action, I...
+
+568
+00:30:31,157 --> 00:30:33,278
+[SPEAKER_00]: Your bonus action was your spell, right?
+
+569
+00:30:33,518 --> 00:30:33,698
+[SPEAKER_00]: No.
+
+570
+00:30:34,018 --> 00:30:34,859
+[SPEAKER_00]: That's an action?
+
+571
+00:30:35,079 --> 00:30:38,620
+[SPEAKER_00]: My bonus action is to go back, like, or to move.
+
+572
+00:30:40,241 --> 00:30:41,161
+[SPEAKER_00]: So you try to run back?
+
+573
+00:30:41,521 --> 00:30:43,262
+[SPEAKER_00]: I start moving back, yes.
+
+574
+00:30:43,322 --> 00:30:46,443
+[SPEAKER_02]: Okay, you do not have cunning action.
+
+575
+00:30:47,384 --> 00:30:49,005
+[SPEAKER_00]: So you back up.
+
+576
+00:30:49,585 --> 00:30:51,946
+[SPEAKER_02]: One, if this guy gets... Oh, I'm sorry, that's right.
+
+577
+00:30:52,781 --> 00:30:56,143
+[SPEAKER_00]: One, this guy gets an opportunity to attack with his halibird at you.
+
+578
+00:30:56,303 --> 00:30:57,323
+[SPEAKER_00]: Oh, just realized.
+
+579
+00:30:57,343 --> 00:30:58,224
+[SPEAKER_00]: I thought that was you guys.
+
+580
+00:30:58,564 --> 00:30:59,905
+[SPEAKER_00]: I did not know they were in front of me.
+
+581
+00:30:59,925 --> 00:31:00,825
+[SPEAKER_03]: You can talk to me then.
+
+582
+00:31:00,945 --> 00:31:01,185
+[SPEAKER_03]: Alright.
+
+583
+00:31:01,706 --> 00:31:02,106
+[SPEAKER_00]: That's cool.
+
+584
+00:31:02,206 --> 00:31:03,467
+[SPEAKER_03]: But it's all you're in a fog.
+
+585
+00:31:03,967 --> 00:31:04,187
+[SPEAKER_00]: Yeah.
+
+586
+00:31:04,327 --> 00:31:05,007
+[SPEAKER_00]: What's your AC?
+
+587
+00:31:05,268 --> 00:31:06,368
+[SPEAKER_00]: My AC is 13.
+
+588
+00:31:06,948 --> 00:31:07,329
+[SPEAKER_00]: 13.
+
+589
+00:31:07,669 --> 00:31:08,409
+[SPEAKER_02]: Here's the attack.
+
+590
+00:31:10,590 --> 00:31:11,271
+[SPEAKER_02]: 18.
+
+591
+00:31:12,051 --> 00:31:15,713
+[SPEAKER_02]: The man-at-arms stabs you with the halibird.
+
+592
+00:31:17,012 --> 00:31:20,954
+[SPEAKER_02]: Doing five, six, seven, eight points of damage.
+
+593
+00:31:21,534 --> 00:31:26,397
+[SPEAKER_02]: Basically, as you back up, he thrusts and hits you with the dip of the spear.
+
+594
+00:31:26,977 --> 00:31:29,138
+[SPEAKER_04]: Wait, don't I have an opportunity to...
+
+595
+00:31:29,158 --> 00:31:41,083
+[SPEAKER_04]: I think I have a deal where I can... And it's outside of my action.
+
+596
+00:31:41,284 --> 00:31:41,824
+[SPEAKER_04]: I can...
+
+597
+00:31:45,100 --> 00:31:46,241
+[SPEAKER_04]: It has to be a reaction.
+
+598
+00:31:46,261 --> 00:31:47,462
+[SPEAKER_04]: It has to be a reaction, right?
+
+599
+00:31:47,522 --> 00:31:48,402
+[SPEAKER_02]: It has to be a reaction.
+
+600
+00:31:48,783 --> 00:31:50,484
+[SPEAKER_02]: So I can't do it now.
+
+601
+00:31:51,584 --> 00:31:52,605
+[SPEAKER_02]: Let me read what it says.
+
+602
+00:31:52,845 --> 00:31:54,727
+[SPEAKER_02]: I'm trying to remember what it's called.
+
+603
+00:31:58,910 --> 00:31:59,270
+[SPEAKER_04]: What is it?
+
+604
+00:31:59,330 --> 00:32:07,576
+[SPEAKER_04]: I have a deal where I can take damage for somebody and I can't remember what it's called.
+
+605
+00:32:08,196 --> 00:32:12,159
+[SPEAKER_02]: It might be one of your channel-diminity abilities, but... Is that what it might be?
+
+606
+00:32:15,046 --> 00:32:18,728
+[SPEAKER_02]: But that's something you have to do as an action, so it's not your turn yet.
+
+607
+00:32:18,948 --> 00:32:26,073
+[SPEAKER_04]: Okay, I thought it was something I could do outside of combat.
+
+608
+00:32:26,313 --> 00:32:28,414
+[SPEAKER_04]: No, I have to do that as an action.
+
+609
+00:32:29,455 --> 00:32:32,937
+[SPEAKER_02]: Alright, so you get hit as you move back, but you want to run.
+
+610
+00:32:33,998 --> 00:32:40,562
+[SPEAKER_02]: So you go one, two, three, four, moving through the fog.
+
+611
+00:32:40,842 --> 00:32:42,603
+[SPEAKER_02]: You break the fog bank here.
+
+612
+00:32:43,402 --> 00:32:44,402
+[SPEAKER_02]: You run up the trail.
+
+613
+00:32:44,522 --> 00:32:46,963
+[SPEAKER_02]: Basically, that's why you know what you're doing.
+
+614
+00:32:47,324 --> 00:32:48,404
+[SPEAKER_02]: Five-six to here.
+
+615
+00:32:49,184 --> 00:32:52,686
+[SPEAKER_02]: You guys see Folsom running back the way you can.
+
+616
+00:32:53,206 --> 00:32:53,586
+[SPEAKER_02]: Okay?
+
+617
+00:32:54,246 --> 00:32:57,548
+[SPEAKER_02]: Out of this fog bank that Merrick had put up.
+
+618
+00:32:58,968 --> 00:33:00,129
+[SPEAKER_02]: So, that's Folsom.
+
+619
+00:33:00,669 --> 00:33:01,129
+[SPEAKER_02]: There!
+
+620
+00:33:01,209 --> 00:33:01,769
+[SPEAKER_02]: I'm bleeding!
+
+621
+00:33:01,909 --> 00:33:06,071
+[SPEAKER_02]: And he's got his hand on his... That sounds just fucking like him, too.
+
+622
+00:33:06,091 --> 00:33:09,052
+[SPEAKER_00]: Ah, I'm bleeding!
+
+623
+00:33:14,128 --> 00:33:18,271
+[SPEAKER_03]: Okay, and then it looks like it's simultaneous with the knight.
+
+624
+00:33:20,073 --> 00:33:21,634
+[SPEAKER_02]: It is, yep.
+
+625
+00:33:22,394 --> 00:33:23,255
+[SPEAKER_02]: And what's your dexterity?
+
+626
+00:33:24,056 --> 00:33:30,721
+[SPEAKER_03]: My dexterity is currently 18 until I throw up my stones, but I don't have those up.
+
+627
+00:33:30,741 --> 00:33:31,921
+[SPEAKER_02]: So you win the Anish.
+
+628
+00:33:32,922 --> 00:33:33,303
+[SPEAKER_03]: Okay.
+
+629
+00:33:33,483 --> 00:33:39,307
+[SPEAKER_02]: Because you are a... And I cannot see the man on horseback.
+
+630
+00:33:39,347 --> 00:33:41,649
+[SPEAKER_02]: You cannot see the guy on horseback because of the fog.
+
+631
+00:33:44,413 --> 00:33:49,475
+[SPEAKER_02]: Now you can see guys down the path who are moving up this way.
+
+632
+00:33:50,356 --> 00:33:51,836
+[SPEAKER_03]: Oh, outside of the fog?
+
+633
+00:33:51,856 --> 00:33:52,296
+[SPEAKER_02]: Yeah.
+
+634
+00:33:52,336 --> 00:33:55,058
+[SPEAKER_02]: But that's at a far range, correct?
+
+635
+00:33:55,538 --> 00:33:56,158
+[SPEAKER_02]: Not anymore.
+
+636
+00:33:56,358 --> 00:34:01,120
+[SPEAKER_02]: I mean, they're 80 feet away now and your crossbow has a short range of 100.
+
+637
+00:34:02,401 --> 00:34:03,201
+[SPEAKER_02]: Oh, okay.
+
+638
+00:34:04,502 --> 00:34:06,302
+[SPEAKER_02]: Now the question is, do you want to shoot them?
+
+639
+00:34:06,322 --> 00:34:08,743
+[SPEAKER_02]: Do you want to move and try and hide again?
+
+640
+00:34:08,763 --> 00:34:09,904
+[SPEAKER_02]: You should shoot Folsom.
+
+641
+00:34:12,718 --> 00:34:14,920
+[SPEAKER_03]: Well, I'm being hidden.
+
+642
+00:34:15,580 --> 00:34:20,304
+[SPEAKER_03]: So, and I can't see the knight or the two that are in the fog.
+
+643
+00:34:20,364 --> 00:34:20,765
+[SPEAKER_03]: Okay.
+
+644
+00:34:23,027 --> 00:34:25,569
+[SPEAKER_03]: I'd like to try to shoot one of the men.
+
+645
+00:34:25,589 --> 00:34:28,852
+[SPEAKER_03]: That's my action.
+
+646
+00:34:29,692 --> 00:34:35,237
+[SPEAKER_03]: Do I have anything where I can remove and hide after I release the shot?
+
+647
+00:34:35,257 --> 00:34:37,119
+[SPEAKER_02]: So bonus action, you can dash?
+
+648
+00:34:37,639 --> 00:34:38,300
+[SPEAKER_02]: Not dash.
+
+649
+00:34:38,520 --> 00:34:39,140
+[SPEAKER_03]: You can hide.
+
+650
+00:34:42,011 --> 00:34:46,393
+[SPEAKER_02]: Or disengage.
+
+651
+00:34:46,473 --> 00:34:47,553
+[SPEAKER_02]: Or dash, actually.
+
+652
+00:34:48,633 --> 00:34:49,373
+[SPEAKER_02]: With a bonus action.
+
+653
+00:34:49,994 --> 00:34:53,275
+[SPEAKER_02]: So you could move 30 and then try and hide again.
+
+654
+00:34:55,275 --> 00:34:55,455
+[SPEAKER_03]: Okay.
+
+655
+00:34:55,595 --> 00:34:58,096
+[SPEAKER_02]: You could cross the path and go up that way.
+
+656
+00:34:58,676 --> 00:34:59,277
+[SPEAKER_03]: Can I shoot?
+
+657
+00:35:00,737 --> 00:35:03,658
+[SPEAKER_03]: Whether I kill or not, it's not going to matter.
+
+658
+00:35:04,438 --> 00:35:05,999
+[SPEAKER_03]: Can I get
+
+659
+00:35:07,590 --> 00:35:11,634
+[SPEAKER_03]: You can move through to create the fog for the other guys that I shot at now are blocked.
+
+660
+00:35:12,094 --> 00:35:17,299
+[SPEAKER_03]: Yeah, so I mean if you shoot down that way, you go one, two, three, four, five, six to here and hide again.
+
+661
+00:35:17,399 --> 00:35:18,480
+[SPEAKER_02]: Yes, that's what I do.
+
+662
+00:35:18,660 --> 00:35:21,563
+[SPEAKER_02]: Alright, so you take a shot at one of the guys down the deal, right?
+
+663
+00:35:22,544 --> 00:35:26,087
+[SPEAKER_02]: And you're stealthed, so this is the advantage.
+
+664
+00:35:26,628 --> 00:35:26,928
+[SPEAKER_03]: Okay.
+
+665
+00:35:32,665 --> 00:35:34,586
+[SPEAKER_03]: 18 and 11, I think I'll take the 18.
+
+666
+00:35:34,646 --> 00:35:36,408
+[SPEAKER_03]: So the 18 plus...
+
+667
+00:35:37,148 --> 00:35:38,749
+[SPEAKER_03]: When I'm using my heavy crossbow.
+
+668
+00:35:38,789 --> 00:35:40,570
+[SPEAKER_02]: Your heavy crossbow, plus 7.
+
+669
+00:35:40,610 --> 00:35:40,931
+[SPEAKER_02]: 25.
+
+670
+00:35:41,411 --> 00:35:45,734
+[SPEAKER_02]: So that's 25, and because you had advantage, it's a critter.
+
+671
+00:35:46,354 --> 00:35:47,155
+[SPEAKER_03]: Okay.
+
+672
+00:35:47,175 --> 00:35:52,779
+[SPEAKER_02]: So you roll a 2-die-10, and do you want this to be a backstab?
+
+673
+00:35:55,721 --> 00:35:56,982
+[SPEAKER_03]: Actually, let me make a backstab.
+
+674
+00:35:57,002 --> 00:35:57,302
+[SPEAKER_03]: Okay.
+
+675
+00:36:02,140 --> 00:36:12,148
+[SPEAKER_02]: So you had advantage on this attack roll.
+
+676
+00:36:12,848 --> 00:36:20,234
+[SPEAKER_02]: So what that means is if you want to make this your snake attack, this will be 3 die 6 plus 2 die 10.
+
+677
+00:36:21,034 --> 00:36:23,176
+[SPEAKER_02]: It will be 6 die 6 plus 2 die 10.
+
+678
+00:36:24,197 --> 00:36:24,497
+[SPEAKER_03]: Okay.
+
+679
+00:36:24,937 --> 00:36:27,459
+[SPEAKER_03]: And that's the assassination?
+
+680
+00:36:27,719 --> 00:36:27,980
+[SPEAKER_03]: Yes.
+
+681
+00:36:29,075 --> 00:36:29,875
+[SPEAKER_03]: Six die six.
+
+682
+00:36:30,476 --> 00:36:32,517
+[SPEAKER_03]: Six die six and two die ten.
+
+683
+00:36:33,397 --> 00:36:35,058
+[SPEAKER_03]: Plus the four at the end.
+
+684
+00:36:35,098 --> 00:36:43,923
+[SPEAKER_03]: Four, eight, ten, twenty, four, twenty-eight.
+
+685
+00:36:54,890 --> 00:36:58,651
+[SPEAKER_03]: So, your crossbow bolt shoots out and hits one of the men in the chest.
+
+686
+00:36:59,231 --> 00:37:01,351
+[SPEAKER_02]: Okay, doing 28 points of damage.
+
+687
+00:37:04,972 --> 00:37:05,292
+[SPEAKER_02]: Okay.
+
+688
+00:37:05,312 --> 00:37:07,752
+[SPEAKER_04]: I found that 80.
+
+689
+00:37:07,772 --> 00:37:12,893
+[SPEAKER_02]: Then you run one, put yourself within six hexes of where you're at.
+
+690
+00:37:15,654 --> 00:37:16,574
+[SPEAKER_02]: And then you try and sell.
+
+691
+00:37:16,894 --> 00:37:17,074
+[SPEAKER_03]: Yep.
+
+692
+00:37:17,714 --> 00:37:18,434
+[SPEAKER_03]: Roll yourself.
+
+693
+00:37:20,034 --> 00:37:20,315
+[SPEAKER_03]: Come on.
+
+694
+00:37:23,550 --> 00:37:24,091
+[SPEAKER_03]: Twenty-nine.
+
+695
+00:37:24,391 --> 00:37:24,971
+[SPEAKER_02]: Twenty-nine.
+
+696
+00:37:25,992 --> 00:37:32,718
+[SPEAKER_02]: Alright, so Gouge shoots and then jumps into the bushes on the other side of the path.
+
+697
+00:37:34,419 --> 00:37:34,899
+[SPEAKER_02]: That's Gouge.
+
+698
+00:37:34,919 --> 00:37:35,720
+[SPEAKER_02]: What's your dexterity?
+
+699
+00:37:36,441 --> 00:37:39,203
+[SPEAKER_01]: My dex is seventeen.
+
+700
+00:37:39,563 --> 00:37:42,526
+[SPEAKER_02]: Tyrus, what's your dexterity?
+
+701
+00:37:43,827 --> 00:37:44,247
+[SPEAKER_02]: Fifteen.
+
+702
+00:37:44,407 --> 00:37:44,827
+[SPEAKER_02]: Fifteen.
+
+703
+00:37:45,408 --> 00:37:46,809
+[SPEAKER_02]: You go before they do.
+
+704
+00:37:47,029 --> 00:37:47,630
+[SPEAKER_02]: The knight does.
+
+705
+00:37:49,752 --> 00:37:52,433
+[SPEAKER_04]: But he's next, right?
+
+706
+00:37:52,614 --> 00:37:57,916
+[SPEAKER_02]: No, yours is 14, his is 9.
+
+707
+00:37:59,737 --> 00:38:02,559
+[SPEAKER_04]: My deal then, plan that I had changed.
+
+708
+00:38:06,321 --> 00:38:09,923
+[SPEAKER_04]: We were going to get captured and go along with the crew there.
+
+709
+00:38:10,423 --> 00:38:14,906
+[SPEAKER_04]: I was going to go with my buddy, but the little buddy ran away.
+
+710
+00:38:20,896 --> 00:38:24,577
+[SPEAKER_03]: I'm laying here going, son of a bitch, destroy your weapon.
+
+711
+00:38:24,597 --> 00:38:29,138
+[SPEAKER_03]: Because I hear all, oh, my buddy, oh, no.
+
+712
+00:38:29,278 --> 00:38:31,759
+[SPEAKER_04]: Yeah, I'm like, no, I'm thinking out loud here, so.
+
+713
+00:38:32,399 --> 00:38:32,859
+[SPEAKER_04]: Hey, buddy.
+
+714
+00:38:32,959 --> 00:38:45,043
+[SPEAKER_04]: All right, so the only, at this point in time, the thing to do is to pull my weapon and charge my
+
+715
+00:38:51,234 --> 00:38:52,855
+[SPEAKER_04]: He has spells.
+
+716
+00:38:54,537 --> 00:38:56,358
+[SPEAKER_04]: Charge my thunderous smite.
+
+717
+00:38:58,280 --> 00:38:58,920
+[SPEAKER_04]: That takes...
+
+718
+00:39:06,947 --> 00:39:08,888
+[SPEAKER_02]: It's a bonus action and a spell slot.
+
+719
+00:39:09,068 --> 00:39:10,970
+[SPEAKER_04]: Right, it's a bonus action and a spell slot.
+
+720
+00:39:12,131 --> 00:39:15,373
+[SPEAKER_04]: And with my action, there's a dude with a halberd.
+
+721
+00:39:18,156 --> 00:39:18,997
+[SPEAKER_02]: Pointed at you.
+
+722
+00:39:19,337 --> 00:39:19,617
+[SPEAKER_02]: Right.
+
+723
+00:39:19,738 --> 00:39:25,223
+[SPEAKER_02]: And if you move, he will get to attack you unless you do a disengage with your action.
+
+724
+00:39:25,463 --> 00:39:25,703
+[SPEAKER_04]: Right.
+
+725
+00:39:26,424 --> 00:39:30,148
+[SPEAKER_04]: Unless I do a disengage with my action and...
+
+726
+00:39:37,163 --> 00:39:38,083
+[SPEAKER_04]: I was fine too.
+
+727
+00:39:38,444 --> 00:39:41,885
+[SPEAKER_04]: I'm going to, and there's like, that's the dude on the horseback?
+
+728
+00:39:42,145 --> 00:39:42,365
+[SPEAKER_03]: Yes.
+
+729
+00:39:42,845 --> 00:39:45,626
+[SPEAKER_04]: And there's like 10 dudes between here and there, or are they behind for back?
+
+730
+00:39:45,646 --> 00:39:47,967
+[SPEAKER_04]: They're behind them, but they're not that far behind.
+
+731
+00:39:48,007 --> 00:39:48,307
+[SPEAKER_02]: Right.
+
+732
+00:39:48,347 --> 00:39:49,488
+[SPEAKER_02]: There may be like here.
+
+733
+00:39:49,708 --> 00:39:50,448
+[SPEAKER_04]: Right.
+
+734
+00:39:50,488 --> 00:39:53,109
+[SPEAKER_04]: They're not within striking distance.
+
+735
+00:39:53,169 --> 00:39:54,950
+[SPEAKER_04]: It's only these two that are in striking distance.
+
+736
+00:39:55,130 --> 00:39:55,370
+[SPEAKER_04]: Yeah.
+
+737
+00:39:55,890 --> 00:39:59,031
+[SPEAKER_04]: And they've got halberts, so they've got... Reach.
+
+738
+00:39:59,371 --> 00:39:59,971
+[SPEAKER_04]: Reach on me.
+
+739
+00:40:00,351 --> 00:40:00,712
+[SPEAKER_04]: 10 feet.
+
+740
+00:40:01,172 --> 00:40:01,432
+[SPEAKER_04]: Right.
+
+741
+00:40:03,493 --> 00:40:03,753
+[SPEAKER_04]: And so...
+
+742
+00:40:08,713 --> 00:40:13,795
+[SPEAKER_04]: I'm going to use my action to disengage and go one.
+
+743
+00:40:14,315 --> 00:40:15,115
+[SPEAKER_04]: Where's the path?
+
+744
+00:40:15,655 --> 00:40:18,016
+[SPEAKER_02]: It's like right here.
+
+745
+00:40:18,657 --> 00:40:20,097
+[SPEAKER_04]: Right towards this one?
+
+746
+00:40:20,137 --> 00:40:21,077
+[SPEAKER_04]: Yeah, he's pathing up.
+
+747
+00:40:21,277 --> 00:40:22,078
+[SPEAKER_04]: So I was here.
+
+748
+00:40:22,098 --> 00:40:24,219
+[SPEAKER_04]: No, you were actually here.
+
+749
+00:40:24,339 --> 00:40:24,899
+[SPEAKER_04]: Okay, I'm sorry.
+
+750
+00:40:24,919 --> 00:40:27,860
+[SPEAKER_04]: So I'll use my action to disengage.
+
+751
+00:40:28,620 --> 00:40:35,684
+[SPEAKER_04]: One, two, three, and right at the edge of the wood line, I'm guessing... That's the fog line.
+
+752
+00:40:35,885 --> 00:40:36,805
+[SPEAKER_04]: That's the fog line.
+
+753
+00:40:37,325 --> 00:40:38,186
+[SPEAKER_04]: Then I'll... perfect.
+
+754
+00:40:38,246 --> 00:40:40,287
+[SPEAKER_04]: I'll stand right at the edge of the fog line then.
+
+755
+00:40:41,308 --> 00:40:46,071
+[SPEAKER_02]: Okay, so you stand right here with your sword out and you charge thunderous might, right?
+
+756
+00:40:46,091 --> 00:40:46,871
+[SPEAKER_02]: Right, correct.
+
+757
+00:40:46,911 --> 00:40:47,252
+[SPEAKER_02]: Okay.
+
+758
+00:40:49,073 --> 00:40:51,114
+[SPEAKER_02]: Um...
+
+759
+00:40:51,134 --> 00:40:52,635
+[SPEAKER_02]: Sword and shield, by the way.
+
+760
+00:40:52,655 --> 00:40:53,155
+[SPEAKER_02]: Sword and shield.
+
+761
+00:40:53,175 --> 00:40:54,156
+[SPEAKER_02]: Sword and shield ready.
+
+762
+00:40:56,660 --> 00:41:01,764
+[SPEAKER_02]: One, two, three, four, five, six.
+
+763
+00:41:05,407 --> 00:41:07,088
+[SPEAKER_02]: And he can move, what?
+
+764
+00:41:07,789 --> 00:41:12,152
+[SPEAKER_02]: Fifty, six, seven, eight, nine, ten.
+
+765
+00:41:12,392 --> 00:41:15,235
+[SPEAKER_02]: This guy busts out.
+
+766
+00:41:16,426 --> 00:41:18,407
+[SPEAKER_02]: of the fog.
+
+767
+00:41:18,687 --> 00:41:19,507
+[SPEAKER_02]: He's on horseback.
+
+768
+00:41:19,587 --> 00:41:20,247
+[SPEAKER_02]: That's a horse dude.
+
+769
+00:41:20,467 --> 00:41:21,548
+[SPEAKER_02]: Yeah, on horse.
+
+770
+00:41:22,228 --> 00:41:27,430
+[SPEAKER_02]: And he sees you, Tyrus, and like comes down with his blade on you.
+
+771
+00:41:28,050 --> 00:41:31,391
+[SPEAKER_02]: Now, he is on horseback.
+
+772
+00:41:33,192 --> 00:41:34,312
+[SPEAKER_02]: Where'd my 20s go?
+
+773
+00:41:34,612 --> 00:41:35,212
+[SPEAKER_02]: Oh, there it is.
+
+774
+00:41:35,812 --> 00:41:36,773
+[SPEAKER_01]: Thank you.
+
+775
+00:41:36,793 --> 00:41:43,315
+[SPEAKER_02]: And what that means is that he's a knight, and if he has somebody that he's attacking from horseback,
+
+776
+00:41:44,218 --> 00:41:48,282
+[SPEAKER_02]: If his horse is bigger than they are, he gets advantage.
+
+777
+00:41:48,662 --> 00:41:50,503
+[SPEAKER_02]: So here's the attack on you at advantage.
+
+778
+00:41:51,164 --> 00:41:51,524
+[SPEAKER_02]: Okay?
+
+779
+00:41:51,544 --> 00:41:51,885
+[SPEAKER_02]: Okay.
+
+780
+00:41:53,326 --> 00:41:53,506
+[SPEAKER_02]: One.
+
+781
+00:41:53,846 --> 00:41:54,126
+[SPEAKER_02]: Nice.
+
+782
+00:41:54,146 --> 00:41:55,728
+[SPEAKER_02]: Another one!
+
+783
+00:41:56,068 --> 00:41:56,969
+[SPEAKER_02]: And fifteen.
+
+784
+00:41:57,810 --> 00:42:01,913
+[SPEAKER_02]: Fifteen plus seven is twenty-two.
+
+785
+00:42:01,933 --> 00:42:02,674
+[SPEAKER_02]: What's your AC?
+
+786
+00:42:04,615 --> 00:42:08,519
+[SPEAKER_02]: With the shield, it is eighteen.
+
+787
+00:42:08,659 --> 00:42:09,780
+[SPEAKER_02]: Okay, so he hits you.
+
+788
+00:42:09,800 --> 00:42:10,220
+[SPEAKER_04]: Okay.
+
+789
+00:42:10,520 --> 00:42:11,881
+[SPEAKER_02]: And he does three...
+
+790
+00:42:15,995 --> 00:42:18,737
+[SPEAKER_02]: Seven points of damage to you.
+
+791
+00:42:19,398 --> 00:42:26,003
+[SPEAKER_02]: His blade knocks off your shield, but the weight of his horse and the blow is actually pretty massive.
+
+792
+00:42:26,464 --> 00:42:30,667
+[SPEAKER_02]: You absorb it with your shield arm, but you can tell this guy is doing his thing.
+
+793
+00:42:30,888 --> 00:42:35,291
+[SPEAKER_01]: He's strong, too.
+
+794
+00:42:36,252 --> 00:42:37,833
+[SPEAKER_01]: Is it my turn?
+
+795
+00:42:38,014 --> 00:42:38,834
+[SPEAKER_01]: Merrick, you go next.
+
+796
+00:42:38,914 --> 00:42:44,139
+[SPEAKER_01]: I'm going to stay where I am.
+
+797
+00:42:47,314 --> 00:42:52,916
+[SPEAKER_01]: He's in close range now with my longbow out.
+
+798
+00:42:52,956 --> 00:42:54,696
+[SPEAKER_01]: Can I take a few steps back?
+
+799
+00:42:54,856 --> 00:42:56,036
+[SPEAKER_01]: Is that an action?
+
+800
+00:42:56,276 --> 00:42:57,217
+[SPEAKER_01]: That's his movement.
+
+801
+00:42:57,857 --> 00:42:59,137
+[SPEAKER_01]: Right there.
+
+802
+00:43:09,830 --> 00:43:11,711
+[SPEAKER_01]: Can I cast a spell now, because it's a different round?
+
+803
+00:43:12,532 --> 00:43:13,232
+[SPEAKER_02]: It's a different round.
+
+804
+00:43:13,652 --> 00:43:19,135
+[SPEAKER_02]: If the spell is bonus action, you can cast that, and then you can attack with your attack.
+
+805
+00:43:19,356 --> 00:43:23,138
+[SPEAKER_01]: Yep, I'm going to cast Hunter's Mark on the knight.
+
+806
+00:43:23,418 --> 00:43:23,718
+[SPEAKER_01]: Okay.
+
+807
+00:43:24,198 --> 00:43:27,540
+[SPEAKER_01]: And I'm going to shoot an arrow at Sir Knight.
+
+808
+00:43:28,441 --> 00:43:29,782
+[SPEAKER_01]: Alright, roll it.
+
+809
+00:43:29,962 --> 00:43:31,723
+[SPEAKER_01]: Nah, what I was going for.
+
+810
+00:43:31,823 --> 00:43:32,743
+[SPEAKER_01]: We got this, though.
+
+811
+00:43:32,763 --> 00:43:34,484
+[SPEAKER_01]: We got this.
+
+812
+00:43:34,804 --> 00:43:35,485
+[SPEAKER_01]: Longbow.
+
+813
+00:43:35,965 --> 00:43:36,285
+[SPEAKER_01]: Okay.
+
+814
+00:43:40,205 --> 00:43:40,725
+[SPEAKER_01]: I'm out of spells.
+
+815
+00:43:42,507 --> 00:43:43,047
+[SPEAKER_01]: Seventeen.
+
+816
+00:43:43,107 --> 00:43:43,968
+[SPEAKER_01]: Seventeen hit.
+
+817
+00:43:44,789 --> 00:43:45,109
+[SPEAKER_02]: Nice.
+
+818
+00:43:45,309 --> 00:43:47,030
+[SPEAKER_02]: Seventeen plus what, actually?
+
+819
+00:43:48,131 --> 00:43:49,112
+[SPEAKER_02]: Is that the attack bonus?
+
+820
+00:43:49,252 --> 00:43:49,512
+[SPEAKER_02]: Yeah.
+
+821
+00:43:49,713 --> 00:43:50,033
+[SPEAKER_02]: Seven.
+
+822
+00:43:50,633 --> 00:43:52,214
+[SPEAKER_02]: So, seventeen plus seven is twenty-four.
+
+823
+00:43:52,235 --> 00:43:52,855
+[SPEAKER_02]: That is a hit.
+
+824
+00:43:53,736 --> 00:44:01,041
+[SPEAKER_02]: And you do one die eight plus one die six plus your bonus.
+
+825
+00:44:02,723 --> 00:44:04,444
+[SPEAKER_01]: One die eight plus one die six.
+
+826
+00:44:05,725 --> 00:44:07,867
+[SPEAKER_01]: Is the one die six with the hunter's mark?
+
+827
+00:44:09,626 --> 00:44:12,107
+[SPEAKER_02]: The 1.6 is the Hunter's Mark effect, yes.
+
+828
+00:44:16,289 --> 00:44:16,829
+[SPEAKER_02]: Ooh, nice.
+
+829
+00:44:17,190 --> 00:44:19,791
+[SPEAKER_02]: 11 plus... What's your bonus for your damage?
+
+830
+00:44:20,975 --> 00:44:21,675
+[SPEAKER_02]: The attack bonus?
+
+831
+00:44:22,116 --> 00:44:26,057
+[SPEAKER_02]: The attack bonus and the damage bonus, which is with the 1 die 8 plus whatever.
+
+832
+00:44:27,578 --> 00:44:29,019
+[SPEAKER_01]: I'm confused on the damage bonus.
+
+833
+00:44:29,119 --> 00:44:32,220
+[SPEAKER_01]: So the damage bonus basically is based off your dexterity.
+
+834
+00:44:32,400 --> 00:44:33,581
+[SPEAKER_02]: It's the plus there.
+
+835
+00:44:34,021 --> 00:44:34,721
+[SPEAKER_01]: Oh, it's plus 3.
+
+836
+00:44:35,181 --> 00:44:47,647
+[SPEAKER_02]: Okay, so you do an 11 plus 3, it's 14 points of damage, and your arrow bites, I mean, hits his armor, right, but misses his shield and, you know,
+
+837
+00:44:48,984 --> 00:44:49,664
+[SPEAKER_03]: But it's true.
+
+838
+00:44:50,045 --> 00:44:51,766
+[SPEAKER_03]: I mean, this would have killed an armored man.
+
+839
+00:44:52,066 --> 00:44:53,107
+[SPEAKER_03]: So that bust through the chain?
+
+840
+00:44:53,807 --> 00:44:56,369
+[SPEAKER_03]: Yeah.
+
+841
+00:44:56,389 --> 00:44:57,089
+[SPEAKER_03]: Nice shot.
+
+842
+00:44:57,810 --> 00:44:58,290
+[SPEAKER_02]: Sweet.
+
+843
+00:44:58,310 --> 00:45:00,191
+[SPEAKER_02]: Let's see about this.
+
+844
+00:45:00,471 --> 00:45:02,032
+[SPEAKER_02]: Okay.
+
+845
+00:45:03,253 --> 00:45:05,715
+[SPEAKER_03]: One, two, three, four, five.
+
+846
+00:45:05,735 --> 00:45:09,937
+[SPEAKER_02]: One, two, three, four, five, six.
+
+847
+00:45:10,758 --> 00:45:11,799
+[SPEAKER_02]: This guy with the halibur?
+
+848
+00:45:13,122 --> 00:45:17,966
+[SPEAKER_02]: Comes out of the mist and attacks you.
+
+849
+00:45:17,986 --> 00:45:22,249
+[SPEAKER_02]: He doesn't see you until he reaches the end of it, so he's within range, but he attacks you.
+
+850
+00:45:24,230 --> 00:45:25,751
+[SPEAKER_02]: Nineteen.
+
+851
+00:45:27,152 --> 00:45:27,593
+[SPEAKER_02]: Barely.
+
+852
+00:45:27,793 --> 00:45:28,253
+[SPEAKER_02]: Come on.
+
+853
+00:45:28,413 --> 00:45:37,800
+[SPEAKER_02]: Which is a critical, because if you're a champion, it's a critical when you do that, so it's two die ten.
+
+854
+00:45:38,381 --> 00:45:39,662
+[SPEAKER_02]: Oh, damn, yeah.
+
+855
+00:45:41,205 --> 00:45:46,508
+[SPEAKER_02]: Seven, seventeen, twenty points of damage.
+
+856
+00:45:46,608 --> 00:45:52,712
+[SPEAKER_02]: He comes forward and wails Tyrus with a mighty blow.
+
+857
+00:45:53,352 --> 00:45:55,373
+[SPEAKER_02]: So you have, what, twenty-some points of damage off you?
+
+858
+00:45:55,593 --> 00:45:55,993
+[SPEAKER_02]: Yeah.
+
+859
+00:45:57,234 --> 00:45:59,876
+[SPEAKER_02]: And you hear men behind you yelling.
+
+860
+00:46:01,537 --> 00:46:02,917
+[SPEAKER_02]: My trousers dropped.
+
+861
+00:46:02,957 --> 00:46:03,097
+[SPEAKER_03]: Fuck.
+
+862
+00:46:06,493 --> 00:46:09,114
+[SPEAKER_04]: I'm at 23 right now.
+
+863
+00:46:09,215 --> 00:46:10,995
+[SPEAKER_04]: That's well over half of it.
+
+864
+00:46:11,656 --> 00:46:13,557
+[SPEAKER_04]: What a hit.
+
+865
+00:46:13,737 --> 00:46:14,657
+[SPEAKER_04]: All right.
+
+866
+00:46:16,578 --> 00:46:17,259
+[SPEAKER_02]: I think it's an edge.
+
+867
+00:46:17,559 --> 00:46:24,022
+[SPEAKER_02]: So these guys behind here, Gouge, you can hear that they're maybe 80 feet away.
+
+868
+00:46:24,463 --> 00:46:24,823
+[SPEAKER_03]: Okay.
+
+869
+00:46:25,883 --> 00:46:29,005
+[SPEAKER_03]: Do you want dice for those guys or do you want more little creatures?
+
+870
+00:46:29,285 --> 00:46:30,086
+[SPEAKER_03]: Are you okay?
+
+871
+00:46:30,166 --> 00:46:31,807
+[SPEAKER_02]: I'm not going to worry about it right now.
+
+872
+00:46:32,127 --> 00:46:33,608
+[SPEAKER_02]: I'm going to see if you guys stick around.
+
+873
+00:46:34,188 --> 00:46:35,349
+[SPEAKER_02]: Okay, you guys ready to roll an edge?
+
+874
+00:46:38,505 --> 00:46:38,565
+[SPEAKER_01]: 18.
+
+875
+00:46:38,645 --> 00:46:39,425
+[SPEAKER_01]: Don't fail me now.
+
+876
+00:46:39,445 --> 00:46:40,806
+[SPEAKER_01]: 18.
+
+877
+00:46:40,846 --> 00:46:41,986
+[SPEAKER_01]: You failed me now.
+
+878
+00:46:42,006 --> 00:46:43,627
+[SPEAKER_01]: 13.
+
+879
+00:46:43,667 --> 00:46:44,407
+[SPEAKER_02]: What's that?
+
+880
+00:46:44,427 --> 00:46:44,588
+[SPEAKER_01]: 13.
+
+881
+00:46:44,648 --> 00:46:45,588
+[SPEAKER_01]: And what did you get?
+
+882
+00:46:45,608 --> 00:46:46,188
+[SPEAKER_02]: 7.
+
+883
+00:46:46,208 --> 00:46:46,729
+[SPEAKER_02]: Here's the knight.
+
+884
+00:46:46,909 --> 00:46:47,049
+[SPEAKER_02]: 17.
+
+885
+00:46:47,069 --> 00:46:47,149
+[SPEAKER_02]: 18.
+
+886
+00:46:47,169 --> 00:46:48,369
+[SPEAKER_02]: And here are the men.
+
+887
+00:46:48,389 --> 00:46:49,330
+[SPEAKER_02]: 15.
+
+888
+00:47:04,348 --> 00:47:09,453
+[SPEAKER_02]: Okay, so Gouge is first because this is dexterity.
+
+889
+00:47:09,473 --> 00:47:10,474
+[SPEAKER_02]: Wait, what's your dexterity?
+
+890
+00:47:10,674 --> 00:47:10,934
+[SPEAKER_02]: 15.
+
+891
+00:47:11,214 --> 00:47:12,075
+[SPEAKER_03]: Okay, Gouge is first.
+
+892
+00:47:13,516 --> 00:47:19,882
+[SPEAKER_03]: I am going to try to sneak attack with the crossbow bolt or whatever I can do to the man on the horse.
+
+893
+00:47:20,062 --> 00:47:24,346
+[SPEAKER_02]: Okay, so you bring up your crossbow and try to sneak attack that guy?
+
+894
+00:47:25,087 --> 00:47:26,288
+[SPEAKER_02]: Advantage because you're stealth.
+
+895
+00:47:26,408 --> 00:47:27,589
+[SPEAKER_02]: Wait, what was your stealth, bro?
+
+896
+00:47:27,609 --> 00:47:27,729
+[SPEAKER_02]: 25.
+
+897
+00:47:27,750 --> 00:47:28,450
+[SPEAKER_02]: 25, that's right, you are.
+
+898
+00:47:31,931 --> 00:47:32,813
+[SPEAKER_01]: Completely stealthed.
+
+899
+00:47:37,300 --> 00:47:37,901
+[SPEAKER_03]: So advantage?
+
+900
+00:47:39,984 --> 00:47:40,324
+[SPEAKER_02]: Yes.
+
+901
+00:47:40,344 --> 00:47:42,868
+[SPEAKER_02]: 18.
+
+902
+00:47:44,473 --> 00:47:45,073
+[SPEAKER_02]: That's a hit.
+
+903
+00:47:45,093 --> 00:47:46,034
+[SPEAKER_02]: Oh, okay.
+
+904
+00:47:46,694 --> 00:47:50,215
+[SPEAKER_02]: And you can do sneak attack, however, it's not a critical.
+
+905
+00:47:50,896 --> 00:47:51,216
+[SPEAKER_02]: Okay?
+
+906
+00:47:51,936 --> 00:47:53,157
+[SPEAKER_02]: Because he was already engaged.
+
+907
+00:47:53,177 --> 00:47:56,078
+[SPEAKER_02]: Yeah, he's in combat, you can't assassinate him.
+
+908
+00:47:56,118 --> 00:47:58,279
+[SPEAKER_02]: If you had rolled a nat 20, it would have been critical.
+
+909
+00:47:58,499 --> 00:48:03,261
+[SPEAKER_02]: However, you can sneak attack because he's next to that guy and you had advantage.
+
+910
+00:48:03,501 --> 00:48:03,821
+[SPEAKER_03]: Okay.
+
+911
+00:48:06,702 --> 00:48:09,003
+[SPEAKER_03]: So that's gonna be the 1 die 10?
+
+912
+00:48:10,043 --> 00:48:12,704
+[SPEAKER_03]: 1 die 10 and... And then I've got my... 3 die 6.
+
+913
+00:48:13,125 --> 00:48:13,605
+[SPEAKER_03]: 3 die 6.
+
+914
+00:48:24,443 --> 00:48:26,865
+[SPEAKER_03]: Ten, seventeen, twenty-one.
+
+915
+00:48:33,289 --> 00:48:38,993
+[SPEAKER_02]: Okay, so the crossbow bolt bites into his side and his chainmail.
+
+916
+00:48:39,413 --> 00:48:42,195
+[SPEAKER_03]: He does not go down, but he's definitely effective.
+
+917
+00:48:42,536 --> 00:48:44,297
+[SPEAKER_02]: And you hear him yell, ASSASSINS!
+
+918
+00:48:45,288 --> 00:48:49,290
+[SPEAKER_02]: Okay, so Folsom, you're next.
+
+919
+00:48:52,511 --> 00:48:55,132
+[SPEAKER_00]: If I start moving away, will they have another hit on me?
+
+920
+00:48:55,312 --> 00:48:57,233
+[SPEAKER_00]: No, they won't because you're right here.
+
+921
+00:48:57,493 --> 00:49:00,855
+[SPEAKER_02]: Okay, I am going to cast Charm on the Knight.
+
+922
+00:49:01,335 --> 00:49:04,376
+[SPEAKER_02]: Now you remember this is going to be a disadvantage because you're in combat with him.
+
+923
+00:49:06,597 --> 00:49:06,797
+[SPEAKER_02]: Yeah.
+
+924
+00:49:08,438 --> 00:49:10,058
+[SPEAKER_02]: His saving throw will be an advantage.
+
+925
+00:49:14,049 --> 00:49:16,069
+[SPEAKER_02]: Now, what do you think Charm's gonna do to this guy right now?
+
+926
+00:49:16,850 --> 00:49:18,590
+[SPEAKER_02]: Well, it says it, uh...
+
+927
+00:49:19,010 --> 00:49:23,151
+[SPEAKER_02]: He'll act with you as a friend, but if you're in combat, he will kill your opponents.
+
+928
+00:49:26,712 --> 00:49:27,512
+[SPEAKER_02]: If it affects him.
+
+929
+00:49:28,012 --> 00:49:28,292
+[SPEAKER_00]: Yeah.
+
+930
+00:49:30,552 --> 00:49:39,254
+[SPEAKER_00]: Yeah, alright, I back away 30 feet, yep.
+
+931
+00:49:39,714 --> 00:49:41,475
+[SPEAKER_00]: One, two, three, four, five, six.
+
+932
+00:49:41,675 --> 00:49:43,635
+[SPEAKER_00]: And then I cast Vicious Mockery on the night.
+
+933
+00:49:47,054 --> 00:49:48,135
+[SPEAKER_01]: That thing does some damage.
+
+934
+00:49:48,195 --> 00:49:48,955
+[SPEAKER_01]: What do you say?
+
+935
+00:49:49,055 --> 00:49:51,176
+[SPEAKER_01]: I say, fuck you, dude.
+
+936
+00:49:51,937 --> 00:49:53,277
+[SPEAKER_02]: Fuck you!
+
+937
+00:49:53,357 --> 00:49:57,520
+[SPEAKER_02]: As he runs away.
+
+938
+00:49:57,940 --> 00:50:00,501
+[SPEAKER_02]: I've got to roll his saving throw.
+
+939
+00:50:00,601 --> 00:50:01,922
+[SPEAKER_02]: I'm waiting!
+
+940
+00:50:01,982 --> 00:50:04,863
+[SPEAKER_02]: What's your saving throw DC?
+
+941
+00:50:05,263 --> 00:50:10,226
+[SPEAKER_00]: My saving throw DC is saving throws for charisma.
+
+942
+00:50:11,066 --> 00:50:12,767
+[SPEAKER_02]: It should be on your spellcasting thing.
+
+943
+00:50:12,807 --> 00:50:13,708
+[SPEAKER_02]: It says DC.
+
+944
+00:50:14,988 --> 00:50:15,749
+[SPEAKER_02]: Look on the next page.
+
+945
+00:50:17,927 --> 00:50:18,808
+[SPEAKER_02]: D.C. at the top.
+
+946
+00:50:19,328 --> 00:50:20,729
+[SPEAKER_00]: Spell-saving D.C. 14.
+
+947
+00:50:20,869 --> 00:50:24,712
+[SPEAKER_02]: That means he has to roll 14 to be able to save against your spell.
+
+948
+00:50:25,052 --> 00:50:25,352
+[SPEAKER_02]: Yeah.
+
+949
+00:50:25,412 --> 00:50:25,652
+[SPEAKER_02]: Right?
+
+950
+00:50:26,193 --> 00:50:31,056
+[SPEAKER_02]: Vicious Mock Raper you does one die four plus foreign damage, because you have that thing.
+
+951
+00:50:31,196 --> 00:50:31,396
+[SPEAKER_02]: Yep.
+
+952
+00:50:32,157 --> 00:50:33,738
+[SPEAKER_02]: Half if he makes a save.
+
+953
+00:50:33,838 --> 00:50:34,038
+[SPEAKER_02]: Yeah.
+
+954
+00:50:34,498 --> 00:50:38,641
+[SPEAKER_02]: Alright, so he has a Wisdom saving throw, because it's a Wisdom saving throw, plus one.
+
+955
+00:50:38,681 --> 00:50:41,023
+[SPEAKER_02]: So if he rolls a 13, he makes a save.
+
+956
+00:50:41,123 --> 00:50:41,643
+[SPEAKER_02]: Yep.
+
+957
+00:50:41,703 --> 00:50:42,384
+[SPEAKER_02]: Here's his roll.
+
+958
+00:50:43,798 --> 00:50:44,158
+[SPEAKER_02]: Ten.
+
+959
+00:50:44,258 --> 00:50:52,886
+[SPEAKER_02]: He does not make a save, so you roll damage of one die four plus four, and the next, his next turn, he's a disadvantage with anything he does.
+
+960
+00:50:53,046 --> 00:50:54,647
+[SPEAKER_02]: That's right, bitch.
+
+961
+00:50:56,188 --> 00:50:56,789
+[SPEAKER_02]: Come on.
+
+962
+00:50:58,070 --> 00:51:00,011
+[SPEAKER_02]: Three, seven points of damage.
+
+963
+00:51:02,834 --> 00:51:04,695
+[SPEAKER_02]: You just got my fuck, bitch.
+
+964
+00:51:04,775 --> 00:51:06,657
+[SPEAKER_00]: No, it's eight because I have the stone.
+
+965
+00:51:06,837 --> 00:51:07,458
+[SPEAKER_02]: My charisma's 21.
+
+966
+00:51:09,837 --> 00:51:11,478
+[SPEAKER_02]: So it's plus five of damage.
+
+967
+00:51:11,959 --> 00:51:14,060
+[SPEAKER_02]: So it's eight points of damage.
+
+968
+00:51:14,500 --> 00:51:15,000
+[SPEAKER_02]: That's right.
+
+969
+00:51:17,142 --> 00:51:20,143
+[SPEAKER_03]: Oh, I just shot and didn't do anything else.
+
+970
+00:51:21,064 --> 00:51:21,864
+[SPEAKER_02]: Yeah, do you want to run?
+
+971
+00:51:22,525 --> 00:51:24,546
+[SPEAKER_01]: I was like, who is that guy waiting for?
+
+972
+00:51:24,646 --> 00:51:29,609
+[SPEAKER_03]: Oh, see, now I'd like to...
+
+973
+00:51:32,188 --> 00:51:34,449
+[SPEAKER_03]: Stand, pull out both weapons and my stones.
+
+974
+00:51:34,669 --> 00:51:35,270
+[SPEAKER_03]: Can I do that?
+
+975
+00:51:35,590 --> 00:51:37,751
+[SPEAKER_03]: You can stand and pull out both weapons as a bonus action.
+
+976
+00:51:37,851 --> 00:51:38,131
+[SPEAKER_03]: Okay.
+
+977
+00:51:38,331 --> 00:51:38,631
+[SPEAKER_03]: Okay.
+
+978
+00:51:38,732 --> 00:51:39,432
+[SPEAKER_02]: And so your crossbow.
+
+979
+00:51:39,852 --> 00:51:40,052
+[SPEAKER_02]: Yep.
+
+980
+00:51:40,272 --> 00:51:41,433
+[SPEAKER_02]: Okay.
+
+981
+00:51:42,233 --> 00:51:42,874
+[SPEAKER_02]: So now I'm standing.
+
+982
+00:51:43,394 --> 00:51:44,875
+[SPEAKER_02]: You're here hiding very well.
+
+983
+00:51:44,895 --> 00:51:47,456
+[SPEAKER_02]: This guy has disadvantage on his next thing.
+
+984
+00:51:47,576 --> 00:51:47,776
+[SPEAKER_02]: Yep.
+
+985
+00:51:47,916 --> 00:51:49,337
+[SPEAKER_02]: Okay.
+
+986
+00:51:51,498 --> 00:51:55,140
+[SPEAKER_02]: He attacks you with his sword at disadvantage.
+
+987
+00:51:55,581 --> 00:51:56,621
+[SPEAKER_02]: Here's his first attack.
+
+988
+00:51:57,341 --> 00:51:57,401
+[SPEAKER_02]: 18.
+
+989
+00:51:59,131 --> 00:52:02,192
+[SPEAKER_02]: And 9, 9 plus 7 is 16.
+
+990
+00:52:02,252 --> 00:52:02,932
+[SPEAKER_02]: What's your AC?
+
+991
+00:52:03,112 --> 00:52:03,612
+[SPEAKER_02]: 18.
+
+992
+00:52:04,692 --> 00:52:06,653
+[SPEAKER_02]: You're very lucky that Folsom did that?
+
+993
+00:52:06,713 --> 00:52:07,593
+[SPEAKER_02]: Yes, I am.
+
+994
+00:52:07,673 --> 00:52:09,013
+[SPEAKER_02]: Here's his next attack.
+
+995
+00:52:09,553 --> 00:52:10,773
+[SPEAKER_02]: Oh, shit, Folsom.
+
+996
+00:52:10,813 --> 00:52:11,954
+[SPEAKER_02]: This guy is very skilled.
+
+997
+00:52:12,014 --> 00:52:13,454
+[SPEAKER_02]: At disadvantage, too?
+
+998
+00:52:13,634 --> 00:52:14,614
+[SPEAKER_02]: At disadvantage, as well.
+
+999
+00:52:14,654 --> 00:52:15,534
+[SPEAKER_02]: Fuck this guy, dude.
+
+1000
+00:52:16,435 --> 00:52:16,755
+[SPEAKER_02]: Two?
+
+1001
+00:52:16,915 --> 00:52:17,215
+[SPEAKER_02]: Yeah, fuck it.
+
+1002
+00:52:17,235 --> 00:52:17,815
+[SPEAKER_02]: So that misses.
+
+1003
+00:52:18,155 --> 00:52:18,355
+[SPEAKER_03]: Yep.
+
+1004
+00:52:18,835 --> 00:52:20,996
+[SPEAKER_02]: Basically, he's like...
+
+1005
+00:52:21,376 --> 00:52:22,616
+[SPEAKER_02]: Very angry at Folsom.
+
+1006
+00:52:22,696 --> 00:52:24,756
+[SPEAKER_02]: Fuck me, fuck you!
+
+1007
+00:52:24,836 --> 00:52:26,357
+[SPEAKER_02]: But he does not...
+
+1008
+00:52:26,417 --> 00:52:27,717
+[SPEAKER_02]: He does not...
+
+1009
+00:52:28,598 --> 00:52:30,459
+[SPEAKER_02]: Disengage from Ewan and attack Folsom.
+
+1010
+00:52:30,479 --> 00:52:30,680
+[SPEAKER_02]: Okay.
+
+1011
+00:52:30,700 --> 00:52:31,560
+[SPEAKER_02]: This is where he is.
+
+1012
+00:52:32,181 --> 00:52:34,803
+[SPEAKER_03]: Are his eyes watering?
+
+1013
+00:52:34,843 --> 00:52:36,004
+[SPEAKER_02]: Don't worry about it.
+
+1014
+00:52:36,044 --> 00:52:37,064
+[SPEAKER_02]: He's wearing a helmet.
+
+1015
+00:52:37,244 --> 00:52:39,266
+[SPEAKER_02]: I bet he's crying.
+
+1016
+00:52:39,386 --> 00:52:39,726
+[SPEAKER_02]: Okay.
+
+1017
+00:52:39,746 --> 00:52:40,267
+[SPEAKER_01]: Fuck me.
+
+1018
+00:52:40,607 --> 00:52:41,728
+[SPEAKER_02]: So that's that guy.
+
+1019
+00:52:41,748 --> 00:52:43,069
+[SPEAKER_02]: Stress eating big time.
+
+1020
+00:52:43,149 --> 00:52:43,809
+[SPEAKER_02]: The men-at-arms.
+
+1021
+00:52:44,890 --> 00:52:45,771
+[SPEAKER_02]: This guy attacks you.
+
+1022
+00:52:46,071 --> 00:52:46,571
+[SPEAKER_02]: You ready?
+
+1023
+00:52:46,591 --> 00:52:47,132
+[SPEAKER_01]: Mm-hmm.
+
+1024
+00:52:49,193 --> 00:52:52,856
+[SPEAKER_02]: Ten plus five is fifteen.
+
+1025
+00:52:53,617 --> 00:52:55,839
+[SPEAKER_02]: His haliburg bangs off your shield.
+
+1026
+00:52:55,979 --> 00:52:58,261
+[SPEAKER_02]: You basically take three attacks and do not go down.
+
+1027
+00:53:00,523 --> 00:53:04,507
+[SPEAKER_02]: And you hear men entering the flog thing back there.
+
+1028
+00:53:04,547 --> 00:53:07,990
+[SPEAKER_02]: You can hear their armors clanking as they come up the path.
+
+1029
+00:53:10,212 --> 00:53:11,013
+[SPEAKER_02]: At least six guys.
+
+1030
+00:53:12,427 --> 00:53:16,350
+[SPEAKER_04]: If I attack the guy on this horse, is there any advantage or dismanage?
+
+1031
+00:53:16,650 --> 00:53:16,950
+[SPEAKER_04]: No.
+
+1032
+00:53:17,991 --> 00:53:18,251
+[SPEAKER_04]: Okay.
+
+1033
+00:53:18,371 --> 00:53:18,571
+[SPEAKER_04]: No.
+
+1034
+00:53:19,211 --> 00:53:20,252
+[SPEAKER_04]: That was just a curiosity.
+
+1035
+00:53:20,272 --> 00:53:22,854
+[SPEAKER_04]: Anyway, go ahead.
+
+1036
+00:53:22,894 --> 00:53:25,055
+[SPEAKER_04]: I don't know how to turn this, but I was curious.
+
+1037
+00:53:25,115 --> 00:53:25,816
+[SPEAKER_02]: The men went.
+
+1038
+00:53:27,177 --> 00:53:28,958
+[SPEAKER_02]: The count is 13.
+
+1039
+00:53:29,058 --> 00:53:29,959
+[SPEAKER_02]: It's Merrick now.
+
+1040
+00:53:32,160 --> 00:53:33,321
+[SPEAKER_01]: I still have hundreds more than him.
+
+1041
+00:53:33,801 --> 00:53:36,703
+[SPEAKER_01]: I'm going to shoot at him again.
+
+1042
+00:53:36,803 --> 00:53:37,664
+[SPEAKER_01]: Do you want to move at all?
+
+1043
+00:53:40,364 --> 00:53:42,486
+[SPEAKER_02]: And you can say whatever you want to your companions.
+
+1044
+00:53:42,847 --> 00:53:43,227
+[SPEAKER_01]: Yeah.
+
+1045
+00:53:43,668 --> 00:53:45,750
+[SPEAKER_01]: I got nothing to say, man, because I just walked in.
+
+1046
+00:53:51,897 --> 00:53:53,158
+[SPEAKER_01]: Shooting on the night.
+
+1047
+00:53:53,499 --> 00:53:53,759
+[SPEAKER_01]: Okay.
+
+1048
+00:53:57,784 --> 00:53:58,324
+[SPEAKER_01]: Fourteen.
+
+1049
+00:53:58,484 --> 00:53:59,926
+[SPEAKER_01]: Fourteen plus seven.
+
+1050
+00:54:00,367 --> 00:54:00,647
+[SPEAKER_02]: Hit.
+
+1051
+00:54:02,041 --> 00:54:13,668
+[SPEAKER_01]: One die eight plus one die six plus your three.
+
+1052
+00:54:13,748 --> 00:54:15,529
+[SPEAKER_02]: Ten plus three is thirteen.
+
+1053
+00:54:17,010 --> 00:54:23,734
+[SPEAKER_02]: Okay, so Eros are just pinioning this guy from all over the place, right?
+
+1054
+00:54:24,474 --> 00:54:25,415
+[SPEAKER_02]: And you can tell
+
+1055
+00:54:26,666 --> 00:54:28,967
+[SPEAKER_02]: He's getting affected by this.
+
+1056
+00:54:30,107 --> 00:54:31,427
+[SPEAKER_02]: Yeah, he's fucking crying.
+
+1057
+00:54:31,588 --> 00:54:33,388
+[SPEAKER_04]: You.
+
+1058
+00:54:34,028 --> 00:54:34,428
+[SPEAKER_04]: Your turn.
+
+1059
+00:54:34,709 --> 00:54:35,129
+[SPEAKER_04]: My turn.
+
+1060
+00:54:36,769 --> 00:54:40,010
+[SPEAKER_04]: Alright, I have my Thunder of Smite loaded up.
+
+1061
+00:54:40,250 --> 00:54:40,910
+[SPEAKER_01]: Yeah, you do.
+
+1062
+00:54:40,970 --> 00:54:41,331
+[SPEAKER_01]: Okay.
+
+1063
+00:54:43,091 --> 00:54:48,433
+[SPEAKER_04]: So, I have to attack this guy on the...
+
+1064
+00:54:49,707 --> 00:54:50,208
+[SPEAKER_04]: On the horse.
+
+1065
+00:54:50,308 --> 00:54:50,808
+[SPEAKER_00]: On the horse.
+
+1066
+00:54:51,088 --> 00:54:53,451
+[SPEAKER_00]: Because I don't want two free attacks on my back.
+
+1067
+00:54:53,771 --> 00:54:55,673
+[SPEAKER_04]: Now, lay on hands.
+
+1068
+00:54:55,733 --> 00:54:56,614
+[SPEAKER_04]: I read the book.
+
+1069
+00:54:57,095 --> 00:54:57,415
+[SPEAKER_04]: Is that?
+
+1070
+00:54:57,655 --> 00:54:58,216
+[SPEAKER_04]: It's an action.
+
+1071
+00:54:58,556 --> 00:54:59,557
+[SPEAKER_04]: It's an actual action.
+
+1072
+00:54:59,817 --> 00:55:00,037
+[SPEAKER_04]: Yes.
+
+1073
+00:55:00,057 --> 00:55:03,341
+[SPEAKER_04]: I don't know if she's out now.
+
+1074
+00:55:04,482 --> 00:55:04,982
+[SPEAKER_03]: Mac, hold on.
+
+1075
+00:55:07,905 --> 00:55:08,466
+[SPEAKER_03]: Mac and cheese?
+
+1076
+00:55:09,147 --> 00:55:09,787
+[SPEAKER_03]: Kayla had no.
+
+1077
+00:55:10,608 --> 00:55:10,989
+[SPEAKER_03]: KK?
+
+1078
+00:55:12,650 --> 00:55:13,151
+[SPEAKER_03]: Cray cray?
+
+1079
+00:55:18,708 --> 00:55:19,489
+[SPEAKER_01]: Is the fog still?
+
+1080
+00:55:19,509 --> 00:55:20,650
+[SPEAKER_01]: The fog's still there.
+
+1081
+00:55:20,930 --> 00:55:23,612
+[SPEAKER_02]: It's about an hour, I think.
+
+1082
+00:55:23,753 --> 00:55:24,233
+[SPEAKER_01]: Or a minute.
+
+1083
+00:55:24,553 --> 00:55:24,994
+[SPEAKER_02]: It's a minute.
+
+1084
+00:55:25,494 --> 00:55:26,915
+[SPEAKER_01]: A little longer than that.
+
+1085
+00:55:29,958 --> 00:55:36,104
+[SPEAKER_01]: I just took pictures of all the spills.
+
+1086
+00:55:36,204 --> 00:55:36,704
+[SPEAKER_02]: One hour.
+
+1087
+00:55:36,924 --> 00:55:38,065
+[SPEAKER_02]: One hour with concentration.
+
+1088
+00:55:38,146 --> 00:55:38,506
+[SPEAKER_02]: Yep.
+
+1089
+00:55:38,666 --> 00:55:38,926
+[SPEAKER_02]: Okay.
+
+1090
+00:55:41,709 --> 00:55:43,791
+[SPEAKER_04]: So he's playing as this is going on.
+
+1091
+00:55:45,242 --> 00:55:50,906
+[SPEAKER_04]: All right, so I'm swinging at the guy on the horse and I rolled 13 plus...
+
+1092
+00:55:50,926 --> 00:55:58,671
+[SPEAKER_04]: It should be right in the middle of your weapon.
+
+1093
+00:55:58,731 --> 00:55:59,972
+[SPEAKER_02]: It should be right on your weapon.
+
+1094
+00:55:59,992 --> 00:56:00,312
+[SPEAKER_02]: Yeah, plus 5.
+
+1095
+00:56:00,332 --> 00:56:00,913
+[SPEAKER_04]: 13 plus 5 is a... 18.
+
+1096
+00:56:00,993 --> 00:56:02,574
+[SPEAKER_02]: You hit...
+
+1097
+00:56:09,863 --> 00:56:10,543
+[SPEAKER_02]: Just barely.
+
+1098
+00:56:10,883 --> 00:56:11,884
+[SPEAKER_02]: One die eight plus five.
+
+1099
+00:56:12,804 --> 00:56:17,026
+[SPEAKER_02]: It's one die eight plus five plus two die six.
+
+1100
+00:56:18,086 --> 00:56:19,447
+[SPEAKER_02]: Because it's Thunderous Smite.
+
+1101
+00:56:19,947 --> 00:56:21,407
+[SPEAKER_02]: Oh, hell yes.
+
+1102
+00:56:22,708 --> 00:56:24,028
+[SPEAKER_02]: Yeah, Thunderous.
+
+1103
+00:56:24,208 --> 00:56:24,728
+[SPEAKER_00]: Ixthyr.
+
+1104
+00:56:25,409 --> 00:56:25,869
+[SPEAKER_03]: Smites.
+
+1105
+00:56:26,389 --> 00:56:29,370
+[SPEAKER_03]: Activate an Ixthyr.
+
+1106
+00:56:31,451 --> 00:56:36,913
+[SPEAKER_03]: By the way, when you're gone on this, we're all going to play to try to
+
+1107
+00:56:38,698 --> 00:56:43,702
+[SPEAKER_03]: They put themselves up for speeding up play and understanding better.
+
+1108
+00:56:44,442 --> 00:56:45,983
+[SPEAKER_04]: And 5, 13.
+
+1109
+00:56:48,705 --> 00:56:50,266
+[SPEAKER_04]: So you do 13 points of damage?
+
+1110
+00:56:50,606 --> 00:56:50,787
+[SPEAKER_02]: Yep.
+
+1111
+00:56:54,829 --> 00:56:55,430
+[SPEAKER_02]: Excellent.
+
+1112
+00:56:57,002 --> 00:56:57,883
+[SPEAKER_02]: That's my bull!
+
+1113
+00:56:57,963 --> 00:57:12,899
+[SPEAKER_02]: All right, so you lay this long sword of the guy, and Thunderous Smite hits him, and he rolls back ten feet, you knock him off his horse, dismounting him, and he falls into the fog.
+
+1114
+00:57:14,501 --> 00:57:17,442
+[SPEAKER_02]: His horse runs off into the bushes this way.
+
+1115
+00:57:18,082 --> 00:57:23,305
+[SPEAKER_02]: There's this sound of thunder that can be heard for like a mile.
+
+1116
+00:57:23,545 --> 00:57:26,167
+[SPEAKER_02]: It's just this crack that goes all over the place.
+
+1117
+00:57:26,267 --> 00:57:27,127
+[SPEAKER_02]: This with the fog.
+
+1118
+00:57:27,167 --> 00:57:29,348
+[SPEAKER_02]: This guy drops into the fog.
+
+1119
+00:57:29,368 --> 00:57:30,209
+[SPEAKER_02]: That guy's still up there.
+
+1120
+00:57:39,898 --> 00:57:43,519
+[SPEAKER_02]: He can move one, two to here, and he attacks T-Bone.
+
+1121
+00:57:43,799 --> 00:57:44,179
+[SPEAKER_02]: You ready?
+
+1122
+00:57:46,280 --> 00:57:47,540
+[SPEAKER_02]: Three, miss.
+
+1123
+00:57:48,040 --> 00:57:51,261
+[SPEAKER_02]: All right, I think we're done.
+
+1124
+00:57:53,922 --> 00:57:55,522
+[SPEAKER_02]: You hear the planking of the armor back in here.
+
+1125
+00:57:55,542 --> 00:57:57,723
+[SPEAKER_02]: These guys are like right around there.
+
+1126
+00:57:59,364 --> 00:58:00,325
+[SPEAKER_02]: Erase those.
+
+1127
+00:58:01,005 --> 00:58:02,246
+[SPEAKER_03]: So, back to an issue.
+
+1128
+00:58:02,566 --> 00:58:05,287
+[SPEAKER_02]: Is the knife not unconscious?
+
+1129
+00:58:05,367 --> 00:58:05,887
+[SPEAKER_02]: Nobody else.
+
+1130
+00:58:06,087 --> 00:58:06,367
+[SPEAKER_02]: Oh, okay.
+
+1131
+00:58:06,387 --> 00:58:07,248
+[SPEAKER_02]: Pull out your weapon.
+
+1132
+00:58:07,268 --> 00:58:07,688
+[SPEAKER_02]: Roll an edge.
+
+1133
+00:58:07,708 --> 00:58:09,249
+[SPEAKER_02]: That's what I'm talking about, baby!
+
+1134
+00:58:09,329 --> 00:58:09,389
+[SPEAKER_02]: 19.
+
+1135
+00:58:09,469 --> 00:58:10,169
+[SPEAKER_02]: Gouge gets a 19.
+
+1136
+00:58:10,409 --> 00:58:10,549
+[SPEAKER_02]: 15.
+
+1137
+00:58:10,569 --> 00:58:10,629
+[SPEAKER_02]: 15.
+
+1138
+00:58:10,669 --> 00:58:12,430
+[SPEAKER_02]: 20 for Tyrus?
+
+1139
+00:58:12,470 --> 00:58:12,630
+[SPEAKER_02]: 20.
+
+1140
+00:58:15,412 --> 00:58:15,992
+[SPEAKER_03]: 21 for Merrick.
+
+1141
+00:58:16,012 --> 00:58:16,532
+[SPEAKER_03]: 21 for Merrick.
+
+1142
+00:58:16,552 --> 00:58:17,913
+[SPEAKER_03]: Here are the men.
+
+1143
+00:58:29,520 --> 00:58:31,881
+[SPEAKER_02]: They get eight total.
+
+1144
+00:58:32,561 --> 00:58:35,681
+[SPEAKER_02]: Gouge your first.
+
+1145
+00:58:36,122 --> 00:58:36,722
+[SPEAKER_03]: We don't know anyone.
+
+1146
+00:58:36,742 --> 00:58:38,022
+[SPEAKER_02]: You don't even see him.
+
+1147
+00:58:38,042 --> 00:58:39,662
+[SPEAKER_02]: The horse is like running off this direction.
+
+1148
+00:58:41,363 --> 00:58:42,343
+[SPEAKER_03]: Straight in and attack.
+
+1149
+00:58:43,583 --> 00:58:46,144
+[SPEAKER_03]: Okay, so one, two, three, four to here.
+
+1150
+00:58:46,264 --> 00:58:46,464
+[SPEAKER_03]: Yep.
+
+1151
+00:58:47,064 --> 00:58:48,805
+[SPEAKER_02]: And attack this guy.
+
+1152
+00:58:48,945 --> 00:58:49,145
+[SPEAKER_03]: Yep.
+
+1153
+00:58:50,025 --> 00:58:50,265
+[SPEAKER_03]: All right.
+
+1154
+00:58:53,273 --> 00:58:54,914
+[SPEAKER_03]: Was I able to get my stones out or not?
+
+1155
+00:58:55,634 --> 00:58:56,334
+[SPEAKER_03]: No.
+
+1156
+00:58:56,354 --> 00:58:58,214
+[SPEAKER_03]: You have to use another bonus action to do that.
+
+1157
+00:58:58,234 --> 00:59:03,815
+[SPEAKER_02]: If you want to use your bonus action to do that, you can, but that means no second attack.
+
+1158
+00:59:04,116 --> 00:59:06,316
+[SPEAKER_02]: Right, because I'll have...nope, I'm going to use the bonus action.
+
+1159
+00:59:06,476 --> 00:59:08,937
+[SPEAKER_03]: I got scimitar and dagger.
+
+1160
+00:59:09,077 --> 00:59:09,357
+[SPEAKER_03]: Okay.
+
+1161
+00:59:11,617 --> 00:59:12,957
+[SPEAKER_03]: Okay, so I'm attacking that guy.
+
+1162
+00:59:15,678 --> 00:59:17,498
+[SPEAKER_03]: It's a seven plus.
+
+1163
+00:59:18,299 --> 00:59:20,059
+[SPEAKER_03]: A nine would be sixteen.
+
+1164
+00:59:23,784 --> 00:59:26,625
+[SPEAKER_03]: That has one die six plus six.
+
+1165
+00:59:27,165 --> 00:59:29,246
+[SPEAKER_03]: That's the scimitar, obviously.
+
+1166
+00:59:29,266 --> 00:59:31,366
+[SPEAKER_01]: Seven.
+
+1167
+00:59:31,766 --> 00:59:32,206
+[SPEAKER_03]: Seven total?
+
+1168
+00:59:33,147 --> 00:59:33,667
+[SPEAKER_03]: Mm-hmm.
+
+1169
+00:59:35,908 --> 00:59:36,468
+[SPEAKER_03]: And dagger?
+
+1170
+00:59:38,688 --> 00:59:38,928
+[SPEAKER_03]: 20.
+
+1171
+00:59:39,028 --> 00:59:39,509
+[SPEAKER_03]: Nat.
+
+1172
+00:59:39,609 --> 00:59:40,369
+[SPEAKER_03]: Nat 20.
+
+1173
+00:59:42,169 --> 00:59:44,770
+[SPEAKER_03]: That is one die four plus six?
+
+1174
+00:59:44,830 --> 00:59:51,032
+[SPEAKER_02]: Now the question is, do you want to do a sink attack?
+
+1175
+00:59:52,242 --> 00:59:53,423
+[SPEAKER_03]: Off the offhand on the dagger?
+
+1176
+00:59:54,163 --> 00:59:54,863
+[SPEAKER_03]: If you want, you can.
+
+1177
+00:59:54,883 --> 00:59:55,063
+[SPEAKER_02]: Yeah.
+
+1178
+00:59:56,464 --> 01:00:00,366
+[SPEAKER_02]: Because you could do that because he's right there, and he died within five feet.
+
+1179
+01:00:00,406 --> 01:00:00,586
+[SPEAKER_02]: Yep.
+
+1180
+01:00:00,766 --> 01:00:01,006
+[SPEAKER_02]: Okay.
+
+1181
+01:00:01,386 --> 01:00:01,546
+[SPEAKER_02]: Yep.
+
+1182
+01:00:02,006 --> 01:00:05,688
+[SPEAKER_02]: So that is two die four plus six die six.
+
+1183
+01:00:06,328 --> 01:00:07,389
+[SPEAKER_03]: I wouldn't worry about this.
+
+1184
+01:00:07,509 --> 01:00:10,290
+[SPEAKER_03]: Two die four plus six die six.
+
+1185
+01:00:10,390 --> 01:00:11,590
+[SPEAKER_04]: A lot.
+
+1186
+01:00:19,252 --> 01:00:20,533
+[SPEAKER_03]: 5, 10, 15, 23.
+
+1187
+01:00:20,553 --> 01:00:21,133
+[SPEAKER_03]: 23 total.
+
+1188
+01:00:21,153 --> 01:00:21,434
+[SPEAKER_03]: Oh, wait.
+
+1189
+01:00:21,474 --> 01:00:21,894
+[SPEAKER_03]: Plus 6.
+
+1190
+01:00:22,074 --> 01:00:22,234
+[SPEAKER_03]: 29.
+
+1191
+01:00:22,254 --> 01:00:22,815
+[SPEAKER_03]: 29 total?
+
+1192
+01:00:22,835 --> 01:00:22,995
+[SPEAKER_03]: Yeah.
+
+1193
+01:00:40,322 --> 01:00:40,682
+[SPEAKER_02]: Okay.
+
+1194
+01:00:41,222 --> 01:00:42,363
+[SPEAKER_03]: He does not go down.
+
+1195
+01:00:42,963 --> 01:00:43,323
+[SPEAKER_03]: Okay.
+
+1196
+01:00:43,343 --> 01:00:48,026
+[SPEAKER_02]: His armor, you go right for the throat, his ring mail saves his life.
+
+1197
+01:00:48,466 --> 01:00:48,806
+[SPEAKER_02]: Okay.
+
+1198
+01:00:48,866 --> 01:00:50,727
+[SPEAKER_02]: It deflects the blade, but he did cut.
+
+1199
+01:00:52,668 --> 01:00:53,708
+[SPEAKER_04]: Oh, these boys are tough!
+
+1200
+01:00:55,429 --> 01:00:56,609
+[SPEAKER_02]: Yeah.
+
+1201
+01:00:58,770 --> 01:00:59,911
+[SPEAKER_02]: So that was Gouge.
+
+1202
+01:01:01,263 --> 01:01:05,725
+[SPEAKER_02]: And actually, I think Merrick and Tyrus should have gone before these guys.
+
+1203
+01:01:06,066 --> 01:01:06,866
+[SPEAKER_03]: Before those guys.
+
+1204
+01:01:07,106 --> 01:01:09,087
+[SPEAKER_03]: Tyrus should have gone before Gouge.
+
+1205
+01:01:09,107 --> 01:01:10,448
+[SPEAKER_03]: My bad.
+
+1206
+01:01:10,548 --> 01:01:12,449
+[SPEAKER_02]: I'm sorry.
+
+1207
+01:01:12,549 --> 01:01:13,429
+[SPEAKER_01]: Merrick can go first.
+
+1208
+01:01:14,910 --> 01:01:19,853
+[SPEAKER_01]: Are they blocking where I can't get an arrow to these guys?
+
+1209
+01:01:21,193 --> 01:01:25,356
+[SPEAKER_02]: The way I usually do it is, if you're all one, you can hit your buddy in the back.
+
+1210
+01:01:27,397 --> 01:01:28,117
+[SPEAKER_01]: Fire!
+
+1211
+01:01:28,377 --> 01:01:29,798
+[SPEAKER_01]: Yeah, fucking shoot it.
+
+1212
+01:01:33,037 --> 01:01:35,478
+[SPEAKER_01]: Do you want to use your bonus action to transfer?
+
+1213
+01:01:35,498 --> 01:01:36,399
+[SPEAKER_01]: Yes, I did want to do that.
+
+1214
+01:01:36,419 --> 01:01:40,241
+[SPEAKER_01]: I want to transfer Hunter's Mark to this dude, fire it on that dude.
+
+1215
+01:01:40,381 --> 01:01:45,585
+[SPEAKER_02]: Now, my question to you is does Hunter's Mark take concentration?
+
+1216
+01:01:45,665 --> 01:01:47,186
+[SPEAKER_04]: Whoa, I think it does.
+
+1217
+01:01:47,526 --> 01:01:49,227
+[SPEAKER_04]: Oh, then it would get rid of the fog.
+
+1218
+01:01:51,477 --> 01:01:56,279
+[SPEAKER_04]: Is Bardic Inspiration... You don't have a high enough intelligence to do both, huh?
+
+1219
+01:01:56,559 --> 01:01:57,639
+[SPEAKER_03]: It is a bonus action.
+
+1220
+01:01:57,659 --> 01:01:58,480
+[SPEAKER_03]: It is a bonus action.
+
+1221
+01:01:58,520 --> 01:01:59,420
+[SPEAKER_03]: Yes, it does.
+
+1222
+01:02:00,140 --> 01:02:04,342
+[SPEAKER_02]: Okay, so we're going to say that the fog starts to dissipate this round.
+
+1223
+01:02:04,362 --> 01:02:04,662
+[SPEAKER_02]: Okay.
+
+1224
+01:02:04,842 --> 01:02:05,382
+[SPEAKER_02]: Good call.
+
+1225
+01:02:05,843 --> 01:02:08,083
+[SPEAKER_02]: Bad call, bad call.
+
+1226
+01:02:08,264 --> 01:02:11,105
+[SPEAKER_02]: Ooh, three.
+
+1227
+01:02:11,205 --> 01:02:11,525
+[SPEAKER_02]: Three.
+
+1228
+01:02:11,765 --> 01:02:13,025
+[SPEAKER_02]: Okay, you fire an arrow.
+
+1229
+01:02:14,106 --> 01:02:16,167
+[SPEAKER_02]: Basically, the guy blocks it with his shield.
+
+1230
+01:02:16,347 --> 01:02:17,047
+[SPEAKER_02]: Do you want to move?
+
+1231
+01:02:19,732 --> 01:02:20,653
+[SPEAKER_01]: Uh, nope.
+
+1232
+01:02:21,273 --> 01:02:21,674
+[SPEAKER_01]: You sure?
+
+1233
+01:02:21,794 --> 01:02:22,614
+[SPEAKER_01]: You want to stay right there?
+
+1234
+01:02:23,155 --> 01:02:23,355
+[SPEAKER_01]: Yep.
+
+1235
+01:02:23,635 --> 01:02:23,936
+[SPEAKER_01]: Okay.
+
+1236
+01:02:26,118 --> 01:02:28,320
+[SPEAKER_01]: I've been better with a bow than I am.
+
+1237
+01:02:28,340 --> 01:02:29,461
+[SPEAKER_01]: Well, now I am.
+
+1238
+01:02:29,981 --> 01:02:32,063
+[SPEAKER_03]: He's taking damage up there, that's for sure.
+
+1239
+01:02:33,184 --> 01:02:34,806
+[SPEAKER_03]: So, Merrick, Tyrus?
+
+1240
+01:02:36,508 --> 01:02:36,828
+[SPEAKER_04]: Me.
+
+1241
+01:02:37,909 --> 01:02:39,711
+[SPEAKER_04]: Um, this guy has not been hurt.
+
+1242
+01:02:40,577 --> 01:02:40,757
+[SPEAKER_04]: No.
+
+1243
+01:02:41,318 --> 01:02:43,441
+[SPEAKER_04]: That guy has been hurt.
+
+1244
+01:02:43,481 --> 01:02:49,549
+[SPEAKER_02]: Gouge just came in and... Gouge has hit him for 30 points of damage.
+
+1245
+01:02:49,890 --> 01:02:52,213
+[SPEAKER_02]: The fog cloud is going away.
+
+1246
+01:02:57,489 --> 01:03:05,293
+[SPEAKER_02]: Basically a row of guys with shields and maces in their hands, and behind them dudes with halibirds.
+
+1247
+01:03:05,613 --> 01:03:05,934
+[SPEAKER_02]: Horse.
+
+1248
+01:03:06,834 --> 01:03:07,354
+[SPEAKER_02]: Horsemen.
+
+1249
+01:03:07,955 --> 01:03:11,297
+[SPEAKER_02]: That guy is splayed out on the ground, laying right there.
+
+1250
+01:03:11,697 --> 01:03:13,878
+[SPEAKER_02]: And he's unconscious, just laying.
+
+1251
+01:03:16,079 --> 01:03:18,060
+[SPEAKER_01]: These guys are tough as shit.
+
+1252
+01:03:18,961 --> 01:03:19,181
+[SPEAKER_01]: Alright.
+
+1253
+01:03:33,307 --> 01:03:34,353
+Make your brain shock.
+
+1254
+01:03:35,498 --> 01:03:36,202
+I need to get my approach.
+
+1255
+01:04:02,492 --> 01:04:03,392
+[SPEAKER_00]: I'm preparing my turn.
+
+1256
+01:04:03,512 --> 01:04:13,376
+[SPEAKER_00]: Okay, if I was trying to intimidate and talk, would that be considered part of my action?
+
+1257
+01:04:13,396 --> 01:04:16,838
+[SPEAKER_00]: Would that be a bonus action or just speech in general?
+
+1258
+01:04:18,118 --> 01:04:20,199
+[SPEAKER_00]: I'm not casting vicious mockery or anything, I'm just...
+
+1259
+01:04:20,399 --> 01:04:29,983
+[SPEAKER_02]: So at this point, you can say, you can do an intimidation with a short phrase of word, and
+
+1260
+01:04:31,320 --> 01:04:34,022
+[SPEAKER_02]: It's not considered an action, bonus action, or anything like that.
+
+1261
+01:04:34,142 --> 01:04:36,483
+[SPEAKER_02]: It's a role that you do against them.
+
+1262
+01:04:37,724 --> 01:04:45,629
+[SPEAKER_02]: Normally in combat... Yeah, yeah, it's none of those.
+
+1263
+01:04:46,430 --> 01:04:47,050
+[SPEAKER_02]: It's none of those.
+
+1264
+01:04:47,190 --> 01:04:48,671
+[SPEAKER_02]: Let me think about this.
+
+1265
+01:04:50,893 --> 01:04:52,614
+[SPEAKER_02]: No, I think it's a bonus action.
+
+1266
+01:04:52,814 --> 01:04:53,875
+[SPEAKER_02]: It is a bonus action.
+
+1267
+01:04:58,529 --> 01:05:05,214
+[SPEAKER_02]: If you just want to say something, it's not, but if you're actually trying to make an effect on NPCs, it's gotta be at least a buzz.
+
+1268
+01:05:05,234 --> 01:05:09,176
+[SPEAKER_02]: So what do you think, Tyrus?
+
+1269
+01:05:11,218 --> 01:05:13,819
+[SPEAKER_04]: So, I'm gonna... Is that right?
+
+1270
+01:05:13,979 --> 01:05:14,680
+[SPEAKER_04]: Yeah, it's your turn.
+
+1271
+01:05:15,420 --> 01:05:17,102
+[SPEAKER_04]: So I'm gonna charge up my Syrinx mic.
+
+1272
+01:05:18,102 --> 01:05:20,764
+[SPEAKER_04]: Okay, so... That's my...
+
+1273
+01:05:21,024 --> 01:05:22,285
+[SPEAKER_02]: He prays to the gods again.
+
+1274
+01:05:22,305 --> 01:05:24,887
+[SPEAKER_04]: The gods of money.
+
+1275
+01:05:25,147 --> 01:05:25,787
+[SPEAKER_04]: Yeah, and then...
+
+1276
+01:05:27,028 --> 01:05:29,571
+[SPEAKER_02]: Gods of commerce, not money, just commerce.
+
+1277
+01:05:29,771 --> 01:05:35,177
+[SPEAKER_04]: And then I'm going to swing at the one that's Gouge has already just stacked.
+
+1278
+01:05:35,277 --> 01:05:41,363
+[SPEAKER_02]: Alright, so you use your bonus action insurance, Searing Smite, and then lay that attack down on the other guy.
+
+1279
+01:05:42,784 --> 01:05:46,028
+[SPEAKER_04]: Then I rolled a 15 plus... Five?
+
+1280
+01:05:46,208 --> 01:05:46,588
+[SPEAKER_02]: Five.
+
+1281
+01:05:46,989 --> 01:05:47,689
+[SPEAKER_02]: That is a hit.
+
+1282
+01:05:50,524 --> 01:05:57,466
+[SPEAKER_04]: And I'm going to go one day four plus the Searing Smite is one day six.
+
+1283
+01:05:57,886 --> 01:05:59,006
+[SPEAKER_04]: Did you use the top of it?
+
+1284
+01:05:59,046 --> 01:06:01,167
+[SPEAKER_04]: No, no, no.
+
+1285
+01:06:01,427 --> 01:06:02,567
+[SPEAKER_04]: It's more than one day six.
+
+1286
+01:06:02,587 --> 01:06:06,668
+[SPEAKER_04]: One day six, fire damage to the target caused.
+
+1287
+01:06:06,688 --> 01:06:12,409
+[SPEAKER_04]: At the start of each turn, the spell ends, the target must make a constitutional saving throw.
+
+1288
+01:06:13,570 --> 01:06:16,410
+[SPEAKER_04]: On a failed save, they get one to six additional damage.
+
+1289
+01:06:19,661 --> 01:06:21,642
+[SPEAKER_04]: On a successful save, the spell ends.
+
+1290
+01:06:23,202 --> 01:06:25,383
+[SPEAKER_02]: So it's one at six.
+
+1291
+01:06:26,624 --> 01:06:26,904
+[SPEAKER_02]: Okay.
+
+1292
+01:06:27,104 --> 01:06:29,585
+[SPEAKER_02]: Causes the target to ignite in flames.
+
+1293
+01:06:29,905 --> 01:06:30,145
+[SPEAKER_02]: Right.
+
+1294
+01:06:30,405 --> 01:06:30,765
+[SPEAKER_02]: Okay.
+
+1295
+01:06:30,845 --> 01:06:32,526
+[SPEAKER_02]: At the start of each turn, I total spend it.
+
+1296
+01:06:32,546 --> 01:06:34,086
+[SPEAKER_02]: The target must be conscious of the throw.
+
+1297
+01:06:34,106 --> 01:06:35,767
+[SPEAKER_02]: When I fail, slave takes one distance with more damage.
+
+1298
+01:06:38,048 --> 01:06:38,728
+[SPEAKER_03]: Did you put them in yet?
+
+1299
+01:06:40,229 --> 01:06:40,729
+[SPEAKER_04]: Yeah, I did it.
+
+1300
+01:06:41,089 --> 01:06:41,369
+[SPEAKER_04]: Okay.
+
+1301
+01:06:42,892 --> 01:06:44,534
+[SPEAKER_04]: You have to swap them?
+
+1302
+01:06:44,574 --> 01:06:44,694
+[SPEAKER_04]: Okay.
+
+1303
+01:06:44,734 --> 01:06:45,214
+[SPEAKER_04]: All right.
+
+1304
+01:06:45,655 --> 01:06:50,680
+[SPEAKER_04]: So for damage, I rolled six plus my five, plus eleven.
+
+1305
+01:06:52,381 --> 01:06:53,823
+[SPEAKER_02]: So you rolled your eight-sided?
+
+1306
+01:06:53,843 --> 01:06:54,964
+[SPEAKER_02]: What did the eight-sided give you?
+
+1307
+01:06:55,044 --> 01:06:55,324
+[SPEAKER_02]: Three.
+
+1308
+01:06:56,025 --> 01:06:56,485
+[SPEAKER_02]: Plus five.
+
+1309
+01:06:56,826 --> 01:06:57,386
+[SPEAKER_02]: Plus five.
+
+1310
+01:06:57,406 --> 01:06:57,967
+[SPEAKER_02]: So there's that.
+
+1311
+01:06:58,087 --> 01:06:59,468
+[SPEAKER_02]: And then three for fire damage.
+
+1312
+01:06:59,649 --> 01:07:00,469
+[SPEAKER_02]: So eleven.
+
+1313
+01:07:00,489 --> 01:07:01,731
+[SPEAKER_02]: Oh, right.
+
+1314
+01:07:01,871 --> 01:07:02,591
+[SPEAKER_02]: Eleven total.
+
+1315
+01:07:03,092 --> 01:07:03,332
+[SPEAKER_02]: Okay.
+
+1316
+01:07:06,135 --> 01:07:06,896
+[SPEAKER_02]: All right, so...
+
+1317
+01:07:10,583 --> 01:07:11,306
+[SPEAKER_02]: I think I was flaming.
+
+1318
+01:07:12,089 --> 01:07:12,511
+[SPEAKER_02]: Tyrus!
+
+1319
+01:07:15,272 --> 01:07:24,834
+[SPEAKER_02]: Lays his blade on this dude, and he envelops into flames, kind of lighting up the night, and he falls on fire.
+
+1320
+01:07:24,854 --> 01:07:27,555
+[SPEAKER_02]: That's two spell slots.
+
+1321
+01:07:27,975 --> 01:07:30,795
+[SPEAKER_02]: Do you want to move at all, or not?
+
+1322
+01:07:31,356 --> 01:07:33,556
+[SPEAKER_04]: Not that this guy's got a huge halberd.
+
+1323
+01:07:34,076 --> 01:07:34,996
+[SPEAKER_04]: I have no action.
+
+1324
+01:07:35,016 --> 01:07:39,317
+[SPEAKER_04]: Any kind of movement I'm going to do, he's going to get a free attack on me.
+
+1325
+01:07:39,697 --> 01:07:42,038
+[SPEAKER_04]: I will say one thing to you, and I'm not going to say this to you again.
+
+1326
+01:07:43,000 --> 01:07:46,782
+[SPEAKER_02]: Those guys have a turn, and they're gonna be on you this turn.
+
+1327
+01:07:47,762 --> 01:07:49,163
+[SPEAKER_02]: All of them.
+
+1328
+01:07:49,603 --> 01:07:56,046
+[SPEAKER_04]: Right.
+
+1329
+01:07:56,086 --> 01:07:57,886
+[SPEAKER_04]: And they're gonna be on Gouge, too.
+
+1330
+01:07:57,967 --> 01:07:58,467
+[SPEAKER_04]: He's right there.
+
+1331
+01:07:59,547 --> 01:07:59,767
+[SPEAKER_01]: Right?
+
+1332
+01:07:59,787 --> 01:08:01,988
+[SPEAKER_04]: Gouge is, like, right next to me.
+
+1333
+01:08:02,609 --> 01:08:03,569
+[SPEAKER_04]: Yes, he is.
+
+1334
+01:08:04,529 --> 01:08:05,810
+[SPEAKER_04]: Yeah.
+
+1335
+01:08:06,470 --> 01:08:08,551
+[SPEAKER_04]: Okay, so...
+
+1336
+01:08:13,385 --> 01:08:16,908
+[SPEAKER_02]: So, one, two, three, four, five, six.
+
+1337
+01:08:16,948 --> 01:08:20,310
+[SPEAKER_04]: All right.
+
+1338
+01:08:21,932 --> 01:08:23,973
+[SPEAKER_04]: So, and I can go how many feet?
+
+1339
+01:08:24,133 --> 01:08:24,654
+[SPEAKER_04]: Six back.
+
+1340
+01:08:25,254 --> 01:08:27,216
+[SPEAKER_04]: Six back into the bushes here.
+
+1341
+01:08:27,276 --> 01:08:29,718
+[SPEAKER_04]: There's bushes along this line here.
+
+1342
+01:08:29,738 --> 01:08:32,180
+[SPEAKER_02]: Yeah, it's just scrub.
+
+1343
+01:08:32,220 --> 01:08:34,301
+[SPEAKER_02]: There's a trail that goes up this way.
+
+1344
+01:08:35,302 --> 01:08:36,183
+[SPEAKER_02]: You know, it's like this.
+
+1345
+01:08:39,112 --> 01:08:39,552
+[SPEAKER_02]: Like that.
+
+1346
+01:08:39,632 --> 01:08:40,652
+[SPEAKER_02]: And there's scrub over here.
+
+1347
+01:08:40,833 --> 01:08:41,673
+[SPEAKER_04]: It's like cover.
+
+1348
+01:08:41,713 --> 01:08:45,554
+[SPEAKER_04]: But I can move easily through up the trail, though.
+
+1349
+01:08:45,974 --> 01:08:48,655
+[SPEAKER_02]: Yeah.
+
+1350
+01:08:50,915 --> 01:08:51,195
+[SPEAKER_04]: All right.
+
+1351
+01:08:52,836 --> 01:08:53,376
+[SPEAKER_04]: Let's go.
+
+1352
+01:08:53,396 --> 01:09:02,098
+[SPEAKER_02]: You move back one.
+
+1353
+01:09:02,198 --> 01:09:03,559
+[SPEAKER_02]: Here's the opportunity to attack.
+
+1354
+01:09:03,679 --> 01:09:03,919
+[SPEAKER_04]: Okay.
+
+1355
+01:09:03,979 --> 01:09:04,379
+[SPEAKER_02]: You ready?
+
+1356
+01:09:04,419 --> 01:09:04,639
+[SPEAKER_02]: Yep.
+
+1357
+01:09:06,481 --> 01:09:09,443
+[SPEAKER_02]: Ten plus five is fifteen.
+
+1358
+01:09:09,903 --> 01:09:10,523
+[SPEAKER_02]: I'm at eighteen.
+
+1359
+01:09:10,903 --> 01:09:11,664
+[SPEAKER_02]: You have an eighteen AC?
+
+1360
+01:09:11,764 --> 01:09:12,224
+[SPEAKER_02]: Yep.
+
+1361
+01:09:12,804 --> 01:09:14,585
+[SPEAKER_02]: His halberd blow is a stab.
+
+1362
+01:09:14,966 --> 01:09:16,006
+[SPEAKER_02]: You take it on your shield.
+
+1363
+01:09:16,947 --> 01:09:22,970
+[SPEAKER_04]: One, two, three, four, five, six.
+
+1364
+01:09:23,030 --> 01:09:24,651
+[SPEAKER_04]: Who's that one?
+
+1365
+01:09:25,171 --> 01:09:25,911
+[SPEAKER_04]: That is Folsom.
+
+1366
+01:09:26,452 --> 01:09:26,772
+[SPEAKER_02]: Okay.
+
+1367
+01:09:26,812 --> 01:09:27,992
+[SPEAKER_02]: So you run up next to Folsom.
+
+1368
+01:09:28,273 --> 01:09:29,393
+[SPEAKER_02]: I'm hanging out with Folsom.
+
+1369
+01:09:29,453 --> 01:09:29,973
+[SPEAKER_02]: He's my buddy.
+
+1370
+01:09:29,993 --> 01:09:30,534
+[SPEAKER_02]: He's my pal.
+
+1371
+01:09:33,271 --> 01:09:37,493
+[SPEAKER_02]: You're sitting there with your blade and your sword kind of protecting Pulsa's back.
+
+1372
+01:09:38,193 --> 01:09:42,295
+[SPEAKER_02]: As Gouge sits there looking at nine dudes heading towards him.
+
+1373
+01:09:42,355 --> 01:09:42,855
+[SPEAKER_02]: Eight dudes.
+
+1374
+01:09:43,235 --> 01:09:45,016
+[SPEAKER_03]: Yeah, but he can run away and disappear easily.
+
+1375
+01:09:45,056 --> 01:09:47,637
+[SPEAKER_03]: And I'm off my turns up.
+
+1376
+01:09:49,037 --> 01:09:53,239
+[SPEAKER_03]: Wish I'd known that Fog was leaving.
+
+1377
+01:09:53,579 --> 01:09:54,179
+[SPEAKER_04]: Your turn's over?
+
+1378
+01:09:54,480 --> 01:09:55,040
+[SPEAKER_00]: Oh yeah, I am.
+
+1379
+01:09:55,120 --> 01:09:55,920
+[SPEAKER_02]: So, you're done.
+
+1380
+01:09:57,221 --> 01:09:58,841
+[SPEAKER_00]: Your turn.
+
+1381
+01:09:58,861 --> 01:10:00,182
+[SPEAKER_00]: I, for a bonus action...
+
+1382
+01:10:01,438 --> 01:10:13,422
+[SPEAKER_00]: Yell at the army approaching, and I say, now that your leader is gone, or has fainted, I suggest you leave, for none of us are Owen Black.
+
+1383
+01:10:14,763 --> 01:10:15,103
+[SPEAKER_00]: Okay.
+
+1384
+01:10:15,383 --> 01:10:16,524
+[SPEAKER_00]: Roll your intimidation.
+
+1385
+01:10:16,904 --> 01:10:17,404
+[SPEAKER_00]: Roll.
+
+1386
+01:10:18,024 --> 01:10:18,484
+[SPEAKER_00]: Good call.
+
+1387
+01:10:22,026 --> 01:10:26,307
+[SPEAKER_00]: That's a nine plus six, so fifteen.
+
+1388
+01:10:26,407 --> 01:10:26,887
+[SPEAKER_00]: Fifteen.
+
+1389
+01:10:27,988 --> 01:10:28,348
+[SPEAKER_00]: Okay.
+
+1390
+01:10:30,603 --> 01:10:33,246
+[SPEAKER_00]: And then, for my action, I...
+
+1391
+01:10:33,266 --> 01:10:41,776
+[SPEAKER_00]: Okay, with Bardic Inspiration, can I use that as... Can I use a bonus action as an action?
+
+1392
+01:10:45,982 --> 01:10:46,303
+[SPEAKER_00]: No.
+
+1393
+01:10:47,523 --> 01:10:50,105
+[SPEAKER_02]: So you mean use an action as a bonus action?
+
+1394
+01:10:50,225 --> 01:10:50,545
+[SPEAKER_00]: Yeah.
+
+1395
+01:10:50,746 --> 01:10:53,587
+[SPEAKER_00]: Or no, I'm saying use a bonus action, like Bardic Inspiration.
+
+1396
+01:10:53,648 --> 01:10:56,289
+[SPEAKER_02]: No, you can never use a bonus action as an action.
+
+1397
+01:10:56,550 --> 01:10:57,790
+[SPEAKER_02]: Oh, that's a good...
+
+1398
+01:10:58,071 --> 01:10:58,731
+[SPEAKER_02]: I never thought of it.
+
+1399
+01:10:58,751 --> 01:11:02,934
+[SPEAKER_02]: But an action, I think, can be used to do something with a bonus action.
+
+1400
+01:11:03,094 --> 01:11:04,035
+[SPEAKER_04]: Okay, that would make sense.
+
+1401
+01:11:04,435 --> 01:11:08,117
+[SPEAKER_02]: Okay, but let me see for the... you want to use Bardic Inspiration.
+
+1402
+01:11:08,558 --> 01:11:09,959
+[SPEAKER_02]: But I can't use that as an action.
+
+1403
+01:11:16,648 --> 01:11:20,151
+[SPEAKER_04]: These are the little things that I need to get ironed out in my gameplay.
+
+1404
+01:11:20,311 --> 01:11:20,571
+[SPEAKER_04]: Yeah.
+
+1405
+01:11:21,412 --> 01:11:23,433
+[SPEAKER_04]: You know what I mean?
+
+1406
+01:11:23,753 --> 01:11:25,375
+[SPEAKER_00]: I said yeah as I'm like, yeah.
+
+1407
+01:11:26,235 --> 01:11:31,399
+[SPEAKER_02]: Well, what I would say is I would let you use your action to intimidate and then your bonus action to inspire.
+
+1408
+01:11:31,620 --> 01:11:31,900
+[SPEAKER_02]: Okay.
+
+1409
+01:11:33,481 --> 01:11:34,222
+[SPEAKER_00]: Is that all right to do?
+
+1410
+01:11:34,242 --> 01:11:34,622
+[SPEAKER_00]: That's fine.
+
+1411
+01:11:34,642 --> 01:11:42,088
+[SPEAKER_00]: For my action, I intimidate, and for my bonus action, I give Bard's inspiration to Gouge.
+
+1412
+01:11:42,148 --> 01:11:44,469
+[SPEAKER_02]: Okay, Gouge, you have a one-die six.
+
+1413
+01:11:45,252 --> 01:11:50,533
+[SPEAKER_02]: That you can use for saving throws and for attack rolls.
+
+1414
+01:11:51,373 --> 01:11:58,054
+[SPEAKER_02]: This adds a one-die, six, whatever roll you make for a saving throw, or an attack roll, or an ability check.
+
+1415
+01:11:58,174 --> 01:11:58,834
+[SPEAKER_00]: He gave you one.
+
+1416
+01:11:59,054 --> 01:12:00,255
+[SPEAKER_00]: He gave you one.
+
+1417
+01:12:00,295 --> 01:12:01,715
+[SPEAKER_00]: No, it's that pink one on the top.
+
+1418
+01:12:01,735 --> 01:12:02,275
+[SPEAKER_00]: You have to use it.
+
+1419
+01:12:02,295 --> 01:12:03,275
+[SPEAKER_00]: You have to use that one.
+
+1420
+01:12:03,875 --> 01:12:04,715
+[SPEAKER_00]: You have to.
+
+1421
+01:12:04,815 --> 01:12:05,335
+[SPEAKER_03]: Right here.
+
+1422
+01:12:05,375 --> 01:12:06,716
+[SPEAKER_03]: Oh, I didn't see it.
+
+1423
+01:12:06,736 --> 01:12:07,336
+[SPEAKER_00]: It's illegally.
+
+1424
+01:12:07,356 --> 01:12:09,436
+[SPEAKER_02]: It's got numbers on it.
+
+1425
+01:12:09,536 --> 01:12:09,996
+[SPEAKER_02]: Okay.
+
+1426
+01:12:10,056 --> 01:12:10,736
+[SPEAKER_00]: Do you want to move?
+
+1427
+01:12:11,216 --> 01:12:13,877
+[SPEAKER_00]: No, I want to stay behind Tyrus.
+
+1428
+01:12:14,297 --> 01:12:14,617
+[SPEAKER_02]: Okay.
+
+1429
+01:12:17,412 --> 01:12:20,214
+[SPEAKER_02]: All right, you guys have all gone.
+
+1430
+01:12:22,556 --> 01:12:25,057
+[SPEAKER_02]: One of these guys in the back says, protect the commander!
+
+1431
+01:12:27,579 --> 01:12:28,740
+[SPEAKER_02]: Ain't much left to protect.
+
+1432
+01:12:28,900 --> 01:12:31,261
+[SPEAKER_03]: Let's see about this.
+
+1433
+01:12:32,302 --> 01:12:36,145
+[SPEAKER_02]: One, two, three, four, five, six.
+
+1434
+01:12:36,565 --> 01:12:39,467
+[SPEAKER_03]: One guy goes to there.
+
+1435
+01:12:39,767 --> 01:12:44,110
+[SPEAKER_02]: This guy goes one, two, three, four, five to there.
+
+1436
+01:12:45,011 --> 01:12:46,432
+[SPEAKER_02]: This guy stands over his buddy.
+
+1437
+01:12:47,695 --> 01:12:47,995
+[SPEAKER_02]: There.
+
+1438
+01:12:51,898 --> 01:12:54,600
+[SPEAKER_02]: One, two, three, four, five, six to there.
+
+1439
+01:12:56,362 --> 01:12:58,784
+[SPEAKER_02]: One, two, three, four, five, six to there.
+
+1440
+01:12:59,624 --> 01:13:01,546
+[SPEAKER_02]: This guy is dodging.
+
+1441
+01:13:01,566 --> 01:13:02,647
+[SPEAKER_02]: This guy is dodging.
+
+1442
+01:13:08,251 --> 01:13:10,633
+[SPEAKER_02]: One, two, three, four, five to there.
+
+1443
+01:13:13,212 --> 01:13:15,654
+[SPEAKER_02]: One, two, three, four, five to there.
+
+1444
+01:13:16,114 --> 01:13:18,336
+[SPEAKER_02]: One, two, three, four, five to there.
+
+1445
+01:13:18,356 --> 01:13:19,216
+[SPEAKER_01]: This guy's dodging.
+
+1446
+01:13:19,937 --> 01:13:21,158
+[SPEAKER_01]: Okay, on you guys.
+
+1447
+01:13:21,178 --> 01:13:25,741
+[SPEAKER_02]: How many I got on me?
+
+1448
+01:13:25,821 --> 01:13:30,764
+[SPEAKER_02]: One, two, three, four, five guys attack you.
+
+1449
+01:13:30,784 --> 01:13:32,265
+[SPEAKER_02]: This guy attacks you with a mace.
+
+1450
+01:13:35,147 --> 01:13:38,610
+[SPEAKER_03]: Just out of curiosity, if they got halberds,
+
+1451
+01:13:39,595 --> 01:13:41,015
+[SPEAKER_03]: I guess they can thrust, right?
+
+1452
+01:13:41,435 --> 01:13:42,336
+[SPEAKER_03]: Yes.
+
+1453
+01:13:43,156 --> 01:13:46,477
+[SPEAKER_03]: For a close corner attack because it's not a swing.
+
+1454
+01:13:46,717 --> 01:13:48,357
+[SPEAKER_02]: You ready?
+
+1455
+01:13:48,937 --> 01:13:49,157
+[SPEAKER_02]: Nope.
+
+1456
+01:13:50,498 --> 01:13:54,258
+[SPEAKER_02]: First guy with his mace.
+
+1457
+01:13:54,398 --> 01:13:55,939
+[SPEAKER_02]: Six, eleven, miss.
+
+1458
+01:13:56,659 --> 01:13:57,899
+[SPEAKER_02]: This guy with his halibur.
+
+1459
+01:14:00,200 --> 01:14:01,080
+[SPEAKER_02]: Two, miss.
+
+1460
+01:14:01,640 --> 01:14:03,621
+[SPEAKER_02]: This guy with his mace.
+
+1461
+01:14:05,661 --> 01:14:08,942
+[SPEAKER_02]: Eight plus five is thirteen, miss.
+
+1462
+01:14:10,015 --> 01:14:13,958
+[SPEAKER_02]: This guy with his halibut, 20.
+
+1463
+01:14:14,218 --> 01:14:14,979
+[SPEAKER_02]: I use cutting words.
+
+1464
+01:14:18,541 --> 01:14:19,202
+[SPEAKER_02]: As a reaction?
+
+1465
+01:14:19,242 --> 01:14:19,382
+[SPEAKER_02]: Yep.
+
+1466
+01:14:20,263 --> 01:14:20,563
+[SPEAKER_02]: Okay.
+
+1467
+01:14:24,409 --> 01:14:26,049
+[SPEAKER_00]: Can you use Cutting Words as a reaction?
+
+1468
+01:14:26,690 --> 01:14:39,515
+[SPEAKER_00]: Also at third level you gain, when a creature that you can see within 60 fate makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one use of bardic inspiration, rolling a bardic inspiration die, and subtracting the number rolled from the creature's roll.
+
+1469
+01:14:40,196 --> 01:14:42,797
+[SPEAKER_00]: You can choose to use this feature, blah blah blah.
+
+1470
+01:14:43,277 --> 01:14:44,437
+[SPEAKER_02]: Okay, use Cutting Words.
+
+1471
+01:14:44,637 --> 01:14:46,218
+[SPEAKER_02]: We got a bard in the party, baby!
+
+1472
+01:14:46,238 --> 01:14:47,779
+[SPEAKER_02]: We got a bard in the party!
+
+1473
+01:14:47,799 --> 01:14:50,120
+[SPEAKER_02]: Use Cutting Words and roll, do the minus from the 20.
+
+1474
+01:14:51,870 --> 01:14:52,090
+[SPEAKER_03]: Four.
+
+1475
+01:14:52,350 --> 01:14:53,090
+[SPEAKER_02]: Sixteen.
+
+1476
+01:14:53,110 --> 01:14:53,811
+[SPEAKER_02]: Oh, wait.
+
+1477
+01:14:54,231 --> 01:14:55,071
+[SPEAKER_02]: He rolled a twenty.
+
+1478
+01:14:55,091 --> 01:14:55,191
+[SPEAKER_02]: Yep.
+
+1479
+01:14:56,471 --> 01:14:57,591
+[SPEAKER_02]: Which is a sixteen.
+
+1480
+01:14:57,611 --> 01:14:57,972
+[SPEAKER_02]: Yep.
+
+1481
+01:14:58,472 --> 01:14:59,572
+[SPEAKER_02]: But he's got a plus five.
+
+1482
+01:14:59,632 --> 01:15:00,292
+[SPEAKER_02]: Twenty-one.
+
+1483
+01:15:00,812 --> 01:15:02,853
+[SPEAKER_02]: It hits, but it's not a critical.
+
+1484
+01:15:05,193 --> 01:15:07,054
+[SPEAKER_02]: Yeah, we got a Barney party, baby!
+
+1485
+01:15:07,794 --> 01:15:11,615
+[SPEAKER_02]: So, you take six plus...
+
+1486
+01:15:13,558 --> 01:15:18,682
+[SPEAKER_02]: No, 6 plus... 6 plus 3, you take 9 points of damage.
+
+1487
+01:15:18,722 --> 01:15:22,586
+[SPEAKER_02]: Do you want to use the reaction to do your half damage?
+
+1488
+01:15:22,746 --> 01:15:25,309
+[SPEAKER_04]: I'm gonna get hit a lot harder than that, I got a feeling.
+
+1489
+01:15:25,329 --> 01:15:26,330
+[SPEAKER_03]: That's not a weird beard, is it?
+
+1490
+01:15:26,350 --> 01:15:28,172
+[SPEAKER_03]: Okay, this guy with his haliburn.
+
+1491
+01:15:38,513 --> 01:15:40,996
+[SPEAKER_02]: 12 plus 5 is 17.
+
+1492
+01:15:41,796 --> 01:15:42,637
+[SPEAKER_02]: That's a hit.
+
+1493
+01:15:44,299 --> 01:15:45,900
+[SPEAKER_03]: I don't have my stone up.
+
+1494
+01:15:45,920 --> 01:15:47,142
+[SPEAKER_03]: Still would have been a hit though.
+
+1495
+01:15:48,143 --> 01:15:51,266
+[SPEAKER_02]: That's 6 plus 3, 9 more.
+
+1496
+01:15:53,088 --> 01:15:54,269
+[SPEAKER_02]: Do you want to take that reaction?
+
+1497
+01:15:56,165 --> 01:15:57,285
+[SPEAKER_02]: Pretty much the end of the round.
+
+1498
+01:15:57,446 --> 01:15:57,706
+[SPEAKER_00]: Yeah.
+
+1499
+01:15:58,206 --> 01:15:58,626
+[SPEAKER_00]: Half damage.
+
+1500
+01:15:58,766 --> 01:15:59,326
+[SPEAKER_02]: You take four.
+
+1501
+01:16:00,046 --> 01:16:04,968
+[SPEAKER_00]: I was gonna say I can only use a reaction once during... You only have one reaction per round.
+
+1502
+01:16:05,088 --> 01:16:05,748
+[SPEAKER_00]: Okay.
+
+1503
+01:16:06,388 --> 01:16:07,369
+[SPEAKER_04]: That was a very good use.
+
+1504
+01:16:07,549 --> 01:16:08,549
+[SPEAKER_04]: That was very good.
+
+1505
+01:16:08,569 --> 01:16:10,030
+[SPEAKER_04]: Save my ass.
+
+1506
+01:16:12,671 --> 01:16:13,151
+Oh, man.
+
+1507
+01:16:13,651 --> 01:16:14,011
+[SPEAKER_01]: All right.
+
+1508
+01:16:14,551 --> 01:16:14,951
+[SPEAKER_04]: Anish.
+
+1509
+01:16:19,953 --> 01:16:20,633
+[SPEAKER_04]: Tyrus gets a 14.
+
+1510
+01:16:20,653 --> 01:16:20,913
+[SPEAKER_04]: Ten.
+
+1511
+01:16:24,417 --> 01:16:27,738
+[SPEAKER_01]: Oh yeah, 14.
+
+1512
+01:16:27,778 --> 01:16:27,958
+[SPEAKER_01]: 22.
+
+1513
+01:16:27,978 --> 01:16:32,499
+[SPEAKER_01]: 14.
+
+1514
+01:16:32,660 --> 01:16:33,800
+[SPEAKER_02]: And Folsom, what'd you get?
+
+1515
+01:16:33,980 --> 01:16:34,420
+[SPEAKER_02]: 14.
+
+1516
+01:16:34,660 --> 01:16:34,960
+[SPEAKER_02]: Okay.
+
+1517
+01:16:36,221 --> 01:16:36,601
+[SPEAKER_02]: Men.
+
+1518
+01:16:38,321 --> 01:16:39,061
+[SPEAKER_02]: Low, low, low.
+
+1519
+01:16:39,322 --> 01:16:39,982
+[SPEAKER_02]: An 8.
+
+1520
+01:16:40,582 --> 01:16:43,723
+[SPEAKER_03]: Oh, thank god!
+
+1521
+01:16:43,783 --> 01:16:44,923
+[SPEAKER_02]: Actually, I have a 15, too.
+
+1522
+01:16:45,843 --> 01:16:46,984
+[SPEAKER_02]: Okay, so these guys...
+
+1523
+01:16:48,069 --> 01:16:51,373
+[SPEAKER_02]: Right here are dodging, which means that they're attacking.
+
+1524
+01:16:51,513 --> 01:16:53,075
+[SPEAKER_02]: Attacking them is a disadvantage.
+
+1525
+01:16:53,835 --> 01:16:55,978
+[SPEAKER_02]: And attacking the guys behind them, you can't.
+
+1526
+01:16:56,398 --> 01:16:57,780
+[SPEAKER_02]: They're basically shield walling.
+
+1527
+01:16:59,482 --> 01:17:03,906
+[SPEAKER_02]: So you cannot hit the- You can attack them, but it's like they get a plus five to their AC.
+
+1528
+01:17:11,452 --> 01:17:12,953
+[SPEAKER_02]: Oh, I'm going last from you guys.
+
+1529
+01:17:12,973 --> 01:17:13,614
+[SPEAKER_02]: You're going last.
+
+1530
+01:17:13,794 --> 01:17:14,494
+[SPEAKER_04]: Merrick, you're first.
+
+1531
+01:17:14,514 --> 01:17:15,635
+[SPEAKER_04]: How many guys do I got on me?
+
+1532
+01:17:15,655 --> 01:17:17,456
+[SPEAKER_04]: The one guy we want to go first is going last.
+
+1533
+01:17:17,476 --> 01:17:23,241
+[SPEAKER_02]: You have one, two, three, four, five, five guys that can attack you.
+
+1534
+01:17:27,524 --> 01:17:27,744
+[SPEAKER_01]: Okay.
+
+1535
+01:17:27,784 --> 01:17:28,244
+[SPEAKER_01]: Fuck me.
+
+1536
+01:17:28,925 --> 01:17:29,205
+[SPEAKER_01]: Okay.
+
+1537
+01:17:29,225 --> 01:17:31,547
+[SPEAKER_01]: All right.
+
+1538
+01:17:31,787 --> 01:17:32,608
+[SPEAKER_01]: Okay.
+
+1539
+01:17:39,042 --> 01:17:40,203
+[SPEAKER_04]: So who's up first?
+
+1540
+01:17:40,323 --> 01:17:40,683
+[SPEAKER_04]: Merrick.
+
+1541
+01:17:40,803 --> 01:17:41,344
+[SPEAKER_04]: Merrick is.
+
+1542
+01:17:41,524 --> 01:17:45,807
+[SPEAKER_04]: And then me and Folsom?
+
+1543
+01:17:46,327 --> 01:17:46,587
+[SPEAKER_02]: Yes.
+
+1544
+01:17:47,248 --> 01:17:47,828
+[SPEAKER_04]: You're fine.
+
+1545
+01:17:49,309 --> 01:17:50,850
+[SPEAKER_01]: Okay, um...
+
+1546
+01:17:51,090 --> 01:18:01,558
+[SPEAKER_01]: I don't have anything... Merrick, up to me.
+
+1547
+01:18:03,539 --> 01:18:05,000
+[SPEAKER_03]: You see this way.
+
+1548
+01:18:05,801 --> 01:18:06,621
+[SPEAKER_02]: It's still about 120 feet.
+
+1549
+01:18:08,573 --> 01:18:09,053
+[SPEAKER_01]: More men.
+
+1550
+01:18:09,293 --> 01:18:11,634
+[SPEAKER_01]: I'm gonna use the two spell slots.
+
+1551
+01:18:12,534 --> 01:18:14,074
+[SPEAKER_01]: Is the horse around or is that thing gone?
+
+1552
+01:18:14,094 --> 01:18:15,694
+[SPEAKER_02]: That horse is like over that way.
+
+1553
+01:18:15,734 --> 01:18:18,335
+[SPEAKER_02]: You could probably track it, but, you know, it's run off.
+
+1554
+01:18:19,835 --> 01:18:20,035
+[SPEAKER_01]: And...
+
+1555
+01:18:21,896 --> 01:18:22,496
+[SPEAKER_01]: Okay.
+
+1556
+01:18:22,536 --> 01:18:28,897
+[SPEAKER_01]: I was like, we need... And I can't cast spells again, right?
+
+1557
+01:18:29,137 --> 01:18:30,797
+[SPEAKER_01]: You've used all your spell slots.
+
+1558
+01:18:30,917 --> 01:18:31,177
+[SPEAKER_01]: Okay.
+
+1559
+01:18:31,598 --> 01:18:31,858
+[SPEAKER_01]: Shit.
+
+1560
+01:18:32,658 --> 01:18:33,678
+[SPEAKER_02]: You still have Hunter's Mark.
+
+1561
+01:18:35,747 --> 01:18:36,648
+[SPEAKER_01]: You have it on a guy.
+
+1562
+01:18:36,668 --> 01:18:38,329
+[SPEAKER_01]: I have it on a guy and I can move it, but yeah.
+
+1563
+01:18:38,389 --> 01:18:38,709
+[SPEAKER_01]: That guy.
+
+1564
+01:18:39,649 --> 01:18:40,490
+[SPEAKER_01]: Oh, shit.
+
+1565
+01:18:41,070 --> 01:18:41,610
+[SPEAKER_01]: Is it...
+
+1566
+01:18:41,791 --> 01:18:45,193
+[SPEAKER_01]: I'm on the... Am I near any ships?
+
+1567
+01:18:45,213 --> 01:18:46,153
+[SPEAKER_01]: We're on the dock, right?
+
+1568
+01:18:46,633 --> 01:18:47,814
+[SPEAKER_01]: Docks are that way.
+
+1569
+01:18:48,134 --> 01:18:48,755
+[SPEAKER_02]: Quite a ways.
+
+1570
+01:18:49,555 --> 01:18:49,815
+[SPEAKER_01]: Okay.
+
+1571
+01:18:49,975 --> 01:18:53,637
+[SPEAKER_02]: Now, you should know this is your terrain.
+
+1572
+01:18:53,978 --> 01:18:54,238
+[SPEAKER_02]: Yes.
+
+1573
+01:18:54,418 --> 01:18:55,839
+[SPEAKER_02]: The coastal terrain is your terrain.
+
+1574
+01:18:55,899 --> 01:18:55,999
+[SPEAKER_02]: Yes.
+
+1575
+01:18:56,019 --> 01:19:01,662
+[SPEAKER_02]: Which means that you can move through difficult terrain in this area at normal speed.
+
+1576
+01:19:02,703 --> 01:19:03,023
+[SPEAKER_01]: Okay.
+
+1577
+01:19:04,083 --> 01:19:05,663
+[SPEAKER_01]: Well, we gotta get the fuck out of here.
+
+1578
+01:19:05,683 --> 01:19:07,284
+[SPEAKER_01]: That's what I'm saying.
+
+1579
+01:19:07,304 --> 01:19:09,805
+[SPEAKER_01]: I'm not doing this all the time.
+
+1580
+01:19:14,426 --> 01:19:18,287
+[SPEAKER_01]: I don't have nothing to do besides attack or yell at people.
+
+1581
+01:19:19,167 --> 01:19:19,867
+[SPEAKER_02]: You can do both.
+
+1582
+01:19:19,967 --> 01:19:20,988
+[SPEAKER_02]: You can also move.
+
+1583
+01:19:21,428 --> 01:19:21,708
+[SPEAKER_01]: Yeah.
+
+1584
+01:19:23,948 --> 01:19:30,070
+[SPEAKER_01]: I'm gonna shoot at that guy once more, and then I'm gonna yell and be like,
+
+1585
+01:19:30,710 --> 01:19:31,330
+[SPEAKER_01]: We gotta go.
+
+1586
+01:19:31,611 --> 01:19:33,472
+[SPEAKER_01]: We have seen a ton of people coming.
+
+1587
+01:19:33,492 --> 01:19:35,473
+[SPEAKER_01]: We gotta get out of here.
+
+1588
+01:19:35,714 --> 01:19:36,454
+[SPEAKER_01]: You fired that guy.
+
+1589
+01:19:36,494 --> 01:19:37,114
+[SPEAKER_02]: Fired that guy.
+
+1590
+01:19:38,515 --> 01:19:42,158
+[SPEAKER_01]: Ooh, where's he?
+
+1591
+01:19:42,298 --> 01:19:44,760
+[SPEAKER_01]: 12 plus 7, so that's 19.
+
+1592
+01:19:44,860 --> 01:19:45,941
+[SPEAKER_01]: 19, that is a hit.
+
+1593
+01:19:46,001 --> 01:19:50,984
+[SPEAKER_02]: And then, because he has Hunter's Mark on him, so it's 1-8 plus 6.
+
+1594
+01:19:51,104 --> 01:19:52,965
+[SPEAKER_02]: 1-8 and a 1-6 plus your 3.
+
+1595
+01:19:53,005 --> 01:19:53,165
+[SPEAKER_02]: Yes.
+
+1596
+01:19:53,185 --> 01:19:57,869
+[SPEAKER_02]: 3 plus 3 is 6.
+
+1597
+01:20:04,228 --> 01:20:04,428
+[SPEAKER_01]: Cool.
+
+1598
+01:20:04,508 --> 01:20:06,749
+[SPEAKER_01]: And I'm going to start...can I move?
+
+1599
+01:20:06,849 --> 01:20:07,129
+[SPEAKER_01]: Yeah.
+
+1600
+01:20:07,149 --> 01:20:07,449
+[SPEAKER_01]: Okay.
+
+1601
+01:20:07,989 --> 01:20:12,790
+[SPEAKER_02]: I'm going to... One, two, three, four, five, six.
+
+1602
+01:20:13,991 --> 01:20:20,393
+[SPEAKER_02]: So, Merrick is basically like, let's go, and backs up 30 feet.
+
+1603
+01:20:22,613 --> 01:20:24,254
+[SPEAKER_02]: That's Merrick.
+
+1604
+01:20:24,374 --> 01:20:27,294
+[SPEAKER_02]: Tyrus Folsom, what's your dexterity, Tyrus?
+
+1605
+01:20:27,555 --> 01:20:27,675
+[SPEAKER_04]: 15.
+
+1606
+01:20:27,775 --> 01:20:29,315
+[SPEAKER_04]: This is a 15 also.
+
+1607
+01:20:29,535 --> 01:20:29,795
+[SPEAKER_02]: All right.
+
+1608
+01:20:30,335 --> 01:20:31,075
+[SPEAKER_02]: Who wants to go first?
+
+1609
+01:20:31,536 --> 01:20:32,596
+[SPEAKER_04]: He can go first.
+
+1610
+01:20:40,473 --> 01:20:42,194
+[SPEAKER_04]: Unless you want me to go first.
+
+1611
+01:20:43,354 --> 01:20:44,135
+[SPEAKER_04]: Yeah, you can go first.
+
+1612
+01:20:44,255 --> 01:20:45,115
+[SPEAKER_04]: Okay.
+
+1613
+01:20:45,155 --> 01:20:50,998
+[SPEAKER_04]: So, I'm gonna cast... How many smites have you got?
+
+1614
+01:20:51,018 --> 01:20:51,218
+[SPEAKER_04]: Two.
+
+1615
+01:20:51,618 --> 01:20:52,519
+[SPEAKER_04]: Okay, you have one left?
+
+1616
+01:20:52,879 --> 01:20:53,899
+[SPEAKER_04]: Yeah, I have one left.
+
+1617
+01:20:54,039 --> 01:20:55,100
+[SPEAKER_04]: I have one spell slot left.
+
+1618
+01:20:55,340 --> 01:20:56,641
+[SPEAKER_04]: Okay.
+
+1619
+01:20:56,841 --> 01:21:01,463
+[SPEAKER_04]: No, I wasn't gonna have it.
+
+1620
+01:21:04,444 --> 01:21:05,405
+[SPEAKER_01]: I was really mad.
+
+1621
+01:21:07,037 --> 01:21:09,719
+[SPEAKER_04]: Did you do any lay-on-hands when you rested?
+
+1622
+01:21:09,739 --> 01:21:11,420
+[SPEAKER_04]: I didn't.
+
+1623
+01:21:11,720 --> 01:21:18,946
+[SPEAKER_04]: I kept my lay-on-hands and used my dice roll for that because the lay-on-hands I can do in the moment.
+
+1624
+01:21:19,886 --> 01:21:21,328
+[SPEAKER_04]: Good idea.
+
+1625
+01:21:21,428 --> 01:21:25,851
+[SPEAKER_04]: How many spell slots?
+
+1626
+01:21:25,911 --> 01:21:28,273
+[SPEAKER_04]: I've got to figure out how many spell slots I think I have.
+
+1627
+01:21:28,413 --> 01:21:29,013
+[SPEAKER_02]: You have three.
+
+1628
+01:21:29,273 --> 01:21:29,714
+[SPEAKER_04]: That's right.
+
+1629
+01:21:29,814 --> 01:21:30,314
+[SPEAKER_04]: First level.
+
+1630
+01:21:30,454 --> 01:21:31,015
+[SPEAKER_04]: That's what I thought.
+
+1631
+01:21:31,695 --> 01:21:33,837
+[SPEAKER_04]: So then I'm going to cast then at this point.
+
+1632
+01:21:43,364 --> 01:21:44,144
+[SPEAKER_04]: Shield of Faith.
+
+1633
+01:21:48,046 --> 01:21:58,672
+[SPEAKER_04]: The Shimmering Field appears around a, surrounds a creature of your choice within range, granting a plus two bonus to AC for the duration of it.
+
+1634
+01:21:58,932 --> 01:21:59,892
+[SPEAKER_04]: And the range is what?
+
+1635
+01:21:59,932 --> 01:22:00,733
+[SPEAKER_02]: 30 feet?
+
+1636
+01:22:00,933 --> 01:22:01,573
+[SPEAKER_02]: 60 feet?
+
+1637
+01:22:02,073 --> 01:22:02,554
+[SPEAKER_04]: Touch?
+
+1638
+01:22:03,614 --> 01:22:04,475
+[SPEAKER_04]: I hope it's not touch.
+
+1639
+01:22:18,840 --> 01:22:20,641
+[SPEAKER_02]: I think it's 30 feet, but let's see.
+
+1640
+01:22:23,864 --> 01:22:25,425
+[SPEAKER_04]: Oh, man.
+
+1641
+01:22:25,485 --> 01:22:25,806
+[SPEAKER_04]: 60 feet.
+
+1642
+01:22:26,186 --> 01:22:26,446
+[SPEAKER_04]: Okay.
+
+1643
+01:22:27,007 --> 01:22:29,569
+[SPEAKER_04]: So Gouge is definitely within that range of things.
+
+1644
+01:22:30,169 --> 01:22:30,429
+[SPEAKER_04]: Oh, yeah.
+
+1645
+01:22:30,449 --> 01:22:30,610
+[SPEAKER_02]: Okay.
+
+1646
+01:22:30,630 --> 01:22:31,450
+[SPEAKER_02]: He's within 30 of you.
+
+1647
+01:22:31,770 --> 01:22:31,951
+[SPEAKER_04]: Yeah.
+
+1648
+01:22:32,251 --> 01:22:38,076
+[SPEAKER_04]: So then I'm gonna cast that on Gouge.
+
+1649
+01:22:39,076 --> 01:22:40,818
+[SPEAKER_04]: Make your saving throw.
+
+1650
+01:22:42,373 --> 01:22:45,594
+[SPEAKER_04]: Shimmering Fields surrounds a creature of your choices in range.
+
+1651
+01:22:45,634 --> 01:22:49,416
+[SPEAKER_02]: Gouge, plus two to AC for duration.
+
+1652
+01:22:50,696 --> 01:22:52,917
+[SPEAKER_04]: And I didn't see how long that lasted either.
+
+1653
+01:22:53,097 --> 01:22:55,058
+[SPEAKER_02]: It lasted ten minutes.
+
+1654
+01:22:55,278 --> 01:22:59,080
+[SPEAKER_04]: He gets a plus two bonus to his AC at this point.
+
+1655
+01:23:00,721 --> 01:23:01,861
+[SPEAKER_04]: That's my action.
+
+1656
+01:23:02,041 --> 01:23:05,803
+[SPEAKER_03]: So I'm rolling a plus two to AC at this point.
+
+1657
+01:23:06,988 --> 01:23:07,648
+[SPEAKER_03]: Did it burn?
+
+1658
+01:23:08,148 --> 01:23:08,869
+[SPEAKER_03]: It does.
+
+1659
+01:23:08,889 --> 01:23:09,389
+[SPEAKER_03]: It does.
+
+1660
+01:23:09,609 --> 01:23:11,790
+[SPEAKER_02]: It puts you on edge.
+
+1661
+01:23:11,870 --> 01:23:13,730
+[SPEAKER_02]: It makes you annoyed.
+
+1662
+01:23:13,810 --> 01:23:14,671
+[SPEAKER_02]: I feel sober.
+
+1663
+01:23:14,731 --> 01:23:17,492
+[SPEAKER_03]: This ain't good.
+
+1664
+01:23:17,572 --> 01:23:19,612
+[SPEAKER_00]: All of a sudden, your taint comes alive.
+
+1665
+01:23:19,712 --> 01:23:21,633
+[SPEAKER_01]: And then, as a... Let's see, this is where I don't know.
+
+1666
+01:23:38,055 --> 01:23:46,918
+[SPEAKER_04]: This is an action or a bonus action.
+
+1667
+01:23:48,518 --> 01:23:52,639
+[SPEAKER_04]: By turning the tide, it's a bonus action.
+
+1668
+01:23:52,699 --> 01:23:55,980
+[SPEAKER_04]: You can bolster an injured creature with your Channel Divinity.
+
+1669
+01:23:57,281 --> 01:24:00,461
+[SPEAKER_04]: Each creature of your choice can hear you within 30 feet.
+
+1670
+01:24:01,862 --> 01:24:05,163
+[SPEAKER_04]: Regains hit points equal to 1 to 6 plus your charisma.
+
+1671
+01:24:06,285 --> 01:24:06,546
+[SPEAKER_04]: Right?
+
+1672
+01:24:07,687 --> 01:24:09,150
+[SPEAKER_04]: So, he's taking some hits.
+
+1673
+01:24:10,271 --> 01:24:10,532
+[SPEAKER_04]: True.
+
+1674
+01:24:10,812 --> 01:24:12,515
+[SPEAKER_04]: If you want to use your action, you can do that.
+
+1675
+01:24:12,655 --> 01:24:14,438
+[SPEAKER_04]: No, it says as a bonus action.
+
+1676
+01:24:14,738 --> 01:24:14,939
+[SPEAKER_00]: Yes.
+
+1677
+01:24:15,640 --> 01:24:17,462
+[SPEAKER_04]: So, my action was to cast the spell.
+
+1678
+01:24:17,482 --> 01:24:17,983
+[SPEAKER_04]: Cast the spell.
+
+1679
+01:24:19,073 --> 01:24:20,633
+[SPEAKER_04]: This is not a cast of spell.
+
+1680
+01:24:20,673 --> 01:24:22,414
+[SPEAKER_04]: And how many creatures can you affect?
+
+1681
+01:24:22,694 --> 01:24:29,076
+[SPEAKER_04]: It says as a bonus action, you can bolster injured creatures within your channel divinity.
+
+1682
+01:24:29,176 --> 01:24:31,797
+[SPEAKER_04]: Each creature of your choice can hear you.
+
+1683
+01:24:32,097 --> 01:24:32,817
+[SPEAKER_04]: They can hear you.
+
+1684
+01:24:32,997 --> 01:24:35,338
+[SPEAKER_02]: So it's within 30 feet range?
+
+1685
+01:24:35,378 --> 01:24:35,738
+[SPEAKER_04]: 30 feet.
+
+1686
+01:24:36,318 --> 01:24:42,720
+[SPEAKER_02]: So, 1, 2, 3, 4, 5, him, him, 1, 2, 3, 4, 5, 6, him.
+
+1687
+01:24:43,200 --> 01:24:46,701
+[SPEAKER_02]: All your friends will gain a 1-6 plus your charisma.
+
+1688
+01:24:47,302 --> 01:24:47,602
+[SPEAKER_04]: Okay.
+
+1689
+01:24:48,663 --> 01:24:49,885
+[SPEAKER_02]: And so you're injured.
+
+1690
+01:24:50,045 --> 01:24:50,765
+[SPEAKER_02]: He's not injured.
+
+1691
+01:24:51,126 --> 01:24:51,846
+[SPEAKER_02]: I'm injured, yeah.
+
+1692
+01:24:52,087 --> 01:24:53,708
+[SPEAKER_02]: He's got two hit points off him.
+
+1693
+01:24:53,808 --> 01:24:55,170
+[SPEAKER_04]: Oh, okay.
+
+1694
+01:24:55,430 --> 01:24:57,292
+[SPEAKER_03]: And you're definitely- He doesn't do it on himself, though?
+
+1695
+01:24:57,592 --> 01:24:57,792
+[SPEAKER_03]: No.
+
+1696
+01:24:57,932 --> 01:24:58,413
+[SPEAKER_03]: No.
+
+1697
+01:24:59,494 --> 01:25:00,895
+[SPEAKER_03]: And you're injured, and he's injured.
+
+1698
+01:25:00,915 --> 01:25:02,657
+[SPEAKER_03]: There's a fucking paladin there or something?
+
+1699
+01:25:02,737 --> 01:25:03,898
+[SPEAKER_04]: Yeah, yeah, paladin's thing.
+
+1700
+01:25:03,918 --> 01:25:04,859
+[SPEAKER_04]: They think of other people.
+
+1701
+01:25:04,899 --> 01:25:05,960
+[SPEAKER_00]: Try it sometimes, okay?
+
+1702
+01:25:10,075 --> 01:25:12,756
+[SPEAKER_04]: So one die six, so do I get to roll that or do they roll their own?
+
+1703
+01:25:13,136 --> 01:25:17,417
+[SPEAKER_02]: Everybody gets to roll their own plus your charisma bonus, which is plus how many?
+
+1704
+01:25:17,937 --> 01:25:20,397
+[SPEAKER_04]: My charisma bonus is plus three.
+
+1705
+01:25:20,497 --> 01:25:22,538
+[SPEAKER_04]: So I actually get a negative one with mine.
+
+1706
+01:25:23,678 --> 01:25:26,679
+[SPEAKER_03]: No, his charisma bonus, not your charisma bonus.
+
+1707
+01:25:26,919 --> 01:25:31,180
+[SPEAKER_02]: So everybody roll one die six and add three to it and that's how many hit points you get back.
+
+1708
+01:25:31,460 --> 01:25:31,620
+[SPEAKER_02]: Nine!
+
+1709
+01:25:33,839 --> 01:25:34,019
+[SPEAKER_02]: No.
+
+1710
+01:25:34,199 --> 01:25:35,059
+[SPEAKER_02]: Nine!
+
+1711
+01:25:35,560 --> 01:25:37,420
+[SPEAKER_00]: I was full anyways.
+
+1712
+01:25:37,520 --> 01:25:40,241
+[SPEAKER_02]: That was an eight-sided.
+
+1713
+01:25:40,601 --> 01:25:41,601
+[SPEAKER_02]: I got a little too excited.
+
+1714
+01:25:41,801 --> 01:25:42,802
+[SPEAKER_00]: No, you had two off of you.
+
+1715
+01:25:42,962 --> 01:25:43,702
+[SPEAKER_00]: One die six plus.
+
+1716
+01:25:44,102 --> 01:25:45,282
+[SPEAKER_02]: Yeah, but I got them all back.
+
+1717
+01:25:45,302 --> 01:25:47,063
+[SPEAKER_02]: Four plus, you get seven back.
+
+1718
+01:25:47,903 --> 01:25:48,943
+[SPEAKER_02]: Do you have any off you?
+
+1719
+01:25:49,363 --> 01:25:49,543
+[SPEAKER_02]: I do.
+
+1720
+01:25:49,583 --> 01:25:50,624
+[SPEAKER_04]: I have eight off me.
+
+1721
+01:25:50,724 --> 01:25:51,584
+[SPEAKER_04]: Oh, well, there you go.
+
+1722
+01:25:51,624 --> 01:25:52,864
+[SPEAKER_04]: There you go.
+
+1723
+01:25:52,884 --> 01:25:56,285
+[SPEAKER_04]: So that completes my action bonus action, and I am not going to move.
+
+1724
+01:25:56,305 --> 01:25:59,886
+[SPEAKER_04]: I'm going to continue to block Folsom, like, protect him.
+
+1725
+01:26:00,646 --> 01:26:01,727
+[SPEAKER_02]: Well, he's going to move.
+
+1726
+01:26:01,887 --> 01:26:02,187
+[SPEAKER_02]: Okay.
+
+1727
+01:26:03,502 --> 01:26:07,843
+[SPEAKER_04]: And then I'm gonna say- He could move, he might- Get out of there!
+
+1728
+01:26:08,764 --> 01:26:10,504
+[SPEAKER_02]: Are you gonna run, or are you gonna stay where you are?
+
+1729
+01:26:10,524 --> 01:26:14,805
+[SPEAKER_04]: No, I'm gonna stay where I'm at, but I'm gonna make sure Gouge gets out of there.
+
+1730
+01:26:14,825 --> 01:26:15,966
+[SPEAKER_04]: You get out of there.
+
+1731
+01:26:16,306 --> 01:26:16,726
+Okay.
+
+1732
+01:26:17,366 --> 01:26:17,726
+[SPEAKER_00]: My turn?
+
+1733
+01:26:18,627 --> 01:26:20,287
+[SPEAKER_00]: Does that help me with your turn?
+
+1734
+01:26:20,747 --> 01:26:20,967
+[SPEAKER_00]: Yeah.
+
+1735
+01:26:21,407 --> 01:26:22,688
+[SPEAKER_00]: With, uh, healing words.
+
+1736
+01:26:23,568 --> 01:26:25,128
+[SPEAKER_00]: Is it, um...
+
+1737
+01:26:26,969 --> 01:26:29,570
+[SPEAKER_00]: It says, plus my spell-casting modifier.
+
+1738
+01:26:31,488 --> 01:26:32,849
+[SPEAKER_00]: Or spellcasting ability.
+
+1739
+01:26:33,250 --> 01:26:39,054
+[SPEAKER_00]: It's a 1 die 4 plus... Plus your Charisma bonus, which at this point is plus 5.
+
+1740
+01:26:39,295 --> 01:26:41,777
+[SPEAKER_02]: It's plus my Charisma bonus.
+
+1741
+01:26:41,817 --> 01:26:42,497
+[SPEAKER_02]: How many spells?
+
+1742
+01:26:42,517 --> 01:26:43,558
+[SPEAKER_02]: You haven't cast any spells.
+
+1743
+01:26:43,578 --> 01:26:45,700
+[SPEAKER_02]: I haven't cast any spells.
+
+1744
+01:26:46,160 --> 01:26:47,201
+[SPEAKER_00]: That is the best bit.
+
+1745
+01:26:48,062 --> 01:26:51,064
+[SPEAKER_00]: For my action, I'm going to Message Gouge.
+
+1746
+01:27:01,825 --> 01:27:03,966
+[SPEAKER_00]: No, I was gonna eat the chip you just ate.
+
+1747
+01:27:04,306 --> 01:27:04,506
+[SPEAKER_00]: Okay.
+
+1748
+01:27:04,526 --> 01:27:05,406
+[SPEAKER_00]: I'm gonna message Gouge.
+
+1749
+01:27:05,446 --> 01:27:09,947
+[SPEAKER_02]: I mean, if you don't care about people hearing what you say, you can actually talk to them.
+
+1750
+01:27:09,987 --> 01:27:13,028
+[SPEAKER_00]: I know, but like, I don't think I want the other people to hear it.
+
+1751
+01:27:13,368 --> 01:27:13,748
+[SPEAKER_00]: Okay.
+
+1752
+01:27:14,528 --> 01:27:17,209
+[SPEAKER_00]: I message to Gouge, and I say...
+
+1753
+01:27:20,229 --> 01:27:20,590
+[SPEAKER_00]: I say...
+
+1754
+01:27:20,990 --> 01:27:21,750
+[SPEAKER_00]: Your tank's burning.
+
+1755
+01:27:21,790 --> 01:27:26,171
+[SPEAKER_00]: I had it planned and then I lost it.
+
+1756
+01:27:28,051 --> 01:27:30,592
+[SPEAKER_00]: We need to retreat or surrender.
+
+1757
+01:27:32,010 --> 01:27:33,471
+[SPEAKER_00]: Because they're after Owen Black.
+
+1758
+01:27:34,412 --> 01:27:35,632
+[SPEAKER_00]: They might be on our side.
+
+1759
+01:27:38,975 --> 01:27:39,995
+[SPEAKER_00]: Retreat No Shed.
+
+1760
+01:27:41,636 --> 01:27:42,857
+[SPEAKER_00]: Okay.
+
+1761
+01:27:43,838 --> 01:27:45,099
+[SPEAKER_00]: What do you do?
+
+1762
+01:27:45,139 --> 01:27:51,663
+[SPEAKER_00]: For my bonus action, I cast Healing Weirdbeard.
+
+1763
+01:27:52,063 --> 01:27:53,204
+[SPEAKER_00]: Word on Gouge.
+
+1764
+01:27:55,606 --> 01:27:56,887
+[SPEAKER_02]: Bonus action, Healing Word.
+
+1765
+01:27:57,927 --> 01:27:59,729
+[SPEAKER_02]: One die, four, plus your Christmas bonus.
+
+1766
+01:28:01,504 --> 01:28:06,267
+[SPEAKER_02]: You lose the spell slot, but give Gouge...
+
+1767
+01:28:06,347 --> 01:28:11,010
+[SPEAKER_02]: I'll be full, because that was...
+
+1768
+01:28:11,030 --> 01:28:11,350
+[SPEAKER_02]: Eight.
+
+1769
+01:28:11,990 --> 01:28:12,511
+[SPEAKER_02]: Nine.
+
+1770
+01:28:12,791 --> 01:28:14,192
+[SPEAKER_02]: Do you want to move?
+
+1771
+01:28:16,233 --> 01:28:21,096
+[SPEAKER_00]: I'll move 20 feet back between... One, two, three, four to there?
+
+1772
+01:28:21,216 --> 01:28:21,396
+[SPEAKER_00]: Yeah.
+
+1773
+01:28:25,858 --> 01:28:26,039
+Okay.
+
+1774
+01:28:26,999 --> 01:28:27,519
+[SPEAKER_03]: All right, Gouge.
+
+1775
+01:28:29,343 --> 01:28:29,863
+[SPEAKER_03]: Okay.
+
+1776
+01:28:30,724 --> 01:28:31,784
+[SPEAKER_03]: Five on me, right?
+
+1777
+01:28:32,405 --> 01:28:32,725
+[SPEAKER_03]: Yes.
+
+1778
+01:28:33,305 --> 01:28:41,190
+[SPEAKER_02]: So, disengage, cunning action to... You can use bonus action, cunning action to disengage and move back to here.
+
+1779
+01:28:42,911 --> 01:28:43,191
+[SPEAKER_02]: Right?
+
+1780
+01:28:43,391 --> 01:28:43,712
+[SPEAKER_02]: Okay.
+
+1781
+01:28:43,812 --> 01:28:48,614
+[SPEAKER_02]: Or actually to here, which means that you're out of anybody's range.
+
+1782
+01:28:48,895 --> 01:28:49,195
+[SPEAKER_04]: Mm-hmm.
+
+1783
+01:28:50,472 --> 01:28:51,352
+[SPEAKER_04]: Except for the halberd?
+
+1784
+01:28:51,532 --> 01:28:57,734
+[SPEAKER_02]: No, they're ten feet away, so one two, one two, so he's just out of range of the halberds.
+
+1785
+01:28:58,014 --> 01:28:58,354
+[SPEAKER_03]: Okay.
+
+1786
+01:28:58,774 --> 01:28:59,055
+[SPEAKER_02]: Okay.
+
+1787
+01:29:00,635 --> 01:29:03,216
+[SPEAKER_03]: Then you can move another six.
+
+1788
+01:29:03,436 --> 01:29:04,376
+[SPEAKER_03]: Yeah, unless I've got...
+
+1789
+01:29:05,136 --> 01:29:07,797
+[SPEAKER_03]: I think that's what I used to cut in action was to get out of that, right?
+
+1790
+01:29:07,837 --> 01:29:08,777
+[SPEAKER_03]: Not to dash.
+
+1791
+01:29:08,978 --> 01:29:11,258
+[SPEAKER_02]: Well, dash can be an action if you want.
+
+1792
+01:29:12,799 --> 01:29:13,559
+[SPEAKER_03]: Yeah, I'd like to get...
+
+1793
+01:29:15,707 --> 01:29:18,428
+[SPEAKER_03]: Jump out as fast as I can fucking get out.
+
+1794
+01:29:18,448 --> 01:29:20,068
+[SPEAKER_02]: One, two, three, four, five.
+
+1795
+01:29:20,088 --> 01:29:23,629
+[SPEAKER_02]: You can move to there without doing anything else with saving your action.
+
+1796
+01:29:24,310 --> 01:29:26,610
+[SPEAKER_02]: Then if you want to dash, you can go another six.
+
+1797
+01:29:28,111 --> 01:29:31,392
+[SPEAKER_02]: But remember, they're going to move and they're going to be on this guy.
+
+1798
+01:29:31,692 --> 01:29:31,992
+[SPEAKER_02]: I know.
+
+1799
+01:29:33,925 --> 01:29:37,248
+[SPEAKER_04]: But you get bonuses when you're standing next to me and they're on me.
+
+1800
+01:29:38,029 --> 01:29:38,429
+[SPEAKER_04]: Okay.
+
+1801
+01:29:39,129 --> 01:29:39,710
+[SPEAKER_04]: My action?
+
+1802
+01:29:40,771 --> 01:29:41,612
+[SPEAKER_04]: Toss my stones up.
+
+1803
+01:29:42,232 --> 01:29:43,213
+[SPEAKER_03]: Okay.
+
+1804
+01:29:43,994 --> 01:29:45,075
+[SPEAKER_03]: So you throw up your stones?
+
+1805
+01:29:45,175 --> 01:29:45,415
+[SPEAKER_03]: Yep.
+
+1806
+01:29:45,555 --> 01:29:46,376
+[SPEAKER_03]: Great action.
+
+1807
+01:29:47,917 --> 01:29:48,217
+[SPEAKER_02]: All right.
+
+1808
+01:29:48,718 --> 01:29:49,538
+[SPEAKER_02]: Their turn.
+
+1809
+01:29:52,301 --> 01:29:57,826
+[SPEAKER_04]: They don't want to follow us anyway.
+
+1810
+01:29:57,846 --> 01:29:59,567
+[SPEAKER_02]: One, two, three, four.
+
+1811
+01:29:59,927 --> 01:30:00,248
+[SPEAKER_02]: They don't.
+
+1812
+01:30:04,165 --> 01:30:06,466
+[SPEAKER_02]: One, two, three, four, five, six to here.
+
+1813
+01:30:07,687 --> 01:30:11,149
+[SPEAKER_02]: One, two, three, four, five, six to here.
+
+1814
+01:30:14,611 --> 01:30:17,332
+[SPEAKER_02]: One, two, three, four, five to here.
+
+1815
+01:30:19,893 --> 01:30:21,954
+[SPEAKER_02]: One, two, three, four, five to here.
+
+1816
+01:30:21,974 --> 01:30:26,897
+[SPEAKER_02]: These guys make a wall and they're basically dodging.
+
+1817
+01:30:27,597 --> 01:30:30,419
+[SPEAKER_02]: Which means that all attacks on them are going to be a disadvantage.
+
+1818
+01:30:32,113 --> 01:30:33,153
+[SPEAKER_04]: But they're not attacking.
+
+1819
+01:30:33,213 --> 01:30:35,494
+[SPEAKER_02]: One, two, three, four, five, six to here.
+
+1820
+01:30:37,575 --> 01:30:38,575
+[SPEAKER_02]: Here and here.
+
+1821
+01:30:40,336 --> 01:30:41,676
+[SPEAKER_02]: This guy goes to here.
+
+1822
+01:30:43,057 --> 01:30:47,738
+[SPEAKER_02]: These guys with their holobirds attack over their buddies down upon you.
+
+1823
+01:30:48,519 --> 01:30:51,640
+[SPEAKER_02]: This guy on you, Gouge.
+
+1824
+01:30:51,660 --> 01:30:52,680
+[SPEAKER_02]: I got a plus what?
+
+1825
+01:30:53,520 --> 01:30:54,240
+[SPEAKER_02]: Two, plus two.
+
+1826
+01:30:54,481 --> 01:30:55,261
+[SPEAKER_02]: Plus two AC.
+
+1827
+01:30:55,501 --> 01:30:55,821
+[SPEAKER_02]: Okay.
+
+1828
+01:30:56,001 --> 01:30:56,641
+[SPEAKER_02]: Here's the attack.
+
+1829
+01:30:57,442 --> 01:30:58,222
+[SPEAKER_02]: AC is 18.
+
+1830
+01:30:58,302 --> 01:30:59,342
+[SPEAKER_02]: Six, miss.
+
+1831
+01:31:00,002 --> 01:31:01,523
+[SPEAKER_02]: This guy on you, Tyrus.
+
+1832
+01:31:03,407 --> 01:31:06,168
+[SPEAKER_02]: One, basically his haliburg breaks.
+
+1833
+01:31:06,669 --> 01:31:07,829
+[SPEAKER_02]: Wait, does he hit another buddy?
+
+1834
+01:31:07,849 --> 01:31:09,290
+[SPEAKER_02]: No.
+
+1835
+01:31:09,430 --> 01:31:10,150
+[SPEAKER_02]: This guy on you.
+
+1836
+01:31:12,571 --> 01:31:15,372
+[SPEAKER_02]: Seventeen plus five is twenty-two.
+
+1837
+01:31:15,392 --> 01:31:15,452
+[SPEAKER_02]: Oh.
+
+1838
+01:31:16,313 --> 01:31:21,875
+[SPEAKER_02]: He hits you for three, four, five, six.
+
+1839
+01:31:21,895 --> 01:31:22,656
+[SPEAKER_02]: I can handle that.
+
+1840
+01:31:24,977 --> 01:31:25,597
+[SPEAKER_04]: Easily enough.
+
+1841
+01:31:26,517 --> 01:31:26,937
+[SPEAKER_04]: Here we go.
+
+1842
+01:31:27,298 --> 01:31:27,858
+[SPEAKER_04]: I disappeared.
+
+1843
+01:31:39,068 --> 01:31:40,890
+[SPEAKER_04]: All right.
+
+1844
+01:31:42,931 --> 01:31:43,191
+[SPEAKER_00]: Roll.
+
+1845
+01:31:43,271 --> 01:31:51,117
+[SPEAKER_03]: Nish is... 20.
+
+1846
+01:31:51,157 --> 01:31:51,277
+[SPEAKER_03]: 19.
+
+1847
+01:31:51,337 --> 01:31:51,777
+[SPEAKER_03]: 19 also.
+
+1848
+01:31:52,318 --> 01:31:52,438
+[SPEAKER_04]: 11.
+
+1849
+01:31:52,478 --> 01:31:52,658
+[SPEAKER_04]: 18.
+
+1850
+01:31:56,201 --> 01:31:59,543
+[SPEAKER_04]: Gouge goes before me.
+
+1851
+01:31:59,563 --> 01:32:01,805
+[SPEAKER_02]: So, Folsom, you are first.
+
+1852
+01:32:04,567 --> 01:32:04,847
+[SPEAKER_00]: Um...
+
+1853
+01:32:09,019 --> 01:32:10,020
+[SPEAKER_00]: I'm right next to Merrick.
+
+1854
+01:32:11,501 --> 01:32:12,102
+[SPEAKER_00]: Yeah.
+
+1855
+01:32:13,523 --> 01:32:14,204
+[SPEAKER_00]: Hey, buddy.
+
+1856
+01:32:15,425 --> 01:32:19,628
+[SPEAKER_00]: I just talk to him and say, what if we surrender and go in for questioning?
+
+1857
+01:32:20,109 --> 01:32:20,409
+Nope.
+
+1858
+01:32:20,729 --> 01:32:20,889
+Nope.
+
+1859
+01:32:21,370 --> 01:32:21,550
+[SPEAKER_01]: Nope.
+
+1860
+01:32:21,970 --> 01:32:22,170
+[SPEAKER_01]: Nope.
+
+1861
+01:32:22,270 --> 01:32:22,471
+[SPEAKER_01]: Nope.
+
+1862
+01:32:22,671 --> 01:32:22,851
+[SPEAKER_01]: Nope.
+
+1863
+01:32:23,091 --> 01:32:23,652
+[SPEAKER_01]: Not doing that.
+
+1864
+01:32:24,232 --> 01:32:26,034
+[SPEAKER_01]: I'm saying we get our asses out of this beach.
+
+1865
+01:32:26,074 --> 01:32:26,714
+[SPEAKER_01]: I know this beach.
+
+1866
+01:32:27,095 --> 01:32:29,737
+[SPEAKER_00]: We're moving.
+
+1867
+01:32:29,757 --> 01:32:29,857
+[SPEAKER_00]: Okay.
+
+1868
+01:32:29,877 --> 01:32:34,721
+[SPEAKER_00]: I message to Tyrus for my action, and I'm saying we're leaving.
+
+1869
+01:32:35,935 --> 01:32:36,415
+[SPEAKER_00]: Follow Merrick.
+
+1870
+01:32:36,435 --> 01:32:37,076
+[SPEAKER_03]: Is this still going?
+
+1871
+01:32:37,656 --> 01:32:37,857
+[SPEAKER_00]: Yes.
+
+1872
+01:32:38,397 --> 01:32:39,298
+[SPEAKER_00]: It's still going.
+
+1873
+01:32:39,838 --> 01:32:40,779
+[SPEAKER_00]: And then do you want to run?
+
+1874
+01:32:41,099 --> 01:32:45,323
+[SPEAKER_00]: Yeah, start heading that way.
+
+1875
+01:32:45,443 --> 01:32:46,804
+[SPEAKER_02]: I'll start heading that way.
+
+1876
+01:32:47,264 --> 01:32:49,326
+[SPEAKER_02]: One, two, three, four, five, six.
+
+1877
+01:32:49,846 --> 01:32:50,587
+[SPEAKER_02]: He runs to there.
+
+1878
+01:32:51,928 --> 01:32:52,288
+[SPEAKER_02]: All right.
+
+1879
+01:32:53,329 --> 01:32:54,770
+[SPEAKER_02]: Next is Gouge.
+
+1880
+01:32:58,393 --> 01:32:59,554
+[SPEAKER_02]: Are you running?
+
+1881
+01:33:01,536 --> 01:33:03,898
+[SPEAKER_03]: If you're running, yes.
+
+1882
+01:33:09,479 --> 01:33:11,080
+[SPEAKER_03]: Well, shit, I can almost get to him, right?
+
+1883
+01:33:12,762 --> 01:33:17,065
+[SPEAKER_03]: If you want to do a... A cunning action, disengage?
+
+1884
+01:33:17,285 --> 01:33:20,928
+[SPEAKER_02]: You do a cunning action, disengage, and do an action dash.
+
+1885
+01:33:21,208 --> 01:33:21,809
+[SPEAKER_02]: You can do that.
+
+1886
+01:33:22,089 --> 01:33:22,950
+[SPEAKER_03]: And a bonus action.
+
+1887
+01:33:24,391 --> 01:33:26,733
+[SPEAKER_03]: Well, your bonus action will be disengage.
+
+1888
+01:33:26,773 --> 01:33:27,253
+[SPEAKER_03]: Okay.
+
+1889
+01:33:27,453 --> 01:33:31,696
+[SPEAKER_02]: And then you run 60 feet, 30 feet, and then you run another 30 with your action.
+
+1890
+01:33:32,437 --> 01:33:32,877
+[SPEAKER_00]: Okay.
+
+1891
+01:33:35,138 --> 01:33:42,941
+[SPEAKER_00]: The spell slots we expended on the last time we played, they're still in the back track.
+
+1892
+01:33:43,021 --> 01:33:46,322
+[SPEAKER_00]: One dude broke his halberd.
+
+1893
+01:33:48,482 --> 01:33:51,423
+[SPEAKER_03]: Disgauge to there, and then run.
+
+1894
+01:33:51,443 --> 01:33:56,744
+[SPEAKER_02]: One, two, three, four, five more, because you went one bag.
+
+1895
+01:33:57,445 --> 01:33:58,545
+[SPEAKER_02]: Now you can do six more.
+
+1896
+01:34:03,935 --> 01:34:07,136
+[SPEAKER_02]: 5-6, if you want, or you could just be there.
+
+1897
+01:34:08,837 --> 01:34:11,818
+[SPEAKER_03]: Yeah, I've gotta be some type of a shield.
+
+1898
+01:34:12,078 --> 01:34:14,379
+[SPEAKER_02]: Okay, so that is Gouge.
+
+1899
+01:34:16,239 --> 01:34:17,920
+[SPEAKER_03]: Gouge is gone.
+
+1900
+01:34:19,080 --> 01:34:21,001
+[SPEAKER_04]: It is your turn, Tyrus.
+
+1901
+01:34:21,381 --> 01:34:27,202
+[SPEAKER_04]: Alright, so there's only one guy broke his halberd, the other guys are in defensive mode, so there's only one halberd I have to...
+
+1902
+01:34:28,223 --> 01:34:31,044
+[SPEAKER_02]: There are two halberds that can attack you.
+
+1903
+01:34:31,404 --> 01:34:32,044
+[SPEAKER_02]: One's broken, though.
+
+1904
+01:34:33,040 --> 01:34:33,641
+[SPEAKER_02]: That guy.
+
+1905
+01:34:34,661 --> 01:34:35,522
+[SPEAKER_02]: That guy can attack me.
+
+1906
+01:34:35,642 --> 01:34:36,123
+[SPEAKER_02]: One, two.
+
+1907
+01:34:36,523 --> 01:34:37,203
+[SPEAKER_02]: Oh.
+
+1908
+01:34:37,283 --> 01:34:37,764
+[SPEAKER_02]: One, two.
+
+1909
+01:34:38,364 --> 01:34:38,805
+[SPEAKER_02]: One, two.
+
+1910
+01:34:38,825 --> 01:34:41,427
+[SPEAKER_02]: So there's two halberds that can attack me as I disengage.
+
+1911
+01:34:41,527 --> 01:34:41,787
+[SPEAKER_02]: Yes.
+
+1912
+01:34:41,927 --> 01:34:44,829
+[SPEAKER_02]: And the main can still attack you with a reaction.
+
+1913
+01:34:44,909 --> 01:34:45,630
+[SPEAKER_02]: It's a reaction.
+
+1914
+01:34:45,810 --> 01:34:46,911
+[SPEAKER_02]: They haven't used a reaction.
+
+1915
+01:34:46,951 --> 01:34:50,894
+[SPEAKER_02]: But if I use a disengage... No one can attack you with opportunity attacks.
+
+1916
+01:34:51,355 --> 01:34:51,735
+[SPEAKER_04]: Okay.
+
+1917
+01:34:52,135 --> 01:34:54,877
+[SPEAKER_04]: So I use disengage, no one can opportunity.
+
+1918
+01:34:55,138 --> 01:34:55,558
+[SPEAKER_04]: Exactly.
+
+1919
+01:34:55,578 --> 01:34:58,540
+[SPEAKER_04]: And I'm going to move as many things as I can do.
+
+1920
+01:34:58,560 --> 01:34:59,981
+[SPEAKER_02]: You disengage with the reaction.
+
+1921
+01:35:00,041 --> 01:35:00,202
+[SPEAKER_02]: Yes.
+
+1922
+01:35:00,262 --> 01:35:01,022
+[SPEAKER_02]: Move one back.
+
+1923
+01:35:01,062 --> 01:35:01,703
+[SPEAKER_02]: It's one back.
+
+1924
+01:35:02,143 --> 01:35:04,924
+[SPEAKER_02]: So that's one, two, three, four, five.
+
+1925
+01:35:05,044 --> 01:35:07,326
+[SPEAKER_02]: And I'm gonna go, that's all I got is five.
+
+1926
+01:35:07,366 --> 01:35:12,288
+[SPEAKER_02]: You can't move anymore because you do not have bonus actions to disengage.
+
+1927
+01:35:12,308 --> 01:35:12,908
+[SPEAKER_00]: Right, right, right.
+
+1928
+01:35:13,329 --> 01:35:13,649
+[SPEAKER_04]: Okay?
+
+1929
+01:35:13,789 --> 01:35:14,549
+[SPEAKER_04]: So there we go.
+
+1930
+01:35:14,689 --> 01:35:17,891
+[SPEAKER_04]: I'm hiding behind Folsom as my hero now.
+
+1931
+01:35:17,971 --> 01:35:19,091
+[SPEAKER_04]: That is Merrick.
+
+1932
+01:35:19,351 --> 01:35:22,413
+[SPEAKER_04]: Merrick, I mean, Merrick is my meat shield at this moment.
+
+1933
+01:35:22,733 --> 01:35:30,317
+[SPEAKER_02]: Okay, so one, two, three, four, five to there.
+
+1934
+01:35:32,032 --> 01:35:34,155
+[SPEAKER_02]: One, two, three, four to there.
+
+1935
+01:35:36,117 --> 01:35:38,280
+[SPEAKER_02]: One, two, three, four, five to there.
+
+1936
+01:35:40,202 --> 01:35:43,005
+[SPEAKER_02]: One, two, three, four, five, six to there.
+
+1937
+01:35:43,025 --> 01:35:46,109
+[SPEAKER_04]: You better bust out some fucking ranger shit.
+
+1938
+01:35:46,810 --> 01:35:48,011
+[SPEAKER_04]: Hot pockets!
+
+1939
+01:35:48,171 --> 01:35:49,433
+[SPEAKER_04]: Hot pockets!
+
+1940
+01:35:51,393 --> 01:35:53,694
+[SPEAKER_02]: One, two, three, four, five, to there.
+
+1941
+01:35:53,714 --> 01:35:55,275
+[SPEAKER_02]: Oh my gosh.
+
+1942
+01:35:55,295 --> 01:35:57,456
+[SPEAKER_02]: One, two, three, four, five, to there.
+
+1943
+01:35:57,476 --> 01:35:57,576
+[SPEAKER_02]: Okay.
+
+1944
+01:35:57,616 --> 01:35:59,257
+[SPEAKER_04]: You were just gonna get captured and go along with it.
+
+1945
+01:35:59,277 --> 01:36:00,538
+[SPEAKER_04]: I was just gonna be a buddy.
+
+1946
+01:36:01,198 --> 01:36:01,498
+[SPEAKER_04]: All right.
+
+1947
+01:36:01,678 --> 01:36:05,420
+[SPEAKER_02]: So the guys in front are dodging.
+
+1948
+01:36:05,520 --> 01:36:07,821
+[SPEAKER_02]: So it's a disadvantage to attack them.
+
+1949
+01:36:08,882 --> 01:36:10,483
+[SPEAKER_02]: Two guys with halberds attack.
+
+1950
+01:36:11,123 --> 01:36:11,703
+[SPEAKER_02]: One on you.
+
+1951
+01:36:13,805 --> 01:36:14,145
+[SPEAKER_02]: Four.
+
+1952
+01:36:14,605 --> 01:36:15,005
+[SPEAKER_02]: Miss.
+
+1953
+01:36:15,585 --> 01:36:16,346
+[SPEAKER_02]: One on you.
+
+1954
+01:36:17,827 --> 01:36:18,207
+[SPEAKER_02]: Two.
+
+1955
+01:36:18,487 --> 01:36:18,847
+[SPEAKER_02]: Miss.
+
+1956
+01:36:19,027 --> 01:36:20,068
+[SPEAKER_02]: I love these dice!
+
+1957
+01:36:22,020 --> 01:36:22,460
+[SPEAKER_01]: Your turn.
+
+1958
+01:36:22,701 --> 01:36:22,961
+[SPEAKER_01]: Okay.
+
+1959
+01:36:23,481 --> 01:36:29,045
+[SPEAKER_01]: If I disengage, does it give him an opportunity to attack me, or no?
+
+1960
+01:36:29,426 --> 01:36:30,346
+[SPEAKER_04]: If you disengage, no.
+
+1961
+01:36:30,466 --> 01:36:32,068
+[SPEAKER_04]: Use your action.
+
+1962
+01:36:32,108 --> 01:36:33,769
+[SPEAKER_04]: You can't do anything other than that.
+
+1963
+01:36:35,250 --> 01:36:39,173
+[SPEAKER_01]: Okay, so I'm going to book it back.
+
+1964
+01:36:39,273 --> 01:36:40,294
+[SPEAKER_01]: Use your action, disengage.
+
+1965
+01:36:40,314 --> 01:36:41,054
+[SPEAKER_01]: Disengage.
+
+1966
+01:36:41,475 --> 01:36:44,057
+[SPEAKER_02]: One, two, three, four, five, six.
+
+1967
+01:36:45,368 --> 01:36:46,869
+[SPEAKER_00]: And they're like, Tyrus, come on!
+
+1968
+01:36:48,789 --> 01:36:50,010
+[SPEAKER_00]: I'm doing my best here, people!
+
+1969
+01:36:50,410 --> 01:36:55,952
+[SPEAKER_01]: Can I take this as, I don't know if it's an action, but like, or a bonus, I don't know what it is.
+
+1970
+01:36:56,572 --> 01:37:00,473
+[SPEAKER_02]: You can use a bonus action to change your hunter's mark to someone else.
+
+1971
+01:37:00,753 --> 01:37:03,214
+[SPEAKER_01]: I just wanted to see, I just wanted to look at the beach if it was like...
+
+1972
+01:37:04,798 --> 01:37:08,579
+[SPEAKER_01]: If I see anything where I'm like, cause that says I have perception, I have an expertise in perception.
+
+1973
+01:37:08,599 --> 01:37:11,120
+[SPEAKER_01]: You see that a new unit of guys coming.
+
+1974
+01:37:11,620 --> 01:37:13,921
+[SPEAKER_01]: I meant like back that way, as I'm like running that way.
+
+1975
+01:37:14,261 --> 01:37:18,402
+[SPEAKER_01]: It's just stuff where I'm like, anything I can use to our advantage to get out of this bitch.
+
+1976
+01:37:18,462 --> 01:37:19,363
+[SPEAKER_02]: Well, I mean...
+
+1977
+01:37:20,143 --> 01:37:21,043
+[SPEAKER_04]: Cliffs of insanity.
+
+1978
+01:37:21,624 --> 01:37:34,948
+[SPEAKER_02]: Actually, if you guys want to start dashing up there, that's good, but there are definitely scrub up there that you guys can go into, and areas, rocky areas on that side of the place that would be really hard for people to follow you at.
+
+1979
+01:37:35,648 --> 01:37:38,089
+[SPEAKER_01]: But would I be the only person who's good at...
+
+1980
+01:37:38,349 --> 01:37:42,891
+[SPEAKER_02]: If you're with a party, and you're leading them, but you've got to get out of combat first.
+
+1981
+01:37:44,017 --> 01:37:49,402
+[SPEAKER_02]: Then you can travel at three miles per hour instead of two through rough terrain.
+
+1982
+01:37:49,763 --> 01:37:50,623
+[SPEAKER_02]: Because I'm leading them.
+
+1983
+01:37:50,924 --> 01:37:55,068
+[SPEAKER_02]: Yes.
+
+1984
+01:37:55,368 --> 01:37:55,788
+[SPEAKER_02]: That's it.
+
+1985
+01:37:56,469 --> 01:38:00,493
+[SPEAKER_03]: Initiative.
+
+1986
+01:38:01,333 --> 01:38:02,715
+[SPEAKER_01]: Okay, there we go.
+
+1987
+01:38:03,335 --> 01:38:03,596
+[SPEAKER_01]: Nine.
+
+1988
+01:38:09,973 --> 01:38:11,756
+[SPEAKER_01]: What sauce do we have?
+
+1989
+01:38:11,856 --> 01:38:13,198
+[SPEAKER_04]: I have no clue.
+
+1990
+01:38:13,398 --> 01:38:16,783
+[SPEAKER_04]: Nobody cares about you anyway.
+
+1991
+01:38:16,943 --> 01:38:17,885
+[SPEAKER_04]: You're gonna beat them, so.
+
+1992
+01:38:18,105 --> 01:38:20,468
+[SPEAKER_04]: Okay, Tyrus, you go first.
+
+1993
+01:38:20,649 --> 01:38:22,912
+[SPEAKER_04]: So I can disengage as my action.
+
+1994
+01:38:22,932 --> 01:38:23,493
+[SPEAKER_04]: Disengage.
+
+1995
+01:38:23,753 --> 01:38:25,015
+[SPEAKER_04]: And they won't get an attack on me.
+
+1996
+01:38:25,335 --> 01:38:25,455
+[SPEAKER_04]: One.
+
+1997
+01:38:26,631 --> 01:38:28,553
+[SPEAKER_02]: Two, three, four, five, six.
+
+1998
+01:38:28,593 --> 01:38:31,315
+[SPEAKER_04]: I'm going to go half of them a little bit.
+
+1999
+01:38:31,335 --> 01:38:33,316
+[SPEAKER_04]: Can I go one square over?
+
+2000
+01:38:33,817 --> 01:38:34,337
+[SPEAKER_04]: Yeah, yeah.
+
+2001
+01:38:34,437 --> 01:38:36,039
+[SPEAKER_02]: One, two, three, four, five, six.
+
+2002
+01:38:36,119 --> 01:38:37,100
+[SPEAKER_02]: Yeah, perfect.
+
+2003
+01:38:37,120 --> 01:38:38,120
+[SPEAKER_02]: Okay.
+
+2004
+01:38:38,501 --> 01:38:43,405
+[SPEAKER_02]: So that I'm close, but we're not grouped up on top of each other.
+
+2005
+01:38:43,425 --> 01:38:44,385
+[SPEAKER_02]: Okay.
+
+2006
+01:38:44,586 --> 01:38:46,867
+[SPEAKER_02]: And then, bonus action, action.
+
+2007
+01:38:46,887 --> 01:38:48,168
+[SPEAKER_03]: You used your action.
+
+2008
+01:38:48,649 --> 01:38:49,429
+[SPEAKER_02]: No bonus action.
+
+2009
+01:38:49,650 --> 01:38:50,590
+[SPEAKER_02]: I have no bonus action.
+
+2010
+01:38:50,630 --> 01:38:50,931
+[SPEAKER_02]: Okay.
+
+2011
+01:38:52,032 --> 01:38:53,172
+[SPEAKER_02]: Tyrus, move us back to there.
+
+2012
+01:38:54,994 --> 01:38:56,075
+[SPEAKER_01]: It is Merrick.
+
+2013
+01:38:57,970 --> 01:39:06,375
+[SPEAKER_01]: I'm going to tell everyone who's around me, like, you guys gotta follow me, we're gonna go up this, uh, up the cliff line here, or where it gets rocky.
+
+2014
+01:39:06,395 --> 01:39:13,039
+[SPEAKER_01]: Can you paint me a picture of the terrain, like, where exactly, what do we look like right now?
+
+2015
+01:39:13,259 --> 01:39:19,563
+[SPEAKER_02]: Well, I mean, you guys are going up this path from the docks, actually up the path towards the lighthouse.
+
+2016
+01:39:21,125 --> 01:39:22,406
+[SPEAKER_01]: And you don't really want to go that way.
+
+2017
+01:39:22,426 --> 01:39:23,386
+[SPEAKER_02]: I don't want to go to Lighthouse.
+
+2018
+01:39:23,426 --> 01:39:24,967
+[SPEAKER_02]: I want to start going up this.
+
+2019
+01:39:25,227 --> 01:39:36,011
+[SPEAKER_02]: You can start going up towards the south shore along the ridge line because it's rocky up there if you want to head that direction.
+
+2020
+01:39:36,031 --> 01:39:36,952
+[SPEAKER_02]: Yep, that's where we're going.
+
+2021
+01:39:37,032 --> 01:39:38,812
+[SPEAKER_02]: Okay, so you go off the path.
+
+2022
+01:39:39,273 --> 01:39:40,093
+[SPEAKER_02]: Do you want to dash?
+
+2023
+01:39:41,547 --> 01:39:42,547
+[SPEAKER_01]: Can they move 60 feet?
+
+2024
+01:39:43,368 --> 01:39:46,309
+[SPEAKER_02]: Oh yeah, because everyone can dash, right?
+
+2025
+01:39:46,889 --> 01:39:47,930
+[SPEAKER_02]: They all can dash.
+
+2026
+01:39:48,310 --> 01:39:49,690
+[SPEAKER_02]: He can do it with a bonus action.
+
+2027
+01:39:49,911 --> 01:39:50,871
+[SPEAKER_02]: You do it with an action.
+
+2028
+01:39:51,151 --> 01:39:52,211
+[SPEAKER_01]: You do it with an action.
+
+2029
+01:39:52,252 --> 01:39:53,672
+[SPEAKER_01]: Yeah, I'm gonna dash.
+
+2030
+01:39:53,692 --> 01:39:54,432
+[SPEAKER_01]: Follow me, guys.
+
+2031
+01:39:54,572 --> 01:39:56,533
+[SPEAKER_02]: So you move 60 feet this way.
+
+2032
+01:39:56,793 --> 01:39:58,514
+[SPEAKER_02]: Okay.
+
+2033
+01:40:00,175 --> 01:40:03,056
+[SPEAKER_03]: That's Tyrus, that's Merrick, Folsom.
+
+2034
+01:40:04,417 --> 01:40:04,557
+[SPEAKER_03]: Eye.
+
+2035
+01:40:05,157 --> 01:40:06,738
+[SPEAKER_03]: Arrow's bent and leaning to the left.
+
+2036
+01:40:06,758 --> 01:40:07,318
+[SPEAKER_03]: I saw that.
+
+2037
+01:40:07,998 --> 01:40:09,599
+[SPEAKER_04]: Short shriveled and leaning to the left.
+
+2038
+01:40:11,343 --> 01:40:24,691
+[SPEAKER_00]: I run to Merrick, but then I shout, as a shout, shout, shout it all around.
+
+2039
+01:40:24,711 --> 01:40:26,772
+[SPEAKER_03]: Shout it all around.
+
+2040
+01:40:26,792 --> 01:40:27,492
+[SPEAKER_02]: So you run to Merrick?
+
+2041
+01:40:27,512 --> 01:40:27,612
+[SPEAKER_02]: Yep.
+
+2042
+01:40:27,993 --> 01:40:28,273
+[SPEAKER_02]: All right.
+
+2043
+01:40:29,694 --> 01:40:34,096
+[SPEAKER_02]: Shout, you have the dexterity, so... Oh, they're all done?
+
+2044
+01:40:35,257 --> 01:40:36,317
+[SPEAKER_02]: They are all done, yeah.
+
+2045
+01:40:36,637 --> 01:40:37,258
+[SPEAKER_03]: Oh, okay.
+
+2046
+01:40:39,690 --> 01:40:40,511
+[SPEAKER_03]: As far as you can get.
+
+2047
+01:40:40,531 --> 01:40:43,433
+[SPEAKER_04]: Next round, I can get somewhere, dude.
+
+2048
+01:40:43,453 --> 01:40:45,354
+[SPEAKER_04]: Hey, look, I'm a big fella, all right?
+
+2049
+01:40:45,374 --> 01:40:45,975
+[SPEAKER_04]: Big motherfucker.
+
+2050
+01:40:45,995 --> 01:40:46,855
+[SPEAKER_04]: Remember, tree.
+
+2051
+01:40:47,376 --> 01:40:51,018
+[SPEAKER_04]: I'm like six, seven here, dude.
+
+2052
+01:40:52,099 --> 01:40:53,140
+[SPEAKER_04]: Six, seven.
+
+2053
+01:40:53,560 --> 01:40:54,861
+[SPEAKER_04]: Oh, there was a guy.
+
+2054
+01:40:54,881 --> 01:40:55,902
+[SPEAKER_04]: I'm hoping he catches up.
+
+2055
+01:40:56,162 --> 01:40:56,663
+[SPEAKER_04]: You dash?
+
+2056
+01:40:57,063 --> 01:40:57,383
+[SPEAKER_04]: Yeah.
+
+2057
+01:40:57,403 --> 01:40:59,945
+[SPEAKER_04]: I was in a meeting with people in Chicago.
+
+2058
+01:41:02,507 --> 01:41:02,847
+[SPEAKER_04]: Yeah.
+
+2059
+01:41:03,127 --> 01:41:05,329
+[SPEAKER_04]: You know, online meeting that I'm having to do now.
+
+2060
+01:41:05,469 --> 01:41:06,650
+[SPEAKER_04]: Like, sitting down here.
+
+2061
+01:41:07,385 --> 01:41:16,509
+[SPEAKER_04]: The guy's like, I don't know, there's, I don't know, there's six, seven of those databases, and I'm like... Nobody?
+
+2062
+01:41:20,451 --> 01:41:20,871
+[SPEAKER_02]: All right.
+
+2063
+01:41:21,091 --> 01:41:22,051
+[SPEAKER_03]: That's for your roll, please.
+
+2064
+01:41:22,852 --> 01:41:24,552
+[SPEAKER_03]: It's like so desperate.
+
+2065
+01:41:25,273 --> 01:41:27,974
+[SPEAKER_02]: Okay, so, rolling edge this next turn.
+
+2066
+01:41:28,034 --> 01:41:29,555
+[SPEAKER_02]: Might have beef.
+
+2067
+01:41:29,675 --> 01:41:30,735
+[SPEAKER_04]: Don't worry about it.
+
+2068
+01:41:30,755 --> 01:41:31,696
+[SPEAKER_01]: Shh, shh, shh, shh.
+
+2069
+01:41:32,716 --> 01:41:33,216
+[SPEAKER_04]: Roll the edge.
+
+2070
+01:41:33,376 --> 01:41:34,137
+[SPEAKER_04]: He said, roll the edge.
+
+2071
+01:41:34,157 --> 01:41:34,657
+[SPEAKER_04]: Roll my phone.
+
+2072
+01:41:36,232 --> 01:41:36,792
+[SPEAKER_01]: Oh, yeah.
+
+2073
+01:41:36,852 --> 01:41:37,453
+[SPEAKER_01]: Oh, shit.
+
+2074
+01:41:37,573 --> 01:41:37,793
+[SPEAKER_01]: Eight.
+
+2075
+01:41:38,073 --> 01:41:38,393
+[SPEAKER_01]: Six.
+
+2076
+01:41:38,473 --> 01:41:38,974
+[SPEAKER_02]: Eighteen.
+
+2077
+01:41:39,534 --> 01:41:40,094
+[SPEAKER_01]: Eighteen.
+
+2078
+01:41:40,534 --> 01:41:40,935
+[SPEAKER_02]: All right.
+
+2079
+01:41:41,035 --> 01:41:42,135
+[SPEAKER_02]: Tyrus gets an eighteen.
+
+2080
+01:41:42,556 --> 01:41:43,096
+[SPEAKER_02]: You get a what?
+
+2081
+01:41:43,416 --> 01:41:43,596
+[SPEAKER_02]: Eight.
+
+2082
+01:41:44,056 --> 01:41:44,257
+[SPEAKER_02]: Eight?
+
+2083
+01:41:45,217 --> 01:41:45,938
+[SPEAKER_01]: I got a six.
+
+2084
+01:41:46,018 --> 01:41:46,298
+[SPEAKER_02]: Six?
+
+2085
+01:41:46,538 --> 01:41:49,219
+[SPEAKER_02]: Yeah, but you're 120 feet away, so.
+
+2086
+01:41:49,259 --> 01:41:49,560
+[SPEAKER_02]: Eighteen.
+
+2087
+01:41:49,800 --> 01:41:50,440
+[SPEAKER_02]: I got a rock.
+
+2088
+01:41:51,060 --> 01:41:51,661
+[SPEAKER_02]: Here's the guys.
+
+2089
+01:41:52,101 --> 01:41:52,481
+[SPEAKER_02]: The men.
+
+2090
+01:41:53,802 --> 01:41:54,062
+[SPEAKER_02]: Eight.
+
+2091
+01:41:56,424 --> 01:41:57,404
+[SPEAKER_02]: Just keep that eight.
+
+2092
+01:41:57,564 --> 01:41:59,245
+[SPEAKER_02]: Seems pretty solid.
+
+2093
+01:41:59,265 --> 01:42:00,666
+[SPEAKER_02]: Gouge, do you want to start it off?
+
+2094
+01:42:03,808 --> 01:42:03,988
+[SPEAKER_02]: Uh...
+
+2095
+01:42:05,432 --> 01:42:06,973
+[SPEAKER_03]: I'm following Merrick.
+
+2096
+01:42:07,013 --> 01:42:11,996
+[SPEAKER_02]: Do you want to fire on them as you back up to give Tyrus some cover?
+
+2097
+01:42:13,457 --> 01:42:14,057
+[SPEAKER_04]: Wouldn't hurt me.
+
+2098
+01:42:14,818 --> 01:42:17,779
+[SPEAKER_03]: Yeah, because my dash is a bonus action, right?
+
+2099
+01:42:17,839 --> 01:42:18,099
+[SPEAKER_03]: Yeah.
+
+2100
+01:42:18,220 --> 01:42:19,120
+[SPEAKER_03]: You could do both.
+
+2101
+01:42:19,500 --> 01:42:19,800
+[SPEAKER_03]: Yeah.
+
+2102
+01:42:21,201 --> 01:42:21,521
+[SPEAKER_03]: Yeah.
+
+2103
+01:42:22,402 --> 01:42:25,584
+[SPEAKER_02]: I'll fire on any injured that are on him.
+
+2104
+01:42:26,344 --> 01:42:26,564
+[SPEAKER_02]: No.
+
+2105
+01:42:26,705 --> 01:42:27,905
+[SPEAKER_02]: I mean, these are all fresh guys.
+
+2106
+01:42:27,925 --> 01:42:29,826
+[SPEAKER_02]: Oh, okay.
+
+2107
+01:42:29,866 --> 01:42:31,067
+[SPEAKER_03]: Take the nearest one.
+
+2108
+01:42:31,127 --> 01:42:31,567
+[SPEAKER_03]: All right.
+
+2109
+01:42:31,748 --> 01:42:32,428
+[SPEAKER_02]: Roll your attack.
+
+2110
+01:42:35,635 --> 01:42:36,015
+[SPEAKER_03]: Ten.
+
+2111
+01:42:37,976 --> 01:42:38,656
+[SPEAKER_03]: Seventeen.
+
+2112
+01:42:38,676 --> 01:42:42,937
+[SPEAKER_03]: Oh, and I got my stone up, so my dex goes to nineteen.
+
+2113
+01:42:43,097 --> 01:42:44,337
+[SPEAKER_03]: I don't know if that- That doesn't matter.
+
+2114
+01:42:44,357 --> 01:42:44,997
+[SPEAKER_03]: But that hits.
+
+2115
+01:42:45,357 --> 01:42:45,637
+[SPEAKER_03]: Okay.
+
+2116
+01:42:45,677 --> 01:42:46,498
+[SPEAKER_03]: Well, one die ten.
+
+2117
+01:42:47,998 --> 01:42:48,758
+[SPEAKER_03]: One die ten.
+
+2118
+01:42:49,258 --> 01:42:50,799
+[SPEAKER_03]: Plus four.
+
+2119
+01:42:51,159 --> 01:42:51,499
+[SPEAKER_03]: Oh, wait.
+
+2120
+01:42:52,079 --> 01:42:54,300
+[SPEAKER_03]: Oh, that does hit, because I still got this die I don't need, right?
+
+2121
+01:42:54,320 --> 01:42:55,480
+[SPEAKER_03]: You don't need it this time.
+
+2122
+01:42:57,420 --> 01:42:57,980
+[SPEAKER_02]: Hey!
+
+2123
+01:42:58,120 --> 01:42:58,280
+[SPEAKER_03]: One.
+
+2124
+01:42:58,641 --> 01:42:59,741
+[SPEAKER_03]: Plus four is five.
+
+2125
+01:42:59,861 --> 01:43:00,181
+[SPEAKER_03]: Five?
+
+2126
+01:43:00,381 --> 01:43:00,701
+[SPEAKER_03]: Okay.
+
+2127
+01:43:01,181 --> 01:43:02,121
+[SPEAKER_03]: You die.
+
+2128
+01:43:02,562 --> 01:43:03,642
+[SPEAKER_03]: Right in the leg, you can't move.
+
+2129
+01:43:05,782 --> 01:43:06,242
+[SPEAKER_03]: Okay.
+
+2130
+01:43:06,282 --> 01:43:07,203
+[SPEAKER_03]: Names is totally round.
+
+2131
+01:43:07,963 --> 01:43:09,164
+[SPEAKER_04]: Um, Tyrus.
+
+2132
+01:43:09,685 --> 01:43:09,925
+[SPEAKER_04]: Alright.
+
+2133
+01:43:10,605 --> 01:43:12,046
+[SPEAKER_04]: So again, I can disengage.
+
+2134
+01:43:12,346 --> 01:43:12,967
+[SPEAKER_04]: You don't have to.
+
+2135
+01:43:13,647 --> 01:43:14,388
+[SPEAKER_04]: Oh, they're away from me.
+
+2136
+01:43:14,788 --> 01:43:15,709
+[SPEAKER_04]: They're five feet away.
+
+2137
+01:43:16,409 --> 01:43:16,529
+[SPEAKER_04]: Oh.
+
+2138
+01:43:16,950 --> 01:43:19,011
+[SPEAKER_04]: You can dash.
+
+2139
+01:43:20,512 --> 01:43:23,254
+[SPEAKER_04]: They have never seen a big man run this fast before.
+
+2140
+01:43:24,314 --> 01:43:26,876
+[SPEAKER_04]: I'm gonna go right past all of them.
+
+2141
+01:43:26,896 --> 01:43:27,757
+[SPEAKER_04]: Okay, so you dash.
+
+2142
+01:43:27,997 --> 01:43:29,358
+[SPEAKER_04]: I'm gonna get as far away as I can.
+
+2143
+01:43:29,398 --> 01:43:29,718
+[SPEAKER_02]: 60 feet.
+
+2144
+01:43:30,118 --> 01:43:30,439
+[SPEAKER_02]: Okay.
+
+2145
+01:43:30,519 --> 01:43:31,299
+[SPEAKER_02]: Wait, no.
+
+2146
+01:43:32,160 --> 01:43:34,041
+[SPEAKER_04]: I can run 60 feet.
+
+2147
+01:43:36,672 --> 01:43:39,796
+[SPEAKER_04]: And still I can run 60 feet in a reaction?
+
+2148
+01:43:39,876 --> 01:43:41,998
+[SPEAKER_04]: No, you can run 30 feet normally.
+
+2149
+01:43:42,018 --> 01:43:43,300
+[SPEAKER_02]: Move 30 feet normally.
+
+2150
+01:43:43,540 --> 01:43:47,665
+[SPEAKER_04]: If you dash with shakes and action, it's 30 more.
+
+2151
+01:43:47,785 --> 01:43:49,427
+[SPEAKER_04]: If I roll 30 feet, can I get to them?
+
+2152
+01:43:51,769 --> 01:43:53,431
+[SPEAKER_04]: No, they're about 60 feet ahead of you.
+
+2153
+01:43:53,992 --> 01:43:55,173
+[SPEAKER_04]: And they're taken off.
+
+2154
+01:43:55,334 --> 01:43:55,654
+[SPEAKER_04]: That's fine.
+
+2155
+01:43:56,295 --> 01:43:56,555
+[SPEAKER_04]: Okay.
+

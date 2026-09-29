@@ -1,0 +1,7 @@
+# Cast for Party_reintroduction_6th_Wealsun
+# Expected voices: 5
+DM
+Gouge
+Merrick
+Tyrus
+Folsom

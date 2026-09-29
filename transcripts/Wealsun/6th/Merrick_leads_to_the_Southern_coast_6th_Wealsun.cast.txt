@@ -1,0 +1,7 @@
+# Cast for Merrick_leads_to_the_Southern_coast_6th_Wealsun
+# Expected voices: 5
+DM
+Gouge
+Merrick
+Tyrus
+Folsom

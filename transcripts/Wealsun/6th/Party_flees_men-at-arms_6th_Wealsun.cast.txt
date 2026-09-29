@@ -1,0 +1,8 @@
+# Cast for Party_flees_men-at-arms_6th_Wealsun
+# Expected voices: 5
+DM
+Gouge
+Merrick
+Tyrus
+Folsom
+men-at-arms (NPC, DM-voiced)
