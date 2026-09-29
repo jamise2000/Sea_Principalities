@@ -1,0 +1,7 @@
+# Cast for Party_ponders_escape_and_looks_for_boat_7th_Wealsun
+# Expected voices: 5
+DM
+Merrick
+Gouge
+Tyrus
+Folsom

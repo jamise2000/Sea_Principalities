@@ -1,0 +1,470 @@
+[SPEAKER_00A]: Folsom returns on the summit of the Wealsun to his party.
+[SPEAKER_07A]: So they're here because of some mercenaries that have caused the havoc in the charter.
+[SPEAKER_07A]: Apparently there was bloodshed.
+[SPEAKER_07A]: Who was that?
+[SPEAKER_07A]: I don't know, but they assured that we're as safe as anyone here.
+[SPEAKER_07A]: Good to know.
+[SPEAKER_07A]: But I also asked him if there's any place that we can try to get a boat.
+[SPEAKER_07A]: Because I am a merchant.
+[SPEAKER_07A]: Now.
+[SPEAKER_07A]: And I asked him if we could get a boat.
+[SPEAKER_07A]: And he said we can go to the marshes.
+[SPEAKER_07A]: Because there's a new portal.
+[SPEAKER_07A]: Saltmarsh.
+[SPEAKER_07A]: There's a new portal in the Saltmarsh?
+[SPEAKER_07A]: Or, what was the other thing?
+[SPEAKER_04A]: I love Lizardmen.
+[SPEAKER_04A]: What was the other?
+[SPEAKER_07A]: Seaton.
+[SPEAKER_07A]: Seaton.
+[SPEAKER_07A]: Or we can go to Seaton.
+[SPEAKER_07A]: How do we get to there?
+[SPEAKER_07A]: Which Seaton is?
+[SPEAKER_00A]: So, Seaton is... Yeah, how do we get to there?
+[SPEAKER_00A]: A town.
+[SPEAKER_00A]: You gotta get a boat to get anywhere.
+[SPEAKER_00A]: Seaton's a little town over there.
+[SPEAKER_04A]: Where's the Soul Martians?
+[SPEAKER_00A]: Over there.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_04A]: And Monmurg's over here.
+[SPEAKER_07A]: And if we go to Seaton, we're gonna have to pass Kane Tolley's castle.
+[SPEAKER_06A]: Yeah, but so that's the wrong direction.
+[SPEAKER_06A]: We have to get a boat in order to get to where we gotta go, no matter where.
+[SPEAKER_07A]: Tyrus, I love you, man.
+[SPEAKER_07A]: I'm just, I'm just relaying the information I got.
+[SPEAKER_00A]: Apparently there is passage, though, into Keoland, away from Redshore.
+[SPEAKER_06A]: Hmm.
+[SPEAKER_06A]: We just head one way and then turn left.
+[out-of-band] [SPEAKER_03]: Works for NASCAR.
+[out-of-band] [SPEAKER_03]: What does this NASCAR use for?
+[SPEAKER_04A]: We can head and force them to go another way.
+[SPEAKER_06A]: That's a good thing to do.
+[SPEAKER_06A]: We're walking the docks this whole time.
+[SPEAKER_04A]: If they play nice, we can pay them.
+[SPEAKER_06A]: Is there any of these boats that we walk along that look very similar to
+[SPEAKER_00A]: You're walking down the docks, right?
+[SPEAKER_06A]: Yeah, we're walking down the docks.
+[SPEAKER_06A]: These boats, they're a similar type of a boat to the one we came on.
+[SPEAKER_00A]: There are a lot of sloops like that.
+[SPEAKER_06A]: Now, in all of our experience collectively here, we had to have known there's some sort of more seedy people than others that run these sloops.
+[SPEAKER_06A]: There's a family of three on this one and the next one has some one-eyed dude with a grizzled beard.
+[SPEAKER_04A]: Okay, there's got to be in our collective sloops.
+[SPEAKER_06A]: We thought process here.
+[SPEAKER_06A]: We should be able to pick out one that's easier to slip away out on another or somebody who is a lot less scrupulous than the others.
+[SPEAKER_04A]: Well, we can try to get passage and then try to force the passage elsewhere by promise of coin or death.
+[SPEAKER_04A]: And then there's trying to take one ourself at night by forcing them to do it or... Let's take a home mental war.
+[SPEAKER_04A]: Buying ourselves onto one for passage.
+[SPEAKER_06A]: Buy ourselves on the way.
+[SPEAKER_04A]: Steal one or get passage and then divert.
+[SPEAKER_06A]: And then divert them.
+[SPEAKER_06A]: But we need to find somebody who's a little less, more likely to use coin than others.
+[SPEAKER_06A]: Yeah.
+[SPEAKER_06A]: Collectively, can we find a boat as we walk along that we think kind of sticks out as a little less... Well, I mean, you have insight into these things.
+[game mechanics] [SPEAKER_00A]: If you want to roll your insight, roll.
+[game mechanics] [SPEAKER_00A]: I do.
+[game mechanics] [SPEAKER_00A]: Can I also do that?
+[game mechanics] [SPEAKER_00A]: Yeah, sure.
+[SPEAKER_00A]: You guys walk up and down the docks looking for seedy ships.
+[game mechanics] [SPEAKER_00A]: Nope.
+[game mechanics] [SPEAKER_00A]: I got eight.
+[game mechanics] [SPEAKER_00A]: Twenty.
+[game mechanics] [SPEAKER_00A]: Twenty.
+[SPEAKER_04A]: All right.
+[game mechanics] [SPEAKER_00A]: I'm going to throw into it.
+[game mechanics] [SPEAKER_00A]: Seventeen.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: So you guys are walking up and down the docks.
+[SPEAKER_00A]: Maybe we see the same.
+[SPEAKER_00A]: And actually, there is a ship that the three of you, which is strange,
+[SPEAKER_00A]: All recognize in the docks.
+[SPEAKER_00A]: And actually, you realize individually this captain is another spy from Lord Jameis, well known by you as well.
+[SPEAKER_00A]: In fact, he's so obvious to you.
+[SPEAKER_00A]: He's obvious to these guys, but he's obvious to you as well.
+[SPEAKER_00A]: He's a messenger, actually.
+[SPEAKER_00A]: It's been rumored to work for Lord Jameis, and this is his ship.
+[SPEAKER_00A]: You have no idea who this is.
+[SPEAKER_05A]: Who is he?
+[SPEAKER_00A]: Merrick, you do know this guy.
+[SPEAKER_05A]: I do.
+[SPEAKER_00A]: His name is Captain Helm, and
+[SPEAKER_00A]: He's kind of a character, but he's loyal to Monmurg.
+[SPEAKER_00A]: And the fact that he's here is actually very serendipitous to you.
+[SPEAKER_00A]: Okay.
+[SPEAKER_06A]: Let me go have a discussion with this fella.
+[SPEAKER_06A]: Let's all go to that ship.
+[SPEAKER_06A]: Well, maybe not all of us at once.
+[SPEAKER_06A]: I don't know if we walk on it like we know what we're doing.
+[SPEAKER_05A]: We'll follow behind you.
+[SPEAKER_05A]: Somebody do the talking.
+[SPEAKER_05A]: You do.
+[SPEAKER_05A]: You go chat.
+[SPEAKER_05A]: Okay.
+[SPEAKER_00A]: You go chat.
+[SPEAKER_00A]: We can all go together.
+[SPEAKER_00A]: All right.
+[SPEAKER_00A]: So you walk down the docks, right?
+[SPEAKER_00A]: Up to the ship.
+[SPEAKER_00A]: And you see a first maid.
+[SPEAKER_00A]: Sleeping in a hammock that goes from the mast to the, not the wheelhouse, what is that thing?
+[SPEAKER_00A]: It's basically the cabins just laying there.
+[SPEAKER_00A]: How big is he?
+[SPEAKER_00A]: You know, not as big as you, but not a small man.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_00A]: All right.
+[SPEAKER_06A]: Do you know him?
+[SPEAKER_06A]: Do I know him?
+[SPEAKER_06A]: Have I seen him?
+[game mechanics] [SPEAKER_00A]: Roll your insight check.
+[game mechanics] [SPEAKER_00A]: 16 plus 4?
+[SPEAKER_00A]: Yeah, you do know him.
+[SPEAKER_00A]: Kind of a slow cargo handler that's worked on the Harbor District.
+[SPEAKER_00A]: Not a bad guy.
+[SPEAKER_00A]: But, you know, he actually worked for your uncle.
+[SPEAKER_00A]: He would probably remember you.
+[SPEAKER_00A]: All right.
+[SPEAKER_00A]: Lock up.
+[SPEAKER_00A]: Give him a little shake.
+[SPEAKER_00A]: He wakes up and kind of looks at you and goes, Am I in Monmurg?
+[SPEAKER_06A]: Not yet, buddy.
+[SPEAKER_06A]: Not yet.
+[SPEAKER_06A]: Good to see ya.
+[SPEAKER_06A]: What are you doing here?
+[SPEAKER_06A]: Yeah, put my hands, give him the shake and rattle him awake and everything like that.
+[SPEAKER_06A]: Good to see ya.
+[SPEAKER_00A]: Keaton kind of gets up, what are you doing here?
+[SPEAKER_06A]: I'm looking for Hel, Hel, Hel, Captain Helm.
+[SPEAKER_06A]: Captain Helm, I'm looking for Captain Helm.
+[SPEAKER_01B]: He's in the cabin.
+[SPEAKER_00A]: Tyrus, he looks down the dock at the three of you.
+[SPEAKER_00A]: Three other of you stay on the dock.
+[SPEAKER_00A]: He goes, are you sure we're not in Monmurg?
+[SPEAKER_06A]: Not yet.
+[SPEAKER_06A]: Not yet, my friend, but soon we will be.
+[SPEAKER_01B]: Am I dreaming?
+[SPEAKER_00A]: Yep.
+[SPEAKER_06A]: And head towards the cabin.
+[SPEAKER_06A]: Head towards the cabin.
+[SPEAKER_06A]: Let me get Helm.
+[SPEAKER_06A]: Let me get Helm.
+[SPEAKER_00A]: You stay here.
+[SPEAKER_00A]: You three, come on board.
+[SPEAKER_00A]: Lay low.
+[SPEAKER_05A]: Okay.
+[SPEAKER_04A]: I go over, slide down, sit against the side, bust out a flask.
+[SPEAKER_05A]: I'm going to look out over the ship and look at the sea and the dock and stuff.
+[SPEAKER_00A]: Okay.
+[SPEAKER_05A]: I don't see anything.
+[SPEAKER_00A]: You see, you know, marines walking down the dock in that direction.
+[SPEAKER_05A]: Hey, Tyrus, we're gonna need to talk to Helm pretty quick here, man.
+[SPEAKER_05A]: Got it.
+[SPEAKER_05A]: I think we're all gonna move to the quarters real quick.
+[SPEAKER_05A]: Gouge quarters.
+[SPEAKER_05A]: Let's get below deck.
+[SPEAKER_06A]: We'll all go with you.
+[SPEAKER_06A]: Come on.
+[SPEAKER_06A]: Okay, so you guys march into the thing.
+[SPEAKER_00A]: It's crowded in there, but you get out of the cover, right?
+[SPEAKER_00A]: Right.
+[SPEAKER_00A]: And, um...
+[SPEAKER_00A]: Basically, knocks on the cabin.
+[SPEAKER_00A]: You hear, what do you want?
+[SPEAKER_02B]: I told you to leave me here.
+[SPEAKER_02B]: Got my drink on last night.
+[SPEAKER_00A]: We have visitors.
+[SPEAKER_00A]: He goes, ah, can't be that important.
+[SPEAKER_06A]: Captain Helm, Tyrus, gotta speak to you, buddy.
+[SPEAKER_02B]: Tyrus, what is that pirate doing here?
+[SPEAKER_00A]: Oh, bust open the door.
+[SPEAKER_00A]: Letting the light in.
+[SPEAKER_02B]: What do you want, boy?
+[SPEAKER_02B]: What are you doing in Redshore?
+[SPEAKER_06A]: We're not going to be in Redshore for long.
+[SPEAKER_00A]: He actually looks back and goes, Oh, he looks at you and he goes, What are you doing here, lad?
+[SPEAKER_00A]: You're bringing bad luck to me.
+[SPEAKER_00A]: Um, did the spider send ya?
+[SPEAKER_00A]: Spider?
+[SPEAKER_00A]: He's talking about Jameis.
+[SPEAKER_00A]: Oh.
+[SPEAKER_00A]: I know that.
+[SPEAKER_00A]: Right?
+[SPEAKER_00A]: What's that?
+[SPEAKER_00A]: Oh, yeah.
+[SPEAKER_05A]: Hey, I hate to- Don't worry about it, buddy.
+[SPEAKER_05A]: We won't be here for long.
+[SPEAKER_05A]: We'll be here, yeah.
+[SPEAKER_04A]: I hate to tell you- We need to get back to the spider.
+[SPEAKER_05A]: Might be bringing you bad luck, but we gotta get back- Did I hear a fucking pirate's voice?
+[SPEAKER_05A]: Well, mine.
+[SPEAKER_02B]: Is GOUGE back there!
+[SPEAKER_04A]: Sir, I'm also here.
+[SPEAKER_04A]: I... You do.
+[SPEAKER_02B]: You're blowing my cover!
+[SPEAKER_02B]: Get in the cabin now!
+[SPEAKER_00A]: So, you guys come in and he's like...
+[SPEAKER_00A]: He's scared.
+[SPEAKER_00A]: Yeah.
+[SPEAKER_02B]: What are you doing here?
+[SPEAKER_02B]: You're blowing my cover.
+[SPEAKER_06A]: Don't worry about it, buddy.
+[SPEAKER_00A]: He goes, sit down, get in the corner.
+[SPEAKER_00A]: Don't worry about it.
+[SPEAKER_00A]: This is a small 10 by 10 room.
+[SPEAKER_06A]: Don't worry about it.
+[SPEAKER_00A]: And there were like six men, smelly men.
+[SPEAKER_00A]: In here.
+[SPEAKER_00A]: In here, right now.
+[SPEAKER_00A]: One of them is the size of two of them.
+[SPEAKER_00A]: And this guy is wearing his, you know, long johns and obviously he's been peeing his pants because he is not getting up to urinate he is so drunk.
+[SPEAKER_00A]: He's an older guy.
+[SPEAKER_00A]: He's probably 60 with white hoary hair and a big old beard.
+[SPEAKER_00A]: Been on the seas forever.
+[SPEAKER_00A]: He's not a legend.
+[SPEAKER_00A]: But he's infamous.
+[SPEAKER_06A]: Don't worry about it.
+[SPEAKER_06A]: We have good news.
+[SPEAKER_02B]: Stay here, shut up.
+[SPEAKER_06A]: We got good news for you.
+[SPEAKER_00A]: Hey, shut up!
+[SPEAKER_06A]: We got good news.
+[SPEAKER_00A]: He walks out the door, hand over his mouth.
+[SPEAKER_02B]: Shut the fuck up.
+[SPEAKER_00A]: He walks outside, he looks out.
+[SPEAKER_02B]: Yeah, Marines, Marines, Marines.
+[SPEAKER_00A]: They're passing by.
+[SPEAKER_00A]: He kind of does that, and he goes,
+[SPEAKER_00A]: Shuts the door and lights a candle.
+[SPEAKER_00A]: It's dark in this room.
+[SPEAKER_00A]: It does not smell good or anything like that.
+[SPEAKER_02B]: What are you doing here, lads?
+[SPEAKER_06A]: Don't worry.
+[SPEAKER_06A]: We got good news.
+[SPEAKER_00A]: Tyrus, you're with two of the biggest.
+[SPEAKER_00A]: Don't worry.
+[SPEAKER_06A]: We have good news.
+[SPEAKER_06A]: You're going back to Monmurg.
+[SPEAKER_02B]: How?
+[SPEAKER_06A]: We're leaving tonight.
+[SPEAKER_06A]: That I don't know.
+[SPEAKER_06A]: But you are going back to Monmurg.
+[SPEAKER_05A]: Helm.
+[SPEAKER_05A]: Think about that.
+[SPEAKER_05A]: How did we get out of here?
+[SPEAKER_05A]: Helm, I was sent here as a spy as well to get information to bring back to Jameis.
+[SPEAKER_06A]: That doesn't matter.
+[SPEAKER_06A]: All you gotta worry about Helm is how do we get out of here tonight.
+[SPEAKER_04A]: Yeah, we have to get out of here.
+[SPEAKER_06A]: I have information for Jameis.
+[SPEAKER_06A]: If you could leave sooner, that would be better.
+[SPEAKER_05A]: This is the only ship I know that we can get out of here on.
+[SPEAKER_05A]: What was your point?
+[SPEAKER_04A]: Were you going to be here?
+[SPEAKER_04A]: Were you going back to Monmurg?
+[SPEAKER_04A]: Is anything going to look out of the ordinary?
+[SPEAKER_04A]: What is he going to do?
+[SPEAKER_02B]: He kind of looks at you and goes, you know I don't trust you.
+[SPEAKER_04A]: Well, you shouldn't.
+[SPEAKER_06A]: But the good news is, you're going back to Monmurg.
+[SPEAKER_02B]: How am I going back to Monmurg?
+[SPEAKER_06A]: At night.
+[SPEAKER_06A]: Whatever you gotta do to get out of this house.
+[SPEAKER_02B]: Where's the fleet?
+[SPEAKER_02B]: I've been asking to go back to Monmurg for two weeks now.
+[SPEAKER_02B]: Three weeks.
+[SPEAKER_05A]: What do you gotta do to get out of here?
+[SPEAKER_04A]: Okay, so you're stuck in the embargo here.
+[SPEAKER_04A]: You're not slipping into it.
+[SPEAKER_02B]: They're not letting anyone out but the mail ships.
+[SPEAKER_06A]: All we gotta do is go to Saltmarsh.
+[SPEAKER_06A]: Tell them you're going to Saltmarsh.
+[SPEAKER_02B]: They're not gonna let me out of here.
+[SPEAKER_00A]: Yeah, sure.
+[SPEAKER_02B]: With four marines on my boat, they will.
+[SPEAKER_00A]: Who's asking you?
+[SPEAKER_07A]: Or who's telling you you can't?
+[SPEAKER_02B]: Admiral Amrachar, on that boat over there, the Keago man-of-war is the one that tells who can go and who cannot.
+[SPEAKER_02B]: And believe me, I've talked to him.
+[SPEAKER_02B]: He's not gonna let me go home.
+[SPEAKER_00A]: You're making fish.
+[SPEAKER_06A]: It's a rotten fish shoe.
+[SPEAKER_06A]: We could go to Saltmarsh and we could go, where else could we go?
+[SPEAKER_02B]: Well, we can't go anywhere.
+[SPEAKER_06A]: Yeah, we can.
+[SPEAKER_05A]: Tell me about this dude who...
+[SPEAKER_05A]: No, we can go to Saltmarsh or we can go to, which is the other one?
+[SPEAKER_05A]: Can't go anywhere right now.
+[SPEAKER_05A]: Yeah.
+[SPEAKER_05A]: Not to this ship.
+[SPEAKER_05A]: We need to talk.
+[SPEAKER_06A]: The two places, the two places you said we could go was Saltmarsh.
+[SPEAKER_06A]: Hope.
+[SPEAKER_02B]: Listen, Tyrus.
+[SPEAKER_02B]: They're not going to let any ship go to Saltmarsh or any ship go to Seaton.
+[SPEAKER_02B]: They're not a Marine detachment on board to take their wares there.
+[SPEAKER_06A]: Not a problem.
+[SPEAKER_06A]: What if I were?
+[SPEAKER_06A]: Get a few Marines on the ship.
+[SPEAKER_06A]: What if I were to charm them?
+[SPEAKER_06A]: So I'm saying, what if we got a few marines on the ship?
+[SPEAKER_06A]: We can take a few marines.
+[SPEAKER_06A]: How do you talk to this admiral?
+[SPEAKER_02B]: Well, you gotta go petition him.
+[SPEAKER_02B]: You're a charming lad, and you might be able to do it, but I'd hate the cost you'd have to pay.
+[SPEAKER_07A]: Cost?
+[SPEAKER_06A]: You know what I mean?
+[SPEAKER_02B]: Couldn't go alone.
+[SPEAKER_02B]: I'm not gonna let him go alone.
+[SPEAKER_02B]: I wouldn't sell a lad for that.
+[SPEAKER_05A]: Yeah.
+[SPEAKER_05A]: You need to go talk to him.
+[SPEAKER_06A]: But he can't go along.
+[SPEAKER_06A]: I'll go with you.
+[SPEAKER_06A]: No, I'll go with him.
+[SPEAKER_05A]: Well, luckily, I'm of no help here on that.
+[SPEAKER_06A]: I'll go with him.
+[SPEAKER_06A]: Okay, that's fine.
+[SPEAKER_05A]: You go with him.
+[SPEAKER_05A]: All right.
+[SPEAKER_06A]: Then we'll go talk to him.
+[SPEAKER_06A]: And what do we need him to do?
+[SPEAKER_06A]: Sign off on what?
+[SPEAKER_06A]: All right.
+[SPEAKER_02B]: Clean up a little.
+[SPEAKER_02B]: A lot.
+[SPEAKER_02B]: So what are you doing here?
+[SPEAKER_06A]: Well, Helm, we're getting out of here is what we're doing.
+[SPEAKER_02B]: We're in the wrong place at the wrong time.
+[SPEAKER_02B]: I don't want to know what you want to do.
+[SPEAKER_02B]: I want to know why you're here.
+[SPEAKER_05A]: So Helm, I was sent here to spy for Janus.
+[SPEAKER_05A]: Owen Black.
+[SPEAKER_05A]: In and out of Redshore.
+[SPEAKER_02B]: I've seen that rascal around here.
+[SPEAKER_05A]: Yeah, so we came on in his cruiser.
+[SPEAKER_05A]: Our charming little lad here found out a lot more information than he should have.
+[SPEAKER_05A]: He loosened Owen's tongue a little too much.
+[SPEAKER_05A]: Owen's put out for us now.
+[SPEAKER_05A]: We've ran into some trouble, but we have valuable information we need to get back to Monmurg that's gonna help free Redshore.
+[SPEAKER_05A]: And prosper the city of Monmurg.
+[SPEAKER_05A]: The sooner we do this, the better.
+[SPEAKER_02B]: What are the plans here?
+[SPEAKER_05A]: Well, what we're thinking, if we can get our bard to go talk to this admiral and woo him enough to either A, let this ship pass.
+[SPEAKER_05A]: Brive him.
+[SPEAKER_05A]: Transform marines, bribe him, whatever we need to do.
+[SPEAKER_05A]: Or find out what ships will be passing tonight.
+[SPEAKER_02B]: How important is this information for Jameis?
+[SPEAKER_06A]: Extremely.
+[SPEAKER_06A]: The most important information he needs to know right now.
+[SPEAKER_06A]: So that means to me that it would help break the blockade.
+[SPEAKER_05A]: That's what we gotta do.
+[SPEAKER_05A]: Yes.
+[SPEAKER_05A]: The blockade here would be down.
+[SPEAKER_05A]: The passage, you know the mysterious storms that are blocking the direct passage from here to Monmurg?
+[SPEAKER_02B]: Yes.
+[SPEAKER_05A]: Let's just say we don't have to worry about that anymore, or for a time being, but I don't know how long that is going to be, so we need to start moving as quick as possible because we have a small glimpse of opportunity to get Monmurg in and out of here.
+[SPEAKER_05A]: Helm, you know I know these waters.
+[SPEAKER_05A]: I know you know these waters.
+[SPEAKER_05A]: You need to trust me on this.
+[SPEAKER_02B]: I told you I've been in communication with Jameis these last several weeks.
+[SPEAKER_00A]: How so?
+[SPEAKER_02B]: Pigeons.
+[SPEAKER_02B]: I've got three in the hold right now left for it.
+[SPEAKER_02B]: He's been asking me questions.
+[SPEAKER_02B]: He put me here.
+[SPEAKER_02B]: Can you write this letter and I can give it to Jameis?
+[SPEAKER_02B]: Because I'm telling you, Admiral Armarchar is not going to let us out of here.
+[SPEAKER_02B]: When he takes one look at you, and definitely you, there's no way we're free.
+[SPEAKER_02B]: This lad could probably go on a mail ship to Saltmarsh or Seaton.
+[SPEAKER_02B]: No one else is getting out of here now.
+[SPEAKER_00A]: What if we send the pigeons now?
+[SPEAKER_07A]: I was going to suggest putting Merrick and Gouge in cargo and bringing it up on a mail ship, but the pigeon is the only, the best resource we have.
+[SPEAKER_02B]: A pigeon's going to get to Monmurg fast and then a sail.
+[SPEAKER_05A]: It'll break the embargo though, right?
+[SPEAKER_05A]: Then we can get out of here.
+[SPEAKER_04A]: I'm not sure if we need to actually sail the waters to make sure it's clear.
+[SPEAKER_04A]: I see what you mean.
+[SPEAKER_04A]: To know if I... That was the whole reason.
+[SPEAKER_04A]: You're going and making sure.
+[SPEAKER_05A]: If that's clear.
+[SPEAKER_04A]: Yeah, we can't send a pigeon in the hopes that it's clear and it's not.
+[SPEAKER_04A]: We called the Monmurgian Navy into a death trap.
+[SPEAKER_05A]: How many miles out of that?
+[SPEAKER_05A]: From where we are, I assume it's miles and miles away.
+[SPEAKER_00A]: It's 60 miles to Monmurg, but...
+[SPEAKER_00A]: This is where you saw King Toli two days ago.
+[SPEAKER_00A]: This is 60 miles.
+[SPEAKER_00A]: That is 80 miles and he was still heading that way.
+[SPEAKER_06A]: How long does it take to get one of these rats with wings to a Monmurg?
+[SPEAKER_00A]: He'll get the message probably within 20 hours.
+[SPEAKER_06A]: Gives us plenty of time to go visit
+[SPEAKER_06A]: The king here.
+[SPEAKER_00A]: The earl.
+[SPEAKER_06A]: The earl here.
+[SPEAKER_05A]: We need to send a pigeon, though.
+[SPEAKER_06A]: That's fine.
+[SPEAKER_05A]: I mean, we just need to tell everything I just told you I'm telling Jameis.
+[SPEAKER_02B]: If you men want to go and try and leave this town and fight an entire contingent of men at war, that's fine.
+[SPEAKER_02B]: But I can get you a message to Jameis if you write it for me.
+[SPEAKER_00A]: Yep, that's fine.
+[SPEAKER_02B]: I'll even let you guys, you rats, stay in the hold like the other rats do and hide out here until we know more.
+[SPEAKER_07A]: I would say we write the letter and then wait for James to write us back to see the best plan of action.
+[SPEAKER_06A]: I mean, this is what I kind of think will be written back.
+[SPEAKER_06A]: I think we'll see the Monmurg and Navy coming back.
+[SPEAKER_06A]: Right, and I think by that time it's gonna take 20 hours for a pigeon to get there.
+[SPEAKER_06A]: It's gonna take
+[SPEAKER_06A]: More than that for a Navy to sail this direction.
+[SPEAKER_02B]: That's not true.
+[SPEAKER_06A]: How long can a Navy...
+[SPEAKER_02B]: The boats would be there in like 15.
+[SPEAKER_06A]: So we're talking two days.
+[SPEAKER_06A]: Less than two days.
+[SPEAKER_06A]: Day and a half.
+[SPEAKER_06A]: Yep.
+[SPEAKER_06A]: To get there and back.
+[SPEAKER_00A]: In the meantime...
+[SPEAKER_00A]: It'd probably take four hours to get shaken.
+[SPEAKER_05A]: Yeah, yeah, yeah.
+[SPEAKER_05A]: It'd be less than two days.
+[SPEAKER_05A]: Helm, show me to your pigeons.
+[SPEAKER_02B]: In the meantime, write the letter.
+[SPEAKER_02B]: My pigeons are my business.
+[SPEAKER_02B]: I'll take care of them myself.
+[SPEAKER_05A]: Sounds good.
+[SPEAKER_05A]: Okay, I'm going to write out a letter.
+[SPEAKER_05A]: Merrick's going to write out a letter.
+[SPEAKER_05A]: I do want to write out a letter.
+[out-of-band] [SPEAKER_01]: Posterity.
+[out-of-band] [SPEAKER_03]: Dot, dot, dot.
+[out-of-band] [SPEAKER_02]: Send out some baby dot, dot, dot.
+[out-of-band] [SPEAKER_02]: Are you the six-fingered guy?
+[out-of-band] [SPEAKER_02]: This is posterity, remember?
+[out-of-band] [SPEAKER_01]: Six-fingered man.
+[SPEAKER_05A]: If I write, it's going to go to Helm, this is going to go to... No, wait a minute.
+[SPEAKER_06A]: You send this letter.
+[SPEAKER_06A]: Did you check to make sure that there were no dragons on that side of the island?
+[SPEAKER_00A]: So by the way, it is going to be coded because you know how to code it.
+[SPEAKER_06A]: Yes.
+[SPEAKER_06A]: Okay.
+[SPEAKER_06A]: But did you check and make sure there were no dragons when we were on that side?
+[SPEAKER_06A]: You did not.
+[SPEAKER_05A]: Negative.
+[SPEAKER_05A]: I can look.
+[SPEAKER_05A]: We send a navy.
+[SPEAKER_05A]: Let me write this out.
+[SPEAKER_05A]: We'll go look.
+[SPEAKER_05A]: Then we'll send it.
+[SPEAKER_05A]: Before you see it, you should check.
+[SPEAKER_00A]: Merrick's concerned about this.
+[SPEAKER_05A]: Let me go out on the deck really quick.
+[SPEAKER_05A]: Come with me, if you don't mind.
+[SPEAKER_05A]: Go out on the deck.
+[SPEAKER_05A]: I'm going to scan the seeds.
+[SPEAKER_05A]: Do I see anything wrong?
+[SPEAKER_00A]: Do you want to go on deck and look in the redshirt to see if there are any...
+[SPEAKER_00A]: Yes.
+[SPEAKER_00A]: Okay.
+[SPEAKER_00A]: Let's go talk.
+[SPEAKER_00A]: I grabbed your collar.
+[SPEAKER_00A]: Grab his collar.
+[SPEAKER_00A]: Merrick?
+[SPEAKER_04A]: Remember, you've already said too much, so do not tell him anything more.

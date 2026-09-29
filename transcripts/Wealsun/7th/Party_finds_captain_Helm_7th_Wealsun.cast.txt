@@ -1,0 +1,9 @@
+# Cast for Party_finds_captain_Helm_7th_Wealsun
+# Expected voices: 5
+DM
+Merrick
+Gouge
+Tyrus
+Folsom
+Georg (NPC, DM-voiced)
+Helm (NPC, DM-voiced)

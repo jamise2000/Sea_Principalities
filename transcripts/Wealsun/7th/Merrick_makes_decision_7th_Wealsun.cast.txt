@@ -1,0 +1,8 @@
+# Cast for Merrick_makes_decision_7th_Wealsun
+# Expected voices: 5
+DM
+Merrick
+Gouge
+Tyrus
+Folsom
+Helm (NPC, DM-voiced)
