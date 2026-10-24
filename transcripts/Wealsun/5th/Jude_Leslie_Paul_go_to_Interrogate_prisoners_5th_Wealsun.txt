@@ -1,0 +1,578 @@
+[SPEAKER_02]: Four p.m. on the 5th, a Wealsun.
+[SPEAKER_02]: Jude, Leslie, and Paul make their way up out of the secret laboratory and through the castle.
+[SPEAKER_02]: Leslie, who is reluctant to travel with them, lags behind.
+[SPEAKER_02]: As you guys walk towards the dungeon, is there anything you want to say to each other?
+[SPEAKER_02]: Jude, do you want to sort of position what's happening?
+[SPEAKER_01]: Do you want to do the torturing since you were reading the book or do you want me to?
+[SPEAKER_01]: Yeah, sure.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: We need to know how the gift is being delivered to people and it's outside of the warren.
+[SPEAKER_01]: And it was outside of the warren like months ago.
+[SPEAKER_01]: So...
+[SPEAKER_01]: We really need to know how.
+[SPEAKER_01]: Let's start with the guy.
+[SPEAKER_01]: If he dies, we'll move to the girl.
+[SPEAKER_00]: Okay.
+[SPEAKER_01]: What are you going to do?
+[SPEAKER_01]: I want to inject him with chemicals.
+[SPEAKER_01]: Do you put chemicals on you?
+[SPEAKER_01]: Or is that something that you do?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: You do that?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Oh.
+[SPEAKER_01]: Actually, I don't know.
+[SPEAKER_02]: What chemicals do you want to inject him with?
+[SPEAKER_02]: Uh, what do I have?
+[SPEAKER_02]: I've got a lot of chemicals, so... Well, I think the only thing that you have readily available...
+[SPEAKER_02]: Readily available is the powder.
+[SPEAKER_02]: Well, you have the powder, definitely, but roll what else you have?
+[SPEAKER_00]: Five, but aren't you talking about what I picked up at the... You have opium sticks.
+[SPEAKER_01]: It looks like sedative, kind of?
+[SPEAKER_02]: Well, I mean, you know, they're not in their greatly concentrated form, but when the nights are really bad for you, you remember that you would light an opium stick to make your skin quit itching and the pain of pain stop.
+[SPEAKER_02]: So there's that.
+[SPEAKER_01]: But we have to do that.
+[SPEAKER_02]: That means that any pain we do.
+[SPEAKER_01]: But if the guy was in so much pain that we put him in that he can't talk, you could give him some as a draw.
+[SPEAKER_01]: Roll an intelligence check.
+[SPEAKER_02]: In fact, all of you roll an intelligence check.
+[SPEAKER_02]: Twenty-sided?
+[SPEAKER_00]: Twenty-sided.
+[SPEAKER_02]: Add your Arcana to it.
+[SPEAKER_02]: I got you.
+[SPEAKER_00]: Ten.
+[SPEAKER_00]: These dice suck.
+[SPEAKER_01]: I need to get your dice.
+[SPEAKER_01]: Keen is plus... Wow, I cannot even see that.
+[SPEAKER_01]: Is that plus 8?
+[SPEAKER_01]: That is plus 8.
+[SPEAKER_01]: So 18.
+[SPEAKER_02]: So Paul basically says inject him with chemicals, right?
+[SPEAKER_02]: And he talks about opium.
+[SPEAKER_02]: And then you realize you've got this white draw.
+[SPEAKER_01]: It's supposed to counteract.
+[SPEAKER_01]: Yeah, I did think actually already about implementing that.
+[SPEAKER_01]: I did not think about injecting them.
+[SPEAKER_02]: Well, I mean injecting them really maybe making them drink it as well.
+[SPEAKER_01]: Right, that's what I was thinking is possibly forcing them because see if they're
+[SPEAKER_01]: I don't know if everybody else is supposed to turn into what we're seeing then, or if they're that way and they just are making everybody else suffer from the sort of shadow, you know, the gift sickness or whatever, the black sickness.
+[SPEAKER_01]: But, yeah, I thought that it would have, like, probably a pretty painful effect on that because it would subdue
+[SPEAKER_01]: They have the same things, because they have that poison inside of them.
+[SPEAKER_01]: The gift of insamiar, they have the concentrated form, at least in their teeth sacks, right?
+[SPEAKER_02]: No, that was green vial.
+[SPEAKER_02]: That was poison.
+[SPEAKER_01]: Oh, okay.
+[SPEAKER_02]: But still.
+[SPEAKER_02]: But I mean, if it reduces the effect, because they are a crazy hatred.
+[SPEAKER_02]: They are, or they aren't?
+[SPEAKER_02]: Well, I mean, the Scarlet Brotherhood people are like...
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Well, that guy was talking about the dragon, which also he mentioned in the journal.
+[SPEAKER_02]: Could you muffle the dragon?
+[SPEAKER_02]: What do you mean muffle?
+[SPEAKER_02]: Well, it's in his head.
+[SPEAKER_02]: What I'm trying to say is will the white draught muffle the voice of the dragon?
+[SPEAKER_02]: Right.
+[SPEAKER_02]: I mean, remember what he was saying is that...
+[SPEAKER_02]: He hears it, right?
+[SPEAKER_02]: And would you hear it too?
+[SPEAKER_02]: Or can you disconnect him from it?
+[SPEAKER_02]: What effect would that have?
+[SPEAKER_02]: Because these guys seem pretty much untorturable in the way.
+[SPEAKER_02]: You worked on him, and he was still resistant.
+[SPEAKER_01]: So at the very least, it might make him more pliable.
+[SPEAKER_02]: Maybe.
+[SPEAKER_00]: I might just run up and grab some stuff.
+[SPEAKER_01]: I was just gonna say, I brought one of the milky bottles.
+[SPEAKER_01]: This is supposed to counteract.
+[SPEAKER_01]: The gift, which the gift is also like, you know, it's the shadow thing that's infecting the people of the warren.
+[SPEAKER_01]: But I'll bet you these guys are hopped up on it and have been on it for a really long time.
+[SPEAKER_01]: And if we're able to, if we make him drink it, he's gonna sort of see it.
+[SPEAKER_01]: If you can inject him, no, no, if you can deliver some pain to him where he can't see what you're doing, let's say you strangle him, and while strangling him,
+[SPEAKER_01]: That's going to interfere, at least in some way, with A, the voice of the dragon, probably, that's in this guy's head.
+[SPEAKER_01]: B, it might make him either more aware of the pain that he's going through, therefore more pliable, or he might cooperate willingly if it subdues the symptoms.
+[SPEAKER_01]: Yeah, I get it.
+[SPEAKER_01]: So I don't know if these guys have died in the wool, Scarlet Brotherhood.
+[SPEAKER_01]: Do I know that?
+[SPEAKER_01]: Like these guys, like what I ran into in Hempoland?
+[SPEAKER_02]: There was kind of a weird mixture of this kind of thing and other guys that would wear red robes and fight like monks.
+[SPEAKER_01]: No sense that these are like mutated acolytes, you know, the crazy muscle and the monks with the brains behind the outfit?
+[SPEAKER_02]: Obviously these are mutated crazy people and you have doubts in your mind that they would be able to be as subtle
+[SPEAKER_02]: Especially they were wandering around after burning the shop, so they're not even like...
+[SPEAKER_02]: They didn't seem that, and Paul himself said they didn't seem that particularly smart.
+[SPEAKER_02]: Idiots.
+[SPEAKER_01]: But we do have the female, and the female was in charge.
+[SPEAKER_01]: Let's get the male out.
+[SPEAKER_01]: We took the male into a separate room, right?
+[SPEAKER_00]: They're both in separate chambers.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Let's work with the male and let's inject him without him knowing and inflict some pain prior to injecting him so that in some way he maybe wouldn't notice that he's being injected with this when I show him the bile.
+[SPEAKER_01]: Not the whole thing.
+[SPEAKER_01]: Let's just do whatever your syringe can take.
+[SPEAKER_01]: I mean, you can do a full syringe does, but that would still leave three-fourths or half of the bile.
+[SPEAKER_01]: Would it?
+[SPEAKER_01]: You can put as much into it as you want.
+[SPEAKER_01]: Well, I meant like, if a vial is this much but a syringe is small and narrow, is it like a hospital syringe?
+[SPEAKER_02]: It's not nearly as nice as a hospital syringe.
+[SPEAKER_01]: I wasn't doing that.
+[SPEAKER_02]: The needle is much coarser than normal.
+[SPEAKER_02]: So, I mean, you can put the full draught into it.
+[SPEAKER_01]: Let's try a full draught then, on the mail.
+[SPEAKER_01]: I've got a second draught if we need.
+[SPEAKER_01]: Well, no, but what I want you to do is when we go in, like, punch him in the back of the head like three or four times.
+[SPEAKER_01]: Just chop off his finger or something.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: I know what you do.
+[SPEAKER_01]: I was actually gonna twist a little bit and pull his fingers off.
+[SPEAKER_03]: No, I know what you do.
+[SPEAKER_03]: You hurt him to the point where he's gonna die and then you save him.
+[SPEAKER_03]: But you have the pain go for like 30 seconds.
+[SPEAKER_01]: Well, I don't think we need to go so far.
+[SPEAKER_03]: Like, you cut his artery and then you reattach it.
+[SPEAKER_01]: Well, okay, I don't want to waste a healing potion on that.
+[SPEAKER_03]: No, you don't use a healing potion.
+[SPEAKER_01]: No, we're going to use this draught.
+[SPEAKER_03]: Healing potion makes him feel much better.
+[SPEAKER_03]: We don't want that.
+[SPEAKER_03]: No, we don't.
+[SPEAKER_01]: Yeah, so why are you saying that we should?
+[SPEAKER_01]: I don't want to sever any arteries.
+[SPEAKER_01]: I don't want to sever any arteries.
+[SPEAKER_03]: But you want to cut off his fingers?
+[SPEAKER_03]: Or his hand.
+[SPEAKER_03]: Or his hand.
+[SPEAKER_01]: I can tie a tourniquet up above his wrist.
+[SPEAKER_03]: That's what I'm saying.
+[SPEAKER_03]: Do that to the artery.
+[SPEAKER_03]: We need to talk about the body dimensions.
+[SPEAKER_03]: I don't know if you're...
+[SPEAKER_03]: Okay, well, somehow snakes have hands in this world, too.
+[SPEAKER_01]: Okay, well, yeah, I get it.
+[SPEAKER_01]: I get it.
+[SPEAKER_01]: It is a little odd.
+[SPEAKER_01]: Okay, uh, yeah, I'm gonna, like, you know, take a hammer and crush every bone in the sand.
+[SPEAKER_02]: Okay, you say that as you guys walk down the stairs into the dungeon.
+[SPEAKER_02]: Alright, you enter the dungeon.
+[SPEAKER_02]: And the prisoners are still behind the bars.
+[SPEAKER_02]: And you can tell that the guards
+[SPEAKER_02]: Have been changed out because the ones that are here are not there.
+[SPEAKER_02]: And Paul, what you notice is that they're all really freaked out because the two prisoners are still there, laaring at them.
+[SPEAKER_02]: The woman is still bound, right?
+[SPEAKER_02]: And gags.
+[SPEAKER_02]: But the male is like at the bars, just raging, crazy and hissing.
+[SPEAKER_02]: And the two missing teeth
+[SPEAKER_02]: Gaps in his mouth.
+[SPEAKER_02]: They haven't regenerated?
+[SPEAKER_02]: No, they haven't regenerated.
+[SPEAKER_02]: But, the men seem to be...
+[SPEAKER_02]: It doesn't seem like it's a great job to be Gordon Murphy.
+[SPEAKER_01]: Okay, well that's actually a good sign because that means that these guys don't have the shadow on them.
+[SPEAKER_01]: And that's what I'm going to use to say from now on to imply that somebody might be underneath the influence of the gift.
+[SPEAKER_00]: Is it the same thing that you were under influence of?
+[SPEAKER_00]: When did you think I had been under influence?
+[SPEAKER_01]: I don't know.
+[SPEAKER_01]: You look like a...
+[SPEAKER_01]: I'm talking about like the... Oh, no, no, no, no.
+[SPEAKER_01]: You're talking about when I was morphed and changed.
+[SPEAKER_01]: That guy said that I was cold.
+[SPEAKER_01]: Whatever.
+[SPEAKER_01]: Long story, I'll tell you later.
+[SPEAKER_01]: No, I'm talking about, like, we need to be aware that if anybody is, like, flat-faced and unemotional and, like, somewhat lethargic, that they could be underneath the influence of the gift.
+[SPEAKER_01]: And if they are, they could be prone to violent outbursts at any time.
+[SPEAKER_01]: Hey, this is important for both you guys.
+[SPEAKER_01]: I really want you to hear this.
+[SPEAKER_01]: The black sickness is outside of the warrant.
+[SPEAKER_01]: It was outside of the warrant two months ago.
+[SPEAKER_01]: We don't know how it's being delivered.
+[SPEAKER_01]: If you run into anybody that's acting like flat affect, meaning they just don't seem to be showing any emotion, maybe low energy, they don't seem to care about anything, their responses or emotional responses are not appropriate to the city,
+[SPEAKER_01]: Meaning they're not excited if there's celebrations going on.
+[SPEAKER_01]: They're not hungry if they're starving and looking like a bag of bones.
+[SPEAKER_01]: They're not like angry if there's good reason to be like somebody just beat them up and they're bleeding.
+[SPEAKER_01]: Anything like that.
+[SPEAKER_01]: And you need to be aware that you are maybe in the presence of somebody that could violently try to rip your head off.
+[SPEAKER_03]: Yeah, but what if they're like depressed?
+[SPEAKER_03]: Roll a perception check.
+[SPEAKER_01]: I just want both of you guys to be aware, and if we're in a group, please point it out to me if I don't notice it also.
+[SPEAKER_03]: Okay?
+[SPEAKER_01]: So, people...
+[SPEAKER_01]: And anything that's unusually no affect.
+[SPEAKER_01]: If it's outside of the warren, it could be in the palace grounds.
+[SPEAKER_01]: So you need to look for people standing around doing nothing.
+[SPEAKER_01]: Servants standing around doing nothing, they know when you walk by that they should probably be looking busy.
+[SPEAKER_01]: That would be suspect behavior.
+[SPEAKER_01]: People that maybe don't respond very quickly, especially if they're servants.
+[SPEAKER_01]: If they're any of the nobility and they're sort of
+[SPEAKER_01]: But this is what we've got to find out.
+[SPEAKER_01]: We've got to get a...
+[SPEAKER_03]: So why don't you guys just like, not me, but why don't you guys like go on a hunt and just like kill everyone that has it?
+[SPEAKER_01]: Well, right now, we don't know who has it.
+[SPEAKER_03]: If everyone has it, then no one... Well, first off... Because I have a minus two on strength.
+[SPEAKER_01]: You're not for me.
+[SPEAKER_01]: Well, first off, your master made this white potion that we're going to inject into this guy and that can help.
+[SPEAKER_01]: So any of the family or officers or...
+[SPEAKER_01]: I mean, we can't just mask...
+[SPEAKER_01]: Produce it, but this is why we're torturing them, is to find out how it's being delivered.
+[SPEAKER_01]: Okay?
+[SPEAKER_01]: Alright, we walk in.
+[SPEAKER_02]: I tell the guards, I say... Leslie walks, mutters under his breath, I can mass produce it.
+[SPEAKER_03]: I know everything about it.
+[SPEAKER_01]: Okay, well, I direct the guards to like, you know... You walk into the room.
+[SPEAKER_01]: Caller this guy, yeah.
+[SPEAKER_01]: And you say...
+[SPEAKER_01]: I need him in a separate room.
+[SPEAKER_02]: Caller him.
+[SPEAKER_02]: The jailer looks over at you and says...
+[SPEAKER_02]: Paul?
+[SPEAKER_02]: I mean, Prince Rivero?
+[SPEAKER_02]: Yeah, go ahead.
+[SPEAKER_02]: He walks over and grabs the news and he basically says, help me, to one of the guards who rushes over, looking a little freaked out.
+[SPEAKER_02]: And he goes through the same procedure that happened before.
+[SPEAKER_02]: Basically around the neck, collaring and... Keep a firm grip, boys.
+[SPEAKER_02]: Don't be letting him loose.
+[SPEAKER_02]: And then pull him towards the grate where they grab his hands and bind him like that.
+[SPEAKER_01]: The procedure is much as it was yesterday.
+[SPEAKER_01]: As long as it's in a separate room so she can't see what we're doing or here, necessarily.
+[SPEAKER_02]: Well, catching him was what you want, but you want to take him back to the room where the torturing happened last time.
+[SPEAKER_02]: Okay, so you pull him back into that room.
+[SPEAKER_02]: Sit him down in the chair and the guards find him as well.
+[SPEAKER_02]: And the guards kind of sit there and they kind of look at each other.
+[SPEAKER_02]: And the jailer says, what shall I bring you?
+[SPEAKER_01]: Aren't all the tools already in this one?
+[SPEAKER_02]: I don't have a stove here if you would like me to heat, or if you need something sharpened, or if you need water.
+[SPEAKER_02]: Whatever you would like, sir.
+[SPEAKER_02]: You can tell this guy is a professional at what he's done.
+[SPEAKER_02]: Oh, what he actually like.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: No, I'm just going to crush the bones in his hands to start with.
+[SPEAKER_01]: The base over there is fine.
+[SPEAKER_01]: Of course.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Before we go any further, I mean, unless, do you, would you like to proceed since you seem to be skilled in this?
+[SPEAKER_01]: The man on the previous shift didn't seem to be skilled.
+[SPEAKER_01]: This is the same guy.
+[SPEAKER_01]: Oh, yeah.
+[SPEAKER_01]: But the same guy as the previous shift?
+[SPEAKER_01]: This is the jailer.
+[SPEAKER_02]: I know, but I thought you said there were all new jailers or all new ships.
+[SPEAKER_01]: All new guards are here.
+[SPEAKER_01]: But this is the guy who has the dungeon.
+[SPEAKER_01]: Yeah, then I don't.
+[SPEAKER_01]: I wasn't sure if he was the one that got squeamish.
+[SPEAKER_02]: He was.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: I mean, you went beyond him.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Then I don't say that.
+[SPEAKER_01]: Okay, let's see.
+[SPEAKER_01]: How is the gift being delivered?
+[SPEAKER_02]: He looks at you and goes, To the fangs of Insaniar, his poison drips into the pools.
+[SPEAKER_02]: The pools and the warren?
+[SPEAKER_01]: No.
+[SPEAKER_01]: I mean here, in the Warren, how is the gift being delivered?
+[SPEAKER_01]: How is the gift spreading?
+[SPEAKER_01]: On the wings of dragons.
+[SPEAKER_01]: All right.
+[SPEAKER_00]: Maybe he doesn't mean like a literal dragon.
+[SPEAKER_01]: Why don't we just make him sign his knife away?
+[SPEAKER_01]: No, he does.
+[SPEAKER_01]: He does mean a literal dragon.
+[SPEAKER_00]: It's... but it's... You can't just assume that.
+[SPEAKER_01]: Yeah, you can because it's like started with the kobold clans outside of Westkeep, and the kobold clans worship dragons.
+[SPEAKER_00]: Okay, well, I don't know if he knows, but there hasn't been a dragon flying around here.
+[SPEAKER_00]: Well, there's an illness out of that dragon.
+[SPEAKER_01]: Well, I agree.
+[SPEAKER_01]: There isn't.
+[SPEAKER_01]: There hasn't.
+[SPEAKER_01]: But that, A, that doesn't mean there's not one in the swamps, like, you know, west of Westkeep.
+[SPEAKER_00]: All right, let's go kill him.
+[SPEAKER_01]: No, what I'm saying is just get ready.
+[SPEAKER_01]: Get ready.
+[SPEAKER_03]: Let me get men.
+[SPEAKER_01]: Wham!
+[SPEAKER_01]: While he's in the middle of talking, I just like...
+[SPEAKER_02]: Roll your attack as advantage.
+Okay.
+[SPEAKER_02]: Let me grow the Leslie production.
+[SPEAKER_01]: This is a mace?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Seventeen.
+[SPEAKER_02]: Seventeen plus your strength bonus.
+[SPEAKER_02]: That's plus two.
+[SPEAKER_02]: Plus two, you're not proficient.
+[SPEAKER_02]: Nineteen, that's a hit.
+[SPEAKER_02]: He smashes the guy's hand.
+[SPEAKER_02]: No, I'm not at you.
+[SPEAKER_02]: One die, six.
+[SPEAKER_02]: I'm behind.
+[SPEAKER_02]: Six points of damage, plus your strength bonus, plus two.
+[SPEAKER_02]: You crush his hand.
+[SPEAKER_00]: Alright, I go behind and I...
+[SPEAKER_00]: Take the white serum with the syringe and I inject it into his neck.
+[SPEAKER_02]: Okay, so you take that and you hold him and inject the white liquid into his neck.
+[SPEAKER_01]: You pop him right in the face and look at me.
+[SPEAKER_01]: Look at me.
+[SPEAKER_01]: How is the gift being delivered to the people in the warren?
+[SPEAKER_02]: His eyes milk over.
+[SPEAKER_02]: All right.
+[SPEAKER_01]: Ooh, but that like the white milky substance kind of?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: You can tell he's like, he like looks around.
+[SPEAKER_02]: Where are the beatings of the wings?
+[SPEAKER_02]: I told you they were literally wrong.
+[SPEAKER_01]: Where are the beatings of the wings?
+[SPEAKER_01]: Focus on my voice.
+[SPEAKER_01]: How is the gift being disseminated in the Warren and the rest of Monmurg?
+[SPEAKER_01]: Say more.
+[SPEAKER_02]: Riding on the storms.
+[SPEAKER_02]: Black.
+[SPEAKER_02]: Riding on the storms.
+[SPEAKER_01]: How do the people come down with the shadow sickness?
+[SPEAKER_02]: He brings it to us.
+[SPEAKER_02]: Over the way.
+[SPEAKER_03]: What's his name?
+[SPEAKER_01]: Black.
+[SPEAKER_02]: What is the Black Dragon's name?
+[SPEAKER_01]: Samiar is the Black Dragon.
+[SPEAKER_01]: He brings it in person?
+[SPEAKER_02]: It's the Secret Harbor.
+[SPEAKER_01]: Secret Harbor, write this down.
+[SPEAKER_01]: Owen Black, Secret Harbor.
+[SPEAKER_01]: Well, we know that Owen Black's a smuggler, but I didn't think that he was bringing, like, shit in.
+[SPEAKER_02]: He has.
+[SPEAKER_02]: New for us.
+[SPEAKER_02]: The cash is almost depleted.
+[SPEAKER_01]: Where is the cache?
+[SPEAKER_01]: Secret Harbor.
+[SPEAKER_01]: The cache is at the Secret Harbor, and Owen Black is running there.
+[SPEAKER_01]: He starts bleeding out of the gum holes.
+[SPEAKER_01]: Okay, I get close to his cache.
+[SPEAKER_01]: This is gonna kill him.
+[SPEAKER_01]: Okay, so I say, where in the Secret Harbor is the cache?
+[SPEAKER_02]: The Secret Harbor.
+[SPEAKER_01]: What warehouse?
+[SPEAKER_01]: What shack?
+[SPEAKER_01]: He dies.
+[SPEAKER_03]: Punch him.
+[SPEAKER_03]: You guys suck at this.
+[SPEAKER_03]: You make him sign his life away, you cut his artery, and then re-attack it.
+[SPEAKER_02]: He didn't cut his artery.
+[SPEAKER_02]: He didn't.
+[SPEAKER_02]: I said you should.
+[SPEAKER_02]: Do you want to try and dump a healing potion down his throat?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Thank you.
+[SPEAKER_01]: Yes.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: So Jude pulls out a healing potion.
+[SPEAKER_01]: Oh, it's one of mine.
+[SPEAKER_02]: It's not mine.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Roll.
+[SPEAKER_02]: Hire the better.
+[SPEAKER_01]: If I get a dex bonus... Dex bonus.
+[SPEAKER_01]: It would be plus four?
+[SPEAKER_01]: Sixteen.
+[SPEAKER_02]: You get it down his throat.
+[SPEAKER_02]: Alright, you need to heal six points of damage.
+[SPEAKER_02]: You got a die four?
+[SPEAKER_00]: Don't use my die.
+[SPEAKER_02]: So you get two die four plus two.
+[SPEAKER_00]: Three.
+[SPEAKER_00]: Six.
+[SPEAKER_00]: Six.
+[SPEAKER_02]: Eight points of damage.
+[SPEAKER_02]: He comes back as you pour down the healing potion.
+[SPEAKER_01]: Where in the secret harbor is the cache?
+[SPEAKER_02]: It is there.
+[SPEAKER_02]: All of it.
+[SPEAKER_01]: In which building?
+[SPEAKER_01]: Which location?
+[SPEAKER_01]: Which hole in the ground did you hide it?
+[SPEAKER_01]: Use your brain.
+[SPEAKER_02]: The access is through the warren.
+[SPEAKER_01]: The secret harbor, the access is through the warren.
+[SPEAKER_01]: You gotta talk to Ferg.
+[SPEAKER_01]: Does Owen Black bring the new shipment tonight?
+[SPEAKER_01]: You said he had a new shipment.
+[SPEAKER_01]: Is it already here?
+[SPEAKER_01]: No.
+[SPEAKER_02]: The 10th.
+[SPEAKER_02]: The 10th.
+[SPEAKER_02]: 10th of Wales, son.
+[SPEAKER_02]: What is this?
+[SPEAKER_02]: What day is this?
+[SPEAKER_02]: This is the 7th or 5th.
+Okay.
+[SPEAKER_01]: What is the signal?
+[SPEAKER_01]: For him to come ashore and know that Alex is safe.
+[SPEAKER_02]: There is no signal.
+[SPEAKER_02]: He just comes ashore.
+[SPEAKER_01]: Did we take robes off these guys?
+[SPEAKER_01]: Like if we wanted to disguise ourselves?
+[SPEAKER_02]: You took the masks.
+[SPEAKER_02]: I mean, they don't have robes.
+[SPEAKER_02]: They're bowed out dudes.
+[SPEAKER_01]: And then the chick is like that too.
+[SPEAKER_01]: They don't wear a lot of clothing.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Like Thessalon cloths or something like that.
+[SPEAKER_02]: I would say more like, you know...
+[SPEAKER_02]: The guys are shirtless.
+[SPEAKER_02]: I mean, if these guys were walking around with their masks out in the open in Monmurg, that'd be weird.
+[SPEAKER_02]: It's like, you get a feeling they don't go far from the warren, is what it is.
+[SPEAKER_01]: So you told me how the black is delivered.
+[SPEAKER_01]: How is it, how do the people, do you get the people to take it?
+[SPEAKER_01]: Is it a drug?
+[SPEAKER_01]: Is it a powder?
+[SPEAKER_01]: Is it a liquid?
+[SPEAKER_02]: They take it willingly.
+[SPEAKER_02]: It is the willing gift.
+[SPEAKER_01]: How do you convince them to take it?
+[SPEAKER_01]: The suffering of their own lives.
+[SPEAKER_01]: It's like starvation, basically.
+[SPEAKER_01]: These people are taking it to avoid feeling hungry.
+[SPEAKER_01]: So they are depressed?
+[SPEAKER_01]: Well, yeah, everybody in Monmurg is depressed.
+[SPEAKER_03]: Okay, so why are we caring about depressed people right now?
+[SPEAKER_02]: It's their world.
+[SPEAKER_02]: You couldn't speak up, this is too good, not that one day.
+[SPEAKER_03]: What do you know?
+[SPEAKER_03]: What do you know about that?
+[SPEAKER_01]: Do you know anything about the sea turtles?
+[SPEAKER_01]: Ask the Toli.
+[SPEAKER_01]: Do you know nothing then?
+[SPEAKER_01]: Only rumors.
+[SPEAKER_01]: I look at his eyes.
+[SPEAKER_01]: Is the milky gone?
+[SPEAKER_02]: Oh no, it's still there.
+[SPEAKER_02]: I mean, it's like totally taken over.
+[SPEAKER_01]: So I don't get any sense that he's obfuscating, like he's just communicating.
+[SPEAKER_02]: Roll an insight roll.
+[SPEAKER_01]: 18 plus insight.
+[SPEAKER_01]: Insight is plus three.
+[SPEAKER_02]: I think so.
+[SPEAKER_02]: 21, so basically that's probably about as good as you're gonna get.
+[SPEAKER_02]: This guy has no amount, and in fact, this drug has basically disconnected him from his reality in a way.
+[SPEAKER_02]: It's done it.
+[SPEAKER_02]: I mean, he's totally... What is your name and where did you live in the Warren?
+[SPEAKER_02]: I'm not from the Warren.
+[SPEAKER_02]: Where are you from?
+[SPEAKER_02]: I'm from the East.
+[SPEAKER_02]: The Scarlet Plateau.
+[SPEAKER_01]: Temple land?
+[SPEAKER_01]: Hetmona land?
+[SPEAKER_02]: No, the Scarlet Plateau is that place where you met them.
+[SPEAKER_01]: But were we not in Hetmona land?
+[SPEAKER_02]: No, you were north of it, on the peninsula.
+[SPEAKER_02]: Oh, okay.
+[SPEAKER_02]: And the giants kind of lived on the peninsula and in the plateau, and the Scarlet Brotherhood had that temple there, if you remember.
+[SPEAKER_01]: So that's much deeper.
+[SPEAKER_02]: It's north of...
+[SPEAKER_01]: Where have the Tolis stored the powder?
+[SPEAKER_02]: I know not out of what you speak.
+[SPEAKER_01]: Well, was it yellow powder?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: The yellow powder they stole from the helm.
+[SPEAKER_01]: Well, they actually didn't steal it.
+[SPEAKER_01]: I guess it was the Duke of the Wind... Lord Fairwind.
+[SPEAKER_01]: Lord Fairwind.
+[SPEAKER_01]: He's the one that took the stuff from the helm.
+[SPEAKER_01]: Do you know anything of the Duke of Berghoff?
+[SPEAKER_02]: A great lord.
+[SPEAKER_01]: Is he with the Scarlet Brotherhood?
+[SPEAKER_01]: That would explain why he stopped sending the powder.
+[SPEAKER_01]: That was twenty years ago, or something like that.
+[SPEAKER_02]: He believes.
+[SPEAKER_02]: He believes.
+[SPEAKER_01]: Do you know any of the lead agents of the startup brotherhood here in Monmurg?
+[SPEAKER_01]: Do you know their names?
+[SPEAKER_02]: You can tell he's starting in Slack again.
+[SPEAKER_01]: Like Slack as in...
+[SPEAKER_01]: Die?
+[SPEAKER_01]: I reach over to you, and I like, wherever I saw him, I need a health potion now.
+[SPEAKER_01]: I need a health potion.
+[SPEAKER_01]: I get one from him.
+[SPEAKER_01]: Okay, hang on a second.
+[SPEAKER_03]: You got enough out of him.
+[SPEAKER_03]: You said you have two.
+[SPEAKER_01]: Use your own.
+[SPEAKER_01]: It goes down.
+[SPEAKER_01]: I try to dex roll.
+[SPEAKER_01]: Try to apply it.
+[SPEAKER_03]: I'm going to use a glass bottle to smash on your head.
+[SPEAKER_01]: If I have to, then Paul can make the dex roll.
+[SPEAKER_01]: I'm all like, douse him!
+[SPEAKER_03]: I'm gonna smash a glass bottle on your- You don't understand, dude.
+[SPEAKER_01]: We're like- You said you had two.
+[SPEAKER_03]: You said your last one.
+[SPEAKER_01]: No, I don't have two.
+[SPEAKER_01]: I gave you two.
+[SPEAKER_03]: Yeah, so why are you taking my two?
+[SPEAKER_01]: No, we only have four.
+[SPEAKER_01]: I used mine already.
+[SPEAKER_01]: He has one.
+[SPEAKER_03]: You have two.
+[SPEAKER_03]: So why don't you get one from him?
+[SPEAKER_01]: That's what I did.
+[SPEAKER_01]: I said, Paul!
+[SPEAKER_03]: So why were you trying to take some from me?
+[SPEAKER_01]: Oh, I'm gonna take it.
+[SPEAKER_01]: Because you're weak.
+[SPEAKER_03]: I'll tell my men that.
+[SPEAKER_03]: I'm gonna take them all.
+[SPEAKER_03]: I'll tell my men that when I own 15 factories across the world.
+[SPEAKER_03]: And I'll be known all over the world as Leslie Productions.
+[SPEAKER_03]: I love it.
+[SPEAKER_01]: Okay, that's fine.
+[SPEAKER_01]: I need you, Paul, before I kill Leslie.
+[SPEAKER_03]: I'll write rumors.
+[SPEAKER_02]: See album rumors?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: That'd be awesome.
+[SPEAKER_01]: I'm watching you.
+[SPEAKER_01]: Did I tell you what happened to the last wizard that I traveled with that wasn't a team player?
+[SPEAKER_03]: Well, that wizard was done.
+[SPEAKER_03]: He didn't have anything in like...
+[SPEAKER_03]: Mark it.
+[SPEAKER_03]: He didn't have anything in production, industrial.
+[SPEAKER_03]: He wasn't thinking ahead.
+[SPEAKER_03]: He doesn't know that world will go on when he's dead.
+[SPEAKER_03]: He actually went on after he was dead.
+[SPEAKER_03]: So he doesn't die.
+[SPEAKER_03]: So he's immortal.
+[SPEAKER_01]: No, he's dead now.
+[SPEAKER_01]: He just took some burning and immolation.
+[SPEAKER_03]: I think Paul could do that, not you.
+[SPEAKER_03]: Do what?
+[SPEAKER_03]: Burn somebody to death?
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: Or I've burnt plenty of people to death.
+[SPEAKER_03]: Well, then anyone can do that.
+[SPEAKER_03]: Just this one.
+[SPEAKER_03]: All you have to do is just trip them and pour gasoline.
+[SPEAKER_03]: Or anything flammable.
+[SPEAKER_01]: That's spells.
+[SPEAKER_01]: It's fireball.
+[SPEAKER_03]: Fireball?
+[SPEAKER_03]: It's a wizard.
+[SPEAKER_03]: I'm going to say he dies.
+[SPEAKER_01]: No, no, no, no, I'm going to roll.
+[SPEAKER_01]: Either that or I grab it from off of his belt and I get to make a roll.
+[SPEAKER_03]: This is too good.
+[SPEAKER_01]: No.
+[SPEAKER_03]: I got what you did, you little jerk.
+[SPEAKER_01]: We got the female still.
+[SPEAKER_01]: We could try a half dose.
+[SPEAKER_01]: Or we just have to be ready with our heel potions.
+[SPEAKER_03]: From him, you know that Leslie needs this for a mass production.
+[SPEAKER_01]: We only need one.
+[SPEAKER_03]: Yeah, but you could need two to make 40 trillion.
+[SPEAKER_01]: I don't know.
+[SPEAKER_03]: Of course you don't know, because you're not a smart wizard.
+[SPEAKER_03]: You just killed the dumber wizard.
+[SPEAKER_03]: And now you're the dumb wizard.
+[SPEAKER_01]: Paul, you need to get back here.
+[SPEAKER_03]: You want to spend what could be the future
+[SPEAKER_03]: I'm not listening to you.
+[SPEAKER_01]: I intentionally ignore him.

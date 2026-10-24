@@ -34,11 +34,15 @@ Three separate things share the word "Toli"; keep them distinct, and when connec
 | **Paul** (Paul Revero) | Player character; masked nephew of Prince Jeon | Rivero, Rivera, Riviero |
 | **Jude** | Player character | — |
 | **Albashon** | **NPC — the master Alchemist** of Monmurg's Foreign District (Suel; keeper of the *Magnum Opus*; Leslie's mentor; killed in the Scarlet Brotherhood raid) | Varen, Viren, Veren |
+| **Absalon** | **NPC — Jude's old master** (referenced, offstage); described the Yuan-ti to Jude; author of *Absalon's Methods of Torture*. **A different man from Albashon** (author ruling); never merge the two | (usually correct) |
+| **Seebo Beren** | **NPC — gnome alchemist**, student of the late **Edium Nicond** (Keoland); known to Lord Phranck; identified the "red dust" in Archibald Fryhone's journal | (usually correct) |
+| **Archibald Fryhone** | Naturalist-scholar; author of the Hool Marshes tome (CY 554). **The same man as the "Archibald" of Grayson Jamis's letters** (Book One Ch. 7), who pursued the original *Magnum Opus* (author ruling). His journal holds the "red dust" reference Seebo Beren identified | "Archibald" alone |
+| **Gedeon** | Lord Phranck's younger companion and associate; hired Gouge as Phranck's bodyguard (5th of Planting); carried the early shadow of the Gift of Insamiar when he visited Albashon (15th of Readying, 576 CY); later betrayed Gouge at Port Torvin. **Never took the Gift**: he was affected by exposure to takers in Salinmoor, and does not know when | Gideon |
 | **Captain Nado** | Owen Black's uncle and former commander; Merrick's father | Nato, NATO |
 | **Rodiger** | NPC — commander of the North Gate garrison to the Foreign District (Monmurg) | (usually correct) |
 | **Leslie** | Player character — a man; Albashon's apprentice | (usually correct) |
-| **Ujor Udias** | The transmuter who made the Orb of the Dragon Turtle ~600 years ago; author of the *Magnum Opus*; **later took the name "Acerak"** (see below) | (usually correct) |
-| **Acerak** | Two bearers: (1) the original lich of the Dread March (Count Olan's master, vanished centuries ago); (2) **Ujor Udias**, who inherited the vanished lich's name — the "Acerak" credited with the orb | Azorak, Aserach |
+| **Ujor Udias** | The transmuter who made the Orb of the Dragon Turtle ~600 years ago; author of the *Magnum Opus*; **later took the name "Acerak"** (see below) | (usually correct)|
+| **Acerak** | Two bearers: (1) the original lich of the Dread March (Count Olan's master, vanished centuries ago); (2) **Ujor Udias**, who inherited the vanished lich's name — the "Acerak" credited with the orb | Azorak, Acerak, Aserach |
 | **Ixid** | Necromancer of the Sons of Olan; told Cain where the orb lay | "Exit" |
 | **Captain Cross** | Historical, deceased Monmurg captain (see `characters/Minor_characters.md`) | Cross |
 
@@ -92,7 +96,7 @@ Three separate things share the word "Toli"; keep them distinct, and when connec
 | "a shot of the Black Realm" | **a shot of the black rum** |
 | "roll my nash" / "a niche" / "anish" | **roll initiative** |
 | "Kane totally" / "Can't totally" / "Cain totally" | **Cain Toli** |
-| "the Lich Azorak" / "Aserach" | **the Lich Acerak** (= Ujor Udias) |
+| "the Lich Azorak" / "Acerak" | **the Lich Acerak** (= Ujor Udias) |
 | "this dude is a soul" / "Sewell" / "Seul" | **a Suel** (Suel ethnicity) |
 | "black things of rum from Portoli" | **black bottles of rum from Port Toli** |
 | "jaunty" / "yawn-tee" | **Yuan-ti** |
@@ -131,4 +135,4 @@ The cast files and the `.lst` indexes already use canonical spellings.
 
 - The **Gift of Insamiar** is a **poison**. It is **rumored** to come from the dragon **Insamiar the Black** (of the Hool Marshes) — but this is an **in-world rumor, not established fact**. Write the dragon-origin only as something characters *say* or believe, never as confirmed narration.
 - Seen in `Owen_and_Torus_plan_6th_Wealsun` as Owen's **"special draught"** — the poison he caught in the eye, meant to subdue Folsom for the trip to Cain Toli. Treat the transcript's "gift of Insamiar"/"special draught" as this poison.
-- Cross-reference: `worldbuilding/Insamiar_the_Black.md` (the cult and the drug-rite). **Terminology caution:** that ledger currently uses "gift" for the *offering* (a polished stone/silver image) and "Blessing" for the sipped potion; this ruling uses **"Gift of Insamiar" = the poison** — see the author-ruling note in that file, pending reconciliation.
+- Cross-reference: `worldbuilding/Insamiar_the_Black.md` (the cult and the drug-rite). **Settled (author ruling):** the **Gift of Insamiar** and the **Blessing of Insamiar** are **the same substance**. Lowercase "gift" in the rite is still the *offering* (polished stone or silver image).

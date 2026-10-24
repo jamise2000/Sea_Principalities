@@ -10,7 +10,7 @@ Registry: DM `00A`, Tyrus `06A`, Folsom `07A`.
 
 | Tag | Character | Basis | Lines |
 |-----|-----------|------|-------|
-| **SPEAKER_00A** | The DM | raw00 — scene narration + lore: the lich Aserach / necromancer Ixid, the Toli house, Redshore/Keoland politics, the green gem | 59 |
+| **SPEAKER_00A** | The DM | raw00 — scene narration + lore: the lich Acerak / necromancer Ixid, the Toli house, Redshore/Keoland politics, the green gem | 59 |
 | **SPEAKER_06A** | Tyrus | raw01 — "get supplies back to the people of Monmurg… that's all I care about" (8–9); the protector ("I'm never gonna let you go on your own"); ribs Gouge over rum/whiskey | 59 |
 | **SPEAKER_07A** | Folsom | raw02 — carries the amulet intel (Caintoli, the lich); pulls out and explains **Gouge's green gem** | 48 |
 
@@ -20,7 +20,7 @@ Raw layout: **raw00 = DM**, **raw01 = Tyrus**, **raw02 = Folsom**.
 Tyrus and Folsom decompress and pump the DM for clarifications. Tyrus restates his single aim — **relieve Monmurg's shortages** — and accepts that the only real way is to neutralize the **turtle dragons** and their controlling **artifact**. Folsom lays out what he learned: **Cain Toli** holds the artifact; the DM corrects and enriches the lore. The two then reaffirm their bond (Tyrus won't let Folsom go off alone; they'll let "the two sneaky bastards," Merrick and Gouge, do the sneaking), rib Gouge, and Folsom reveals a **large green gem Gouge gave him** ("make sure you have my back") — which Tyrus reads cynically as Gouge buying protection. They turn to strategy: sneak in to the **Earl of Redshore** and probe whether he's aligned with **Cain Toli** / the **Duke of Gradsul**, and whichever of them "has the sweeter face" will try to win him over — the goal being to break the blockade, though they acknowledge they can't do it directly while the turtle dragons are in place (and the green gem is **not** the turtle-dragon amulet).
 
 ## Canon / continuity notes (major)
-- **The artifact's origin, refined:** it was **made by a lich called Aserach**. A **necromancer called Ixid** did **not** give it to Cain Toli but **told him where it was**. (This sharpens the previous scene's account in *Merrick & Gouge, Private Conversation*, where a "lich/necromancer" was said to have "made a deal… for breaking a ward at Salinmoor." Treat these as two overlapping tellings — here the maker is **Aserach (lich)** and the tipster is **Ixid (necromancer)**; the Salinmoor-ward "deal" detail is not repeated. → strong candidate for a dedicated worldbuilding note to reconcile.)
+- **The artifact's origin, refined:** it was **made by a lich called Acerak**. A **necromancer called Ixid** did **not** give it to Cain Toli but **told him where it was**. (This sharpens the previous scene's account in *Merrick & Gouge, Private Conversation*, where a "lich/necromancer" was said to have "made a deal… for breaking a ward at Salinmoor." Treat these as two overlapping tellings — here the maker is **Acerak (lich)** and the tipster is **Ixid (necromancer)**; the Salinmoor-ward "deal" detail is not repeated. → strong candidate for a dedicated worldbuilding note to reconcile.)
 - **The Toli, as a people/house:** an **ancient Suel house** called the **Toli**, centered on the city **Port Toli** in the Sea Principalities. A "**Toli rat**" = someone from that city. **Cain Toli** ("King Toli") is of the **noble family** (hence the surname). The Toli on Owen's boat (named **Torus**/"Taurus") was a city-rat, and **Suel**.
 - **The green gem:** **Gouge gave Folsom** a large **flat-cut green gem**, worth ~2,000 gp, telling him "this is yours, just make sure you have my back." It is **not** the turtle-dragon amulet. (New item; possibly related to Gouge's "stones" from *Party Flees*. Tyrus suspects a self-interested motive.)
 - **Redshore politics reaffirmed:** Redshore is part of **Keoland**; the **Earl of Redshore** is a subject of the **Duke of Gradsul** (who is blockading Monmurg out of resentment of its wealth). Redshore itself does good business **whaling / oil**, now choked by the blockade — the Earl is caught in the middle and likely unhappy.
@@ -30,7 +30,7 @@ Tyrus and Folsom decompress and pump the DM for clarifications. Tyrus restates h
 **Applied to the body** (author-canon): "Red Shore" (many) → **Redshore**; "Duke of Gratzel"/"Grazzle" (115, 118, 145) → **Duke of Gradsul**.
 **Noted for prose (not changed in body):**
 - **"Semtha, Wealsun" (1)** → **7th of Wealsun** ("Semtha" = seventh, garbled).
-- **Lich "Aserach" (20)** and **necromancer "Ixid" (21)** → confirm canonical spellings (ASR).
+- **Lich "Acerak" (20)** and **necromancer "Ixid" (21)** → confirm canonical spellings (ASR).
 - **"Caintoli / Kane Toli / Cain Toi" (17, 18, 48, 143)** → **Cain Toli**; **"King Toli" (55)** → Cain Toli (noble house Toli).
 - **"Taurus" (46)** → **Torus** (the Toli/Suel man on Owen's boat; cf. *Owen and Torus Plan*).
 - **"ancient soul house" (52) / "Sewell" (59, 60)** → **ancient Suel house / Suel**; **"half a Radian" (59)** → author to confirm.

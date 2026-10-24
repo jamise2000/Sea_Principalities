@@ -854,7 +854,7 @@
 [SPEAKER_01B]: That artifact I told you about, the one he got from the
 [SPEAKER_01B]: He learned about from the Necromancer?
 [SPEAKER_07A]: Yeah.
-[SPEAKER_01B]: Rumor has it that it's an ancient artifact that was made by some lynch called Aserach.
+[SPEAKER_01B]: Rumor has it that it's an ancient artifact that was made by some lynch called Acerak.
 [SPEAKER_01B]: This is what Exit told Cain Tolley.
 [SPEAKER_01B]: I heard this from one of his men named Chai when he was drunk.
 [SPEAKER_01B]: Apparently that artifact

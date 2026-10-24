@@ -1,0 +1,1536 @@
+1
+00:00:00,071 --> 00:00:19,118
+[SPEAKER_00]: All right, 5 p.m. on the Fifth of the Whale Sun, the three party members, Jude, Leslie, and Paul, look as the guardsmen take the wounded jailer up the stairs.
+
+2
+00:00:19,138 --> 00:00:20,619
+[SPEAKER_00]: So I've cast a spell.
+
+3
+00:00:20,839 --> 00:00:22,820
+[SPEAKER_02]: You cast a spell magic on Paul.
+
+4
+00:00:22,860 --> 00:00:24,540
+[SPEAKER_02]: Does it come back to reality?
+
+5
+00:00:26,101 --> 00:00:26,421
+[SPEAKER_02]: No.
+
+6
+00:00:29,568 --> 00:00:30,148
+[SPEAKER_01]: Yes, I do.
+
+7
+00:00:31,249 --> 00:00:32,430
+[SPEAKER_01]: What do you want to say?
+
+8
+00:00:32,810 --> 00:00:33,590
+[SPEAKER_02]: What do you remember?
+
+9
+00:00:33,610 --> 00:00:35,831
+[SPEAKER_01]: I mean, I remember it all.
+
+10
+00:00:35,891 --> 00:00:38,033
+[SPEAKER_01]: I just didn't think it was wrong.
+
+11
+00:00:39,533 --> 00:00:39,813
+[SPEAKER_01]: Yeah.
+
+12
+00:00:39,833 --> 00:00:44,356
+[SPEAKER_01]: Like, everything else was normal except I just had to let her go.
+
+13
+00:00:45,016 --> 00:00:47,638
+[SPEAKER_02]: Pretty sure I've heard that from every man that's hung from a jibbit.
+
+14
+00:00:48,258 --> 00:00:48,518
+[SPEAKER_01]: True.
+
+15
+00:00:48,678 --> 00:00:49,519
+[SPEAKER_01]: They're about to do one.
+
+16
+00:00:50,299 --> 00:00:51,680
+[SPEAKER_01]: But will they ever see me hang on?
+
+17
+00:00:52,275 --> 00:00:53,076
+[SPEAKER_02]: No, no, no.
+
+18
+00:00:53,256 --> 00:00:56,458
+[SPEAKER_02]: I'm not saying you're being hung, I'm just saying everybody thinks that what they did is fine.
+
+19
+00:00:56,478 --> 00:00:58,400
+[SPEAKER_01]: No, I... Can you describe it?
+
+20
+00:00:58,440 --> 00:01:00,521
+[SPEAKER_02]: Looking back at it now... Can you describe it?
+
+21
+00:01:01,042 --> 00:01:02,423
+[SPEAKER_02]: We're gonna run into her.
+
+22
+00:01:02,443 --> 00:01:06,366
+[SPEAKER_01]: When the first part pulled off the ball gate, she started speaking, and she, like...
+
+23
+00:01:06,946 --> 00:01:09,949
+[SPEAKER_01]: I could hear it, like, not in my ear, but in my mind.
+
+24
+00:01:11,090 --> 00:01:12,611
+[SPEAKER_02]: Does she have access to your memories?
+
+25
+00:01:14,452 --> 00:01:15,793
+[SPEAKER_02]: That's why he's... Well, how would I know?
+
+26
+00:01:16,554 --> 00:01:17,014
+[SPEAKER_02]: I don't know.
+
+27
+00:01:17,915 --> 00:01:18,435
+[SPEAKER_01]: Think about it.
+
+28
+00:01:19,676 --> 00:01:19,977
+[SPEAKER_01]: No.
+
+29
+00:01:19,997 --> 00:01:21,137
+[SPEAKER_01]: It's important.
+
+30
+00:01:22,728 --> 00:01:23,268
+[SPEAKER_01]: What do I know?
+
+31
+00:01:24,349 --> 00:01:25,329
+[SPEAKER_01]: Do an Arcana check.
+
+32
+00:01:28,091 --> 00:01:29,211
+[SPEAKER_01]: Do I have Arcana?
+
+33
+00:01:29,251 --> 00:01:29,712
+[SPEAKER_01]: I think I do.
+
+34
+00:01:30,612 --> 00:01:30,952
+[SPEAKER_01]: No, I don't.
+
+35
+00:01:31,052 --> 00:01:33,033
+[SPEAKER_01]: I don't.
+
+36
+00:01:33,594 --> 00:01:34,694
+[SPEAKER_01]: Three plus six.
+
+37
+00:01:35,214 --> 00:01:36,615
+[SPEAKER_01]: You have no idea what she's done.
+
+38
+00:01:36,635 --> 00:01:39,056
+[SPEAKER_01]: I have no idea what she's done.
+
+39
+00:01:39,076 --> 00:01:46,960
+[SPEAKER_02]: Okay, the men are going to be confused.
+
+40
+00:01:48,301 --> 00:01:51,423
+[SPEAKER_02]: But they're going to be fine downstairs.
+
+41
+00:01:52,934 --> 00:01:56,217
+[SPEAKER_02]: Can you go check on the men downstairs, the guards?
+
+42
+00:01:56,237 --> 00:01:57,278
+[SPEAKER_03]: The ones you just killed?
+
+43
+00:01:57,578 --> 00:01:59,399
+[SPEAKER_02]: No, they're all sleeping.
+
+44
+00:01:59,540 --> 00:02:03,843
+[SPEAKER_02]: I didn't kill any, and if any end up dead, that'll be on you.
+
+45
+00:02:04,183 --> 00:02:07,446
+[SPEAKER_02]: So that's why I'm not going downstairs.
+
+46
+00:02:07,466 --> 00:02:11,489
+[SPEAKER_03]: Why don't you do it, you lazy rock?
+
+47
+00:02:14,760 --> 00:02:18,621
+[SPEAKER_03]: You want to sleep with those guards anyways.
+
+48
+00:02:19,121 --> 00:02:20,381
+[SPEAKER_02]: Nobody's dead down there.
+
+49
+00:02:20,962 --> 00:02:22,182
+[SPEAKER_03]: Nobody's dead.
+
+50
+00:02:22,202 --> 00:02:24,142
+[SPEAKER_02]: Look, okay, I took Paul down there.
+
+51
+00:02:24,242 --> 00:02:25,223
+[SPEAKER_02]: Shut up.
+
+52
+00:02:25,843 --> 00:02:26,303
+[SPEAKER_02]: Go down.
+
+53
+00:02:26,403 --> 00:02:27,723
+[SPEAKER_02]: I take Paul down.
+
+54
+00:02:27,803 --> 00:02:28,263
+[SPEAKER_02]: Okay.
+
+55
+00:02:28,364 --> 00:02:29,784
+[SPEAKER_00]: What are you doing?
+
+56
+00:02:29,804 --> 00:02:33,265
+[SPEAKER_02]: Slap a couple of his guards away.
+
+57
+00:02:33,305 --> 00:02:36,165
+[SPEAKER_02]: They were under the influence just like you were, so...
+
+58
+00:02:37,186 --> 00:02:41,907
+[SPEAKER_00]: The first guard wakes up and looks at you and Jude standing there and goes,
+
+59
+00:02:42,901 --> 00:02:43,281
+[SPEAKER_00]: Prince!
+
+60
+00:02:43,961 --> 00:02:44,762
+[SPEAKER_00]: Shall I arrest him?
+
+61
+00:02:45,462 --> 00:02:46,082
+[SPEAKER_01]: No.
+
+62
+00:02:46,362 --> 00:02:48,883
+[SPEAKER_01]: There was a- No, you're fine.
+
+63
+00:02:48,903 --> 00:02:50,263
+[SPEAKER_01]: Wake up the other guardsman.
+
+64
+00:02:51,924 --> 00:02:52,364
+[SPEAKER_02]: Yes, sir.
+
+65
+00:02:53,044 --> 00:02:56,545
+[SPEAKER_02]: You were all under the influence from that witch.
+
+66
+00:02:57,925 --> 00:02:58,486
+[SPEAKER_02]: He is right.
+
+67
+00:03:00,286 --> 00:03:01,166
+[SPEAKER_00]: I'll wake the other man.
+
+68
+00:03:01,526 --> 00:03:01,907
+[SPEAKER_00]: Thank you.
+
+69
+00:03:04,507 --> 00:03:09,169
+[SPEAKER_02]: Uh, we need to go upstairs and check your secret quarters.
+
+70
+00:03:09,189 --> 00:03:09,989
+[SPEAKER_02]: Shut the fuck up.
+
+71
+00:03:11,015 --> 00:03:14,117
+[SPEAKER_02]: In case she plumbed your mind.
+
+72
+00:03:15,639 --> 00:03:16,539
+[SPEAKER_02]: I'd like to move now.
+
+73
+00:03:18,801 --> 00:03:20,723
+[SPEAKER_02]: Can you say that in front of him?
+
+74
+00:03:20,763 --> 00:03:21,824
+[SPEAKER_00]: Yeah, like subtly.
+
+75
+00:03:21,864 --> 00:03:22,444
+[SPEAKER_01]: Grow!
+
+76
+00:03:22,704 --> 00:03:24,926
+[SPEAKER_00]: There was only one guy that possibly heard it.
+
+77
+00:03:25,567 --> 00:03:27,488
+[SPEAKER_01]: Well, now I have to get rid of one guy.
+
+78
+00:03:27,508 --> 00:03:29,910
+[SPEAKER_00]: Okay, so you don't say that out loud.
+
+79
+00:03:30,050 --> 00:03:31,171
+[SPEAKER_00]: Do you mark him?
+
+80
+00:03:31,271 --> 00:03:31,851
+[SPEAKER_00]: I do.
+
+81
+00:03:31,892 --> 00:03:32,172
+[SPEAKER_01]: Okay.
+
+82
+00:03:36,063 --> 00:03:36,924
+[SPEAKER_02]: Let's go check.
+
+83
+00:03:36,964 --> 00:03:37,604
+[SPEAKER_01]: You suck.
+
+84
+00:03:37,944 --> 00:03:42,127
+[SPEAKER_02]: Okay, my mind didn't just get controlled.
+
+85
+00:03:43,448 --> 00:03:45,850
+[SPEAKER_01]: Pull off the ball gag, I never got controlled.
+
+86
+00:03:48,531 --> 00:03:49,112
+[SPEAKER_02]: Don't even say that.
+
+87
+00:03:51,934 --> 00:03:56,878
+[SPEAKER_00]: Jude points at Wesley, don't even say it.
+
+88
+00:03:56,899 --> 00:04:02,403
+[SPEAKER_03]: I was actually gonna say... No, it doesn't have to do with you.
+
+89
+00:04:02,423 --> 00:04:07,688
+[SPEAKER_03]: I was gonna say, Paul, can I get my 100 gold rings?
+
+90
+00:04:07,748 --> 00:04:09,529
+[SPEAKER_03]: Where did we jump from 10 to 100?
+
+91
+00:04:09,549 --> 00:04:10,951
+[SPEAKER_03]: The fine print!
+
+92
+00:04:10,971 --> 00:04:12,052
+[SPEAKER_03]: The fine print!
+
+93
+00:04:12,672 --> 00:04:13,453
+[SPEAKER_03]: The fine friend.
+
+94
+00:04:13,493 --> 00:04:14,514
+[SPEAKER_02]: Let's go get you your gold.
+
+95
+00:04:14,594 --> 00:04:14,914
+[SPEAKER_02]: Come on.
+
+96
+00:04:15,334 --> 00:04:17,756
+[SPEAKER_02]: He's gonna wake up the rest of them, let them know what's going on.
+
+97
+00:04:17,776 --> 00:04:18,497
+[SPEAKER_02]: We need to move quickly.
+
+98
+00:04:18,517 --> 00:04:19,338
+[SPEAKER_02]: Tell you what, tell you what.
+
+99
+00:04:19,358 --> 00:04:20,218
+[SPEAKER_02]: We need to move quickly.
+
+100
+00:04:20,238 --> 00:04:21,039
+[SPEAKER_03]: Paul, Paul, Paul.
+
+101
+00:04:21,059 --> 00:04:21,720
+[SPEAKER_03]: I start walking.
+
+102
+00:04:21,780 --> 00:04:22,240
+[SPEAKER_03]: Okay, so they...
+
+103
+00:04:22,260 --> 00:04:26,564
+[SPEAKER_03]: In the next two years, I'll give you 5% off as a next discount.
+
+104
+00:04:26,584 --> 00:04:26,844
+[SPEAKER_03]: What?
+
+105
+00:04:26,904 --> 00:04:27,785
+[SPEAKER_00]: Do you walk away as...
+
+106
+00:04:27,985 --> 00:04:28,646
+[SPEAKER_00]: I start walking away.
+
+107
+00:04:28,666 --> 00:04:29,606
+[SPEAKER_03]: Do you start walking away?
+
+108
+00:04:29,626 --> 00:04:29,887
+[SPEAKER_03]: Yeah.
+
+109
+00:04:30,107 --> 00:04:32,289
+[SPEAKER_00]: Leslie says, Paul, 5%.
+
+110
+00:04:32,409 --> 00:04:34,551
+[SPEAKER_03]: As he follows.
+
+111
+00:04:34,611 --> 00:04:38,994
+[SPEAKER_03]: I'll give you a 5% discount on Leslie Productions.
+
+112
+00:04:39,054 --> 00:04:39,595
+[SPEAKER_03]: Who cares?
+
+113
+00:04:40,455 --> 00:04:45,717
+[SPEAKER_00]: So, as Leslie battles, the two of you walk back to Paul's chambers.
+
+114
+00:04:45,817 --> 00:04:50,038
+[SPEAKER_02]: I'm moving out of, not running, but I'm... And there's activity in the castle.
+
+115
+00:04:50,318 --> 00:04:50,518
+[SPEAKER_00]: Yeah.
+
+116
+00:04:50,698 --> 00:04:53,359
+[SPEAKER_00]: Obviously, the alert has been raised.
+
+117
+00:04:53,799 --> 00:04:56,460
+[SPEAKER_00]: Paul, you know this means something.
+
+118
+00:04:56,660 --> 00:05:00,241
+[SPEAKER_00]: You're gonna get called in at some point for questioning.
+
+119
+00:05:00,981 --> 00:05:02,882
+[SPEAKER_00]: Gianna's probably gonna ask you what the hell happened.
+
+120
+00:05:03,543 --> 00:05:03,823
+[SPEAKER_00]: Right.
+
+121
+00:05:05,164 --> 00:05:05,404
+[SPEAKER_00]: Yep.
+
+122
+00:05:06,345 --> 00:05:07,565
+[SPEAKER_02]: We can talk to him together.
+
+123
+00:05:07,585 --> 00:05:08,125
+[SPEAKER_02]: You suck.
+
+124
+00:05:08,546 --> 00:05:09,746
+[SPEAKER_02]: We can talk to him together.
+
+125
+00:05:09,766 --> 00:05:11,687
+[SPEAKER_01]: No, I don't want to talk with him.
+
+126
+00:05:11,707 --> 00:05:12,668
+[SPEAKER_02]: What are you going to tell him?
+
+127
+00:05:13,348 --> 00:05:14,089
+[SPEAKER_02]: You turn traitor?
+
+128
+00:05:14,429 --> 00:05:16,790
+[SPEAKER_01]: Yeah, because of your bum ass.
+
+129
+00:05:18,011 --> 00:05:19,251
+[SPEAKER_01]: I take off the bowl again.
+
+130
+00:05:19,271 --> 00:05:21,532
+[SPEAKER_01]: I'm the Buddha, and then I'm gone.
+
+131
+00:05:24,000 --> 00:05:24,901
+[SPEAKER_01]: That's your fault.
+
+132
+00:05:25,181 --> 00:05:27,603
+[SPEAKER_01]: I'll secure your quarters.
+
+133
+00:05:29,045 --> 00:05:29,365
+[SPEAKER_01]: There it is.
+
+134
+00:05:29,585 --> 00:05:29,926
+[SPEAKER_00]: All right.
+
+135
+00:05:30,166 --> 00:05:31,507
+[SPEAKER_00]: So you walk back to Paul's quarters.
+
+136
+00:05:31,547 --> 00:05:31,787
+[SPEAKER_00]: Yeah.
+
+137
+00:05:32,288 --> 00:05:43,138
+[SPEAKER_00]: And Paul, you look around and it doesn't seem like anything's out of place or strange and the guards on the corridor basically tell you as you walk past nobody's come through.
+
+138
+00:05:45,191 --> 00:05:45,711
+[SPEAKER_00]: I don't believe it.
+
+139
+00:05:45,831 --> 00:05:47,132
+[SPEAKER_02]: I want to go see it for myself.
+
+140
+00:05:47,152 --> 00:05:50,752
+[SPEAKER_02]: I don't want to make sure because now I am carrying the books and the stuff.
+
+141
+00:05:51,053 --> 00:05:51,393
+[SPEAKER_00]: Okay.
+
+142
+00:05:51,653 --> 00:05:56,754
+[SPEAKER_00]: So you guys walk down to the chamber through the secret door into the secret laboratory.
+
+143
+00:05:56,894 --> 00:05:58,314
+[SPEAKER_02]: Yeah.
+
+144
+00:05:58,334 --> 00:05:59,595
+[SPEAKER_02]: And everything's there.
+
+145
+00:06:01,775 --> 00:06:04,476
+[SPEAKER_02]: Pack it in and I'm carrying it, at least for the short term.
+
+146
+00:06:04,696 --> 00:06:05,056
+[SPEAKER_02]: Okay.
+
+147
+00:06:06,637 --> 00:06:07,557
+[SPEAKER_02]: So.
+
+148
+00:06:07,597 --> 00:06:09,917
+[SPEAKER_02]: As far as the stuff that was taken from the alchemist shop.
+
+149
+00:06:10,117 --> 00:06:10,377
+[SPEAKER_02]: Right.
+
+150
+00:06:10,397 --> 00:06:11,858
+[SPEAKER_02]: So the scrolls, the books.
+
+151
+00:06:13,377 --> 00:06:15,858
+[SPEAKER_02]: The potions are what we have.
+
+152
+00:06:15,958 --> 00:06:23,001
+[SPEAKER_00]: So it is 5 p.m. on the 5th of Whale Sun and Paul, you're not wounded, correct?
+
+153
+00:06:23,762 --> 00:06:23,822
+[SPEAKER_00]: No.
+
+154
+00:06:23,862 --> 00:06:25,042
+[SPEAKER_00]: You have no damage on you.
+
+155
+00:06:25,302 --> 00:06:25,522
+[SPEAKER_00]: I am.
+
+156
+00:06:25,723 --> 00:06:26,763
+[SPEAKER_00]: You have damage on you.
+
+157
+00:06:26,823 --> 00:06:30,064
+[SPEAKER_00]: Some hit points, but maybe a short rest would do it.
+
+158
+00:06:30,465 --> 00:06:33,506
+[SPEAKER_00]: Leslie, you're fine because you drank that healing potion.
+
+159
+00:06:34,526 --> 00:06:36,507
+[SPEAKER_00]: What do you guys want to do for the rest of the evening?
+
+160
+00:06:37,088 --> 00:06:37,608
+[SPEAKER_02]: I'm going to...
+
+161
+00:06:38,631 --> 00:06:40,732
+[SPEAKER_02]: Well, I wasn't cut with a sword, right?
+
+162
+00:06:40,752 --> 00:06:41,753
+[SPEAKER_02]: So mine are just bruises?
+
+163
+00:06:43,194 --> 00:06:44,755
+[SPEAKER_02]: You were cut by one sword.
+
+164
+00:06:44,875 --> 00:06:45,555
+[SPEAKER_02]: Oh, okay.
+
+165
+00:06:45,595 --> 00:06:47,076
+[SPEAKER_02]: So I'll bind that at least.
+
+166
+00:06:47,336 --> 00:06:50,838
+[SPEAKER_02]: But I'm gonna wait because I think I need to go with Paul.
+
+167
+00:06:51,979 --> 00:06:54,120
+[SPEAKER_03]: Uh, can I go with Paul and ask him to get my gold?
+
+168
+00:06:55,080 --> 00:06:55,961
+[SPEAKER_02]: Well, no, you're there.
+
+169
+00:06:55,981 --> 00:06:57,382
+[SPEAKER_02]: You can ask him for your gold.
+
+170
+00:06:57,402 --> 00:06:58,602
+[SPEAKER_03]: We're in his quarters.
+
+171
+00:07:00,423 --> 00:07:01,424
+[SPEAKER_03]: You read the fine print.
+
+172
+00:07:01,464 --> 00:07:02,224
+[SPEAKER_03]: You signed your name.
+
+173
+00:07:02,965 --> 00:07:03,845
+[SPEAKER_03]: You shook your hand.
+
+174
+00:07:04,466 --> 00:07:04,726
+[SPEAKER_01]: No.
+
+175
+00:07:06,167 --> 00:07:06,727
+[SPEAKER_01]: I'm not paying you.
+
+176
+00:07:10,279 --> 00:07:11,099
+[SPEAKER_01]: You already got this.
+
+177
+00:07:11,279 --> 00:07:15,561
+[SPEAKER_03]: Dude, also, it wasn't a hundred gobies, it was ten.
+
+178
+00:07:16,541 --> 00:07:17,922
+[SPEAKER_03]: Then why won't you even get me ten?
+
+179
+00:07:18,602 --> 00:07:24,024
+[SPEAKER_01]: Because... you're a slimy Greaseball loser wizard.
+
+180
+00:07:24,104 --> 00:07:26,225
+[SPEAKER_01]: Is it legal to slander people?
+
+181
+00:07:26,265 --> 00:07:27,585
+[SPEAKER_01]: Wait, wait, wait.
+
+182
+00:07:27,665 --> 00:07:30,886
+[SPEAKER_01]: Okay, you don't... Do you remember that he attacked me?
+
+183
+00:07:31,446 --> 00:07:31,707
+[SPEAKER_01]: Who?
+
+184
+00:07:31,867 --> 00:07:33,287
+[SPEAKER_01]: Do you remember that he attacked me?
+
+185
+00:07:33,327 --> 00:07:34,027
+[SPEAKER_02]: Attack who?
+
+186
+00:07:34,688 --> 00:07:35,428
+[SPEAKER_01]: Did he attack me?
+
+187
+00:07:36,887 --> 00:07:38,769
+[SPEAKER_00]: Because you attacked me point-blank.
+
+188
+00:07:38,789 --> 00:07:40,410
+[SPEAKER_00]: You saw him shoot a firebolt at him.
+
+189
+00:07:41,591 --> 00:07:41,971
+[SPEAKER_03]: Twice?
+
+190
+00:07:42,231 --> 00:07:45,834
+[SPEAKER_03]: Yeah, but you also saw him point-blank me.
+
+191
+00:07:46,254 --> 00:07:48,056
+[SPEAKER_01]: Okay, let me just stop.
+
+192
+00:07:48,116 --> 00:07:50,858
+[SPEAKER_01]: He started it.
+
+193
+00:07:50,938 --> 00:07:51,478
+[SPEAKER_01]: Exactly.
+
+194
+00:07:51,518 --> 00:07:52,039
+[SPEAKER_01]: Just stop.
+
+195
+00:07:52,379 --> 00:07:52,639
+[SPEAKER_02]: Stop.
+
+196
+00:07:52,959 --> 00:07:53,780
+[SPEAKER_02]: I'm not gonna kill you.
+
+197
+00:07:53,800 --> 00:07:55,001
+[SPEAKER_02]: Just stop.
+
+198
+00:07:55,341 --> 00:07:56,102
+[SPEAKER_02]: You will eventually.
+
+199
+00:07:56,142 --> 00:07:59,484
+[SPEAKER_02]: No, I won't.
+
+200
+00:07:59,985 --> 00:08:01,806
+[SPEAKER_00]: I should, but I won't.
+
+201
+00:08:02,287 --> 00:08:03,908
+[SPEAKER_03]: Can I get a hundred gold before I die?
+
+202
+00:08:06,383 --> 00:08:06,843
+[SPEAKER_03]: No!
+
+203
+00:08:07,583 --> 00:08:08,624
+[SPEAKER_03]: I'm not giving you any gold.
+
+204
+00:08:08,724 --> 00:08:09,584
+[SPEAKER_01]: Alright, you want money?
+
+205
+00:08:09,884 --> 00:08:11,324
+[SPEAKER_03]: You have millions of gold.
+
+206
+00:08:11,604 --> 00:08:15,185
+[SPEAKER_00]: I give him ten gold.
+
+207
+00:08:15,525 --> 00:08:18,846
+[SPEAKER_00]: Leslie, pour out my drawer in ecstasy.
+
+208
+00:08:19,126 --> 00:08:21,887
+[SPEAKER_03]: I might need a pencil instead of a pencil.
+
+209
+00:08:21,907 --> 00:08:22,607
+[SPEAKER_00]: No, don't worry about it.
+
+210
+00:08:22,627 --> 00:08:23,807
+[SPEAKER_02]: I'll take care of it on the computer.
+
+211
+00:08:23,947 --> 00:08:24,607
+[SPEAKER_02]: Just put it down.
+
+212
+00:08:24,948 --> 00:08:25,528
+[SPEAKER_03]: I'll update it.
+
+213
+00:08:25,588 --> 00:08:26,548
+[SPEAKER_02]: Just about ten GP.
+
+214
+00:08:28,019 --> 00:08:31,100
+[SPEAKER_03]: Well, I already have ten, so I'm gonna- He does a little jig.
+
+215
+00:08:33,341 --> 00:08:33,641
+[SPEAKER_01]: Oh!
+
+216
+00:08:34,482 --> 00:08:35,442
+[SPEAKER_03]: Honey!
+
+217
+00:08:37,203 --> 00:08:38,083
+[SPEAKER_01]: Okay, look.
+
+218
+00:08:38,523 --> 00:08:39,123
+[SPEAKER_03]: You still owe me.
+
+219
+00:08:39,483 --> 00:08:39,964
+[SPEAKER_02]: No, I don't!
+
+220
+00:08:40,004 --> 00:08:41,584
+[SPEAKER_01]: It's a high print!
+
+221
+00:08:41,824 --> 00:08:46,886
+[SPEAKER_02]: How about if you stay here and make us some more heal potions, because those came in really handy.
+
+222
+00:08:47,046 --> 00:08:48,327
+[SPEAKER_02]: Do I get to search through drawers?
+
+223
+00:08:50,721 --> 00:08:51,041
+[SPEAKER_02]: No.
+
+224
+00:08:51,201 --> 00:08:52,963
+[SPEAKER_02]: Well, I mean, sure.
+
+225
+00:08:52,983 --> 00:08:54,944
+[SPEAKER_01]: Can I show your rug or something?
+
+226
+00:08:55,104 --> 00:08:57,526
+[SPEAKER_01]: I think that you and I need to go talk.
+
+227
+00:08:57,546 --> 00:08:58,186
+[SPEAKER_01]: Bro, you have.
+
+228
+00:08:58,426 --> 00:08:59,928
+[SPEAKER_01]: You have like a throne made of gold.
+
+229
+00:09:00,608 --> 00:09:01,789
+[SPEAKER_02]: What are you gonna tell Gion?
+
+230
+00:09:01,989 --> 00:09:03,590
+[SPEAKER_01]: I'm gonna tell him exactly what happened.
+
+231
+00:09:04,190 --> 00:09:05,652
+[SPEAKER_01]: You have like a throne of gold.
+
+232
+00:09:07,413 --> 00:09:08,173
+[SPEAKER_01]: Were you not there?
+
+233
+00:09:08,994 --> 00:09:09,694
+[SPEAKER_01]: Oh, I was there.
+
+234
+00:09:09,955 --> 00:09:12,636
+[SPEAKER_02]: I got mugged by the people you sicked on me.
+
+235
+00:09:13,657 --> 00:09:13,917
+[SPEAKER_01]: Yeah.
+
+236
+00:09:14,658 --> 00:09:16,039
+[SPEAKER_01]: Because I was under control.
+
+237
+00:09:16,579 --> 00:09:16,999
+[SPEAKER_01]: Because you...
+
+238
+00:09:19,548 --> 00:09:20,088
+[SPEAKER_01]: What'd you do?
+
+239
+00:09:20,289 --> 00:09:21,049
+[SPEAKER_01]: Blank, blank, blank.
+
+240
+00:09:21,189 --> 00:09:24,672
+[SPEAKER_02]: You were the one standing behind her with a vial of, like, fluid.
+
+241
+00:09:24,752 --> 00:09:27,675
+[SPEAKER_02]: I wasn't gonna risk trying- No!
+
+242
+00:09:29,516 --> 00:09:31,678
+[SPEAKER_01]: And maybe if you didn't take it off of her to begin with.
+
+243
+00:09:33,139 --> 00:09:39,604
+[SPEAKER_02]: Look, I may have taken it off a little prematurely, but you could have stuck her- You just- You just- Oh yeah, let me just get that off me real quick.
+
+244
+00:09:40,105 --> 00:09:40,305
+[SPEAKER_01]: Oh!
+
+245
+00:09:41,246 --> 00:09:47,211
+[SPEAKER_03]: A-m-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-r-a-
+
+246
+00:09:52,365 --> 00:09:55,107
+[SPEAKER_02]: The guards we already let know that they were like, you know...
+
+247
+00:09:55,407 --> 00:09:58,010
+[SPEAKER_01]: The guards will be there as witness to it, but you're not...
+
+248
+00:09:58,070 --> 00:10:02,713
+[SPEAKER_02]: But what I'm telling you is that this is part of, like, this is your reputation.
+
+249
+00:10:03,294 --> 00:10:03,914
+[SPEAKER_02]: I will leave...
+
+250
+00:10:03,934 --> 00:10:04,475
+[SPEAKER_02]: I don't care.
+
+251
+00:10:04,535 --> 00:10:07,037
+[SPEAKER_02]: I will leave Monmurg at some point in the future.
+
+252
+00:10:07,057 --> 00:10:07,837
+[SPEAKER_01]: That's great.
+
+253
+00:10:07,917 --> 00:10:08,258
+[SPEAKER_01]: Good.
+
+254
+00:10:11,160 --> 00:10:14,683
+[SPEAKER_02]: The point being is that you're setting your fortune here.
+
+255
+00:10:15,383 --> 00:10:19,927
+[SPEAKER_02]: Lord Jameis asked me to help you, like, you know, gain, like, a network.
+
+256
+00:10:20,928 --> 00:10:29,276
+[SPEAKER_02]: You can't be just walking around saying, like, you've got your brains taken over and your mind numbed out by, like, some fang-tooth hag that's now running around the castle.
+
+257
+00:10:29,296 --> 00:10:31,598
+[SPEAKER_01]: Fine, I'll say that the guards were controlled.
+
+258
+00:10:31,918 --> 00:10:32,238
+[SPEAKER_02]: No, no.
+
+259
+00:10:32,499 --> 00:10:32,839
+[SPEAKER_02]: Well, look.
+
+260
+00:10:34,000 --> 00:10:34,761
+[SPEAKER_02]: It's fine.
+
+261
+00:10:35,802 --> 00:10:37,543
+[SPEAKER_02]: You've got the guy that you saved.
+
+262
+00:10:38,144 --> 00:10:44,309
+[SPEAKER_02]: Make sure that you emphasize that you saved the guy as you were fighting, right, to, like...
+
+263
+00:10:45,130 --> 00:10:53,252
+[SPEAKER_02]: But he's also going to remember that you freed her, unless he actually has some kind of mind lapse.
+
+264
+00:10:53,392 --> 00:10:57,712
+[SPEAKER_02]: So I don't know if you want to talk to him.
+
+265
+00:10:57,732 --> 00:11:00,113
+[SPEAKER_01]: Well, it's not like you can go there and speak for me.
+
+266
+00:11:01,113 --> 00:11:03,013
+[SPEAKER_01]: He's not even going to ask you, he's going to ask me.
+
+267
+00:11:03,293 --> 00:11:03,973
+[SPEAKER_01]: Who?
+
+268
+00:11:03,993 --> 00:11:06,134
+[SPEAKER_02]: Yeah, I know.
+
+269
+00:11:06,174 --> 00:11:07,874
+[SPEAKER_02]: Trust me, Jameis is going to ask me.
+
+270
+00:11:09,614 --> 00:11:10,515
+[SPEAKER_02]: He's going to do that?
+
+271
+00:11:11,335 --> 00:11:11,955
+[SPEAKER_02]: Definitely.
+
+272
+00:11:13,565 --> 00:11:16,109
+[SPEAKER_02]: So this is the part where we all get our stories straight.
+
+273
+00:11:18,111 --> 00:11:18,632
+[SPEAKER_01]: Leslie.
+
+274
+00:11:19,333 --> 00:11:20,094
+[SPEAKER_01]: Don't bring him.
+
+275
+00:11:20,134 --> 00:11:20,795
+[SPEAKER_01]: We can bring him.
+
+276
+00:11:22,457 --> 00:11:23,279
+[SPEAKER_01]: We're not bringing him.
+
+277
+00:11:23,499 --> 00:11:23,759
+[SPEAKER_02]: Go.
+
+278
+00:11:25,385 --> 00:11:28,968
+[SPEAKER_02]: That's why I said he should stay here and he should, like, make potions.
+
+279
+00:11:29,028 --> 00:11:30,550
+[SPEAKER_01]: I don't want to leave him alone in my room.
+
+280
+00:11:30,610 --> 00:11:31,691
+[SPEAKER_01]: Are you kidding me?
+
+281
+00:11:31,791 --> 00:11:35,734
+[SPEAKER_01]: I'm going to come back and everything's going to be on the floor because he searched for everything.
+
+282
+00:11:35,894 --> 00:11:38,156
+[SPEAKER_02]: So just tell him where all the valuables are.
+
+283
+00:11:38,216 --> 00:11:41,059
+[SPEAKER_01]: Open all the drawers.
+
+284
+00:11:41,079 --> 00:11:42,520
+[SPEAKER_02]: Show him where it is.
+
+285
+00:11:42,880 --> 00:11:45,703
+[SPEAKER_02]: Tell him how much we'll pay him per, like, heal potion.
+
+286
+00:11:46,183 --> 00:11:49,786
+[SPEAKER_02]: Give him regular market prices plus 5% and it'll be fine.
+
+287
+00:11:51,528 --> 00:11:52,669
+[SPEAKER_03]: What's my monthly interest?
+
+288
+00:11:54,022 --> 00:11:56,023
+[SPEAKER_03]: No, that's only if we borrow money from you.
+
+289
+00:11:56,063 --> 00:11:57,443
+[SPEAKER_03]: You don't have any money to loan.
+
+290
+00:11:57,583 --> 00:11:58,724
+[SPEAKER_03]: Do you have 20 gold?
+
+291
+00:11:59,204 --> 00:12:01,905
+[SPEAKER_02]: No, no, I don't need your 20 gold.
+
+292
+00:12:01,925 --> 00:12:03,706
+[SPEAKER_02]: What we need is we need more heal potions.
+
+293
+00:12:04,486 --> 00:12:06,567
+[SPEAKER_02]: And we need probably some more...
+
+294
+00:12:06,587 --> 00:12:09,128
+[SPEAKER_03]: So then why'd you waste the two that we had?
+
+295
+00:12:09,208 --> 00:12:10,629
+[SPEAKER_03]: Why'd you waste all four?
+
+296
+00:12:11,009 --> 00:12:14,690
+[SPEAKER_03]: Why'd you waste all four trying to revive a dead snake?
+
+297
+00:12:14,710 --> 00:12:15,671
+[SPEAKER_02]: You drank one, I drank one.
+
+298
+00:12:16,211 --> 00:12:18,732
+[SPEAKER_02]: I drank one because you were trying to take it back.
+
+299
+00:12:18,752 --> 00:12:21,053
+[SPEAKER_02]: We gave one to the guy we were torturing and dying.
+
+300
+00:12:22,145 --> 00:12:23,466
+[SPEAKER_00]: And he gave one to the guy.
+
+301
+00:12:23,526 --> 00:12:24,487
+[SPEAKER_02]: And he gave one to the guy.
+
+302
+00:12:24,507 --> 00:12:26,629
+[SPEAKER_02]: So, I mean, I wouldn't say they were wasted exactly.
+
+303
+00:12:26,689 --> 00:12:30,672
+[SPEAKER_03]: I'd say they were wasted because we all, like, came out negatively.
+
+304
+00:12:30,692 --> 00:12:31,652
+[SPEAKER_03]: We all came out.
+
+305
+00:12:31,672 --> 00:12:35,735
+[SPEAKER_02]: Okay, they weren't wasted.
+
+306
+00:12:35,896 --> 00:12:37,277
+[SPEAKER_02]: We could use four more.
+
+307
+00:12:37,317 --> 00:12:39,498
+[SPEAKER_02]: Isn't the boy even so dead?
+
+308
+00:12:39,718 --> 00:12:42,601
+[SPEAKER_02]: Can you make us four more for ten gold to pop?
+
+309
+00:12:42,981 --> 00:12:43,902
+[SPEAKER_02]: That's forty gold.
+
+310
+00:12:45,003 --> 00:12:45,543
+[SPEAKER_02]: Forty gold.
+
+311
+00:12:47,324 --> 00:12:47,985
+[SPEAKER_03]: Sign the print.
+
+312
+00:12:49,338 --> 00:12:52,183
+[SPEAKER_02]: I'd sign the print, 40 gold, for four more.
+
+313
+00:12:52,423 --> 00:12:54,206
+[SPEAKER_02]: But that means those four are mined.
+
+314
+00:12:54,847 --> 00:12:56,029
+[SPEAKER_02]: That means those four are mined.
+
+315
+00:12:56,430 --> 00:12:57,993
+[SPEAKER_01]: You might want to make two extra for you.
+
+316
+00:12:59,155 --> 00:12:59,636
+[SPEAKER_02]: What do you mean?
+
+317
+00:12:59,816 --> 00:13:01,619
+[SPEAKER_02]: I don't sign anything that I didn't read.
+
+318
+00:13:01,779 --> 00:13:02,981
+[SPEAKER_03]: Anyway.
+
+319
+00:13:05,099 --> 00:13:05,999
+[SPEAKER_00]: Paul stands out.
+
+320
+00:13:06,760 --> 00:13:08,720
+[SPEAKER_00]: I lock him in my disgust.
+
+321
+00:13:09,720 --> 00:13:10,861
+[SPEAKER_03]: And walks back to his room.
+
+322
+00:13:10,881 --> 00:13:13,662
+[SPEAKER_03]: You can just hear doors opening and closing.
+
+323
+00:13:13,862 --> 00:13:16,783
+[SPEAKER_03]: He knows he's gonna have to have a conversation.
+
+324
+00:13:17,083 --> 00:13:20,444
+[SPEAKER_00]: Leaving Jude and Leslie to bicker with each other.
+
+325
+00:13:20,464 --> 00:13:21,384
+[SPEAKER_00]: Just take me to the lab.
+
+326
+00:13:21,404 --> 00:13:22,424
+[SPEAKER_02]: You're gonna do this alone?
+
+327
+00:13:23,645 --> 00:13:24,025
+[SPEAKER_00]: Yeah!
+
+328
+00:13:25,842 --> 00:13:26,222
+[SPEAKER_01]: Okay.
+
+329
+00:13:26,903 --> 00:13:28,725
+[SPEAKER_03]: Also, wait, guys, guys, guys, guys.
+
+330
+00:13:29,225 --> 00:13:35,732
+[SPEAKER_03]: If it costs an insane amount of money to make a healing potion and you're giving me ten gold for it...
+
+331
+00:13:37,554 --> 00:13:39,075
+[SPEAKER_01]: I'm not even gonna mention Leslie.
+
+332
+00:13:41,337 --> 00:13:44,340
+[SPEAKER_03]: Like, look at the bargain scam.
+
+333
+00:13:44,561 --> 00:13:45,842
+[SPEAKER_02]: I'm not even arguing with you anymore.
+
+334
+00:13:46,262 --> 00:13:46,623
+[SPEAKER_02]: I leave.
+
+335
+00:13:47,982 --> 00:13:50,124
+[SPEAKER_02]: Just make the potions, please, and I'll pay you.
+
+336
+00:13:50,445 --> 00:13:51,946
+[SPEAKER_02]: Alright, but I need some more gold.
+
+337
+00:13:52,767 --> 00:13:55,189
+[SPEAKER_02]: Whatever, you can negotiate after you've made the potions.
+
+338
+00:13:55,229 --> 00:13:56,911
+[SPEAKER_02]: Make the potions, then renegotiate.
+
+339
+00:13:56,931 --> 00:13:59,493
+[SPEAKER_00]: Doesn't it cost 250 gold to make money?
+
+340
+00:13:59,933 --> 00:14:00,694
+[SPEAKER_00]: No, no, no.
+
+341
+00:14:00,714 --> 00:14:02,075
+[SPEAKER_00]: 25 gold points for a healing potion.
+
+342
+00:14:02,656 --> 00:14:03,617
+[SPEAKER_00]: I need five more gold.
+
+343
+00:14:03,957 --> 00:14:07,040
+[SPEAKER_00]: So, basically, the cost would be 35 gold.
+
+344
+00:14:09,207 --> 00:14:17,251
+[SPEAKER_00]: For Jude, for a potion, because he's paying you 10, and you need 25 gold coins in reagents.
+
+345
+00:14:17,831 --> 00:14:20,553
+[SPEAKER_00]: Also, quick thing, 40 gold a pop.
+
+346
+00:14:23,054 --> 00:14:25,295
+[SPEAKER_03]: It costs 25 to make, it costs 40 to sell.
+
+347
+00:14:25,395 --> 00:14:28,276
+[SPEAKER_02]: Okay, that's fine, but I'm paying for myself to have four.
+
+348
+00:14:28,636 --> 00:14:29,037
+[SPEAKER_02]: All four.
+
+349
+00:14:29,797 --> 00:14:31,638
+[SPEAKER_02]: With a little sip missing.
+
+350
+00:14:33,768 --> 00:14:35,730
+[SPEAKER_03]: So it's like 2d4 plus one?
+
+351
+00:14:35,750 --> 00:14:36,310
+[SPEAKER_03]: A little sip.
+
+352
+00:14:36,330 --> 00:14:37,872
+[SPEAKER_02]: Ten potions has got another one.
+
+353
+00:14:38,032 --> 00:14:40,254
+[SPEAKER_02]: Instead of 2d4 plus two, it's 2d4 plus one.
+
+354
+00:14:40,294 --> 00:14:41,034
+[SPEAKER_02]: I'm addicted.
+
+355
+00:14:41,175 --> 00:14:42,676
+[SPEAKER_00]: I'm on healing potions.
+
+356
+00:14:56,558 --> 00:14:58,339
+[SPEAKER_02]: All right, look, so that's fine.
+
+357
+00:14:58,780 --> 00:15:03,444
+[SPEAKER_02]: Just make the potions and probably make more than four because if I'm paying that, then those four are mine.
+
+358
+00:15:03,464 --> 00:15:11,670
+[SPEAKER_03]: So do I have to go like search around in the village, say like I work with the intelligence of the, of the prince?
+
+359
+00:15:11,690 --> 00:15:12,911
+[SPEAKER_03]: No, he probably has one.
+
+360
+00:15:12,931 --> 00:15:15,853
+[SPEAKER_03]: Like go around for the market to buy the stuff, ingredients.
+
+361
+00:15:15,873 --> 00:15:18,135
+[SPEAKER_03]: You don't ever want to do that.
+
+362
+00:15:18,155 --> 00:15:19,416
+[SPEAKER_00]: You want Jude to do that?
+
+363
+00:15:19,656 --> 00:15:21,678
+[SPEAKER_00]: You don't want to go to the market.
+
+364
+00:15:22,038 --> 00:15:24,120
+[SPEAKER_00]: You've got strength six minus two.
+
+365
+00:15:27,769 --> 00:15:34,336
+[SPEAKER_03]: I don't have anything yet.
+
+366
+00:15:34,536 --> 00:15:37,500
+[SPEAKER_02]: Do you need me to buy the reage?
+
+367
+00:15:38,421 --> 00:15:38,701
+[SPEAKER_02]: What?
+
+368
+00:15:38,801 --> 00:15:40,603
+[SPEAKER_02]: Do you need me to buy the materials?
+
+369
+00:15:40,723 --> 00:15:41,044
+[SPEAKER_01]: Yes.
+
+370
+00:15:42,545 --> 00:15:42,826
+Okay.
+
+371
+00:15:43,446 --> 00:15:45,388
+[SPEAKER_02]: Can't make soap without the materials.
+
+372
+00:15:45,709 --> 00:15:47,251
+[SPEAKER_02]: I'm not as efficient as he is.
+
+373
+00:15:47,311 --> 00:15:48,212
+[SPEAKER_02]: He's more of an alchemist.
+
+374
+00:15:49,167 --> 00:15:51,308
+[SPEAKER_01]: Even though there's no experience.
+
+375
+00:15:51,828 --> 00:15:55,290
+[SPEAKER_02]: I'm the kind that burns large groups of people to death.
+
+376
+00:15:55,510 --> 00:15:57,411
+[SPEAKER_02]: Which, thank you, I didn't do.
+
+377
+00:15:59,332 --> 00:16:00,872
+[SPEAKER_00]: So you didn't do the one thing you're good at?
+
+378
+00:16:01,553 --> 00:16:03,173
+[SPEAKER_02]: No, I refrained.
+
+379
+00:16:04,314 --> 00:16:06,175
+[SPEAKER_00]: Yeah, it would have been a much different day.
+
+380
+00:16:06,355 --> 00:16:10,877
+[SPEAKER_02]: You'd be having a whole different conversation and I would be like with Owen.
+
+381
+00:16:10,897 --> 00:16:11,637
+[SPEAKER_00]: I'm gonna update it.
+
+382
+00:16:11,877 --> 00:16:13,298
+[SPEAKER_02]: I would be with Owen Black.
+
+383
+00:16:14,178 --> 00:16:16,019
+[SPEAKER_02]: Like getting canoed out of here.
+
+384
+00:16:17,420 --> 00:16:18,040
+[SPEAKER_02]: Loaded out of.
+

@@ -1,0 +1,6 @@
+# Cast for Jude_and_Paul_deal_w_Fallout_5th_Wealsun
+# Expected voices: 4
+DM
+Paul
+Jude
+Leslie

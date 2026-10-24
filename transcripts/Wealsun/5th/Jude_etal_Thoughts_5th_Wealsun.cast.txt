@@ -1,0 +1,6 @@
+# Cast for Jude_etal_Thoughts_5th_Wealsun
+# Expected voices: 4
+DM
+Paul
+Jude
+Leslie

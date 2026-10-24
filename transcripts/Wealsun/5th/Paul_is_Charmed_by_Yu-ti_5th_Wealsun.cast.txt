@@ -1,0 +1,8 @@
+# Cast for Paul_is_Charmed_by_Yu-ti_5th_Wealsun
+# Expected voices: 4
+DM
+Paul
+Jude
+Leslie
+Guard (NPC, DM-voiced)
+FemalePrisoner (NPC, DM-voiced)
