@@ -36,7 +36,7 @@ It is **copper sulfate** — "**copper and sulfur, combined in a way few know**"
 
 - The **Helm is the chief storehouse** and the powder is the Hold's most closely guarded secret; only **Fairwind and the Admiralty** know how the warding is maintained (`Helm_Island.md`). This is why the island matters: planning seat, powder storehouse, rotating trust in one place. **The theft of the powder and the fall of the Helm are the same crime.**
 - **Fairwind siphoned the stores off for months**, loading them aboard Cain Toli's ship, the ***Sea Ghost***, and quietly moving as much as he could to a cache of his own on **Fairwind Island** (Ch. 33, Book 2 Ch. 2). With the protection gone, the sahaugin returned — and a corsair of Monmurg Marines was overrun in the bay (roughly two hundred dead).
-- What remains to Monmurg is small: **about twenty-five barrels** in all, in the possession of the Prince of Monmurg and his forces (author ruling) — **21 still on the island** plus the **four** the survivors rafted home in the immediate escape (Book 2 Ch. 2). That is the whole remaining supply. *(Continuity: Book 2 Ch. 2 reads "twenty-five … on the island"; the island figure is **21**, and 21 + 4 rafted = the 25 total.)*
+- What remains to Monmurg is small: **about twenty-five barrels** in all, in the possession of the Prince of Monmurg and his forces (author ruling) — **21 still on the island** plus the **four** the survivors rafted home in the immediate escape (Book 2 Ch. 2). That is the whole remaining supply. *(Reconciled in the Book 2 rewrite: Paul (Ch. 1) and Jude (Ch. 2) now give twenty-five in all, four rafted home and twenty-one left in the grotto.)*
 
 ## Open threads (established, unresolved — don't silently close)
 

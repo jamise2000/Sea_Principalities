@@ -4,17 +4,16 @@
 
 ## PART ONE: DEBRIEFING IN MONMURG
 
-1. [Chapter One — The Prince's Charge](Chapter_01_The_Princes_Charge.md)
-2. [Chapter Two — A Vintage from Keoland](Chapter_02_A_Vintage_from_Keoland.md)
-3. [Chapter Three — The Tower and the Storm to Come](Chapter_03_The_Tower_and_the_Storm_to_Come.md)
+1. [Chapter One — The Better Bargain](Chapter_01_The_Better_Bargain.md)
+2. [Chapter Two — The Prince's Charge](Chapter_02_The_Princes_Charge.md)
 
-## PART TWO: THE FOURTH DAY
+## PART TWO: PAUL'S EDUCATION
 
-4. [Chapter Four — What Paul Wanted](Chapter_04_What_Paul_Wanted.md)
+3. [Chapter Three — What Jeon Wanted](Chapter_03_What_Jeon_Wanted.md)
+4. [Chapter Four — A Web Worth Cultivating](Chapter_04_A_Web_Worth_Cultivating.md)
 5. [Chapter Five — The First Cantrip](Chapter_05_The_First_Cantrip.md)
 6. [Chapter Six — The Wager](Chapter_06_The_Wager.md)
-7. [Chapter Seven — What Paul Knew of the Toli](Chapter_07_What_Paul_Knew_of_the_Toli.md)
-8. [Chapter Eight — Copper and Sulfur](Chapter_08_Copper_and_Sulfur.md)
+7. [Chapter Seven — Copper and Sulfur](Chapter_07_Copper_and_Sulfur.md)
 
 ---
 
