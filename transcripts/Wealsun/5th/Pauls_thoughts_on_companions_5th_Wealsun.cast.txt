@@ -1,0 +1,4 @@
+# Cast for Pauls_thoughts_on_companions_5th_Wealsun
+# Expected voices: 2
+DM
+Paul

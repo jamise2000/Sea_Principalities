@@ -1,0 +1,6 @@
+# Cast for Paul_checks_on_companions_5th_Wealsun
+# Expected voices: 4
+DM
+Paul
+Jude
+Leslie

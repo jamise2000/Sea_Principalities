@@ -290,7 +290,7 @@ Author rulings on the anti-sahaugin powder (recorded in `worldbuilding/The_Anti-
 - L66 "I don't mean to cry" → "I don't mean to pry" (ASR).
 - L466 "a supply as large as the Hound did" → "…as large as the Helm did" (ASR).
 - Cain Toli garbles throughout ("Kane Tolley / Caintoli / Cain Tole / Kane totally / King Toli / Keitoly") → "Cain Toli".
-- L857 "a lynch called Aserach" → "a lich called Acerak" (= Ujor Udias; the Orb of the Dragon Turtle).
+- L857 "a lynch called Acerak" → "a lich called Acerak" (= Ujor Udias; the Orb of the Dragon Turtle).
 - L858 "Exit told Cain Tolley" → "Ixid" (necromancer of the Sons of Olan).
 - L118 "Sacknon Toli" → "Sacnon Toli"; L83 "Selenmore" → "Selinmore".
 - L69-72/L81 "Hull Marshes / Hula Martian" → "Hull Marshes"; L118/L454 "Berghoff/Berkhoff" → "Berghof".
@@ -315,7 +315,7 @@ Author rulings on the anti-sahaugin powder (recorded in `worldbuilding/The_Anti-
 
 ## Folsom_tells_Merrick_what_he_has_learned (6th Wealsun)
 - L2 "sixth of Whale Sun" → "Wealsun".
-- Acerak garbles ("Azzagon / Agath / Azrek / Asarak / Aserach") → "Acerak".
+- Acerak garbles ("Azzagon / Agath / Azrek / Asarak / Acerak") → "Acerak".
 - "Keintoli / Cane Tolis / Can Toli" → "Cain Toli".
 - L74-81 "Gion / Gian" → "Jeon" (Prince Jeon).
 - L162 "Salimor" → "Salinmoor".
@@ -600,7 +600,7 @@ Speaker-tag character-lock applied. Under-the-stars Q&A/conversation, 167 lines.
 - CANON (item): Gouge gave Folsom a large flat-cut GREEN GEM (~2000 gp), "make sure you have my back"; NOT the turtle-dragon amulet (poss. related to Gouge's "stones"). Tyrus suspects an ulterior motive.
 - CANON: crew's lord = Prince Jeon of Monmurg (DM corrects "King Jameis"); Redshore = Keoland, Earl subject to Duke of Gradsul; Redshore does whaling/oil, choked by blockade.
 - Body normalization APPLIED: Red Shore->Redshore; Duke of Gratzel/Grazzle->Duke of Gradsul.
-- Noted for prose: "Semtha"->7th; Aserach/Ixid spellings TBC; Caintoli/Kane Toli/King Toli->Cain Toli; Taurus->Torus; "ancient soul"/Sewell->Suel; "King Jameis"->Lord Jamis; "Prince Gian"->Prince Jeon; Man of Wars->men-of-war.
+- Noted for prose: "Semtha"->7th; Acerak/Ixid spellings TBC; Caintoli/Kane Toli/King Toli->Cain Toli; Taurus->Torus; "ancient soul"/Sewell->Suel; "King Jameis"->Lord Jamis; "Prince Gian"->Prince Jeon; Man of Wars->men-of-war.
 - Flag: lines 39-41 muddled re: whose ship Owen's trap-sloop was (intent: Tyrus's) - left as diarized.
 
 ## The Party Ponders Escape & Looks for a Boat (7th Wealsun) [update_9.29.2026 batch]

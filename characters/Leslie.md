@@ -10,6 +10,8 @@ Leslie is **Oeridian**, born in **Monmurg** to a fairly wealthy **merchant famil
 
 His path into magic came through one man: **Albashon**, an exceptional and very old **Suel alchemist and transmuter** with a workshop in Monmurg's Foreign District (see the minor-characters roster). Most Suel will not take Oeridian apprentices, and few Oeridians ever become wizards — the Suel guard the arts, and ancient Suel is "the language of magic" — but Albashon was unbiased, recognized Leslie's talent, and took him on. Over several years Leslie served as his **lab assistant**, learned to distill chemicals and work alchemy from Albashon's copy of the ***Magnum Opus* of Ujor Udias**, and was taught to read ancient Suel and to cast spells. Albashon gave Leslie his **spellbook** and, in Leslie's own reckoning, made him the wizard he is.
 
+**Class and level (author ruling):** **2nd-level wizard, School of Transmutation**, his master's school. At this level he casts only 1st-level spells. For what that lets him brew from Albashon's recipe scrolls, see `worldbuilding/Albashons_Knowledge_Box.md`, Item 4.
+
 He is a **wizard** in the learned, studious sense (knowledge and technique, not a sorcerer's innate charisma), and physically no fighter — during the escape he is described as "pretty weak," needing Jude to take the lead.
 
 ## Story Entry (4th Wealsun)

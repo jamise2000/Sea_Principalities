@@ -1,0 +1,612 @@
+1
+00:00:01,341 --> 00:00:05,245
+[SPEAKER_00]: 430 on the 5th of Wales Sun, the...
+
+2
+00:00:05,486 --> 00:00:06,147
+[SPEAKER_00]: Torture chamber.
+
+3
+00:00:06,867 --> 00:00:07,608
+[SPEAKER_00]: Torture chamber.
+
+4
+00:00:08,529 --> 00:00:19,303
+[SPEAKER_00]: The agent of the Scarlet Brotherhood has just died from ingesting or having been injected with the white substance.
+
+5
+00:00:22,473 --> 00:00:22,733
+[SPEAKER_00]: Okay.
+
+6
+00:00:23,534 --> 00:00:23,974
+[SPEAKER_00]: He's dead.
+
+7
+00:00:24,615 --> 00:00:25,175
+[SPEAKER_02]: Alright.
+
+8
+00:00:25,255 --> 00:00:27,416
+[SPEAKER_01]: I would've gotten you another heal potion.
+
+9
+00:00:27,436 --> 00:00:29,478
+[SPEAKER_01]: Maybe if you were there, you could give your potion.
+
+10
+00:00:29,658 --> 00:00:31,860
+[SPEAKER_01]: I wasn't- Yeah.
+
+11
+00:00:32,380 --> 00:00:35,322
+[SPEAKER_02]: Leslie, I'm only gonna ask you once.
+
+12
+00:00:35,902 --> 00:00:38,344
+[SPEAKER_02]: Give me one of those heal potions, cause now I don't have one.
+
+13
+00:00:38,364 --> 00:00:39,825
+[SPEAKER_03]: I'll give you one.
+
+14
+00:00:39,845 --> 00:00:41,166
+[SPEAKER_03]: What if I drink half of it?
+
+15
+00:00:42,046 --> 00:00:47,310
+[SPEAKER_02]: If you drink half of it, I'm gonna knock you out and you will wake up in this chair.
+
+16
+00:00:47,330 --> 00:00:50,652
+[SPEAKER_03]: No, you're gonna hit me and I'm gonna drink the second one.
+
+17
+00:00:55,632 --> 00:00:59,574
+[SPEAKER_03]: I'm saying, you get too many where you could just spam.
+
+18
+00:00:59,854 --> 00:01:00,574
+[SPEAKER_03]: Do an int check.
+
+19
+00:01:05,296 --> 00:01:05,596
+[SPEAKER_00]: Adding?
+
+20
+00:01:06,776 --> 00:01:08,957
+[SPEAKER_00]: Adding your insight.
+
+21
+00:01:10,021 --> 00:01:10,461
+[SPEAKER_02]: Insight?
+
+22
+00:01:10,521 --> 00:01:13,424
+[SPEAKER_02]: You look on that list of skills.
+
+23
+00:01:14,224 --> 00:01:16,146
+[SPEAKER_02]: There's one that's insight, whatever your pluses are.
+
+24
+00:01:16,166 --> 00:01:17,527
+[SPEAKER_02]: I think it's wisdom based.
+
+25
+00:01:17,587 --> 00:01:17,647
+[SPEAKER_02]: 17.
+
+26
+00:01:17,667 --> 00:01:19,688
+[SPEAKER_03]: Got to beat that, Lil' Van.
+
+27
+00:01:19,849 --> 00:01:21,790
+[SPEAKER_03]: Okay, come with me, Leslie.
+
+28
+00:01:21,810 --> 00:01:22,591
+[SPEAKER_00]: You realize...
+
+29
+00:01:38,098 --> 00:01:48,683
+[SPEAKER_00]: That you're a very, very small man in a very small room with two people that are much bigger than you, and they're powerful.
+
+30
+00:01:49,964 --> 00:01:50,704
+[SPEAKER_00]: Not in their head.
+
+31
+00:01:50,905 --> 00:01:52,145
+[SPEAKER_00]: They're idiots.
+
+32
+00:01:52,165 --> 00:01:53,206
+[SPEAKER_00]: They mash rocks.
+
+33
+00:01:53,326 --> 00:01:53,606
+[SPEAKER_00]: I know.
+
+34
+00:01:53,626 --> 00:01:54,146
+[SPEAKER_03]: They mash rocks.
+
+35
+00:01:54,326 --> 00:01:54,626
+[SPEAKER_03]: I know.
+
+36
+00:01:54,646 --> 00:01:57,748
+[SPEAKER_00]: They're absolutely brilliant as you.
+
+37
+00:01:58,348 --> 00:02:05,232
+[SPEAKER_00]: However, it might be good to play along until you're more powerful to deal with these idiots.
+
+38
+00:02:07,531 --> 00:02:09,773
+[SPEAKER_00]: Once again, man, tank, yeah.
+
+39
+00:02:10,053 --> 00:02:10,733
+[SPEAKER_00]: The smart game.
+
+40
+00:02:11,774 --> 00:02:13,255
+[SPEAKER_00]: There are demands right now.
+
+41
+00:02:15,837 --> 00:02:21,361
+[SPEAKER_00]: One healing potion, and by the way, you've already read the healing potion, you can make as many as you want, it's only 25 gold.
+
+42
+00:02:21,481 --> 00:02:22,442
+[SPEAKER_00]: I only have 10 gold.
+
+43
+00:02:24,904 --> 00:02:25,344
+[SPEAKER_00]: I know what to do.
+
+44
+00:02:25,524 --> 00:02:26,385
+[SPEAKER_00]: Negotiate.
+
+45
+00:02:26,865 --> 00:02:27,566
+[SPEAKER_00]: Negotiate.
+
+46
+00:02:30,568 --> 00:02:32,569
+[SPEAKER_01]: How many gold do you guys have?
+
+47
+00:02:34,190 --> 00:02:34,491
+[SPEAKER_01]: What?
+
+48
+00:02:34,671 --> 00:02:34,891
+[SPEAKER_01]: Four.
+
+49
+00:02:39,868 --> 00:02:41,289
+[SPEAKER_02]: First off, never tell him it live.
+
+50
+00:02:44,412 --> 00:02:48,115
+[SPEAKER_03]: Yeah, that's not- Why do you need it?
+
+51
+00:02:48,616 --> 00:02:49,196
+[SPEAKER_03]: Why do you need it?
+
+52
+00:02:49,256 --> 00:02:51,979
+[SPEAKER_03]: Why do you need the potion?
+
+53
+00:02:52,159 --> 00:02:53,580
+[SPEAKER_03]: We both have- Why do you need two?
+
+54
+00:02:54,541 --> 00:02:56,723
+[SPEAKER_01]: Because I need for the industrial mass production.
+
+55
+00:02:56,743 --> 00:02:59,785
+[SPEAKER_01]: That doesn't- You're not producing anything, though.
+
+56
+00:02:59,805 --> 00:03:01,146
+[SPEAKER_02]: This is my wand.
+
+57
+00:03:02,868 --> 00:03:03,608
+[SPEAKER_02]: Give me- Give me-
+
+58
+00:03:06,528 --> 00:03:10,652
+[SPEAKER_03]: We both have our needs and wants.
+
+59
+00:03:10,712 --> 00:03:12,113
+[SPEAKER_03]: It's a want, mine it's a need.
+
+60
+00:03:12,333 --> 00:03:14,776
+[SPEAKER_03]: Leslie just hit him.
+
+61
+00:03:14,976 --> 00:03:18,859
+[SPEAKER_03]: I'm going to ask you guys 30 gold for a potion.
+
+62
+00:03:19,340 --> 00:03:22,542
+[SPEAKER_02]: Leslie, give me one of the potions or I'm gonna shoot you.
+
+63
+00:03:25,905 --> 00:03:27,086
+[SPEAKER_00]: Remember what we talked about?
+
+64
+00:03:27,106 --> 00:03:27,166
+[SPEAKER_00]: 25.
+
+65
+00:03:31,782 --> 00:03:34,503
+[SPEAKER_00]: Are you actually gonna shoot him?
+
+66
+00:03:34,743 --> 00:03:35,523
+[SPEAKER_00]: With one?
+
+67
+00:03:36,024 --> 00:03:36,324
+[SPEAKER_00]: Okay.
+
+68
+00:03:37,364 --> 00:03:39,145
+[SPEAKER_03]: I'm gonna die and I'm gonna chug them all.
+
+69
+00:03:39,625 --> 00:03:40,385
+[SPEAKER_03]: I'm gonna drink them all.
+
+70
+00:03:41,005 --> 00:03:43,006
+[SPEAKER_02]: Well then I'll just finish killing you.
+
+71
+00:03:43,046 --> 00:03:47,007
+[SPEAKER_03]: And then you won't have any health in the rest of your life.
+
+72
+00:03:48,848 --> 00:03:49,348
+[SPEAKER_00]: Plus one?
+
+73
+00:03:49,448 --> 00:03:49,728
+[SPEAKER_00]: Five.
+
+74
+00:03:50,568 --> 00:03:57,450
+[SPEAKER_00]: He hits you with a magic missile and the pain is worse than anything you've ever felt.
+
+75
+00:03:57,891 --> 00:03:58,951
+[SPEAKER_00]: How many hit points do you have?
+
+76
+00:04:01,063 --> 00:04:01,443
+[SPEAKER_00]: Sixteen.
+
+77
+00:04:01,484 --> 00:04:01,964
+[SPEAKER_00]: Sixteen.
+
+78
+00:04:02,405 --> 00:04:03,366
+[SPEAKER_00]: Now you have eleven.
+
+79
+00:04:03,946 --> 00:04:05,308
+[SPEAKER_00]: I chug a health plate.
+
+80
+00:04:05,568 --> 00:04:09,152
+[SPEAKER_00]: Hang on a second.
+
+81
+00:04:09,212 --> 00:04:10,053
+[SPEAKER_00]: Hang on a second.
+
+82
+00:04:10,314 --> 00:04:11,295
+[SPEAKER_00]: This could have been yours.
+
+83
+00:04:11,355 --> 00:04:12,196
+[SPEAKER_00]: Come with me.
+
+84
+00:04:12,356 --> 00:04:13,978
+[SPEAKER_03]: Come with me, Leslie.
+
+85
+00:04:14,418 --> 00:04:18,884
+[SPEAKER_03]: Yeah, you have money.
+
+86
+00:04:18,904 --> 00:04:20,425
+[SPEAKER_03]: You can jump in and get me some money.
+
+87
+00:04:21,306 --> 00:04:21,627
+[SPEAKER_00]: Okay.
+
+88
+00:04:23,185 --> 00:04:23,966
+[SPEAKER_00]: So here's the deal.
+
+89
+00:04:24,286 --> 00:04:25,967
+[SPEAKER_00]: It's about pushing intimidation.
+
+90
+00:04:26,528 --> 00:04:28,950
+[SPEAKER_00]: They know that if they kill me, they're screwed.
+
+91
+00:04:29,750 --> 00:04:30,851
+[SPEAKER_00]: So you want to push it to that?
+
+92
+00:04:32,893 --> 00:04:33,513
+[SPEAKER_00]: Go big.
+
+93
+00:04:33,613 --> 00:04:35,875
+[SPEAKER_00]: But, okay, this is the thing.
+
+94
+00:04:36,315 --> 00:04:38,837
+[SPEAKER_00]: These guys are Corey Lee, right?
+
+95
+00:04:39,038 --> 00:04:41,359
+[SPEAKER_00]: They're torturing people, all that stuff.
+
+96
+00:04:41,520 --> 00:04:44,442
+[SPEAKER_00]: They're doing things that are easily taken care of other ways.
+
+97
+00:04:52,518 --> 00:04:52,918
+[SPEAKER_00]: Okay?
+
+98
+00:04:53,399 --> 00:04:57,941
+[SPEAKER_00]: What you need to do is focus on getting all the spells you can from your Master Spellbook.
+
+99
+00:04:58,042 --> 00:04:58,522
+[SPEAKER_00]: And gold.
+
+100
+00:04:58,782 --> 00:04:59,182
+[SPEAKER_00]: And gold.
+
+101
+00:04:59,582 --> 00:05:04,045
+[SPEAKER_00]: But doing it in a good and smart way, if you learn the potions, they'll buy you.
+
+102
+00:05:05,166 --> 00:05:11,850
+[SPEAKER_00]: Become more useful, and at some point, you're so useful, they're no longer useful.
+
+103
+00:05:24,600 --> 00:05:26,461
+[SPEAKER_03]: Do you know that this will help you, too?
+
+104
+00:05:27,262 --> 00:05:29,703
+[SPEAKER_03]: I'm gonna kill him, so you finish this.
+
+105
+00:05:29,723 --> 00:05:31,184
+[SPEAKER_03]: Do you want to kill me first, Snake?
+
+106
+00:05:31,264 --> 00:05:32,945
+[SPEAKER_03]: Do you want to kill the future?
+
+107
+00:05:32,965 --> 00:05:35,226
+[SPEAKER_01]: No, you shouldn't give us the pile of potion.
+
+108
+00:05:35,587 --> 00:05:36,527
+[SPEAKER_03]: I just want 20 gold.
+
+109
+00:05:37,048 --> 00:05:37,808
+[SPEAKER_01]: Give us that potion.
+
+110
+00:05:38,729 --> 00:05:40,810
+[SPEAKER_03]: Well, where's your 20 gold, Mr. Luigi Rich?
+
+111
+00:05:40,970 --> 00:05:44,072
+[SPEAKER_01]: Give us the pile of potion, or he's gonna shoot another missile at you.
+
+112
+00:05:45,052 --> 00:05:47,754
+[SPEAKER_03]: Okay, well if...
+
+113
+00:05:47,934 --> 00:05:49,335
+[SPEAKER_01]: There's no argument here.
+
+114
+00:05:51,408 --> 00:05:52,789
+[SPEAKER_03]: Why don't you pull out the gold?
+
+115
+00:05:53,230 --> 00:05:55,132
+[SPEAKER_01]: No, I'm not pulling out.
+
+116
+00:05:55,332 --> 00:05:56,753
+[SPEAKER_01]: So you don't have the gold.
+
+117
+00:05:56,813 --> 00:06:01,778
+[SPEAKER_02]: Do you realize how much it costs to train you to go up a level?
+
+118
+00:06:02,644 --> 00:06:03,385
+[SPEAKER_03]: Do you know?
+
+119
+00:06:03,505 --> 00:06:10,093
+[SPEAKER_03]: Yeah, do you know how much it costs to run the future of the world of mass production, of Leslie productions?
+
+120
+00:06:10,113 --> 00:06:14,017
+[SPEAKER_02]: Do you think that I won't charge you while you're working on running the world?
+
+121
+00:06:14,118 --> 00:06:15,419
+[SPEAKER_02]: You've got to get up in skills.
+
+122
+00:06:15,900 --> 00:06:16,781
+[SPEAKER_02]: Okay, think about it.
+
+123
+00:06:16,821 --> 00:06:18,583
+[SPEAKER_02]: And you're not getting up in skills.
+
+124
+00:06:18,603 --> 00:06:19,965
+[SPEAKER_01]: Just give him the hell potion.
+
+125
+00:06:20,025 --> 00:06:21,767
+[SPEAKER_01]: You can get another one.
+
+126
+00:06:23,474 --> 00:06:24,535
+[SPEAKER_03]: Do you want me to help you?
+
+127
+00:06:24,915 --> 00:06:27,878
+[SPEAKER_02]: Take this sack of dead cells out of here.
+
+128
+00:06:28,118 --> 00:06:28,959
+[SPEAKER_02]: Bring in the female.
+
+129
+00:06:29,199 --> 00:06:29,459
+[SPEAKER_00]: Yes.
+
+130
+00:06:30,020 --> 00:06:31,181
+[SPEAKER_00]: No, don't bring in the female.
+
+131
+00:06:31,221 --> 00:06:31,801
+[SPEAKER_00]: The dealer.
+
+132
+00:06:32,182 --> 00:06:33,463
+[SPEAKER_00]: I don't care if she hears this argument.
+
+133
+00:06:33,483 --> 00:06:37,587
+[SPEAKER_00]: The dealer and a couple of guards grab the body and take it out.
+
+134
+00:06:37,847 --> 00:06:38,628
+[SPEAKER_02]: Make sure you burn them.
+
+135
+00:06:39,899 --> 00:06:41,441
+[SPEAKER_02]: What would that be for?
+
+136
+00:06:41,861 --> 00:06:42,322
+[SPEAKER_02]: Burning him?
+
+137
+00:06:43,384 --> 00:06:44,485
+[SPEAKER_02]: He's got a sickness.
+
+138
+00:06:45,466 --> 00:06:47,529
+[SPEAKER_02]: I don't know if it spreads on a cough.
+
+139
+00:06:47,689 --> 00:06:49,492
+[SPEAKER_02]: All he said was the black.
+
+140
+00:06:50,013 --> 00:06:54,379
+[SPEAKER_02]: I don't know whether it's a powder, it's in his lungs, whether he's biting people in the middle of the night.
+
+141
+00:06:54,959 --> 00:06:55,400
+[SPEAKER_02]: Do you?
+
+142
+00:06:56,221 --> 00:07:00,964
+[SPEAKER_02]: Because I was asking him questions that I would have liked to continue if you had given me the heal potion.
+
+143
+00:07:00,984 --> 00:07:02,726
+[SPEAKER_01]: Maybe you had ten gold in your pocket.
+
+144
+00:07:02,746 --> 00:07:04,267
+[SPEAKER_01]: Leslie, give him the heal potion.
+
+145
+00:07:04,287 --> 00:07:05,387
+[SPEAKER_01]: Ten gold, final offer.
+
+146
+00:07:05,748 --> 00:07:07,769
+[SPEAKER_01]: Leslie, he's gonna shoot another arrow.
+
+147
+00:07:07,789 --> 00:07:10,931
+[SPEAKER_03]: You can give it to me when we get back.
+
+148
+00:07:11,832 --> 00:07:16,115
+[SPEAKER_01]: Sure.
+
+149
+00:07:16,975 --> 00:07:19,117
+[SPEAKER_01]: We shake on you.
+
+150
+00:07:19,137 --> 00:07:20,198
+[SPEAKER_01]: Give him the heal potion.
+
+151
+00:07:20,258 --> 00:07:20,818
+[SPEAKER_01]: I give it.
+
+152
+00:07:20,898 --> 00:07:21,098
+[SPEAKER_01]: Okay.
+
+153
+00:07:24,601 --> 00:07:26,325
+[SPEAKER_00]: So, I want your thoughts on this.
+

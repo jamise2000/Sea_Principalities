@@ -1,0 +1,5 @@
+# Cast for Leslie_examines_potion_recipes_Jude_reads_Journal_5th_Wealsun
+# Expected voices: 3
+DM
+Jude
+Leslie

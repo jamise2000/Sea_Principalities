@@ -288,7 +288,7 @@ Reference notes for keeping this tome consistent with the rest of the project. T
 
 - **New named figures.** **Archibald Fryhone** (naturalist, author of this tome, CY 554); **Count Olan** (vampire-lord, founder-namesake); **Acerak** (the lich; the famous D&D lich, placed here in the Dreadwood). **Raloro** (arch-druid/naturalist, CY 100) recurs here consistently with `Insamiar_the_Black.md`.
 
-- **Still to reconcile (offered, not done).** The **gazetteer** (`The_Sea_Principalities.md`) still says the Insamiar stupor "can last for **days**" and calls the potion the "**Gift** of Insamiar"; this tome (the fuller source) says **hours** and names the potion the **Blessing** (with "gift" = the offering). Say the word and I'll align the gazetteer to the tome.
+- **Still to reconcile (offered, not done).** The **gazetteer** (`The_Sea_Principalities.md`) still says the Insamiar stupor "can last for **days**" and calls the potion the "**Gift** of Insamiar"; this tome (the fuller source) says **hours** and names the potion the **Blessing** (with "gift" = the offering). Say the word and I'll align the gazetteer to the tome. *Update (author ruling):* the "Gift" and the "Blessing" of Insamiar are **the same substance**, so the gazetteer's "Gift" is not wrong, only the in-world vernacular name. The days/hours stupor discrepancy is still open.
 
 ### Open Threads (established but unresolved)
 

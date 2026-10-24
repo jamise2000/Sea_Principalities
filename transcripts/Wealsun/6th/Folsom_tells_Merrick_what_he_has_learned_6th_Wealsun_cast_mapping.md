@@ -37,7 +37,7 @@ Corroborates the `Name_Normalization_Key.md` entries: **Acerak** (the lich, = th
 **54** ("Bob White was up there too" — a stray table aside), **171–174** ("I got this on vinyl / my voice sounded funny / a different tone of voice / informative voice" — the player riffing on their own voice; modern reference).
 
 ## Names to normalize in prose
-"Whale Sun" (2) → **Wealsun**; "Azzagon / Agath / Azrek / Asarak / Aserach" → **Acerak**; "Keintoli / Cane Tolis / Can Toli" → **Cain Toli**; "Gion / Gian" (74–81) → **Jeon** (Prince Jeon); "Salimor" (162) → **Salinmoor**.
+"Whale Sun" (2) → **Wealsun**; "Azzagon / Agath / Azrek / Asarak / Acerak" → **Acerak**; "Keintoli / Cane Tolis / Can Toli" → **Cain Toli**; "Gion / Gian" (74–81) → **Jeon** (Prince Jeon); "Salimor" (162) → **Salinmoor**.
 
 ## Speaker discontinuities
 - raw00 carries DM narration and Owen with no tag change.
