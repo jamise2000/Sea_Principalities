@@ -80,6 +80,51 @@ The literal path by which a Suel-forged relic reached Suel hands, and the events
 
 ---
 
+## Who Knows, and From Whom — In-World Knowledge Ledger
+
+Tracks when each character first hears of the artifact and the turtle dragons, and from whom, so later chapters don't have anyone "learn" something they already know (or know something they were never told). No one in-world yet knows the thing is an **Orb**; all references are to "an artifact" or "a talisman." Compiled from a pass through Book One (Ch. 1–47) and Book Two Ch. 1–3.
+
+### Book One
+
+**Jude**
+- **Ch. 2, *Owen Black's Passage* — an Oeridian wine merchant in Redshore:** rumor that "some sorcerer had turned a sea monster loose among the islands off Monmurg's strait," so that no Principality ship can pass north unmolested.
+- **Ch. 2 — Owen Black, aboard his smuggling boat:** Jude says he has heard tell of a sea monster in these waters and asks Owen about it. Owen guesses it is "one of the turtle dragons out of the Dragon Isles" and describes strange mists and storms out there. **Later that night**, near dawn, Jude spots the fortress-island, points, and asks what it is; Owen: "An old fort… A Toli princeling holds it now. Ships come and go from there at all hours." Owen does **not** tie the storms to the fleet's sallies.
+- **Ch. 2 — the tanner, on the road from Ensar to Monmurg:** confirms the fortress-island, gives the name **Cain Toli**, and tells Jude the Monmurg fleet sallied twice and was driven back by storms that broke "with suspicious punctuality." This is Jude's first link between the storms and the sallies.
+- **Ch. 3, *The Better Vintage* — Lord Jamis, over Zafar's wine, on Jude's first night back:** the first explicit naming of the artifact. Phranck read it from a dying Toli assassin's mind: "An artifact that **I** believe controls one of the turtle dragons out of the Dragon Isles. The greatest of them — the very one we've paid our tribute to for a hundred and fifty years. I'd not say so to any man but a wizard — say it in council and they'd think the blockade had turned my wits." The belief is Jamis's own, and he tells it to Jude **because Jude is a wizard**. Jamis also confirms the fort is Cain Toli's island.
+- **Ch. 14, *Orders for the Helm* — Jamis (Paul present):** only the unnatural fog over the Helm; the artifact is not mentioned.
+
+**Gouge**
+- **Before the book opens:** he and Karmirg guarded Lord Phranck when the four Toli assassins struck on the docks; Phranck read a dying attacker's mind in the aftermath (reported secondhand in Ch. 3). The Book Two transcript (`Judes_conversation_w_Jamis_end_3rd_Wealsun`) has Jamis say Gouge "was able to trick Lord Phranck into telling him about it" — i.e., Gouge may be the **original source**. Book One never dramatizes this.
+- **Ch. 13, *Summoned to the Harbor Office* — Jamis:** describes the fog and "something vast coming out of the mist," and asks outright, "Is this Cain Toli's doing, Gouge?" Gouge: "I couldn't say" (reads as withholding).
+- **Ch. 43, *What Gouge and Merrick Told Jamis* — Jamis:** told as a fear he can barely credit: "I've pieced together something I can scarcely credit, even as I say it — that Cain Toli **may** hold some artifact, some relic of the old kind, that commands one of the turtle dragons… Call it a rumor. Call it an old man's fear in a hard season. But **if there's anything in it**, that is what rises against our fleets when they sally."
+
+**Merrick**
+- **Ch. 13 — Jamis:** hears of the fog and the ghost ships, and raises the fleet's own rumors himself ("Something's holding us back, and that's where the ghost stories start"). No artifact.
+- **Ch. 43 — Jamis:** learns of the artifact and the turtle dragon, together with Gouge.
+
+**Lord Jamis**
+- Knows from the start. Sources in Book One: **Phranck**, "and others" (Ch. 3, Ch. 43).
+
+**Paul**
+- **Ch. 14:** only the fog. **Ch. 17, *The Corsair*:** only common knowledge that turtle dragons are "said to nest" in the cold northern waters.
+- **Never told of the artifact in Book One.**
+
+**Tyrus and Folsom**
+- Nothing on the artifact. In Ch. 44 (*Cider at the Barracks*) they hear Owen talk about Cain Toli, Phranck and Turtle Island, but not the artifact.
+
+**Prince Jeon**
+- Present at the Ch. 11 council but does not discuss it in Book One. By Book Two he knows of it (below), presumably briefed by Jamis offstage.
+
+### Book Two (Ch. 1–3)
+
+- **Paul — Ch. 1, *The Prince's Charge* — Prince Jeon:** his first hearing. Jeon speaks of "some magical talisman Cain Toli holds with him," blames it for ships lost that should not have been, and says Jamis has ideas about it.
+- **Jude — Ch. 3, *The Tower and the Storm to Come* — Jamis:** a second hearing. Jude says he already knows ("You told me the night I came home") and doubts it — "a great deal to hang on the last thoughts of a dying man," filtered through an Inquisitor. Jamis admits he asked the same question, and is **not certain**: he asks whether the artifact and "some beast Cain Toli holds with it" explain the lost ships, and sets Jude to learn "that artifact, and whether it actually exists." His Dragon Isles warning is hedged: "if my worst fears are true."
+
+### Continuity notes
+- **Jamis never states the artifact as fact.** In Book One he calls it his own belief, one he would voice only to a wizard (Ch. 3), and then a rumor or fear he can scarcely credit (Ch. 43). In Book Two he still doubts it (Ch. 3: "whether it actually exists"; "if my worst fears are true"). Keep him in that register until the story confirms it.
+- In Book Two, Jamis treats the artifact as his leading theory, not a proven fact. Keep him uncertain until the story confirms it.
+- If the transcript's "Gouge tricked Phranck" detail is wanted on the page, it can be restored in Book Two Ch. 3; it would also explain Gouge's evasive "I couldn't say" in Book One Ch. 13.
+
 ## Appendix — Game Mechanics (author reference only; NOT for the prose)
 
 Recorded verbatim from canon so the effects stay consistent. Per the craft rule, none of this — DCs, charges, saves, damage dice — appears in the narrative; it is rendered by effect only.

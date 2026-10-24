@@ -23,6 +23,7 @@ A roster of named-but-minor characters — their names, positions, affiliations,
 - **Affiliation / relations:** Independent scholar-alchemist; **mentor to Leslie** (took him on despite his being Oeridian).
 - **Status:** **Dead** — killed in the **Scarlet Brotherhood's** night raid on his shop (Book Two, 4th Wealsun).
 - **Appears:** 4th Wealsun — the "Alchemist" of `Jude_and_Paul_visit_Alchemist`, `Jude_in_Alchemy_shop`, `Jude_combat`, `Leslies_introduction`, and `Paul_examines_Alchemists_body`; named "Albashon" in `Leslies_introduction`.
+- **Secret knowledge:** One of the very few who know that **Zafar Azane** and his sister (Lady Jamis) descend from the vanished great Suel house **Azani** — and he knows **Paul's** lineage far better than Paul does (Book 2 Ch. 8: "You do not use the name Azani?").
 - **Note:** The cast files label him "Alchemist (NPC)"; his name is **Albashon**. He is the "Alchemist" throughout the 4th-Wealsun sequence.
 
 ### Captain Cross

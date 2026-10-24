@@ -28,11 +28,15 @@ They ran without lights through waters thick with anchored merchantmen, Owen thr
 
 “There’s not much west of Angler Island,” Owen said, when Jude asked after the low smudge of land visible off the port bow. “Saltmarsh has docks now, if you believe it. New lord there, trying to make something of the place.”
 
-“And the sea monster the merchant spoke of?”
+“I’ve heard tell of a sea monster in these waters,” Jude said. “Something that takes ships north of the strait. Do you know anything of it?”
 
-Owen was quiet a moment too long before he answered. “If there’s truth in that rumor, I’d wager on one of the sea turtles out of the Dragon Isles. I’ve sailed past them myself. Strange storms out there — a mist once, thick as a hurricane, in a sea too shallow to breed one honestly.” He nodded toward a point on the dark water Jude could barely make out, low clouds clinging to the horizon at the very edge of sight. “And there — do you see it? An old fort, built a hundred and fifty years back against the sahaugin. A Toli princeling holds it now. Ships come and go from there at all hours, and every time the Monmurgian fleet tries to sally in force, that’s when the storms come up.”
+Owen was quiet a moment too long before he answered. “If there’s truth in that rumor, I’d wager on one of the turtle dragons out of the Dragon Isles. I’ve sailed past them myself. Strange storms out there — a mist once, thick as a hurricane, in a sea too shallow to breed one honestly.”
 
-Jude set the fort alongside the sea turtle and the mist and the burning of Port Torvin, one more piece in a shape he did not yet have enough pieces to see clearly, and said nothing more of consequence until Owen’s men put the longboat over the side within sight of Ensar’s rocky beach, near dawn.
+They ran on through the dark. Toward the end of the night, with the sky just beginning to grey in the east, Jude made out a shape on the water well off the starboard bow — something low and square-shouldered that was not rock, with a single light burning in it and low clouds clinging to the horizon behind. He pointed. “That island. What is it?”
+
+Owen followed his arm, and was slow to answer. “An old fort, built a hundred and fifty years back against the sahaugin. A Toli princeling holds it now. Ships come and go from there at all hours.”
+
+Jude set the fort alongside the turtle dragon and the mist and the burning of Port Torvin, one more piece in a shape he did not yet have enough pieces to see clearly, and said nothing more of consequence until Owen’s men put the longboat over the side within sight of Ensar’s rocky beach, near dawn.
 
 “When you reach the city,” Owen said, taking the second half of his fee, “put in a good word for me with whoever you’ve come to see. Tell them Owen Black is well in Monmurg, and means to keep it so. That’s the only message I need carried.”
 

@@ -19,8 +19,8 @@ Three separate things share the word "Toli"; keep them distinct, and when connec
 | **Cain Toli** | The individual antagonist (single person) | Kane, Cain, Cane, "Kane Toli", "Kane Tolley", "Cain Tolley", "Kane totally", "Can't totally", "King Toli", "Keitoly" |
 | **Sacnon Toli** | Prince of Port Toli; head of the Toli house; **Cain Toli's leader** | "Sacknon" — **NOT** Sikondforth/Sconforth (those = the **Viscount of Burle**, a separate house) |
 | **Jeon** | Prince of Monmurg (Jeon II) | John, Geon, Jean, Gian, Gion, Percian |
-| **Lord Jamis** | Monmurg's spymaster; Commodore of the fleet | Jameson, Jameis, James, Janison |
-| **Lady Jamis** | Lord Jamis's wife; styled **Lady Azane**; Suel house name **Azani**; sister of Zafar Azane | Lady Azane |
+| **Lord Jamis** | Monmurg's spymaster; Admiral of the fleet | Jameson, Jameis, James, Janison |
+| **Lady Jamis** | Lord Jamis's wife; styled **Lady Azane**; sister of Zafar Azane; secretly of the ancient **Azani** line | Lady Azane |
 | **Grayson Jamis** | Son of Lord & Lady Jamis; author of *The Homunculi*; **Paul's father**; deceased | Grayson |
 | **Zafar Azane** | Lithomancer; runs Gradsul's Office of Forbidden Magic; Lady Jamis's brother; **one of the two greatest transmuters in Keoland** | Safar Azane, Zepharo Zane, Zafar Hazane |
 | **Edium Nicond** | **The other of the two greatest transmuters in Keoland** | Ediem Nakhond, "Eem" |
@@ -51,10 +51,12 @@ Three separate things share the word "Toli"; keep them distinct, and when connec
 |---|---|
 | **Magnum Opus** | The foundational **transmutation treatise**, written in **Ancient Suel** by **Ujor Udias** (who later took the name "Acerak"). It is **Albashon's working text** and the book from which he taught **Leslie** to read Ancient Suel. Per `Leslies_introduction` it is described as ~1,000 years old; the Ujor Udias entry dates his orb-work ~600 years ago — treat the *Magnum Opus* as his older/foundational work, and **author to reconcile the exact age** if it matters. |
 
-## Houses and blood — the Azani thread (foreshadowing, held back in-world)
+## Houses and blood — the Azani thread (author ruling; held back in-world)
 
-- **Azani** is the Suel family name of **Lady Jamis** and her brother **Zafar Azane** ("Azane" is the common rendering of the same house).
-- **Paul** is (through his probable father Grayson Jamis, son of Lady Jamis) of Azani blood — **but he does not know it.** When the alchemist **Albashon** assumes Paul is kin to Zafar Azane and Lady Jamis and asks whether he uses "the name **Azani**," that is **foreshadowing**, not a fact Paul holds. Keep Paul's lineage a thing he guards or has not yet learned.
+- **Azani ≠ Azane.** The **Azani** were an ancient Suel dynasty — **one of the ten great Suel houses** — that has **long since disappeared** from history. **Azane** is the family name borne openly by **Zafar Azane** and his sister **Lady Jamis** ("Lady Azane").
+- **The secret:** Zafar Azane and his sister are **descendants of the Azani dynasty** — a fact **almost nobody in the world knows.**
+- **Albashon** (the transmuter) is one of the very few who know Zafar's true lineage, and he **also knows Paul's** — far better than Paul does.
+- **Paul does not recognize the word "Azani" at all.** He knows the name *Azane* (Grayson's letters; Lady Jamis, Book One Ch. 7–8), but "Azani" means nothing to him. When Albashon asks "You do not use the name Azani?" (Book 2 Ch. 8), it is **foreshadowing**: Albashon is testing what Paul knows, and learns that Paul knows nothing of it.
 
 ## Places — canonical spelling & variants
 

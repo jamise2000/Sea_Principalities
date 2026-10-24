@@ -523,7 +523,7 @@ In the city of Monmurg the prince rules
 through a council of advisors made up of the
 merchants, scholars and military leaders that
 reside in the city. The most influential is Lord
-Jamis, commodore of the fleet of Monmurg
+Jamis, admiral of the fleet of Monmurg
 and commander of the Harbor District. The
 Prince trusts Lord Jamis implicitly and relies
 on him to coordinate the security and defense
@@ -617,8 +617,7 @@ accommodate as many as one-hundred or so
 ships at a time and it is often at full capacity
 especially during the trading season during
 high summer.
-This district is run by Lord Jamis,
-Commodore of the Prince of Monmurg, who is
+This district is run by Lord Jamis, Admiral of the Prince of Monmurg, who is
 the senior military commander under the
 command of Prince Jeon II. In addition to
 commanding a squadron of twelve of
