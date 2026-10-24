@@ -233,7 +233,7 @@ Author rulings on the anti-sahaugin powder (recorded in `worldbuilding/The_Anti-
 - **Transcript says:** in the alchemist scene, Albashon names the great Keoland transmuter "**Zafar Zane**" (`Wealsun/4th/Jude_in_Alchemy_shop`, line 274).
 - **Canon:** his name is **Zafar Azane** (`worldbuilding/magic_system.md`, `characters/Jamis.md`, Name Normalization Key). Normalized in that line at the author's instruction. (The Book One transcript `Wealsun/3rd/Party_considers_options` line 872 still reads "Zafar Zane"; leave for the Book One cleanup pass.)
 
-## Book 2 Ch. 7-era — Jamis names the great Suel houses (added dialogue)
+## Book 2 Ch. 3 — Jamis names the great Suel houses (added dialogue)
 
 - **Author addition (speaker-review pass):** in `Wealsun/3rd/Judes_conversation_w_Jamis`, Jamis's answer about who Keoland's civil war is "between" was extended from "Well, the Dukes." to **"Well, the Dukes, and the great Suel Houses of that nation."** — tying the succession conflict to the great Suel houses (see `Name_Normalization_Key.md`, "The great Suel houses"). Content change to the raw transcript, made deliberately.
 
@@ -657,3 +657,38 @@ Speaker-tag character-lock applied. Cabin scene, Helm exposition-heavy, 239 line
 - Body normalization APPLIED: Duke of Gratzel->Duke of Gradsul; Red Shore(56)->Redshore.
 - Noted for prose: King James/Jameis/Jameson/Jamison->Lord Jamis; Prince Jean/Gion->Prince Jeon; soul/Seul/Sioux->Suel; House of Rola->House Rola; Portoli->Port Toli; Carver(24)/Slurgood(200,202)/"us Iradians"(206)/"I think you are Brian"(171) = ASR garbles TBC.
 - gm(3): 36-38 Folsom con check. oob(2): 27-28 DM OOC.
+
+
+## Structural — Book 2 Ch. 1–8 rewritten from the cleaned working transcripts (2026-09-29)
+
+- **What changed:** Book Two Ch. 1–8 were redrafted in full from the first eleven entries of `transcripts/transcripts.working.lst`, using the cleaned, character-locked speaker tags and cast mappings. Originals are preserved unedited in `manuscript/The_Scarlet_Thread_book2_chapters/_backup_2026-09-29_pre_transcript_rewrite/` (the three retired filenames also in `_superseded_2026-09-29/`).
+- **Re-cut:** the long `Jude_Paul_confer` session now spans **Ch. 4 *What Paul Wanted*** (Fairwind, the caches, the wrong-signal deduction, the gills) and a new **Ch. 5 *A Web Worth Cultivating*** (Jude's lessons on building a network; Jude leaves the gills and powder with Albashon). The old one-page **Ch. 7 *What Paul Knew of the Toli*** is folded into the opening of **Ch. 7 *The Wager***. *The First Cantrip* moves from Ch. 5 to **Ch. 6**; *The Wager* from Ch. 6 to **Ch. 7**. Ch. 1–3 and Ch. 8 keep their numbers and titles. README, CONTINUITY.md, and the `Book 2 Ch. N` citations in `magic_system.md` were updated.
+- **Attribution fixes from the cleaned tags (the old draft had these wrong):** in Ch. 2, "They answer to me" is Jamis's; in the training chapter, the wish to learn magic, the homunculus, and the Toli "rogue mages" line are **Paul's**, not Jude's; on the dungeon stair the "Mother's dead, father never loved me" jibe is **Jude's** at Paul (Jude.md corrected); the "every Toli to Jerlea Bay" rage is Jude's own (per the author ruling in `Transcript_Questions_to_Resolve.md`).
+- **Timeline:** all of Ch. 4–8 is the **4th of Wealsun** (confer in the morning; training from early afternoon to about the eighth hour; the alchemist a little after eight), not "some days after" / "the next evening" as the old draft had it.
+- **Deliberate departures kept or applied:** Jeon's "300 Marines" → **two hundred and fifty** (Book One Ch. 14–17 corsair complement); barrels = **25 in all, 4 rafted + 21 left in the grotto**; supply cutoff = **~40 years** (Jamis in Ch. 3 corrects the transcript's "twenty/twenty-five"; Jude repeats it in Ch. 8); Albashon tastes only a **diluted** solution (he does not put raw powder on his tongue) and Paul supplies the inhalation warning; "Baron of Redlaw" = **the Earl of Redshore**; "Sikondforth" = **Sacnon**; Jude's "Eldorian wood" homeland omitted (non-canon); the homunculus is **remade, not lost**, if destroyed (author ruling), replacing the transcript's "if it dies, it dies."
+- **Setting inferences (not in the transcripts verbatim):** the teaching room is in Lord Jamis's residence, which adjoins the palace (Book One Ch. 8's connecting passage); Jude drops the gills and powder with Albashon late on the morning of the 4th (the transcripts imply he had delivered samples before the evening visit); Jude receives the tower keys at Jamis's residence that afternoon; the unnamed "fool who stopped halfway across the plank" is left unnamed.
+
+## Author ruling — Azani is not Azane (2026-09-29)
+
+- **Azani** = an ancient Suel dynasty, one of the ten great houses, long vanished. **Azane** = the family name of Zafar Azane and Lady Jamis, who secretly descend from the Azani (known to almost no one; Albashon knows, and knows Paul's lineage better than Paul). Supersedes the earlier ledger wording that treated "Azane" as a rendering of "Azani."
+- **Book 2 Ch. 8 revised:** Paul does not recognize "Azani" at all ("I've never heard it"); Albashon is testing him. Ledgers updated: `Name_Normalization_Key.md`, `characters/Paul.md`, `characters/Jamis.md`.
+
+## Author ruling — Lord Jamis is an admiral, not a commodore (2026-09-29)
+
+- Lord Jamis's title is **Admiral of the fleet of Monmurg**; "Commodore" is superseded for Jamis. Updated: Book 2 Ch. 2, `Jamis.md`, `Jeon.md`, `Gouge.md`, `Merrick.md`, `Name_Normalization_Key.md`, `The_Navy_of_the_Sea_Principalities.md`, `The_Sea_Principalities.md`. The outer isles' *commodores* (who elect their princes) are a separate office and unchanged.
+
+## Book One revisions — the artifact kept as belief/rumor (2026-09-29)
+
+- **Ch. 2:** Jude now raises the sea-monster rumor himself; Owen's "sea turtles" → "turtle dragons"; the fort exchange moved later in the night and is prompted by Jude pointing at the island; Owen no longer links the storms to the fleet's sallies (the tanner supplies that).
+- **Ch. 3:** Jamis: "an artifact that **I** believe controls…" and he would voice it to no one but a wizard.
+- **Ch. 43:** Jamis presents the artifact as something he can scarcely credit — "may hold," "Call it a rumor… an old man's fear," "if there's anything in it."
+- Originals saved as `BOOK1_Chapter_0x/43_*.md` in `manuscript/The_Scarlet_Thread_book2_chapters/_backup_2026-09-29_pre_transcript_rewrite/`. Ledgers updated: `The_Orb_of_the_Dragon_Turtle.md`, `The_Dragon_Isles.md`, `characters/Owen_Black.md`.
+
+## Structural — Book 2 opening recast and chapters renumbered (2026-10-03)
+
+- **What changed:** the former Ch. 2 (*A Vintage from Keoland*) and Ch. 3 (*The Tower and the Storm to Come*), Jude's evening conversation with Jamis, were replaced by a single chapter, **Ch. 1 — *The Better Bargain***. Jude, alone, explores the old pirate watchtower Jamis has given him on the headland over the Strait of Monmurg in the small hours of 4 Wealsun, and recalls the conversation, with selected quotes, compressed and re-weighted (debrief/losses summarized as routine; Fairwind/treason agreed in brief; Keoland, food and the waters as passing thought; powder in one paragraph with the foreign-district alchemist as Jude's starting lead; Paul at the center; then Cain Toli, the artifact, the slave trade, the Scarlet Brotherhood; closing reflection on Zafar's wine and the Idee tower). Jude goes there after spending the evening in the Royal Library and finding Gouge and the Marines drinking at Ferd's.
+- **Cut from the page:** the kill-list exchange (Jamis refusing to have Fairwind assassinated), the Tyrus probe, and most of the remembered dialogue. The old chapters are archived in `manuscript/The_Scarlet_Thread_book2_chapters/_superseded_2026-10-03/`.
+- **Renumbering:** old Ch. 1 (*The Prince's Charge*) → Ch. 2; old Ch. 4–8 → Ch. 3–7. Earlier entries in this log cite the old numbers.
+- **Paul's debrief with Jeon moved to the morning of 4 Wealsun** (Ch. 2). The corsair still docks on the evening of the 3rd; Jude goes to Jamis that night, but Paul is sent to his rooms and summoned by the prince at first light, so Jamis has Jude's, Gouge's and Merrick's accounts before Jeon hears Paul's. Ch. 3 adjusted to match ("This morning, at first light").
+- **Ch. 3 retitled** *What Jeon Wanted* (was *What Paul Wanted*); file renamed `Chapter_03_What_Jeon_Wanted.md`.
+- **Open continuity point:** Ch. 5 (*The First Cantrip*) still has Jude "walked through" the tower in the early afternoon of the 4th, after Ch. 1 has him explore it alone before dawn. Ch. 1 is now set (4 Wealsun, before dawn) ahead of Ch. 2 (evening of 3 Wealsun) in reading order.

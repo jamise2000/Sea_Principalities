@@ -25,6 +25,8 @@ A roster of named-but-minor characters — their names, positions, affiliations,
 - **Appears:** 4th Wealsun — the "Alchemist" of `Jude_and_Paul_visit_Alchemist`, `Jude_in_Alchemy_shop`, `Jude_combat`, `Leslies_introduction`, and `Paul_examines_Alchemists_body`; named "Albashon" in `Leslies_introduction`.
 - **Appearance:** Extremely old; recognizably human but otherwise hard to place, **mole-like, with large spectacles**. Greets customers with a doubled phrase ("Can I help you, can I help you!"). A **miser**: he hates parting with gold, though he gives his work away freely to the poor (`worldbuilding/Albashons_Journal.md`, ruling 15). He thinks in alchemical symbols when strangers are near, so a mind-reader sees sigils instead of thoughts (`worldbuilding/Albashons_Journal.md`, 15th of Readying, 576 CY).
 - **Note:** The cast files label him "Alchemist (NPC)"; his name is **Albashon**. He is the "Alchemist" throughout the 4th-Wealsun sequence. His spellbook, annotated *Magnum Opus* and journal are in `worldbuilding/Albashons_Knowledge_Box.md` and `worldbuilding/Albashons_Journal.md`.
+- **Secret knowledge:** One of the very few who know that **Zafar Azane** and his sister (Lady Jamis) descend from the vanished great Suel house **Azani** — and he knows **Paul's** lineage far better than Paul does (Book 2 Ch. 8: "You do not use the name Azani?").
+- **Note:** The cast files label him "Alchemist (NPC)"; his name is **Albashon**. He is the "Alchemist" throughout the 4th-Wealsun sequence.
 
 ### Captain Cross
 - **Position:** A ship's captain — a **historical figure** of Monmurg's past.
