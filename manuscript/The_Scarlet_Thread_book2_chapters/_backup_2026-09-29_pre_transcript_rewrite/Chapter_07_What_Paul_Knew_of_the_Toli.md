@@ -1,0 +1,7 @@
+# Chapter Seven — What Paul Knew of the Toli
+
+Alone in his own rooms that night, turning the day over before sleep finally claimed him, Paul found himself circling back to a gap in his own education — not of magic, but of the wider politics his uncle moved through daily, and which he himself understood only in broad, half-formed strokes.
+
+He knew Monmurg for what it was: a city-state among several, Fairwind and Flotsom and Jetsom each their own island holding, and Toli a city-state in its own right, ruled by Prince Sacnon and set somewhat apart from the others by the old Suel blood that ran through its royal line, though counted an equal among the five principalities all the same — Toli, Fairwind, Flotsom, Jetsom, and Monmurg. Beyond those five sat two powers who held no vote in council, yet wielded influence enough to shape everything around them regardless: the Duke of Berghof, whose lands supplied the yellow powder that had for a century and a half kept the sahaugin from these shores, and the power of Westkeep, who held the northern reach along the Hool River.
+
+It was a shape of the world Paul had always known in outline, the way a man knows the walls of a house he's lived in his whole life without ever counting the stones — but turning it over now, with Fairwind's betrayal fresh in his mind and Zafar Azane's name lodged somewhere he couldn't quite dislodge it, the outline felt suddenly a good deal less solid than it had a week before.

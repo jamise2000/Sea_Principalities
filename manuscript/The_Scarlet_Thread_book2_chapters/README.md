@@ -11,9 +11,10 @@
 
 3. [Chapter Three — What Jeon Wanted](Chapter_03_What_Jeon_Wanted.md)
 4. [Chapter Four — A Web Worth Cultivating](Chapter_04_A_Web_Worth_Cultivating.md)
-5. [Chapter Five — The First Cantrip](Chapter_05_The_First_Cantrip.md)
-6. [Chapter Six — The Wager](Chapter_06_The_Wager.md)
-7. [Chapter Seven — Copper and Sulfur](Chapter_07_Copper_and_Sulfur.md)
+5. [Chapter Five — The Hunger in Him](Chapter_05_The_Hunger_in_Him.md)
+6. [Chapter Six — The First Cantrip](Chapter_06_The_First_Cantrip.md)
+7. [Chapter Seven — The Wager](Chapter_07_The_Wager.md)
+8. [Chapter Eight — Copper and Sulfur](Chapter_08_Copper_and_Sulfur.md)
 
 ---
 
